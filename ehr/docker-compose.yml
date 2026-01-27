@@ -1,0 +1,38 @@
+version: '3.8'
+services:
+  db:
+    image: postgres:15-alpine
+    container_name: fhir-db
+    environment:
+      POSTGRES_DB: hapi
+      POSTGRES_USER: hapi
+      POSTGRES_PASSWORD: password
+    volumes:
+      - hapi_data:/var/lib/postgresql/data
+
+  fhir-server:
+    image: hapiproject/hapi:latest
+    container_name: fhir-server
+    restart: on-failure
+    ports:
+      - "8080:8080"
+    environment:
+      # Database Connection
+      SPRING_DATASOURCE_URL: jdbc:postgresql://db:5432/hapi
+      SPRING_DATASOURCE_USERNAME: hapi
+      SPRING_DATASOURCE_PASSWORD: password
+      SPRING_DATASOURCE_DRIVER_CLASS_NAME: org.postgresql.Driver
+      
+      # THE FIX: Explicitly set the SQL Dialect
+      SPRING_JPA_PROPERTIES_HIBERNATE_DIALECT: org.hibernate.dialect.PostgreSQLDialect
+      
+      # Force Hibernate to create/update the schema on startup
+      SPRING_JPA_HIBERNATE_DDL_AUTO: update
+      
+      # FHIR Version
+      HAPI_FHIR_FHIR_VERSION: R4
+    depends_on:
+      - db
+
+volumes:
+  hapi_data:
