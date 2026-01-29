@@ -19,6 +19,28 @@ services:
       retries: 5
     restart: unless-stopped
 
+  platform_ui:
+    build:
+      context: ./platform/ui
+    container_name: platform_ui
+    environment:
+      # Vite dev server proxy: backend is platform_web:5000 inside Docker network
+      VITE_PROXY_TARGET: http://platform_web:5000
+      VITE_API_BASE_URL: http://localhost:3000
+      VITE_API_URL: http://localhost:3000/api/v1
+    ports:
+      - "3000:3000"
+    volumes:
+      # Mount source code for hot reloading in development
+      - ./platform/ui/src:/app/src:ro
+      - ./platform/ui/public:/app/public:ro
+      - ./platform/ui/index.html:/app/index.html:ro
+      - ./platform/ui/package.json:/app/package.json:ro
+      - ./platform/ui/vite.config.ts:/app/vite.config.ts:ro
+    depends_on:
+      - platform_web
+    restart: unless-stopped
+
   platform_web:
     build:
       context: ./platform
@@ -31,6 +53,10 @@ services:
       DATABASE_NAME: platform
       DATABASE_USER: platform
       DATABASE_PASSWORD: platform_dev_password
+      # Optional: default admin created on first startup (skipped if user exists)
+      DEFAULT_ADMIN_USERNAME: admin
+      DEFAULT_ADMIN_EMAIL: admin@example.com
+      DEFAULT_ADMIN_PASSWORD: admin
     ports:
       - "8080:80"
     volumes:

@@ -6,10 +6,50 @@
 # ==========================================
 # PLATFORM-SPECIFIC PATTERNS
 # ==========================================
+# Platform UI (React/TypeScript)
 platform/ui/node_modules/
 platform/ui/dist/
+platform/ui/build/
+platform/ui/.cache/
+platform/ui/.parcel-cache/
+platform/ui/coverage/
+platform/ui/*.log
+platform/ui/npm-debug.log*
+platform/ui/yarn-debug.log*
+platform/ui/yarn-error.log*
+
+# Platform Backend (Python)
 platform/.venv/
+platform/venv/
+platform/env/
 platform/__pycache__/
+platform/*.pyc
+platform/*.pyo
+platform/.pytest_cache/
+platform/.coverage
+platform/htmlcov/
+platform/.mypy_cache/
+platform/.ruff_cache/
+platform/instance/
+platform/webassets-cache
+platform/db.sqlite3
+platform/db.sqlite3-journal
+platform/*.log
+
+# Platform Docker and deployment
+platform/nginx/logs/
+platform/nginx/temp/
+platform/logs/
+platform/*.pid
+platform/.env.local
+platform/.env.production
+
+# Platform IDE and tools
+platform/.vscode/
+platform/.idea/
+platform/*.swp
+platform/*.swo
+platform/*~
 
 # ==========================================
 # DIRECTORY-SPECIFIC PATTERNS (only in named directories)

@@ -59,9 +59,9 @@ COPY --from=ui-build /app/ui/dist ./ui/dist
 COPY nginx.conf ./nginx.conf
 COPY nginx.prod.conf ./nginx.prod.conf
 
-# Copy startup script
-COPY start.sh ./start.sh
-RUN chmod +x ./start.sh
+# Copy startup script and fix line endings (CRLF -> LF) for Linux
+COPY start.sh /opt/start.sh
+RUN sed -i 's/\r$//' /opt/start.sh && chmod +x /opt/start.sh
 
 # Create nginx directories
 RUN mkdir -p /var/log/nginx /var/lib/nginx/body /run
@@ -93,5 +93,5 @@ EXPOSE 80
 HEALTHCHECK --interval=30s --timeout=10s --start-period=5s --retries=3 \
     CMD curl -f http://localhost/health || exit 1
 
-# Start services
-CMD ["./start.sh"]
+# Start services (use bash explicitly so CRLF line endings don't break exec)
+CMD ["/bin/bash", "/opt/start.sh"]
