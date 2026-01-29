@@ -4,6 +4,14 @@
 # No redundancies: Directory-aware where needed, global where safe
 
 # ==========================================
+# PLATFORM-SPECIFIC PATTERNS
+# ==========================================
+platform/ui/node_modules/
+platform/ui/dist/
+platform/.venv/
+platform/__pycache__/
+
+# ==========================================
 # DIRECTORY-SPECIFIC PATTERNS (only in named directories)
 # ==========================================
 # Frontend dependencies and build outputs
@@ -47,6 +55,7 @@ Thumbs.db
 
 # Security: Environment files (ignore everywhere)
 .env
+.env.prod
 .envrc
 .env.development.local
 .env.test.local

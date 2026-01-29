@@ -59,3 +59,62 @@ A monorepo containing frontend and backend components for medical audit system.
 - `refactor:` - Code refactoring
 - `test:` - Testing
 - `chore:` - Maintenance
+
+
+
+## Platform Setup
+
+The platform provides a web application with a Flask backend, React frontend, and PostgreSQL database.
+
+### Prerequisites
+
+- Docker and Docker Compose v2 (**get v2**)
+  - `sudo apt install docker-compose-v2`
+- (Optional) Node.js 20+ and Python 3.11+ for local development
+  - Find commands to install nvm then run `nvm install node`
+
+### Quick Start
+
+```bash
+# Build and start all containers0
+sudo docker compose up --build
+
+# The application will be available at:
+# - Web UI: http://localhost:8080
+# - API: http://localhost:8080/api
+# - Database: localhost:5432
+```
+
+### Create Your First User
+
+```bash
+# Interactive mode (preferred to keep passwords secure)
+sudo docker compose exec -it platform_web uv run platform-cli create-user
+
+# Or non-interactive
+sudo docker compose exec platform_web uv run platform-cli create-user \
+  --username admin \
+  --email admin@example.com \
+  --password yourpassword \
+  --admin
+```
+
+### Development with Hot Reloading
+
+The development setup automatically reloads when you make changes:
+
+- **Backend changes**: Edit files in `platform/backend/` - Flask will reload automatically
+- **Frontend changes**: Edit files in `platform/ui/src/` - Vite HMR updates the browser instantly
+
+
+### Stopping the Application
+
+```bash
+# Stop containers
+sudo docker compose down
+
+# Stop and remove data volumes
+sudo docker compose down -v
+```
+
+See `platform/README.md` for detailed documentation on migrations, CLI commands, API endpoints, and production deployment.
