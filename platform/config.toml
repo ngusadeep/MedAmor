@@ -1,5 +1,5 @@
-# Platform Configuration
-# This file contains configuration settings for the platform
+# MedArmor Configuration
+# This file contains configuration settings for the application
 
 [database]
 host = "platform_db"

@@ -1,6 +1,6 @@
-# Platform
+# MedArmor
 
-A web application platform built with Flask, React, TypeScript, and PostgreSQL.
+A medical audit web application built with Flask, React, TypeScript, and PostgreSQL.
 
 ## Project Structure
 
@@ -35,31 +35,17 @@ platform/
 └── start.sh                # Container startup script
 ```
 
-
-
-
 ## Database Migrations
 
 ```bash
 # Run migrations
-sudo docker-compose exec platform_web uv run alembic upgrade head
+docker compose exec platform_web uv run alembic upgrade head
 
 # Create a new migration after model changes
 docker compose exec platform_web uv run alembic revision --autogenerate -m "description"
 ```
 
-
-
-
-
-
-## Database Migrations
-
-This project uses Alembic for database migrations.
-
-**NOTE**: Migrations run automatically during build, so
-the migrations will rarely need to be run
-
+**NOTE**: Migrations run automatically during startup, so manual migration is rarely needed.
 
 ### Running Migrations
 
@@ -76,7 +62,6 @@ docker compose exec platform_web uv run alembic current
 docker compose exec platform_web uv run alembic history
 ```
 
-
 ### Creating New Migrations
 
 **Auto-generate from model changes:**
@@ -85,25 +70,12 @@ docker compose exec platform_web uv run alembic history
 docker compose exec platform_web uv run alembic revision --autogenerate -m "description of changes"
 ```
 
-
 ### Rollback Migrations
-
-Look up alembic notes for more rollback options
 
 ```bash
 # Rollback one migration
 docker compose exec platform_web uv run alembic downgrade -1
 ```
-
-
-
-## Configuration
-
-Edit `platform/config.toml` to configure the application:
-
-
-
-
 
 ## User Management CLI
 
@@ -127,7 +99,6 @@ docker compose exec platform_web uv run platform-cli create-user \
   --admin
 ```
 
-
 ### List Users
 
 ```bash
@@ -145,33 +116,11 @@ docker compose exec platform_web uv run platform-cli init-db
 | Method | Endpoint | Description |
 |--------|----------|-------------|
 | GET | `/health` | Health check |
-| GET | `/api/users` | List all users |
-| GET | `/api/users/:id` | Get user by ID |
-| POST | `/api/users` | Create new user |
-| PUT | `/api/users/:id` | Update user |
-| DELETE | `/api/users/:id` | Delete user |
+| POST | `/api/auth/login` | User authentication |
 
 ## Configuration
 
-Edit `config.toml` to configure the application:
-
-```toml
-[database]
-host = "platform_db"
-port = 5432
-name = "platform"
-user = "platform"
-password = "platform_dev_password"
-
-[server]
-host = "0.0.0.0"
-port = 5000
-debug = true
-secret_key = "change-this-in-production"
-
-[security]
-password_hash_rounds = 12
-```
+Edit `config.toml` to configure the application.
 
 Environment variables can override config file settings:
 - `DATABASE_HOST`
@@ -262,7 +211,6 @@ services:
       platform_db:
         condition: service_healthy
     restart: always
-    # No volume mounts - uses built code
 
 volumes:
   platform_db_data:

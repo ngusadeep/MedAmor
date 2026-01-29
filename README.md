@@ -76,7 +76,7 @@ The platform provides a web application with a Flask backend, React frontend, an
 ### Quick Start
 
 ```bash
-# Build and start all containers0
+# Build and start all containers
 sudo docker compose up --build
 
 # The application will be available at:
