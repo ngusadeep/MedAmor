@@ -14,7 +14,8 @@ export default defineConfig({
     port: 3000,
     proxy: {
       "/api": {
-        target: "http://localhost:5000",
+        // In Docker use VITE_PROXY_TARGET=http://platform_web:5000
+        target: process.env.VITE_PROXY_TARGET ?? "http://localhost:5000",
         changeOrigin: true,
       },
     },

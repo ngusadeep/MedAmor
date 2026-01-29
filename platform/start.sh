@@ -10,10 +10,14 @@ while ! nc -z ${DATABASE_HOST:-platform_db} ${DATABASE_PORT:-5432}; do
 done
 echo "Database is ready!"
 
-# Run migrations
+# Run migrations (idempotent: only pending migrations run)
 echo "Running database migrations..."
 cd /app
 uv run alembic upgrade head
+
+# Ensure default admin user exists (skips if user already exists or env not set)
+echo "Ensuring default admin user..."
+uv run python -m backend.startup
 
 # Start Flask backend with hot reload in development
 echo "Starting Flask backend..."

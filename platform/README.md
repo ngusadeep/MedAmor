@@ -9,6 +9,7 @@ platform/
 ├── backend/                 # Flask backend
 │   ├── __init__.py
 │   ├── app.py              # Flask application factory
+│   ├── startup.py          # Automated startup: default user (idempotent)
 │   ├── cli.py              # CLI commands for user management
 │   ├── config.py           # Configuration loader
 │   ├── database.py         # Database setup
@@ -35,79 +36,66 @@ platform/
 └── start.sh                # Container startup script
 ```
 
-## Database Migrations
+## Automated Startup
+
+On every container start (`platform_web`), the following run **automatically** and are **idempotent** (safe to run repeatedly):
+
+1. **Database migrations** – `alembic upgrade head` runs. Only pending migrations are applied; if the database is already up to date, nothing runs.
+2. **Default admin user** – If env vars `DEFAULT_ADMIN_USERNAME`, `DEFAULT_ADMIN_EMAIL`, and `DEFAULT_ADMIN_PASSWORD` are set, a user is created **only if** that username/email does not already exist. If the user exists or env vars are not set, this step is skipped.
+
+No manual migration or user creation is required for first run. Set the default admin in `docker-compose.yml` (or env) and start the stack:
 
 ```bash
-# Run migrations
-docker compose exec platform_web uv run alembic upgrade head
-
-# Create a new migration after model changes
-docker compose exec platform_web uv run alembic revision --autogenerate -m "description"
+docker compose up -d
 ```
 
-**NOTE**: Migrations run automatically during startup, so manual migration is rarely needed.
+Default admin (from root `docker-compose.yml`): `admin` / `admin@example.com` / `admin` (change in production).
 
-### Running Migrations
+### Default User Environment Variables
 
-**Recommended via docker:**
+| Variable | Description |
+|----------|-------------|
+| `DEFAULT_ADMIN_USERNAME` | Username for the default admin (create only if not set: skip) |
+| `DEFAULT_ADMIN_EMAIL` | Email for the default admin |
+| `DEFAULT_ADMIN_PASSWORD` | Password for the default admin |
+| `DEFAULT_ADMIN_FIRST_NAME` | Optional; default `Admin` |
+| `DEFAULT_ADMIN_LAST_NAME` | Optional; default `User` |
+
+If any of the three required vars are missing, default user creation is skipped.
+
+---
+
+## Manual Operations (Optional)
+
+Use these only when you need to create new migrations, roll back, or manage users beyond the default admin.
+
+### Migrations
 
 ```bash
-# Run all pending migrations
-docker compose exec platform_web uv run alembic upgrade head
-
 # Check current migration status
 docker compose exec platform_web uv run alembic current
 
 # View migration history
 docker compose exec platform_web uv run alembic history
-```
 
-### Creating New Migrations
+# Create a new migration after model changes
+docker compose exec platform_web uv run alembic revision --autogenerate -m "description"
 
-**Auto-generate from model changes:**
-
-```bash
-docker compose exec platform_web uv run alembic revision --autogenerate -m "description of changes"
-```
-
-### Rollback Migrations
-
-```bash
 # Rollback one migration
 docker compose exec platform_web uv run alembic downgrade -1
 ```
 
-## User Management CLI
-
-Create and manage users via the command line.
-
-### Create a User
-
-**Interactive mode:**
+### User Management CLI
 
 ```bash
+# Create a user (interactive or with flags)
 docker compose exec -it platform_web uv run platform-cli create-user
-```
+docker compose exec platform_web uv run platform-cli create-user --username bob --email bob@example.com --password secret --admin
 
-**Non-interactive mode:**
-
-```bash
-docker compose exec platform_web uv run platform-cli create-user \
-  --username admin \
-  --email admin@example.com \
-  --password yourpassword \
-  --admin
-```
-
-### List Users
-
-```bash
+# List users
 docker compose exec platform_web uv run platform-cli list-users
-```
 
-### Initialize Database Tables
-
-```bash
+# Initialize database tables (only if not using migrations)
 docker compose exec platform_web uv run platform-cli init-db
 ```
 
@@ -123,12 +111,9 @@ docker compose exec platform_web uv run platform-cli init-db
 Edit `config.toml` to configure the application.
 
 Environment variables can override config file settings:
-- `DATABASE_HOST`
-- `DATABASE_PORT`
-- `DATABASE_NAME`
-- `DATABASE_USER`
-- `DATABASE_PASSWORD`
+- `DATABASE_HOST`, `DATABASE_PORT`, `DATABASE_NAME`, `DATABASE_USER`, `DATABASE_PASSWORD`
 - `SECRET_KEY`
+- `DEFAULT_ADMIN_USERNAME`, `DEFAULT_ADMIN_EMAIL`, `DEFAULT_ADMIN_PASSWORD` (see Automated Startup)
 
 ## Development
 
