@@ -12,7 +12,7 @@ sys.path.insert(0, str(Path(__file__).parent.parent.parent))
 
 from backend.config import get_database_url
 from backend.database import db
-from backend.models import User  # noqa: F401 - Import models for metadata
+from backend.models import User, Report  # noqa: F401 - Import models for metadata
 
 # this is the Alembic Config object
 config = context.config

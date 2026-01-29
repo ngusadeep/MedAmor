@@ -3,7 +3,7 @@
 from flask import Blueprint, jsonify, request
 
 from .database import db
-from .models import User
+from .models import User, Report
 
 api_bp = Blueprint("api", __name__)
 
@@ -40,3 +40,17 @@ def login():
             "is_admin": user.is_admin,
         }
     })
+
+
+@api_bp.route("/reports", methods=["GET"])
+def get_reports():
+    """Get all reports."""
+    reports = Report.query.order_by(Report.date_of_finding.desc()).all()
+    return jsonify([report.to_dict() for report in reports])
+
+
+@api_bp.route("/reports/<int:report_id>", methods=["GET"])
+def get_report(report_id: int):
+    """Get a specific report by ID."""
+    report = Report.query.get_or_404(report_id)
+    return jsonify(report.to_dict())
