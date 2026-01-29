@@ -1,0 +1,19 @@
+# Platform Configuration
+# This file contains configuration settings for the platform
+
+[database]
+host = "platform_db"
+port = 5432
+name = "platform"
+user = "platform"
+password = "platform_dev_password"
+
+[server]
+host = "0.0.0.0"
+port = 5000
+debug = true
+secret_key = "change-this-in-prod-r4nd0m-h4rd-t0-6u355"
+
+[security]
+# Password hashing settings
+password_hash_rounds = 12
