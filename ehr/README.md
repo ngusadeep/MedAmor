@@ -44,6 +44,20 @@ Navigate back to the directory with this README and run
 ```
 
 
+### See some data
+
+Run this curl to find a patient to get data for (you can remove the `| jq ...` to see the patient object)
+
+```
+curl -s "http://localhost:9080/fhir/Patient?_count=1&_pretty=true" | jq '.entry[0].resource.id'
+```
+
+Take the output from that, I got 26171, and put it into the URL below to retrieve the full patient chart:
+
+```
+curl "http://localhost:9080/fhir/Patient/26171/\$everything?_pretty=true"
+```
+
 
 
 ### Pre-reqs
