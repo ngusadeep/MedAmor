@@ -1,0 +1,122 @@
+version: '3.8'
+
+services:
+  # Platform Database
+  platform_db:
+    image: postgres:16-alpine
+    container_name: platform_db
+    environment:
+      POSTGRES_USER: platform
+      POSTGRES_PASSWORD: platform_dev_password
+      POSTGRES_DB: platform
+    volumes:
+      - platform_db_data:/var/lib/postgresql/data
+    ports:
+      - "5432:5432"
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U platform -d platform"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+    restart: unless-stopped
+
+  platform_ui:
+    build:
+      context: ./platform/ui
+    container_name: platform_ui
+    environment:
+      # Vite dev server proxy: backend is platform_web:5000 inside Docker network
+      VITE_PROXY_TARGET: http://platform_web:5000
+      VITE_API_BASE_URL: http://localhost:3000
+      VITE_API_URL: http://localhost:3000/api/v1
+    ports:
+      - "3000:3000"
+    volumes:
+      # Mount source code for hot reloading in development
+      - ./platform/ui/src:/app/src:ro
+      - ./platform/ui/public:/app/public:ro
+      - ./platform/ui/index.html:/app/index.html:ro
+      - ./platform/ui/package.json:/app/package.json:ro
+      - ./platform/ui/vite.config.ts:/app/vite.config.ts:ro
+    depends_on:
+      - platform_web
+    restart: unless-stopped
+
+  # Platform Web Application
+  platform_web:
+    build:
+      context: ./platform
+      dockerfile: Dockerfile
+    container_name: platform_web
+    environment:
+      FLASK_ENV: development
+      DATABASE_HOST: platform_db
+      DATABASE_PORT: 5432
+      DATABASE_NAME: platform
+      DATABASE_USER: platform
+      DATABASE_PASSWORD: platform_dev_password
+      # Optional: default admin created on first startup (skipped if user exists)
+      DEFAULT_ADMIN_USERNAME: admin
+      DEFAULT_ADMIN_EMAIL: admin@example.com
+      DEFAULT_ADMIN_PASSWORD: admin
+    ports:
+      - "8080:80"
+    volumes:
+      # Mount source code for hot reloading
+      - ./platform/backend:/app/backend:ro
+      - ./platform/ui/src:/app/ui/src:ro
+      - ./platform/ui/public:/app/ui/public:ro
+      - ./platform/config.toml:/app/config.toml:ro
+    depends_on:
+      platform_db:
+        condition: service_healthy
+    restart: unless-stopped
+
+  # HAPI FHIR Database
+  hapi_db:
+    image: postgres:15-alpine
+    container_name: hapi_db
+    environment:
+      POSTGRES_DB: hapi
+      POSTGRES_USER: hapi
+      POSTGRES_PASSWORD: hapi_dev_password
+    volumes:
+      - hapi_db_data:/var/lib/postgresql/data
+    ports:
+      - "5433:5432"
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U hapi -d hapi"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+    restart: unless-stopped
+
+  # HAPI FHIR Server
+  hapi_fhir:
+    image: hapiproject/hapi:latest
+    container_name: hapi_fhir
+    ports:
+      - "9080:8080"
+    environment:
+      # Database Connection
+      SPRING_DATASOURCE_URL: jdbc:postgresql://hapi_db:5432/hapi
+      SPRING_DATASOURCE_USERNAME: hapi
+      SPRING_DATASOURCE_PASSWORD: hapi_dev_password
+      SPRING_DATASOURCE_DRIVER_CLASS_NAME: org.postgresql.Driver
+      SPRING_DATASOURCE_HIKARI_CONNECTION_TIMEOUT: "60000"
+      # SQL Dialect
+      SPRING_JPA_PROPERTIES_HIBERNATE_DIALECT: org.hibernate.dialect.PostgreSQLDialect
+      # Hibernate schema management
+      SPRING_JPA_HIBERNATE_DDL_AUTO: update
+      # FHIR Configuration
+      HAPI_FHIR_FHIR_VERSION: R4
+      HAPI_FHIR_OPENAPI_ENABLED: "true"
+      HAPI_FHIR_TESTER_HOME_SERVER_ADDRESS: http://localhost:9080/fhir
+    depends_on:
+      hapi_db:
+        condition: service_healthy
+    restart: unless-stopped
+
+volumes:
+  platform_db_data:
+  hapi_db_data:
