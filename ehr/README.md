@@ -1,35 +1,11 @@
 # Notes
 
-## Hapi Server
-I (CL) ran this on Ubuntu 24.04.2
+Run the docker compose up --build command as described in the
+top level README - this will create the Hapi FHIR server. Note
+that it took several minutes without any output before the
+server became available
 
-Install docker
-```
-sudo apt update
-sudo apt install -y docker-compose
-``
-
-See the version
-```
-docker-compose version
-```
-
-My output - it does not have to match your's, but if
-there are issues, this is a possible reason
-
-```
-docker-compose version 1.29.2, build unknown
-docker-py version: 5.0.3
-CPython version: 3.12.3
-OpenSSL version: OpenSSL 3.0.13 30 Jan 2024
-```
-
-Get docker running Postgres and the Hapi FHIR server
-```
-sudo docker-compose up -d
-```
-
-Test it out, run this on your host machine
+To test the server is running, execute the following:
 
 ```
 curl -X GET "http://localhost:8080/fhir/metadata"
@@ -37,6 +13,54 @@ curl -X GET "http://localhost:8080/fhir/metadata"
 
 
 ## Making data
+
+### Using Synthea
+
+This is a two step process:
+
+1. Generate data
+2. Upload data
+
+We go to the synthea directory and run it using the RNG seed of
+12345 to get a deterministic output
+
+```
+./run_synthea -p 25 -s 12345
+```
+
+This generates files in ./output/fhir. I (CL) have synthea located
+in ~/src/synthea so data is in ~/src/synthea/output/fhir
+
+Verify you have a `hospitalInformation1769758307877.json` - if so,
+your data maches mine (CL)
+
+Navigate back to the directory with this README and run
+
+```
+./upload_fhir.sh <path/to/output/fhir/dir>
+
+# For example
+./upload_fhir.sh ~/src/synthea/output/fhir
+```
+
+
+### See some data
+
+Run this curl to find a patient to get data for (you can remove the `| jq ...` to see the patient object)
+
+```
+curl -s "http://localhost:9080/fhir/Patient?_count=1&_pretty=true" | jq '.entry[0].resource.id'
+```
+
+Take the output from that, I got 26171, and put it into the URL below to retrieve the full patient chart:
+
+```
+curl "http://localhost:9080/fhir/Patient/26171/\$everything?_pretty=true"
+```
+
+
+
+### Pre-reqs
 
 If you have java installed, jump down to synthea cloning
 
@@ -65,21 +89,4 @@ To clone synthea, run the following
 git clone git@github.com:synthetichealth/synthea.git
 # I was at commit 7187764
 ```
-
-And run it using the RNG seed of 12345 for deterministic output
-
-```
-./run_synthea -p 25 -s 12345
-```
-
-
-```
-for file in output/fhir/*.json; do
-  echo "Uploading $file..."
-  curl -X POST -H "Content-Type: application/fhir+json" \
-       --data-binary "@$file" \
-       http://localhost:8080/fhir
-done
-```
-
 
