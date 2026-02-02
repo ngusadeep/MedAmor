@@ -6,45 +6,59 @@ FastAPI backend for the MedAudit medical audit system.
 
 1. **Install dependencies:**
    ```bash
-   pip install -e .
+   uv sync
+   # or: pip install -e .
    ```
 
 2. **Environment setup:**
    ```bash
    cp .env.example .env
-   # Edit .env with your configuration
+   # Edit .env if needed (PostgreSQL required; project root for EHR mock)
    ```
 
 3. **Run the server:**
    ```bash
-   python main.py
-   ```
-
-   Or with uvicorn:
-   ```bash
-   uvicorn main:app --reload
+   uv run uvicorn main:app --reload --host 0.0.0.0 --port 8000
+   # or: python main.py
    ```
 
 ## API Documentation
 
-Once running, visit:
-- API docs: http://localhost:8000/docs
-- Alternative docs: http://localhost:8000/redoc
-- Health check: http://localhost:8000/health
+Once running:
+- **OpenAPI (Swagger):** http://localhost:8000/docs
+- **ReDoc:** http://localhost:8000/redoc
+- **Health:** http://localhost:8000/health
+
+## Phase 1 API (Foundation)
+
+- **POST /jobs** — Create audit job (body: `patient_id`, optional `export_type`, `triggered_by`).
+- **GET /jobs** — List jobs (query: `patient_id`, `status`).
+- **GET /jobs/{job_id}** — Get one job.
+- **GET /audit-reports** — List audit reports (query: `job_id`, `patient_id`).
+- **GET /audit-reports/{report_id}** — Get one report.
+- **GET /audit-reports/by-job/{job_id}** — Get report for a job.
+- **GET /ehr/patients** — List patients in mock EHR (EHR-DATA_* folders).
+- **GET /ehr/patients/{patient_id}** — Get patient EHR text (query: `export_type`, default `full`).
 
 ## Development
 
 - Python 3.12+
-- FastAPI framework
+- FastAPI, Pydantic v2, Pydantic Settings
+- SQLAlchemy 2, PostgreSQL
 - Uvicorn ASGI server
-- Pydantic for data validation
 
 ## Project Structure
 
 ```
 backend/
-├── main.py          # FastAPI application
-├── pyproject.toml   # Project configuration
-├── .env.example     # Environment variables template
-└── README.md        # This file
+├── app/
+│   ├── core/           # config, database
+│   ├── models/         # Job, AuditReport
+│   ├── schemas/        # Pydantic request/response, EHR
+│   ├── routers/       # jobs, audit_reports, ehr
+│   └── services/      # ehr_mock
+├── main.py
+├── pyproject.toml
+├── .env.example
+└── README.md
 ```
