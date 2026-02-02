@@ -7,11 +7,17 @@ from typing import Literal
 from pydantic_settings import BaseSettings, SettingsConfigDict
 
 
-class Settings(BaseSettings):
-    """Settings loaded from env; see backend/.env.example."""
+def _root_env_path() -> Path:
+    """Repo root (parent of backend/). Used so backend loads root .env."""
+    return Path(__file__).resolve().parents[3] / ".env"
 
+
+class Settings(BaseSettings):
+    """Settings loaded from root .env; see repo root .env.example."""
+
+    _env_path = _root_env_path()
     model_config = SettingsConfigDict(
-        env_file=".env",
+        env_file=[str(_env_path)] if _env_path.exists() else [],
         env_file_encoding="utf-8",
         case_sensitive=False,
         extra="ignore",
