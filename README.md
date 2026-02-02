@@ -52,10 +52,16 @@ A monorepo containing frontend and backend components for medical audit system.
 
 ## Commit Convention
 
+We use [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/). Format: `<type>[scope]: <description>`.
+
 - `feat:` - New features
 - `fix:` - Bug fixes
 - `docs:` - Documentation
-- `style:` - Code style changes
+- `style:` - Code style (formatting, no logic change)
 - `refactor:` - Code refactoring
-- `test:` - Testing
-- `chore:` - Maintenance
+- `perf:` - Performance
+- `test:` - Tests
+- `chore:` - Maintenance, deps, tooling
+- `build:` / `ci:` - Build or CI config
+
+Scope examples: `feat(backend): add auth`, `fix(frontend): table sort`. See **docs/PROJECT_STANDARDS.md** for full conventions.

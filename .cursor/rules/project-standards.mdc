@@ -1,0 +1,31 @@
+---
+description: MedAudit project structure, naming, and conventions
+alwaysApply: true
+---
+
+# MedAudit Project Standards
+
+## Repo layout
+
+- **backend/** — FastAPI app: routers, schemas, services, DB, Celery, RAG, MedGemma integration.
+- **frontend/** — React + Vite + shadcn: `src/app/` (pages), `src/components/`, `src/config/`, API client.
+- **docs/** — PROJECT_PLAN.md, Medical_KB (Documentation, SOPs, User_Manuals, FAQs).
+- **EHR-DATA_***/ — Sample EHR exports per patient (`.txt` timeline); mock API serves these.
+
+Branching: `main`, `develop`; features as `feature/frontend/...` or `feature/backend/...`. PRs target `develop`.
+
+## Naming
+
+- **Backend**: lowercase with underscores (files, dirs, modules). Example: `audit_reports.py`, `user_routes.py`.
+- **Frontend**: PascalCase for components/pages; camelCase for locals; kebab-case for URLs and CSS where applicable.
+- **Env**: `BACKEND_*` / `VITE_*` in `.env`; document in `.env.example` (no secrets in repo).
+
+## Conventions
+
+- **Commits**: Conventional Commits only (see conventional-commits rule): `feat:`, `fix:`, `docs:`, etc., with scope when relevant.
+- **Backend**: Python 3.12+; type hints and Pydantic; async where appropriate; see fastapi-expert rule for backend/**/*.py.
+- **Frontend**: TypeScript; use existing shadcn components and `src/config/routes.tsx` for routing.
+- **APIs**: REST; JSON request/response; auth via JWT (Authorization header). Audit payload: job_id, patient_id, status (NO_FINDINGS / FINDING_PRESENT), findings, evidence, corrective actions.
+- **Docs**: Keep PROJECT_PLAN.md and Medical_KB up to date when changing scope or KB content.
+
+Full structure and checklist are in **docs/PROJECT_STANDARDS.md**.

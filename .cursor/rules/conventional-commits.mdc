@@ -1,0 +1,58 @@
+---
+description: Git commit messages follow Conventional Commits (conventionalcommits.org)
+alwaysApply: true
+---
+
+# Conventional Commits
+
+All commit messages MUST follow the [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) specification.
+
+## Format
+
+```
+<type>[optional scope]: <description>
+
+[optional body]
+
+[optional footer(s)]
+```
+
+- **type** (required): `feat`, `fix`, `docs`, `style`, `refactor`, `perf`, `test`, `chore`, `build`, `ci`, or `revert`.
+- **scope** (optional): area of codebase, e.g. `backend`, `frontend`, `auth`, `api`.
+- **description** (required): short, imperative summary (e.g. "add login endpoint", not "added login endpoint").
+- **body** (optional): detailed explanation; wrap at 72 chars.
+- **footer** (optional): e.g. `BREAKING CHANGE:`, `Refs: #123`.
+
+## Types
+
+| Type | Use for |
+|------|--------|
+| `feat` | New feature (SemVer MINOR). |
+| `fix` | Bug fix (SemVer PATCH). |
+| `docs` | Documentation only. |
+| `style` | Formatting, whitespace; no code change. |
+| `refactor` | Code change that is not a fix or feature. |
+| `perf` | Performance improvement. |
+| `test` | Adding or updating tests. |
+| `chore` | Maintenance, deps, tooling. |
+| `build` | Build system or external deps. |
+| `ci` | CI config or scripts. |
+| `revert` | Revert a prior commit; add `Refs: <commit SHA>`. |
+
+## Examples
+
+```
+feat(backend): add JWT auth and /auth/login endpoint
+fix(frontend): correct audit table sort by date
+docs: update PROJECT_PLAN with Kaggle evaluation criteria
+refactor(api): extract audit payload into Pydantic model
+test(backend): add tests for EHR parser
+chore: bump FastAPI to 0.115
+```
+
+## Breaking changes
+
+- In **footer**: `BREAKING CHANGE: description` or `BREAKING CHANGE:` in body.
+- In **type/scope**: append `!` before the colon, e.g. `feat(api)!: remove legacy /v1 prefix`.
+
+Do not use vague messages like "update code" or "fix bug"; always give a clear, imperative description.
