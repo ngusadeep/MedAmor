@@ -53,3 +53,19 @@ class AuditReportResponse(BaseModel):
     corrective_actions: list | None
     next_audit_date: datetime | None
     created_at: datetime
+
+
+class AuditReportExportRow(BaseModel):
+    """One row for Kaggle / evaluation export (flat, submission-friendly)."""
+
+    id: str
+    job_id: str
+    patient_id: str
+    status: str
+    risk_level: str | None
+    executive_summary: str | None
+    findings_json: str | None
+    evidence_json: str | None
+    corrective_actions_json: str | None
+    next_audit_date: datetime | None
+    created_at: datetime

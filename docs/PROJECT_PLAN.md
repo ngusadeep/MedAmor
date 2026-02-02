@@ -85,6 +85,12 @@ Hackathon: Med Gemma Impact Challenge | Full working MVP
 
 **Deliverable:** Qdrant up; KB indexed; retrieval endpoint that returns context for a patient.
 
+**Implemented:**
+- **2.1** Chunking: ~512 tokens (2048 chars, 256 overlap); separators `\n## `, `\n### `, `\n\n`; metadata `source`, `document_name`, `document_type` (from KB folder: Documentation, SOPs, User_Manuals, FAQs). Stored in Qdrant payload.
+- **2.2** Embeddings: FastEmbed (BAAI/bge-small-en-v1.5); Qdrant for storage. ClinicalBERT/GPT-3 optional later.
+- **2.3** Indexing: `POST /api/rag/index`; CLI `python scripts/index_kb.py` from repo root (runs backend indexer via uv).
+- **2.4** Retrieval: `GET /api/rag/retrieve?query=...&k=5`; optional `patient_id` and `export_type` return `kb_chunks` + `patient_ehr_excerpt` for audit context.
+
 ---
 
 ### Phase 3 — Audit engine (MedGemma)
@@ -127,6 +133,10 @@ Hackathon: Med Gemma Impact Challenge | Full working MVP
 - **6.2** Align output with **Kaggle evaluation**: once you share metrics/submission format, we add any scoring script or export (e.g. CSV/JSON for submission) and tune prompts/output shape if needed.
 
 **Deliverable:** Reproducible run on 5 samples; output compatible with competition.
+
+**Implemented:**
+- **5 sample patients:** Run `python scripts/generate_sample_ehr_patients.py` from repo root to create EHR-DATA_51675_* … EHR-DATA_51678_* from the template (51674). Mock EHR then lists 5 patients.
+- **Kaggle export:** `GET /api/audit-reports/export` (JSON) and `GET /api/audit-reports/export/csv` (CSV). Auth required. Flat fields: id, job_id, patient_id, status, risk_level, executive_summary, findings_json, evidence_json, corrective_actions_json, next_audit_date, created_at.
 
 ---
 

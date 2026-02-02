@@ -106,7 +106,7 @@ services:
     restart: unless-stopped
 
   postgres:
-    image: postgres:18-alpine
+    image: postgres:15-alpine
     container_name: medaudit-postgres
     env_file: .env
     environment:

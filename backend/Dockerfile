@@ -1,5 +1,5 @@
-# MedAudit Backend - Python 3.12
-FROM python:3.12-slim-bookworm
+# MedAudit Backend - Python 3.12, deps via uv
+FROM ghcr.io/astral-sh/uv:python3.12-bookworm-slim
 
 WORKDIR /app
 
@@ -8,18 +8,27 @@ RUN apt-get update && apt-get install -y --no-install-recommends \
     libpq5 \
     && rm -rf /var/lib/apt/lists/*
 
-# Copy project files
-COPY pyproject.toml ./
+# Omit dev dependencies
+ENV UV_NO_DEV=1
+
+# Copy dependency files first (better layer cache)
+COPY pyproject.toml uv.lock ./
+
+# Install dependencies only (no project yet)
+RUN --mount=type=cache,target=/root/.cache/uv \
+    uv sync --frozen --no-install-project
+
+# Copy application code
 COPY main.py ./
 COPY app/ ./app/
 
-# Install application and dependencies
-RUN pip install --no-cache-dir --upgrade pip \
-    && pip install --no-cache-dir "uvicorn[standard]>=0.24.0" \
-    && pip install --no-cache-dir .
+# Install the project
+RUN --mount=type=cache,target=/root/.cache/uv \
+    uv sync --frozen
 
 ENV PYTHONUNBUFFERED=1
 ENV PYTHONDONTWRITEBYTECODE=1
+ENV PATH="/app/.venv/bin:$PATH"
 
 EXPOSE 8000
 

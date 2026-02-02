@@ -19,12 +19,13 @@ export default function JobStatusPage() {
 
   useEffect(() => {
     if (!jobId) return
+    const id = jobId
     let cancelled = false
     async function poll() {
       try {
         const [jobRes, reportRes] = await Promise.all([
-          jobsApi.get(jobId),
-          auditReportsApi.getByJob(jobId),
+          jobsApi.get(id),
+          auditReportsApi.getByJob(id),
         ])
         if (cancelled) return
         setJob(jobRes.data)
@@ -40,10 +41,10 @@ export default function JobStatusPage() {
       }
     }
     poll()
-    const id = setInterval(poll, POLL_INTERVAL_MS)
+    const intervalId = setInterval(poll, POLL_INTERVAL_MS)
     return () => {
       cancelled = true
-      clearInterval(id)
+      clearInterval(intervalId)
     }
   }, [jobId])
 
