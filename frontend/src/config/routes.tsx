@@ -13,6 +13,11 @@ const Users = lazy(() => import('@/app/users/page'))
 const FAQs = lazy(() => import('@/app/faqs/page'))
 const Pricing = lazy(() => import('@/app/pricing/page'))
 
+// MedAudit audits
+const AuditsPage = lazy(() => import('@/app/audits/page'))
+const AuditDetailPage = lazy(() => import('@/app/audits/detail-page'))
+const JobStatusPage = lazy(() => import('@/app/audits/job-page'))
+
 // Auth pages
 const SignIn = lazy(() => import('@/app/auth/sign-in/page'))
 const SignIn2 = lazy(() => import('@/app/auth/sign-in-2/page'))
@@ -46,11 +51,10 @@ export interface RouteConfig {
 }
 
 export const routes: RouteConfig[] = [
-  // Default route - redirect to dashboard
-  // Use relative path "dashboard" instead of "/dashboard" for basename compatibility
+  // Default route - redirect to audits (MedAudit main app)
   {
     path: "/",
-    element: <Navigate to="dashboard" replace />
+    element: <Navigate to="audits" replace />
   },
 
   // Landing Page
@@ -99,6 +103,20 @@ export const routes: RouteConfig[] = [
   {
     path: "/pricing",
     element: <Pricing />
+  },
+
+  // MedAudit audits (protected in app)
+  {
+    path: "/audits",
+    element: <AuditsPage />
+  },
+  {
+    path: "/audits/:id",
+    element: <AuditDetailPage />
+  },
+  {
+    path: "/audits/job/:jobId",
+    element: <JobStatusPage />
   },
 
   // Authentication Routes

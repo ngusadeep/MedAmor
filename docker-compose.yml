@@ -1,49 +1,109 @@
 # MedAudit - Docker Compose
 # Uses root .env for config. Copy .env.example to .env and adjust.
+#
+# Just run (no build):  docker compose up
+#   Starts only postgres, qdrant, rabbitmq (pull + run). Run backend and frontend on the host.
+#
+# Full stack in Docker: docker compose --profile app up --build
+#   Also starts backend, frontend, celery-worker (build required first time).
 
 services:
-  nginx:
-    image: nginx:1.27-alpine
-    container_name: medaudit-nginx
-    ports:
-      - "${NGINX_PORT:-80}:80"
-    volumes:
-      - ./nginx/nginx.conf:/etc/nginx/conf.d/default.conf:ro
-    depends_on:
-      - backend
-      - frontend
-    restart: unless-stopped
-
   backend:
+    profiles: ["app"]
     build:
       context: ./backend
       dockerfile: Dockerfile
     image: medaudit-backend:latest
     container_name: medaudit-backend
+    ports:
+      - "${BACKEND_PORT:-8000}:8000"
     env_file: .env
     environment:
       DATABASE_URL: postgresql://${POSTGRES_USER:-postgres}:${POSTGRES_PASSWORD}@postgres:5432/${POSTGRES_DB:-medaudit}
       EHR_DATA_ROOT: /data
-      ALLOWED_ORIGINS: ${ALLOWED_ORIGINS:-http://localhost,http://localhost:80}
+      ALLOWED_ORIGINS: ${ALLOWED_ORIGINS:-http://localhost:80,http://localhost:3000,http://localhost:5173,http://127.0.0.1:80,http://127.0.0.1:8000}
       ENVIRONMENT: ${ENVIRONMENT:-production}
       DEBUG: ${DEBUG:-false}
+      QDRANT_URL: http://qdrant:6333
+      CELERY_BROKER_URL: amqp://${RABBITMQ_USER:-guest}:${RABBITMQ_PASSWORD:-guest}@rabbitmq:5672/
+      MEDICAL_KB_PATH: /data/docs/Medical_KB
     volumes:
       - .:/data:ro
     depends_on:
       postgres:
         condition: service_healthy
+      qdrant:
+        condition: service_started
+      rabbitmq:
+        condition: service_healthy
+    restart: unless-stopped
+
+  celery-worker:
+    profiles: ["app"]
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    image: medaudit-backend:latest
+    container_name: medaudit-celery-worker
+    command: celery -A app.worker.celery_app worker --loglevel=info
+    env_file: .env
+    environment:
+      DATABASE_URL: postgresql://${POSTGRES_USER:-postgres}:${POSTGRES_PASSWORD}@postgres:5432/${POSTGRES_DB:-medaudit}
+      EHR_DATA_ROOT: /data
+      QDRANT_URL: http://qdrant:6333
+      CELERY_BROKER_URL: amqp://${RABBITMQ_USER:-guest}:${RABBITMQ_PASSWORD:-guest}@rabbitmq:5672/
+      HF_TOKEN: ${HF_TOKEN:-}
+    volumes:
+      - .:/data:ro
+    depends_on:
+      backend:
+        condition: service_started
+      postgres:
+        condition: service_healthy
+      qdrant:
+        condition: service_started
+      rabbitmq:
+        condition: service_healthy
+    restart: unless-stopped
+
+  qdrant:
+    image: qdrant/qdrant:v1.12.0
+    container_name: medaudit-qdrant
+    ports:
+      - "${QDRANT_PORT:-6333}:6333"
+    volumes:
+      - qdrant_data:/qdrant/storage
+    restart: unless-stopped
+
+  rabbitmq:
+    image: rabbitmq:3.13-management-alpine
+    container_name: medaudit-rabbitmq
+    ports:
+      - "${RABBITMQ_PORT:-5672}:5672"
+      - "${RABBITMQ_MGMT_PORT:-15672}:15672"
+    environment:
+      RABBITMQ_DEFAULT_USER: ${RABBITMQ_USER:-guest}
+      RABBITMQ_DEFAULT_PASS: ${RABBITMQ_PASSWORD:-guest}
+    healthcheck:
+      test: ["CMD", "rabbitmq-diagnostics", "-q", "ping"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
     restart: unless-stopped
 
   frontend:
+    profiles: ["app"]
     build:
       context: ./frontend
       dockerfile: Dockerfile
       args:
-        VITE_API_URL: ${VITE_API_URL:-/api}
+        VITE_API_URL: ${VITE_API_URL:-http://localhost:8000}
         VITE_BASENAME: ${VITE_BASENAME:-}
         VITE_GTM_ID: ${VITE_GTM_ID:-}
     image: medaudit-frontend:latest
     container_name: medaudit-frontend
+    ports:
+      - "${FRONTEND_PORT:-80}:80"
     restart: unless-stopped
 
   postgres:
@@ -67,3 +127,4 @@ services:
 
 volumes:
   postgres_data:
+  qdrant_data:

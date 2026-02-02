@@ -46,9 +46,34 @@ class Settings(BaseSettings):
     # CORS
     allowed_origins: str = "http://localhost:3000,http://localhost:5173"
 
+    # Qdrant (vector DB)
+    qdrant_url: str = "http://localhost:6333"
+    qdrant_api_key: str | None = None
+
+    # RabbitMQ / Celery
+    celery_broker_url: str = "amqp://guest:guest@localhost:5672/"
+
+    # JWT
+    jwt_secret_key: str = "change_me_jwt_secret_min_32_chars"
+    jwt_algorithm: str = "HS256"
+    jwt_expire_minutes: int = 60
+
+    # Hugging Face (MedGemma)
+    hf_token: str | None = None
+    hf_medgemma_endpoint: str | None = None
+
+    # Medical KB path (for RAG indexing); default repo docs/Medical_KB
+    medical_kb_path: str | None = None
+
     @property
     def cors_origins_list(self) -> list[str]:
         return [o.strip() for o in self.allowed_origins.split(",") if o.strip()]
+
+    @property
+    def medical_kb_path_resolved(self) -> Path:
+        if self.medical_kb_path:
+            return Path(self.medical_kb_path)
+        return Path(__file__).resolve().parents[3] / "docs" / "Medical_KB"
 
 
 @lru_cache

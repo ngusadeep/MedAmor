@@ -18,7 +18,7 @@ Base = declarative_base()
 
 def init_db() -> None:
     """Create all tables. Call once on startup."""
-    from app.models import audit_report, job  # noqa: F401
+    from app.models import audit_report, job, user  # noqa: F401
 
     Base.metadata.create_all(bind=engine)
 

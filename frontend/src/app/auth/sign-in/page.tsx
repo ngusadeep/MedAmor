@@ -1,4 +1,4 @@
-import { LoginForm1 } from "./components/login-form-1"
+import { MedAuditLoginForm } from "./components/medaudit-login-form"
 import { Logo } from "@/components/logo"
 
 export default function Page() {
@@ -9,9 +9,9 @@ export default function Page() {
           <div className="bg-primary text-primary-foreground flex size-9 items-center justify-center rounded-md">
             <Logo size={24} />
           </div>
-          ShadcnStore
+          MedAudit
         </a>
-        <LoginForm1 />
+        <MedAuditLoginForm />
       </div>
     </div>
   )
