@@ -24,8 +24,14 @@ class Settings(BaseSettings):
     # Database (PostgreSQL only)
     database_url: str = "postgresql://postgres:postgres@localhost:5432/medaudit"
 
-    # EHR mock data root (project root; contains EHR-DATA_* folders)
-    ehr_data_root: Path = Path(__file__).resolve().parents[3]
+    # EHR mock data root (project root; contains EHR-DATA_* folders). Set EHR_DATA_ROOT in Docker.
+    ehr_data_root: str | None = None
+
+    @property
+    def ehr_data_root_resolved(self) -> Path:
+        if self.ehr_data_root:
+            return Path(self.ehr_data_root)
+        return Path(__file__).resolve().parents[3]
 
     # Environment
     environment: Literal["development", "staging", "production"] = "development"

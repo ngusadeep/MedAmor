@@ -1,0 +1,17 @@
+# Root .dockerignore (used if building from repo root)
+.git/
+.gitignore
+.env
+.env.*
+!.env.example
+.venv/
+venv/
+node_modules/
+frontend/dist/
+backend/__pycache__/
+.cursor/
+*.md
+*.log
+.DS_Store
+.idea/
+.vscode/

@@ -1,0 +1,39 @@
+# Dependencies
+node_modules/
+.pnpm-store/
+
+# Build output (we build inside Docker)
+dist/
+build/
+.next/
+out/
+
+# Env and secrets
+.env
+.env.*
+!.env.example
+
+# IDE and OS
+.idea/
+.vscode/
+.DS_Store
+
+# Git and docs
+.git/
+.gitignore
+*.md
+
+# Docker
+Dockerfile
+.dockerignore
+
+# Tests and coverage
+coverage/
+*.lcov
+.nyc_output/
+
+# Misc
+*.log
+.cache/
+.parcel-cache/
+.eslintcache

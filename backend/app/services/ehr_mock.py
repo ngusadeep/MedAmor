@@ -8,7 +8,7 @@ from app.schemas.ehr import EHRPatientBundle, EHRPatientSummary
 
 
 def _ehr_root() -> Path:
-    return Path(settings.ehr_data_root)
+    return settings.ehr_data_root_resolved
 
 
 def _discover_patients() -> list[tuple[str, str, list[str]]]:
