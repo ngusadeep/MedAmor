@@ -12,8 +12,8 @@ RUN pnpm install --frozen-lockfile
 
 COPY . .
 
-# Build-time env: API base URL the browser will call (e.g. http://localhost:8000 when no reverse proxy)
-ARG VITE_API_URL=http://localhost:8000
+# Build-time env for API base URL (nginx will proxy /api to backend)
+ARG VITE_API_URL=/api
 ARG VITE_BASENAME=
 ARG VITE_GTM_ID=
 ENV VITE_API_URL=$VITE_API_URL
