@@ -34,11 +34,11 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-app.include_router(auth.router)
-app.include_router(jobs.router)
-app.include_router(audit_reports.router)
-app.include_router(ehr.router)
-app.include_router(rag.router)
+app.include_router(auth.router, prefix="/api")
+app.include_router(jobs.router, prefix="/api")
+app.include_router(audit_reports.router, prefix="/api")
+app.include_router(ehr.router, prefix="/api")
+app.include_router(rag.router, prefix="/api")
 
 
 @app.get("/")

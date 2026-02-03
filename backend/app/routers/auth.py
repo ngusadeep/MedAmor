@@ -1,4 +1,4 @@
-"""Auth API: login (JWT), optional logout."""
+"""Auth API: signup, login (JWT), logout."""
 
 from fastapi import APIRouter, Depends, HTTPException, Response, status
 from sqlalchemy.orm import Session
@@ -7,7 +7,7 @@ from app.core.database import get_db_session
 from app.core.deps import get_current_user_required
 from app.core.security import create_access_token, hash_password, verify_password
 from app.models.user import User
-from app.schemas.auth import LoginRequest, TokenResponse, UserResponse
+from app.schemas.auth import LoginRequest, SignUpRequest, TokenResponse, UserResponse
 
 router = APIRouter(prefix="/auth", tags=["auth"])
 
@@ -27,6 +27,37 @@ def _ensure_demo_user(db: Session) -> User:
         db.commit()
         db.refresh(user)
     return user
+
+
+@router.post("/signup", response_model=TokenResponse)
+def signup(
+    body: SignUpRequest,
+    response: Response,
+    db: Session = Depends(get_db_session),
+):
+    """Create a new user. Username must be unique (e.g. email)."""
+    if db.query(User).filter(User.username == body.username).first():
+        raise HTTPException(
+            status_code=status.HTTP_400_BAD_REQUEST,
+            detail="Username already registered",
+        )
+    user = User(
+        username=body.username,
+        hashed_password=hash_password(body.password),
+    )
+    db.add(user)
+    db.commit()
+    db.refresh(user)
+    token = create_access_token(user.id)
+    response.set_cookie(
+        key="access_token",
+        value=token,
+        httponly=True,
+        secure=False,
+        samesite="lax",
+        max_age=3600 * 24,
+    )
+    return TokenResponse(access_token=token)
 
 
 @router.post("/login", response_model=TokenResponse)

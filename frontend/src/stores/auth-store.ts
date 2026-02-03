@@ -1,46 +1,32 @@
 import { create } from 'zustand'
-import { persist } from 'zustand/middleware'
-import { authApi } from '@/lib/api'
 
-type AuthState = {
-  accessToken: string | null
-  user: { id: string; username: string } | null
-  setToken: (token: string) => void
-  setUser: (user: { id: string; username: string } | null) => void
-  login: (username: string, password: string) => Promise<void>
-  logout: () => Promise<void>
-  loadUser: () => Promise<void>
+export interface AuthUser {
+  id: string
+  username: string
 }
 
-export const useAuthStore = create<AuthState>()(
-  persist(
-    (set, get) => ({
-      accessToken: null,
-      user: null,
-      setToken: (token) => {
-        if (typeof window !== 'undefined') localStorage.setItem('access_token', token)
-        set({ accessToken: token })
-      },
-      setUser: (user) => set({ user }),
-      login: async (username, password) => {
-        const { data } = await authApi.login(username, password)
-        get().setToken(data.access_token)
-        await get().loadUser()
-      },
-      logout: async () => {
-        try { await authApi.logout() } catch { /* ignore */ }
-        if (typeof window !== 'undefined') localStorage.removeItem('access_token')
-        set({ accessToken: null, user: null })
-      },
-      loadUser: async () => {
-        try {
-          const { data } = await authApi.me()
-          set({ user: { id: data.id, username: data.username } })
-        } catch {
-          set({ user: null })
-        }
-      },
-    }),
-    { name: 'medaudit-auth', partialize: (s) => ({ accessToken: s.accessToken, user: s.user }) }
-  )
-)
+interface AuthState {
+  auth: {
+    user: AuthUser | null
+    setUser: (user: AuthUser | null) => void
+    accessToken: string
+    setAccessToken: (token: string) => void
+    reset: () => void
+  }
+}
+
+export const useAuthStore = create<AuthState>()((set) => ({
+  auth: {
+    user: null,
+    setUser: (user) =>
+      set((state) => ({ ...state, auth: { ...state.auth, user } })),
+    accessToken: '',
+    setAccessToken: (token) =>
+      set((state) => ({ ...state, auth: { ...state.auth, accessToken: token } })),
+    reset: () =>
+      set((state) => ({
+        ...state,
+        auth: { ...state.auth, user: null, accessToken: '' },
+      })),
+  },
+}))
