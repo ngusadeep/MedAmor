@@ -74,8 +74,8 @@ export const jobsColumns: ColumnDef<Job>[] = [
       return (
         <Button variant='ghost' size='sm' asChild>
           <Link
-            to='/audits/jobs/$jobId'
-            params={{ jobId: job.id }}
+            to={'/audits/jobs/$jobId' as any}
+            params={{ jobId: job.id } as any}
             className='gap-1'
           >
             <Eye className='h-4 w-4' />

@@ -97,8 +97,8 @@ export const reportsColumns: ColumnDef<AuditReport>[] = [
       return (
         <Button variant='ghost' size='sm' asChild>
           <Link
-            to='/audits/reports/$reportId'
-            params={{ reportId: report.id }}
+            to={'/audits/reports/$reportId' as any}
+            params={{ reportId: report.id } as any}
             className='gap-1'
           >
             <Eye className='h-4 w-4' />

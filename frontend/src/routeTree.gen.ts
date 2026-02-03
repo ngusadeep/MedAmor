@@ -17,7 +17,6 @@ import { Route as errors404RouteImport } from './routes/(errors)/404'
 import { Route as errors403RouteImport } from './routes/(errors)/403'
 import { Route as errors401RouteImport } from './routes/(errors)/401'
 import { Route as authSignUpRouteImport } from './routes/(auth)/sign-up'
-import { Route as authSignIn2RouteImport } from './routes/(auth)/sign-in-2'
 import { Route as authSignInRouteImport } from './routes/(auth)/sign-in'
 import { Route as authOtpRouteImport } from './routes/(auth)/otp'
 import { Route as authForgotPasswordRouteImport } from './routes/(auth)/forgot-password'
@@ -33,6 +32,10 @@ import { Route as AuthenticatedSettingsDisplayRouteImport } from './routes/_auth
 import { Route as AuthenticatedSettingsAppearanceRouteImport } from './routes/_authenticated/settings/appearance'
 import { Route as AuthenticatedSettingsAccountRouteImport } from './routes/_authenticated/settings/account'
 import { Route as AuthenticatedErrorsErrorRouteImport } from './routes/_authenticated/errors/$error'
+import { Route as AuthenticatedAuditsReportsIndexRouteImport } from './routes/_authenticated/audits/reports/index'
+import { Route as AuthenticatedAuditsJobsIndexRouteImport } from './routes/_authenticated/audits/jobs/index'
+import { Route as AuthenticatedAuditsReportsReportIdRouteImport } from './routes/_authenticated/audits/reports/$reportId'
+import { Route as AuthenticatedAuditsJobsJobIdRouteImport } from './routes/_authenticated/audits/jobs/$jobId'
 
 const AuthenticatedRouteRoute = AuthenticatedRouteRouteImport.update({
   id: '/_authenticated',
@@ -71,11 +74,6 @@ const errors401Route = errors401RouteImport.update({
 const authSignUpRoute = authSignUpRouteImport.update({
   id: '/(auth)/sign-up',
   path: '/sign-up',
-  getParentRoute: () => rootRouteImport,
-} as any)
-const authSignIn2Route = authSignIn2RouteImport.update({
-  id: '/(auth)/sign-in-2',
-  path: '/sign-in-2',
   getParentRoute: () => rootRouteImport,
 } as any)
 const authSignInRoute = authSignInRouteImport.update({
@@ -161,13 +159,36 @@ const AuthenticatedErrorsErrorRoute =
     path: '/errors/$error',
     getParentRoute: () => AuthenticatedRouteRoute,
   } as any)
+const AuthenticatedAuditsReportsIndexRoute =
+  AuthenticatedAuditsReportsIndexRouteImport.update({
+    id: '/audits/reports/',
+    path: '/audits/reports/',
+    getParentRoute: () => AuthenticatedRouteRoute,
+  } as any)
+const AuthenticatedAuditsJobsIndexRoute =
+  AuthenticatedAuditsJobsIndexRouteImport.update({
+    id: '/audits/jobs/',
+    path: '/audits/jobs/',
+    getParentRoute: () => AuthenticatedRouteRoute,
+  } as any)
+const AuthenticatedAuditsReportsReportIdRoute =
+  AuthenticatedAuditsReportsReportIdRouteImport.update({
+    id: '/audits/reports/$reportId',
+    path: '/audits/reports/$reportId',
+    getParentRoute: () => AuthenticatedRouteRoute,
+  } as any)
+const AuthenticatedAuditsJobsJobIdRoute =
+  AuthenticatedAuditsJobsJobIdRouteImport.update({
+    id: '/audits/jobs/$jobId',
+    path: '/audits/jobs/$jobId',
+    getParentRoute: () => AuthenticatedRouteRoute,
+  } as any)
 
 export interface FileRoutesByFullPath {
   '/settings': typeof AuthenticatedSettingsRouteRouteWithChildren
   '/forgot-password': typeof authForgotPasswordRoute
   '/otp': typeof authOtpRoute
   '/sign-in': typeof authSignInRoute
-  '/sign-in-2': typeof authSignIn2Route
   '/sign-up': typeof authSignUpRoute
   '/401': typeof errors401Route
   '/403': typeof errors403Route
@@ -186,12 +207,15 @@ export interface FileRoutesByFullPath {
   '/settings/': typeof AuthenticatedSettingsIndexRoute
   '/tasks': typeof AuthenticatedTasksIndexRoute
   '/users': typeof AuthenticatedUsersIndexRoute
+  '/audits/jobs/$jobId': typeof AuthenticatedAuditsJobsJobIdRoute
+  '/audits/reports/$reportId': typeof AuthenticatedAuditsReportsReportIdRoute
+  '/audits/jobs': typeof AuthenticatedAuditsJobsIndexRoute
+  '/audits/reports': typeof AuthenticatedAuditsReportsIndexRoute
 }
 export interface FileRoutesByTo {
   '/forgot-password': typeof authForgotPasswordRoute
   '/otp': typeof authOtpRoute
   '/sign-in': typeof authSignInRoute
-  '/sign-in-2': typeof authSignIn2Route
   '/sign-up': typeof authSignUpRoute
   '/401': typeof errors401Route
   '/403': typeof errors403Route
@@ -210,6 +234,10 @@ export interface FileRoutesByTo {
   '/settings': typeof AuthenticatedSettingsIndexRoute
   '/tasks': typeof AuthenticatedTasksIndexRoute
   '/users': typeof AuthenticatedUsersIndexRoute
+  '/audits/jobs/$jobId': typeof AuthenticatedAuditsJobsJobIdRoute
+  '/audits/reports/$reportId': typeof AuthenticatedAuditsReportsReportIdRoute
+  '/audits/jobs': typeof AuthenticatedAuditsJobsIndexRoute
+  '/audits/reports': typeof AuthenticatedAuditsReportsIndexRoute
 }
 export interface FileRoutesById {
   __root__: typeof rootRouteImport
@@ -218,7 +246,6 @@ export interface FileRoutesById {
   '/(auth)/forgot-password': typeof authForgotPasswordRoute
   '/(auth)/otp': typeof authOtpRoute
   '/(auth)/sign-in': typeof authSignInRoute
-  '/(auth)/sign-in-2': typeof authSignIn2Route
   '/(auth)/sign-up': typeof authSignUpRoute
   '/(errors)/401': typeof errors401Route
   '/(errors)/403': typeof errors403Route
@@ -237,6 +264,10 @@ export interface FileRoutesById {
   '/_authenticated/settings/': typeof AuthenticatedSettingsIndexRoute
   '/_authenticated/tasks/': typeof AuthenticatedTasksIndexRoute
   '/_authenticated/users/': typeof AuthenticatedUsersIndexRoute
+  '/_authenticated/audits/jobs/$jobId': typeof AuthenticatedAuditsJobsJobIdRoute
+  '/_authenticated/audits/reports/$reportId': typeof AuthenticatedAuditsReportsReportIdRoute
+  '/_authenticated/audits/jobs/': typeof AuthenticatedAuditsJobsIndexRoute
+  '/_authenticated/audits/reports/': typeof AuthenticatedAuditsReportsIndexRoute
 }
 export interface FileRouteTypes {
   fileRoutesByFullPath: FileRoutesByFullPath
@@ -245,7 +276,6 @@ export interface FileRouteTypes {
     | '/forgot-password'
     | '/otp'
     | '/sign-in'
-    | '/sign-in-2'
     | '/sign-up'
     | '/401'
     | '/403'
@@ -264,12 +294,15 @@ export interface FileRouteTypes {
     | '/settings/'
     | '/tasks'
     | '/users'
+    | '/audits/jobs/$jobId'
+    | '/audits/reports/$reportId'
+    | '/audits/jobs'
+    | '/audits/reports'
   fileRoutesByTo: FileRoutesByTo
   to:
     | '/forgot-password'
     | '/otp'
     | '/sign-in'
-    | '/sign-in-2'
     | '/sign-up'
     | '/401'
     | '/403'
@@ -288,6 +321,10 @@ export interface FileRouteTypes {
     | '/settings'
     | '/tasks'
     | '/users'
+    | '/audits/jobs/$jobId'
+    | '/audits/reports/$reportId'
+    | '/audits/jobs'
+    | '/audits/reports'
   id:
     | '__root__'
     | '/_authenticated'
@@ -295,7 +332,6 @@ export interface FileRouteTypes {
     | '/(auth)/forgot-password'
     | '/(auth)/otp'
     | '/(auth)/sign-in'
-    | '/(auth)/sign-in-2'
     | '/(auth)/sign-up'
     | '/(errors)/401'
     | '/(errors)/403'
@@ -314,6 +350,10 @@ export interface FileRouteTypes {
     | '/_authenticated/settings/'
     | '/_authenticated/tasks/'
     | '/_authenticated/users/'
+    | '/_authenticated/audits/jobs/$jobId'
+    | '/_authenticated/audits/reports/$reportId'
+    | '/_authenticated/audits/jobs/'
+    | '/_authenticated/audits/reports/'
   fileRoutesById: FileRoutesById
 }
 export interface RootRouteChildren {
@@ -321,7 +361,6 @@ export interface RootRouteChildren {
   authForgotPasswordRoute: typeof authForgotPasswordRoute
   authOtpRoute: typeof authOtpRoute
   authSignInRoute: typeof authSignInRoute
-  authSignIn2Route: typeof authSignIn2Route
   authSignUpRoute: typeof authSignUpRoute
   errors401Route: typeof errors401Route
   errors403Route: typeof errors403Route
@@ -386,13 +425,6 @@ declare module '@tanstack/react-router' {
       path: '/sign-up'
       fullPath: '/sign-up'
       preLoaderRoute: typeof authSignUpRouteImport
-      parentRoute: typeof rootRouteImport
-    }
-    '/(auth)/sign-in-2': {
-      id: '/(auth)/sign-in-2'
-      path: '/sign-in-2'
-      fullPath: '/sign-in-2'
-      preLoaderRoute: typeof authSignIn2RouteImport
       parentRoute: typeof rootRouteImport
     }
     '/(auth)/sign-in': {
@@ -500,6 +532,34 @@ declare module '@tanstack/react-router' {
       preLoaderRoute: typeof AuthenticatedErrorsErrorRouteImport
       parentRoute: typeof AuthenticatedRouteRoute
     }
+    '/_authenticated/audits/reports/': {
+      id: '/_authenticated/audits/reports/'
+      path: '/audits/reports'
+      fullPath: '/audits/reports'
+      preLoaderRoute: typeof AuthenticatedAuditsReportsIndexRouteImport
+      parentRoute: typeof AuthenticatedRouteRoute
+    }
+    '/_authenticated/audits/jobs/': {
+      id: '/_authenticated/audits/jobs/'
+      path: '/audits/jobs'
+      fullPath: '/audits/jobs'
+      preLoaderRoute: typeof AuthenticatedAuditsJobsIndexRouteImport
+      parentRoute: typeof AuthenticatedRouteRoute
+    }
+    '/_authenticated/audits/reports/$reportId': {
+      id: '/_authenticated/audits/reports/$reportId'
+      path: '/audits/reports/$reportId'
+      fullPath: '/audits/reports/$reportId'
+      preLoaderRoute: typeof AuthenticatedAuditsReportsReportIdRouteImport
+      parentRoute: typeof AuthenticatedRouteRoute
+    }
+    '/_authenticated/audits/jobs/$jobId': {
+      id: '/_authenticated/audits/jobs/$jobId'
+      path: '/audits/jobs/$jobId'
+      fullPath: '/audits/jobs/$jobId'
+      preLoaderRoute: typeof AuthenticatedAuditsJobsJobIdRouteImport
+      parentRoute: typeof AuthenticatedRouteRoute
+    }
   }
 }
 
@@ -535,6 +595,10 @@ interface AuthenticatedRouteRouteChildren {
   AuthenticatedHelpCenterIndexRoute: typeof AuthenticatedHelpCenterIndexRoute
   AuthenticatedTasksIndexRoute: typeof AuthenticatedTasksIndexRoute
   AuthenticatedUsersIndexRoute: typeof AuthenticatedUsersIndexRoute
+  AuthenticatedAuditsJobsJobIdRoute: typeof AuthenticatedAuditsJobsJobIdRoute
+  AuthenticatedAuditsReportsReportIdRoute: typeof AuthenticatedAuditsReportsReportIdRoute
+  AuthenticatedAuditsJobsIndexRoute: typeof AuthenticatedAuditsJobsIndexRoute
+  AuthenticatedAuditsReportsIndexRoute: typeof AuthenticatedAuditsReportsIndexRoute
 }
 
 const AuthenticatedRouteRouteChildren: AuthenticatedRouteRouteChildren = {
@@ -546,6 +610,11 @@ const AuthenticatedRouteRouteChildren: AuthenticatedRouteRouteChildren = {
   AuthenticatedHelpCenterIndexRoute: AuthenticatedHelpCenterIndexRoute,
   AuthenticatedTasksIndexRoute: AuthenticatedTasksIndexRoute,
   AuthenticatedUsersIndexRoute: AuthenticatedUsersIndexRoute,
+  AuthenticatedAuditsJobsJobIdRoute: AuthenticatedAuditsJobsJobIdRoute,
+  AuthenticatedAuditsReportsReportIdRoute:
+    AuthenticatedAuditsReportsReportIdRoute,
+  AuthenticatedAuditsJobsIndexRoute: AuthenticatedAuditsJobsIndexRoute,
+  AuthenticatedAuditsReportsIndexRoute: AuthenticatedAuditsReportsIndexRoute,
 }
 
 const AuthenticatedRouteRouteWithChildren =
@@ -556,7 +625,6 @@ const rootRouteChildren: RootRouteChildren = {
   authForgotPasswordRoute: authForgotPasswordRoute,
   authOtpRoute: authOtpRoute,
   authSignInRoute: authSignInRoute,
-  authSignIn2Route: authSignIn2Route,
   authSignUpRoute: authSignUpRoute,
   errors401Route: errors401Route,
   errors403Route: errors403Route,

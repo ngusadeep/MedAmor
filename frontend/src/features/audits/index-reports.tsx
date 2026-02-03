@@ -9,7 +9,7 @@ import { ThemeSwitch } from '@/components/theme-switch'
 import { listAuditReports } from '@/lib/jobs-api'
 import { ReportsTable } from './components/reports-table'
 
-const route = getRouteApi('/_authenticated/audits/reports/')
+const route = getRouteApi('/_authenticated/audits/reports/' as any)
 
 export function AuditsReportsPage() {
   const search = route.useSearch()
@@ -39,7 +39,13 @@ export function AuditsReportsPage() {
             actions.
           </p>
         </div>
-        <ReportsTable data={reports} search={search} navigate={navigate} />
+        <ReportsTable
+          data={reports}
+          search={search}
+          navigate={
+            navigate as import('@/hooks/use-table-url-state').NavigateFn
+          }
+        />
       </Main>
     </>
   )

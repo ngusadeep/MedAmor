@@ -13,7 +13,7 @@ import { JobsPrimaryButtons } from './components/jobs-primary-buttons'
 import { CreateJobDialog } from './components/create-job-dialog'
 import { JobsProvider, useJobs } from './components/jobs-provider'
 
-const route = getRouteApi('/_authenticated/audits/jobs/')
+const route = getRouteApi('/_authenticated/audits/jobs/' as any)
 
 function JobsPageInner() {
   const search = route.useSearch()
@@ -51,7 +51,11 @@ function JobsPageInner() {
           </div>
           <JobsPrimaryButtons />
         </div>
-        <JobsTable data={jobs} search={search} navigate={navigate} />
+        <JobsTable
+          data={jobs}
+          search={search}
+          navigate={navigate as import('@/hooks/use-table-url-state').NavigateFn}
+        />
       </Main>
 
       <CreateJobDialog />

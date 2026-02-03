@@ -17,13 +17,9 @@ import {
 } from '@/components/ui/card'
 import { Badge } from '@/components/ui/badge'
 import { Button } from '@/components/ui/button'
-import {
-  getJob,
-  getAuditReportByJob,
-  type AuditReportResponse,
-} from '@/lib/jobs-api'
+import { getJob, getAuditReportByJob } from '@/lib/jobs-api'
 
-const route = getRouteApi('/_authenticated/audits/jobs/$jobId')
+const route = getRouteApi('/_authenticated/audits/jobs/$jobId' as any)
 
 export function JobDetailPage() {
   const { jobId } = route.useParams()
@@ -68,7 +64,7 @@ export function JobDetailPage() {
         <Main>
           <p className='text-destructive'>Job not found or failed to load.</p>
           <Button variant='link' asChild>
-            <Link to='/audits/jobs'>Back to jobs</Link>
+            <Link to={'/audits/jobs' as any}>Back to jobs</Link>
           </Button>
         </Main>
       </>
@@ -96,7 +92,7 @@ export function JobDetailPage() {
       <Main className='flex flex-1 flex-col gap-4 sm:gap-6'>
         <div className='flex flex-wrap items-center gap-2'>
           <Button variant='ghost' size='sm' asChild>
-            <Link to='/audits/jobs' className='gap-1'>
+            <Link to={'/audits/jobs' as '/'} className='gap-1'>
               <ArrowLeft className='h-4 w-4' />
               Back to jobs
             </Link>
@@ -172,8 +168,8 @@ export function JobDetailPage() {
                   )}
                 <Button variant='outline' size='sm' asChild>
                   <Link
-                    to='/audits/reports/$reportId'
-                    params={{ reportId: report.id }}
+                    to={'/audits/reports/$reportId' as any}
+                    params={{ reportId: report.id } as any}
                   >
                     View full report
                   </Link>

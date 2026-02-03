@@ -19,7 +19,9 @@ import { Badge } from '@/components/ui/badge'
 import { Button } from '@/components/ui/button'
 import { getAuditReport } from '@/lib/jobs-api'
 
-const route = getRouteApi('/_authenticated/audits/reports/$reportId')
+const route = getRouteApi(
+  '/_authenticated/audits/reports/$reportId' as any
+)
 
 export function ReportDetailPage() {
   const { reportId } = route.useParams()
@@ -61,7 +63,7 @@ export function ReportDetailPage() {
             Report not found or failed to load.
           </p>
           <Button variant='link' asChild>
-            <Link to='/audits/reports'>Back to reports</Link>
+            <Link to={'/audits/reports' as any}>Back to reports</Link>
           </Button>
         </Main>
       </>
@@ -94,7 +96,7 @@ export function ReportDetailPage() {
       <Main className='flex flex-1 flex-col gap-4 sm:gap-6'>
         <div className='flex flex-wrap items-center gap-2'>
           <Button variant='ghost' size='sm' asChild>
-            <Link to='/audits/reports' className='gap-1'>
+            <Link to={'/audits/reports' as '/'} className='gap-1'>
               <ArrowLeft className='h-4 w-4' />
               Back to reports
             </Link>
