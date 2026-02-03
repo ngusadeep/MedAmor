@@ -1,3 +1,4 @@
+import { ClipboardList, FileCheck, FileText, TrendingUp } from 'lucide-react'
 import { Button } from '@/components/ui/button'
 import {
   Card,
@@ -15,13 +16,20 @@ import { ProfileDropdown } from '@/components/profile-dropdown'
 import { Search } from '@/components/search'
 import { ThemeSwitch } from '@/components/theme-switch'
 import { Analytics } from './components/analytics'
-import { Overview } from './components/overview'
-import { RecentSales } from './components/recent-sales'
+import { Overview, buildDataFromReports } from './components/overview'
+import { RecentActivity } from './components/recent-activity'
+import { useDashboardStats } from './use-dashboard-stats'
 
 export function Dashboard() {
+  const { data: stats, isLoading, error } = useDashboardStats()
+
+  const overviewData =
+    stats && (stats.reports?.length ?? 0) > 0
+      ? buildDataFromReports(stats.reports.map((r) => r.created_at))
+      : undefined
+
   return (
     <>
-      {/* ===== Top Heading ===== */}
       <Header>
         <TopNav links={topNav} />
         <div className='ms-auto flex items-center space-x-4'>
@@ -32,14 +40,24 @@ export function Dashboard() {
         </div>
       </Header>
 
-      {/* ===== Main ===== */}
       <Main>
         <div className='mb-2 flex items-center justify-between space-y-2'>
-          <h1 className='text-2xl font-bold tracking-tight'>Dashboard</h1>
+          <h1 className='text-2xl font-bold tracking-tight'>
+            MedAudit Dashboard
+          </h1>
           <div className='flex items-center space-x-2'>
-            <Button>Download</Button>
+            <Button variant='outline' asChild>
+              <a href='/audits/jobs'>New audit job</a>
+            </Button>
           </div>
         </div>
+
+        {error && (
+          <div className='mb-4 rounded-lg border border-destructive/50 bg-destructive/10 px-4 py-2 text-sm text-destructive'>
+            {error.message}
+          </div>
+        )}
+
         <Tabs
           orientation='vertical'
           defaultValue='overview'
@@ -49,12 +67,6 @@ export function Dashboard() {
             <TabsList>
               <TabsTrigger value='overview'>Overview</TabsTrigger>
               <TabsTrigger value='analytics'>Analytics</TabsTrigger>
-              <TabsTrigger value='reports' disabled>
-                Reports
-              </TabsTrigger>
-              <TabsTrigger value='notifications' disabled>
-                Notifications
-              </TabsTrigger>
             </TabsList>
           </div>
           <TabsContent value='overview' className='space-y-4'>
@@ -62,101 +74,64 @@ export function Dashboard() {
               <Card>
                 <CardHeader className='flex flex-row items-center justify-between space-y-0 pb-2'>
                   <CardTitle className='text-sm font-medium'>
-                    Total Revenue
+                    Total audit jobs
                   </CardTitle>
-                  <svg
-                    xmlns='http://www.w3.org/2000/svg'
-                    viewBox='0 0 24 24'
-                    fill='none'
-                    stroke='currentColor'
-                    strokeLinecap='round'
-                    strokeLinejoin='round'
-                    strokeWidth='2'
-                    className='h-4 w-4 text-muted-foreground'
-                  >
-                    <path d='M12 2v20M17 5H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6' />
-                  </svg>
+                  <ClipboardList className='h-4 w-4 text-muted-foreground' />
                 </CardHeader>
                 <CardContent>
-                  <div className='text-2xl font-bold'>$45,231.89</div>
+                  <div className='text-2xl font-bold'>
+                    {isLoading ? '—' : stats?.totalJobs ?? 0}
+                  </div>
                   <p className='text-xs text-muted-foreground'>
-                    +20.1% from last month
+                    Jobs created (all statuses)
                   </p>
                 </CardContent>
               </Card>
               <Card>
                 <CardHeader className='flex flex-row items-center justify-between space-y-0 pb-2'>
                   <CardTitle className='text-sm font-medium'>
-                    Subscriptions
+                    Completed audits
                   </CardTitle>
-                  <svg
-                    xmlns='http://www.w3.org/2000/svg'
-                    viewBox='0 0 24 24'
-                    fill='none'
-                    stroke='currentColor'
-                    strokeLinecap='round'
-                    strokeLinejoin='round'
-                    strokeWidth='2'
-                    className='h-4 w-4 text-muted-foreground'
-                  >
-                    <path d='M16 21v-2a4 4 0 0 0-4-4H6a4 4 0 0 0-4 4v2' />
-                    <circle cx='9' cy='7' r='4' />
-                    <path d='M22 21v-2a4 4 0 0 0-3-3.87M16 3.13a4 4 0 0 1 0 7.75' />
-                  </svg>
+                  <FileCheck className='h-4 w-4 text-muted-foreground' />
                 </CardHeader>
                 <CardContent>
-                  <div className='text-2xl font-bold'>+2350</div>
+                  <div className='text-2xl font-bold'>
+                    {isLoading ? '—' : stats?.completedJobs ?? 0}
+                  </div>
                   <p className='text-xs text-muted-foreground'>
-                    +180.1% from last month
-                  </p>
-                </CardContent>
-              </Card>
-              <Card>
-                <CardHeader className='flex flex-row items-center justify-between space-y-0 pb-2'>
-                  <CardTitle className='text-sm font-medium'>Sales</CardTitle>
-                  <svg
-                    xmlns='http://www.w3.org/2000/svg'
-                    viewBox='0 0 24 24'
-                    fill='none'
-                    stroke='currentColor'
-                    strokeLinecap='round'
-                    strokeLinejoin='round'
-                    strokeWidth='2'
-                    className='h-4 w-4 text-muted-foreground'
-                  >
-                    <rect width='20' height='14' x='2' y='5' rx='2' />
-                    <path d='M2 10h20' />
-                  </svg>
-                </CardHeader>
-                <CardContent>
-                  <div className='text-2xl font-bold'>+12,234</div>
-                  <p className='text-xs text-muted-foreground'>
-                    +19% from last month
+                    Jobs finished successfully
                   </p>
                 </CardContent>
               </Card>
               <Card>
                 <CardHeader className='flex flex-row items-center justify-between space-y-0 pb-2'>
                   <CardTitle className='text-sm font-medium'>
-                    Active Now
+                    With findings
                   </CardTitle>
-                  <svg
-                    xmlns='http://www.w3.org/2000/svg'
-                    viewBox='0 0 24 24'
-                    fill='none'
-                    stroke='currentColor'
-                    strokeLinecap='round'
-                    strokeLinejoin='round'
-                    strokeWidth='2'
-                    className='h-4 w-4 text-muted-foreground'
-                  >
-                    <path d='M22 12h-4l-3 9L9 3l-3 9H2' />
-                  </svg>
+                  <FileText className='h-4 w-4 text-muted-foreground' />
                 </CardHeader>
                 <CardContent>
-                  <div className='text-2xl font-bold'>+573</div>
+                  <div className='text-2xl font-bold'>
+                    {isLoading ? '—' : stats?.withFindings ?? 0}
+                  </div>
                   <p className='text-xs text-muted-foreground'>
-                    +201 since last hour
+                    Reports with FINDING_PRESENT
+                  </p>
+                </CardContent>
+              </Card>
+              <Card>
+                <CardHeader className='flex flex-row items-center justify-between space-y-0 pb-2'>
+                  <CardTitle className='text-sm font-medium'>
+                    Compliance rate
+                  </CardTitle>
+                  <TrendingUp className='h-4 w-4 text-muted-foreground' />
+                </CardHeader>
+                <CardContent>
+                  <div className='text-2xl font-bold'>
+                    {isLoading ? '—' : `${stats?.complianceRatePct ?? 0}%`}
+                  </div>
+                  <p className='text-xs text-muted-foreground'>
+                    No findings (NO_FINDINGS)
                   </p>
                 </CardContent>
               </Card>
@@ -164,27 +139,33 @@ export function Dashboard() {
             <div className='grid grid-cols-1 gap-4 lg:grid-cols-7'>
               <Card className='col-span-1 lg:col-span-4'>
                 <CardHeader>
-                  <CardTitle>Overview</CardTitle>
+                  <CardTitle>Audits this year</CardTitle>
+                  <CardDescription>
+                    Completed audit reports by month
+                  </CardDescription>
                 </CardHeader>
                 <CardContent className='ps-2'>
-                  <Overview />
+                  <Overview reportsByMonth={overviewData} />
                 </CardContent>
               </Card>
               <Card className='col-span-1 lg:col-span-3'>
                 <CardHeader>
-                  <CardTitle>Recent Sales</CardTitle>
+                  <CardTitle>Recent activity</CardTitle>
                   <CardDescription>
-                    You made 265 sales this month.
+                    Latest jobs and reports
                   </CardDescription>
                 </CardHeader>
                 <CardContent>
-                  <RecentSales />
+                  <RecentActivity
+                    recentJobs={stats?.recentJobs ?? []}
+                    recentReports={stats?.recentReports ?? []}
+                  />
                 </CardContent>
               </Card>
             </div>
           </TabsContent>
           <TabsContent value='analytics' className='space-y-4'>
-            <Analytics />
+            <Analytics stats={stats} />
           </TabsContent>
         </Tabs>
       </Main>
@@ -193,28 +174,8 @@ export function Dashboard() {
 }
 
 const topNav = [
-  {
-    title: 'Overview',
-    href: 'dashboard/overview',
-    isActive: true,
-    disabled: false,
-  },
-  {
-    title: 'Customers',
-    href: 'dashboard/customers',
-    isActive: false,
-    disabled: true,
-  },
-  {
-    title: 'Products',
-    href: 'dashboard/products',
-    isActive: false,
-    disabled: true,
-  },
-  {
-    title: 'Settings',
-    href: 'dashboard/settings',
-    isActive: false,
-    disabled: true,
-  },
+  { title: 'Overview', href: '#', isActive: true, disabled: false },
+  { title: 'Audit Jobs', href: '/audits/jobs', isActive: false, disabled: false },
+  { title: 'Reports', href: '/audits/reports', isActive: false, disabled: false },
+  { title: 'Settings', href: '/settings', isActive: false, disabled: false },
 ]

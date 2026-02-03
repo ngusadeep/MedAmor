@@ -5,15 +5,37 @@ import {
   CardHeader,
   CardTitle,
 } from '@/components/ui/card'
+import type { DashboardStats } from '../use-dashboard-stats'
 import { AnalyticsChart } from './analytics-chart'
 
-export function Analytics() {
+interface AnalyticsProps {
+  stats?: DashboardStats | null
+}
+
+export function Analytics({ stats }: AnalyticsProps) {
+  const jobStatusItems = stats
+    ? [
+        { name: 'Completed', value: stats.completedJobs },
+        { name: 'Pending / Running', value: stats.pendingOrRunning },
+        { name: 'Failed', value: stats.failedJobs },
+      ].filter((i) => i.value > 0)
+    : []
+
+  const findingItems = stats
+    ? [
+        { name: 'No findings', value: stats.noFindings },
+        { name: 'With findings', value: stats.withFindings },
+      ].filter((i) => i.value > 0)
+    : []
+
   return (
     <div className='space-y-4'>
       <Card>
         <CardHeader>
-          <CardTitle>Traffic Overview</CardTitle>
-          <CardDescription>Weekly clicks and unique visitors</CardDescription>
+          <CardTitle>Audit jobs over time</CardTitle>
+          <CardDescription>
+            Weekly view (sample). Use Overview for monthly audits.
+          </CardDescription>
         </CardHeader>
         <CardContent className='px-6'>
           <AnalyticsChart />
@@ -22,128 +44,84 @@ export function Analytics() {
       <div className='grid gap-4 sm:grid-cols-2 lg:grid-cols-4'>
         <Card>
           <CardHeader className='flex flex-row items-center justify-between space-y-0 pb-2'>
-            <CardTitle className='text-sm font-medium'>Total Clicks</CardTitle>
-            <svg
-              xmlns='http://www.w3.org/2000/svg'
-              viewBox='0 0 24 24'
-              fill='none'
-              stroke='currentColor'
-              strokeLinecap='round'
-              strokeLinejoin='round'
-              strokeWidth='2'
-              className='h-4 w-4 text-muted-foreground'
-            >
-              <path d='M3 3v18h18' />
-              <path d='M7 15l4-4 4 4 4-6' />
-            </svg>
+            <CardTitle className='text-sm font-medium'>Total jobs</CardTitle>
           </CardHeader>
           <CardContent>
-            <div className='text-2xl font-bold'>1,248</div>
-            <p className='text-xs text-muted-foreground'>+12.4% vs last week</p>
+            <div className='text-2xl font-bold'>{stats?.totalJobs ?? '—'}</div>
+            <p className='text-xs text-muted-foreground'>All audit jobs</p>
           </CardContent>
         </Card>
         <Card>
           <CardHeader className='flex flex-row items-center justify-between space-y-0 pb-2'>
-            <CardTitle className='text-sm font-medium'>
-              Unique Visitors
-            </CardTitle>
-            <svg
-              xmlns='http://www.w3.org/2000/svg'
-              viewBox='0 0 24 24'
-              fill='none'
-              stroke='currentColor'
-              strokeLinecap='round'
-              strokeLinejoin='round'
-              strokeWidth='2'
-              className='h-4 w-4 text-muted-foreground'
-            >
-              <circle cx='12' cy='7' r='4' />
-              <path d='M6 21v-2a6 6 0 0 1 12 0v2' />
-            </svg>
+            <CardTitle className='text-sm font-medium'>Completed</CardTitle>
           </CardHeader>
           <CardContent>
-            <div className='text-2xl font-bold'>832</div>
-            <p className='text-xs text-muted-foreground'>+5.8% vs last week</p>
+            <div className='text-2xl font-bold'>
+              {stats?.completedJobs ?? '—'}
+            </div>
+            <p className='text-xs text-muted-foreground'>Successful audits</p>
           </CardContent>
         </Card>
         <Card>
           <CardHeader className='flex flex-row items-center justify-between space-y-0 pb-2'>
-            <CardTitle className='text-sm font-medium'>Bounce Rate</CardTitle>
-            <svg
-              xmlns='http://www.w3.org/2000/svg'
-              viewBox='0 0 24 24'
-              fill='none'
-              stroke='currentColor'
-              strokeLinecap='round'
-              strokeLinejoin='round'
-              strokeWidth='2'
-              className='h-4 w-4 text-muted-foreground'
-            >
-              <path d='M3 12h6l3 6 3-6h6' />
-            </svg>
+            <CardTitle className='text-sm font-medium'>With findings</CardTitle>
           </CardHeader>
           <CardContent>
-            <div className='text-2xl font-bold'>42%</div>
-            <p className='text-xs text-muted-foreground'>-3.2% vs last week</p>
+            <div className='text-2xl font-bold'>
+              {stats?.withFindings ?? '—'}
+            </div>
+            <p className='text-xs text-muted-foreground'>FINDING_PRESENT</p>
           </CardContent>
         </Card>
         <Card>
           <CardHeader className='flex flex-row items-center justify-between space-y-0 pb-2'>
-            <CardTitle className='text-sm font-medium'>Avg. Session</CardTitle>
-            <svg
-              xmlns='http://www.w3.org/2000/svg'
-              viewBox='0 0 24 24'
-              fill='none'
-              stroke='currentColor'
-              strokeLinecap='round'
-              strokeLinejoin='round'
-              strokeWidth='2'
-              className='h-4 w-4 text-muted-foreground'
-            >
-              <circle cx='12' cy='12' r='10' />
-              <path d='M12 6v6l4 2' />
-            </svg>
+            <CardTitle className='text-sm font-medium'>Compliance</CardTitle>
           </CardHeader>
           <CardContent>
-            <div className='text-2xl font-bold'>3m 24s</div>
-            <p className='text-xs text-muted-foreground'>+18s vs last week</p>
+            <div className='text-2xl font-bold'>
+              {stats != null ? `${stats.complianceRatePct}%` : '—'}
+            </div>
+            <p className='text-xs text-muted-foreground'>No findings rate</p>
           </CardContent>
         </Card>
       </div>
-      <div className='grid grid-cols-1 gap-4 lg:grid-cols-7'>
-        <Card className='col-span-1 lg:col-span-4'>
+      <div className='grid grid-cols-1 gap-4 lg:grid-cols-2'>
+        <Card>
           <CardHeader>
-            <CardTitle>Referrers</CardTitle>
-            <CardDescription>Top sources driving traffic</CardDescription>
+            <CardTitle>Job status</CardTitle>
+            <CardDescription>Breakdown by status</CardDescription>
           </CardHeader>
           <CardContent>
-            <SimpleBarList
-              items={[
-                { name: 'Direct', value: 512 },
-                { name: 'Product Hunt', value: 238 },
-                { name: 'Twitter', value: 174 },
-                { name: 'Blog', value: 104 },
-              ]}
-              barClass='bg-primary'
-              valueFormatter={(n) => `${n}`}
-            />
+            {jobStatusItems.length > 0 ? (
+              <SimpleBarList
+                items={jobStatusItems}
+                barClass='bg-primary'
+                valueFormatter={(n) => `${n}`}
+              />
+            ) : (
+              <p className='text-sm text-muted-foreground'>
+                No job data yet.
+              </p>
+            )}
           </CardContent>
         </Card>
-        <Card className='col-span-1 lg:col-span-3'>
+        <Card>
           <CardHeader>
-            <CardTitle>Devices</CardTitle>
-            <CardDescription>How users access your app</CardDescription>
+            <CardTitle>Findings</CardTitle>
+            <CardDescription>Reports with vs without findings</CardDescription>
           </CardHeader>
           <CardContent>
-            <SimpleBarList
-              items={[
-                { name: 'Desktop', value: 74 },
-                { name: 'Mobile', value: 22 },
-                { name: 'Tablet', value: 4 },
-              ]}
-              barClass='bg-muted-foreground'
-              valueFormatter={(n) => `${n}%`}
-            />
+            {findingItems.length > 0 ? (
+              <SimpleBarList
+                items={findingItems}
+                barClass='bg-muted-foreground'
+                valueFormatter={(n) => `${n}`}
+              />
+            ) : (
+              <p className='text-sm text-muted-foreground'>
+                No report data yet.
+              </p>
+            )}
           </CardContent>
         </Card>
       </div>
