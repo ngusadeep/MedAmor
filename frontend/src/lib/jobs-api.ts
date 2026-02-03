@@ -68,3 +68,19 @@ export function listAuditReports(params?: {
 export function getAuditReport(reportId: string): Promise<AuditReportResponse> {
   return apiGet<AuditReportResponse>(`/audit-reports/${reportId}`)
 }
+
+/** Get audit report for a job (if completed). Returns null if none. */
+export async function getAuditReportByJob(
+  jobId: string
+): Promise<AuditReportResponse | null> {
+  const base = import.meta.env.VITE_API_URL?.replace(/\/$/, '') ?? '/api'
+  const res = await fetch(`${base}/audit-reports/by-job/${jobId}`, {
+    credentials: 'include',
+  })
+  if (res.status === 404) return null
+  if (!res.ok) {
+    const data = await res.json().catch(() => ({}))
+    throw new Error((data as { detail?: string }).detail ?? 'Request failed')
+  }
+  return res.json() as Promise<AuditReportResponse | null>
+}

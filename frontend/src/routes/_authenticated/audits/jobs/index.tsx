@@ -1,26 +1,15 @@
+import z from 'zod'
 import { createFileRoute } from '@tanstack/react-router'
-import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card'
+import { AuditsJobsPage } from '@/features/audits/index-jobs'
 
-// Route id; routeTree.gen.ts will include this after dev/build
-export const Route = createFileRoute('/_authenticated/audits/jobs/' as any)({
-  component: AuditsJobsPage,
+const jobsSearchSchema = z.object({
+  page: z.number().optional().catch(1),
+  pageSize: z.number().optional().catch(10),
+  patient_id: z.string().optional().catch(''),
+  status: z.array(z.string()).optional().catch([]),
 })
 
-function AuditsJobsPage() {
-  return (
-    <div className='space-y-4'>
-      <h1 className='text-2xl font-bold tracking-tight'>Audit Jobs</h1>
-      <Card>
-        <CardHeader>
-          <CardTitle>Jobs</CardTitle>
-        </CardHeader>
-        <CardContent>
-          <p className='text-muted-foreground'>
-            List and manage audit jobs. Create a job for a patient to run an EHR
-            audit.
-          </p>
-        </CardContent>
-      </Card>
-    </div>
-  )
-}
+export const Route = createFileRoute('/_authenticated/audits/jobs/' as any)({
+  validateSearch: jobsSearchSchema,
+  component: AuditsJobsPage,
+})
