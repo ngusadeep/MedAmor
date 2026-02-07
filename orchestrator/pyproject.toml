@@ -1,7 +1,7 @@
 [project]
-name = "aibroker"
+name = "orchestrator"
 version = "0.1.0"
-description = "AI Broker - Healthcare AI integration services for FHIR data processing"
+description = "Orchestrator - Healthcare AI integration services for FHIR data processing"
 readme = "fhir_reader/README.md"
 requires-python = ">=3.11"
 dependencies = [
