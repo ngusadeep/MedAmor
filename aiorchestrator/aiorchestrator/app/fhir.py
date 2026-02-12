@@ -2,10 +2,13 @@
 
 from __future__ import annotations
 
+import os
 from typing import Any
 
+import requests
 
-HAPI_FHIR_URL = "https://hapi.fhir.org/baseR4"
+
+HAPI_FHIR_URL = os.environ.get("HAPI_FHIR_URL", "http://localhost:9080/fhir")
 
 
 def format_patient_summary(fhir_bundle: dict[str, Any]) -> str:
@@ -86,3 +89,36 @@ def format_patient_summary(fhir_bundle: dict[str, Any]) -> str:
             parts.append(f"{rtype} (id={rid})")
 
     return " ".join(parts) if parts else "No patient data available."
+
+
+def fetch_patient_bundle(patient_id: str, fhir_base_url: str | None = None) -> dict[str, Any]:
+    """Fetch complete patient data bundle from HAPI FHIR server using $everything operation.
+
+    Args:
+        patient_id: FHIR Patient resource ID
+        fhir_base_url: Optional override for FHIR server URL
+
+    Returns:
+        FHIR Bundle containing all patient resources
+
+    Raises:
+        requests.RequestException: If FHIR server is unreachable
+        ValueError: If patient not found or invalid response
+    """
+    base_url = fhir_base_url or HAPI_FHIR_URL
+    # Use FHIR $everything operation to get complete patient record
+    url = f"{base_url}/Patient/{patient_id}/$everything"
+
+    try:
+        response = requests.get(url, timeout=30)
+        response.raise_for_status()
+        bundle = response.json()
+
+        # Validate it's a FHIR Bundle
+        if not isinstance(bundle, dict) or bundle.get("resourceType") != "Bundle":
+            raise ValueError(f"Invalid FHIR response: expected Bundle, got {type(bundle)}")
+
+        return bundle
+
+    except requests.RequestException as e:
+        raise ValueError(f"Failed to fetch patient {patient_id} from FHIR server: {e}") from e

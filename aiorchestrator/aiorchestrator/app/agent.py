@@ -10,7 +10,7 @@ from langchain_google_genai import ChatGoogleGenerativeAI
 from langgraph.graph import END, START, StateGraph
 from pydantic import BaseModel, Field
 
-from .fhir import format_patient_summary
+from .fhir import fetch_patient_bundle, format_patient_summary
 from .vector_store import get_vector_store
 
 
@@ -101,13 +101,34 @@ DUMMY_FHIR_BUNDLE = {
 
 
 def fetch_fhir(state: AuditState) -> dict:
-    """Fetch patient data (dummy – returns sample bundle; swap for real FHIR API later)."""
+    """Fetch patient data from HAPI FHIR server.
+
+    Falls back to dummy data if FHIR server is unavailable or USE_DUMMY_FHIR=true.
+    """
+    import os
+
     patient_id = state["patient_id"]
-    # Dummy: return sample bundle keyed by patient_id for testing variation
-    bundle = {**DUMMY_FHIR_BUNDLE}
-    if bundle.get("entry"):
-        bundle["entry"][0]["resource"]["id"] = patient_id
-    return {"fhir_data": bundle}
+    use_dummy = os.environ.get("USE_DUMMY_FHIR", "false").lower() == "true"
+
+    if use_dummy:
+        # Use dummy data for testing without FHIR server
+        bundle = {**DUMMY_FHIR_BUNDLE}
+        if bundle.get("entry"):
+            bundle["entry"][0]["resource"]["id"] = patient_id
+        return {"fhir_data": bundle}
+
+    try:
+        # Fetch real patient data from HAPI FHIR server
+        bundle = fetch_patient_bundle(patient_id)
+        return {"fhir_data": bundle}
+    except Exception as e:
+        # Log error and fall back to dummy data
+        print(f"WARNING: Failed to fetch FHIR data for patient {patient_id}: {e}")
+        print("Falling back to dummy FHIR data")
+        bundle = {**DUMMY_FHIR_BUNDLE}
+        if bundle.get("entry"):
+            bundle["entry"][0]["resource"]["id"] = patient_id
+        return {"fhir_data": bundle}
 
 
 def retrieve_docs(state: AuditState) -> dict:

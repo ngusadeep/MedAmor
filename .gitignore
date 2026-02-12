@@ -71,6 +71,15 @@ backend/htmlcov/
 backend/dist/
 backend/build/
 
+# AI Orchestrator
+aiorchestrator/__pycache__/
+aiorchestrator/.venv/
+aiorchestrator/venv/
+aiorchestrator/chroma_data/
+aiorchestrator/.pytest_cache/
+aiorchestrator/.coverage
+aiorchestrator/htmlcov/
+
 # ==========================================
 # GLOBAL PATTERNS (apply everywhere - no directory prefix needed)
 # ==========================================
