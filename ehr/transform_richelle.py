@@ -14,8 +14,8 @@ from dateutil.relativedelta import relativedelta
 INPUT_FILE = "/home/claw/src/MedAudit/ehr/mod_Richelle340_Wiegand701_943fec3e-ac5a-2284-2b4f-ce652b6f09d3.json"
 
 TARGET_UUID = "urn:uuid:943fec3e-ac5a-2284-cbeb-2414bd552323"
-SHIFT = relativedelta(months=8, days=7)
-CUTOFF = date(2026, 1, 30)
+SHIFT = relativedelta(months=8, days=4)
+CUTOFF = date(2026, 1, 27)
 
 DATE_RE = re.compile(r"\d{4}-\d{2}-\d{2}")
 DATE_ONLY_RE = re.compile(r"^\d{4}-\d{2}-\d{2}$")
