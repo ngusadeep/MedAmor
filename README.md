@@ -143,17 +143,3 @@ The system is made of these components:
 4. Create your feature branch from `develop`
 
 ## Commit Convention
-
-- `feat:` — New features
-- `fix:` — Bug fixes
-- `docs:` — Documentation
-- `style:` — Code style changes
-- `refactor:` — Code refactoring
-- `test:` — Testing
-- `chore:` — Maintenance
-
----
-
-# License
-
-This project is licensed under the [Apache License 2.0](LICENSE).
