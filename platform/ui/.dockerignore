@@ -1,0 +1,72 @@
+# ==========================================
+# UI .DOCKERIGNORE
+# ==========================================
+# Exclude unnecessary files from UI Docker build context
+
+# ==========================================
+# Dependencies (installed in container)
+# ==========================================
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# ==========================================
+# Build Outputs
+# ==========================================
+dist/
+build/
+.cache/
+.parcel-cache/
+
+# ==========================================
+# Development & Testing
+# ==========================================
+coverage/
+.nyc_output/
+.eslintcache
+.stylelintcache
+
+# Environment files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# ==========================================
+# IDE & Editor Files
+# ==========================================
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# ==========================================
+# Logs & Temporary Files
+# ==========================================
+logs/
+*.log
+*.tmp
+*.temp
+
+# ==========================================
+# OS Files
+# ==========================================
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# ==========================================
+# Documentation & Version Control
+# ==========================================
+.git/
+.gitignore
+README.md
+*.md

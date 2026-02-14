@@ -1,129 +1,76 @@
-# MedAudit - Docker Compose
-# Uses root .env for config. Copy .env.example to .env and adjust.
+version: '3.8'
 
 services:
-  nginx:
-    image: nginx:1.27-alpine
-    container_name: medaudit-nginx
-    ports:
-      - "${NGINX_PORT:-80}:80"
-    volumes:
-      - ./nginx/nginx.conf:/etc/nginx/conf.d/default.conf:ro
-    depends_on:
-      - backend
-      - frontend
-    restart: unless-stopped
-
-  backend:
-    build:
-      context: ./backend
-      dockerfile: Dockerfile
-    image: medaudit-backend:latest
-    container_name: medaudit-backend
-    env_file: .env
+  # Platform Database
+  platform_db:
+    image: postgres:16-alpine
+    container_name: platform_db
     environment:
-      DATABASE_URL: postgresql://${POSTGRES_USER:-postgres}:${POSTGRES_PASSWORD}@postgres:5432/${POSTGRES_DB:-medaudit}
-      EHR_DATA_ROOT: /data
-      ALLOWED_ORIGINS: ${ALLOWED_ORIGINS:-http://localhost,http://localhost:80}
-      ENVIRONMENT: ${ENVIRONMENT:-production}
-      DEBUG: ${DEBUG:-false}
-      QDRANT_URL: http://qdrant:6333
-      CELERY_BROKER_URL: amqp://${RABBITMQ_USER:-guest}:${RABBITMQ_PASSWORD:-guest}@rabbitmq:5672/
-      MEDICAL_KB_PATH: /data/docs/Medical_KB
+      POSTGRES_USER: platform
+      POSTGRES_PASSWORD: platform_dev_password
+      POSTGRES_DB: platform
     volumes:
-      - .:/data:ro
-    depends_on:
-      postgres:
-        condition: service_healthy
-      qdrant:
-        condition: service_started
-      rabbitmq:
-        condition: service_healthy
-    restart: unless-stopped
-
-  celery-worker:
-    build:
-      context: ./backend
-      dockerfile: Dockerfile
-    image: medaudit-backend:latest
-    container_name: medaudit-celery-worker
-    command: celery -A app.worker.celery_app worker --loglevel=info
-    env_file: .env
-    environment:
-      DATABASE_URL: postgresql://${POSTGRES_USER:-postgres}:${POSTGRES_PASSWORD}@postgres:5432/${POSTGRES_DB:-medaudit}
-      EHR_DATA_ROOT: /data
-      QDRANT_URL: http://qdrant:6333
-      CELERY_BROKER_URL: amqp://${RABBITMQ_USER:-guest}:${RABBITMQ_PASSWORD:-guest}@rabbitmq:5672/
-      HF_TOKEN: ${HF_TOKEN:-}
-    volumes:
-      - .:/data:ro
-    depends_on:
-      backend:
-        condition: service_started
-      postgres:
-        condition: service_healthy
-      qdrant:
-        condition: service_started
-      rabbitmq:
-        condition: service_healthy
-    restart: unless-stopped
-
-  qdrant:
-    image: qdrant/qdrant:v1.12.0
-    container_name: medaudit-qdrant
+      - platform_db_data:/var/lib/postgresql/data
     ports:
-      - "${QDRANT_PORT:-6333}:6333"
-    volumes:
-      - qdrant_data:/qdrant/storage
-    restart: unless-stopped
-
-  rabbitmq:
-    image: rabbitmq:3.13-management-alpine
-    container_name: medaudit-rabbitmq
-    ports:
-      - "${RABBITMQ_PORT:-5672}:5672"
-      - "${RABBITMQ_MGMT_PORT:-15672}:15672"
-    environment:
-      RABBITMQ_DEFAULT_USER: ${RABBITMQ_USER:-guest}
-      RABBITMQ_DEFAULT_PASS: ${RABBITMQ_PASSWORD:-guest}
+      - "5432:5432"
     healthcheck:
-      test: ["CMD", "rabbitmq-diagnostics", "-q", "ping"]
+      test: ["CMD-SHELL", "pg_isready -U platform -d platform"]
       interval: 10s
       timeout: 5s
       retries: 5
     restart: unless-stopped
 
-  frontend:
+  platform_ui:
     build:
-      context: ./frontend
-      dockerfile: Dockerfile
-      args:
-        VITE_API_URL: ${VITE_API_URL:-/api}
-        VITE_BASENAME: ${VITE_BASENAME:-}
-        VITE_GTM_ID: ${VITE_GTM_ID:-}
-    image: medaudit-frontend:latest
-    container_name: medaudit-frontend
+      context: ./platform/ui
+    container_name: platform_ui
+    environment:
+      # Vite dev server proxy: backend is platform_web:5000 inside Docker network
+      VITE_PROXY_TARGET: http://platform_web:5000
+      VITE_API_BASE_URL: http://localhost:3000
+      VITE_API_URL: http://localhost:3000/api/v1
+    ports:
+      - "3000:3000"
+    volumes:
+      # Mount source code for hot reloading in development
+      - ./platform/ui/src:/app/src:ro
+      - ./platform/ui/public:/app/public:ro
+      - ./platform/ui/index.html:/app/index.html:ro
+      - ./platform/ui/package.json:/app/package.json:ro
+      - ./platform/ui/vite.config.ts:/app/vite.config.ts:ro
+    depends_on:
+      - platform_web
     restart: unless-stopped
 
-  postgres:
-    image: postgres:15-alpine
-    container_name: medaudit-postgres
-    env_file: .env
+  # Platform Web Application
+  platform_web:
+    build:
+      context: ./platform
+      dockerfile: Dockerfile
+    container_name: platform_web
     environment:
-      POSTGRES_USER: ${POSTGRES_USER:-postgres}
-      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD}
-      POSTGRES_DB: ${POSTGRES_DB:-medaudit}
-    volumes:
-      - postgres_data:/var/lib/postgresql/data
+      FLASK_ENV: development
+      DATABASE_HOST: platform_db
+      DATABASE_PORT: 5432
+      DATABASE_NAME: platform
+      DATABASE_USER: platform
+      DATABASE_PASSWORD: platform_dev_password
+      # Optional: default admin created on first startup (skipped if user exists)
+      DEFAULT_ADMIN_USERNAME: admin
+      DEFAULT_ADMIN_EMAIL: admin@example.com
+      DEFAULT_ADMIN_PASSWORD: admin
     ports:
-      - "${POSTGRES_PORT:-5432}:5432"
-    healthcheck:
-      test: ["CMD-SHELL", "pg_isready -U ${POSTGRES_USER:-postgres} -d ${POSTGRES_DB:-medaudit}"]
-      interval: 5s
-      timeout: 5s
-      retries: 5
+      - "8080:80"
+    volumes:
+      # Mount source code for hot reloading
+      - ./platform/backend:/app/backend:ro
+      - ./platform/ui/src:/app/ui/src:ro
+      - ./platform/ui/public:/app/ui/public:ro
+      - ./platform/config.toml:/app/config.toml:ro
+    depends_on:
+      platform_db:
+        condition: service_healthy
     restart: unless-stopped
 
 volumes:
-  postgres_data:
-  qdrant_data:
+  platform_db_data:

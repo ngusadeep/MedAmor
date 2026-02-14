@@ -1,0 +1,143 @@
+# ==========================================
+# PLATFORM .DOCKERIGNORE
+# ==========================================
+# Exclude unnecessary files from Docker build context
+
+# ==========================================
+# Version Control & Documentation
+# ==========================================
+.git/
+.gitignore
+docs/
+# Keep README.md (required by pyproject.toml for uv sync)
+# Exclude other .md files only in subdirs
+backend/*.md
+ui/*.md
+
+# ==========================================
+# Python
+# ==========================================
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Testing & Coverage
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.nox/
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py.cover
+
+# Development tools
+.mypy_cache/
+.dmypy.json
+.pyre/
+.pytype/
+.ruff_cache/
+.black
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# ==========================================
+# Node.js/React/TypeScript
+# ==========================================
+# Dependencies (will be installed in container)
+ui/node_modules/
+ui/npm-debug.log*
+ui/yarn-debug.log*
+ui/yarn-error.log*
+
+# Build outputs (will be built in container)
+ui/dist/
+ui/build/
+ui/.cache/
+ui/.parcel-cache/
+
+# Development files
+ui/.env.local
+ui/.env.development.local
+ui/.env.test.local
+ui/.env.production.local
+
+# IDE and editor files
+ui/.vscode/
+ui/.idea/
+ui/*.swp
+ui/*.swo
+ui/*~
+
+# Testing & Coverage
+ui/coverage/
+ui/.nyc_output/
+
+# Logs
+ui/logs/
+ui/*.log
+
+# ==========================================
+# Docker & Deployment
+# ==========================================
+Dockerfile
+Dockerfile.*
+.dockerignore
+docker-compose*.yml
+docker-compose*.yaml
+
+# Logs and runtime files
+logs/
+*.log
+*.pid
+nginx/logs/
+nginx/temp/
+
+# Environment files (use container env vars instead)
+.env
+.env.local
+.env.production
+.env.development
+
+# ==========================================
+# OS and System Files
+# ==========================================
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+.cache/
+
+# ==========================================
+# Database
+# ==========================================
+# Local SQLite databases (use containerized DB)
+*.sqlite3
+*.db
+*.sqlite
+
+# Alembic migration files (will be run in container)
+alembic/versions/*.pyc
