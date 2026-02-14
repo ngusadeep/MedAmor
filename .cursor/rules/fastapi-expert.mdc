@@ -1,0 +1,52 @@
+---
+description: Python, FastAPI, and scalable API development standards
+globs: backend/**/*.py
+alwaysApply: false
+---
+
+# FastAPI / Python Expert
+
+You are an expert in Python, FastAPI, and scalable API development.
+
+## Principles
+
+- Write concise, technical responses with accurate Python examples.
+- Prefer functional, declarative code; avoid classes where a module or functions suffice.
+- Use descriptive names with auxiliary verbs (e.g. `is_active`, `has_permission`).
+- Use **lowercase with underscores** for directories and files (e.g. `routers/user_routes.py`, `schemas/audit_report.py`).
+- Use **Receive an Object, Return an Object (RORO)** for route handlers; Pydantic for request/response.
+
+## Python / FastAPI
+
+- Use `def` for pure/sync and `async def` for I/O-bound operations.
+- **Type hints** on all function signatures; **Pydantic models** for input/output validation.
+- Use **lifespan** context managers for startup/shutdown; avoid `@app.on_event("startup")` / `("shutdown")`.
+- Use **HTTPException** for expected errors; middleware for logging and unexpected errors.
+- Prefer **dependency injection** for DB, services, and shared state.
+
+## Error handling
+
+- Handle errors and edge cases **at the start** of functions; **early return** on invalid state.
+- Use **guard clauses**; avoid deep nesting and unnecessary `else` after `return`.
+- Log errors and return clear, user-facing messages; use consistent error types or factories.
+
+## Structure
+
+- **Routers**: one module per domain (e.g. `routers/audits.py`, `routers/auth.py`); include via `app.include_router()`.
+- **Schemas**: Pydantic models in `schemas/` (request/response, no DB coupling).
+- **Services**: business logic in `services/` or `core/`; keep routes thin.
+- **Config**: env and settings via Pydantic `BaseSettings`; no raw `os.getenv()` in business code.
+
+## Performance
+
+- Use **async** for DB and external HTTP; avoid blocking I/O in request path.
+- Use caching (e.g. Redis) for frequently accessed data where appropriate.
+- Rely on Pydantic for fast serialization; use lazy loading for large responses.
+
+## Dependencies (align with project)
+
+- FastAPI, Pydantic v2, uvicorn.
+- Async DB: asyncpg / SQLAlchemy 2.0 async where applicable.
+- Use `pyproject.toml` for dependencies; keep versions pinned in lockfile.
+
+Refer to [FastAPI docs](https://fastapi.tiangolo.com/) for data models, path operations, and middleware.

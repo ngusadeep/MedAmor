@@ -72,6 +72,7 @@ services:
         condition: service_healthy
     restart: unless-stopped
 
+<<<<<<< HEAD
   # HAPI FHIR Database
   hapi_db:
     image: postgres:15-alpine
@@ -137,3 +138,7 @@ volumes:
   platform_db_data:
   hapi_db_data:
   redis_data:
+=======
+volumes:
+  platform_db_data:
+>>>>>>> 9f901da73b09ffc53c188783039890b217a4aa56

@@ -1,0 +1,1 @@
+"""MedAudit backend application package."""

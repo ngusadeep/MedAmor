@@ -1,14 +1,106 @@
-# MedAudit
+# MedArmor
 
-A monorepo containing frontend and backend components for medical audit system.
+**Automated medical guideline compliance auditing for Electronic Health
+Record systems.**
+
+MedArmor monitors EHR data through FHIR interfaces and audits patient
+records against clinical guidelines to identify cases where care protocols
+may not have been followed. It converts complex FHIR bundles into
+human-readable timelines, flags potential compliance gaps, and surfaces
+findings through a web dashboard for clinical review.
+
+<!-- TODO: Add a screenshot of the dashboard here -->
+<!-- ![MedArmor Dashboard](docs/images/dashboard.png) -->
+
+## Prerequisites
+
+- [Docker](https://docs.docker.com/get-docker/) and
+  [Docker Compose v2](https://docs.docker.com/compose/install/)
+  - On Ubuntu/Debian: `sudo apt install docker-compose-v2`
+
+## 1. Point to your FHIR API
+
+<!-- TODO: Add steps on specifying an FHIR URL to connect to -->
+If you do not have a FHIR API server but wish to test, see the
+instructions in [ehr/README.md](./ehr/README.md).
+
+## 2. Start the application
+
+```bash
+git clone https://github.com/<owner>/MedAudit.git
+cd MedAudit
+sudo docker compose up --build
+```
+
+## 3. Create your first user
+
+```bash
+# Interactive (recommended)
+sudo docker compose exec -it platform_web uv run platform-cli create-user
+
+# Or non-interactive
+sudo docker compose exec platform_web uv run platform-cli create-user \
+  --username admin \
+  --email admin@example.com \
+  --password yourpassword \
+  --admin
+```
+
+## 4. Open the dashboard
+
+Navigate to <http://localhost:8080> and log in.
+
+---
+
+# Operations
+
+## Development with Hot Reloading
+
+The development setup automatically reloads when you make changes:
+
+- **Backend changes**: Edit files in `platform/backend/` — Flask will
+  reload automatically
+- **Frontend changes**: Edit files in `platform/ui/src/` — Vite HMR
+  updates the browser instantly
+
+## Stopping the Application
+
+```bash
+# Stop containers
+sudo docker compose down
+
+# Stop and remove data volumes
+sudo docker compose down -v
+```
+
+See `platform/README.md` for detailed documentation on migrations, CLI
+commands, API endpoints, and production deployment.
+
+---
+
+# Architecture
+
+The system is made of these components:
+
+- Web UI: http://localhost:8080
+- API: http://localhost:8080/api
+- API Database: localhost:5432
+
+<!-- TODO: Fill in some technical information -->
+
+---
+
+# Contributing
 
 ## Branching Strategy
 
 ### Main Branches
-- **`main`** - Production-ready code
-- **`develop`** - Integration branch for new features
+
+- **`main`** — Production-ready code
+- **`develop`** — Integration branch for new features
 
 ### Feature Branches
+
 - Frontend contributors: `feature/frontend/[feature-name]`
 - Backend contributors: `feature/backend/[feature-name]`
 
@@ -51,70 +143,3 @@ A monorepo containing frontend and backend components for medical audit system.
 4. Create your feature branch from `develop`
 
 ## Commit Convention
-
-- `feat:` - New features
-- `fix:` - Bug fixes
-- `docs:` - Documentation
-- `style:` - Code style changes
-- `refactor:` - Code refactoring
-- `test:` - Testing
-- `chore:` - Maintenance
-
-
-
-## Platform Setup
-
-The platform provides a web application with a Flask backend, React frontend, and PostgreSQL database.
-
-### Prerequisites
-
-- Docker and Docker Compose v2 (**get v2**)
-  - `sudo apt install docker-compose-v2`
-- (Optional) Node.js 20+ and Python 3.11+ for local development
-  - Find commands to install nvm then run `nvm install node`
-
-### Quick Start
-
-```bash
-# Build and start all containers
-sudo docker compose up --build
-
-# The application will be available at:
-# - Web UI: http://localhost:8080
-# - API: http://localhost:8080/api
-# - Database: localhost:5432
-```
-
-### Create Your First User
-
-```bash
-# Interactive mode (preferred to keep passwords secure)
-sudo docker compose exec -it platform_web uv run platform-cli create-user
-
-# Or non-interactive
-sudo docker compose exec platform_web uv run platform-cli create-user \
-  --username admin \
-  --email admin@example.com \
-  --password yourpassword \
-  --admin
-```
-
-### Development with Hot Reloading
-
-The development setup automatically reloads when you make changes:
-
-- **Backend changes**: Edit files in `platform/backend/` - Flask will reload automatically
-- **Frontend changes**: Edit files in `platform/ui/src/` - Vite HMR updates the browser instantly
-
-
-### Stopping the Application
-
-```bash
-# Stop containers
-sudo docker compose down
-
-# Stop and remove data volumes
-sudo docker compose down -v
-```
-
-See `platform/README.md` for detailed documentation on migrations, CLI commands, API endpoints, and production deployment.
