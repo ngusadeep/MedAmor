@@ -1,0 +1,1 @@
+"""MedAudit application module."""
