@@ -4,22 +4,7 @@ Terminal-based patient browser for FHIR servers. Browse patients, view timelines
 
 ## Prerequisites
 
-Start the FHIR server:
-```bash
-docker compose up hapi_fhir hapi_db
-```
-
-Verify it's running:
-```bash
-curl -X GET "http://localhost:8080/fhir/metadata"
-```
-
-And verify it has data:
-```bash
-curl -s "http://localhost:9080/fhir/Patient?_count=1" | jq '.entry[0].resource.id'
-```
-
-If no data exists, see `ehr/README.md` for loading synthetic patient data.
+Start the FHIR server using the instructions in <ehr/README.md> for starting the EHR and loading test data
 
 ## Usage
 

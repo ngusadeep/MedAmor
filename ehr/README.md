@@ -1,53 +1,80 @@
-# Notes
+# EHR Test System
 
-Run the docker compose up --build command as described in the
-top level README - this will create the Hapi FHIR server. Note
-that it took several minutes without any output before the
-server became available
+This is a test FHIR server that mimicks an EHR system.
 
-If you are just working on building data, you can skip
-running the full stack and just run the EHR:
+As part of this system, we have data that can be loaded into the EHR so the
+server can act as a live EHR.
+
+## Running
+
+Make sure you have docker compose v2 installed. See notes in the MedArmor
+README for details.
+
+If running from the `ehr` folder, run using
 
 ```
-sudo docker compose up hapi_fhir hapi_db
+sudo docker compose up --build
 ```
 
+If running from the base directory of this repository, run using
 
-To test the server is running, execute the following:
+```
+sudo docker compose -f ehr/docker-compose.yml up --build
+```
+
+Note that it can take several minutes without any output before the server
+becomes available.
+
+To test the server is running, run the following:
 
 ```
 curl -X GET "http://localhost:9080/fhir/metadata"
 ```
 
+Additional commands are below.
 
-## Making data
+## Loading Data
 
-Data was made using the notes in <data_notes.md>
+We have data prepared to load into the system. If you wish to make this data
+yourself or make it in a different way, see <data_notes.md>.
 
-There is no need to actually make this data
-
-## Uploading data
+## Uploading Data
 
 ```
 ./upload_fhir.sh data/breast/fhir/
 ```
 
+## Other Notes
 
+### See some data
 
-
-## See some data
-
-Run this curl to find a patient to get data for (you can remove the `| jq ...` to see the patient object)
+Run this curl to find a patient to get data for (you can remove the
+`| jq ...` to see the patient object):
 
 ```
 curl -s "http://localhost:9080/fhir/Patient?_count=1&_pretty=true" | jq '.entry[0].resource.id'
 ```
 
-Take the output from that, I got 26171, and put it into the URL below to retrieve the full patient chart:
+Take the output from that, I got 26171, and put it into the URL below to
+retrieve the full patient chart:
 
 ```
 curl "http://localhost:9080/fhir/Patient/26171/\$everything?_pretty=true"
 ```
 
-You may also use the interactive browser in the `orchestrator/interactive_fhir_browser` (see the README there)
+You may also use the interactive browser in the
+`orchestrator/interactive_fhir_browser` (see the README there).
 
+### Taking the server down
+
+```
+sudo docker compose down
+```
+
+### Resetting the DB
+
+First take the server down, then run the following:
+
+```
+sudo docker volume rm medaudit_hapi_db_data
+```
