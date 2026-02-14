@@ -5,12 +5,14 @@ from dotenv import load_dotenv
 load_dotenv()
 
 from flask import Flask, jsonify, request
+from flask_cors import CORS
 from celery.result import AsyncResult
 
 from aiorchestrator.tasks import run_patient_audit
 from aiorchestrator.celery_app import celery_app
 
 app = Flask(__name__)
+CORS(app)  # Enable CORS for all routes
 
 
 @app.route("/audit", methods=["POST"])
@@ -65,12 +67,14 @@ def get_audit_status(job_id):
         if task.state == "PENDING":
             response = {
                 "status": "pending",
+                "state": "PENDING",
                 "job_id": job_id,
                 "message": "Audit job is waiting in queue",
             }
         elif task.state == "PROCESSING":
             response = {
                 "status": "processing",
+                "state": "PROCESSING",
                 "job_id": job_id,
                 "message": "Audit is being processed",
                 "meta": task.info,  # Progress info
@@ -79,18 +83,21 @@ def get_audit_status(job_id):
             result = task.result
             response = {
                 "status": "completed",
+                "state": "SUCCESS",
                 "job_id": job_id,
                 "result": result,
             }
         elif task.state == "FAILURE":
             response = {
                 "status": "failed",
+                "state": "FAILURE",
                 "job_id": job_id,
                 "message": str(task.info),  # Exception info
             }
         else:
             response = {
                 "status": task.state.lower(),
+                "state": task.state,
                 "job_id": job_id,
                 "message": f"Job is in state: {task.state}",
             }

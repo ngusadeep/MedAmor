@@ -9,20 +9,18 @@ if [ -f .env ]; then
     export $(cat .env | grep -v '^#' | xargs)
 fi
 
-# Check if Redis is running
-if ! redis-cli ping > /dev/null 2>&1; then
-    echo "⚠ Redis is not running!"
-    echo ""
-    echo "Start it with:"
-    echo "  docker compose up redis -d"
-    echo ""
-    echo "Or install locally:"
-    echo "  Mac: brew install redis && redis-server"
-    echo "  Linux: sudo apt install redis-server && redis-server"
-    exit 1
+# Check if Redis is running (try redis-cli if available, otherwise skip check)
+if command -v redis-cli &> /dev/null; then
+    if redis-cli ping > /dev/null 2>&1; then
+        echo "✓ Redis is running"
+    else
+        echo "⚠ Warning: redis-cli found but cannot connect to Redis"
+        echo "  Make sure Redis is running: docker compose up redis -d"
+    fi
+else
+    echo "ℹ Skipping Redis check (redis-cli not installed)"
+    echo "  Ensure Redis is running: docker compose up redis -d"
 fi
-
-echo "✓ Redis is running"
 echo ""
 echo "Starting worker with concurrency=2..."
 echo "Press Ctrl+C to stop"

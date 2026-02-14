@@ -47,34 +47,35 @@ flowchart TB
         HTTP[HTTP Client]
     end
 
-    subgraph API["Flask API (main.py)"]
-        POST[POST /audit]
-        GET_STATUS[GET /audit/&lt;job_id&gt;]
-        GET_RESULT[GET /audit/&lt;job_id&gt;/result]
-        QUEUE_STATS[GET /queue/stats]
-        HEALTH[GET /health]
+    subgraph API["Flask API"]
+        POST["POST /audit"]
+        GET_STATUS["GET /audit/job_id"]
+        GET_RESULT["GET /audit/job_id/result"]
+        QUEUE_STATS["GET /queue/stats"]
+        HEALTH["GET /health"]
     end
 
     subgraph Queue["Task Queue"]
-        Redis[(Redis Broker)]
+        Redis[(Redis)]
         Celery[Celery Worker]
     end
 
-    subgraph Agent["LangGraph Agent (agent.py)"]
+    subgraph Agent["LangGraph Agent"]
         direction TB
-        START([START]) --> FETCH[fetch_fhir]
-        FETCH --> RETRIEVE[retrieve_docs]
-        RETRIEVE --> GENERATE[generate_report]
-        GENERATE --> END([END])
+        FETCH[fetch_fhir]
+        RETRIEVE[retrieve_docs]
+        GENERATE[generate_report]
+        FETCH --> RETRIEVE
+        RETRIEVE --> GENERATE
     end
 
     subgraph Data["Data Sources"]
-        FHIR[HAPI FHIR Server]
+        FHIR[HAPI FHIR]
         Chroma[(ChromaDB)]
-        Gemini[Google Gemini API]
+        Gemini[Google Gemini]
     end
 
-    subgraph Modules["Internal Modules"]
+    subgraph Modules["Modules"]
         FHIR_MOD[fhir.py]
         VECTOR[vector_store.py]
     end
@@ -87,15 +88,13 @@ flowchart TB
 
     POST --> Redis
     Redis --> Celery
-    Celery --> Agent
+    Celery --> FETCH
 
     FETCH --> FHIR_MOD
     FHIR_MOD --> FHIR
     RETRIEVE --> VECTOR
     VECTOR --> Chroma
     GENERATE --> Gemini
-
-    Celery --> Redis
 ```
 
 ---
@@ -106,23 +105,12 @@ flowchart TB
 stateDiagram-v2
     [*] --> fetch_fhir: patient_id, audit_type
     fetch_fhir --> retrieve_docs: fhir_data
-    retrieve_docs --> generate_report: context (RAG chunks)
+    retrieve_docs --> generate_report: context
     generate_report --> [*]: report
 
-    note right of fetch_fhir
-        - HAPI FHIR $everything
-        - Or dummy bundle if USE_DUMMY_FHIR=true
-    end note
-
-    note right of retrieve_docs
-        - ChromaDB similarity_search
-        - Google Embeddings (gemini-embedding-001)
-    end note
-
-    note right of generate_report
-        - ChatGoogleGenerativeAI
-        - Structured output (compliant, gaps, evidence)
-    end note
+    note right of fetch_fhir: HAPI FHIR or dummy data
+    note right of retrieve_docs: ChromaDB + Google Embeddings
+    note right of generate_report: Gemini structured output
 ```
 
 ---
@@ -131,30 +119,37 @@ stateDiagram-v2
 
 ```
 aiorchestrator/
-├── main.py                 # Flask app: HTTP API, Celery task dispatch
+├── main.py                    # Flask app: HTTP API, Celery task dispatch
 ├── pyproject.toml
-├── ARCHITECTURE.md         # This file
+├── ARCHITECTURE.md            # This file
+├── start_worker.sh            # Start Celery worker (requires Redis)
 │
-├── aiorchestrator/         # Python package
+├── aiorchestrator/            # Python package
 │   ├── __init__.py
-│   ├── celery_app.py      # Celery config (Redis broker)
-│   ├── tasks.py           # run_patient_audit Celery task
+│   ├── celery_app.py         # Celery config (Redis broker)
+│   ├── tasks.py              # run_patient_audit Celery task
 │   │
 │   └── app/
 │       ├── __init__.py
-│       ├── agent.py       # LangGraph StateGraph (fetch_fhir → retrieve_docs → generate_report)
-│       ├── fhir.py        # fetch_patient_bundle, format_patient_summary
-│       └── vector_store.py # ChromaDB + Google Embeddings, ingest_guidelines
+│       ├── agent.py          # LangGraph StateGraph (fetch_fhir → retrieve_docs → generate_report)
+│       ├── fhir.py           # fetch_patient_bundle, format_patient_summary
+│       └── vector_store.py   # ChromaDB + Google Embeddings, ingest_guidelines
 │
 ├── tests/
 │   ├── test_fhir_client.py
 │   ├── test_fhir_reader_adapter.py
 │   ├── test_guidelines.py
 │   ├── test_orchestrator.py
-│   └── test_prompt_builder.py
+│   ├── test_prompt_builder.py
+│   └── test_breast_cancer_screening.py
 │
-├── ingest_guidelines.py    # CLI to load guidelines into ChromaDB
-└── .env                    # GOOGLE_API_KEY, REDIS_URL, HAPI_FHIR_URL, USE_DUMMY_FHIR
+├── ingest_guidelines.py       # CLI: python ingest_guidelines.py [--kb-path PATH] [--force]
+├── breast_cancer_screening_guidelines.md  # Domain guideline (ingested into ChromaDB)
+├── BREAST_CANCER_MVP_GUIDE.md
+├── LIVE_TEST_RESULTS.md
+├── TEST_REPORT.md
+├── DEMO_RESPONSES.md
+└── .env                       # GOOGLE_API_KEY, REDIS_URL, HAPI_FHIR_URL, USE_DUMMY_FHIR, MEDICAL_KB_PATH
 ```
 
 ---
@@ -163,7 +158,7 @@ aiorchestrator/
 
 | Stage | Input | Output |
 |-------|-------|--------|
-| **POST /audit** | `{patient_id, audit_type}` | `{job_id}` (202 Accepted) |
+| **POST /audit** | `{patient_id, audit_type}` | `{status: "queued", job_id, check_status}` (202 Accepted) |
 | **Celery Task** | `patient_id, audit_type` | Queued → Worker |
 | **fetch_fhir** | `patient_id` | `fhir_data` (FHIR Bundle) |
 | **format_patient_summary** | `fhir_data` | Narrative string |
@@ -173,11 +168,26 @@ aiorchestrator/
 
 ---
 
+## Quick Start
+
+| Command | Purpose |
+|---------|---------|
+| `uv run python main.py` | Start Flask API (port 5001) |
+| `./start_worker.sh` | Start Celery worker (requires Redis) |
+| `uv run python ingest_guidelines.py --kb-path ../docs/Medical_KB` | Load guidelines into ChromaDB |
+| `curl -X POST http://localhost:5001/audit -H "Content-Type: application/json" -d '{"patient_id":"123","audit_type":"breast_cancer_screening"}'` | Submit audit job |
+
+---
+
 ## External Dependencies
 
 | Component | Purpose |
 |-----------|---------|
 | **Redis** | Celery message broker & result backend |
-| **HAPI FHIR** | Patient data (or dummy if `USE_DUMMY_FHIR=true`) |
+| **HAPI FHIR** | Patient data via `$everything` (or dummy if `USE_DUMMY_FHIR=true`) |
 | **ChromaDB** | Vector store for clinical guidelines (local `./chroma_data`) |
 | **Google Gemini** | LLM (gemini-2.0-flash-exp) + Embeddings (gemini-embedding-001) |
+
+### Audit Types (examples)
+
+- `cardiology_compliance`, `breast_cancer_screening`, `hypertension`, `diabetes_management`, `general`
