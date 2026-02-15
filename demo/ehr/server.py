@@ -9,10 +9,10 @@ from contextlib import asynccontextmanager
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 
-from app.core.config import settings
-from app.database.connection import create_tables
-from app.routes.health import router as health_router
-from app.routes.patients import router as patients_router
+from ehr.app.core.config import settings
+from ehr.app.database.connection import create_tables
+from ehr.app.routes.health import router as health_router
+from ehr.app.routes.patients import router as patients_router
 
 
 @asynccontextmanager
@@ -23,8 +23,8 @@ async def lifespan(app: FastAPI):
 
     # Run migration to populate patients from files (if database is empty)
     from sqlalchemy.orm import Session
-    from app.database.connection import SessionLocal
-    from app.database.patient_service import get_all_patients
+    from ehr.app.database.connection import SessionLocal
+    from ehr.app.database.patient_service import get_all_patients
 
     with SessionLocal() as db:
         existing_patients = get_all_patients(db)
@@ -34,7 +34,7 @@ async def lifespan(app: FastAPI):
             import subprocess
             import sys
             try:
-                result = subprocess.run([sys.executable, "migrate_patients.py"],
+                result = subprocess.run([sys.executable, "ehr/migrate_patients.py"],
                                       cwd="/app",
                                       capture_output=True,
                                       text=True)

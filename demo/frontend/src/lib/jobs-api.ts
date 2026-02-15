@@ -108,6 +108,50 @@ export function listAuditReports(params?: {
   return apiGet<AuditReportResponse[]>(`/audit-reports${qs ? `?${qs}` : ''}`)
 }
 
+// Patient management API
+export interface PatientResponse {
+  id: string
+  patient_id: string
+  patient_name: string | null
+  status: string
+  last_audit_date: string | null
+  next_audit_date: string | null
+  risk_level: string | null
+  created_at: string
+  updated_at: string
+}
+
+export interface PatientStats {
+  total_patients: number
+  status_counts: Record<string, number>
+  due_for_review_count: number
+}
+
+export function listPatients(params?: {
+  status?: string
+}): Promise<PatientResponse[]> {
+  const search = new URLSearchParams()
+  if (params?.status) search.set('status', params.status)
+  const qs = search.toString()
+  return apiGet<PatientResponse[]>(`/patients${qs ? `?${qs}` : ''}`)
+}
+
+export function getPatientStats(): Promise<PatientStats> {
+  return apiGet<PatientStats>('/patients/stats')
+}
+
+export function syncPatients(): Promise<{ message: string }> {
+  return apiPost<{ message: string }>('/patients/sync', {})
+}
+
+export function updatePatientStatus(): Promise<{ updated_patients: number }> {
+  return apiPost<{ updated_patients: number }>('/patients/update-status', {})
+}
+
+export function listPatientsDueForReview(): Promise<PatientResponse[]> {
+  return apiGet<PatientResponse[]>('/patients/due-for-review')
+}
+
 export function getAuditReport(reportId: string): Promise<AuditReportResponse> {
   return apiGet<AuditReportResponse>(`/audit-reports/${reportId}`)
 }

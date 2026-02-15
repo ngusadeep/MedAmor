@@ -8,11 +8,13 @@ services:
   ehr:
     image: medaudit-app
     container_name: ehr_service
+    working_dir: /app
     command: ["uvicorn", "ehr.server:app", "--host", "0.0.0.0", "--port", "8000"]
     env_file: .env
     environment:
       DATABASE_URL: ${EHR_DATABASE_URL}
       EHR_DATA_PATH: /app/ehr
+      PYTHONPATH: /app:/app/ehr
     volumes:
       - ./ehr:/app/ehr:ro
     depends_on:

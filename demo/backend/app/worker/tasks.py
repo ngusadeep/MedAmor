@@ -62,44 +62,42 @@ def run_audit_task(self, job_id: str):
 def create_scheduled_audit_jobs():
     """
     CRON: create audit jobs for patients due for review (next_audit_date <= today)
-    or never audited. No medical logic—only decides who to queue.
+    or never audited. Uses Patient model for tracking.
     """
     from app.models.job import AUDIT_TYPE_DEFAULT
+    from app.models.patient import Patient, PatientStatus
 
     db = SessionLocal()
     try:
         today = datetime.now(timezone.utc).date()
-        # Latest report per patient (by created_at)
-        reports = (
-            db.query(AuditReport)
-            .order_by(AuditReport.patient_id, AuditReport.created_at.desc())
+
+        # Get patients who are due for review based on their status and dates
+        due_patients = (
+            db.query(Patient)
+            .filter(
+                Patient.is_active == True,
+                Patient.status.in_([
+                    PatientStatus.DUE_FOR_REVIEW,
+                    PatientStatus.NEVER_AUDITED,
+                    PatientStatus.NEEDS_ATTENTION
+                ])
+            )
             .all()
         )
-        latest_by_patient: dict[str, AuditReport] = {}
-        for r in reports:
-            if r.patient_id not in latest_by_patient:
-                latest_by_patient[r.patient_id] = r
-        due_patient_ids = [
-            pid
-            for pid, r in latest_by_patient.items()
-            if r.next_audit_date is not None
-            and r.next_audit_date.date() <= today
-        ]
-        all_patients = {p.patient_id for p in list_patients()}
-        audited = set(latest_by_patient.keys())
-        never_audited = list(all_patients - audited)
-        to_queue = list(dict.fromkeys(due_patient_ids + never_audited))
+
         created = 0
-        for patient_id in to_queue:
+        for patient in due_patients:
+            # Check if there's already a pending job for this patient
             existing = (
                 db.query(Job)
-                .filter(Job.patient_id == patient_id, Job.status == JobStatus.PENDING)
+                .filter(Job.patient_id == patient.patient_id, Job.status == JobStatus.PENDING)
                 .first()
             )
             if existing:
                 continue
+
             job = Job(
-                patient_id=patient_id,
+                patient_id=patient.patient_id,
                 audit_type=AUDIT_TYPE_DEFAULT,
                 status=JobStatus.PENDING,
                 triggered_by="scheduled",
@@ -108,6 +106,11 @@ def create_scheduled_audit_jobs():
             db.commit()
             run_audit_task.delay(str(job.id))
             created += 1
-        return {"ok": True, "jobs_created": created, "due": len(due_patient_ids), "never_audited": len(never_audited)}
+
+        return {
+            "ok": True,
+            "jobs_created": created,
+            "due_patients": len(due_patients)
+        }
     finally:
         db.close()

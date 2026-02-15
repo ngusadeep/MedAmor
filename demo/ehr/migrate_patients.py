@@ -6,9 +6,11 @@ from pathlib import Path
 
 from sqlalchemy.orm import Session
 
-from app.core.config import settings
-from app.database.connection import SessionLocal, create_tables
-from app.database.patient_service import create_patient
+from sqlalchemy import text
+
+from ehr.app.core.config import settings
+from ehr.app.database.connection import SessionLocal, create_tables
+from ehr.app.database.patient_service import create_patient
 
 
 def extract_patient_name_from_text(ehr_text: str) -> str | None:
@@ -46,7 +48,7 @@ def migrate_patients_from_files():
 
     with SessionLocal() as db:
         # Clear existing data (optional, for re-migration)
-        db.execute("DELETE FROM patients")
+        db.execute(text("DELETE FROM patients"))
         db.commit()
 
         # Process each patient directory
