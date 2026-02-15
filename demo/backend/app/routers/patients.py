@@ -8,24 +8,26 @@ from app.core.database import get_db_session
 from app.core.deps import get_current_user_required
 from app.models.user import User
 from app.schemas.patient import PatientResponse, PatientStats
-from app.services.ehr_mock import list_patients
+from app.services.ehr_mock import list_patients as list_ehr_patients
 
 router = APIRouter(prefix="/patients", tags=["patients"])
 
 
 @router.get("/", response_model=List[PatientResponse])
-def list_patients(
+def get_patients(
     status: str | None = None,
     _user: User = Depends(get_current_user_required)
 ) -> List[PatientResponse]:
     """List all patients from EHR service."""
-    ehr_patients = list_patients()
+    ehr_patients = list_ehr_patients()
 
     # Filter by status if provided (simplified - in real implementation would track status)
     if status:
         # For now, just return all patients since we don't track status in EHR service
         pass
 
+    from datetime import datetime
+    now = datetime.now()
     return [
         PatientResponse(
             id=p.patient_id,  # Use patient_id as ID since we don't have local IDs
@@ -35,8 +37,8 @@ def list_patients(
             last_audit_date=None,
             next_audit_date=None,
             risk_level=None,
-            created_at=None,
-            updated_at=None
+            created_at=now,
+            updated_at=now
         )
         for p in ehr_patients
     ]
@@ -52,7 +54,7 @@ def get_patient_stats(
     from app.models.audit_report import AuditReport
 
     # Get EHR patients
-    ehr_patients = list_patients()
+    ehr_patients = list_ehr_patients()
     total_patients = len(ehr_patients)
 
     # Count jobs by status
@@ -77,12 +79,21 @@ def get_patient_stats(
     )
 
 
+@router.post("/sync")
+def sync_patients(
+    _user: User = Depends(get_current_user_required)
+):
+    """Trigger patient sync from EHR service (no-op since we fetch on-demand)."""
+    return {"message": "Patient sync completed", "status": "success"}
+
 @router.get("/due-for-review", response_model=List[PatientResponse])
 def list_patients_due_for_review(
     _user: User = Depends(get_current_user_required)
 ) -> List[PatientResponse]:
     """Get patients who are due for review (simplified - all patients)."""
-    ehr_patients = list_patients()
+    from datetime import datetime
+    ehr_patients = list_ehr_patients()
+    now = datetime.now()
     return [
         PatientResponse(
             id=p.patient_id,
@@ -92,8 +103,8 @@ def list_patients_due_for_review(
             last_audit_date=None,
             next_audit_date=None,
             risk_level=None,
-            created_at=None,
-            updated_at=None
+            created_at=now,
+            updated_at=now
         )
         for p in ehr_patients
     ]

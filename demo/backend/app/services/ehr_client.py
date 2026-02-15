@@ -7,7 +7,7 @@ from app.schemas.ehr import EHRPatientBundle, EHRPatientSummary
 
 def list_patients_from_service(base_url: str) -> list[EHRPatientSummary]:
     """GET {base_url}/patients -> list[EHRPatientSummary]."""
-    url = base_url.rstrip("/") + "/patients"
+    url = base_url.rstrip("/") + "/patients/"
     with httpx.Client(timeout=30.0) as client:
         r = client.get(url)
         r.raise_for_status()
@@ -19,7 +19,7 @@ def get_patient_bundle_from_service(
     base_url: str, patient_id: str, export_type: str = "full"
 ) -> EHRPatientBundle | None:
     """GET {base_url}/patients/{patient_id}?export_type=... -> EHRPatientBundle or None if 404."""
-    url = f"{base_url.rstrip('/')}/patients/{patient_id}"
+    url = f"{base_url.rstrip('/')}/patients/{patient_id}/"
     with httpx.Client(timeout=60.0) as client:
         r = client.get(url, params={"export_type": export_type})
         if r.status_code == 404:
