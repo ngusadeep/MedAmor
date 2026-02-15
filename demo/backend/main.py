@@ -64,5 +64,5 @@ if __name__ == "__main__":
         "main:app",
         host=settings.host,
         port=settings.port,
-        reload=settings.debug and settings.environment == "development",
+        reload=False,  # Disable reload in container environment
     )

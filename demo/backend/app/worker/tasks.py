@@ -61,36 +61,26 @@ def run_audit_task(self, job_id: str):
 @celery_app.task(name="app.worker.tasks.create_scheduled_audit_jobs")
 def create_scheduled_audit_jobs():
     """
-    CRON: create audit jobs for patients due for review (next_audit_date <= today)
-    or never audited. Uses Patient model for tracking.
+    CRON: create audit jobs for all patients from EHR service.
+    Simplified version: create jobs for all patients that don't have pending jobs.
     """
-    from app.models.job import AUDIT_TYPE_DEFAULT
-    from app.models.patient import Patient, PatientStatus
+    from app.models.job import AUDIT_TYPE_DEFAULT, JobStatus
 
     db = SessionLocal()
     try:
-        today = datetime.now(timezone.utc).date()
-
-        # Get patients who are due for review based on their status and dates
-        due_patients = (
-            db.query(Patient)
-            .filter(
-                Patient.is_active == True,
-                Patient.status.in_([
-                    PatientStatus.DUE_FOR_REVIEW,
-                    PatientStatus.NEVER_AUDITED,
-                    PatientStatus.NEEDS_ATTENTION
-                ])
-            )
-            .all()
-        )
+        # Get all patients from EHR service
+        from app.services.ehr_mock import list_patients
+        all_patients = list_patients()
 
         created = 0
-        for patient in due_patients:
-            # Check if there's already a pending job for this patient
+        for patient in all_patients:
+            # Check if there's already a pending or in-progress job for this patient
             existing = (
                 db.query(Job)
-                .filter(Job.patient_id == patient.patient_id, Job.status == JobStatus.PENDING)
+                .filter(
+                    Job.patient_id == patient.patient_id,
+                    Job.status.in_([JobStatus.PENDING, JobStatus.IN_PROGRESS])
+                )
                 .first()
             )
             if existing:
@@ -110,7 +100,7 @@ def create_scheduled_audit_jobs():
         return {
             "ok": True,
             "jobs_created": created,
-            "due_patients": len(due_patients)
+            "total_patients": len(all_patients)
         }
     finally:
         db.close()

@@ -1,19 +1,14 @@
-"""Patient management API endpoints."""
+"""Patient management API endpoints - fetches from EHR service."""
 
 from typing import List
-from fastapi import APIRouter, Depends, BackgroundTasks
+from fastapi import APIRouter, Depends
 from sqlalchemy.orm import Session
 
 from app.core.database import get_db_session
 from app.core.deps import get_current_user_required
-from app.models.patient import Patient, PatientStatus
 from app.models.user import User
 from app.schemas.patient import PatientResponse, PatientStats
-from app.services.patient_sync import (
-    sync_patients_from_ehr,
-    update_patient_status_from_reports,
-    get_patients_due_for_review
-)
+from app.services.ehr_mock import list_patients
 
 router = APIRouter(prefix="/patients", tags=["patients"])
 
@@ -21,29 +16,29 @@ router = APIRouter(prefix="/patients", tags=["patients"])
 @router.get("/", response_model=List[PatientResponse])
 def list_patients(
     status: str | None = None,
-    db: Session = Depends(get_db_session),
     _user: User = Depends(get_current_user_required)
 ) -> List[PatientResponse]:
-    """List all patients with optional status filter."""
-    query = db.query(Patient).filter(Patient.is_active == True)
+    """List all patients from EHR service."""
+    ehr_patients = list_patients()
 
+    # Filter by status if provided (simplified - in real implementation would track status)
     if status:
-        query = query.filter(Patient.status == status)
+        # For now, just return all patients since we don't track status in EHR service
+        pass
 
-    patients = query.order_by(Patient.patient_name).all()
     return [
         PatientResponse(
-            id=str(p.id),
+            id=p.patient_id,  # Use patient_id as ID since we don't have local IDs
             patient_id=p.patient_id,
             patient_name=p.patient_name,
-            status=p.status,
-            last_audit_date=p.last_audit_date,
-            next_audit_date=p.next_audit_date,
-            risk_level=p.risk_level,
-            created_at=p.created_at,
-            updated_at=p.updated_at
+            status="unknown",  # Simplified - would need to track status separately
+            last_audit_date=None,
+            next_audit_date=None,
+            risk_level=None,
+            created_at=None,
+            updated_at=None
         )
-        for p in patients
+        for p in ehr_patients
     ]
 
 
@@ -53,70 +48,52 @@ def get_patient_stats(
     _user: User = Depends(get_current_user_required)
 ) -> PatientStats:
     """Get patient statistics for dashboard."""
-    total_patients = db.query(Patient).filter(Patient.is_active == True).count()
+    from app.models.job import Job, JobStatus
+    from app.models.audit_report import AuditReport
 
-    status_counts = {}
-    for status in [
-        PatientStatus.NEVER_AUDITED,
-        PatientStatus.DUE_FOR_REVIEW,
-        PatientStatus.RECENTLY_AUDITED,
-        PatientStatus.COMPLIANT,
-        PatientStatus.NEEDS_ATTENTION
-    ]:
-        status_counts[status] = db.query(Patient).filter(
-            Patient.is_active == True,
-            Patient.status == status
-        ).count()
+    # Get EHR patients
+    ehr_patients = list_patients()
+    total_patients = len(ehr_patients)
 
-    due_patients = get_patients_due_for_review(db)
-    due_count = len(due_patients)
+    # Count jobs by status
+    pending_jobs = db.query(Job).filter(Job.status == JobStatus.PENDING).count()
+    completed_jobs = db.query(Job).filter(Job.status == JobStatus.COMPLETED).count()
+    failed_jobs = db.query(Job).filter(Job.status == JobStatus.FAILED).count()
+
+    # Count reports with findings
+    reports_with_findings = db.query(AuditReport).filter(
+        AuditReport.status == "FINDING_PRESENT"
+    ).count()
 
     return PatientStats(
         total_patients=total_patients,
-        status_counts=status_counts,
-        due_for_review_count=due_count
+        status_counts={
+            "pending_jobs": pending_jobs,
+            "completed_jobs": completed_jobs,
+            "failed_jobs": failed_jobs,
+            "reports_with_findings": reports_with_findings,
+        },
+        due_for_review_count=pending_jobs  # Simplified
     )
-
-
-@router.post("/sync")
-async def sync_patients(
-    background_tasks: BackgroundTasks,
-    db: Session = Depends(get_db_session),
-    _user: User = Depends(get_current_user_required)
-):
-    """Trigger async sync of patient data from EHR service."""
-    background_tasks.add_task(sync_patients_from_ehr, db)
-    return {"message": "Patient sync started in background"}
-
-
-@router.post("/update-status")
-def update_patient_status(
-    db: Session = Depends(get_db_session),
-    _user: User = Depends(get_current_user_required)
-):
-    """Update patient status based on latest audit reports."""
-    result = update_patient_status_from_reports(db)
-    return result
 
 
 @router.get("/due-for-review", response_model=List[PatientResponse])
 def list_patients_due_for_review(
-    db: Session = Depends(get_db_session),
     _user: User = Depends(get_current_user_required)
 ) -> List[PatientResponse]:
-    """Get patients who are due for review."""
-    patients = get_patients_due_for_review(db)
+    """Get patients who are due for review (simplified - all patients)."""
+    ehr_patients = list_patients()
     return [
         PatientResponse(
-            id=str(p.id),
+            id=p.patient_id,
             patient_id=p.patient_id,
             patient_name=p.patient_name,
-            status=p.status,
-            last_audit_date=p.last_audit_date,
-            next_audit_date=p.next_audit_date,
-            risk_level=p.risk_level,
-            created_at=p.created_at,
-            updated_at=p.updated_at
+            status="due_for_review",
+            last_audit_date=None,
+            next_audit_date=None,
+            risk_level=None,
+            created_at=None,
+            updated_at=None
         )
-        for p in patients
+        for p in ehr_patients
     ]
