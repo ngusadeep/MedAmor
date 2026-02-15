@@ -1,0 +1,30 @@
+# EHR Timeline
+Patient: Gretchen912 Jade952 Abbott774
+Patient ID: 045c7d06-7523-55f8-ad8c-cbe5bea00f25
+
+
+Patient: Gretchen912 Jade952 Abbott774 (id: 045c7d06-7523-55f8-ad8c-cbe5bea00f25)
+
+[2018-10-12] DiagnosticReport: History and physical note
+
+[2018-10-12] Encounter: 045c7d06-7523-55f8-6e0f-3d87f45cacba
+
+[2020-10-16] DiagnosticReport: History and physical note
+
+[2020-10-16] Encounter: 045c7d06-7523-55f8-ad01-8f05a351845e
+
+[2021-04-30] DiagnosticReport: History and physical note
+
+[2021-04-30] Encounter: 045c7d06-7523-55f8-24d1-4f4852a24e86
+
+[2021-05-21] DiagnosticReport: History and physical note
+
+[2021-05-21] Encounter: 045c7d06-7523-55f8-4a4d-2b4d9839110a
+
+[2022-10-21] DiagnosticReport: History and physical note
+
+[2022-10-21] Encounter: 045c7d06-7523-55f8-2dfb-af6b9d56be44
+
+[2024-10-25] DiagnosticReport: History and physical note
+
+[2024-10-25] Encounter: 045c7d06-7523-55f8-3533-0b741da7d344

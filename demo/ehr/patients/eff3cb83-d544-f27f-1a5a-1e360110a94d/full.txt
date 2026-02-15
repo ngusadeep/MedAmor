@@ -1,0 +1,30 @@
+# EHR Timeline
+Patient: Lise687 Kub800
+Patient ID: eff3cb83-d544-f27f-1a5a-1e360110a94d
+
+
+Patient: Lise687 Kub800 (id: eff3cb83-d544-f27f-1a5a-1e360110a94d)
+
+[2017-12-30] DiagnosticReport: History and physical note
+
+[2017-12-30] Encounter: eff3cb83-d544-f27f-d820-1daaddae9c14
+
+[2020-01-04] DiagnosticReport: History and physical note
+
+[2020-01-04] Encounter: eff3cb83-d544-f27f-50b0-ef2073cd8088
+
+[2022-01-08] DiagnosticReport: History and physical note
+
+[2022-01-08] Encounter: eff3cb83-d544-f27f-260b-ed1a7c22731a
+
+[2023-12-16] DiagnosticReport: History and physical note
+
+[2023-12-16] Encounter: eff3cb83-d544-f27f-a3b0-04edc984a250
+
+[2024-12-21] DiagnosticReport: History and physical note
+
+[2024-12-21] Encounter: eff3cb83-d544-f27f-f09a-121ce57afc44
+
+[2025-12-27] DiagnosticReport: History and physical note
+
+[2025-12-27] Encounter: eff3cb83-d544-f27f-25a8-e72b027776e0

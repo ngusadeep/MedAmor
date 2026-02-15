@@ -1,0 +1,356 @@
+# EHR Timeline
+Patient: Vesta905 Myrtle529 Toy286
+Patient ID: 2878024f-9b66-1bc1-e540-b3ea9c3ce539
+
+
+MedicationRequest: 2878024f-9b66-1bc1-0096-5470b38a53c6
+
+MedicationRequest: 2878024f-9b66-1bc1-caf3-4a1a920bdfd3
+
+Patient: Vesta905 Myrtle529 Toy286 (id: 2878024f-9b66-1bc1-e540-b3ea9c3ce539)
+
+Procedure: Biopsy of breast (procedure)
+
+Procedure: Bone density scan (procedure)
+
+Procedure: Discussion about options (procedure)
+
+Procedure: Excision of sentinel lymph node (procedure)
+
+Procedure: External beam radiation therapy procedure (procedure)
+
+Procedure: External beam radiation therapy procedure (procedure)
+
+Procedure: External beam radiation therapy procedure (procedure)
+
+Procedure: External beam radiation therapy procedure (procedure)
+
+Procedure: External beam radiation therapy procedure (procedure)
+
+Procedure: External beam radiation therapy procedure (procedure)
+
+Procedure: External beam radiation therapy procedure (procedure)
+
+Procedure: External beam radiation therapy procedure (procedure)
+
+Procedure: External beam radiation therapy procedure (procedure)
+
+Procedure: External beam radiation therapy procedure (procedure)
+
+Procedure: External beam radiation therapy procedure (procedure)
+
+Procedure: External beam radiation therapy procedure (procedure)
+
+Procedure: External beam radiation therapy procedure (procedure)
+
+Procedure: External beam radiation therapy procedure (procedure)
+
+Procedure: External beam radiation therapy procedure (procedure)
+
+Procedure: External beam radiation therapy procedure (procedure)
+
+Procedure: External beam radiation therapy procedure (procedure)
+
+Procedure: External beam radiation therapy procedure (procedure)
+
+Procedure: External beam radiation therapy procedure (procedure)
+
+Procedure: External beam radiation therapy procedure (procedure)
+
+Procedure: External beam radiation therapy procedure (procedure)
+
+Procedure: External beam radiation therapy procedure (procedure)
+
+Procedure: External beam radiation therapy procedure (procedure)
+
+Procedure: External beam radiation therapy procedure (procedure)
+
+Procedure: External beam radiation therapy procedure (procedure)
+
+Procedure: External beam radiation therapy procedure (procedure)
+
+Procedure: External beam radiation therapy procedure (procedure)
+
+Procedure: External beam radiation therapy procedure (procedure)
+
+Procedure: External beam radiation therapy procedure (procedure)
+
+Procedure: External beam radiation therapy procedure (procedure)
+
+Procedure: External beam radiation therapy procedure (procedure)
+
+Procedure: External beam radiation therapy procedure (procedure)
+
+Procedure: External beam radiation therapy procedure (procedure)
+
+Procedure: External beam radiation therapy procedure (procedure)
+
+Procedure: Human epidermal growth factor receptor 2 gene detection by fluorescence in situ hybridization (procedure)
+
+Procedure: Human epidermal growth factor receptor 2 gene detection by immunohistochemistry (procedure)
+
+Procedure: Lumpectomy of breast (procedure)
+
+Procedure: Mammography (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Screening mammography (procedure)
+
+Procedure: Sentinel lymph node biopsy (procedure)
+
+Procedure: Ultrasonography of bilateral breasts (procedure)
+
+[2006-08-30] DiagnosticReport: History and physical note
+
+[2006-08-30] Encounter: 2878024f-9b66-1bc1-8a9e-c4dee1a199b7
+
+[2007-09-05] DiagnosticReport: History and physical note
+
+[2007-09-05] Encounter: 2878024f-9b66-1bc1-a384-1feaab4640ce
+
+[2008-09-10] DiagnosticReport: History and physical note
+
+[2008-09-10] Encounter: 2878024f-9b66-1bc1-2e64-56b5ccdf150d
+
+[2009-09-16] DiagnosticReport: History and physical note
+
+[2009-09-16] Encounter: 2878024f-9b66-1bc1-e9fb-334b5b2518d7
+
+[2010-09-22] DiagnosticReport: History and physical note
+
+[2010-09-22] Encounter: 2878024f-9b66-1bc1-215a-814237a021fa
+
+[2011-09-28] DiagnosticReport: History and physical note
+
+[2011-09-28] Encounter: 2878024f-9b66-1bc1-a768-6f10c04dec15
+
+[2012-10-03] DiagnosticReport: History and physical note
+
+[2012-10-03] Encounter: 2878024f-9b66-1bc1-3f24-c5d9bd495415
+
+[2013-10-09] DiagnosticReport: History and physical note
+
+[2013-10-09] Encounter: 2878024f-9b66-1bc1-a4de-542db1120b70
+
+[2014-06-22] Condition: Malignant neoplasm of breast (disorder)
+
+[2014-06-22] DiagnosticReport: History and physical note
+
+[2014-06-22] Encounter: 2878024f-9b66-1bc1-9a95-20883cb8a936
+
+[2014-06-22] Observation: Distant metastases.clinical [Class] Cancer
+
+[2014-06-22] Observation: Lymph nodes with micrometastases [#] in Cancer specimen by Light microscopy
+
+[2014-06-22] Observation: Primary tumor.clinical [Class] Cancer
+
+[2014-06-22] Observation: Regional lymph nodes.clinical [Class] Cancer
+
+[2014-06-22] Observation: Site of distant metastasis in Breast tumor
+
+[2014-06-22] Observation: Size.maximum dimension in Tumor
+
+[2014-06-24] Observation: ERBB2 gene duplication [Presence] in Breast cancer specimen by FISH
+
+[2014-06-24] Observation: Estrogen receptor Ag [Presence] in Breast cancer specimen by Immune stain
+
+[2014-06-24] Observation: Estrogen+Progesterone receptor Ag [Presence] in Tissue by Immune stain
+
+[2014-06-24] Observation: HER2 [Presence] in Breast cancer specimen by Immune stain
+
+[2014-06-24] Observation: Progesterone receptor Ag [Presence] in Breast cancer specimen by Immune stain
+
+[2014-06-24] Observation: Stage group.clinical Cancer
+
+[2014-06-24] Observation: Stage group.clinical Cancer
+
+[2014-06-28] DiagnosticReport: History and physical note
+
+[2014-06-28] Encounter: 2878024f-9b66-1bc1-b75c-bde16c3cd8f7
+
+[2014-07-04] DiagnosticReport: History and physical note
+
+[2014-07-04] Encounter: 2878024f-9b66-1bc1-4502-1eff916eb394
+
+[2014-07-17] DiagnosticReport: History and physical note
+
+[2014-07-17] Encounter: 2878024f-9b66-1bc1-c8d3-46e7a766ad31
+
+[2014-07-19] DiagnosticReport: History and physical note
+
+[2014-07-19] Encounter: 2878024f-9b66-1bc1-eda8-8e4cd80e6b20
+
+[2014-07-20] DiagnosticReport: History and physical note
+
+[2014-07-20] Encounter: 2878024f-9b66-1bc1-b577-156cfec77948
+
+[2014-07-21] DiagnosticReport: History and physical note
+
+[2014-07-21] Encounter: 2878024f-9b66-1bc1-f92c-b77ef203358a
+
+[2014-07-22] DiagnosticReport: History and physical note
+
+[2014-07-22] Encounter: 2878024f-9b66-1bc1-51ce-afbca5f5405c
+
+[2014-07-23] DiagnosticReport: History and physical note
+
+[2014-07-23] Encounter: 2878024f-9b66-1bc1-3dcf-9c45572a8e8b
+
+[2014-07-25] DiagnosticReport: History and physical note
+
+[2014-07-25] Encounter: 2878024f-9b66-1bc1-828f-582d1de26fd0
+
+[2014-07-26] DiagnosticReport: History and physical note
+
+[2014-07-26] Encounter: 2878024f-9b66-1bc1-9e1c-2e0d6c54aff4
+
+[2014-07-27] DiagnosticReport: History and physical note
+
+[2014-07-27] Encounter: 2878024f-9b66-1bc1-179d-6f1a3c1f07d6
+
+[2014-07-28] DiagnosticReport: History and physical note
+
+[2014-07-28] Encounter: 2878024f-9b66-1bc1-45e3-14a6c2c78a81
+
+[2014-07-29] DiagnosticReport: History and physical note
+
+[2014-07-29] Encounter: 2878024f-9b66-1bc1-a1fc-be751e1dea33
+
+[2014-07-31] DiagnosticReport: History and physical note
+
+[2014-07-31] Encounter: 2878024f-9b66-1bc1-3004-0185433e05a2
+
+[2014-08-01] DiagnosticReport: History and physical note
+
+[2014-08-01] Encounter: 2878024f-9b66-1bc1-2e42-7a2fed54c865
+
+[2014-08-02] DiagnosticReport: History and physical note
+
+[2014-08-02] Encounter: 2878024f-9b66-1bc1-54a9-29ac76f69573
+
+[2014-08-03] DiagnosticReport: History and physical note
+
+[2014-08-03] Encounter: 2878024f-9b66-1bc1-f3d4-3ca3cd2c0c6a
+
+[2014-08-05] DiagnosticReport: History and physical note
+
+[2014-08-05] Encounter: 2878024f-9b66-1bc1-4d4d-11c5c2d17c7e
+
+[2014-08-06] DiagnosticReport: History and physical note
+
+[2014-08-06] Encounter: 2878024f-9b66-1bc1-7a78-fafc185d20de
+
+[2014-08-07] DiagnosticReport: History and physical note
+
+[2014-08-07] Encounter: 2878024f-9b66-1bc1-f207-63a4d87d1685
+
+[2014-08-08] DiagnosticReport: History and physical note
+
+[2014-08-08] Encounter: 2878024f-9b66-1bc1-2622-30b6b6ad4e32
+
+[2014-08-09] DiagnosticReport: History and physical note
+
+[2014-08-09] Encounter: 2878024f-9b66-1bc1-10ee-bf6e36945338
+
+[2014-08-10] DiagnosticReport: History and physical note
+
+[2014-08-10] Encounter: 2878024f-9b66-1bc1-6115-3fcdeb193044
+
+[2014-08-11] DiagnosticReport: History and physical note
+
+[2014-08-11] Encounter: 2878024f-9b66-1bc1-3ed3-8ff63b2a9bd6
+
+[2014-08-13] DiagnosticReport: History and physical note
+
+[2014-08-13] Encounter: 2878024f-9b66-1bc1-1ff6-af7ab305c30c
+
+[2014-08-14] DiagnosticReport: History and physical note
+
+[2014-08-14] Encounter: 2878024f-9b66-1bc1-6402-0996b9c7f130
+
+[2014-08-16] DiagnosticReport: History and physical note
+
+[2014-08-16] Encounter: 2878024f-9b66-1bc1-f38d-0fd67ea424c3
+
+[2014-08-17] DiagnosticReport: History and physical note
+
+[2014-08-17] Encounter: 2878024f-9b66-1bc1-830f-fe101cd61934
+
+[2014-08-18] DiagnosticReport: History and physical note
+
+[2014-08-18] Encounter: 2878024f-9b66-1bc1-486b-ef1b33465558
+
+[2014-08-20] DiagnosticReport: History and physical note
+
+[2014-08-20] Encounter: 2878024f-9b66-1bc1-e569-c706afa95697
+
+[2014-08-21] DiagnosticReport: History and physical note
+
+[2014-08-21] Encounter: 2878024f-9b66-1bc1-9adf-3b277668a35c
+
+[2014-08-22] DiagnosticReport: History and physical note
+
+[2014-08-22] Encounter: 2878024f-9b66-1bc1-7021-5422227ad75a
+
+[2014-08-23] DiagnosticReport: History and physical note
+
+[2014-08-23] Encounter: 2878024f-9b66-1bc1-408e-e40d1f85efa5
+
+[2014-08-25] DiagnosticReport: History and physical note
+
+[2014-08-25] Encounter: 2878024f-9b66-1bc1-e491-5f5dea828426
+
+[2014-08-26] DiagnosticReport: History and physical note
+
+[2014-08-26] Encounter: 2878024f-9b66-1bc1-d8d8-6432a1dcc045
+
+[2014-08-28] DiagnosticReport: History and physical note
+
+[2014-08-28] Encounter: 2878024f-9b66-1bc1-c88c-acd827498c2c
+
+[2014-09-01] DiagnosticReport: History and physical note
+
+[2014-09-01] Encounter: 2878024f-9b66-1bc1-c9e8-6061aa57ec08
+
+[2014-09-01] Observation: Response to cancer treatment
+
+[2014-09-01] Observation: Treatment status Cancer
+
+[2014-10-15] DiagnosticReport: History and physical note
+
+[2014-10-15] Encounter: 2878024f-9b66-1bc1-30de-6d28c774bf69
+
+[2014-12-23] DiagnosticReport: History and physical note
+
+[2014-12-23] Encounter: 2878024f-9b66-1bc1-1982-1a81371269be
+
+[2015-04-10] DiagnosticReport: History and physical note
+
+[2015-04-10] Encounter: 2878024f-9b66-1bc1-e0b3-216bb2b080cd
+
+[2015-07-27] DiagnosticReport: History and physical note
+
+[2015-07-27] DiagnosticReport: History and physical note
+
+[2015-07-27] DiagnosticReport: History and physical note
+
+[2015-07-27] Encounter: 2878024f-9b66-1bc1-523c-b552f8623289
+
+[2015-07-27] Encounter: 2878024f-9b66-1bc1-688a-8645e750c365
+
+[2015-07-27] Encounter: 2878024f-9b66-1bc1-a238-ea8f14b38291
+
+[2015-07-27] Observation: Response to cancer treatment
+
+[2015-09-23] DiagnosticReport: History and physical note
+
+[2015-09-23] DiagnosticReport: U.S. standard certificate of death - 2003 revision
+
+[2015-09-23] Encounter: 2878024f-9b66-1bc1-cc95-b997a6747fa7
+
+[2015-09-23] Observation: Cause of Death [US Standard Certificate of Death]

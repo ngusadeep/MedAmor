@@ -1,0 +1,202 @@
+# EHR Timeline
+Patient: Josefa6 Thersa321 Lindgren255
+Patient ID: e468c1c2-6f9f-5104-b806-92b152a19d06
+
+
+MedicationRequest: e468c1c2-6f9f-5104-2ef4-09196c97d90d
+
+MedicationRequest: e468c1c2-6f9f-5104-59a9-fb8059417101
+
+MedicationRequest: e468c1c2-6f9f-5104-7268-cba32ffcca5a
+
+MedicationRequest: e468c1c2-6f9f-5104-8afc-b2ed2f52844b
+
+MedicationRequest: e468c1c2-6f9f-5104-98cb-e513bdf452c8
+
+MedicationRequest: e468c1c2-6f9f-5104-b439-fd7731930d69
+
+MedicationRequest: e468c1c2-6f9f-5104-d78c-b81173559a56
+
+MedicationRequest: e468c1c2-6f9f-5104-d7c9-97abe41b5281
+
+MedicationRequest: e468c1c2-6f9f-5104-fb55-0f664350444c
+
+Patient: Josefa6 Thersa321 Lindgren255 (id: e468c1c2-6f9f-5104-b806-92b152a19d06)
+
+Procedure: Biopsy of breast (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Cytopathology procedure, preparation of smear, genital source (procedure)
+
+Procedure: Discussion about options (procedure)
+
+Procedure: Human epidermal growth factor receptor 2 gene detection by fluorescence in situ hybridization (procedure)
+
+Procedure: Human epidermal growth factor receptor 2 gene detection by immunohistochemistry (procedure)
+
+Procedure: Lumpectomy of breast (procedure)
+
+Procedure: Mammography (procedure)
+
+Procedure: Manual pelvic examination (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Screening mammography (procedure)
+
+Procedure: Ultrasonography of bilateral breasts (procedure)
+
+[2017-08-29] DiagnosticReport: History and physical note
+
+[2017-08-29] Encounter: e468c1c2-6f9f-5104-2556-98c4531cb601
+
+[2020-06-16] DiagnosticReport: History and physical note
+
+[2020-06-16] Encounter: e468c1c2-6f9f-5104-b7e5-dbc5c6f861e7
+
+[2021-11-02] DiagnosticReport: History and physical note
+
+[2021-11-02] Encounter: e468c1c2-6f9f-5104-8bb8-be347e8731ac
+
+[2021-11-30] DiagnosticReport: History and physical note
+
+[2021-11-30] Encounter: e468c1c2-6f9f-5104-9d68-24fb001ee952
+
+[2022-06-21] DiagnosticReport: History and physical note
+
+[2022-06-21] Encounter: e468c1c2-6f9f-5104-82ae-3cf872476f44
+
+[2023-11-02] Condition: Malignant neoplasm of breast (disorder)
+
+[2023-11-02] DiagnosticReport: History and physical note
+
+[2023-11-02] Encounter: e468c1c2-6f9f-5104-9bb6-400d64fa6127
+
+[2023-11-02] Observation: Distant metastases.clinical [Class] Cancer
+
+[2023-11-02] Observation: Lymph nodes with isolated tumor cells [#] in Cancer specimen by Light microscopy
+
+[2023-11-02] Observation: Primary tumor.clinical [Class] Cancer
+
+[2023-11-02] Observation: Regional lymph nodes.clinical [Class] Cancer
+
+[2023-11-02] Observation: Site of distant metastasis in Breast tumor
+
+[2023-11-02] Observation: Size.maximum dimension in Tumor
+
+[2023-11-04] Observation: ERBB2 gene duplication [Presence] in Breast cancer specimen by FISH
+
+[2023-11-04] Observation: Estrogen receptor Ag [Presence] in Breast cancer specimen by Immune stain
+
+[2023-11-04] Observation: HER2 [Presence] in Breast cancer specimen by Immune stain
+
+[2023-11-04] Observation: Progesterone receptor Ag [Presence] in Breast cancer specimen by Immune stain
+
+[2023-11-04] Observation: Stage group.clinical Cancer
+
+[2023-11-04] Observation: Stage group.clinical Cancer
+
+[2023-11-07] DiagnosticReport: History and physical note
+
+[2023-11-07] Encounter: e468c1c2-6f9f-5104-e8d2-bb80fa5c6bce
+
+[2023-11-10] DiagnosticReport: History and physical note
+
+[2023-11-10] Encounter: e468c1c2-6f9f-5104-cd41-6a936fdee210
+
+[2023-11-23] DiagnosticReport: History and physical note
+
+[2023-11-23] Encounter: e468c1c2-6f9f-5104-7274-f35fe2e33c3a
+
+[2023-12-13] DiagnosticReport: History and physical note
+
+[2023-12-13] Encounter: e468c1c2-6f9f-5104-41c6-a89b6c3920d4
+
+[2024-01-05] DiagnosticReport: History and physical note
+
+[2024-01-05] Encounter: e468c1c2-6f9f-5104-2506-345b317553b0
+
+[2024-01-28] DiagnosticReport: History and physical note
+
+[2024-01-28] Encounter: e468c1c2-6f9f-5104-5201-7a0cef388fb5
+
+[2024-02-17] DiagnosticReport: History and physical note
+
+[2024-02-17] Encounter: e468c1c2-6f9f-5104-795a-787985f85016
+
+[2024-03-08] DiagnosticReport: History and physical note
+
+[2024-03-08] Encounter: e468c1c2-6f9f-5104-92f3-11cc0343108c
+
+[2024-03-28] DiagnosticReport: History and physical note
+
+[2024-03-28] Encounter: e468c1c2-6f9f-5104-c1a9-cc388c2d8af5
+
+[2024-04-20] DiagnosticReport: History and physical note
+
+[2024-04-20] Encounter: e468c1c2-6f9f-5104-aa3f-94b7c374227b
+
+[2024-04-24] DiagnosticReport: History and physical note
+
+[2024-04-24] Encounter: e468c1c2-6f9f-5104-7f38-ad535255ae7a
+
+[2024-04-24] Observation: Response to cancer treatment
+
+[2024-04-24] Observation: Treatment status Cancer
+
+[2024-06-25] DiagnosticReport: History and physical note
+
+[2024-06-25] Encounter: e468c1c2-6f9f-5104-9fc4-5f8176959d33
+
+[2024-08-13] DiagnosticReport: History and physical note
+
+[2024-08-13] Encounter: e468c1c2-6f9f-5104-718c-9dcadfa6c041
+
+[2024-12-01] DiagnosticReport: History and physical note
+
+[2024-12-01] Encounter: e468c1c2-6f9f-5104-cd4b-d621bf9425cb
+
+[2025-03-27] DiagnosticReport: History and physical note
+
+[2025-03-27] DiagnosticReport: History and physical note
+
+[2025-03-27] DiagnosticReport: History and physical note
+
+[2025-03-27] Encounter: e468c1c2-6f9f-5104-0e85-6484ef7962c5
+
+[2025-03-27] Encounter: e468c1c2-6f9f-5104-325b-402554939f7c
+
+[2025-03-27] Encounter: e468c1c2-6f9f-5104-9ae9-19b566b4d484
+
+[2025-03-27] Observation: Response to cancer treatment
+
+[2025-07-25] DiagnosticReport: History and physical note
+
+[2025-07-25] Encounter: e468c1c2-6f9f-5104-6184-22c32d421aba
+
+[2025-11-17] DiagnosticReport: History and physical note
+
+[2025-11-17] Encounter: e468c1c2-6f9f-5104-d249-287957af14ac

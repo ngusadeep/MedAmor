@@ -1,0 +1,372 @@
+# EHR Timeline
+Patient: Milissa240 Lyla842 Hagenes547
+Patient ID: 424c8249-7134-dc63-7b3d-90b396e4a481
+
+
+MedicationRequest: 424c8249-7134-dc63-193a-65ff9765ce3b
+
+MedicationRequest: 424c8249-7134-dc63-47a5-6f537b135f41
+
+Patient: Milissa240 Lyla842 Hagenes547 (id: 424c8249-7134-dc63-7b3d-90b396e4a481)
+
+Procedure: Biopsy of breast (procedure)
+
+Procedure: Cytopathology procedure, preparation of smear, genital source (procedure)
+
+Procedure: Cytopathology procedure, preparation of smear, genital source (procedure)
+
+Procedure: Discussion about options (procedure)
+
+Procedure: Human epidermal growth factor receptor 2 gene detection by fluorescence in situ hybridization (procedure)
+
+Procedure: Human epidermal growth factor receptor 2 gene detection by immunohistochemistry (procedure)
+
+Procedure: Lumpectomy of breast (procedure)
+
+Procedure: Mammography (procedure)
+
+Procedure: Mammography (procedure)
+
+Procedure: Manual pelvic examination (procedure)
+
+Procedure: Manual pelvic examination (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Screening mammography (procedure)
+
+Procedure: Ultrasonography of bilateral breasts (procedure)
+
+[1995-08-28] DiagnosticReport: History and physical note
+
+[1995-08-28] Encounter: 424c8249-7134-dc63-9854-fc4d21e3a713
+
+[1998-08-31] DiagnosticReport: History and physical note
+
+[1998-08-31] Encounter: 424c8249-7134-dc63-40d0-aa82eb464dfa
+
+[2001-06-18] DiagnosticReport: History and physical note
+
+[2001-06-18] Encounter: 424c8249-7134-dc63-3748-82e849fb861f
+
+[2003-06-23] DiagnosticReport: History and physical note
+
+[2003-06-23] Encounter: 424c8249-7134-dc63-e547-7e3da9fe5fad
+
+[2003-07-05] Condition: Malignant neoplasm of breast (disorder)
+
+[2003-07-05] DiagnosticReport: History and physical note
+
+[2003-07-05] Encounter: 424c8249-7134-dc63-7592-1ed98bd8b361
+
+[2003-07-05] Observation: Distant metastases.clinical [Class] Cancer
+
+[2003-07-05] Observation: Lymph nodes with isolated tumor cells [#] in Cancer specimen by Light microscopy
+
+[2003-07-05] Observation: Primary tumor.clinical [Class] Cancer
+
+[2003-07-05] Observation: Regional lymph nodes.clinical [Class] Cancer
+
+[2003-07-05] Observation: Site of distant metastasis in Breast tumor
+
+[2003-07-05] Observation: Size.maximum dimension in Tumor
+
+[2003-07-07] Observation: ERBB2 gene duplication [Presence] in Breast cancer specimen by FISH
+
+[2003-07-07] Observation: Estrogen receptor Ag [Presence] in Breast cancer specimen by Immune stain
+
+[2003-07-07] Observation: Estrogen+Progesterone receptor Ag [Presence] in Tissue by Immune stain
+
+[2003-07-07] Observation: HER2 [Presence] in Breast cancer specimen by Immune stain
+
+[2003-07-07] Observation: Progesterone receptor Ag [Presence] in Breast cancer specimen by Immune stain
+
+[2003-07-07] Observation: Stage group.clinical Cancer
+
+[2003-07-07] Observation: Stage group.clinical Cancer
+
+[2003-07-10] DiagnosticReport: History and physical note
+
+[2003-07-10] Encounter: 424c8249-7134-dc63-543b-61b164915541
+
+[2003-07-12] DiagnosticReport: History and physical note
+
+[2003-07-12] Encounter: 424c8249-7134-dc63-dfda-2a20c122f1f3
+
+[2003-07-23] DiagnosticReport: History and physical note
+
+[2003-07-23] Encounter: 424c8249-7134-dc63-2dee-366683e4fa0a
+
+[2003-07-24] DiagnosticReport: History and physical note
+
+[2003-07-24] Encounter: 424c8249-7134-dc63-6b64-b2d0f0733425
+
+[2003-07-26] DiagnosticReport: History and physical note
+
+[2003-07-26] Encounter: 424c8249-7134-dc63-6035-bcb0a76f8744
+
+[2003-07-27] DiagnosticReport: History and physical note
+
+[2003-07-27] Encounter: 424c8249-7134-dc63-50ba-2232845c9b8a
+
+[2003-07-28] DiagnosticReport: History and physical note
+
+[2003-07-28] Encounter: 424c8249-7134-dc63-e357-c4258a38d88f
+
+[2003-07-29] DiagnosticReport: History and physical note
+
+[2003-07-29] Encounter: 424c8249-7134-dc63-c5d1-eb6e279e8989
+
+[2003-07-31] DiagnosticReport: History and physical note
+
+[2003-07-31] Encounter: 424c8249-7134-dc63-8b78-ca705ffae03d
+
+[2003-08-01] DiagnosticReport: History and physical note
+
+[2003-08-01] Encounter: 424c8249-7134-dc63-1c56-8354de7f4c98
+
+[2003-08-02] DiagnosticReport: History and physical note
+
+[2003-08-02] Encounter: 424c8249-7134-dc63-4fa8-3f9bf4a2875d
+
+[2003-08-04] DiagnosticReport: History and physical note
+
+[2003-08-04] Encounter: 424c8249-7134-dc63-0396-6ab51c34ad40
+
+[2003-08-05] DiagnosticReport: History and physical note
+
+[2003-08-05] Encounter: 424c8249-7134-dc63-9f57-e702f950cef4
+
+[2003-08-06] DiagnosticReport: History and physical note
+
+[2003-08-06] Encounter: 424c8249-7134-dc63-7e3d-58c34e2441b5
+
+[2003-08-08] DiagnosticReport: History and physical note
+
+[2003-08-08] Encounter: 424c8249-7134-dc63-21f2-d79e09638ca0
+
+[2003-08-09] DiagnosticReport: History and physical note
+
+[2003-08-09] Encounter: 424c8249-7134-dc63-f0f0-09df4ebf7e8b
+
+[2003-08-10] DiagnosticReport: History and physical note
+
+[2003-08-10] Encounter: 424c8249-7134-dc63-3a32-be74108a6f19
+
+[2003-08-11] DiagnosticReport: History and physical note
+
+[2003-08-11] Encounter: 424c8249-7134-dc63-c088-bfa6a244d3d9
+
+[2003-08-12] DiagnosticReport: History and physical note
+
+[2003-08-12] Encounter: 424c8249-7134-dc63-0a0c-0e24839d49bd
+
+[2003-08-13] DiagnosticReport: History and physical note
+
+[2003-08-13] Encounter: 424c8249-7134-dc63-448e-6e054ac2c4a6
+
+[2003-08-15] DiagnosticReport: History and physical note
+
+[2003-08-15] Encounter: 424c8249-7134-dc63-f112-65f8f2e53f8e
+
+[2003-08-16] DiagnosticReport: History and physical note
+
+[2003-08-16] Encounter: 424c8249-7134-dc63-c7af-fe0ba8a11ad0
+
+[2003-08-18] DiagnosticReport: History and physical note
+
+[2003-08-18] Encounter: 424c8249-7134-dc63-9f55-639f8f82902e
+
+[2003-08-19] DiagnosticReport: History and physical note
+
+[2003-08-19] Encounter: 424c8249-7134-dc63-76df-4a1c9e071abd
+
+[2003-08-20] DiagnosticReport: History and physical note
+
+[2003-08-20] Encounter: 424c8249-7134-dc63-3ec8-8c5da365f533
+
+[2003-08-21] DiagnosticReport: History and physical note
+
+[2003-08-21] Encounter: 424c8249-7134-dc63-d475-6c8951cb3ef0
+
+[2003-08-23] DiagnosticReport: History and physical note
+
+[2003-08-23] Encounter: 424c8249-7134-dc63-4d86-386d4f14829d
+
+[2003-08-24] DiagnosticReport: History and physical note
+
+[2003-08-24] Encounter: 424c8249-7134-dc63-a726-a8cfef73bb14
+
+[2003-08-25] DiagnosticReport: History and physical note
+
+[2003-08-25] Encounter: 424c8249-7134-dc63-1534-2f052bfd2fe6
+
+[2003-08-27] DiagnosticReport: History and physical note
+
+[2003-08-27] Encounter: 424c8249-7134-dc63-f04d-e1dad0a92449
+
+[2003-08-28] DiagnosticReport: History and physical note
+
+[2003-08-28] Encounter: 424c8249-7134-dc63-8c9c-4d524b18a210
+
+[2003-08-29] DiagnosticReport: History and physical note
+
+[2003-08-29] Encounter: 424c8249-7134-dc63-dc1d-64298d03a22d
+
+[2003-08-30] DiagnosticReport: History and physical note
+
+[2003-08-30] Encounter: 424c8249-7134-dc63-b795-1a1fc93d7fc0
+
+[2003-09-01] DiagnosticReport: History and physical note
+
+[2003-09-01] Encounter: 424c8249-7134-dc63-3aca-a9d24e2683f3
+
+[2003-09-02] DiagnosticReport: History and physical note
+
+[2003-09-02] Encounter: 424c8249-7134-dc63-6e0c-9e75580abb1d
+
+[2003-09-03] DiagnosticReport: History and physical note
+
+[2003-09-03] Encounter: 424c8249-7134-dc63-bb60-a6b35d1fd9e0
+
+[2003-09-06] DiagnosticReport: History and physical note
+
+[2003-09-06] Encounter: 424c8249-7134-dc63-3fad-db26314df526
+
+[2003-09-06] Observation: Response to cancer treatment
+
+[2003-09-06] Observation: Treatment status Cancer
+
+[2003-12-17] DiagnosticReport: History and physical note
+
+[2003-12-17] Encounter: 424c8249-7134-dc63-1aae-6eb1df112f4d
+
+[2004-04-07] DiagnosticReport: History and physical note
+
+[2004-04-07] Encounter: 424c8249-7134-dc63-b99f-57568a1ab270
+
+[2004-07-27] DiagnosticReport: History and physical note
+
+[2004-07-27] DiagnosticReport: History and physical note
+
+[2004-07-27] DiagnosticReport: History and physical note
+
+[2004-07-27] Encounter: 424c8249-7134-dc63-207c-57dc85fbb62b
+
+[2004-07-27] Encounter: 424c8249-7134-dc63-5b7d-89c0284f70ed
+
+[2004-07-27] Encounter: 424c8249-7134-dc63-9ffd-1ae961c9890e
+
+[2004-07-27] Observation: Response to cancer treatment
+
+[2004-11-05] DiagnosticReport: History and physical note
+
+[2004-11-05] Encounter: 424c8249-7134-dc63-cc4c-20d7b388f187
+
+[2005-03-10] DiagnosticReport: History and physical note
+
+[2005-03-10] Encounter: 424c8249-7134-dc63-23f9-04f6c9408fae
+
+[2005-06-27] DiagnosticReport: History and physical note
+
+[2005-06-27] Encounter: 424c8249-7134-dc63-a75b-15a3f9f15adf
+
+[2005-06-29] DiagnosticReport: History and physical note
+
+[2005-06-29] DiagnosticReport: History and physical note
+
+[2005-06-29] DiagnosticReport: History and physical note
+
+[2005-06-29] Encounter: 424c8249-7134-dc63-3e7c-864d87214a55
+
+[2005-06-29] Encounter: 424c8249-7134-dc63-9992-3e982212da30
+
+[2005-06-29] Encounter: 424c8249-7134-dc63-a26a-71ef363a3d95
+
+[2005-06-29] Observation: Response to cancer treatment
+
+[2005-08-08] DiagnosticReport: History and physical note
+
+[2005-08-08] DiagnosticReport: U.S. standard certificate of death - 2003 revision
+
+[2005-08-08] Encounter: 424c8249-7134-dc63-4e34-e1f139c85fcf
+
+[2005-08-08] Observation: Cause of Death [US Standard Certificate of Death]

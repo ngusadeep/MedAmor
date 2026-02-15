@@ -1,0 +1,280 @@
+# EHR Timeline
+Patient: Grace552 Marianne327 Raynor401
+Patient ID: 29ad2783-e991-d0ff-71a1-d0aa7ce1c520
+
+
+Patient: Grace552 Marianne327 Raynor401 (id: 29ad2783-e991-d0ff-71a1-d0aa7ce1c520)
+
+Procedure: Bone density scan (procedure)
+
+Procedure: Bone density scan (procedure)
+
+Procedure: Bone density scan (procedure)
+
+Procedure: Bone density scan (procedure)
+
+Procedure: Bone density scan (procedure)
+
+Procedure: Bone density scan (procedure)
+
+Procedure: Bone density scan (procedure)
+
+Procedure: Bone density scan (procedure)
+
+Procedure: Bone density scan (procedure)
+
+Procedure: Bone density scan (procedure)
+
+Procedure: Mammography (procedure)
+
+Procedure: Mammography (procedure)
+
+Procedure: Mammography (procedure)
+
+Procedure: Mammography (procedure)
+
+Procedure: Mammography (procedure)
+
+Procedure: Mammography (procedure)
+
+Procedure: Mammography (procedure)
+
+Procedure: Mammography (procedure)
+
+Procedure: Mammography (procedure)
+
+Procedure: Mammography (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+[2013-08-24] Condition: Malignant neoplasm of breast (disorder)
+
+[2013-08-24] DiagnosticReport: History and physical note
+
+[2013-08-24] Encounter: 29ad2783-e991-d0ff-caf6-d0e9d65bf061
+
+[2016-03-26] DiagnosticReport: History and physical note
+
+[2016-03-26] Encounter: 29ad2783-e991-d0ff-8199-a6d9bb087eac
+
+[2016-04-30] DiagnosticReport: History and physical note
+
+[2016-04-30] Encounter: 29ad2783-e991-d0ff-cd37-617aa26a4222
+
+[2016-07-16] DiagnosticReport: History and physical note
+
+[2016-07-16] Encounter: 29ad2783-e991-d0ff-4d87-54eba84b3b7e
+
+[2016-11-08] DiagnosticReport: History and physical note
+
+[2016-11-08] DiagnosticReport: History and physical note
+
+[2016-11-08] DiagnosticReport: History and physical note
+
+[2016-11-08] Encounter: 29ad2783-e991-d0ff-34de-d6909168c741
+
+[2016-11-08] Encounter: 29ad2783-e991-d0ff-8550-659e7f671686
+
+[2016-11-08] Encounter: 29ad2783-e991-d0ff-b325-c64dcc72fb70
+
+[2016-11-08] Observation: Response to cancer treatment
+
+[2017-02-22] DiagnosticReport: History and physical note
+
+[2017-02-22] Encounter: 29ad2783-e991-d0ff-7184-08ed72a991a0
+
+[2017-05-06] DiagnosticReport: History and physical note
+
+[2017-05-06] Encounter: 29ad2783-e991-d0ff-80f8-63d18ed06de1
+
+[2017-06-07] DiagnosticReport: History and physical note
+
+[2017-06-07] Encounter: 29ad2783-e991-d0ff-70e2-a61997feb9f9
+
+[2017-10-09] DiagnosticReport: History and physical note
+
+[2017-10-09] DiagnosticReport: History and physical note
+
+[2017-10-09] DiagnosticReport: History and physical note
+
+[2017-10-09] Encounter: 29ad2783-e991-d0ff-4c89-1c983f6e5d93
+
+[2017-10-09] Encounter: 29ad2783-e991-d0ff-61b2-4b2c10cb7647
+
+[2017-10-09] Encounter: 29ad2783-e991-d0ff-b8d1-98c85c70d4ef
+
+[2017-10-09] Observation: Response to cancer treatment
+
+[2018-02-07] DiagnosticReport: History and physical note
+
+[2018-02-07] Encounter: 29ad2783-e991-d0ff-5a35-5a21a739ba3c
+
+[2018-05-12] DiagnosticReport: History and physical note
+
+[2018-05-12] Encounter: 29ad2783-e991-d0ff-7283-0275b3391e80
+
+[2018-06-12] DiagnosticReport: History and physical note
+
+[2018-06-12] Encounter: 29ad2783-e991-d0ff-12a2-ba4fe77fc6f0
+
+[2018-09-21] DiagnosticReport: History and physical note
+
+[2018-09-21] DiagnosticReport: History and physical note
+
+[2018-09-21] DiagnosticReport: History and physical note
+
+[2018-09-21] Encounter: 29ad2783-e991-d0ff-9cbe-fd7091989c54
+
+[2018-09-21] Encounter: 29ad2783-e991-d0ff-a2eb-fb476a6aa6d6
+
+[2018-09-21] Encounter: 29ad2783-e991-d0ff-fd3d-396f57f3a6cd
+
+[2019-05-18] DiagnosticReport: History and physical note
+
+[2019-05-18] Encounter: 29ad2783-e991-d0ff-622f-f708f325f701
+
+[2019-08-19] DiagnosticReport: History and physical note
+
+[2019-08-19] DiagnosticReport: History and physical note
+
+[2019-08-19] DiagnosticReport: History and physical note
+
+[2019-08-19] Encounter: 29ad2783-e991-d0ff-2d56-274603803d5d
+
+[2019-08-19] Encounter: 29ad2783-e991-d0ff-8d1b-f036a0ed8984
+
+[2019-08-19] Encounter: 29ad2783-e991-d0ff-f20b-f2b0ec6caebb
+
+[2020-05-23] DiagnosticReport: History and physical note
+
+[2020-05-23] Encounter: 29ad2783-e991-d0ff-7d7c-00e9e81fead6
+
+[2020-08-11] DiagnosticReport: History and physical note
+
+[2020-08-11] DiagnosticReport: History and physical note
+
+[2020-08-11] DiagnosticReport: History and physical note
+
+[2020-08-11] Encounter: 29ad2783-e991-d0ff-8bd3-73434f9e2a08
+
+[2020-08-11] Encounter: 29ad2783-e991-d0ff-90b6-0420ba0eb213
+
+[2020-08-11] Encounter: 29ad2783-e991-d0ff-aeca-68db17cd98c5
+
+[2021-05-29] DiagnosticReport: History and physical note
+
+[2021-05-29] Encounter: 29ad2783-e991-d0ff-33e0-de41f19eb125
+
+[2021-08-21] DiagnosticReport: History and physical note
+
+[2021-08-21] DiagnosticReport: History and physical note
+
+[2021-08-21] DiagnosticReport: History and physical note
+
+[2021-08-21] Encounter: 29ad2783-e991-d0ff-1295-19fb7f0f8c9e
+
+[2021-08-21] Encounter: 29ad2783-e991-d0ff-3359-612c52cbece9
+
+[2021-08-21] Encounter: 29ad2783-e991-d0ff-e4ec-1a469741a946
+
+[2021-11-06] DiagnosticReport: History and physical note
+
+[2021-11-06] Encounter: 29ad2783-e991-d0ff-bbdb-b5bba32b547c
+
+[2021-12-04] DiagnosticReport: History and physical note
+
+[2021-12-04] Encounter: 29ad2783-e991-d0ff-0720-9a8adcc2469d
+
+[2022-06-04] DiagnosticReport: History and physical note
+
+[2022-06-04] Encounter: 29ad2783-e991-d0ff-8f38-d3b1b0e3a427
+
+[2022-09-03] DiagnosticReport: History and physical note
+
+[2022-09-03] DiagnosticReport: History and physical note
+
+[2022-09-03] DiagnosticReport: History and physical note
+
+[2022-09-03] Encounter: 29ad2783-e991-d0ff-68ff-279e6996aff3
+
+[2022-09-03] Encounter: 29ad2783-e991-d0ff-6fd6-6f34fc5fb153
+
+[2022-09-03] Encounter: 29ad2783-e991-d0ff-a141-9352df3b1b3f
+
+[2023-06-10] DiagnosticReport: History and physical note
+
+[2023-06-10] Encounter: 29ad2783-e991-d0ff-8503-155071216395
+
+[2023-08-15] DiagnosticReport: History and physical note
+
+[2023-08-15] DiagnosticReport: History and physical note
+
+[2023-08-15] DiagnosticReport: History and physical note
+
+[2023-08-15] Encounter: 29ad2783-e991-d0ff-44a7-52878b6ead69
+
+[2023-08-15] Encounter: 29ad2783-e991-d0ff-ddbf-448d9c948604
+
+[2023-08-15] Encounter: 29ad2783-e991-d0ff-fefc-52d6dcb39e11
+
+[2024-06-15] DiagnosticReport: History and physical note
+
+[2024-06-15] Encounter: 29ad2783-e991-d0ff-4e1c-311ade7a9336
+
+[2024-08-09] DiagnosticReport: History and physical note
+
+[2024-08-09] DiagnosticReport: History and physical note
+
+[2024-08-09] DiagnosticReport: History and physical note
+
+[2024-08-09] Encounter: 29ad2783-e991-d0ff-77d7-e6a3f39ac71d
+
+[2024-08-09] Encounter: 29ad2783-e991-d0ff-e276-756f92067dd9
+
+[2024-08-09] Encounter: 29ad2783-e991-d0ff-e52f-bc2c68aef699
+
+[2025-06-21] DiagnosticReport: History and physical note
+
+[2025-06-21] Encounter: 29ad2783-e991-d0ff-d057-a93b50590508
+
+[2025-07-06] DiagnosticReport: History and physical note
+
+[2025-07-06] DiagnosticReport: History and physical note
+
+[2025-07-06] DiagnosticReport: History and physical note
+
+[2025-07-06] Encounter: 29ad2783-e991-d0ff-732d-13ebbede5390
+
+[2025-07-06] Encounter: 29ad2783-e991-d0ff-8935-048540ba673a
+
+[2025-07-06] Encounter: 29ad2783-e991-d0ff-bf24-82115b39e955

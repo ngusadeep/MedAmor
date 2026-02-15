@@ -1,0 +1,180 @@
+# EHR Timeline
+Patient: Wendy149 Chrystal576 Krajcik437
+Patient ID: 5f36e8bf-95ac-49c2-ce49-c8157fd5364a
+
+
+Patient: Wendy149 Chrystal576 Krajcik437 (id: 5f36e8bf-95ac-49c2-ce49-c8157fd5364a)
+
+Procedure: Mammography (procedure)
+
+Procedure: Mammography (procedure)
+
+Procedure: Mammography (procedure)
+
+Procedure: Mammography (procedure)
+
+Procedure: Mammography (procedure)
+
+Procedure: Mammography (procedure)
+
+Procedure: Mammography (procedure)
+
+Procedure: Mammography (procedure)
+
+Procedure: Mammography (procedure)
+
+Procedure: Mammography (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+[2000-01-19] Condition: Malignant neoplasm of breast (disorder)
+
+[2000-01-19] DiagnosticReport: History and physical note
+
+[2000-01-19] Encounter: 5f36e8bf-95ac-49c2-948a-cad86d566ba8
+
+[2016-03-12] DiagnosticReport: History and physical note
+
+[2016-03-12] Encounter: 5f36e8bf-95ac-49c2-40ef-a10ece34b1d7
+
+[2016-12-17] DiagnosticReport: History and physical note
+
+[2016-12-17] DiagnosticReport: History and physical note
+
+[2016-12-17] Encounter: 5f36e8bf-95ac-49c2-bb0e-fecb1f2eb1c1
+
+[2016-12-17] Encounter: 5f36e8bf-95ac-49c2-e5fa-5b060dfa2c7f
+
+[2017-03-18] DiagnosticReport: History and physical note
+
+[2017-03-18] Encounter: 5f36e8bf-95ac-49c2-ea9d-67136b147a4e
+
+[2017-12-18] DiagnosticReport: History and physical note
+
+[2017-12-18] DiagnosticReport: History and physical note
+
+[2017-12-18] Encounter: 5f36e8bf-95ac-49c2-9306-76f73fa31fa7
+
+[2017-12-18] Encounter: 5f36e8bf-95ac-49c2-d80c-9a4a34d21e15
+
+[2018-03-24] DiagnosticReport: History and physical note
+
+[2018-03-24] Encounter: 5f36e8bf-95ac-49c2-6c3a-01b955d78b07
+
+[2019-01-03] DiagnosticReport: History and physical note
+
+[2019-01-03] DiagnosticReport: History and physical note
+
+[2019-01-03] Encounter: 5f36e8bf-95ac-49c2-a236-dc183dfcd8b8
+
+[2019-01-03] Encounter: 5f36e8bf-95ac-49c2-effb-750860369a3a
+
+[2019-03-30] DiagnosticReport: History and physical note
+
+[2019-03-30] Encounter: 5f36e8bf-95ac-49c2-34d9-54dec9d65074
+
+[2020-01-26] DiagnosticReport: History and physical note
+
+[2020-01-26] DiagnosticReport: History and physical note
+
+[2020-01-26] Encounter: 5f36e8bf-95ac-49c2-23e1-ed792bd30609
+
+[2020-01-26] Encounter: 5f36e8bf-95ac-49c2-b6c1-ebbb3de83c3a
+
+[2020-04-04] DiagnosticReport: History and physical note
+
+[2020-04-04] Encounter: 5f36e8bf-95ac-49c2-5c71-ac5bfe5a2013
+
+[2021-01-08] DiagnosticReport: History and physical note
+
+[2021-01-08] DiagnosticReport: History and physical note
+
+[2021-01-08] Encounter: 5f36e8bf-95ac-49c2-7e59-76dfdbebcf9d
+
+[2021-01-08] Encounter: 5f36e8bf-95ac-49c2-d443-79b4924f8a60
+
+[2021-03-27] DiagnosticReport: History and physical note
+
+[2021-03-27] Encounter: 5f36e8bf-95ac-49c2-b5e1-84966e08fe91
+
+[2021-04-10] DiagnosticReport: History and physical note
+
+[2021-04-10] Encounter: 5f36e8bf-95ac-49c2-cd74-dc07df60befa
+
+[2021-04-17] DiagnosticReport: History and physical note
+
+[2021-04-17] Encounter: 5f36e8bf-95ac-49c2-7068-80090e0e8413
+
+[2022-01-08] DiagnosticReport: History and physical note
+
+[2022-01-08] DiagnosticReport: History and physical note
+
+[2022-01-08] Encounter: 5f36e8bf-95ac-49c2-3463-a40716487c84
+
+[2022-01-08] Encounter: 5f36e8bf-95ac-49c2-a1b3-bf1030851f1d
+
+[2022-04-16] DiagnosticReport: History and physical note
+
+[2022-04-16] Encounter: 5f36e8bf-95ac-49c2-d5fb-818149a295b3
+
+[2023-01-14] DiagnosticReport: History and physical note
+
+[2023-01-14] DiagnosticReport: History and physical note
+
+[2023-01-14] Encounter: 5f36e8bf-95ac-49c2-5997-c73c5c98f950
+
+[2023-01-14] Encounter: 5f36e8bf-95ac-49c2-c334-eef13eecd2a3
+
+[2023-04-22] DiagnosticReport: History and physical note
+
+[2023-04-22] Encounter: 5f36e8bf-95ac-49c2-ed00-cc7b5b14cb00
+
+[2023-12-24] DiagnosticReport: History and physical note
+
+[2023-12-24] DiagnosticReport: History and physical note
+
+[2023-12-24] Encounter: 5f36e8bf-95ac-49c2-4827-f482dc995e80
+
+[2023-12-24] Encounter: 5f36e8bf-95ac-49c2-ca45-5f2b3c518019
+
+[2024-04-27] DiagnosticReport: History and physical note
+
+[2024-04-27] Encounter: 5f36e8bf-95ac-49c2-07f0-b33e90aee46f
+
+[2024-12-24] DiagnosticReport: History and physical note
+
+[2024-12-24] DiagnosticReport: History and physical note
+
+[2024-12-24] Encounter: 5f36e8bf-95ac-49c2-aefc-9e7c83caae6d
+
+[2024-12-24] Encounter: 5f36e8bf-95ac-49c2-fe17-188f722cc95e
+
+[2025-05-03] DiagnosticReport: History and physical note
+
+[2025-05-03] Encounter: 5f36e8bf-95ac-49c2-f8fd-bd401c298e8c
+
+[2026-01-09] DiagnosticReport: History and physical note
+
+[2026-01-09] DiagnosticReport: History and physical note
+
+[2026-01-09] Encounter: 5f36e8bf-95ac-49c2-56da-e81e057efc12
+
+[2026-01-09] Encounter: 5f36e8bf-95ac-49c2-7372-bd3970219c26

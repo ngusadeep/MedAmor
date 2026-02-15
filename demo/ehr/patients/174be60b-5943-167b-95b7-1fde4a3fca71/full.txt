@@ -1,0 +1,308 @@
+# EHR Timeline
+Patient: Loreen513 Serita370 Treutel973
+Patient ID: 174be60b-5943-167b-95b7-1fde4a3fca71
+
+
+MedicationRequest: 174be60b-5943-167b-590f-5722c5c574db
+
+MedicationRequest: 174be60b-5943-167b-7596-82c40e2961cc
+
+Patient: Loreen513 Serita370 Treutel973 (id: 174be60b-5943-167b-95b7-1fde4a3fca71)
+
+Procedure: Biopsy of breast (procedure)
+
+Procedure: Discussion about options (procedure)
+
+Procedure: Excision of lesion of breast (procedure)
+
+Procedure: External beam radiation therapy procedure (procedure)
+
+Procedure: External beam radiation therapy procedure (procedure)
+
+Procedure: External beam radiation therapy procedure (procedure)
+
+Procedure: External beam radiation therapy procedure (procedure)
+
+Procedure: External beam radiation therapy procedure (procedure)
+
+Procedure: External beam radiation therapy procedure (procedure)
+
+Procedure: External beam radiation therapy procedure (procedure)
+
+Procedure: External beam radiation therapy procedure (procedure)
+
+Procedure: External beam radiation therapy procedure (procedure)
+
+Procedure: External beam radiation therapy procedure (procedure)
+
+Procedure: External beam radiation therapy procedure (procedure)
+
+Procedure: External beam radiation therapy procedure (procedure)
+
+Procedure: External beam radiation therapy procedure (procedure)
+
+Procedure: External beam radiation therapy procedure (procedure)
+
+Procedure: External beam radiation therapy procedure (procedure)
+
+Procedure: External beam radiation therapy procedure (procedure)
+
+Procedure: External beam radiation therapy procedure (procedure)
+
+Procedure: External beam radiation therapy procedure (procedure)
+
+Procedure: External beam radiation therapy procedure (procedure)
+
+Procedure: External beam radiation therapy procedure (procedure)
+
+Procedure: External beam radiation therapy procedure (procedure)
+
+Procedure: External beam radiation therapy procedure (procedure)
+
+Procedure: External beam radiation therapy procedure (procedure)
+
+Procedure: External beam radiation therapy procedure (procedure)
+
+Procedure: External beam radiation therapy procedure (procedure)
+
+Procedure: External beam radiation therapy procedure (procedure)
+
+Procedure: External beam radiation therapy procedure (procedure)
+
+Procedure: External beam radiation therapy procedure (procedure)
+
+Procedure: External beam radiation therapy procedure (procedure)
+
+Procedure: External beam radiation therapy procedure (procedure)
+
+Procedure: External beam radiation therapy procedure (procedure)
+
+Procedure: External beam radiation therapy procedure (procedure)
+
+Procedure: External beam radiation therapy procedure (procedure)
+
+Procedure: External beam radiation therapy procedure (procedure)
+
+Procedure: Human epidermal growth factor receptor 2 gene detection by fluorescence in situ hybridization (procedure)
+
+Procedure: Human epidermal growth factor receptor 2 gene detection by immunohistochemistry (procedure)
+
+Procedure: Screening mammography (procedure)
+
+Procedure: Ultrasonography of bilateral breasts (procedure)
+
+[2015-09-20] DiagnosticReport: History and physical note
+
+[2015-09-20] Encounter: 174be60b-5943-167b-3ee1-0dc6d5f85ae0
+
+[2017-09-24] DiagnosticReport: History and physical note
+
+[2017-09-24] Encounter: 174be60b-5943-167b-8730-8e345b7e662b
+
+[2019-09-29] DiagnosticReport: History and physical note
+
+[2019-09-29] Encounter: 174be60b-5943-167b-2335-5fac3963c3fb
+
+[2021-10-03] DiagnosticReport: History and physical note
+
+[2021-10-03] Encounter: 174be60b-5943-167b-6057-e02550a0a5cd
+
+[2021-10-17] DiagnosticReport: History and physical note
+
+[2021-10-17] Encounter: 174be60b-5943-167b-aab7-940ec33586bf
+
+[2021-11-14] DiagnosticReport: History and physical note
+
+[2021-11-14] Encounter: 174be60b-5943-167b-4926-1c3734ed7082
+
+[2022-07-26] Condition: Malignant neoplasm of breast (disorder)
+
+[2022-07-26] DiagnosticReport: History and physical note
+
+[2022-07-26] Encounter: 174be60b-5943-167b-cb76-a0c305ceb4c5
+
+[2022-07-26] Observation: Distant metastases.clinical [Class] Cancer
+
+[2022-07-26] Observation: Lymph nodes with isolated tumor cells [#] in Cancer specimen by Light microscopy
+
+[2022-07-26] Observation: Primary tumor.clinical [Class] Cancer
+
+[2022-07-26] Observation: Regional lymph nodes.clinical [Class] Cancer
+
+[2022-07-26] Observation: Site of distant metastasis in Breast tumor
+
+[2022-07-26] Observation: Size.maximum dimension in Tumor
+
+[2022-07-28] Observation: ERBB2 gene duplication [Presence] in Breast cancer specimen by FISH
+
+[2022-07-28] Observation: Estrogen receptor Ag [Presence] in Breast cancer specimen by Immune stain
+
+[2022-07-28] Observation: Estrogen+Progesterone receptor Ag [Presence] in Tissue by Immune stain
+
+[2022-07-28] Observation: HER2 [Presence] in Breast cancer specimen by Immune stain
+
+[2022-07-28] Observation: Progesterone receptor Ag [Presence] in Breast cancer specimen by Immune stain
+
+[2022-07-28] Observation: Stage group.clinical Cancer
+
+[2022-07-28] Observation: Stage group.clinical Cancer
+
+[2022-08-02] DiagnosticReport: History and physical note
+
+[2022-08-02] Encounter: 174be60b-5943-167b-ef64-2dd87a536f83
+
+[2022-08-07] DiagnosticReport: History and physical note
+
+[2022-08-07] Encounter: 174be60b-5943-167b-be6c-992a9a01b002
+
+[2022-08-20] DiagnosticReport: History and physical note
+
+[2022-08-20] Encounter: 174be60b-5943-167b-1100-feac301824ac
+
+[2022-08-21] DiagnosticReport: History and physical note
+
+[2022-08-21] Encounter: 174be60b-5943-167b-dce8-e89a56503228
+
+[2022-08-22] DiagnosticReport: History and physical note
+
+[2022-08-22] Encounter: 174be60b-5943-167b-d5c7-213ec1824c15
+
+[2022-08-23] DiagnosticReport: History and physical note
+
+[2022-08-23] Encounter: 174be60b-5943-167b-d48a-a5f7ca37ab01
+
+[2022-08-24] DiagnosticReport: History and physical note
+
+[2022-08-24] Encounter: 174be60b-5943-167b-71fc-4c5fd7b0c775
+
+[2022-08-26] DiagnosticReport: History and physical note
+
+[2022-08-26] Encounter: 174be60b-5943-167b-d852-4447a91ced4c
+
+[2022-08-27] DiagnosticReport: History and physical note
+
+[2022-08-27] Encounter: 174be60b-5943-167b-61c9-9848c5fd2233
+
+[2022-08-28] DiagnosticReport: History and physical note
+
+[2022-08-28] Encounter: 174be60b-5943-167b-0011-4f6d006bbf96
+
+[2022-08-30] DiagnosticReport: History and physical note
+
+[2022-08-30] Encounter: 174be60b-5943-167b-4449-f965ebbe827c
+
+[2022-08-31] DiagnosticReport: History and physical note
+
+[2022-08-31] Encounter: 174be60b-5943-167b-024f-b6253ff42d66
+
+[2022-09-01] DiagnosticReport: History and physical note
+
+[2022-09-01] Encounter: 174be60b-5943-167b-64ed-79c581cffb47
+
+[2022-09-03] DiagnosticReport: History and physical note
+
+[2022-09-03] Encounter: 174be60b-5943-167b-c51d-6502ea0a660a
+
+[2022-09-04] DiagnosticReport: History and physical note
+
+[2022-09-04] Encounter: 174be60b-5943-167b-f665-5767f891eaac
+
+[2022-09-05] DiagnosticReport: History and physical note
+
+[2022-09-05] Encounter: 174be60b-5943-167b-5c23-8b9ab37cd0a7
+
+[2022-09-06] DiagnosticReport: History and physical note
+
+[2022-09-06] Encounter: 174be60b-5943-167b-abec-34d30a3dd3d0
+
+[2022-09-07] DiagnosticReport: History and physical note
+
+[2022-09-07] Encounter: 174be60b-5943-167b-c394-d798761347d6
+
+[2022-09-09] DiagnosticReport: History and physical note
+
+[2022-09-09] Encounter: 174be60b-5943-167b-5444-2cb3536dfe11
+
+[2022-09-10] DiagnosticReport: History and physical note
+
+[2022-09-10] Encounter: 174be60b-5943-167b-cf27-42ce48918333
+
+[2022-09-11] DiagnosticReport: History and physical note
+
+[2022-09-11] Encounter: 174be60b-5943-167b-298d-0265c2a3a320
+
+[2022-09-12] DiagnosticReport: History and physical note
+
+[2022-09-12] Encounter: 174be60b-5943-167b-0731-648fb9671a17
+
+[2022-09-13] DiagnosticReport: History and physical note
+
+[2022-09-13] Encounter: 174be60b-5943-167b-cd32-43aa6c1a8a17
+
+[2022-09-15] DiagnosticReport: History and physical note
+
+[2022-09-15] Encounter: 174be60b-5943-167b-beca-79f2990cfa1b
+
+[2022-09-16] DiagnosticReport: History and physical note
+
+[2022-09-16] Encounter: 174be60b-5943-167b-e7ab-9b47e8838565
+
+[2022-09-17] DiagnosticReport: History and physical note
+
+[2022-09-17] Encounter: 174be60b-5943-167b-f38e-8b5f21f87bb2
+
+[2022-09-18] DiagnosticReport: History and physical note
+
+[2022-09-18] Encounter: 174be60b-5943-167b-5f2d-10c63cd9fafc
+
+[2022-09-20] DiagnosticReport: History and physical note
+
+[2022-09-20] Encounter: 174be60b-5943-167b-a73e-d42aa19b1718
+
+[2022-09-21] DiagnosticReport: History and physical note
+
+[2022-09-21] Encounter: 174be60b-5943-167b-8952-bb9adef8c3b2
+
+[2022-09-22] DiagnosticReport: History and physical note
+
+[2022-09-22] Encounter: 174be60b-5943-167b-1f1a-fd47cb2e7383
+
+[2022-09-24] DiagnosticReport: History and physical note
+
+[2022-09-24] Encounter: 174be60b-5943-167b-5820-37c89db8e45b
+
+[2022-09-25] DiagnosticReport: History and physical note
+
+[2022-09-25] Encounter: 174be60b-5943-167b-a97d-7534916bd2cc
+
+[2022-09-26] DiagnosticReport: History and physical note
+
+[2022-09-26] Encounter: 174be60b-5943-167b-baef-bf5f55cdfd7b
+
+[2022-09-27] DiagnosticReport: History and physical note
+
+[2022-09-27] Encounter: 174be60b-5943-167b-cc5e-dce35015df68
+
+[2022-09-28] DiagnosticReport: History and physical note
+
+[2022-09-28] Encounter: 174be60b-5943-167b-6381-3edf6ddaae65
+
+[2022-09-29] DiagnosticReport: History and physical note
+
+[2022-09-29] Encounter: 174be60b-5943-167b-2436-6362b6d1b226
+
+[2022-10-02] DiagnosticReport: History and physical note
+
+[2022-10-02] Encounter: 174be60b-5943-167b-c07e-c9c1985be75d
+
+[2022-10-02] Observation: Response to cancer treatment
+
+[2022-10-02] Observation: Treatment status Cancer
+
+[2023-01-22] DiagnosticReport: History and physical note
+
+[2023-01-22] DiagnosticReport: U.S. standard certificate of death - 2003 revision
+
+[2023-01-22] Encounter: 174be60b-5943-167b-f865-4fd1d172c7c4
+
+[2023-01-22] Observation: Cause of Death [US Standard Certificate of Death]

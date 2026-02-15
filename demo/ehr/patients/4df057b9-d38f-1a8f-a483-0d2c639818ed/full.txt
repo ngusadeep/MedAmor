@@ -1,0 +1,166 @@
+# EHR Timeline
+Patient: Gertha313 Mandy775 Casper496
+Patient ID: 4df057b9-d38f-1a8f-a483-0d2c639818ed
+
+
+MedicationRequest: 4df057b9-d38f-1a8f-14ea-252684799e6e
+
+MedicationRequest: 4df057b9-d38f-1a8f-25ab-adea6f57db7b
+
+MedicationRequest: 4df057b9-d38f-1a8f-267d-a9a30d1a3026
+
+MedicationRequest: 4df057b9-d38f-1a8f-7671-c69144070063
+
+MedicationRequest: 4df057b9-d38f-1a8f-82e3-4c064b5367dd
+
+MedicationRequest: 4df057b9-d38f-1a8f-b61f-4ae9768e1311
+
+MedicationRequest: 4df057b9-d38f-1a8f-d6eb-919ceea5875c
+
+MedicationRequest: 4df057b9-d38f-1a8f-e377-afb6f1d8652a
+
+Patient: Gertha313 Mandy775 Casper496 (id: 4df057b9-d38f-1a8f-a483-0d2c639818ed)
+
+Procedure: Biopsy of breast (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Discussion about options (procedure)
+
+Procedure: Human epidermal growth factor receptor 2 gene detection by fluorescence in situ hybridization (procedure)
+
+Procedure: Human epidermal growth factor receptor 2 gene detection by immunohistochemistry (procedure)
+
+Procedure: Screening mammography (procedure)
+
+Procedure: Ultrasonography of bilateral breasts (procedure)
+
+[2016-03-14] DiagnosticReport: History and physical note
+
+[2016-03-14] Encounter: 4df057b9-d38f-1a8f-40c9-134413e24b61
+
+[2017-03-20] DiagnosticReport: History and physical note
+
+[2017-03-20] Encounter: 4df057b9-d38f-1a8f-bccf-f8eb6cf788f3
+
+[2018-03-26] DiagnosticReport: History and physical note
+
+[2018-03-26] Encounter: 4df057b9-d38f-1a8f-8866-726ec7eaa9da
+
+[2019-04-01] DiagnosticReport: History and physical note
+
+[2019-04-01] Encounter: 4df057b9-d38f-1a8f-a0c1-2bdf4896b150
+
+[2020-04-06] DiagnosticReport: History and physical note
+
+[2020-04-06] Encounter: 4df057b9-d38f-1a8f-1700-fdedf4573a55
+
+[2021-04-12] DiagnosticReport: History and physical note
+
+[2021-04-12] Encounter: 4df057b9-d38f-1a8f-07fe-1d67280b7a71
+
+[2021-05-24] DiagnosticReport: History and physical note
+
+[2021-05-24] Encounter: 4df057b9-d38f-1a8f-d732-81a4dcd690a1
+
+[2021-06-21] DiagnosticReport: History and physical note
+
+[2021-06-21] Encounter: 4df057b9-d38f-1a8f-f45d-a89a73a6b8d0
+
+[2022-04-18] DiagnosticReport: History and physical note
+
+[2022-04-18] Encounter: 4df057b9-d38f-1a8f-4829-c422a5047c08
+
+[2023-04-24] DiagnosticReport: History and physical note
+
+[2023-04-24] Encounter: 4df057b9-d38f-1a8f-9435-902f443422aa
+
+[2024-04-29] DiagnosticReport: History and physical note
+
+[2024-04-29] Encounter: 4df057b9-d38f-1a8f-4bbc-90fc1b60c947
+
+[2025-05-05] DiagnosticReport: History and physical note
+
+[2025-05-05] Encounter: 4df057b9-d38f-1a8f-21a6-fcc54d416e41
+
+[2025-09-06] Condition: Malignant neoplasm of breast (disorder)
+
+[2025-09-06] DiagnosticReport: History and physical note
+
+[2025-09-06] Encounter: 4df057b9-d38f-1a8f-5405-d22e1867c5a8
+
+[2025-09-06] Observation: Distant metastases.clinical [Class] Cancer
+
+[2025-09-06] Observation: Lymph nodes with macrometastases [#] in Cancer specimen by Light microscopy
+
+[2025-09-06] Observation: Primary tumor.clinical [Class] Cancer
+
+[2025-09-06] Observation: Regional lymph nodes.clinical [Class] Cancer
+
+[2025-09-06] Observation: Site of distant metastasis in Breast tumor
+
+[2025-09-06] Observation: Size.maximum dimension in Tumor
+
+[2025-09-07] Observation: ERBB2 gene duplication [Presence] in Breast cancer specimen by FISH
+
+[2025-09-07] Observation: Estrogen receptor Ag [Presence] in Breast cancer specimen by Immune stain
+
+[2025-09-07] Observation: Estrogen+Progesterone receptor Ag [Presence] in Tissue by Immune stain
+
+[2025-09-07] Observation: HER2 [Presence] in Breast cancer specimen by Immune stain
+
+[2025-09-07] Observation: Progesterone receptor Ag [Presence] in Breast cancer specimen by Immune stain
+
+[2025-09-07] Observation: Stage group.clinical Cancer
+
+[2025-09-07] Observation: Stage group.clinical Cancer
+
+[2025-09-10] DiagnosticReport: History and physical note
+
+[2025-09-10] Encounter: 4df057b9-d38f-1a8f-7069-65b00c213189
+
+[2025-09-13] DiagnosticReport: History and physical note
+
+[2025-09-13] Encounter: 4df057b9-d38f-1a8f-2b58-01c762a2150e
+
+[2025-10-05] DiagnosticReport: History and physical note
+
+[2025-10-05] Encounter: 4df057b9-d38f-1a8f-c862-f264f600dc19
+
+[2025-10-26] DiagnosticReport: History and physical note
+
+[2025-10-26] Encounter: 4df057b9-d38f-1a8f-ef41-5feb55f85543
+
+[2025-11-16] DiagnosticReport: History and physical note
+
+[2025-11-16] Encounter: 4df057b9-d38f-1a8f-ee5e-6aa4ad0ae1fd
+
+[2025-12-06] DiagnosticReport: History and physical note
+
+[2025-12-06] Encounter: 4df057b9-d38f-1a8f-5f3f-645054979b45
+
+[2025-12-27] DiagnosticReport: History and physical note
+
+[2025-12-27] Encounter: 4df057b9-d38f-1a8f-df9a-a77e97dfbb18
+
+[2026-01-16] DiagnosticReport: History and physical note
+
+[2026-01-16] Encounter: 4df057b9-d38f-1a8f-db76-789ecaa81f42
+
+[2026-02-05] DiagnosticReport: History and physical note
+
+[2026-02-05] Encounter: 4df057b9-d38f-1a8f-43ad-0c21d0056c38

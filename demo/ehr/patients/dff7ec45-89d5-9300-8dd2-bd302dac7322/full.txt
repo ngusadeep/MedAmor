@@ -1,0 +1,268 @@
+# EHR Timeline
+Patient: Natosha194 Glayds212 Hoppe518
+Patient ID: dff7ec45-89d5-9300-8dd2-bd302dac7322
+
+
+Patient: Natosha194 Glayds212 Hoppe518 (id: dff7ec45-89d5-9300-8dd2-bd302dac7322)
+
+Procedure: Biopsy of breast (procedure)
+
+Procedure: Discussion about options (procedure)
+
+Procedure: Excision of axillary lymph node (procedure)
+
+Procedure: Human epidermal growth factor receptor 2 gene detection by fluorescence in situ hybridization (procedure)
+
+Procedure: Human epidermal growth factor receptor 2 gene detection by immunohistochemistry (procedure)
+
+Procedure: Lumpectomy of breast (procedure)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Screening mammography (procedure)
+
+Procedure: Ultrasonography of bilateral breasts (procedure)
+
+[2007-05-27] DiagnosticReport: History and physical note
+
+[2007-05-27] Encounter: dff7ec45-89d5-9300-0e3d-a56ccc7d05f3
+
+[2009-05-31] DiagnosticReport: History and physical note
+
+[2009-05-31] Encounter: dff7ec45-89d5-9300-43c9-596d51c8ec6f
+
+[2011-06-05] DiagnosticReport: History and physical note
+
+[2011-06-05] Encounter: dff7ec45-89d5-9300-df6a-7166f2a77ac3
+
+[2013-06-09] DiagnosticReport: History and physical note
+
+[2013-06-09] Encounter: dff7ec45-89d5-9300-70db-53997189bba2
+
+[2015-05-17] DiagnosticReport: History and physical note
+
+[2015-05-17] Encounter: dff7ec45-89d5-9300-c9f9-ece1b840b7a2
+
+[2016-01-17] Condition: Malignant neoplasm of breast (disorder)
+
+[2016-01-17] DiagnosticReport: History and physical note
+
+[2016-01-17] Encounter: dff7ec45-89d5-9300-1442-d56cd1c77fe4
+
+[2016-01-17] Observation: Distant metastases.clinical [Class] Cancer
+
+[2016-01-17] Observation: Lymph nodes with micrometastases [#] in Cancer specimen by Light microscopy
+
+[2016-01-17] Observation: Primary tumor.clinical [Class] Cancer
+
+[2016-01-17] Observation: Regional lymph nodes.clinical [Class] Cancer
+
+[2016-01-17] Observation: Site of distant metastasis in Breast tumor
+
+[2016-01-17] Observation: Size.maximum dimension in Tumor
+
+[2016-01-19] Observation: ERBB2 gene duplication [Presence] in Breast cancer specimen by FISH
+
+[2016-01-19] Observation: Estrogen receptor Ag [Presence] in Breast cancer specimen by Immune stain
+
+[2016-01-19] Observation: HER2 [Presence] in Breast cancer specimen by Immune stain
+
+[2016-01-19] Observation: Progesterone receptor Ag [Presence] in Breast cancer specimen by Immune stain
+
+[2016-01-19] Observation: Stage group.clinical Cancer
+
+[2016-01-19] Observation: Stage group.clinical Cancer
+
+[2016-01-21] DiagnosticReport: History and physical note
+
+[2016-01-21] Encounter: dff7ec45-89d5-9300-10c5-9d0eb4330cd0
+
+[2016-01-23] DiagnosticReport: History and physical note
+
+[2016-01-23] Encounter: dff7ec45-89d5-9300-bc4b-c43eeead0550
+
+[2016-02-11] DiagnosticReport: History and physical note
+
+[2016-02-11] Encounter: dff7ec45-89d5-9300-1c17-fc495ed9be88
+
+[2016-02-13] DiagnosticReport: History and physical note
+
+[2016-02-13] Encounter: dff7ec45-89d5-9300-1254-758cb2e36c06
+
+[2016-02-14] DiagnosticReport: History and physical note
+
+[2016-02-14] Encounter: dff7ec45-89d5-9300-b1ba-b2750dd4e602
+
+[2016-02-15] DiagnosticReport: History and physical note
+
+[2016-02-15] Encounter: dff7ec45-89d5-9300-fe6f-2aa0f44544ad
+
+[2016-02-16] DiagnosticReport: History and physical note
+
+[2016-02-16] Encounter: dff7ec45-89d5-9300-679c-ef2ac5b700d7
+
+[2016-02-18] DiagnosticReport: History and physical note
+
+[2016-02-18] Encounter: dff7ec45-89d5-9300-f732-7e694168c950
+
+[2016-02-19] DiagnosticReport: History and physical note
+
+[2016-02-19] Encounter: dff7ec45-89d5-9300-b21e-62d546acbeef
+
+[2016-02-20] DiagnosticReport: History and physical note
+
+[2016-02-20] Encounter: dff7ec45-89d5-9300-149f-3324ff57431d
+
+[2016-02-22] DiagnosticReport: History and physical note
+
+[2016-02-22] Encounter: dff7ec45-89d5-9300-9fe6-4043c0cb69e3
+
+[2016-02-23] DiagnosticReport: History and physical note
+
+[2016-02-23] Encounter: dff7ec45-89d5-9300-8219-973905107182
+
+[2016-02-24] DiagnosticReport: History and physical note
+
+[2016-02-24] Encounter: dff7ec45-89d5-9300-4d65-3f4ce99bf7f8
+
+[2016-02-25] DiagnosticReport: History and physical note
+
+[2016-02-25] Encounter: dff7ec45-89d5-9300-1526-3d8c6295fc30
+
+[2016-02-26] DiagnosticReport: History and physical note
+
+[2016-02-26] Encounter: dff7ec45-89d5-9300-cc7c-c0e1f8e03595
+
+[2016-02-27] DiagnosticReport: History and physical note
+
+[2016-02-27] Encounter: dff7ec45-89d5-9300-4ed2-86bd75669160
+
+[2016-02-29] DiagnosticReport: History and physical note
+
+[2016-02-29] Encounter: dff7ec45-89d5-9300-a5eb-8494087ae9de
+
+[2016-03-01] DiagnosticReport: History and physical note
+
+[2016-03-01] Encounter: dff7ec45-89d5-9300-18b6-222d15eccefb
+
+[2016-03-03] DiagnosticReport: History and physical note
+
+[2016-03-03] Encounter: dff7ec45-89d5-9300-3889-112ea613a4e4
+
+[2016-03-04] DiagnosticReport: History and physical note
+
+[2016-03-04] Encounter: dff7ec45-89d5-9300-8543-a6e8eecef141
+
+[2016-03-05] DiagnosticReport: History and physical note
+
+[2016-03-05] Encounter: dff7ec45-89d5-9300-3506-54ce784a4843
+
+[2016-03-06] DiagnosticReport: History and physical note
+
+[2016-03-06] Encounter: dff7ec45-89d5-9300-b479-fea851596504
+
+[2016-03-08] DiagnosticReport: History and physical note
+
+[2016-03-08] Encounter: dff7ec45-89d5-9300-4565-b82b26e8579a
+
+[2016-03-09] DiagnosticReport: History and physical note
+
+[2016-03-09] Encounter: dff7ec45-89d5-9300-8701-ba12fd09c14a
+
+[2016-03-10] DiagnosticReport: History and physical note
+
+[2016-03-10] Encounter: dff7ec45-89d5-9300-0119-5e74a1454cf2
+
+[2016-03-11] DiagnosticReport: History and physical note
+
+[2016-03-11] Encounter: dff7ec45-89d5-9300-e362-7c7118f748e6
+
+[2016-03-13] DiagnosticReport: History and physical note
+
+[2016-03-13] Encounter: dff7ec45-89d5-9300-cbb1-997ce9590f69
+
+[2016-03-14] DiagnosticReport: History and physical note
+
+[2016-03-14] Encounter: dff7ec45-89d5-9300-de1b-8cb2c606b035
+
+[2016-03-15] DiagnosticReport: History and physical note
+
+[2016-03-15] Encounter: dff7ec45-89d5-9300-9676-41eafdbf8d78
+
+[2016-03-17] DiagnosticReport: History and physical note
+
+[2016-03-17] Encounter: dff7ec45-89d5-9300-4e5a-f660482fd13a
+
+[2016-03-18] DiagnosticReport: History and physical note
+
+[2016-03-18] Encounter: dff7ec45-89d5-9300-bf0f-e24c870294e8
+
+[2016-03-19] DiagnosticReport: History and physical note
+
+[2016-03-19] Encounter: dff7ec45-89d5-9300-bd7f-3b71e749deda
+
+[2016-03-27] DiagnosticReport: History and physical note
+
+[2016-03-27] DiagnosticReport: U.S. standard certificate of death - 2003 revision
+
+[2016-03-27] Encounter: dff7ec45-89d5-9300-d726-d80dfbf2e692
+
+[2016-03-27] Observation: Cause of Death [US Standard Certificate of Death]

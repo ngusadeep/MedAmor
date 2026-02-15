@@ -1,0 +1,42 @@
+# EHR Timeline
+Patient: Josette398 Reichert620
+Patient ID: abc1d715-275d-a599-345d-9abc6c439967
+
+
+Patient: Josette398 Reichert620 (id: abc1d715-275d-a599-345d-9abc6c439967)
+
+[2016-04-01] DiagnosticReport: History and physical note
+
+[2016-04-01] Encounter: abc1d715-275d-a599-c0c3-2d8cb243a736
+
+[2018-03-08] DiagnosticReport: History and physical note
+
+[2018-03-08] Encounter: abc1d715-275d-a599-f9cc-e7d4c42318e1
+
+[2019-03-15] DiagnosticReport: History and physical note
+
+[2019-03-15] Encounter: abc1d715-275d-a599-485a-9ec60b4bbb97
+
+[2020-03-20] DiagnosticReport: History and physical note
+
+[2020-03-20] Encounter: abc1d715-275d-a599-6f1d-bb60e9a950a7
+
+[2021-03-26] DiagnosticReport: History and physical note
+
+[2021-03-26] Encounter: abc1d715-275d-a599-a3ae-264d1cdf7119
+
+[2022-04-01] DiagnosticReport: History and physical note
+
+[2022-04-01] Encounter: abc1d715-275d-a599-6013-9f5a3f6a97b4
+
+[2023-04-07] DiagnosticReport: History and physical note
+
+[2023-04-07] Encounter: abc1d715-275d-a599-d5b1-9a8064bbce50
+
+[2024-04-12] DiagnosticReport: History and physical note
+
+[2024-04-12] Encounter: abc1d715-275d-a599-10c3-a892762c28ad
+
+[2025-04-18] DiagnosticReport: History and physical note
+
+[2025-04-18] Encounter: abc1d715-275d-a599-c03e-bc0b9a963602

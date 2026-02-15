@@ -1,0 +1,234 @@
+# EHR Timeline
+Patient: Enid644 Sasha806 Jakubowski832
+Patient ID: 52ab1cdb-5875-7baa-ac9b-0e02c9262903
+
+
+Patient: Enid644 Sasha806 Jakubowski832 (id: 52ab1cdb-5875-7baa-ac9b-0e02c9262903)
+
+Procedure: Mammography (procedure)
+
+Procedure: Mammography (procedure)
+
+Procedure: Mammography (procedure)
+
+Procedure: Mammography (procedure)
+
+Procedure: Mammography (procedure)
+
+Procedure: Mammography (procedure)
+
+Procedure: Mammography (procedure)
+
+Procedure: Mammography (procedure)
+
+Procedure: Mammography (procedure)
+
+Procedure: Mammography (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+[2015-04-20] Condition: Malignant neoplasm of breast (disorder)
+
+[2015-04-20] DiagnosticReport: History and physical note
+
+[2015-04-20] Encounter: 52ab1cdb-5875-7baa-f7cb-3f0fa8203233
+
+[2016-05-23] DiagnosticReport: History and physical note
+
+[2016-05-23] Encounter: 52ab1cdb-5875-7baa-aa2b-aa36854771ca
+
+[2016-09-23] DiagnosticReport: History and physical note
+
+[2016-09-23] DiagnosticReport: History and physical note
+
+[2016-09-23] Encounter: 52ab1cdb-5875-7baa-aade-e547506b3553
+
+[2016-09-23] Encounter: 52ab1cdb-5875-7baa-ea75-e13f775ee5b2
+
+[2016-09-23] Observation: Response to cancer treatment
+
+[2017-01-22] DiagnosticReport: History and physical note
+
+[2017-01-22] Encounter: 52ab1cdb-5875-7baa-4d56-2592e397f9c2
+
+[2017-05-18] DiagnosticReport: History and physical note
+
+[2017-05-18] Encounter: 52ab1cdb-5875-7baa-aa40-f3c5b684534a
+
+[2017-08-12] DiagnosticReport: History and physical note
+
+[2017-08-12] Encounter: 52ab1cdb-5875-7baa-32b3-0c29ac4c09cd
+
+[2017-09-18] DiagnosticReport: History and physical note
+
+[2017-09-18] DiagnosticReport: History and physical note
+
+[2017-09-18] Encounter: 52ab1cdb-5875-7baa-619f-60615641ccad
+
+[2017-09-18] Encounter: 52ab1cdb-5875-7baa-e5ec-4f98f344ed81
+
+[2017-09-18] Observation: Response to cancer treatment
+
+[2018-01-12] DiagnosticReport: History and physical note
+
+[2018-01-12] Encounter: 52ab1cdb-5875-7baa-f622-b7549691b784
+
+[2018-04-24] DiagnosticReport: History and physical note
+
+[2018-04-24] Encounter: 52ab1cdb-5875-7baa-a7a3-34018c910534
+
+[2018-08-20] DiagnosticReport: History and physical note
+
+[2018-08-20] DiagnosticReport: History and physical note
+
+[2018-08-20] Encounter: 52ab1cdb-5875-7baa-2115-070b66ddfee5
+
+[2018-08-20] Encounter: 52ab1cdb-5875-7baa-a173-5e09dfba61aa
+
+[2018-08-20] Observation: Response to cancer treatment
+
+[2018-12-20] DiagnosticReport: History and physical note
+
+[2018-12-20] Encounter: 52ab1cdb-5875-7baa-2787-14e8577b112f
+
+[2019-04-03] DiagnosticReport: History and physical note
+
+[2019-04-03] Encounter: 52ab1cdb-5875-7baa-6bf8-b9bffd79a7f2
+
+[2019-07-20] DiagnosticReport: History and physical note
+
+[2019-07-20] Encounter: 52ab1cdb-5875-7baa-d0c8-dc5229394283
+
+[2019-08-06] DiagnosticReport: History and physical note
+
+[2019-08-06] DiagnosticReport: History and physical note
+
+[2019-08-06] Encounter: 52ab1cdb-5875-7baa-15a8-3b3dad363fda
+
+[2019-08-06] Encounter: 52ab1cdb-5875-7baa-44eb-74fc3a02ac44
+
+[2019-08-06] Observation: Response to cancer treatment
+
+[2019-11-23] DiagnosticReport: History and physical note
+
+[2019-11-23] Encounter: 52ab1cdb-5875-7baa-bcd0-92904b630968
+
+[2020-03-05] DiagnosticReport: History and physical note
+
+[2020-03-05] Encounter: 52ab1cdb-5875-7baa-406a-9bd0a040cfe2
+
+[2020-06-16] DiagnosticReport: History and physical note
+
+[2020-06-16] DiagnosticReport: History and physical note
+
+[2020-06-16] Encounter: 52ab1cdb-5875-7baa-0068-5c93dfcc4829
+
+[2020-06-16] Encounter: 52ab1cdb-5875-7baa-d0f7-ea923d3d207a
+
+[2020-07-25] DiagnosticReport: History and physical note
+
+[2020-07-25] Encounter: 52ab1cdb-5875-7baa-8c7f-1ccd710f5139
+
+[2021-04-10] DiagnosticReport: History and physical note
+
+[2021-04-10] Encounter: 52ab1cdb-5875-7baa-35d3-5761f8278ec8
+
+[2021-05-08] DiagnosticReport: History and physical note
+
+[2021-05-08] Encounter: 52ab1cdb-5875-7baa-6c7a-5ffaebe64771
+
+[2021-07-03] DiagnosticReport: History and physical note
+
+[2021-07-03] DiagnosticReport: History and physical note
+
+[2021-07-03] Encounter: 52ab1cdb-5875-7baa-3ba7-52312d63e5d1
+
+[2021-07-03] Encounter: 52ab1cdb-5875-7baa-6cce-98cff71ea1b7
+
+[2021-07-31] DiagnosticReport: History and physical note
+
+[2021-07-31] Encounter: 52ab1cdb-5875-7baa-5c2a-652f6dd4c6fc
+
+[2022-07-07] DiagnosticReport: History and physical note
+
+[2022-07-07] DiagnosticReport: History and physical note
+
+[2022-07-07] Encounter: 52ab1cdb-5875-7baa-37fa-5af842076308
+
+[2022-07-07] Encounter: 52ab1cdb-5875-7baa-81b9-724079b8fb39
+
+[2022-08-06] DiagnosticReport: History and physical note
+
+[2022-08-06] Encounter: 52ab1cdb-5875-7baa-bb88-fc4e65060613
+
+[2023-06-20] DiagnosticReport: History and physical note
+
+[2023-06-20] DiagnosticReport: History and physical note
+
+[2023-06-20] Encounter: 52ab1cdb-5875-7baa-6534-cb66b66cd520
+
+[2023-06-20] Encounter: 52ab1cdb-5875-7baa-ff47-1e59600475b8
+
+[2023-08-12] DiagnosticReport: History and physical note
+
+[2023-08-12] Encounter: 52ab1cdb-5875-7baa-e5cb-ad98379126ae
+
+[2024-06-30] DiagnosticReport: History and physical note
+
+[2024-06-30] DiagnosticReport: History and physical note
+
+[2024-06-30] Encounter: 52ab1cdb-5875-7baa-b7d2-e64bb792051e
+
+[2024-06-30] Encounter: 52ab1cdb-5875-7baa-cd2b-48a15f02296e
+
+[2024-08-17] DiagnosticReport: History and physical note
+
+[2024-08-17] Encounter: 52ab1cdb-5875-7baa-0d01-980402baee68
+
+[2025-06-03] DiagnosticReport: History and physical note
+
+[2025-06-03] DiagnosticReport: History and physical note
+
+[2025-06-03] Encounter: 52ab1cdb-5875-7baa-4291-b0d27bb7c04e
+
+[2025-06-03] Encounter: 52ab1cdb-5875-7baa-ac4a-c2d25b76f28a
+
+[2025-08-23] DiagnosticReport: History and physical note
+
+[2025-08-23] Encounter: 52ab1cdb-5875-7baa-3552-1ebd5e82d1b3

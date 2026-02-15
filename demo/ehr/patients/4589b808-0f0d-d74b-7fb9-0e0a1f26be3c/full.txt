@@ -1,0 +1,162 @@
+# EHR Timeline
+Patient: Rochel591 Jillian231 Collier206
+Patient ID: 4589b808-0f0d-d74b-7fb9-0e0a1f26be3c
+
+
+MedicationRequest: 4589b808-0f0d-d74b-0942-71281c27bfd6
+
+MedicationRequest: 4589b808-0f0d-d74b-48bc-9ea4a63d9dda
+
+MedicationRequest: 4589b808-0f0d-d74b-7c03-b565a9b576bb
+
+MedicationRequest: 4589b808-0f0d-d74b-9cd3-7bc1a9968942
+
+MedicationRequest: 4589b808-0f0d-d74b-9df5-2d7a1025253f
+
+MedicationRequest: 4589b808-0f0d-d74b-9e1d-e00d8b00ff1c
+
+MedicationRequest: 4589b808-0f0d-d74b-b78d-7f6ac1e686c8
+
+MedicationRequest: 4589b808-0f0d-d74b-e711-56c3944452fa
+
+Patient: Rochel591 Jillian231 Collier206 (id: 4589b808-0f0d-d74b-7fb9-0e0a1f26be3c)
+
+Procedure: Biopsy of breast (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Discussion about options (procedure)
+
+Procedure: Human epidermal growth factor receptor 2 gene detection by fluorescence in situ hybridization (procedure)
+
+Procedure: Human epidermal growth factor receptor 2 gene detection by immunohistochemistry (procedure)
+
+Procedure: Screening mammography (procedure)
+
+Procedure: Ultrasonography of bilateral breasts (procedure)
+
+[2009-07-14] DiagnosticReport: History and physical note
+
+[2009-07-14] Encounter: 4589b808-0f0d-d74b-0876-8b534d618d36
+
+[2010-07-20] DiagnosticReport: History and physical note
+
+[2010-07-20] Encounter: 4589b808-0f0d-d74b-31ca-d43a86e3f00e
+
+[2011-07-26] DiagnosticReport: History and physical note
+
+[2011-07-26] Encounter: 4589b808-0f0d-d74b-cee2-0fd2bb27f47d
+
+[2012-07-31] DiagnosticReport: History and physical note
+
+[2012-07-31] Encounter: 4589b808-0f0d-d74b-c14b-c5ac5744c23a
+
+[2013-08-06] DiagnosticReport: History and physical note
+
+[2013-08-06] Encounter: 4589b808-0f0d-d74b-6a79-235c86d41d05
+
+[2014-08-12] DiagnosticReport: History and physical note
+
+[2014-08-12] Encounter: 4589b808-0f0d-d74b-d610-fcf92cc5c54c
+
+[2015-08-18] DiagnosticReport: History and physical note
+
+[2015-08-18] Encounter: 4589b808-0f0d-d74b-0695-15923d0f15b6
+
+[2016-08-23] DiagnosticReport: History and physical note
+
+[2016-08-23] Encounter: 4589b808-0f0d-d74b-6fbe-bf3f6226ca79
+
+[2017-08-29] DiagnosticReport: History and physical note
+
+[2017-08-29] Encounter: 4589b808-0f0d-d74b-46bd-ff1aabb20a75
+
+[2018-04-15] DiagnosticReport: History and physical note
+
+[2018-04-15] Encounter: 4589b808-0f0d-d74b-265b-3520065dabce
+
+[2018-04-16] Condition: Malignant neoplasm of breast (disorder)
+
+[2018-04-16] Observation: Distant metastases.clinical [Class] Cancer
+
+[2018-04-16] Observation: Lymph nodes with micrometastases [#] in Cancer specimen by Light microscopy
+
+[2018-04-16] Observation: Primary tumor.clinical [Class] Cancer
+
+[2018-04-16] Observation: Regional lymph nodes.clinical [Class] Cancer
+
+[2018-04-16] Observation: Size.maximum dimension in Tumor
+
+[2018-04-17] Observation: ERBB2 gene duplication [Presence] in Breast cancer specimen by FISH
+
+[2018-04-17] Observation: Estrogen receptor Ag [Presence] in Breast cancer specimen by Immune stain
+
+[2018-04-17] Observation: Estrogen+Progesterone receptor Ag [Presence] in Tissue by Immune stain
+
+[2018-04-17] Observation: HER2 [Presence] in Breast cancer specimen by Immune stain
+
+[2018-04-17] Observation: Progesterone receptor Ag [Presence] in Breast cancer specimen by Immune stain
+
+[2018-04-17] Observation: Stage group.clinical Cancer
+
+[2018-04-22] DiagnosticReport: History and physical note
+
+[2018-04-22] Encounter: 4589b808-0f0d-d74b-9f01-539cf9ebf564
+
+[2018-04-23] DiagnosticReport: History and physical note
+
+[2018-04-23] Encounter: 4589b808-0f0d-d74b-9847-aeab38cea2b2
+
+[2018-05-13] DiagnosticReport: History and physical note
+
+[2018-05-13] Encounter: 4589b808-0f0d-d74b-6582-71fd993c7db7
+
+[2018-06-02] DiagnosticReport: History and physical note
+
+[2018-06-02] Encounter: 4589b808-0f0d-d74b-6f2a-e665840e1f94
+
+[2018-06-23] DiagnosticReport: History and physical note
+
+[2018-06-23] Encounter: 4589b808-0f0d-d74b-9632-30dcf06a8786
+
+[2018-07-14] DiagnosticReport: History and physical note
+
+[2018-07-14] Encounter: 4589b808-0f0d-d74b-300e-da654be3d638
+
+[2018-08-04] DiagnosticReport: History and physical note
+
+[2018-08-04] Encounter: 4589b808-0f0d-d74b-5629-f767ff87d322
+
+[2018-08-25] DiagnosticReport: History and physical note
+
+[2018-08-25] Encounter: 4589b808-0f0d-d74b-9695-bc58b56a2288
+
+[2018-09-04] DiagnosticReport: History and physical note
+
+[2018-09-04] Encounter: 4589b808-0f0d-d74b-a305-13e0e49a350e
+
+[2018-09-15] DiagnosticReport: History and physical note
+
+[2018-09-15] Encounter: 4589b808-0f0d-d74b-0893-21945c4da716
+
+[2018-10-02] DiagnosticReport: History and physical note
+
+[2018-10-02] DiagnosticReport: U.S. standard certificate of death - 2003 revision
+
+[2018-10-02] Encounter: 4589b808-0f0d-d74b-f013-42128d52e3bd
+
+[2018-10-02] Observation: Cause of Death [US Standard Certificate of Death]

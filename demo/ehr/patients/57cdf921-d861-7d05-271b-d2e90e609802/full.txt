@@ -1,0 +1,250 @@
+# EHR Timeline
+Patient: Ardelia466 Miguelina323 Casper496
+Patient ID: 57cdf921-d861-7d05-271b-d2e90e609802
+
+
+MedicationRequest: 57cdf921-d861-7d05-10c5-f374c9d46491
+
+MedicationRequest: 57cdf921-d861-7d05-24c0-ea1428692ca2
+
+MedicationRequest: 57cdf921-d861-7d05-431a-b3ede901b1d4
+
+MedicationRequest: 57cdf921-d861-7d05-5322-e0864d8c6851
+
+MedicationRequest: 57cdf921-d861-7d05-5442-022758857942
+
+MedicationRequest: 57cdf921-d861-7d05-5a1c-7dc0886d49d4
+
+MedicationRequest: 57cdf921-d861-7d05-6277-01e735ae7d79
+
+MedicationRequest: 57cdf921-d861-7d05-72fc-2cc828603993
+
+MedicationRequest: 57cdf921-d861-7d05-7ecd-31e86278a454
+
+MedicationRequest: 57cdf921-d861-7d05-ac69-de1d8f24b00f
+
+MedicationRequest: 57cdf921-d861-7d05-b3ee-abbbfe14c5c6
+
+MedicationRequest: 57cdf921-d861-7d05-bdf8-4be9a1bb3d12
+
+MedicationRequest: 57cdf921-d861-7d05-cbb3-9dc25203818a
+
+MedicationRequest: 57cdf921-d861-7d05-d36d-ec642b9ba5b1
+
+MedicationRequest: 57cdf921-d861-7d05-e162-7e182afe321a
+
+MedicationRequest: 57cdf921-d861-7d05-f10c-1a71370add32
+
+MedicationRequest: 57cdf921-d861-7d05-f161-0ef6328d2c8e
+
+Patient: Ardelia466 Miguelina323 Casper496 (id: 57cdf921-d861-7d05-271b-d2e90e609802)
+
+Procedure: Biopsy of breast (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Discussion about options (procedure)
+
+Procedure: Excision of sentinel lymph node (procedure)
+
+Procedure: Human epidermal growth factor receptor 2 gene detection by fluorescence in situ hybridization (procedure)
+
+Procedure: Human epidermal growth factor receptor 2 gene detection by immunohistochemistry (procedure)
+
+Procedure: Lumpectomy of breast (procedure)
+
+Procedure: Screening mammography (procedure)
+
+Procedure: Sentinel lymph node biopsy (procedure)
+
+Procedure: Ultrasonography of bilateral breasts (procedure)
+
+[2016-03-02] DiagnosticReport: History and physical note
+
+[2016-03-02] Encounter: 57cdf921-d861-7d05-4469-c7999ac5f24d
+
+[2017-03-08] DiagnosticReport: History and physical note
+
+[2017-03-08] Encounter: 57cdf921-d861-7d05-888b-937388924a8e
+
+[2018-03-14] DiagnosticReport: History and physical note
+
+[2018-03-14] Encounter: 57cdf921-d861-7d05-052a-e5ae0c55278a
+
+[2019-03-20] DiagnosticReport: History and physical note
+
+[2019-03-20] Encounter: 57cdf921-d861-7d05-b4c7-6ed7d103d0ce
+
+[2020-03-25] DiagnosticReport: History and physical note
+
+[2020-03-25] Encounter: 57cdf921-d861-7d05-af1b-d0b1250f9ce4
+
+[2021-03-31] DiagnosticReport: History and physical note
+
+[2021-03-31] Encounter: 57cdf921-d861-7d05-b297-a8ee93d50c09
+
+[2021-05-05] DiagnosticReport: History and physical note
+
+[2021-05-05] Encounter: 57cdf921-d861-7d05-0aa9-5a6876af9dd0
+
+[2021-05-26] DiagnosticReport: History and physical note
+
+[2021-05-26] Encounter: 57cdf921-d861-7d05-c0bb-59bd51b31280
+
+[2022-04-06] DiagnosticReport: History and physical note
+
+[2022-04-06] Encounter: 57cdf921-d861-7d05-55d7-661d2df7139d
+
+[2023-04-12] DiagnosticReport: History and physical note
+
+[2023-04-12] Encounter: 57cdf921-d861-7d05-eb6b-1bc9aeb285d4
+
+[2024-04-17] DiagnosticReport: History and physical note
+
+[2024-04-17] Encounter: 57cdf921-d861-7d05-25c2-92b49ba32926
+
+[2024-11-06] Condition: Malignant neoplasm of breast (disorder)
+
+[2024-11-06] DiagnosticReport: History and physical note
+
+[2024-11-06] Encounter: 57cdf921-d861-7d05-24ae-826f0884176d
+
+[2024-11-06] Observation: Distant metastases.clinical [Class] Cancer
+
+[2024-11-06] Observation: Lymph nodes with macrometastases [#] in Cancer specimen by Light microscopy
+
+[2024-11-06] Observation: Primary tumor.clinical [Class] Cancer
+
+[2024-11-06] Observation: Regional lymph nodes.clinical [Class] Cancer
+
+[2024-11-06] Observation: Site of distant metastasis in Breast tumor
+
+[2024-11-06] Observation: Size.maximum dimension in Tumor
+
+[2024-11-07] Observation: ERBB2 gene duplication [Presence] in Breast cancer specimen by FISH
+
+[2024-11-07] Observation: Estrogen receptor Ag [Presence] in Breast cancer specimen by Immune stain
+
+[2024-11-07] Observation: HER2 [Presence] in Breast cancer specimen by Immune stain
+
+[2024-11-07] Observation: Progesterone receptor Ag [Presence] in Breast cancer specimen by Immune stain
+
+[2024-11-07] Observation: Stage group.clinical Cancer
+
+[2024-11-07] Observation: Stage group.clinical Cancer
+
+[2024-11-09] DiagnosticReport: History and physical note
+
+[2024-11-09] Encounter: 57cdf921-d861-7d05-a2e4-0f7da039db94
+
+[2024-11-12] DiagnosticReport: History and physical note
+
+[2024-11-12] Encounter: 57cdf921-d861-7d05-8962-dd1a5a37b01f
+
+[2024-12-05] DiagnosticReport: History and physical note
+
+[2024-12-05] Encounter: 57cdf921-d861-7d05-1ef5-d9858813748d
+
+[2024-12-27] DiagnosticReport: History and physical note
+
+[2024-12-27] Encounter: 57cdf921-d861-7d05-c9cb-324b656d8663
+
+[2025-01-17] DiagnosticReport: History and physical note
+
+[2025-01-17] Encounter: 57cdf921-d861-7d05-5d43-33987ccfacdb
+
+[2025-02-09] DiagnosticReport: History and physical note
+
+[2025-02-09] Encounter: 57cdf921-d861-7d05-2b46-33394975b669
+
+[2025-03-04] DiagnosticReport: History and physical note
+
+[2025-03-04] Encounter: 57cdf921-d861-7d05-f69e-327ec4a34b2d
+
+[2025-03-27] DiagnosticReport: History and physical note
+
+[2025-03-27] Encounter: 57cdf921-d861-7d05-582b-d0cb09aadd88
+
+[2025-04-23] DiagnosticReport: History and physical note
+
+[2025-04-23] Encounter: 57cdf921-d861-7d05-6da5-7ba9bf6b0206
+
+[2025-04-30] DiagnosticReport: History and physical note
+
+[2025-04-30] Encounter: 57cdf921-d861-7d05-67ed-90acbd8d7294
+
+[2025-05-18] DiagnosticReport: History and physical note
+
+[2025-05-18] Encounter: 57cdf921-d861-7d05-fb5a-8855c834b8ba
+
+[2025-05-18] Observation: Response to cancer treatment
+
+[2025-05-27] DiagnosticReport: History and physical note
+
+[2025-05-27] Encounter: 57cdf921-d861-7d05-2578-ec41949092e6
+
+[2025-06-18] DiagnosticReport: History and physical note
+
+[2025-06-18] Encounter: 57cdf921-d861-7d05-481d-037165e08c0d
+
+[2025-07-11] DiagnosticReport: History and physical note
+
+[2025-07-11] Encounter: 57cdf921-d861-7d05-7dcd-f307b57b20f5
+
+[2025-07-31] DiagnosticReport: History and physical note
+
+[2025-07-31] Encounter: 57cdf921-d861-7d05-9aa8-ab0f35df4891
+
+[2025-08-23] DiagnosticReport: History and physical note
+
+[2025-08-23] Encounter: 57cdf921-d861-7d05-93e5-75b90fc1fc6a
+
+[2025-09-14] DiagnosticReport: History and physical note
+
+[2025-09-14] Encounter: 57cdf921-d861-7d05-406c-a928ff135821
+
+[2025-10-05] DiagnosticReport: History and physical note
+
+[2025-10-05] Encounter: 57cdf921-d861-7d05-8c60-d96846b6be64
+
+[2025-10-26] DiagnosticReport: History and physical note
+
+[2025-10-26] Encounter: 57cdf921-d861-7d05-4b6b-1bd6843d831f
+
+[2025-11-01] DiagnosticReport: History and physical note
+
+[2025-11-01] Encounter: 57cdf921-d861-7d05-7a61-3f64d6c15017
+
+[2025-11-01] Observation: Response to cancer treatment
+
+[2025-11-01] Observation: Treatment status Cancer

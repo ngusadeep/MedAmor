@@ -1,0 +1,44 @@
+# EHR Timeline
+Patient: Richelle340 Wiegand701
+Patient ID: 943fec3e-ac5a-2284-2b4f-ce652b6f09d3
+
+
+Patient: Richelle340 Wiegand701 (id: 943fec3e-ac5a-2284-2b4f-ce652b6f09d3)
+
+Procedure: Screening mammography (procedure)
+
+Procedure: Ultrasonography of bilateral breasts (procedure)
+
+[2017-08-19] DiagnosticReport: History and physical note
+
+[2017-08-19] Encounter: 943fec3e-ac5a-2284-f8f1-c4cabf7a73da
+
+[2019-08-24] DiagnosticReport: History and physical note
+
+[2019-08-24] Encounter: 943fec3e-ac5a-2284-ebc3-4c050f64b55c
+
+[2021-08-28] DiagnosticReport: History and physical note
+
+[2021-08-28] Encounter: 943fec3e-ac5a-2284-107e-802bfdf770be
+
+[2023-09-02] DiagnosticReport: History and physical note
+
+[2023-09-02] Encounter: 943fec3e-ac5a-2284-5d78-cd1dbccf703d
+
+[2025-09-06] DiagnosticReport: History and physical note
+
+[2025-09-06] Encounter: 943fec3e-ac5a-2284-3e82-656bb1664efb
+
+[2026-01-27] DiagnosticReport: History and physical note
+
+[2026-01-27] DiagnosticReport: MG Breast Screening
+
+[2026-01-27] DiagnosticReport: US Breast
+
+[2026-01-27] Encounter: 943fec3e-ac5a-2284-62c0-c37f31e357a2
+
+[2026-01-27] Observation: Breast Imaging Reporting and Data System
+
+[2026-01-27] Observation: Breast ultrasound finding
+
+[2026-01-27] Observation: Mammographic mass (finding)

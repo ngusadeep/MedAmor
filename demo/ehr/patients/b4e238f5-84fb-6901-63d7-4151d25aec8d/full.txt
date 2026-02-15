@@ -1,0 +1,30 @@
+# EHR Timeline
+Patient: Terrie907 Jaime666 Goyette777
+Patient ID: b4e238f5-84fb-6901-63d7-4151d25aec8d
+
+
+Patient: Terrie907 Jaime666 Goyette777 (id: b4e238f5-84fb-6901-63d7-4151d25aec8d)
+
+[2017-01-01] DiagnosticReport: History and physical note
+
+[2017-01-01] Encounter: b4e238f5-84fb-6901-971e-efb5a81efc46
+
+[2020-01-05] DiagnosticReport: History and physical note
+
+[2020-01-05] Encounter: b4e238f5-84fb-6901-e3c9-f7d65111c82c
+
+[2021-01-24] DiagnosticReport: History and physical note
+
+[2021-01-24] Encounter: b4e238f5-84fb-6901-e9ba-f9c0d4ee1f12
+
+[2021-02-14] DiagnosticReport: History and physical note
+
+[2021-02-14] Encounter: b4e238f5-84fb-6901-de8c-c36fb20a918c
+
+[2023-01-08] DiagnosticReport: History and physical note
+
+[2023-01-08] Encounter: b4e238f5-84fb-6901-77c9-88c85f218fbd
+
+[2025-10-26] DiagnosticReport: History and physical note
+
+[2025-10-26] Encounter: b4e238f5-84fb-6901-259d-66dc1a93d7d3

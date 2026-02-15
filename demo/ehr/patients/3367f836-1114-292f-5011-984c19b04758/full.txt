@@ -1,0 +1,114 @@
+# EHR Timeline
+Patient: Alia555 Nakesha793 Wiza601
+Patient ID: 3367f836-1114-292f-5011-984c19b04758
+
+
+MedicationRequest: 3367f836-1114-292f-20c4-48ec331eb7a2
+
+MedicationRequest: 3367f836-1114-292f-43c0-02ff8cb8b70c
+
+MedicationRequest: 3367f836-1114-292f-5116-ce692675050b
+
+MedicationRequest: 3367f836-1114-292f-7d22-084aba30ebf6
+
+MedicationRequest: 3367f836-1114-292f-d606-dd73fed97b9d
+
+Patient: Alia555 Nakesha793 Wiza601 (id: 3367f836-1114-292f-5011-984c19b04758)
+
+Procedure: Biopsy of breast (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Discussion about options (procedure)
+
+Procedure: Excision of lesion of breast (procedure)
+
+Procedure: Human epidermal growth factor receptor 2 gene detection by fluorescence in situ hybridization (procedure)
+
+Procedure: Human epidermal growth factor receptor 2 gene detection by immunohistochemistry (procedure)
+
+Procedure: Magnetic resonance imaging of breast (procedure)
+
+Procedure: Screening mammography (procedure)
+
+[2016-08-22] DiagnosticReport: History and physical note
+
+[2016-08-22] Encounter: 3367f836-1114-292f-e363-1495007288ec
+
+[2019-08-26] DiagnosticReport: History and physical note
+
+[2019-08-26] Encounter: 3367f836-1114-292f-bedd-c43558f6d0ed
+
+[2022-08-29] DiagnosticReport: History and physical note
+
+[2022-08-29] Encounter: 3367f836-1114-292f-d5f6-f70178b2b681
+
+[2025-06-16] DiagnosticReport: History and physical note
+
+[2025-06-16] Encounter: 3367f836-1114-292f-d0e3-c2747f53e2ed
+
+[2025-10-12] Condition: Malignant neoplasm of breast (disorder)
+
+[2025-10-12] DiagnosticReport: History and physical note
+
+[2025-10-12] Encounter: 3367f836-1114-292f-dbf5-0b6e785eea6b
+
+[2025-10-12] Observation: Distant metastases.clinical [Class] Cancer
+
+[2025-10-12] Observation: Lymph nodes with isolated tumor cells [#] in Cancer specimen by Light microscopy
+
+[2025-10-12] Observation: Primary tumor.clinical [Class] Cancer
+
+[2025-10-12] Observation: Regional lymph nodes.clinical [Class] Cancer
+
+[2025-10-12] Observation: Site of distant metastasis in Breast tumor
+
+[2025-10-12] Observation: Size.maximum dimension in Tumor
+
+[2025-10-14] Observation: ERBB2 gene duplication [Presence] in Breast cancer specimen by FISH
+
+[2025-10-14] Observation: Estrogen receptor Ag [Presence] in Breast cancer specimen by Immune stain
+
+[2025-10-14] Observation: HER2 [Presence] in Breast cancer specimen by Immune stain
+
+[2025-10-14] Observation: Progesterone receptor Ag [Presence] in Breast cancer specimen by Immune stain
+
+[2025-10-14] Observation: Stage group.clinical Cancer
+
+[2025-10-14] Observation: Stage group.clinical Cancer
+
+[2025-10-16] DiagnosticReport: History and physical note
+
+[2025-10-16] Encounter: 3367f836-1114-292f-8035-a452d75b25a3
+
+[2025-10-19] DiagnosticReport: History and physical note
+
+[2025-10-19] Encounter: 3367f836-1114-292f-b922-90416745c26d
+
+[2025-11-04] DiagnosticReport: History and physical note
+
+[2025-11-04] Encounter: 3367f836-1114-292f-3754-167fb2c97c27
+
+[2025-11-24] DiagnosticReport: History and physical note
+
+[2025-11-24] Encounter: 3367f836-1114-292f-1db9-3094f6646333
+
+[2025-12-17] DiagnosticReport: History and physical note
+
+[2025-12-17] Encounter: 3367f836-1114-292f-0bd7-e87fa5210388
+
+[2026-01-07] DiagnosticReport: History and physical note
+
+[2026-01-07] Encounter: 3367f836-1114-292f-d426-3c57594411cf
+
+[2026-01-27] DiagnosticReport: History and physical note
+
+[2026-01-27] Encounter: 3367f836-1114-292f-1232-cd53083241e0

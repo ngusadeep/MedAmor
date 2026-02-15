@@ -16,9 +16,10 @@ class JobStatusEnum:
 
 
 class JobCreate(BaseModel):
-    """Request body to create an audit job."""
+    """Request body to create an audit job (Breast Cancer Screening)."""
 
     patient_id: str
+    audit_type: str | None = None  # default breast_cancer_screening
     export_type: str | None = None
     triggered_by: str | None = None
 
@@ -30,6 +31,7 @@ class JobResponse(BaseModel):
 
     id: UUID
     patient_id: str
+    audit_type: str
     status: str
     triggered_by: str | None
     export_type: str | None

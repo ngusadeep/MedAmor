@@ -1,0 +1,192 @@
+# EHR Timeline
+Patient: Francesca650 Annelle169 Upton904
+Patient ID: 3c0548e8-6e87-84b7-4289-f9bd859ade71
+
+
+MedicationRequest: 3c0548e8-6e87-84b7-15d7-c1e0e9f8bbc7
+
+MedicationRequest: 3c0548e8-6e87-84b7-3e55-cd28e57cb23e
+
+MedicationRequest: 3c0548e8-6e87-84b7-4f07-00d5fb0dfb46
+
+MedicationRequest: 3c0548e8-6e87-84b7-6a83-92211770975e
+
+MedicationRequest: 3c0548e8-6e87-84b7-72de-520e5f0cc0ec
+
+MedicationRequest: 3c0548e8-6e87-84b7-8535-40a031b047e3
+
+MedicationRequest: 3c0548e8-6e87-84b7-b1f9-055903f33e5e
+
+MedicationRequest: 3c0548e8-6e87-84b7-df04-fa211ff4d8d1
+
+MedicationRequest: 3c0548e8-6e87-84b7-e3f3-5563b9d74aab
+
+MedicationRequest: 3c0548e8-6e87-84b7-e55a-c42bb2155006
+
+Patient: Francesca650 Annelle169 Upton904 (id: 3c0548e8-6e87-84b7-4289-f9bd859ade71)
+
+Procedure: Biopsy of breast (procedure)
+
+Procedure: Brachytherapy of breast (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Discussion about options (procedure)
+
+Procedure: Excision of sentinel lymph node (procedure)
+
+Procedure: Human epidermal growth factor receptor 2 gene detection by fluorescence in situ hybridization (procedure)
+
+Procedure: Human epidermal growth factor receptor 2 gene detection by immunohistochemistry (procedure)
+
+Procedure: Intracavitary brachytherapy (procedure)
+
+Procedure: Lumpectomy of breast (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Screening mammography (procedure)
+
+Procedure: Sentinel lymph node biopsy (procedure)
+
+Procedure: Ultrasonography of bilateral breasts (procedure)
+
+[2016-12-06] DiagnosticReport: History and physical note
+
+[2016-12-06] Encounter: 3c0548e8-6e87-84b7-9c97-16cdc5e6e7b3
+
+[2018-12-11] DiagnosticReport: History and physical note
+
+[2018-12-11] Encounter: 3c0548e8-6e87-84b7-2692-d4e0c54b27fc
+
+[2020-12-15] DiagnosticReport: History and physical note
+
+[2020-12-15] Encounter: 3c0548e8-6e87-84b7-5335-af04189f6f60
+
+[2021-01-26] DiagnosticReport: History and physical note
+
+[2021-01-26] Encounter: 3c0548e8-6e87-84b7-c85d-ee672fbf7f09
+
+[2021-02-23] DiagnosticReport: History and physical note
+
+[2021-02-23] Encounter: 3c0548e8-6e87-84b7-3a61-cd0065cda726
+
+[2022-11-22] DiagnosticReport: History and physical note
+
+[2022-11-22] Encounter: 3c0548e8-6e87-84b7-8d07-9c0d8f9e8e0e
+
+[2023-11-28] DiagnosticReport: History and physical note
+
+[2023-11-28] Encounter: 3c0548e8-6e87-84b7-f618-3fcd01226b99
+
+[2024-11-20] DiagnosticReport: History and physical note
+
+[2024-11-20] Encounter: 3c0548e8-6e87-84b7-db95-4f818d065b2f
+
+[2024-11-21] Condition: Malignant neoplasm of breast (disorder)
+
+[2024-11-21] Observation: Distant metastases.clinical [Class] Cancer
+
+[2024-11-21] Observation: Lymph nodes with micrometastases [#] in Cancer specimen by Light microscopy
+
+[2024-11-21] Observation: Primary tumor.clinical [Class] Cancer
+
+[2024-11-21] Observation: Regional lymph nodes.clinical [Class] Cancer
+
+[2024-11-21] Observation: Size.maximum dimension in Tumor
+
+[2024-11-23] Observation: ERBB2 gene duplication [Presence] in Breast cancer specimen by FISH
+
+[2024-11-23] Observation: Estrogen receptor Ag [Presence] in Breast cancer specimen by Immune stain
+
+[2024-11-23] Observation: HER2 [Presence] in Breast cancer specimen by Immune stain
+
+[2024-11-23] Observation: Progesterone receptor Ag [Presence] in Breast cancer specimen by Immune stain
+
+[2024-11-23] Observation: Stage group.clinical Cancer
+
+[2024-11-24] DiagnosticReport: History and physical note
+
+[2024-11-24] Encounter: 3c0548e8-6e87-84b7-9f9e-51292e2be306
+
+[2024-11-26] DiagnosticReport: History and physical note
+
+[2024-11-26] Encounter: 3c0548e8-6e87-84b7-d2a5-e100ad9c3dc9
+
+[2024-12-03] DiagnosticReport: History and physical note
+
+[2024-12-03] Encounter: 3c0548e8-6e87-84b7-8c85-1467aec1ae97
+
+[2024-12-16] DiagnosticReport: History and physical note
+
+[2024-12-16] Encounter: 3c0548e8-6e87-84b7-be35-eea6fc8f6d8a
+
+[2025-01-07] DiagnosticReport: History and physical note
+
+[2025-01-07] Encounter: 3c0548e8-6e87-84b7-1f24-35701ec51f52
+
+[2025-01-27] DiagnosticReport: History and physical note
+
+[2025-01-27] Encounter: 3c0548e8-6e87-84b7-5317-3178635a1c7e
+
+[2025-02-19] DiagnosticReport: History and physical note
+
+[2025-02-19] Encounter: 3c0548e8-6e87-84b7-1104-728c730f547f
+
+[2025-03-11] DiagnosticReport: History and physical note
+
+[2025-03-11] Encounter: 3c0548e8-6e87-84b7-094f-ef0256d2acc4
+
+[2025-04-02] DiagnosticReport: History and physical note
+
+[2025-04-02] Encounter: 3c0548e8-6e87-84b7-3d3b-b3b45f743503
+
+[2025-04-24] DiagnosticReport: History and physical note
+
+[2025-04-24] Encounter: 3c0548e8-6e87-84b7-d39c-dfd60d0c0039
+
+[2025-05-16] DiagnosticReport: History and physical note
+
+[2025-05-16] Encounter: 3c0548e8-6e87-84b7-46bd-d4de80c4884b
+
+[2025-05-16] Observation: Response to cancer treatment
+
+[2025-05-27] DiagnosticReport: History and physical note
+
+[2025-05-27] Encounter: 3c0548e8-6e87-84b7-f736-b40e3950c6c7
+
+[2025-06-23] DiagnosticReport: History and physical note
+
+[2025-06-23] Encounter: 3c0548e8-6e87-84b7-9b43-42613f4067ca
+
+[2025-06-23] Observation: Response to cancer treatment
+
+[2025-06-23] Observation: Treatment status Cancer
+
+[2025-09-29] DiagnosticReport: History and physical note
+
+[2025-09-29] Encounter: 3c0548e8-6e87-84b7-a7df-d0f3b61658fe
+
+[2025-12-09] DiagnosticReport: History and physical note
+
+[2025-12-09] Encounter: 3c0548e8-6e87-84b7-c58e-c0e35ff87ac3
+
+[2026-01-29] DiagnosticReport: History and physical note
+
+[2026-01-29] Encounter: 3c0548e8-6e87-84b7-1a03-c1a008a9ba4f

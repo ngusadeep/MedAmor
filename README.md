@@ -1,54 +1,41 @@
-# MedArmor
+# MedAudit — Breast Cancer Screening Audit
 
-**Automated medical guideline compliance auditing for Electronic Health
-Record systems.**
+**Automated breast cancer screening compliance auditing for Electronic Health Record systems.**
 
-MedArmor monitors EHR data through FHIR interfaces and audits patient
-records against clinical guidelines to identify cases where care protocols
-may not have been followed. It converts complex FHIR bundles into
-human-readable timelines, flags potential compliance gaps, and surfaces
-findings through a web dashboard for clinical review.
+MedAudit runs guideline-based audits of patient EHR data (FHIR or mock) against **breast cancer screening** clinical guidelines (mammography, eligibility, follow-up, documentation). It uses RAG over a medical knowledge base (ChromaDB), an AI audit engine, and surfaces findings through a web dashboard for clinical review.
 
-<!-- TODO: Add a screenshot of the dashboard here -->
-<!-- ![MedArmor Dashboard](docs/images/dashboard.png) -->
+**Project focus:** Breast Cancer Screening Audit (guidelines in `docs/Medical_KB/Clinical_Guidelines/`).
+
+---
 
 ## Prerequisites
 
-- [Docker](https://docs.docker.com/get-docker/) and
-  [Docker Compose v2](https://docs.docker.com/compose/install/)
+- [Docker](https://docs.docker.com/get-docker/) and [Docker Compose v2](https://docs.docker.com/compose/install/)
   - On Ubuntu/Debian: `sudo apt install docker-compose-v2`
 
-## 1. Point to your FHIR API
+## Run MedAudit (default)
 
-<!-- TODO: Add steps on specifying an FHIR URL to connect to -->
-If you do not have a FHIR API server but wish to test, see the
-instructions in [ehr/README.md](./ehr/README.md).
-
-## 2. Start the application
+By default, only the **MedAudit** stack runs (PostgreSQL, Redis, backend, Celery worker, frontend, nginx):
 
 ```bash
 git clone https://github.com/<owner>/MedAudit.git
 cd MedAudit
-sudo docker compose up --build
+cp .env.example .env   # optional: edit for JWT, OpenAI embeddings, etc.
+docker compose up --build
 ```
 
-## 3. Create your first user
+- **App:** <http://localhost> (nginx → frontend + `/api` → backend)
+- **Sign up** via the UI, then log in and create a **breast cancer screening audit job** (patient ID).
+
+Optional platform/HAPI services (different app) are behind profiles and do not start by default:
 
 ```bash
-# Interactive (recommended)
-sudo docker compose exec -it platform_web uv run platform-cli create-user
-
-# Or non-interactive
-sudo docker compose exec platform_web uv run platform-cli create-user \
-  --username admin \
-  --email admin@example.com \
-  --password yourpassword \
-  --admin
+docker compose --profile platform --profile hapi up --build
 ```
 
-## 4. Open the dashboard
+## Create first user (MedAudit)
 
-Navigate to <http://localhost:8080> and log in.
+Use the in-app **Sign up** flow at <http://localhost>, or call the backend auth API to register. Then use **New screening audit job** to queue an audit (EHR + RAG + AI report).
 
 ---
 
@@ -80,11 +67,13 @@ commands, API endpoints, and production deployment.
 
 # Architecture
 
-The system is made of these components:
+**MedAudit (default `docker compose up`):**
 
-- Web UI: http://localhost:8080
-- API: http://localhost:8080/api
-- API Database: localhost:5432
+- Web UI: http://localhost (port 80, nginx)
+- API: http://localhost/api
+- PostgreSQL: medaudit_db (internal); ChromaDB persisted in backend volume
+
+**With `--profile platform`:** Web UI and API at http://localhost:8080; DB at localhost:5432.
 
 <!-- TODO: Fill in some technical information -->
 

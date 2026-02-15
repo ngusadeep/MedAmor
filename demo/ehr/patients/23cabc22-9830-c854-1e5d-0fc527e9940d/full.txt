@@ -1,0 +1,334 @@
+# EHR Timeline
+Patient: Marivel862 Adrien235 Bailey598
+Patient ID: 23cabc22-9830-c854-1e5d-0fc527e9940d
+
+
+MedicationRequest: 23cabc22-9830-c854-1123-64e84117cc25
+
+MedicationRequest: 23cabc22-9830-c854-7a98-35fecc81646b
+
+Patient: Marivel862 Adrien235 Bailey598 (id: 23cabc22-9830-c854-1e5d-0fc527e9940d)
+
+Procedure: Biopsy of breast (procedure)
+
+Procedure: Cytopathology procedure, preparation of smear, genital source (procedure)
+
+Procedure: Discussion about options (procedure)
+
+Procedure: Human epidermal growth factor receptor 2 gene detection by fluorescence in situ hybridization (procedure)
+
+Procedure: Human epidermal growth factor receptor 2 gene detection by immunohistochemistry (procedure)
+
+Procedure: Lumpectomy of breast (procedure)
+
+Procedure: Mammography (procedure)
+
+Procedure: Manual pelvic examination (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Screening mammography (procedure)
+
+Procedure: Ultrasonography of bilateral breasts (procedure)
+
+[2018-10-23] DiagnosticReport: History and physical note
+
+[2018-10-23] Encounter: 23cabc22-9830-c854-718c-b20d79d55d48
+
+[2021-08-10] DiagnosticReport: History and physical note
+
+[2021-08-10] Encounter: 23cabc22-9830-c854-a885-04e83944ff6d
+
+[2021-10-12] DiagnosticReport: History and physical note
+
+[2021-10-12] Encounter: 23cabc22-9830-c854-ceb6-8e5eba942af8
+
+[2021-11-09] DiagnosticReport: History and physical note
+
+[2021-11-09] Encounter: 23cabc22-9830-c854-d6bd-9a15f91ae3eb
+
+[2023-08-15] DiagnosticReport: History and physical note
+
+[2023-08-15] Encounter: 23cabc22-9830-c854-6f92-94b148ca3f75
+
+[2024-12-05] Condition: Malignant neoplasm of breast (disorder)
+
+[2024-12-05] DiagnosticReport: History and physical note
+
+[2024-12-05] Encounter: 23cabc22-9830-c854-92cc-6f94c1f7a96b
+
+[2024-12-05] Observation: Distant metastases.clinical [Class] Cancer
+
+[2024-12-05] Observation: Lymph nodes with isolated tumor cells [#] in Cancer specimen by Light microscopy
+
+[2024-12-05] Observation: Primary tumor.clinical [Class] Cancer
+
+[2024-12-05] Observation: Regional lymph nodes.clinical [Class] Cancer
+
+[2024-12-05] Observation: Site of distant metastasis in Breast tumor
+
+[2024-12-05] Observation: Size.maximum dimension in Tumor
+
+[2024-12-06] Observation: ERBB2 gene duplication [Presence] in Breast cancer specimen by FISH
+
+[2024-12-06] Observation: Estrogen receptor Ag [Presence] in Breast cancer specimen by Immune stain
+
+[2024-12-06] Observation: Estrogen+Progesterone receptor Ag [Presence] in Tissue by Immune stain
+
+[2024-12-06] Observation: HER2 [Presence] in Breast cancer specimen by Immune stain
+
+[2024-12-06] Observation: Progesterone receptor Ag [Presence] in Breast cancer specimen by Immune stain
+
+[2024-12-06] Observation: Stage group.clinical Cancer
+
+[2024-12-06] Observation: Stage group.clinical Cancer
+
+[2024-12-07] DiagnosticReport: History and physical note
+
+[2024-12-07] Encounter: 23cabc22-9830-c854-59a0-926b77448b72
+
+[2024-12-09] DiagnosticReport: History and physical note
+
+[2024-12-09] Encounter: 23cabc22-9830-c854-83e6-559dbd2c0ddd
+
+[2024-12-19] DiagnosticReport: History and physical note
+
+[2024-12-19] Encounter: 23cabc22-9830-c854-57d3-301ae3a12753
+
+[2024-12-21] DiagnosticReport: History and physical note
+
+[2024-12-21] Encounter: 23cabc22-9830-c854-995e-34d8fab58874
+
+[2024-12-22] DiagnosticReport: History and physical note
+
+[2024-12-22] Encounter: 23cabc22-9830-c854-e7e7-b101e27a88b6
+
+[2024-12-23] DiagnosticReport: History and physical note
+
+[2024-12-23] Encounter: 23cabc22-9830-c854-c6ff-7d557dd49a59
+
+[2024-12-24] DiagnosticReport: History and physical note
+
+[2024-12-24] Encounter: 23cabc22-9830-c854-5c46-4beea42c7316
+
+[2024-12-26] DiagnosticReport: History and physical note
+
+[2024-12-26] Encounter: 23cabc22-9830-c854-bb3a-f71945a9d9ad
+
+[2024-12-27] DiagnosticReport: History and physical note
+
+[2024-12-27] Encounter: 23cabc22-9830-c854-5c79-7bb0bbaf53a5
+
+[2024-12-28] DiagnosticReport: History and physical note
+
+[2024-12-28] Encounter: 23cabc22-9830-c854-8225-83b0337662c9
+
+[2024-12-29] DiagnosticReport: History and physical note
+
+[2024-12-29] Encounter: 23cabc22-9830-c854-4bdc-b1a52c488116
+
+[2024-12-30] DiagnosticReport: History and physical note
+
+[2024-12-30] Encounter: 23cabc22-9830-c854-dec0-4c8eeb93266a
+
+[2025-01-01] DiagnosticReport: History and physical note
+
+[2025-01-01] Encounter: 23cabc22-9830-c854-c714-e9778f7804d1
+
+[2025-01-02] DiagnosticReport: History and physical note
+
+[2025-01-02] Encounter: 23cabc22-9830-c854-4f12-993c37d6c948
+
+[2025-01-03] DiagnosticReport: History and physical note
+
+[2025-01-03] Encounter: 23cabc22-9830-c854-9983-17f7e82944fe
+
+[2025-01-04] DiagnosticReport: History and physical note
+
+[2025-01-04] Encounter: 23cabc22-9830-c854-4e10-8a4cebf56a21
+
+[2025-01-06] DiagnosticReport: History and physical note
+
+[2025-01-06] Encounter: 23cabc22-9830-c854-2987-10dd142bf477
+
+[2025-01-07] DiagnosticReport: History and physical note
+
+[2025-01-07] Encounter: 23cabc22-9830-c854-5ece-2fae51c26664
+
+[2025-01-08] DiagnosticReport: History and physical note
+
+[2025-01-08] Encounter: 23cabc22-9830-c854-0349-9df7727d110a
+
+[2025-01-09] DiagnosticReport: History and physical note
+
+[2025-01-09] Encounter: 23cabc22-9830-c854-2bd1-c42015dff1ca
+
+[2025-01-10] DiagnosticReport: History and physical note
+
+[2025-01-10] Encounter: 23cabc22-9830-c854-2d0e-6b85ecc6fe75
+
+[2025-01-12] DiagnosticReport: History and physical note
+
+[2025-01-12] Encounter: 23cabc22-9830-c854-4feb-7859de38416c
+
+[2025-01-13] DiagnosticReport: History and physical note
+
+[2025-01-13] Encounter: 23cabc22-9830-c854-bc49-e32aef8354d6
+
+[2025-01-14] DiagnosticReport: History and physical note
+
+[2025-01-14] Encounter: 23cabc22-9830-c854-9954-07b28348f4ff
+
+[2025-01-16] DiagnosticReport: History and physical note
+
+[2025-01-16] Encounter: 23cabc22-9830-c854-83e5-a03e7a18a1ed
+
+[2025-01-17] DiagnosticReport: History and physical note
+
+[2025-01-17] Encounter: 23cabc22-9830-c854-a3db-0c8e37000260
+
+[2025-01-18] DiagnosticReport: History and physical note
+
+[2025-01-18] Encounter: 23cabc22-9830-c854-ce73-3fd80a6a7a14
+
+[2025-01-19] DiagnosticReport: History and physical note
+
+[2025-01-19] Encounter: 23cabc22-9830-c854-88dd-a4c8e5a3973d
+
+[2025-01-21] DiagnosticReport: History and physical note
+
+[2025-01-21] Encounter: 23cabc22-9830-c854-6fbf-fa863543591f
+
+[2025-01-22] DiagnosticReport: History and physical note
+
+[2025-01-22] Encounter: 23cabc22-9830-c854-f6fb-a68b6d675626
+
+[2025-01-23] DiagnosticReport: History and physical note
+
+[2025-01-23] Encounter: 23cabc22-9830-c854-2508-a8a00747f555
+
+[2025-01-24] DiagnosticReport: History and physical note
+
+[2025-01-24] Encounter: 23cabc22-9830-c854-cf7a-44f9f0b2eb3c
+
+[2025-01-26] DiagnosticReport: History and physical note
+
+[2025-01-26] Encounter: 23cabc22-9830-c854-c80b-41bde7aa7e34
+
+[2025-01-27] DiagnosticReport: History and physical note
+
+[2025-01-27] Encounter: 23cabc22-9830-c854-0996-5c6aa2a57959
+
+[2025-01-28] DiagnosticReport: History and physical note
+
+[2025-01-28] Encounter: 23cabc22-9830-c854-4f98-188de3e89bc2
+
+[2025-01-30] DiagnosticReport: History and physical note
+
+[2025-01-30] Encounter: 23cabc22-9830-c854-50b8-75077cfb2a87
+
+[2025-02-05] DiagnosticReport: History and physical note
+
+[2025-02-05] Encounter: 23cabc22-9830-c854-188e-9a5af1ab7ea3
+
+[2025-02-05] Observation: Response to cancer treatment
+
+[2025-02-05] Observation: Treatment status Cancer
+
+[2025-06-10] DiagnosticReport: History and physical note
+
+[2025-06-10] Encounter: 23cabc22-9830-c854-78dd-b06299f2f535
+
+[2025-08-19] DiagnosticReport: History and physical note
+
+[2025-08-19] Encounter: 23cabc22-9830-c854-a5c8-a56e86e5ea15
+
+[2025-09-27] DiagnosticReport: History and physical note
+
+[2025-09-27] Encounter: 23cabc22-9830-c854-efca-100d453a71bc
+
+[2026-01-21] DiagnosticReport: History and physical note
+
+[2026-01-21] DiagnosticReport: History and physical note
+
+[2026-01-21] DiagnosticReport: History and physical note
+
+[2026-01-21] Encounter: 23cabc22-9830-c854-23ed-b824b75a4584
+
+[2026-01-21] Encounter: 23cabc22-9830-c854-91a6-26f9896fe99a
+
+[2026-01-21] Encounter: 23cabc22-9830-c854-c55b-0c0e4c8fce3e
+
+[2026-01-21] Observation: Response to cancer treatment

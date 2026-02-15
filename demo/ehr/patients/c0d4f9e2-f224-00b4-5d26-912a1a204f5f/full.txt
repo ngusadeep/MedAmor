@@ -1,0 +1,138 @@
+# EHR Timeline
+Patient: Ebonie344 Maria750 Marquardt819
+Patient ID: c0d4f9e2-f224-00b4-5d26-912a1a204f5f
+
+
+MedicationRequest: c0d4f9e2-f224-00b4-9601-f4b6eba0512c
+
+Patient: Ebonie344 Maria750 Marquardt819 (id: c0d4f9e2-f224-00b4-5d26-912a1a204f5f)
+
+Procedure: Biopsy of breast (procedure)
+
+Procedure: Brachytherapy of breast (procedure)
+
+Procedure: Cytopathology procedure, preparation of smear, genital source (procedure)
+
+Procedure: Discussion about options (procedure)
+
+Procedure: Human epidermal growth factor receptor 2 gene detection by fluorescence in situ hybridization (procedure)
+
+Procedure: Human epidermal growth factor receptor 2 gene detection by immunohistochemistry (procedure)
+
+Procedure: Intracavitary brachytherapy (procedure)
+
+Procedure: Lumpectomy of breast (procedure)
+
+Procedure: Mammography (procedure)
+
+Procedure: Manual pelvic examination (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Screening mammography (procedure)
+
+Procedure: Ultrasonography of bilateral breasts (procedure)
+
+[2017-02-09] DiagnosticReport: History and physical note
+
+[2017-02-09] Encounter: c0d4f9e2-f224-00b4-b704-3a525e552083
+
+[2019-11-28] DiagnosticReport: History and physical note
+
+[2019-11-28] Encounter: c0d4f9e2-f224-00b4-fc41-4f26c32b93df
+
+[2021-04-15] DiagnosticReport: History and physical note
+
+[2021-04-15] Encounter: c0d4f9e2-f224-00b4-4ed4-d02b5dafdc50
+
+[2021-05-13] DiagnosticReport: History and physical note
+
+[2021-05-13] Encounter: c0d4f9e2-f224-00b4-163d-702c591b7f6a
+
+[2021-12-02] DiagnosticReport: History and physical note
+
+[2021-12-02] Encounter: c0d4f9e2-f224-00b4-cca6-1471e3e2e665
+
+[2023-12-07] DiagnosticReport: History and physical note
+
+[2023-12-07] Encounter: c0d4f9e2-f224-00b4-7c7e-43d5c7c1c55e
+
+[2024-10-15] Condition: Malignant neoplasm of breast (disorder)
+
+[2024-10-15] DiagnosticReport: History and physical note
+
+[2024-10-15] Encounter: c0d4f9e2-f224-00b4-23bc-9a8e43e1a5e1
+
+[2024-10-15] Observation: Distant metastases.clinical [Class] Cancer
+
+[2024-10-15] Observation: Lymph nodes with isolated tumor cells [#] in Cancer specimen by Light microscopy
+
+[2024-10-15] Observation: Primary tumor.clinical [Class] Cancer
+
+[2024-10-15] Observation: Regional lymph nodes.clinical [Class] Cancer
+
+[2024-10-15] Observation: Site of distant metastasis in Breast tumor
+
+[2024-10-15] Observation: Size.maximum dimension in Tumor
+
+[2024-10-17] Observation: ERBB2 gene duplication [Presence] in Breast cancer specimen by FISH
+
+[2024-10-17] Observation: Estrogen receptor Ag [Presence] in Breast cancer specimen by Immune stain
+
+[2024-10-17] Observation: HER2 [Presence] in Breast cancer specimen by Immune stain
+
+[2024-10-17] Observation: Progesterone receptor Ag [Presence] in Breast cancer specimen by Immune stain
+
+[2024-10-17] Observation: Stage group.clinical Cancer
+
+[2024-10-17] Observation: Stage group.clinical Cancer
+
+[2024-10-18] DiagnosticReport: History and physical note
+
+[2024-10-18] Encounter: c0d4f9e2-f224-00b4-f225-e42a22d8fd31
+
+[2024-10-23] DiagnosticReport: History and physical note
+
+[2024-10-23] Encounter: c0d4f9e2-f224-00b4-532c-7b65f5d293ad
+
+[2024-11-03] DiagnosticReport: History and physical note
+
+[2024-11-03] Encounter: c0d4f9e2-f224-00b4-a997-30087dd8ae84
+
+[2025-01-01] DiagnosticReport: History and physical note
+
+[2025-01-01] Encounter: c0d4f9e2-f224-00b4-baf2-39689f80635f
+
+[2025-01-01] Observation: Response to cancer treatment
+
+[2025-01-01] Observation: Treatment status Cancer
+
+[2025-04-30] DiagnosticReport: History and physical note
+
+[2025-04-30] Encounter: c0d4f9e2-f224-00b4-d136-c0de90ce1677
+
+[2025-08-22] DiagnosticReport: History and physical note
+
+[2025-08-22] Encounter: c0d4f9e2-f224-00b4-429b-e32089ad0332
+
+[2025-12-11] DiagnosticReport: History and physical note
+
+[2025-12-11] Encounter: c0d4f9e2-f224-00b4-2006-ff9942b3b0cc
+
+[2025-12-18] DiagnosticReport: History and physical note
+
+[2025-12-18] DiagnosticReport: History and physical note
+
+[2025-12-18] DiagnosticReport: History and physical note
+
+[2025-12-18] Encounter: c0d4f9e2-f224-00b4-1782-bf968364a2e0
+
+[2025-12-18] Encounter: c0d4f9e2-f224-00b4-4cc0-24f8ba464932
+
+[2025-12-18] Encounter: c0d4f9e2-f224-00b4-d653-577dc0b4debd
+
+[2025-12-18] Observation: Response to cancer treatment

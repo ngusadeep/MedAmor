@@ -1,0 +1,130 @@
+# EHR Timeline
+Patient: Jeraldine574 Edna186 Krajcik437
+Patient ID: bb0763c0-ee6c-5131-5d36-0b9fa14aa3a0
+
+
+MedicationRequest: bb0763c0-ee6c-5131-2bdd-d0d29f9a7d26
+
+MedicationRequest: bb0763c0-ee6c-5131-63dd-9dd16bc80c0f
+
+MedicationRequest: bb0763c0-ee6c-5131-660f-2e46941e2e1f
+
+MedicationRequest: bb0763c0-ee6c-5131-7cef-edb24e4a10d8
+
+MedicationRequest: bb0763c0-ee6c-5131-d8b9-9093fa51000a
+
+MedicationRequest: bb0763c0-ee6c-5131-dd7d-ce209375b010
+
+Patient: Jeraldine574 Edna186 Krajcik437 (id: bb0763c0-ee6c-5131-5d36-0b9fa14aa3a0)
+
+Procedure: Biopsy of breast (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Discussion about options (procedure)
+
+Procedure: Human epidermal growth factor receptor 2 gene detection by fluorescence in situ hybridization (procedure)
+
+Procedure: Human epidermal growth factor receptor 2 gene detection by immunohistochemistry (procedure)
+
+Procedure: Screening mammography (procedure)
+
+Procedure: Ultrasonography of bilateral breasts (procedure)
+
+[1992-03-17] DiagnosticReport: History and physical note
+
+[1992-03-17] Encounter: bb0763c0-ee6c-5131-3d5d-fc52f0c09960
+
+[1993-03-23] DiagnosticReport: History and physical note
+
+[1993-03-23] Encounter: bb0763c0-ee6c-5131-71e4-8bd8056b0ff0
+
+[1994-03-29] DiagnosticReport: History and physical note
+
+[1994-03-29] Encounter: bb0763c0-ee6c-5131-d19d-37a68bea9082
+
+[1995-04-04] DiagnosticReport: History and physical note
+
+[1995-04-04] Encounter: bb0763c0-ee6c-5131-e831-affaf9e0d194
+
+[1996-04-09] DiagnosticReport: History and physical note
+
+[1996-04-09] Encounter: bb0763c0-ee6c-5131-be89-2cc0f7088845
+
+[1999-04-13] DiagnosticReport: History and physical note
+
+[1999-04-13] Encounter: bb0763c0-ee6c-5131-4669-ec8f3ab34b0c
+
+[2000-12-15] Condition: Malignant neoplasm of breast (disorder)
+
+[2000-12-15] DiagnosticReport: History and physical note
+
+[2000-12-15] Encounter: bb0763c0-ee6c-5131-8af6-9649c2d5658e
+
+[2000-12-15] Observation: Distant metastases.clinical [Class] Cancer
+
+[2000-12-15] Observation: Lymph nodes with macrometastases [#] in Cancer specimen by Light microscopy
+
+[2000-12-15] Observation: Primary tumor.clinical [Class] Cancer
+
+[2000-12-15] Observation: Regional lymph nodes.clinical [Class] Cancer
+
+[2000-12-15] Observation: Size.maximum dimension in Tumor
+
+[2000-12-16] Observation: ERBB2 gene duplication [Presence] in Breast cancer specimen by FISH
+
+[2000-12-16] Observation: Estrogen receptor Ag [Presence] in Breast cancer specimen by Immune stain
+
+[2000-12-16] Observation: Estrogen+Progesterone receptor Ag [Presence] in Tissue by Immune stain
+
+[2000-12-16] Observation: HER2 [Presence] in Breast cancer specimen by Immune stain
+
+[2000-12-16] Observation: Progesterone receptor Ag [Presence] in Breast cancer specimen by Immune stain
+
+[2000-12-16] Observation: Stage group.clinical Cancer
+
+[2000-12-19] DiagnosticReport: History and physical note
+
+[2000-12-19] Encounter: bb0763c0-ee6c-5131-033b-84b3434f90df
+
+[2000-12-25] DiagnosticReport: History and physical note
+
+[2000-12-25] Encounter: bb0763c0-ee6c-5131-21dd-f196a6a8dd42
+
+[2001-01-16] DiagnosticReport: History and physical note
+
+[2001-01-16] Encounter: bb0763c0-ee6c-5131-e2fa-bc95565b10a3
+
+[2001-02-05] DiagnosticReport: History and physical note
+
+[2001-02-05] Encounter: bb0763c0-ee6c-5131-8724-c4d6516647a3
+
+[2001-02-25] DiagnosticReport: History and physical note
+
+[2001-02-25] Encounter: bb0763c0-ee6c-5131-447e-a04fd410e739
+
+[2001-03-20] DiagnosticReport: History and physical note
+
+[2001-03-20] Encounter: bb0763c0-ee6c-5131-6a1c-c113332a0c36
+
+[2001-04-10] DiagnosticReport: History and physical note
+
+[2001-04-10] Encounter: bb0763c0-ee6c-5131-f577-f62aae750abe
+
+[2001-04-17] DiagnosticReport: History and physical note
+
+[2001-04-17] DiagnosticReport: U.S. standard certificate of death - 2003 revision
+
+[2001-04-17] Encounter: bb0763c0-ee6c-5131-3a33-745e609dc447
+
+[2001-04-17] Observation: Cause of Death [US Standard Certificate of Death]

@@ -38,6 +38,21 @@ export const jobsColumns: ColumnDef<Job>[] = [
     enableSorting: true,
   },
   {
+    accessorKey: 'audit_type',
+    header: ({ column }) => (
+      <DataTableColumnHeader column={column} title='Audit type' />
+    ),
+    cell: ({ row }) => {
+      const v = row.getValue('audit_type') as string
+      return (
+        <span className='text-muted-foreground text-xs'>
+          {v === 'breast_cancer_screening' ? 'Breast cancer screening' : v}
+        </span>
+      )
+    },
+    enableSorting: true,
+  },
+  {
     accessorKey: 'status',
     header: ({ column }) => (
       <DataTableColumnHeader column={column} title='Status' />

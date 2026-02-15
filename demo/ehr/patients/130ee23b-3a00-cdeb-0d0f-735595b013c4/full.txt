@@ -1,0 +1,406 @@
+# EHR Timeline
+Patient: Leola603 Liana375 Walker122
+Patient ID: 130ee23b-3a00-cdeb-0d0f-735595b013c4
+
+
+MedicationRequest: 130ee23b-3a00-cdeb-094a-43221760995d
+
+MedicationRequest: 130ee23b-3a00-cdeb-0d23-e4fb3fefc50f
+
+MedicationRequest: 130ee23b-3a00-cdeb-1437-f19e9423dac1
+
+MedicationRequest: 130ee23b-3a00-cdeb-1cae-9fcbdf5c1d50
+
+MedicationRequest: 130ee23b-3a00-cdeb-301e-beadf1a09bd7
+
+MedicationRequest: 130ee23b-3a00-cdeb-45ba-4e889bf5f20f
+
+MedicationRequest: 130ee23b-3a00-cdeb-8970-da5a8fa649eb
+
+MedicationRequest: 130ee23b-3a00-cdeb-a41b-2abc71865948
+
+MedicationRequest: 130ee23b-3a00-cdeb-afea-edc7f094435b
+
+Patient: Leola603 Liana375 Walker122 (id: 130ee23b-3a00-cdeb-0d0f-735595b013c4)
+
+Procedure: Biopsy of breast (procedure)
+
+Procedure: Bone density scan (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Discussion about options (procedure)
+
+Procedure: Excision of axillary lymph node (procedure)
+
+Procedure: Human epidermal growth factor receptor 2 gene detection by fluorescence in situ hybridization (procedure)
+
+Procedure: Human epidermal growth factor receptor 2 gene detection by immunohistochemistry (procedure)
+
+Procedure: Lumpectomy of breast (procedure)
+
+Procedure: Mammography (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Screening mammography (procedure)
+
+Procedure: Ultrasonography of bilateral breasts (procedure)
+
+[2003-04-06] DiagnosticReport: History and physical note
+
+[2003-04-06] Encounter: 130ee23b-3a00-cdeb-f062-1dd2a72b877b
+
+[2005-04-10] DiagnosticReport: History and physical note
+
+[2005-04-10] Encounter: 130ee23b-3a00-cdeb-e86d-568ec2f69039
+
+[2007-04-15] DiagnosticReport: History and physical note
+
+[2007-04-15] Encounter: 130ee23b-3a00-cdeb-9412-74151d91aa33
+
+[2009-04-19] DiagnosticReport: History and physical note
+
+[2009-04-19] Encounter: 130ee23b-3a00-cdeb-db49-6161bd6074b2
+
+[2010-09-06] DiagnosticReport: History and physical note
+
+[2010-09-06] Encounter: 130ee23b-3a00-cdeb-5ec6-c3e7233fbbd9
+
+[2010-09-07] Condition: Malignant neoplasm of breast (disorder)
+
+[2010-09-07] Observation: Distant metastases.clinical [Class] Cancer
+
+[2010-09-07] Observation: Lymph nodes with macrometastases [#] in Cancer specimen by Light microscopy
+
+[2010-09-07] Observation: Primary tumor.clinical [Class] Cancer
+
+[2010-09-07] Observation: Regional lymph nodes.clinical [Class] Cancer
+
+[2010-09-07] Observation: Site of distant metastasis in Breast tumor
+
+[2010-09-07] Observation: Size.maximum dimension in Tumor
+
+[2010-09-09] Observation: ERBB2 gene duplication [Presence] in Breast cancer specimen by FISH
+
+[2010-09-09] Observation: Estrogen receptor Ag [Presence] in Breast cancer specimen by Immune stain
+
+[2010-09-09] Observation: HER2 [Presence] in Breast cancer specimen by Immune stain
+
+[2010-09-09] Observation: Progesterone receptor Ag [Presence] in Breast cancer specimen by Immune stain
+
+[2010-09-09] Observation: Stage group.clinical Cancer
+
+[2010-09-09] Observation: Stage group.clinical Cancer
+
+[2010-09-11] DiagnosticReport: History and physical note
+
+[2010-09-11] Encounter: 130ee23b-3a00-cdeb-3ffc-186f175785e9
+
+[2010-09-16] DiagnosticReport: History and physical note
+
+[2010-09-16] Encounter: 130ee23b-3a00-cdeb-cd48-cd1e82878237
+
+[2010-10-07] DiagnosticReport: History and physical note
+
+[2010-10-07] Encounter: 130ee23b-3a00-cdeb-abda-dd19f3039dfe
+
+[2010-10-29] DiagnosticReport: History and physical note
+
+[2010-10-29] Encounter: 130ee23b-3a00-cdeb-ee60-a8d4747f3d2e
+
+[2010-11-21] DiagnosticReport: History and physical note
+
+[2010-11-21] Encounter: 130ee23b-3a00-cdeb-bdad-b2bfe1498377
+
+[2010-12-13] DiagnosticReport: History and physical note
+
+[2010-12-13] Encounter: 130ee23b-3a00-cdeb-447a-b04be04941c3
+
+[2011-01-05] DiagnosticReport: History and physical note
+
+[2011-01-05] Encounter: 130ee23b-3a00-cdeb-f69a-1f1ae99db510
+
+[2011-01-26] DiagnosticReport: History and physical note
+
+[2011-01-26] Encounter: 130ee23b-3a00-cdeb-4a66-22642d4b025f
+
+[2011-02-17] DiagnosticReport: History and physical note
+
+[2011-02-17] Encounter: 130ee23b-3a00-cdeb-8345-569ce840f5cc
+
+[2011-03-14] DiagnosticReport: History and physical note
+
+[2011-03-14] Encounter: 130ee23b-3a00-cdeb-4092-56cb9b4385eb
+
+[2011-03-14] Observation: Response to cancer treatment
+
+[2011-03-24] DiagnosticReport: History and physical note
+
+[2011-03-24] Encounter: 130ee23b-3a00-cdeb-d726-80f4f900f959
+
+[2011-03-25] DiagnosticReport: History and physical note
+
+[2011-03-25] Encounter: 130ee23b-3a00-cdeb-c188-0b9843dd0039
+
+[2011-03-26] DiagnosticReport: History and physical note
+
+[2011-03-26] Encounter: 130ee23b-3a00-cdeb-ef85-b60c0b380340
+
+[2011-03-27] DiagnosticReport: History and physical note
+
+[2011-03-27] Encounter: 130ee23b-3a00-cdeb-1cb9-824f3e899df0
+
+[2011-03-28] DiagnosticReport: History and physical note
+
+[2011-03-28] Encounter: 130ee23b-3a00-cdeb-9317-33ffbe95660f
+
+[2011-03-29] DiagnosticReport: History and physical note
+
+[2011-03-29] Encounter: 130ee23b-3a00-cdeb-964a-b7d75b43946d
+
+[2011-03-31] DiagnosticReport: History and physical note
+
+[2011-03-31] Encounter: 130ee23b-3a00-cdeb-8e5b-1ce126507c7e
+
+[2011-04-01] DiagnosticReport: History and physical note
+
+[2011-04-01] Encounter: 130ee23b-3a00-cdeb-7e90-761e5df8a2de
+
+[2011-04-02] DiagnosticReport: History and physical note
+
+[2011-04-02] Encounter: 130ee23b-3a00-cdeb-78c2-8c21af1d592f
+
+[2011-04-03] DiagnosticReport: History and physical note
+
+[2011-04-03] Encounter: 130ee23b-3a00-cdeb-11f2-30fbe3154628
+
+[2011-04-04] DiagnosticReport: History and physical note
+
+[2011-04-04] Encounter: 130ee23b-3a00-cdeb-8786-9dd020c642cd
+
+[2011-04-06] DiagnosticReport: History and physical note
+
+[2011-04-06] Encounter: 130ee23b-3a00-cdeb-416f-ba6a589f5738
+
+[2011-04-07] DiagnosticReport: History and physical note
+
+[2011-04-07] Encounter: 130ee23b-3a00-cdeb-1a87-fcad5bbfe204
+
+[2011-04-08] DiagnosticReport: History and physical note
+
+[2011-04-08] Encounter: 130ee23b-3a00-cdeb-33cc-aba285304b89
+
+[2011-04-09] DiagnosticReport: History and physical note
+
+[2011-04-09] Encounter: 130ee23b-3a00-cdeb-c5e8-5e42a2a2e0fc
+
+[2011-04-11] DiagnosticReport: History and physical note
+
+[2011-04-11] Encounter: 130ee23b-3a00-cdeb-bd5a-a5f995dd6387
+
+[2011-04-12] DiagnosticReport: History and physical note
+
+[2011-04-12] Encounter: 130ee23b-3a00-cdeb-4410-b0522bc940e4
+
+[2011-04-13] DiagnosticReport: History and physical note
+
+[2011-04-13] Encounter: 130ee23b-3a00-cdeb-d255-378b8ae2713d
+
+[2011-04-14] DiagnosticReport: History and physical note
+
+[2011-04-14] Encounter: 130ee23b-3a00-cdeb-9827-600ca6c9c7ed
+
+[2011-04-15] DiagnosticReport: History and physical note
+
+[2011-04-15] Encounter: 130ee23b-3a00-cdeb-2861-f38d64aade36
+
+[2011-04-17] DiagnosticReport: History and physical note
+
+[2011-04-17] Encounter: 130ee23b-3a00-cdeb-cb67-56cc25bb66ba
+
+[2011-04-24] DiagnosticReport: History and physical note
+
+[2011-04-24] Encounter: 130ee23b-3a00-cdeb-7e40-6ceb1d6239ff
+
+[2011-05-01] DiagnosticReport: History and physical note
+
+[2011-05-01] Encounter: 130ee23b-3a00-cdeb-64bc-7e63df739ec9
+
+[2011-05-03] DiagnosticReport: History and physical note
+
+[2011-05-03] Encounter: 130ee23b-3a00-cdeb-c713-d2190da66e69
+
+[2011-05-04] DiagnosticReport: History and physical note
+
+[2011-05-04] Encounter: 130ee23b-3a00-cdeb-4e37-4e69fa61ae37
+
+[2011-05-05] DiagnosticReport: History and physical note
+
+[2011-05-05] Encounter: 130ee23b-3a00-cdeb-ae35-4bfb7e952d40
+
+[2011-05-06] DiagnosticReport: History and physical note
+
+[2011-05-06] Encounter: 130ee23b-3a00-cdeb-8643-147badf4f2df
+
+[2011-05-08] DiagnosticReport: History and physical note
+
+[2011-05-08] Encounter: 130ee23b-3a00-cdeb-f502-e71d585ceae2
+
+[2011-05-09] DiagnosticReport: History and physical note
+
+[2011-05-09] Encounter: 130ee23b-3a00-cdeb-5a55-ace6ebc3e1be
+
+[2011-05-10] DiagnosticReport: History and physical note
+
+[2011-05-10] Encounter: 130ee23b-3a00-cdeb-b38d-15f9616c5eb5
+
+[2011-05-11] DiagnosticReport: History and physical note
+
+[2011-05-11] Encounter: 130ee23b-3a00-cdeb-d791-a805281ae51f
+
+[2011-05-13] DiagnosticReport: History and physical note
+
+[2011-05-13] Encounter: 130ee23b-3a00-cdeb-c37a-f63af063f335
+
+[2011-05-14] DiagnosticReport: History and physical note
+
+[2011-05-14] Encounter: 130ee23b-3a00-cdeb-efdb-b3b571d82ebe
+
+[2011-05-15] DiagnosticReport: History and physical note
+
+[2011-05-15] Encounter: 130ee23b-3a00-cdeb-f80e-ca2f63ae5395
+
+[2011-05-16] DiagnosticReport: History and physical note
+
+[2011-05-16] Encounter: 130ee23b-3a00-cdeb-7240-834ab69db3e2
+
+[2011-05-20] DiagnosticReport: History and physical note
+
+[2011-05-20] Encounter: 130ee23b-3a00-cdeb-9879-19a6b709a504
+
+[2011-05-20] Observation: Response to cancer treatment
+
+[2011-05-20] Observation: Treatment status Cancer
+
+[2011-08-30] DiagnosticReport: History and physical note
+
+[2011-08-30] Encounter: 130ee23b-3a00-cdeb-7348-d343d174ae23
+
+[2011-12-16] DiagnosticReport: History and physical note
+
+[2011-12-16] Encounter: 130ee23b-3a00-cdeb-4548-ba1603819fcb
+
+[2012-03-29] DiagnosticReport: History and physical note
+
+[2012-03-29] DiagnosticReport: History and physical note
+
+[2012-03-29] DiagnosticReport: History and physical note
+
+[2012-03-29] Encounter: 130ee23b-3a00-cdeb-0c45-2cbeb0624655
+
+[2012-03-29] Encounter: 130ee23b-3a00-cdeb-94f8-93eea58ff13d
+
+[2012-03-29] Encounter: 130ee23b-3a00-cdeb-9734-309a68f5bb76
+
+[2012-03-29] Observation: Response to cancer treatment
+
+[2012-08-01] DiagnosticReport: History and physical note
+
+[2012-08-01] Encounter: 130ee23b-3a00-cdeb-c61b-fd65e7237193
+
+[2012-08-19] DiagnosticReport: History and physical note
+
+[2012-08-19] DiagnosticReport: U.S. standard certificate of death - 2003 revision
+
+[2012-08-19] Encounter: 130ee23b-3a00-cdeb-debb-a07c31fb1f87
+
+[2012-08-19] Observation: Cause of Death [US Standard Certificate of Death]

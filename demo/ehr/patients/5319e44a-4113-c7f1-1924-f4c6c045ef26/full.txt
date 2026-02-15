@@ -1,0 +1,168 @@
+# EHR Timeline
+Patient: Meg231 Buckridge80
+Patient ID: 5319e44a-4113-c7f1-1924-f4c6c045ef26
+
+
+Patient: Meg231 Buckridge80 (id: 5319e44a-4113-c7f1-1924-f4c6c045ef26)
+
+Procedure: Mammography (procedure)
+
+Procedure: Mammography (procedure)
+
+Procedure: Mammography (procedure)
+
+Procedure: Mammography (procedure)
+
+Procedure: Mammography (procedure)
+
+Procedure: Mammography (procedure)
+
+Procedure: Mammography (procedure)
+
+Procedure: Mammography (procedure)
+
+Procedure: Mammography (procedure)
+
+Procedure: Mammography (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+[1983-04-09] Condition: Malignant neoplasm of breast (disorder)
+
+[1983-04-09] DiagnosticReport: History and physical note
+
+[1983-04-09] Encounter: 5319e44a-4113-c7f1-43c1-24e50603e8c4
+
+[2017-01-01] DiagnosticReport: History and physical note
+
+[2017-01-01] DiagnosticReport: History and physical note
+
+[2017-01-01] Encounter: 5319e44a-4113-c7f1-5b8b-1ae443a38a34
+
+[2017-01-01] Encounter: 5319e44a-4113-c7f1-d270-84975b609e6e
+
+[2017-01-30] DiagnosticReport: History and physical note
+
+[2017-01-30] Encounter: 5319e44a-4113-c7f1-c344-002f5d22dbfb
+
+[2017-12-29] DiagnosticReport: History and physical note
+
+[2017-12-29] Encounter: 5319e44a-4113-c7f1-d6b7-98bdf543065f
+
+[2017-12-30] DiagnosticReport: History and physical note
+
+[2017-12-30] Encounter: 5319e44a-4113-c7f1-97f6-90091d4f9c8f
+
+[2018-12-03] DiagnosticReport: History and physical note
+
+[2018-12-03] DiagnosticReport: History and physical note
+
+[2018-12-03] Encounter: 5319e44a-4113-c7f1-8f7e-69c8bf243afb
+
+[2018-12-03] Encounter: 5319e44a-4113-c7f1-c697-006f0c31a1c5
+
+[2019-02-04] DiagnosticReport: History and physical note
+
+[2019-02-04] Encounter: 5319e44a-4113-c7f1-5d5c-efe6bdd4e207
+
+[2019-11-21] DiagnosticReport: History and physical note
+
+[2019-11-21] DiagnosticReport: History and physical note
+
+[2019-11-21] Encounter: 5319e44a-4113-c7f1-f56f-ea20ffe557dc
+
+[2019-11-21] Encounter: 5319e44a-4113-c7f1-f971-8013f3aa94b0
+
+[2020-11-29] DiagnosticReport: History and physical note
+
+[2020-11-29] DiagnosticReport: History and physical note
+
+[2020-11-29] Encounter: 5319e44a-4113-c7f1-7e8a-9770707d6dda
+
+[2020-11-29] Encounter: 5319e44a-4113-c7f1-fab1-6da811848e87
+
+[2021-02-08] DiagnosticReport: History and physical note
+
+[2021-02-08] Encounter: 5319e44a-4113-c7f1-f44a-ae0a8aaabe2b
+
+[2021-04-05] DiagnosticReport: History and physical note
+
+[2021-04-05] Encounter: 5319e44a-4113-c7f1-6598-f7f711c8e2e7
+
+[2021-05-03] DiagnosticReport: History and physical note
+
+[2021-05-03] Encounter: 5319e44a-4113-c7f1-8602-b5af42024ea6
+
+[2021-12-14] DiagnosticReport: History and physical note
+
+[2021-12-14] DiagnosticReport: History and physical note
+
+[2021-12-14] Encounter: 5319e44a-4113-c7f1-6a9b-b2823f09257c
+
+[2021-12-14] Encounter: 5319e44a-4113-c7f1-c666-4f6e8b06297d
+
+[2022-12-23] DiagnosticReport: History and physical note
+
+[2022-12-23] DiagnosticReport: History and physical note
+
+[2022-12-23] Encounter: 5319e44a-4113-c7f1-685c-b3d0bbe60104
+
+[2022-12-23] Encounter: 5319e44a-4113-c7f1-ba99-46e16342dde8
+
+[2023-01-16] DiagnosticReport: History and physical note
+
+[2023-01-16] Encounter: 5319e44a-4113-c7f1-c1cc-c2fa230474e3
+
+[2023-12-18] DiagnosticReport: History and physical note
+
+[2023-12-18] DiagnosticReport: History and physical note
+
+[2023-12-18] Encounter: 5319e44a-4113-c7f1-3174-9e508a757b21
+
+[2023-12-18] Encounter: 5319e44a-4113-c7f1-c782-97aa43f121d7
+
+[2024-01-22] DiagnosticReport: History and physical note
+
+[2024-01-22] Encounter: 5319e44a-4113-c7f1-34d6-2ff462d4a0fe
+
+[2024-12-10] DiagnosticReport: History and physical note
+
+[2024-12-10] DiagnosticReport: History and physical note
+
+[2024-12-10] Encounter: 5319e44a-4113-c7f1-26e4-801d5f8e6022
+
+[2024-12-10] Encounter: 5319e44a-4113-c7f1-2a9c-4232a266a3ea
+
+[2025-01-27] DiagnosticReport: History and physical note
+
+[2025-01-27] Encounter: 5319e44a-4113-c7f1-ef94-a8f2c469a8f8
+
+[2025-12-18] DiagnosticReport: History and physical note
+
+[2025-12-18] DiagnosticReport: History and physical note
+
+[2025-12-18] Encounter: 5319e44a-4113-c7f1-64ad-3c0abf1f0382
+
+[2025-12-18] Encounter: 5319e44a-4113-c7f1-cddf-f9789a23a9b5
+
+[2026-02-02] DiagnosticReport: History and physical note
+
+[2026-02-02] Encounter: 5319e44a-4113-c7f1-1af3-7fc4f6cd1e73

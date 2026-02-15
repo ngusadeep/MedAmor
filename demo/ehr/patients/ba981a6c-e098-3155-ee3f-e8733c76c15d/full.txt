@@ -1,0 +1,334 @@
+# EHR Timeline
+Patient: Frederica279 Stephen891 Hermann103
+Patient ID: ba981a6c-e098-3155-ee3f-e8733c76c15d
+
+
+MedicationRequest: ba981a6c-e098-3155-48a8-717712fd59ca
+
+MedicationRequest: ba981a6c-e098-3155-9c2b-773ea9fde582
+
+MedicationRequest: ba981a6c-e098-3155-f05b-f9e5f0a835c9
+
+Patient: Frederica279 Stephen891 Hermann103 (id: ba981a6c-e098-3155-ee3f-e8733c76c15d)
+
+Procedure: Biopsy of breast (procedure)
+
+Procedure: Discussion about options (procedure)
+
+Procedure: Human epidermal growth factor receptor 2 gene detection by fluorescence in situ hybridization (procedure)
+
+Procedure: Human epidermal growth factor receptor 2 gene detection by immunohistochemistry (procedure)
+
+Procedure: Lumpectomy of breast (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Screening mammography (procedure)
+
+Procedure: Ultrasonography of bilateral breasts (procedure)
+
+[2017-02-11] DiagnosticReport: History and physical note
+
+[2017-02-11] Encounter: ba981a6c-e098-3155-c6f7-c3d51356abbb
+
+[2018-02-17] DiagnosticReport: History and physical note
+
+[2018-02-17] Encounter: ba981a6c-e098-3155-2e91-718cd2b60dad
+
+[2019-02-23] DiagnosticReport: History and physical note
+
+[2019-02-23] Encounter: ba981a6c-e098-3155-9dfd-7380df734b85
+
+[2020-02-29] DiagnosticReport: History and physical note
+
+[2020-02-29] Encounter: ba981a6c-e098-3155-ba62-3b0487f86197
+
+[2021-02-20] DiagnosticReport: History and physical note
+
+[2021-02-20] Encounter: ba981a6c-e098-3155-859e-f5b1102de929
+
+[2021-03-06] DiagnosticReport: History and physical note
+
+[2021-03-06] Encounter: ba981a6c-e098-3155-405d-31e45dedfae1
+
+[2021-03-13] DiagnosticReport: History and physical note
+
+[2021-03-13] Encounter: ba981a6c-e098-3155-d660-8a345db5ddaf
+
+[2022-03-12] DiagnosticReport: History and physical note
+
+[2022-03-12] Encounter: ba981a6c-e098-3155-af6c-7902f7114990
+
+[2023-03-18] DiagnosticReport: History and physical note
+
+[2023-03-18] Encounter: ba981a6c-e098-3155-33b4-399cfab5e7c1
+
+[2024-03-23] DiagnosticReport: History and physical note
+
+[2024-03-23] Encounter: ba981a6c-e098-3155-9d0b-933bb89bee6a
+
+[2025-01-21] Condition: Malignant neoplasm of breast (disorder)
+
+[2025-01-21] DiagnosticReport: History and physical note
+
+[2025-01-21] Encounter: ba981a6c-e098-3155-6ddb-119f3d3c9775
+
+[2025-01-21] Observation: Distant metastases.clinical [Class] Cancer
+
+[2025-01-21] Observation: Lymph nodes with isolated tumor cells [#] in Cancer specimen by Light microscopy
+
+[2025-01-21] Observation: Primary tumor.clinical [Class] Cancer
+
+[2025-01-21] Observation: Regional lymph nodes.clinical [Class] Cancer
+
+[2025-01-21] Observation: Site of distant metastasis in Breast tumor
+
+[2025-01-21] Observation: Size.maximum dimension in Tumor
+
+[2025-01-22] Observation: ERBB2 gene duplication [Presence] in Breast cancer specimen by FISH
+
+[2025-01-22] Observation: Estrogen receptor Ag [Presence] in Breast cancer specimen by Immune stain
+
+[2025-01-22] Observation: Estrogen+Progesterone receptor Ag [Presence] in Tissue by Immune stain
+
+[2025-01-22] Observation: HER2 [Presence] in Breast cancer specimen by Immune stain
+
+[2025-01-22] Observation: Progesterone receptor Ag [Presence] in Breast cancer specimen by Immune stain
+
+[2025-01-22] Observation: Stage group.clinical Cancer
+
+[2025-01-22] Observation: Stage group.clinical Cancer
+
+[2025-01-28] DiagnosticReport: History and physical note
+
+[2025-01-28] Encounter: ba981a6c-e098-3155-a14e-adacee010b41
+
+[2025-02-03] DiagnosticReport: History and physical note
+
+[2025-02-03] Encounter: ba981a6c-e098-3155-69ad-3a0169a6318d
+
+[2025-02-17] DiagnosticReport: History and physical note
+
+[2025-02-17] Encounter: ba981a6c-e098-3155-7170-db1a15ff4f99
+
+[2025-02-18] DiagnosticReport: History and physical note
+
+[2025-02-18] Encounter: ba981a6c-e098-3155-d00a-b6a6d5fb3293
+
+[2025-02-19] DiagnosticReport: History and physical note
+
+[2025-02-19] Encounter: ba981a6c-e098-3155-8169-787a01e1f344
+
+[2025-02-20] DiagnosticReport: History and physical note
+
+[2025-02-20] Encounter: ba981a6c-e098-3155-0926-044efe0f0e2d
+
+[2025-02-22] DiagnosticReport: History and physical note
+
+[2025-02-22] Encounter: ba981a6c-e098-3155-35ff-835e7537925d
+
+[2025-02-23] DiagnosticReport: History and physical note
+
+[2025-02-23] Encounter: ba981a6c-e098-3155-d711-0d9dd3886c9b
+
+[2025-02-24] DiagnosticReport: History and physical note
+
+[2025-02-24] Encounter: ba981a6c-e098-3155-b7fa-28a9ba95eb55
+
+[2025-02-26] DiagnosticReport: History and physical note
+
+[2025-02-26] Encounter: ba981a6c-e098-3155-168c-3b9f96426d91
+
+[2025-02-27] DiagnosticReport: History and physical note
+
+[2025-02-27] Encounter: ba981a6c-e098-3155-427a-95dc4323d28c
+
+[2025-02-28] DiagnosticReport: History and physical note
+
+[2025-02-28] Encounter: ba981a6c-e098-3155-633d-c31c0ed92661
+
+[2025-03-02] DiagnosticReport: History and physical note
+
+[2025-03-02] Encounter: ba981a6c-e098-3155-1cd9-81ed4b50fedb
+
+[2025-03-03] DiagnosticReport: History and physical note
+
+[2025-03-03] Encounter: ba981a6c-e098-3155-2275-c22c135b9152
+
+[2025-03-04] DiagnosticReport: History and physical note
+
+[2025-03-04] Encounter: ba981a6c-e098-3155-50b3-8e7e3896cc7c
+
+[2025-03-05] DiagnosticReport: History and physical note
+
+[2025-03-05] Encounter: ba981a6c-e098-3155-e924-ca42732d808f
+
+[2025-03-06] DiagnosticReport: History and physical note
+
+[2025-03-06] Encounter: ba981a6c-e098-3155-eeb7-49b576ac3bd0
+
+[2025-03-08] DiagnosticReport: History and physical note
+
+[2025-03-08] Encounter: ba981a6c-e098-3155-0cd4-78f458bc7cf6
+
+[2025-03-09] DiagnosticReport: History and physical note
+
+[2025-03-09] Encounter: ba981a6c-e098-3155-4734-84dd61200a5b
+
+[2025-03-10] DiagnosticReport: History and physical note
+
+[2025-03-10] Encounter: ba981a6c-e098-3155-a647-a4a3c4ef6380
+
+[2025-03-12] DiagnosticReport: History and physical note
+
+[2025-03-12] Encounter: ba981a6c-e098-3155-ff07-6d185c0f8484
+
+[2025-03-13] DiagnosticReport: History and physical note
+
+[2025-03-13] Encounter: ba981a6c-e098-3155-4a88-2249ac0bc29d
+
+[2025-03-14] DiagnosticReport: History and physical note
+
+[2025-03-14] Encounter: ba981a6c-e098-3155-7fc8-32302eb172f0
+
+[2025-03-15] DiagnosticReport: History and physical note
+
+[2025-03-15] Encounter: ba981a6c-e098-3155-dd34-923f258e1615
+
+[2025-03-16] DiagnosticReport: History and physical note
+
+[2025-03-16] Encounter: ba981a6c-e098-3155-d0b8-855ccc2f41d0
+
+[2025-03-18] DiagnosticReport: History and physical note
+
+[2025-03-18] Encounter: ba981a6c-e098-3155-11c3-d0b37f3a726e
+
+[2025-03-19] DiagnosticReport: History and physical note
+
+[2025-03-19] Encounter: ba981a6c-e098-3155-c2c6-ec1b6edc054c
+
+[2025-03-20] DiagnosticReport: History and physical note
+
+[2025-03-20] Encounter: ba981a6c-e098-3155-2fcf-2b448b296d97
+
+[2025-03-21] DiagnosticReport: History and physical note
+
+[2025-03-21] Encounter: ba981a6c-e098-3155-c7d6-3ad8889bc4e7
+
+[2025-03-29] DiagnosticReport: History and physical note
+
+[2025-03-29] Encounter: ba981a6c-e098-3155-9ae7-0a78894bac66
+
+[2025-04-05] DiagnosticReport: History and physical note
+
+[2025-04-05] Encounter: ba981a6c-e098-3155-e029-778d92ba633f
+
+[2025-04-07] DiagnosticReport: History and physical note
+
+[2025-04-07] Encounter: ba981a6c-e098-3155-0375-352df7372ed9
+
+[2025-04-08] DiagnosticReport: History and physical note
+
+[2025-04-08] Encounter: ba981a6c-e098-3155-ac03-7989f909528b
+
+[2025-04-09] DiagnosticReport: History and physical note
+
+[2025-04-09] Encounter: ba981a6c-e098-3155-a07f-d5e70df525f2
+
+[2025-04-10] DiagnosticReport: History and physical note
+
+[2025-04-10] Encounter: ba981a6c-e098-3155-f513-e0d26777efbb
+
+[2025-04-11] DiagnosticReport: History and physical note
+
+[2025-04-11] Encounter: ba981a6c-e098-3155-0218-c512bbed8747
+
+[2025-04-12] DiagnosticReport: History and physical note
+
+[2025-04-12] Encounter: ba981a6c-e098-3155-d229-da5e9aa32785
+
+[2025-04-17] DiagnosticReport: History and physical note
+
+[2025-04-17] Encounter: ba981a6c-e098-3155-ca78-016a678d7cbb
+
+[2025-04-17] Observation: Response to cancer treatment
+
+[2025-04-17] Observation: Treatment status Cancer
+
+[2025-08-08] DiagnosticReport: History and physical note
+
+[2025-08-08] Encounter: ba981a6c-e098-3155-64c8-ae6a2a89b2a5
+
+[2025-11-20] DiagnosticReport: History and physical note
+
+[2025-11-20] Encounter: ba981a6c-e098-3155-9d3d-5db82c813330

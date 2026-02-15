@@ -1,0 +1,196 @@
+# EHR Timeline
+Patient: Joan322 Caryl47 Kirlin939
+Patient ID: 27ca1810-f150-e9a3-045c-20abfbc6fec9
+
+
+MedicationRequest: 27ca1810-f150-e9a3-091e-06cbbde08c67
+
+MedicationRequest: 27ca1810-f150-e9a3-226b-e213b84403aa
+
+MedicationRequest: 27ca1810-f150-e9a3-55c1-771c05ef4164
+
+MedicationRequest: 27ca1810-f150-e9a3-69ea-7194d904e2e1
+
+MedicationRequest: 27ca1810-f150-e9a3-6c88-84fbf600aa98
+
+MedicationRequest: 27ca1810-f150-e9a3-8983-cdc812fdfa5e
+
+MedicationRequest: 27ca1810-f150-e9a3-9df3-da58676a3dc5
+
+MedicationRequest: 27ca1810-f150-e9a3-bd92-46974319ca39
+
+MedicationRequest: 27ca1810-f150-e9a3-cdf4-032e6810855e
+
+MedicationRequest: 27ca1810-f150-e9a3-cfad-17be2b89cc64
+
+Patient: Joan322 Caryl47 Kirlin939 (id: 27ca1810-f150-e9a3-045c-20abfbc6fec9)
+
+Procedure: Biopsy of breast (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Discussion about options (procedure)
+
+Procedure: Excision of lesion of breast (procedure)
+
+Procedure: Human epidermal growth factor receptor 2 gene detection by fluorescence in situ hybridization (procedure)
+
+Procedure: Human epidermal growth factor receptor 2 gene detection by immunohistochemistry (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Screening mammography (procedure)
+
+Procedure: Ultrasonography of bilateral breasts (procedure)
+
+[2016-05-04] DiagnosticReport: History and physical note
+
+[2016-05-04] Encounter: 27ca1810-f150-e9a3-8674-86110db50d11
+
+[2017-05-10] DiagnosticReport: History and physical note
+
+[2017-05-10] Encounter: 27ca1810-f150-e9a3-1dc0-d7a70f2e33a7
+
+[2018-05-16] DiagnosticReport: History and physical note
+
+[2018-05-16] Encounter: 27ca1810-f150-e9a3-f081-d99038a500a0
+
+[2019-05-22] DiagnosticReport: History and physical note
+
+[2019-05-22] Encounter: 27ca1810-f150-e9a3-f545-85a3b270a7c8
+
+[2020-05-27] DiagnosticReport: History and physical note
+
+[2020-05-27] Encounter: 27ca1810-f150-e9a3-f851-bd92644f2421
+
+[2021-03-10] DiagnosticReport: History and physical note
+
+[2021-03-10] Encounter: 27ca1810-f150-e9a3-e45b-78a4ca63310b
+
+[2021-03-31] DiagnosticReport: History and physical note
+
+[2021-03-31] Encounter: 27ca1810-f150-e9a3-ce23-997c5d7b8faf
+
+[2021-06-02] DiagnosticReport: History and physical note
+
+[2021-06-02] Encounter: 27ca1810-f150-e9a3-ea34-1fb358fc0d63
+
+[2022-06-08] DiagnosticReport: History and physical note
+
+[2022-06-08] Encounter: 27ca1810-f150-e9a3-5790-03d4ad87df16
+
+[2023-06-14] DiagnosticReport: History and physical note
+
+[2023-06-14] Encounter: 27ca1810-f150-e9a3-029e-444aabfa5cd0
+
+[2024-06-19] DiagnosticReport: History and physical note
+
+[2024-06-19] Encounter: 27ca1810-f150-e9a3-8f18-5fb9e08f2034
+
+[2024-12-13] Condition: Malignant neoplasm of breast (disorder)
+
+[2024-12-13] DiagnosticReport: History and physical note
+
+[2024-12-13] Encounter: 27ca1810-f150-e9a3-176a-7af97076e5e7
+
+[2024-12-13] Observation: Distant metastases.clinical [Class] Cancer
+
+[2024-12-13] Observation: Lymph nodes with isolated tumor cells [#] in Cancer specimen by Light microscopy
+
+[2024-12-13] Observation: Primary tumor.clinical [Class] Cancer
+
+[2024-12-13] Observation: Regional lymph nodes.clinical [Class] Cancer
+
+[2024-12-13] Observation: Site of distant metastasis in Breast tumor
+
+[2024-12-13] Observation: Size.maximum dimension in Tumor
+
+[2024-12-15] Observation: ERBB2 gene duplication [Presence] in Breast cancer specimen by FISH
+
+[2024-12-15] Observation: Estrogen receptor Ag [Presence] in Breast cancer specimen by Immune stain
+
+[2024-12-15] Observation: Estrogen+Progesterone receptor Ag [Presence] in Tissue by Immune stain
+
+[2024-12-15] Observation: HER2 [Presence] in Breast cancer specimen by Immune stain
+
+[2024-12-15] Observation: Progesterone receptor Ag [Presence] in Breast cancer specimen by Immune stain
+
+[2024-12-15] Observation: Stage group.clinical Cancer
+
+[2024-12-15] Observation: Stage group.clinical Cancer
+
+[2024-12-21] DiagnosticReport: History and physical note
+
+[2024-12-21] Encounter: 27ca1810-f150-e9a3-0c88-ebfbc98e9d78
+
+[2024-12-27] DiagnosticReport: History and physical note
+
+[2024-12-27] Encounter: 27ca1810-f150-e9a3-5bd0-b109099fe73d
+
+[2025-01-02] DiagnosticReport: History and physical note
+
+[2025-01-02] Encounter: 27ca1810-f150-e9a3-1c7b-cc9c1dbf8a0e
+
+[2025-01-24] DiagnosticReport: History and physical note
+
+[2025-01-24] Encounter: 27ca1810-f150-e9a3-ca39-bdd6d299200e
+
+[2025-02-14] DiagnosticReport: History and physical note
+
+[2025-02-14] Encounter: 27ca1810-f150-e9a3-efae-5a65f8d2af75
+
+[2025-03-05] DiagnosticReport: History and physical note
+
+[2025-03-05] Encounter: 27ca1810-f150-e9a3-1cdd-105fa892660d
+
+[2025-03-28] DiagnosticReport: History and physical note
+
+[2025-03-28] Encounter: 27ca1810-f150-e9a3-6ef6-f79626c64fd7
+
+[2025-04-20] DiagnosticReport: History and physical note
+
+[2025-04-20] Encounter: 27ca1810-f150-e9a3-4d3b-a9d444eb2dde
+
+[2025-05-10] DiagnosticReport: History and physical note
+
+[2025-05-10] Encounter: 27ca1810-f150-e9a3-fa07-3979dc62d59c
+
+[2025-05-30] DiagnosticReport: History and physical note
+
+[2025-05-30] Encounter: 27ca1810-f150-e9a3-4427-3312daa1e7c9
+
+[2025-06-02] DiagnosticReport: History and physical note
+
+[2025-06-02] Encounter: 27ca1810-f150-e9a3-4aa4-07e0ae04c37f
+
+[2025-06-02] Observation: Response to cancer treatment
+
+[2025-06-02] Observation: Treatment status Cancer
+
+[2025-06-25] DiagnosticReport: History and physical note
+
+[2025-06-25] Encounter: 27ca1810-f150-e9a3-2f0d-5fdb84252823
+
+[2025-09-28] DiagnosticReport: History and physical note
+
+[2025-09-28] Encounter: 27ca1810-f150-e9a3-435f-e8be2f49d928
+
+[2026-01-15] DiagnosticReport: History and physical note
+
+[2026-01-15] Encounter: 27ca1810-f150-e9a3-cc8c-c4dffa8de38c

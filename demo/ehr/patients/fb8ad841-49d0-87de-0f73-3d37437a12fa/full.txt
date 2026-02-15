@@ -1,0 +1,50 @@
+# EHR Timeline
+Patient: Michele387 Ward668
+Patient ID: fb8ad841-49d0-87de-0f73-3d37437a12fa
+
+
+Patient: Michele387 Ward668 (id: fb8ad841-49d0-87de-0f73-3d37437a12fa)
+
+[2017-01-28] DiagnosticReport: History and physical note
+
+[2017-01-28] Encounter: fb8ad841-49d0-87de-d324-dbf8433f2f52
+
+[2018-02-03] DiagnosticReport: History and physical note
+
+[2018-02-03] Encounter: fb8ad841-49d0-87de-6fc4-d2279bfdc621
+
+[2019-02-09] DiagnosticReport: History and physical note
+
+[2019-02-09] Encounter: fb8ad841-49d0-87de-1850-e9325c46893a
+
+[2020-02-15] DiagnosticReport: History and physical note
+
+[2020-02-15] Encounter: fb8ad841-49d0-87de-8da0-9d6ac8eb1dfc
+
+[2021-02-20] DiagnosticReport: History and physical note
+
+[2021-02-20] Encounter: fb8ad841-49d0-87de-8284-6a81a5d1c8c5
+
+[2021-03-13] DiagnosticReport: History and physical note
+
+[2021-03-13] Encounter: fb8ad841-49d0-87de-0257-c0d930ae682a
+
+[2021-04-03] DiagnosticReport: History and physical note
+
+[2021-04-03] Encounter: fb8ad841-49d0-87de-e55e-18d3acb637fd
+
+[2022-02-26] DiagnosticReport: History and physical note
+
+[2022-02-26] Encounter: fb8ad841-49d0-87de-2f0a-84a1c4d26534
+
+[2023-03-04] DiagnosticReport: History and physical note
+
+[2023-03-04] Encounter: fb8ad841-49d0-87de-f1a9-6f61ab3676fe
+
+[2024-03-09] DiagnosticReport: History and physical note
+
+[2024-03-09] Encounter: fb8ad841-49d0-87de-ff9d-381665cbdb3f
+
+[2025-03-15] DiagnosticReport: History and physical note
+
+[2025-03-15] Encounter: fb8ad841-49d0-87de-36e3-2250abe4aee6

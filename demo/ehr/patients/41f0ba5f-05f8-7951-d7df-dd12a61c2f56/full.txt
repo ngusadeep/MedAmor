@@ -1,0 +1,30 @@
+# EHR Timeline
+Patient: Pam996 Meghan514 Jones311
+Patient ID: 41f0ba5f-05f8-7951-d7df-dd12a61c2f56
+
+
+Patient: Pam996 Meghan514 Jones311 (id: 41f0ba5f-05f8-7951-d7df-dd12a61c2f56)
+
+[2017-10-30] DiagnosticReport: History and physical note
+
+[2017-10-30] Encounter: 41f0ba5f-05f8-7951-b83e-a386b5c69b64
+
+[2020-11-02] DiagnosticReport: History and physical note
+
+[2020-11-02] Encounter: 41f0ba5f-05f8-7951-95f7-4a95e59bd608
+
+[2021-03-01] DiagnosticReport: History and physical note
+
+[2021-03-01] Encounter: 41f0ba5f-05f8-7951-08d5-023aca89e338
+
+[2021-03-22] DiagnosticReport: History and physical note
+
+[2021-03-22] Encounter: 41f0ba5f-05f8-7951-b451-a091758ac897
+
+[2023-08-21] DiagnosticReport: History and physical note
+
+[2023-08-21] Encounter: 41f0ba5f-05f8-7951-5523-32dbfa5aea6d
+
+[2025-08-25] DiagnosticReport: History and physical note
+
+[2025-08-25] Encounter: 41f0ba5f-05f8-7951-815b-4e46173547ca

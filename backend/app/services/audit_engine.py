@@ -1,4 +1,5 @@
-"""Audit engine: EHR + RAG context → MedGemma → structured report (findings, evidence, actions)."""
+"""Audit engine: EHR + RAG context → MedGemma → structured report (findings, evidence, actions).
+Focused on Breast Cancer Screening Audit."""
 
 from datetime import datetime, timezone
 from uuid import UUID
@@ -7,20 +8,35 @@ from app.schemas.audit_report import AuditReportCreate, EvidenceItem, FindingIte
 from app.services import medgemma, rag
 from app.services.ehr_mock import get_patient_bundle
 
-AUDIT_SYSTEM_PROMPT = """You are a clinical audit assistant. Do NOT diagnose. Based on the provided EHR excerpt and knowledge base context, produce a structured audit report in JSON with exactly 
+AUDIT_SYSTEM_PROMPT = """You are a clinical audit assistant for breast cancer screening compliance. Do NOT diagnose. Based on the provided EHR excerpt and knowledge base context (screening guidelines, mammography, follow-up), produce a structured audit report in JSON with exactly 
 these keys: status (NO_FINDINGS or FINDING_PRESENT), risk_level (low/medium/high), executive_summary (string), findings (list of {category, description, responsible_doctor?, urgency?}), evidence (list of {kb_source?, ehr_snippet?}), corrective_actions (list of strings). Cite evidence only from the given context."""
 
+# RAG query tuned for breast cancer screening guidelines retrieval
+RAG_QUERY_BREAST_CANCER_SCREENING = (
+    "breast cancer screening mammography guidelines eligibility follow-up "
+    "recall imaging documentation BI-RADS risk assessment"
+)
 
-def run_audit(job_id: UUID, patient_id: str, export_type: str | None = None) -> AuditReportCreate:
+
+def run_audit(
+    job_id: UUID,
+    patient_id: str,
+    export_type: str | None = None,
+    audit_type: str | None = None,
+) -> AuditReportCreate:
     """
-    Run one audit: load EHR, retrieve RAG context, call MedGemma, return structured report.
+    Run one audit: load EHR, retrieve RAG context (Breast Cancer Screening guidelines), call MedGemma, return report.
     """
     export_type = export_type or "full"
     bundle = get_patient_bundle(patient_id, export_type)
     ehr_text = bundle.ehr_text if bundle else ""
 
-    query = "clinical audit imaging handoff continuity documentation follow-up"
-    chunks = rag.retrieve(query, k=5)
+    query = (
+        RAG_QUERY_BREAST_CANCER_SCREENING
+        if (audit_type or "").strip().lower() == "breast_cancer_screening"
+        else "clinical audit imaging handoff continuity documentation follow-up"
+    )
+    chunks = rag.retrieve(query, k=6)
     kb_context = "\n\n".join(c["text"] for c in chunks) if chunks else ""
 
     prompt = AUDIT_SYSTEM_PROMPT

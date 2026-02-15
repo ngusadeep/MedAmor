@@ -1,0 +1,224 @@
+# EHR Timeline
+Patient: Clara183 Marisol435 Fonseca493
+Patient ID: ee9d0ea6-5666-4098-ded4-3b355e3371ab
+
+
+MedicationRequest: ee9d0ea6-5666-4098-204a-a5bccc3b62e0
+
+MedicationRequest: ee9d0ea6-5666-4098-2345-9b6bdf817c81
+
+MedicationRequest: ee9d0ea6-5666-4098-2f35-83e3338c04a2
+
+MedicationRequest: ee9d0ea6-5666-4098-5f29-744119ceb1b2
+
+MedicationRequest: ee9d0ea6-5666-4098-69fb-7a776639e9dc
+
+MedicationRequest: ee9d0ea6-5666-4098-7cdd-9ef8a1870255
+
+MedicationRequest: ee9d0ea6-5666-4098-91b5-edc70695f852
+
+MedicationRequest: ee9d0ea6-5666-4098-ae98-40b94507be03
+
+MedicationRequest: ee9d0ea6-5666-4098-cb36-1617c2b4022e
+
+Patient: Clara183 Marisol435 Fonseca493 (id: ee9d0ea6-5666-4098-ded4-3b355e3371ab)
+
+Procedure: Biopsy of breast (procedure)
+
+Procedure: Bone density scan (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Discussion about options (procedure)
+
+Procedure: Excision of lesion of breast (procedure)
+
+Procedure: Human epidermal growth factor receptor 2 gene detection by fluorescence in situ hybridization (procedure)
+
+Procedure: Human epidermal growth factor receptor 2 gene detection by immunohistochemistry (procedure)
+
+Procedure: Mammography (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Screening mammography (procedure)
+
+Procedure: Ultrasonography of bilateral breasts (procedure)
+
+[2016-09-29] DiagnosticReport: History and physical note
+
+[2016-09-29] Encounter: ee9d0ea6-5666-4098-2134-b4214bb4be67
+
+[2017-10-05] DiagnosticReport: History and physical note
+
+[2017-10-05] Encounter: ee9d0ea6-5666-4098-3b8f-5da700d5846f
+
+[2018-10-11] DiagnosticReport: History and physical note
+
+[2018-10-11] Encounter: ee9d0ea6-5666-4098-4ec4-47353ca5efad
+
+[2019-10-17] DiagnosticReport: History and physical note
+
+[2019-10-17] Encounter: ee9d0ea6-5666-4098-f9c1-c344c2b997ee
+
+[2020-10-22] DiagnosticReport: History and physical note
+
+[2020-10-22] Encounter: ee9d0ea6-5666-4098-be03-38b31fc0bc64
+
+[2021-03-18] DiagnosticReport: History and physical note
+
+[2021-03-18] Encounter: ee9d0ea6-5666-4098-c205-b04d9f83d485
+
+[2021-04-15] DiagnosticReport: History and physical note
+
+[2021-04-15] Encounter: ee9d0ea6-5666-4098-14ec-a7345a3b76de
+
+[2021-10-28] DiagnosticReport: History and physical note
+
+[2021-10-28] Encounter: ee9d0ea6-5666-4098-1bce-290f8b775650
+
+[2022-11-03] DiagnosticReport: History and physical note
+
+[2022-11-03] Encounter: ee9d0ea6-5666-4098-c70f-6444ef9bc9d3
+
+[2023-11-09] DiagnosticReport: History and physical note
+
+[2023-11-09] Encounter: ee9d0ea6-5666-4098-cc8c-3fadb4790a48
+
+[2024-01-07] Condition: Malignant neoplasm of breast (disorder)
+
+[2024-01-07] DiagnosticReport: History and physical note
+
+[2024-01-07] Encounter: ee9d0ea6-5666-4098-bf8b-ca8ebaf5dc0a
+
+[2024-01-07] Observation: Distant metastases.clinical [Class] Cancer
+
+[2024-01-07] Observation: Lymph nodes with isolated tumor cells [#] in Cancer specimen by Light microscopy
+
+[2024-01-07] Observation: Primary tumor.clinical [Class] Cancer
+
+[2024-01-07] Observation: Regional lymph nodes.clinical [Class] Cancer
+
+[2024-01-07] Observation: Site of distant metastasis in Breast tumor
+
+[2024-01-07] Observation: Size.maximum dimension in Tumor
+
+[2024-01-09] Observation: ERBB2 gene duplication [Presence] in Breast cancer specimen by FISH
+
+[2024-01-09] Observation: Estrogen receptor Ag [Presence] in Breast cancer specimen by Immune stain
+
+[2024-01-09] Observation: HER2 [Presence] in Breast cancer specimen by Immune stain
+
+[2024-01-09] Observation: Progesterone receptor Ag [Presence] in Breast cancer specimen by Immune stain
+
+[2024-01-09] Observation: Stage group.clinical Cancer
+
+[2024-01-09] Observation: Stage group.clinical Cancer
+
+[2024-01-15] DiagnosticReport: History and physical note
+
+[2024-01-15] Encounter: ee9d0ea6-5666-4098-dd42-e2c88e127ccd
+
+[2024-01-20] DiagnosticReport: History and physical note
+
+[2024-01-20] Encounter: ee9d0ea6-5666-4098-fdf6-255b16bdc886
+
+[2024-02-05] DiagnosticReport: History and physical note
+
+[2024-02-05] Encounter: ee9d0ea6-5666-4098-b09b-ae73ac17247c
+
+[2024-02-25] DiagnosticReport: History and physical note
+
+[2024-02-25] Encounter: ee9d0ea6-5666-4098-33bc-872443b3fa56
+
+[2024-03-15] DiagnosticReport: History and physical note
+
+[2024-03-15] Encounter: ee9d0ea6-5666-4098-d5ce-62ffe4fb0095
+
+[2024-04-04] DiagnosticReport: History and physical note
+
+[2024-04-04] Encounter: ee9d0ea6-5666-4098-c1de-46c2fbac8b11
+
+[2024-04-26] DiagnosticReport: History and physical note
+
+[2024-04-26] Encounter: ee9d0ea6-5666-4098-96a7-8f384af0c0a8
+
+[2024-05-17] DiagnosticReport: History and physical note
+
+[2024-05-17] Encounter: ee9d0ea6-5666-4098-1601-4ee6959a3382
+
+[2024-06-06] DiagnosticReport: History and physical note
+
+[2024-06-06] Encounter: ee9d0ea6-5666-4098-e950-42aa4b46d133
+
+[2024-06-26] DiagnosticReport: History and physical note
+
+[2024-06-26] Encounter: ee9d0ea6-5666-4098-a9a5-b3ec438f8765
+
+[2024-07-02] DiagnosticReport: History and physical note
+
+[2024-07-02] Encounter: ee9d0ea6-5666-4098-c989-e66c5f843603
+
+[2024-07-02] Observation: Response to cancer treatment
+
+[2024-07-02] Observation: Treatment status Cancer
+
+[2024-11-04] DiagnosticReport: History and physical note
+
+[2024-11-04] Encounter: ee9d0ea6-5666-4098-661c-0f2281ac1175
+
+[2024-11-14] DiagnosticReport: History and physical note
+
+[2024-11-14] Encounter: ee9d0ea6-5666-4098-db0d-b6895b180123
+
+[2025-02-21] DiagnosticReport: History and physical note
+
+[2025-02-21] Encounter: ee9d0ea6-5666-4098-cf07-8a6612db90db
+
+[2025-06-01] DiagnosticReport: History and physical note
+
+[2025-06-01] DiagnosticReport: History and physical note
+
+[2025-06-01] DiagnosticReport: History and physical note
+
+[2025-06-01] Encounter: ee9d0ea6-5666-4098-17cc-650a938fb980
+
+[2025-06-01] Encounter: ee9d0ea6-5666-4098-be9f-0abbc22fc15e
+
+[2025-06-01] Encounter: ee9d0ea6-5666-4098-ce2d-721fca76d71d
+
+[2025-06-01] Observation: Response to cancer treatment
+
+[2025-09-17] DiagnosticReport: History and physical note
+
+[2025-09-17] Encounter: ee9d0ea6-5666-4098-9ad2-29c3d1736e44
+
+[2025-11-20] DiagnosticReport: History and physical note
+
+[2025-11-20] Encounter: ee9d0ea6-5666-4098-ce2b-f32201e44487
+
+[2026-01-01] DiagnosticReport: History and physical note
+
+[2026-01-01] Encounter: ee9d0ea6-5666-4098-79e6-423bc16bd857

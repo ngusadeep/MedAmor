@@ -1,0 +1,412 @@
+# EHR Timeline
+Patient: Altagracia629 Ondricka197
+Patient ID: e8ebcbe0-16d5-182e-582b-2002869c423a
+
+
+MedicationRequest: e8ebcbe0-16d5-182e-3195-4ac4aa80a1b3
+
+MedicationRequest: e8ebcbe0-16d5-182e-35f0-fd56d20893e4
+
+MedicationRequest: e8ebcbe0-16d5-182e-3b8b-46500462cc08
+
+MedicationRequest: e8ebcbe0-16d5-182e-5394-b479f5513b96
+
+MedicationRequest: e8ebcbe0-16d5-182e-5ff5-a852d0096467
+
+MedicationRequest: e8ebcbe0-16d5-182e-9685-56d2b9a19a16
+
+MedicationRequest: e8ebcbe0-16d5-182e-9ea6-bc7079a3f589
+
+MedicationRequest: e8ebcbe0-16d5-182e-d595-1c3b287a8e4c
+
+MedicationRequest: e8ebcbe0-16d5-182e-ec86-b991b84a863a
+
+Patient: Altagracia629 Ondricka197 (id: e8ebcbe0-16d5-182e-582b-2002869c423a)
+
+Procedure: Biopsy of breast (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Cytopathology procedure, preparation of smear, genital source (procedure)
+
+Procedure: Discussion about options (procedure)
+
+Procedure: Excision of axillary lymph node (procedure)
+
+Procedure: Human epidermal growth factor receptor 2 gene detection by fluorescence in situ hybridization (procedure)
+
+Procedure: Human epidermal growth factor receptor 2 gene detection by immunohistochemistry (procedure)
+
+Procedure: Lumpectomy of breast (procedure)
+
+Procedure: Mammography (procedure)
+
+Procedure: Manual pelvic examination (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Screening mammography (procedure)
+
+Procedure: Ultrasonography of bilateral breasts (procedure)
+
+[2016-11-18] DiagnosticReport: History and physical note
+
+[2016-11-18] Encounter: e8ebcbe0-16d5-182e-e0dc-97ec5fb42b4b
+
+[2018-11-23] DiagnosticReport: History and physical note
+
+[2018-11-23] Encounter: e8ebcbe0-16d5-182e-c8e1-ec68adec643c
+
+[2020-11-27] DiagnosticReport: History and physical note
+
+[2020-11-27] Encounter: e8ebcbe0-16d5-182e-6acf-bfe95221f685
+
+[2021-12-17] DiagnosticReport: History and physical note
+
+[2021-12-17] Encounter: e8ebcbe0-16d5-182e-958d-4f5a51200d4c
+
+[2022-01-07] DiagnosticReport: History and physical note
+
+[2022-01-07] Encounter: e8ebcbe0-16d5-182e-02d3-b7c97a7e0a12
+
+[2022-12-02] DiagnosticReport: History and physical note
+
+[2022-12-02] Encounter: e8ebcbe0-16d5-182e-4142-d7e45f53a43c
+
+[2023-12-27] Condition: Malignant neoplasm of breast (disorder)
+
+[2023-12-27] DiagnosticReport: History and physical note
+
+[2023-12-27] Encounter: e8ebcbe0-16d5-182e-b7d8-13bc2236fd32
+
+[2023-12-27] Observation: Distant metastases.clinical [Class] Cancer
+
+[2023-12-27] Observation: Lymph nodes with micrometastases [#] in Cancer specimen by Light microscopy
+
+[2023-12-27] Observation: Primary tumor.clinical [Class] Cancer
+
+[2023-12-27] Observation: Regional lymph nodes.clinical [Class] Cancer
+
+[2023-12-27] Observation: Site of distant metastasis in Breast tumor
+
+[2023-12-27] Observation: Size.maximum dimension in Tumor
+
+[2023-12-29] Observation: ERBB2 gene duplication [Presence] in Breast cancer specimen by FISH
+
+[2023-12-29] Observation: Estrogen receptor Ag [Presence] in Breast cancer specimen by Immune stain
+
+[2023-12-29] Observation: HER2 [Presence] in Breast cancer specimen by Immune stain
+
+[2023-12-29] Observation: Progesterone receptor Ag [Presence] in Breast cancer specimen by Immune stain
+
+[2023-12-29] Observation: Stage group.clinical Cancer
+
+[2023-12-29] Observation: Stage group.clinical Cancer
+
+[2024-01-03] DiagnosticReport: History and physical note
+
+[2024-01-03] Encounter: e8ebcbe0-16d5-182e-7cba-2e0d133ea7b2
+
+[2024-01-06] DiagnosticReport: History and physical note
+
+[2024-01-06] Encounter: e8ebcbe0-16d5-182e-a118-e7ad3f3fb886
+
+[2024-01-27] DiagnosticReport: History and physical note
+
+[2024-01-27] Encounter: e8ebcbe0-16d5-182e-ea32-77ce30f4ac0d
+
+[2024-02-18] DiagnosticReport: History and physical note
+
+[2024-02-18] Encounter: e8ebcbe0-16d5-182e-f978-cbfbc17d88ac
+
+[2024-03-11] DiagnosticReport: History and physical note
+
+[2024-03-11] Encounter: e8ebcbe0-16d5-182e-1400-1d227c15e885
+
+[2024-04-02] DiagnosticReport: History and physical note
+
+[2024-04-02] Encounter: e8ebcbe0-16d5-182e-1f4d-cc65cdb46b2c
+
+[2024-04-24] DiagnosticReport: History and physical note
+
+[2024-04-24] Encounter: e8ebcbe0-16d5-182e-8b38-aad09d01ad45
+
+[2024-05-14] DiagnosticReport: History and physical note
+
+[2024-05-14] Encounter: e8ebcbe0-16d5-182e-1c4a-09226d8ce223
+
+[2024-06-03] DiagnosticReport: History and physical note
+
+[2024-06-03] Encounter: e8ebcbe0-16d5-182e-0256-993565031399
+
+[2024-07-03] DiagnosticReport: History and physical note
+
+[2024-07-03] Encounter: e8ebcbe0-16d5-182e-25e0-481efcdc50ac
+
+[2024-07-03] Observation: Response to cancer treatment
+
+[2024-07-11] DiagnosticReport: History and physical note
+
+[2024-07-11] Encounter: e8ebcbe0-16d5-182e-6ce1-a35d6b714d36
+
+[2024-07-13] DiagnosticReport: History and physical note
+
+[2024-07-13] Encounter: e8ebcbe0-16d5-182e-3f3e-d611e69a01b2
+
+[2024-07-14] DiagnosticReport: History and physical note
+
+[2024-07-14] Encounter: e8ebcbe0-16d5-182e-b10a-7fff326b2a10
+
+[2024-07-15] DiagnosticReport: History and physical note
+
+[2024-07-15] Encounter: e8ebcbe0-16d5-182e-d715-d46960aca326
+
+[2024-07-16] DiagnosticReport: History and physical note
+
+[2024-07-16] Encounter: e8ebcbe0-16d5-182e-4fae-28a0a1d635f7
+
+[2024-07-17] DiagnosticReport: History and physical note
+
+[2024-07-17] Encounter: e8ebcbe0-16d5-182e-9b8f-93fcd5a2396f
+
+[2024-07-19] DiagnosticReport: History and physical note
+
+[2024-07-19] Encounter: e8ebcbe0-16d5-182e-a521-012fb71b6802
+
+[2024-07-20] DiagnosticReport: History and physical note
+
+[2024-07-20] Encounter: e8ebcbe0-16d5-182e-70e2-ce78c39a0426
+
+[2024-07-21] DiagnosticReport: History and physical note
+
+[2024-07-21] Encounter: e8ebcbe0-16d5-182e-7dca-63bc11f9b5f4
+
+[2024-07-22] DiagnosticReport: History and physical note
+
+[2024-07-22] Encounter: e8ebcbe0-16d5-182e-8026-5ac49472f2c6
+
+[2024-07-24] DiagnosticReport: History and physical note
+
+[2024-07-24] Encounter: e8ebcbe0-16d5-182e-fcf2-b21e76ea41ad
+
+[2024-07-25] DiagnosticReport: History and physical note
+
+[2024-07-25] Encounter: e8ebcbe0-16d5-182e-64ce-a26c32a77ced
+
+[2024-07-26] DiagnosticReport: History and physical note
+
+[2024-07-26] Encounter: e8ebcbe0-16d5-182e-b5d7-2e6403a80be1
+
+[2024-07-27] DiagnosticReport: History and physical note
+
+[2024-07-27] Encounter: e8ebcbe0-16d5-182e-aee1-b38a77779de3
+
+[2024-07-28] DiagnosticReport: History and physical note
+
+[2024-07-28] Encounter: e8ebcbe0-16d5-182e-2875-90116d5a7f3b
+
+[2024-07-30] DiagnosticReport: History and physical note
+
+[2024-07-30] Encounter: e8ebcbe0-16d5-182e-0f4a-3576d35019c2
+
+[2024-07-31] DiagnosticReport: History and physical note
+
+[2024-07-31] Encounter: e8ebcbe0-16d5-182e-d3d6-c0e75eb2c76f
+
+[2024-08-01] DiagnosticReport: History and physical note
+
+[2024-08-01] Encounter: e8ebcbe0-16d5-182e-635c-4c5702ff0c26
+
+[2024-08-02] DiagnosticReport: History and physical note
+
+[2024-08-02] Encounter: e8ebcbe0-16d5-182e-6feb-f21c89d580fe
+
+[2024-08-03] DiagnosticReport: History and physical note
+
+[2024-08-03] Encounter: e8ebcbe0-16d5-182e-1612-3d0c757de0e5
+
+[2024-08-05] DiagnosticReport: History and physical note
+
+[2024-08-05] Encounter: e8ebcbe0-16d5-182e-c9b0-8d34ea45c23d
+
+[2024-08-06] DiagnosticReport: History and physical note
+
+[2024-08-06] Encounter: e8ebcbe0-16d5-182e-0157-2580bd1df951
+
+[2024-08-08] DiagnosticReport: History and physical note
+
+[2024-08-08] Encounter: e8ebcbe0-16d5-182e-bd79-1b379dc53d44
+
+[2024-08-09] DiagnosticReport: History and physical note
+
+[2024-08-09] Encounter: e8ebcbe0-16d5-182e-3dff-6cd3701c7408
+
+[2024-08-10] DiagnosticReport: History and physical note
+
+[2024-08-10] Encounter: e8ebcbe0-16d5-182e-7fe5-ac4e663c1701
+
+[2024-08-11] DiagnosticReport: History and physical note
+
+[2024-08-11] Encounter: e8ebcbe0-16d5-182e-1e01-ea1ae6af275f
+
+[2024-08-13] DiagnosticReport: History and physical note
+
+[2024-08-13] Encounter: e8ebcbe0-16d5-182e-a19b-6fbfd45f27bf
+
+[2024-08-14] DiagnosticReport: History and physical note
+
+[2024-08-14] Encounter: e8ebcbe0-16d5-182e-8506-664819dc8ea5
+
+[2024-08-15] DiagnosticReport: History and physical note
+
+[2024-08-15] Encounter: e8ebcbe0-16d5-182e-8306-672d0a2f4ca2
+
+[2024-08-17] DiagnosticReport: History and physical note
+
+[2024-08-17] Encounter: e8ebcbe0-16d5-182e-43c2-fc8807d1873b
+
+[2024-08-18] DiagnosticReport: History and physical note
+
+[2024-08-18] Encounter: e8ebcbe0-16d5-182e-69cd-ea8978e1db02
+
+[2024-08-19] DiagnosticReport: History and physical note
+
+[2024-08-19] Encounter: e8ebcbe0-16d5-182e-a5cb-50ab655b0c24
+
+[2024-08-20] DiagnosticReport: History and physical note
+
+[2024-08-20] Encounter: e8ebcbe0-16d5-182e-3149-77471b502ade
+
+[2024-08-21] DiagnosticReport: History and physical note
+
+[2024-08-21] Encounter: e8ebcbe0-16d5-182e-8718-e6504bfdb524
+
+[2024-08-28] DiagnosticReport: History and physical note
+
+[2024-08-28] Encounter: e8ebcbe0-16d5-182e-85b9-ddc59f7636de
+
+[2024-08-28] Observation: Response to cancer treatment
+
+[2024-08-28] Observation: Treatment status Cancer
+
+[2024-11-08] DiagnosticReport: History and physical note
+
+[2024-11-08] Encounter: e8ebcbe0-16d5-182e-5a7c-09ceb1c42821
+
+[2024-12-20] DiagnosticReport: History and physical note
+
+[2024-12-20] Encounter: e8ebcbe0-16d5-182e-f124-0a6204bf40af
+
+[2025-04-02] DiagnosticReport: History and physical note
+
+[2025-04-02] Encounter: e8ebcbe0-16d5-182e-9c01-66b8051953c3
+
+[2025-07-17] DiagnosticReport: History and physical note
+
+[2025-07-17] DiagnosticReport: History and physical note
+
+[2025-07-17] DiagnosticReport: History and physical note
+
+[2025-07-17] Encounter: e8ebcbe0-16d5-182e-39fc-473c6984a618
+
+[2025-07-17] Encounter: e8ebcbe0-16d5-182e-f239-70df821a12e4
+
+[2025-07-17] Encounter: e8ebcbe0-16d5-182e-f24c-17a85eba1d95
+
+[2025-07-17] Observation: Response to cancer treatment
+
+[2025-10-30] DiagnosticReport: History and physical note
+
+[2025-10-30] Encounter: e8ebcbe0-16d5-182e-6283-41cb01721859
+
+[2025-11-14] DiagnosticReport: History and physical note
+
+[2025-11-14] Encounter: e8ebcbe0-16d5-182e-59a1-0b55854cb6c0

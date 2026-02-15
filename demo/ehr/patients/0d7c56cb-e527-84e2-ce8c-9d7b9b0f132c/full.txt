@@ -1,0 +1,30 @@
+# EHR Timeline
+Patient: Monet875 Dina200 O'Hara248
+Patient ID: 0d7c56cb-e527-84e2-ce8c-9d7b9b0f132c
+
+
+Patient: Monet875 Dina200 O'Hara248 (id: 0d7c56cb-e527-84e2-ce8c-9d7b9b0f132c)
+
+[2018-12-01] DiagnosticReport: History and physical note
+
+[2018-12-01] Encounter: 0d7c56cb-e527-84e2-0355-20c404da2019
+
+[2020-12-05] DiagnosticReport: History and physical note
+
+[2020-12-05] Encounter: 0d7c56cb-e527-84e2-2281-faaaca510f3a
+
+[2021-03-13] DiagnosticReport: History and physical note
+
+[2021-03-13] Encounter: 0d7c56cb-e527-84e2-4222-3d5e8c53396f
+
+[2021-04-03] DiagnosticReport: History and physical note
+
+[2021-04-03] Encounter: 0d7c56cb-e527-84e2-0ac2-28f2be3755e4
+
+[2022-12-10] DiagnosticReport: History and physical note
+
+[2022-12-10] Encounter: 0d7c56cb-e527-84e2-7b64-c4485fe45a85
+
+[2024-12-14] DiagnosticReport: History and physical note
+
+[2024-12-14] Encounter: 0d7c56cb-e527-84e2-13ab-28e2716fde06

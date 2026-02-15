@@ -1,0 +1,30 @@
+# EHR Timeline
+Patient: Madie300 Smith67
+Patient ID: c5132b96-d554-d97d-9ba9-bd648153c6e3
+
+
+Patient: Madie300 Smith67 (id: c5132b96-d554-d97d-9ba9-bd648153c6e3)
+
+[2017-11-25] DiagnosticReport: History and physical note
+
+[2017-11-25] Encounter: c5132b96-d554-d97d-0afc-40782a2fa104
+
+[2020-09-12] DiagnosticReport: History and physical note
+
+[2020-09-12] Encounter: c5132b96-d554-d97d-b66a-bace74593aa7
+
+[2021-05-15] DiagnosticReport: History and physical note
+
+[2021-05-15] Encounter: c5132b96-d554-d97d-28ee-88b8e6ed7cde
+
+[2021-06-05] DiagnosticReport: History and physical note
+
+[2021-06-05] Encounter: c5132b96-d554-d97d-4f31-d83bcf39730c
+
+[2022-09-17] DiagnosticReport: History and physical note
+
+[2022-09-17] Encounter: c5132b96-d554-d97d-2cb1-7c8338e7f930
+
+[2024-09-21] DiagnosticReport: History and physical note
+
+[2024-09-21] Encounter: c5132b96-d554-d97d-3a6f-8ac146ccaf18

@@ -1,0 +1,178 @@
+# EHR Timeline
+Patient: Anitra287 Brown30
+Patient ID: 34bb8bff-74bd-dfbf-d76d-01920e8eb859
+
+
+MedicationRequest: 34bb8bff-74bd-dfbf-08d9-1cd3a8cf50f9
+
+MedicationRequest: 34bb8bff-74bd-dfbf-1ab5-395a0b9fe2e4
+
+MedicationRequest: 34bb8bff-74bd-dfbf-216b-d97471f523b2
+
+MedicationRequest: 34bb8bff-74bd-dfbf-4a85-e9821ec8d967
+
+MedicationRequest: 34bb8bff-74bd-dfbf-4fa8-ab74ce4b70e4
+
+MedicationRequest: 34bb8bff-74bd-dfbf-5eae-4c16f13bcdcb
+
+MedicationRequest: 34bb8bff-74bd-dfbf-72f2-0c1c57c42315
+
+MedicationRequest: 34bb8bff-74bd-dfbf-b5fc-5d11f5db5cc5
+
+MedicationRequest: 34bb8bff-74bd-dfbf-ec70-bb77101ca82f
+
+MedicationRequest: 34bb8bff-74bd-dfbf-ef7f-24a577df26c8
+
+Patient: Anitra287 Brown30 (id: 34bb8bff-74bd-dfbf-d76d-01920e8eb859)
+
+Procedure: Biopsy of breast (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Discussion about options (procedure)
+
+Procedure: Excision of axillary lymph node (procedure)
+
+Procedure: Excision of lesion of breast (procedure)
+
+Procedure: Human epidermal growth factor receptor 2 gene detection by fluorescence in situ hybridization (procedure)
+
+Procedure: Human epidermal growth factor receptor 2 gene detection by immunohistochemistry (procedure)
+
+Procedure: Magnetic resonance imaging of breast (procedure)
+
+Procedure: Screening mammography (procedure)
+
+[2003-10-25] DiagnosticReport: History and physical note
+
+[2003-10-25] Encounter: 34bb8bff-74bd-dfbf-f019-2e1f7141f006
+
+[2005-10-29] DiagnosticReport: History and physical note
+
+[2005-10-29] Encounter: 34bb8bff-74bd-dfbf-677c-8e983d1dcb60
+
+[2007-10-06] DiagnosticReport: History and physical note
+
+[2007-10-06] Encounter: 34bb8bff-74bd-dfbf-fc44-9e261350262c
+
+[2008-10-11] DiagnosticReport: History and physical note
+
+[2008-10-11] Encounter: 34bb8bff-74bd-dfbf-1262-fe3da647751a
+
+[2009-10-17] DiagnosticReport: History and physical note
+
+[2009-10-17] Encounter: 34bb8bff-74bd-dfbf-26d8-a91b5596fc18
+
+[2010-10-23] DiagnosticReport: History and physical note
+
+[2010-10-23] Encounter: 34bb8bff-74bd-dfbf-c7c3-e29e61ccc179
+
+[2011-10-29] DiagnosticReport: History and physical note
+
+[2011-10-29] Encounter: 34bb8bff-74bd-dfbf-47dc-a017600a2e3a
+
+[2011-11-11] Condition: Malignant neoplasm of breast (disorder)
+
+[2011-11-11] DiagnosticReport: History and physical note
+
+[2011-11-11] Encounter: 34bb8bff-74bd-dfbf-ef7f-878374e29084
+
+[2011-11-11] Observation: Distant metastases.clinical [Class] Cancer
+
+[2011-11-11] Observation: Lymph nodes with macrometastases [#] in Cancer specimen by Light microscopy
+
+[2011-11-11] Observation: Primary tumor.clinical [Class] Cancer
+
+[2011-11-11] Observation: Regional lymph nodes.clinical [Class] Cancer
+
+[2011-11-11] Observation: Site of distant metastasis in Breast tumor
+
+[2011-11-11] Observation: Size.maximum dimension in Tumor
+
+[2011-11-12] Observation: ERBB2 gene duplication [Presence] in Breast cancer specimen by FISH
+
+[2011-11-12] Observation: Estrogen receptor Ag [Presence] in Breast cancer specimen by Immune stain
+
+[2011-11-12] Observation: HER2 [Presence] in Breast cancer specimen by Immune stain
+
+[2011-11-12] Observation: Progesterone receptor Ag [Presence] in Breast cancer specimen by Immune stain
+
+[2011-11-12] Observation: Stage group.clinical Cancer
+
+[2011-11-12] Observation: Stage group.clinical Cancer
+
+[2011-11-19] DiagnosticReport: History and physical note
+
+[2011-11-19] Encounter: 34bb8bff-74bd-dfbf-17e3-05abf18f32a3
+
+[2011-11-25] DiagnosticReport: History and physical note
+
+[2011-11-25] Encounter: 34bb8bff-74bd-dfbf-b223-55b968ae0bc6
+
+[2011-12-17] DiagnosticReport: History and physical note
+
+[2011-12-17] Encounter: 34bb8bff-74bd-dfbf-5e64-1490113fa7bf
+
+[2012-01-07] DiagnosticReport: History and physical note
+
+[2012-01-07] Encounter: 34bb8bff-74bd-dfbf-15e9-d2d581236cee
+
+[2012-01-26] DiagnosticReport: History and physical note
+
+[2012-01-26] Encounter: 34bb8bff-74bd-dfbf-1671-2f6d576616f1
+
+[2012-02-16] DiagnosticReport: History and physical note
+
+[2012-02-16] Encounter: 34bb8bff-74bd-dfbf-5670-1a76a760d4b5
+
+[2012-03-07] DiagnosticReport: History and physical note
+
+[2012-03-07] Encounter: 34bb8bff-74bd-dfbf-5389-fc005319f912
+
+[2012-03-27] DiagnosticReport: History and physical note
+
+[2012-03-27] Encounter: 34bb8bff-74bd-dfbf-35f0-6ef320adfb28
+
+[2012-04-16] DiagnosticReport: History and physical note
+
+[2012-04-16] Encounter: 34bb8bff-74bd-dfbf-5f2d-9485f470e233
+
+[2012-04-30] DiagnosticReport: History and physical note
+
+[2012-04-30] Encounter: 34bb8bff-74bd-dfbf-bb4c-b3708fa2d376
+
+[2012-04-30] Observation: Response to cancer treatment
+
+[2012-05-14] DiagnosticReport: History and physical note
+
+[2012-05-14] Encounter: 34bb8bff-74bd-dfbf-cb6d-4b1b9eabe2d2
+
+[2012-06-05] DiagnosticReport: History and physical note
+
+[2012-06-05] Encounter: 34bb8bff-74bd-dfbf-ba26-0e98925fb068
+
+[2012-06-30] DiagnosticReport: History and physical note
+
+[2012-06-30] DiagnosticReport: U.S. standard certificate of death - 2003 revision
+
+[2012-06-30] Encounter: 34bb8bff-74bd-dfbf-2f90-1c044d3f3ea2
+
+[2012-06-30] Observation: Cause of Death [US Standard Certificate of Death]

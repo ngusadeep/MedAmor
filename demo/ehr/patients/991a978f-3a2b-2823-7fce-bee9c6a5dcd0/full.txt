@@ -1,0 +1,456 @@
+# EHR Timeline
+Patient: Karol905 Afton574 Hodkiewicz467
+Patient ID: 991a978f-3a2b-2823-7fce-bee9c6a5dcd0
+
+
+MedicationRequest: 991a978f-3a2b-2823-8d13-36c92b8f6db0
+
+Patient: Karol905 Afton574 Hodkiewicz467 (id: 991a978f-3a2b-2823-7fce-bee9c6a5dcd0)
+
+Procedure: Bone density scan (procedure)
+
+Procedure: Bone density scan (procedure)
+
+Procedure: Bone density scan (procedure)
+
+Procedure: Bone density scan (procedure)
+
+Procedure: Bone density scan (procedure)
+
+Procedure: Bone density scan (procedure)
+
+Procedure: Bone density scan (procedure)
+
+Procedure: Bone density scan (procedure)
+
+Procedure: Bone density scan (procedure)
+
+Procedure: Bone density scan (procedure)
+
+Procedure: Mammography (procedure)
+
+Procedure: Mammography (procedure)
+
+Procedure: Mammography (procedure)
+
+Procedure: Mammography (procedure)
+
+Procedure: Mammography (procedure)
+
+Procedure: Mammography (procedure)
+
+Procedure: Mammography (procedure)
+
+Procedure: Mammography (procedure)
+
+Procedure: Mammography (procedure)
+
+Procedure: Mammography (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+[2016-01-08] Condition: Malignant neoplasm of breast (disorder)
+
+[2016-01-08] DiagnosticReport: History and physical note
+
+[2016-01-08] Encounter: 991a978f-3a2b-2823-1a4e-e3e715cdf31d
+
+[2016-02-15] DiagnosticReport: History and physical note
+
+[2016-02-15] Encounter: 991a978f-3a2b-2823-ab4b-753963016e95
+
+[2016-02-16] DiagnosticReport: History and physical note
+
+[2016-02-16] Encounter: 991a978f-3a2b-2823-6876-dd8f73a1feea
+
+[2016-02-17] DiagnosticReport: History and physical note
+
+[2016-02-17] Encounter: 991a978f-3a2b-2823-5927-517923495a9f
+
+[2016-02-19] DiagnosticReport: History and physical note
+
+[2016-02-19] Encounter: 991a978f-3a2b-2823-0554-b6a49aba63a4
+
+[2016-02-20] DiagnosticReport: History and physical note
+
+[2016-02-20] Encounter: 991a978f-3a2b-2823-1a13-dd9a6e395902
+
+[2016-02-21] DiagnosticReport: History and physical note
+
+[2016-02-21] Encounter: 991a978f-3a2b-2823-2e98-bed44da6b603
+
+[2016-02-23] DiagnosticReport: History and physical note
+
+[2016-02-23] Encounter: 991a978f-3a2b-2823-3689-3a212020d7af
+
+[2016-02-24] DiagnosticReport: History and physical note
+
+[2016-02-24] Encounter: 991a978f-3a2b-2823-6d41-23163578d5df
+
+[2016-02-25] DiagnosticReport: History and physical note
+
+[2016-02-25] Encounter: 991a978f-3a2b-2823-f3e6-78d34d42496b
+
+[2016-02-26] DiagnosticReport: History and physical note
+
+[2016-02-26] Encounter: 991a978f-3a2b-2823-a071-eeb1baacc962
+
+[2016-02-28] DiagnosticReport: History and physical note
+
+[2016-02-28] Encounter: 991a978f-3a2b-2823-0a9b-06f936a14861
+
+[2016-02-29] DiagnosticReport: History and physical note
+
+[2016-02-29] Encounter: 991a978f-3a2b-2823-7a59-17b19921facd
+
+[2016-03-01] DiagnosticReport: History and physical note
+
+[2016-03-01] Encounter: 991a978f-3a2b-2823-f42f-4c7abb7ca7ed
+
+[2016-03-02] DiagnosticReport: History and physical note
+
+[2016-03-02] Encounter: 991a978f-3a2b-2823-65ec-74ffd4415125
+
+[2016-03-03] DiagnosticReport: History and physical note
+
+[2016-03-03] Encounter: 991a978f-3a2b-2823-6b72-9bd8c46dbc4d
+
+[2016-03-05] DiagnosticReport: History and physical note
+
+[2016-03-05] Encounter: 991a978f-3a2b-2823-08b7-6e687caeaf7f
+
+[2016-03-06] DiagnosticReport: History and physical note
+
+[2016-03-06] Encounter: 991a978f-3a2b-2823-678b-5129bd76510f
+
+[2016-03-07] DiagnosticReport: History and physical note
+
+[2016-03-07] Encounter: 991a978f-3a2b-2823-05f4-fa4875b11f0a
+
+[2016-03-09] DiagnosticReport: History and physical note
+
+[2016-03-09] Encounter: 991a978f-3a2b-2823-235e-6a9344e7ca01
+
+[2016-03-10] DiagnosticReport: History and physical note
+
+[2016-03-10] Encounter: 991a978f-3a2b-2823-6c76-650730e01955
+
+[2016-03-11] DiagnosticReport: History and physical note
+
+[2016-03-11] Encounter: 991a978f-3a2b-2823-b2f7-8ee12623270b
+
+[2016-03-12] DiagnosticReport: History and physical note
+
+[2016-03-12] Encounter: 991a978f-3a2b-2823-7353-f1185af95675
+
+[2016-03-14] DiagnosticReport: History and physical note
+
+[2016-03-14] Encounter: 991a978f-3a2b-2823-f4be-7db2321db3db
+
+[2016-03-15] DiagnosticReport: History and physical note
+
+[2016-03-15] Encounter: 991a978f-3a2b-2823-c15c-0c52e5ad05e8
+
+[2016-03-16] DiagnosticReport: History and physical note
+
+[2016-03-16] Encounter: 991a978f-3a2b-2823-33bd-30569999a31a
+
+[2016-03-22] DiagnosticReport: History and physical note
+
+[2016-03-22] Encounter: 991a978f-3a2b-2823-237f-0b5817edf39b
+
+[2016-03-22] Observation: Response to cancer treatment
+
+[2016-03-22] Observation: Treatment status Cancer
+
+[2016-06-01] DiagnosticReport: History and physical note
+
+[2016-06-01] Encounter: 991a978f-3a2b-2823-a84a-7d80d5b8ffd1
+
+[2016-07-18] DiagnosticReport: History and physical note
+
+[2016-07-18] Encounter: 991a978f-3a2b-2823-485f-44e9e4904019
+
+[2016-11-16] DiagnosticReport: History and physical note
+
+[2016-11-16] Encounter: 991a978f-3a2b-2823-b776-17fa09850475
+
+[2017-03-12] DiagnosticReport: History and physical note
+
+[2017-03-12] DiagnosticReport: History and physical note
+
+[2017-03-12] DiagnosticReport: History and physical note
+
+[2017-03-12] Encounter: 991a978f-3a2b-2823-2c57-0e5bce0118bb
+
+[2017-03-12] Encounter: 991a978f-3a2b-2823-3232-cf70361d4472
+
+[2017-03-12] Encounter: 991a978f-3a2b-2823-e4b3-f1912c2cd1e9
+
+[2017-03-12] Observation: Response to cancer treatment
+
+[2017-07-04] DiagnosticReport: History and physical note
+
+[2017-07-04] Encounter: 991a978f-3a2b-2823-c7de-5178410ba9b2
+
+[2017-10-10] DiagnosticReport: History and physical note
+
+[2017-10-10] Encounter: 991a978f-3a2b-2823-6be0-b877f37407c0
+
+[2018-02-04] DiagnosticReport: History and physical note
+
+[2018-02-04] DiagnosticReport: History and physical note
+
+[2018-02-04] DiagnosticReport: History and physical note
+
+[2018-02-04] Encounter: 991a978f-3a2b-2823-0d17-722300bf68c0
+
+[2018-02-04] Encounter: 991a978f-3a2b-2823-8fe4-519f02a5d3b6
+
+[2018-02-04] Encounter: 991a978f-3a2b-2823-97ba-3dbf40e2e3d7
+
+[2018-02-04] Observation: Response to cancer treatment
+
+[2018-05-13] DiagnosticReport: History and physical note
+
+[2018-05-13] Encounter: 991a978f-3a2b-2823-5b9a-24f8a6450077
+
+[2018-06-06] DiagnosticReport: History and physical note
+
+[2018-06-06] Encounter: 991a978f-3a2b-2823-5f05-719f0f9fcc8c
+
+[2018-09-10] DiagnosticReport: History and physical note
+
+[2018-09-10] Encounter: 991a978f-3a2b-2823-6d50-794c5cd7af1c
+
+[2018-12-23] DiagnosticReport: History and physical note
+
+[2018-12-23] DiagnosticReport: History and physical note
+
+[2018-12-23] DiagnosticReport: History and physical note
+
+[2018-12-23] Encounter: 991a978f-3a2b-2823-4591-57851d44d022
+
+[2018-12-23] Encounter: 991a978f-3a2b-2823-5277-faef00792cc5
+
+[2018-12-23] Encounter: 991a978f-3a2b-2823-5c8e-6ab96e1ff2cd
+
+[2018-12-23] Observation: Response to cancer treatment
+
+[2019-04-24] DiagnosticReport: History and physical note
+
+[2019-04-24] Encounter: 991a978f-3a2b-2823-0316-0820ed3fa446
+
+[2019-08-22] DiagnosticReport: History and physical note
+
+[2019-08-22] Encounter: 991a978f-3a2b-2823-7a19-2a317f8a4783
+
+[2019-12-17] DiagnosticReport: History and physical note
+
+[2019-12-17] DiagnosticReport: History and physical note
+
+[2019-12-17] DiagnosticReport: History and physical note
+
+[2019-12-17] Encounter: 991a978f-3a2b-2823-88db-c1943047662e
+
+[2019-12-17] Encounter: 991a978f-3a2b-2823-eb8a-005e8c098577
+
+[2019-12-17] Encounter: 991a978f-3a2b-2823-ec1e-03eed298f4f0
+
+[2019-12-18] Observation: Response to cancer treatment
+
+[2020-04-08] DiagnosticReport: History and physical note
+
+[2020-04-08] Encounter: 991a978f-3a2b-2823-6906-ff31c17829f8
+
+[2020-05-13] DiagnosticReport: History and physical note
+
+[2020-05-13] Encounter: 991a978f-3a2b-2823-7e90-c1360110ef75
+
+[2020-08-09] DiagnosticReport: History and physical note
+
+[2020-08-09] Encounter: 991a978f-3a2b-2823-0933-19a6231417e6
+
+[2020-11-28] DiagnosticReport: History and physical note
+
+[2020-11-28] DiagnosticReport: History and physical note
+
+[2020-11-28] DiagnosticReport: History and physical note
+
+[2020-11-28] Encounter: 991a978f-3a2b-2823-85a2-082b1b9bf7ef
+
+[2020-11-28] Encounter: 991a978f-3a2b-2823-e251-819c8cfe8fbe
+
+[2020-11-28] Encounter: 991a978f-3a2b-2823-fcd7-2016acb0a7ef
+
+[2021-03-31] DiagnosticReport: History and physical note
+
+[2021-03-31] Encounter: 991a978f-3a2b-2823-116e-149b5578d69a
+
+[2021-05-19] DiagnosticReport: History and physical note
+
+[2021-05-19] Encounter: 991a978f-3a2b-2823-e0f3-1f8909014f39
+
+[2021-10-30] DiagnosticReport: History and physical note
+
+[2021-10-30] DiagnosticReport: History and physical note
+
+[2021-10-30] DiagnosticReport: History and physical note
+
+[2021-10-30] Encounter: 991a978f-3a2b-2823-0e5a-c1c8b110365f
+
+[2021-10-30] Encounter: 991a978f-3a2b-2823-1251-74d6caf872de
+
+[2021-10-30] Encounter: 991a978f-3a2b-2823-5fbe-f57c9a9db098
+
+[2022-05-25] DiagnosticReport: History and physical note
+
+[2022-05-25] Encounter: 991a978f-3a2b-2823-e71c-505087bfd595
+
+[2022-10-14] DiagnosticReport: History and physical note
+
+[2022-10-14] DiagnosticReport: History and physical note
+
+[2022-10-14] DiagnosticReport: History and physical note
+
+[2022-10-14] Encounter: 991a978f-3a2b-2823-400d-56d2b12ed4c9
+
+[2022-10-14] Encounter: 991a978f-3a2b-2823-440a-c2c588b1dfe3
+
+[2022-10-14] Encounter: 991a978f-3a2b-2823-8b49-3116c3cd1b8f
+
+[2023-05-31] DiagnosticReport: History and physical note
+
+[2023-05-31] Encounter: 991a978f-3a2b-2823-1f68-240e98bb64ca
+
+[2023-10-13] DiagnosticReport: History and physical note
+
+[2023-10-13] DiagnosticReport: History and physical note
+
+[2023-10-13] DiagnosticReport: History and physical note
+
+[2023-10-13] Encounter: 991a978f-3a2b-2823-3ab3-242a08849983
+
+[2023-10-13] Encounter: 991a978f-3a2b-2823-eadd-58af26a79e6a
+
+[2023-10-13] Encounter: 991a978f-3a2b-2823-ec1a-179d28791790
+
+[2024-06-05] DiagnosticReport: History and physical note
+
+[2024-06-05] Encounter: 991a978f-3a2b-2823-c8a0-a41abb8ea13c
+
+[2024-09-17] DiagnosticReport: History and physical note
+
+[2024-09-17] DiagnosticReport: History and physical note
+
+[2024-09-17] DiagnosticReport: History and physical note
+
+[2024-09-17] Encounter: 991a978f-3a2b-2823-4344-b9f2f84a6f81
+
+[2024-09-17] Encounter: 991a978f-3a2b-2823-70ce-03e807479be0
+
+[2024-09-17] Encounter: 991a978f-3a2b-2823-aea6-469aa3984fc3
+
+[2025-06-11] DiagnosticReport: History and physical note
+
+[2025-06-11] Encounter: 991a978f-3a2b-2823-1333-b1cf64617ecf
+
+[2025-10-04] DiagnosticReport: History and physical note
+
+[2025-10-04] DiagnosticReport: History and physical note
+
+[2025-10-04] DiagnosticReport: History and physical note
+
+[2025-10-04] Encounter: 991a978f-3a2b-2823-0c38-e50f54a857cd
+
+[2025-10-04] Encounter: 991a978f-3a2b-2823-adb5-63f3bcc484fe
+
+[2025-10-04] Encounter: 991a978f-3a2b-2823-f492-38cbf1ed9a3d

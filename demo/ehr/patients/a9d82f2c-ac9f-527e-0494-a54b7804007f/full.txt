@@ -1,0 +1,266 @@
+# EHR Timeline
+Patient: Ignacia942 Terresa418 Hills818
+Patient ID: a9d82f2c-ac9f-527e-0494-a54b7804007f
+
+
+MedicationRequest: a9d82f2c-ac9f-527e-07ae-abe8096c8ceb
+
+MedicationRequest: a9d82f2c-ac9f-527e-0b02-ab4ec056ac50
+
+MedicationRequest: a9d82f2c-ac9f-527e-1324-10434f191365
+
+MedicationRequest: a9d82f2c-ac9f-527e-1c84-5e59457c491c
+
+MedicationRequest: a9d82f2c-ac9f-527e-1d26-6945600f22d7
+
+MedicationRequest: a9d82f2c-ac9f-527e-24bc-76d9701b204d
+
+MedicationRequest: a9d82f2c-ac9f-527e-3081-8e3249588e03
+
+MedicationRequest: a9d82f2c-ac9f-527e-3b1f-a688b3181ae6
+
+MedicationRequest: a9d82f2c-ac9f-527e-4c31-4f284334c942
+
+MedicationRequest: a9d82f2c-ac9f-527e-4eba-93be5e0c4fc5
+
+MedicationRequest: a9d82f2c-ac9f-527e-712e-abdb3c27a7a2
+
+MedicationRequest: a9d82f2c-ac9f-527e-7861-37514ec66179
+
+MedicationRequest: a9d82f2c-ac9f-527e-8478-85e10f7c6d56
+
+MedicationRequest: a9d82f2c-ac9f-527e-881b-1754dacd207c
+
+MedicationRequest: a9d82f2c-ac9f-527e-ba42-69b59435ece2
+
+MedicationRequest: a9d82f2c-ac9f-527e-bd57-f4ba174a6659
+
+MedicationRequest: a9d82f2c-ac9f-527e-e13e-1fd3c424a584
+
+MedicationRequest: a9d82f2c-ac9f-527e-e76b-4fb2027e3a3d
+
+Patient: Ignacia942 Terresa418 Hills818 (id: a9d82f2c-ac9f-527e-0494-a54b7804007f)
+
+Procedure: Biopsy of breast (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Discussion about options (procedure)
+
+Procedure: Excision of sentinel lymph node (procedure)
+
+Procedure: Human epidermal growth factor receptor 2 gene detection by fluorescence in situ hybridization (procedure)
+
+Procedure: Human epidermal growth factor receptor 2 gene detection by immunohistochemistry (procedure)
+
+Procedure: Lumpectomy of breast (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Screening mammography (procedure)
+
+Procedure: Sentinel lymph node biopsy (procedure)
+
+Procedure: Ultrasonography of bilateral breasts (procedure)
+
+[2007-05-02] DiagnosticReport: History and physical note
+
+[2007-05-02] Encounter: a9d82f2c-ac9f-527e-b1db-544f36d47592
+
+[2008-05-07] DiagnosticReport: History and physical note
+
+[2008-05-07] Encounter: a9d82f2c-ac9f-527e-50c8-a62d6cb9e514
+
+[2009-05-13] DiagnosticReport: History and physical note
+
+[2009-05-13] Encounter: a9d82f2c-ac9f-527e-6026-87adf9c3720d
+
+[2010-05-19] DiagnosticReport: History and physical note
+
+[2010-05-19] Encounter: a9d82f2c-ac9f-527e-dee8-08c2dfe8b7a4
+
+[2011-05-25] DiagnosticReport: History and physical note
+
+[2011-05-25] Encounter: a9d82f2c-ac9f-527e-3617-e992e8a64d8d
+
+[2012-05-30] DiagnosticReport: History and physical note
+
+[2012-05-30] Encounter: a9d82f2c-ac9f-527e-886e-83b29ada0f67
+
+[2013-06-05] DiagnosticReport: History and physical note
+
+[2013-06-05] Encounter: a9d82f2c-ac9f-527e-33c7-6ec2c8786393
+
+[2014-06-11] DiagnosticReport: History and physical note
+
+[2014-06-11] Encounter: a9d82f2c-ac9f-527e-a749-038120ebeff3
+
+[2015-02-05] Condition: Malignant neoplasm of breast (disorder)
+
+[2015-02-05] DiagnosticReport: History and physical note
+
+[2015-02-05] Encounter: a9d82f2c-ac9f-527e-a6ff-99c2559ec2d9
+
+[2015-02-05] Observation: Distant metastases.clinical [Class] Cancer
+
+[2015-02-05] Observation: Lymph nodes with micrometastases [#] in Cancer specimen by Light microscopy
+
+[2015-02-05] Observation: Primary tumor.clinical [Class] Cancer
+
+[2015-02-05] Observation: Regional lymph nodes.clinical [Class] Cancer
+
+[2015-02-05] Observation: Site of distant metastasis in Breast tumor
+
+[2015-02-05] Observation: Size.maximum dimension in Tumor
+
+[2015-02-06] Observation: ERBB2 gene duplication [Presence] in Breast cancer specimen by FISH
+
+[2015-02-06] Observation: Estrogen receptor Ag [Presence] in Breast cancer specimen by Immune stain
+
+[2015-02-06] Observation: Estrogen+Progesterone receptor Ag [Presence] in Tissue by Immune stain
+
+[2015-02-06] Observation: HER2 [Presence] in Breast cancer specimen by Immune stain
+
+[2015-02-06] Observation: Progesterone receptor Ag [Presence] in Breast cancer specimen by Immune stain
+
+[2015-02-06] Observation: Stage group.clinical Cancer
+
+[2015-02-06] Observation: Stage group.clinical Cancer
+
+[2015-02-12] DiagnosticReport: History and physical note
+
+[2015-02-12] Encounter: a9d82f2c-ac9f-527e-f47b-c984463b6290
+
+[2015-02-15] DiagnosticReport: History and physical note
+
+[2015-02-15] Encounter: a9d82f2c-ac9f-527e-17d6-6623900b2a81
+
+[2015-03-07] DiagnosticReport: History and physical note
+
+[2015-03-07] Encounter: a9d82f2c-ac9f-527e-031f-369c99553d5d
+
+[2015-03-28] DiagnosticReport: History and physical note
+
+[2015-03-28] Encounter: a9d82f2c-ac9f-527e-cba0-21ba5f616537
+
+[2015-04-20] DiagnosticReport: History and physical note
+
+[2015-04-20] Encounter: a9d82f2c-ac9f-527e-5ad3-7714da3bc0ab
+
+[2015-05-09] DiagnosticReport: History and physical note
+
+[2015-05-09] Encounter: a9d82f2c-ac9f-527e-ee43-5383820cf45c
+
+[2015-05-31] DiagnosticReport: History and physical note
+
+[2015-05-31] Encounter: a9d82f2c-ac9f-527e-e27e-1509d25378b6
+
+[2015-06-17] DiagnosticReport: History and physical note
+
+[2015-06-17] Encounter: a9d82f2c-ac9f-527e-d265-805faabadb15
+
+[2015-06-20] DiagnosticReport: History and physical note
+
+[2015-06-20] Encounter: a9d82f2c-ac9f-527e-7646-af32d8510f57
+
+[2015-07-13] DiagnosticReport: History and physical note
+
+[2015-07-13] Encounter: a9d82f2c-ac9f-527e-afbd-2b861de020ac
+
+[2015-08-16] DiagnosticReport: History and physical note
+
+[2015-08-16] Encounter: a9d82f2c-ac9f-527e-eb2c-59601440bd0d
+
+[2015-08-16] Observation: Response to cancer treatment
+
+[2015-08-25] DiagnosticReport: History and physical note
+
+[2015-08-25] Encounter: a9d82f2c-ac9f-527e-7540-085ad00045e9
+
+[2015-09-15] DiagnosticReport: History and physical note
+
+[2015-09-15] Encounter: a9d82f2c-ac9f-527e-5367-67ef1a1e9823
+
+[2015-10-04] DiagnosticReport: History and physical note
+
+[2015-10-04] Encounter: a9d82f2c-ac9f-527e-ce0c-ae45eaf1b530
+
+[2015-10-26] DiagnosticReport: History and physical note
+
+[2015-10-26] Encounter: a9d82f2c-ac9f-527e-42b2-1b0c03b32805
+
+[2015-11-15] DiagnosticReport: History and physical note
+
+[2015-11-15] Encounter: a9d82f2c-ac9f-527e-0787-b4371f26f11d
+
+[2015-12-07] DiagnosticReport: History and physical note
+
+[2015-12-07] Encounter: a9d82f2c-ac9f-527e-b274-4e895fb64514
+
+[2015-12-29] DiagnosticReport: History and physical note
+
+[2015-12-29] Encounter: a9d82f2c-ac9f-527e-699a-07f6eb13d09a
+
+[2016-01-21] DiagnosticReport: History and physical note
+
+[2016-01-21] Encounter: a9d82f2c-ac9f-527e-aa0e-98ad6d49cf17
+
+[2016-01-23] DiagnosticReport: History and physical note
+
+[2016-01-23] Encounter: a9d82f2c-ac9f-527e-a74c-ad713fdbec42
+
+[2016-01-23] Observation: Response to cancer treatment
+
+[2016-01-23] Observation: Treatment status Cancer
+
+[2016-04-30] DiagnosticReport: History and physical note
+
+[2016-04-30] Encounter: a9d82f2c-ac9f-527e-c652-af8d9f1605c0
+
+[2016-06-22] DiagnosticReport: History and physical note
+
+[2016-06-22] Encounter: a9d82f2c-ac9f-527e-3191-7489fbc38939
+
+[2016-08-17] DiagnosticReport: History and physical note
+
+[2016-08-17] Encounter: a9d82f2c-ac9f-527e-188a-071b392ce889
+
+[2016-09-07] DiagnosticReport: History and physical note
+
+[2016-09-07] DiagnosticReport: U.S. standard certificate of death - 2003 revision
+
+[2016-09-07] Encounter: a9d82f2c-ac9f-527e-7330-525c424cf85a
+
+[2016-09-07] Observation: Cause of Death [US Standard Certificate of Death]

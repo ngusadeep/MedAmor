@@ -1,0 +1,160 @@
+# EHR Timeline
+Patient: Delorse592 Velda682 Borer986
+Patient ID: e3451393-72c9-075e-19c0-eb5b2825af44
+
+
+MedicationRequest: e3451393-72c9-075e-1f50-1336789f7ad7
+
+MedicationRequest: e3451393-72c9-075e-247c-48d461c0b733
+
+MedicationRequest: e3451393-72c9-075e-3ce7-3e959b4b101b
+
+MedicationRequest: e3451393-72c9-075e-4d90-928dc416859b
+
+MedicationRequest: e3451393-72c9-075e-966e-538778e115df
+
+MedicationRequest: e3451393-72c9-075e-d4ba-a693e54ec33f
+
+MedicationRequest: e3451393-72c9-075e-e4ae-9c8599a08d2a
+
+MedicationRequest: e3451393-72c9-075e-ead1-6134e6126de9
+
+MedicationRequest: e3451393-72c9-075e-f6fd-9eb0077657a4
+
+MedicationRequest: e3451393-72c9-075e-f996-a83113813861
+
+Patient: Delorse592 Velda682 Borer986 (id: e3451393-72c9-075e-19c0-eb5b2825af44)
+
+Procedure: Biopsy of breast (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Discussion about options (procedure)
+
+Procedure: Excision of axillary lymph node (procedure)
+
+Procedure: Human epidermal growth factor receptor 2 gene detection by fluorescence in situ hybridization (procedure)
+
+Procedure: Human epidermal growth factor receptor 2 gene detection by immunohistochemistry (procedure)
+
+Procedure: Lumpectomy of breast (procedure)
+
+Procedure: Screening mammography (procedure)
+
+Procedure: Ultrasonography of bilateral breasts (procedure)
+
+[1988-01-13] DiagnosticReport: History and physical note
+
+[1988-01-13] Encounter: e3451393-72c9-075e-15e2-10615c4c66ba
+
+[1991-01-16] DiagnosticReport: History and physical note
+
+[1991-01-16] Encounter: e3451393-72c9-075e-4ab0-83dd3e2e27e2
+
+[1994-01-19] DiagnosticReport: History and physical note
+
+[1994-01-19] Encounter: e3451393-72c9-075e-c2a5-7fc8ad6b36d2
+
+[1995-10-22] Condition: Malignant neoplasm of breast (disorder)
+
+[1995-10-22] DiagnosticReport: History and physical note
+
+[1995-10-22] Encounter: e3451393-72c9-075e-2697-4c8c8b61eaff
+
+[1995-10-22] Observation: Distant metastases.clinical [Class] Cancer
+
+[1995-10-22] Observation: Lymph nodes with macrometastases [#] in Cancer specimen by Light microscopy
+
+[1995-10-22] Observation: Primary tumor.clinical [Class] Cancer
+
+[1995-10-22] Observation: Regional lymph nodes.clinical [Class] Cancer
+
+[1995-10-22] Observation: Size.maximum dimension in Tumor
+
+[1995-10-24] Observation: ERBB2 gene duplication [Presence] in Breast cancer specimen by FISH
+
+[1995-10-24] Observation: Estrogen receptor Ag [Presence] in Breast cancer specimen by Immune stain
+
+[1995-10-24] Observation: Estrogen+Progesterone receptor Ag [Presence] in Tissue by Immune stain
+
+[1995-10-24] Observation: HER2 [Presence] in Breast cancer specimen by Immune stain
+
+[1995-10-24] Observation: Progesterone receptor Ag [Presence] in Breast cancer specimen by Immune stain
+
+[1995-10-24] Observation: Stage group.clinical Cancer
+
+[1995-10-28] DiagnosticReport: History and physical note
+
+[1995-10-28] Encounter: e3451393-72c9-075e-7fa4-d979ad9bfcdb
+
+[1995-10-31] DiagnosticReport: History and physical note
+
+[1995-10-31] Encounter: e3451393-72c9-075e-0b9f-6bd95ef7deed
+
+[1995-11-22] DiagnosticReport: History and physical note
+
+[1995-11-22] Encounter: e3451393-72c9-075e-6be0-f3fd03c82041
+
+[1995-12-14] DiagnosticReport: History and physical note
+
+[1995-12-14] Encounter: e3451393-72c9-075e-af92-9627cdfc6ecd
+
+[1996-01-05] DiagnosticReport: History and physical note
+
+[1996-01-05] Encounter: e3451393-72c9-075e-cba4-0072bfeeb54e
+
+[1996-01-28] DiagnosticReport: History and physical note
+
+[1996-01-28] Encounter: e3451393-72c9-075e-eacf-5f00b8b1b750
+
+[1996-02-17] DiagnosticReport: History and physical note
+
+[1996-02-17] Encounter: e3451393-72c9-075e-6485-7af5a9485c0c
+
+[1996-03-09] DiagnosticReport: History and physical note
+
+[1996-03-09] Encounter: e3451393-72c9-075e-15d0-c17982179d90
+
+[1996-03-28] DiagnosticReport: History and physical note
+
+[1996-03-28] Encounter: e3451393-72c9-075e-da2b-cc4401e23676
+
+[1996-04-26] DiagnosticReport: History and physical note
+
+[1996-04-26] Encounter: e3451393-72c9-075e-9f64-3003200152ae
+
+[1996-04-26] Observation: Response to cancer treatment
+
+[1996-05-14] DiagnosticReport: History and physical note
+
+[1996-05-14] Encounter: e3451393-72c9-075e-9d66-e4109af18389
+
+[1996-06-05] DiagnosticReport: History and physical note
+
+[1996-06-05] Encounter: e3451393-72c9-075e-72d6-3cca64f961f3
+
+[1996-06-19] DiagnosticReport: History and physical note
+
+[1996-06-19] DiagnosticReport: U.S. standard certificate of death - 2003 revision
+
+[1996-06-19] Encounter: e3451393-72c9-075e-08b7-5a5cb914cb49
+
+[1996-06-19] Observation: Cause of Death [US Standard Certificate of Death]

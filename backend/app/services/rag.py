@@ -1,32 +1,52 @@
-"""RAG: index Medical_KB markdown into Qdrant, retrieve context for audit engine.
+"""RAG: index Medical_KB markdown into ChromaDB, retrieve context for audit engine.
 
-Phase 2: 384–768 token chunks, document_type metadata, retrieval with optional patient context.
+Uses ChromaDB for vector store; embedding via FastEmbed (bge-small) or OpenAI text-embedding-3-small.
 """
 
 from pathlib import Path
 
+import chromadb
+from langchain_chroma import Chroma
 from langchain_community.embeddings.fastembed import FastEmbedEmbeddings
+from langchain_core.documents import Document
+from langchain_core.embeddings import Embeddings
+from langchain_openai import OpenAIEmbeddings
 from langchain_text_splitters import RecursiveCharacterTextSplitter
-from qdrant_client import QdrantClient
-from qdrant_client.models import Distance, PointStruct, VectorParams
 
 from app.core.config import settings
 
 COLLECTION_NAME = "medaudit_kb"
-# ~512 tokens at ~4 chars/token (Phase 2.1: 384–768 token chunks)
 CHUNK_SIZE = 2048
 CHUNK_OVERLAP = 256
-DOCUMENT_TYPES = ("Documentation", "SOPs", "User_Manuals", "FAQs")
+DOCUMENT_TYPES = ("Documentation", "SOPs", "User_Manuals", "FAQs", "Clinical_Guidelines")
 
 
-def _get_qdrant_client() -> QdrantClient:
-    url = settings.qdrant_url
-    api_key = settings.qdrant_api_key
-    return QdrantClient(url=url, api_key=api_key or None)
-
-
-def _get_embeddings() -> FastEmbedEmbeddings:
+def _get_embeddings() -> Embeddings:
+    """Return embedding model: OpenAI text-embedding-3-small if configured, else FastEmbed bge-small."""
+    if settings.embedding_provider == "openai" and settings.openai_api_key:
+        return OpenAIEmbeddings(
+            model=settings.openai_embedding_model,
+            openai_api_key=settings.openai_api_key,
+        )
     return FastEmbedEmbeddings(model_name="BAAI/bge-small-en-v1.5")
+
+
+def _get_chroma_persist_dir() -> Path:
+    return Path(settings.chroma_persist_dir).resolve()
+
+
+def _get_chroma_client() -> chromadb.PersistentClient:
+    return chromadb.PersistentClient(path=str(_get_chroma_persist_dir()))
+
+
+def _get_chroma_store() -> Chroma:
+    """Chroma vector store with persistent storage."""
+    client = _get_chroma_client()
+    return Chroma(
+        client=client,
+        collection_name=COLLECTION_NAME,
+        embedding_function=_get_embeddings(),
+    )
 
 
 def _document_type_from_path(rel_path: Path) -> str | None:
@@ -38,8 +58,7 @@ def _document_type_from_path(rel_path: Path) -> str | None:
 
 
 def load_kb_documents(kb_path: Path) -> list[tuple[str, dict]]:
-    """Load all .md files under kb_path; return (content, metadata) per file.
-    Metadata: source, path, document_name, document_type (from folder)."""
+    """Load all .md files under kb_path; return (content, metadata) per file."""
     docs: list[tuple[str, dict]] = []
     if not kb_path.exists():
         return docs
@@ -62,7 +81,7 @@ def load_kb_documents(kb_path: Path) -> list[tuple[str, dict]]:
 
 def index_kb() -> dict:
     """
-    Chunk Medical_KB markdown, embed with FastEmbed, upsert to Qdrant.
+    Chunk Medical_KB markdown, embed, and persist to ChromaDB.
     Returns counts and any error message.
     """
     kb_path = settings.medical_kb_path_resolved
@@ -75,45 +94,36 @@ def index_kb() -> dict:
         chunk_overlap=CHUNK_OVERLAP,
         separators=["\n## ", "\n### ", "\n\n", "\n", " "],
     )
-    texts: list[str] = []
-    metadatas: list[dict] = []
+    documents: list[Document] = []
     for content, meta in raw:
         chunks = splitter.split_text(content)
         for c in chunks:
-            texts.append(c)
-            metadatas.append(meta.copy())
+            documents.append(
+                Document(
+                    page_content=c,
+                    metadata={
+                        "source": meta.get("source", ""),
+                        "document_name": meta.get("document_name", ""),
+                        "document_type": meta.get("document_type", ""),
+                    },
+                )
+            )
 
-    if not texts:
+    if not documents:
         return {"indexed": len(raw), "chunks": 0}
 
-    client = _get_qdrant_client()
-    embeddings_model = _get_embeddings()
-    dim = len(embeddings_model.embed_query("dummy"))
+    persist_dir = _get_chroma_persist_dir()
+    persist_dir.mkdir(parents=True, exist_ok=True)
 
-    if client.collection_exists(COLLECTION_NAME):
+    client = _get_chroma_client()
+    try:
         client.delete_collection(COLLECTION_NAME)
-    client.create_collection(
-        collection_name=COLLECTION_NAME,
-        vectors_config=VectorParams(size=dim, distance=Distance.COSINE),
-    )
+    except Exception:
+        pass
+    vectorstore = _get_chroma_store()
+    vectorstore.add_documents(documents)
 
-    vectors = embeddings_model.embed_documents(texts)
-    points = [
-        PointStruct(
-            id=i,
-            vector=v,
-            payload={
-                "text": t,
-                "source": m.get("source", ""),
-                "document_name": m.get("document_name", ""),
-                "document_type": m.get("document_type", ""),
-            },
-        )
-        for i, (v, t, m) in enumerate(zip(vectors, texts, metadatas))
-    ]
-    client.upsert(collection_name=COLLECTION_NAME, points=points)
-
-    return {"indexed": len(raw), "chunks": len(texts)}
+    return {"indexed": len(raw), "chunks": len(documents)}
 
 
 def retrieve(query: str, k: int = 5) -> list[dict]:
@@ -121,26 +131,21 @@ def retrieve(query: str, k: int = 5) -> list[dict]:
     Retrieve top-k relevant KB chunks for the query.
     Returns list of {"text", "source", "document_name", "document_type", "score"}.
     """
-    client = _get_qdrant_client()
-    if not client.collection_exists(COLLECTION_NAME):
+    vectorstore = _get_chroma_store()
+    try:
+        results = vectorstore.similarity_search_with_score(query, k=k)
+    except Exception:
         return []
 
-    embeddings_model = _get_embeddings()
-    query_vector = embeddings_model.embed_query(query)
-    results = client.search(
-        collection_name=COLLECTION_NAME,
-        query_vector=query_vector,
-        limit=k,
-    )
     return [
         {
-            "text": hit.payload.get("text", ""),
-            "source": hit.payload.get("source", ""),
-            "document_name": hit.payload.get("document_name", ""),
-            "document_type": hit.payload.get("document_type", ""),
-            "score": float(hit.score) if hit.score is not None else 0.0,
+            "text": doc.page_content,
+            "source": doc.metadata.get("source", ""),
+            "document_name": doc.metadata.get("document_name", ""),
+            "document_type": doc.metadata.get("document_type", ""),
+            "score": float(score) if score is not None else 0.0,
         }
-        for hit in results
+        for doc, score in results
     ]
 
 
@@ -151,7 +156,7 @@ def retrieve_with_patient_context(
     export_type: str = "full",
 ) -> dict:
     """
-    Retrieve KB chunks and optionally patient EHR excerpt (Phase 2.4).
+    Retrieve KB chunks and optionally patient EHR excerpt.
     Returns {"query", "kb_chunks": [...], "patient_ehr_excerpt": str | None}.
     """
     kb_chunks = retrieve(query, k=k)
@@ -161,7 +166,6 @@ def retrieve_with_patient_context(
 
         bundle = get_patient_bundle(patient_id, export_type)
         if bundle and bundle.ehr_text:
-            # Truncate for context window; audit engine may truncate again
             patient_ehr_excerpt = bundle.ehr_text[:20000]
     return {
         "query": query,

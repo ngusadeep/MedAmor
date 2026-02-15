@@ -1,0 +1,172 @@
+# EHR Timeline
+Patient: Kristen940 Ledner144
+Patient ID: ee2f6b16-6878-083a-e374-344398a9a913
+
+
+MedicationRequest: ee2f6b16-6878-083a-2e4a-c993285312c1
+
+MedicationRequest: ee2f6b16-6878-083a-543b-b36ee45976e4
+
+MedicationRequest: ee2f6b16-6878-083a-5ac3-383ede2e10c1
+
+MedicationRequest: ee2f6b16-6878-083a-6749-2d9dee2294b8
+
+MedicationRequest: ee2f6b16-6878-083a-7772-440e8b58d6fe
+
+MedicationRequest: ee2f6b16-6878-083a-8978-5742ecc630e1
+
+MedicationRequest: ee2f6b16-6878-083a-ae9a-d7a3fc768658
+
+MedicationRequest: ee2f6b16-6878-083a-b104-f2252b6d549e
+
+MedicationRequest: ee2f6b16-6878-083a-bf9f-cbd8fd79db36
+
+MedicationRequest: ee2f6b16-6878-083a-e140-ce55be372b33
+
+Patient: Kristen940 Ledner144 (id: ee2f6b16-6878-083a-e374-344398a9a913)
+
+Procedure: Biopsy of breast (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Discussion about options (procedure)
+
+Procedure: Excision of lesion of breast (procedure)
+
+Procedure: Human epidermal growth factor receptor 2 gene detection by fluorescence in situ hybridization (procedure)
+
+Procedure: Human epidermal growth factor receptor 2 gene detection by immunohistochemistry (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Screening mammography (procedure)
+
+Procedure: Ultrasonography of bilateral breasts (procedure)
+
+[2016-04-28] DiagnosticReport: History and physical note
+
+[2016-04-28] Encounter: ee2f6b16-6878-083a-825a-9203dd129025
+
+[2019-05-02] DiagnosticReport: History and physical note
+
+[2019-05-02] Encounter: ee2f6b16-6878-083a-1a7c-fe53b6681d1d
+
+[2021-07-29] DiagnosticReport: History and physical note
+
+[2021-07-29] Encounter: ee2f6b16-6878-083a-55fe-fdd245137f9f
+
+[2021-08-26] DiagnosticReport: History and physical note
+
+[2021-08-26] Encounter: ee2f6b16-6878-083a-5478-54eb2ccbb7a2
+
+[2022-02-17] DiagnosticReport: History and physical note
+
+[2022-02-17] Encounter: ee2f6b16-6878-083a-ba65-c6f2c273bac6
+
+[2024-02-22] DiagnosticReport: History and physical note
+
+[2024-02-22] Encounter: ee2f6b16-6878-083a-7714-ae36ce4a8466
+
+[2024-11-28] Condition: Malignant neoplasm of breast (disorder)
+
+[2024-11-28] DiagnosticReport: History and physical note
+
+[2024-11-28] Encounter: ee2f6b16-6878-083a-307d-10c131711a66
+
+[2024-11-28] Observation: Distant metastases.clinical [Class] Cancer
+
+[2024-11-28] Observation: Lymph nodes with isolated tumor cells [#] in Cancer specimen by Light microscopy
+
+[2024-11-28] Observation: Primary tumor.clinical [Class] Cancer
+
+[2024-11-28] Observation: Regional lymph nodes.clinical [Class] Cancer
+
+[2024-11-28] Observation: Site of distant metastasis in Breast tumor
+
+[2024-11-28] Observation: Size.maximum dimension in Tumor
+
+[2024-11-29] Observation: ERBB2 gene duplication [Presence] in Breast cancer specimen by FISH
+
+[2024-11-29] Observation: Estrogen receptor Ag [Presence] in Breast cancer specimen by Immune stain
+
+[2024-11-29] Observation: Estrogen+Progesterone receptor Ag [Presence] in Tissue by Immune stain
+
+[2024-11-29] Observation: HER2 [Presence] in Breast cancer specimen by Immune stain
+
+[2024-11-29] Observation: Progesterone receptor Ag [Presence] in Breast cancer specimen by Immune stain
+
+[2024-11-29] Observation: Stage group.clinical Cancer
+
+[2024-11-29] Observation: Stage group.clinical Cancer
+
+[2024-12-01] DiagnosticReport: History and physical note
+
+[2024-12-01] Encounter: ee2f6b16-6878-083a-a7ea-da00a36d167f
+
+[2024-12-03] DiagnosticReport: History and physical note
+
+[2024-12-03] Encounter: ee2f6b16-6878-083a-f10f-4e2829819e5c
+
+[2024-12-16] DiagnosticReport: History and physical note
+
+[2024-12-16] Encounter: ee2f6b16-6878-083a-ff8c-7f5dfd345f11
+
+[2025-01-06] DiagnosticReport: History and physical note
+
+[2025-01-06] Encounter: ee2f6b16-6878-083a-0671-35db4c23c6ca
+
+[2025-01-26] DiagnosticReport: History and physical note
+
+[2025-01-26] Encounter: ee2f6b16-6878-083a-4026-70cb044b6d98
+
+[2025-02-16] DiagnosticReport: History and physical note
+
+[2025-02-16] Encounter: ee2f6b16-6878-083a-21b0-0215d3a53394
+
+[2025-03-11] DiagnosticReport: History and physical note
+
+[2025-03-11] Encounter: ee2f6b16-6878-083a-cd32-186ca19c5a81
+
+[2025-03-31] DiagnosticReport: History and physical note
+
+[2025-03-31] Encounter: ee2f6b16-6878-083a-575f-dc3c92decf05
+
+[2025-04-21] DiagnosticReport: History and physical note
+
+[2025-04-21] Encounter: ee2f6b16-6878-083a-d210-f59bc7cb138a
+
+[2025-05-14] DiagnosticReport: History and physical note
+
+[2025-05-14] Encounter: ee2f6b16-6878-083a-ab42-d797b20233a2
+
+[2025-05-21] DiagnosticReport: History and physical note
+
+[2025-05-21] Encounter: ee2f6b16-6878-083a-1978-649db2581907
+
+[2025-05-21] Observation: Response to cancer treatment
+
+[2025-05-21] Observation: Treatment status Cancer
+
+[2025-09-10] DiagnosticReport: History and physical note
+
+[2025-09-10] Encounter: ee2f6b16-6878-083a-89ef-e547aa61d873
+
+[2026-01-05] DiagnosticReport: History and physical note
+
+[2026-01-05] Encounter: ee2f6b16-6878-083a-3f94-89933dff68f0

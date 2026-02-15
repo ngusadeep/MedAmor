@@ -1,0 +1,236 @@
+# EHR Timeline
+Patient: Simonne139 Bobbye345 Ratke343
+Patient ID: 8581e185-9815-e1f7-8e1f-2e31e402cf6a
+
+
+Patient: Simonne139 Bobbye345 Ratke343 (id: 8581e185-9815-e1f7-8e1f-2e31e402cf6a)
+
+Procedure: Bone density scan (procedure)
+
+Procedure: Bone density scan (procedure)
+
+Procedure: Bone density scan (procedure)
+
+Procedure: Bone density scan (procedure)
+
+Procedure: Bone density scan (procedure)
+
+Procedure: Bone density scan (procedure)
+
+Procedure: Bone density scan (procedure)
+
+Procedure: Bone density scan (procedure)
+
+Procedure: Bone density scan (procedure)
+
+Procedure: Bone density scan (procedure)
+
+Procedure: Mammography (procedure)
+
+Procedure: Mammography (procedure)
+
+Procedure: Mammography (procedure)
+
+Procedure: Mammography (procedure)
+
+Procedure: Mammography (procedure)
+
+Procedure: Mammography (procedure)
+
+Procedure: Mammography (procedure)
+
+Procedure: Mammography (procedure)
+
+Procedure: Mammography (procedure)
+
+Procedure: Mammography (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+[1966-06-19] Condition: Malignant neoplasm of breast (disorder)
+
+[1966-06-19] DiagnosticReport: History and physical note
+
+[1966-06-19] Encounter: 8581e185-9815-e1f7-4242-cd300ccf37cb
+
+[2016-06-04] DiagnosticReport: History and physical note
+
+[2016-06-04] DiagnosticReport: History and physical note
+
+[2016-06-04] DiagnosticReport: History and physical note
+
+[2016-06-04] Encounter: 8581e185-9815-e1f7-7cee-cfcf8957bd33
+
+[2016-06-04] Encounter: 8581e185-9815-e1f7-c01a-4832c74d4082
+
+[2016-06-04] Encounter: 8581e185-9815-e1f7-eaf2-7c8ad70ce16b
+
+[2017-02-03] DiagnosticReport: History and physical note
+
+[2017-02-03] Encounter: 8581e185-9815-e1f7-3f80-56a79c1436aa
+
+[2017-05-16] DiagnosticReport: History and physical note
+
+[2017-05-16] DiagnosticReport: History and physical note
+
+[2017-05-16] DiagnosticReport: History and physical note
+
+[2017-05-16] Encounter: 8581e185-9815-e1f7-55ba-78f9211392b2
+
+[2017-05-16] Encounter: 8581e185-9815-e1f7-b1a9-c3e5b0ecbefa
+
+[2017-05-16] Encounter: 8581e185-9815-e1f7-d70c-85f7e0232825
+
+[2018-02-09] DiagnosticReport: History and physical note
+
+[2018-02-09] Encounter: 8581e185-9815-e1f7-a872-f475e5bc1465
+
+[2018-05-13] DiagnosticReport: History and physical note
+
+[2018-05-13] DiagnosticReport: History and physical note
+
+[2018-05-13] DiagnosticReport: History and physical note
+
+[2018-05-13] Encounter: 8581e185-9815-e1f7-3141-d7272e5a4ee6
+
+[2018-05-13] Encounter: 8581e185-9815-e1f7-df76-cf864500fbc5
+
+[2018-05-13] Encounter: 8581e185-9815-e1f7-fb71-420a62cb930e
+
+[2019-02-15] DiagnosticReport: History and physical note
+
+[2019-02-15] Encounter: 8581e185-9815-e1f7-d378-6673342814b6
+
+[2019-04-27] DiagnosticReport: History and physical note
+
+[2019-04-27] DiagnosticReport: History and physical note
+
+[2019-04-27] DiagnosticReport: History and physical note
+
+[2019-04-27] Encounter: 8581e185-9815-e1f7-0963-8e004aee0ff0
+
+[2019-04-27] Encounter: 8581e185-9815-e1f7-951c-b77e506a8031
+
+[2019-04-27] Encounter: 8581e185-9815-e1f7-dbfe-dcee433a3c5f
+
+[2020-02-21] DiagnosticReport: History and physical note
+
+[2020-02-21] Encounter: 8581e185-9815-e1f7-0efb-8f79745f839e
+
+[2020-05-17] DiagnosticReport: History and physical note
+
+[2020-05-17] DiagnosticReport: History and physical note
+
+[2020-05-17] DiagnosticReport: History and physical note
+
+[2020-05-17] Encounter: 8581e185-9815-e1f7-00df-c1b8be785307
+
+[2020-05-17] Encounter: 8581e185-9815-e1f7-c5b7-5a55afb8c3ea
+
+[2020-05-17] Encounter: 8581e185-9815-e1f7-f9be-6334fd90fdad
+
+[2021-02-26] DiagnosticReport: History and physical note
+
+[2021-02-26] Encounter: 8581e185-9815-e1f7-e692-cb754bdf3ef0
+
+[2021-06-01] DiagnosticReport: History and physical note
+
+[2021-06-01] DiagnosticReport: History and physical note
+
+[2021-06-01] DiagnosticReport: History and physical note
+
+[2021-06-01] Encounter: 8581e185-9815-e1f7-36fb-638aa6ff68db
+
+[2021-06-01] Encounter: 8581e185-9815-e1f7-7fdf-5ed1c2d8519b
+
+[2021-06-01] Encounter: 8581e185-9815-e1f7-b00f-d4c1b9b5c4c8
+
+[2021-07-16] DiagnosticReport: History and physical note
+
+[2021-07-16] Encounter: 8581e185-9815-e1f7-eb8c-3fd81a929b98
+
+[2021-08-06] DiagnosticReport: History and physical note
+
+[2021-08-06] Encounter: 8581e185-9815-e1f7-2285-25da7ed4b5e3
+
+[2022-03-04] DiagnosticReport: History and physical note
+
+[2022-03-04] Encounter: 8581e185-9815-e1f7-46b8-037daa5efbd3
+
+[2022-04-28] DiagnosticReport: History and physical note
+
+[2022-04-28] DiagnosticReport: History and physical note
+
+[2022-04-28] DiagnosticReport: History and physical note
+
+[2022-04-28] Encounter: 8581e185-9815-e1f7-0eb5-e83422cc8354
+
+[2022-04-28] Encounter: 8581e185-9815-e1f7-d930-e321248c4c3c
+
+[2022-04-28] Encounter: 8581e185-9815-e1f7-fe70-ed945547a949
+
+[2023-03-10] DiagnosticReport: History and physical note
+
+[2023-03-10] Encounter: 8581e185-9815-e1f7-5370-3dae6e41e2f8
+
+[2023-05-21] DiagnosticReport: History and physical note
+
+[2023-05-21] DiagnosticReport: History and physical note
+
+[2023-05-21] DiagnosticReport: History and physical note
+
+[2023-05-21] Encounter: 8581e185-9815-e1f7-586c-7d4ffa527d67
+
+[2023-05-21] Encounter: 8581e185-9815-e1f7-7fa2-cfdcaa1ef971
+
+[2023-05-21] Encounter: 8581e185-9815-e1f7-a867-fb52de5afa2a
+
+[2024-03-15] DiagnosticReport: History and physical note
+
+[2024-03-15] Encounter: 8581e185-9815-e1f7-d0e4-1cbed6cae693
+
+[2024-04-29] DiagnosticReport: History and physical note
+
+[2024-04-29] DiagnosticReport: History and physical note
+
+[2024-04-29] DiagnosticReport: History and physical note
+
+[2024-04-29] Encounter: 8581e185-9815-e1f7-7d69-8a919fccbde3
+
+[2024-04-29] Encounter: 8581e185-9815-e1f7-a9bf-d793563100c8
+
+[2024-04-29] Encounter: 8581e185-9815-e1f7-c107-e17e71a7523d
+
+[2025-03-21] DiagnosticReport: History and physical note
+
+[2025-03-21] Encounter: 8581e185-9815-e1f7-1824-2284aa81d825
+
+[2025-04-28] DiagnosticReport: History and physical note
+
+[2025-04-28] DiagnosticReport: History and physical note
+
+[2025-04-28] DiagnosticReport: History and physical note
+
+[2025-04-28] Encounter: 8581e185-9815-e1f7-2873-a54c4bb83bce
+
+[2025-04-28] Encounter: 8581e185-9815-e1f7-36df-cbb3e6085cfe
+
+[2025-04-28] Encounter: 8581e185-9815-e1f7-e0ae-ffd1146a989e

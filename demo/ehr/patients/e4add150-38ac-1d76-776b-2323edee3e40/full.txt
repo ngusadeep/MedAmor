@@ -1,0 +1,50 @@
+# EHR Timeline
+Patient: Chun678 Hilpert278
+Patient ID: e4add150-38ac-1d76-776b-2323edee3e40
+
+
+Patient: Chun678 Hilpert278 (id: e4add150-38ac-1d76-776b-2323edee3e40)
+
+[2017-01-02] DiagnosticReport: History and physical note
+
+[2017-01-02] Encounter: e4add150-38ac-1d76-91d3-ecc5338f0205
+
+[2018-01-08] DiagnosticReport: History and physical note
+
+[2018-01-08] Encounter: e4add150-38ac-1d76-6417-aeeb8f4c52a2
+
+[2019-01-14] DiagnosticReport: History and physical note
+
+[2019-01-14] Encounter: e4add150-38ac-1d76-5c8a-224e07b95a2b
+
+[2020-01-20] DiagnosticReport: History and physical note
+
+[2020-01-20] Encounter: e4add150-38ac-1d76-e347-abeee21562bc
+
+[2021-01-25] DiagnosticReport: History and physical note
+
+[2021-01-25] Encounter: e4add150-38ac-1d76-48fb-7da5e0bf2c36
+
+[2021-03-01] DiagnosticReport: History and physical note
+
+[2021-03-01] Encounter: e4add150-38ac-1d76-bb59-040d455963d1
+
+[2021-03-29] DiagnosticReport: History and physical note
+
+[2021-03-29] Encounter: e4add150-38ac-1d76-7b64-9f79a623ed64
+
+[2022-01-31] DiagnosticReport: History and physical note
+
+[2022-01-31] Encounter: e4add150-38ac-1d76-17a6-3d19fb300d38
+
+[2023-02-06] DiagnosticReport: History and physical note
+
+[2023-02-06] Encounter: e4add150-38ac-1d76-0697-66bad016c406
+
+[2024-02-12] DiagnosticReport: History and physical note
+
+[2024-02-12] Encounter: e4add150-38ac-1d76-b074-39c3490bc6cd
+
+[2025-02-17] DiagnosticReport: History and physical note
+
+[2025-02-17] Encounter: e4add150-38ac-1d76-cf20-0bb230d51afb

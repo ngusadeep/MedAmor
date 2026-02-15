@@ -1,0 +1,464 @@
+# EHR Timeline
+Patient: Kymberly381 Ami949 Jenkins714
+Patient ID: e81c21c5-fa06-1fbd-8219-d1ae6d61ab55
+
+
+MedicationRequest: e81c21c5-fa06-1fbd-0eac-8c0e0c2cf860
+
+MedicationRequest: e81c21c5-fa06-1fbd-1650-a405e2f98393
+
+MedicationRequest: e81c21c5-fa06-1fbd-2a03-78e69d81212d
+
+MedicationRequest: e81c21c5-fa06-1fbd-4065-eaefb4490487
+
+MedicationRequest: e81c21c5-fa06-1fbd-53f7-a61fe3fedb4c
+
+MedicationRequest: e81c21c5-fa06-1fbd-7f7a-a72447052bdc
+
+MedicationRequest: e81c21c5-fa06-1fbd-8a0d-55c715a897ab
+
+MedicationRequest: e81c21c5-fa06-1fbd-8f99-72ca029da728
+
+MedicationRequest: e81c21c5-fa06-1fbd-be72-565c403a670d
+
+MedicationRequest: e81c21c5-fa06-1fbd-eff2-7bdfa3503296
+
+Patient: Kymberly381 Ami949 Jenkins714 (id: e81c21c5-fa06-1fbd-8219-d1ae6d61ab55)
+
+Procedure: Biopsy of breast (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Cytopathology procedure, preparation of smear, genital source (procedure)
+
+Procedure: Cytopathology procedure, preparation of smear, genital source (procedure)
+
+Procedure: Discussion about options (procedure)
+
+Procedure: Excision of sentinel lymph node (procedure)
+
+Procedure: Human epidermal growth factor receptor 2 gene detection by fluorescence in situ hybridization (procedure)
+
+Procedure: Human epidermal growth factor receptor 2 gene detection by immunohistochemistry (procedure)
+
+Procedure: Lumpectomy of breast (procedure)
+
+Procedure: Mammography (procedure)
+
+Procedure: Mammography (procedure)
+
+Procedure: Manual pelvic examination (procedure)
+
+Procedure: Manual pelvic examination (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Screening mammography (procedure)
+
+Procedure: Sentinel lymph node biopsy (procedure)
+
+Procedure: Ultrasonography of bilateral breasts (procedure)
+
+[1974-10-22] DiagnosticReport: History and physical note
+
+[1974-10-22] Encounter: e81c21c5-fa06-1fbd-58b9-c112c41c6e76
+
+[1974-11-26] DiagnosticReport: History and physical note
+
+[1974-11-26] Encounter: e81c21c5-fa06-1fbd-4848-5c72d738fc14
+
+[1975-01-28] DiagnosticReport: History and physical note
+
+[1975-01-28] Encounter: e81c21c5-fa06-1fbd-ca6d-d5d728eba2ab
+
+[1975-04-01] DiagnosticReport: History and physical note
+
+[1975-04-01] Encounter: e81c21c5-fa06-1fbd-555c-8b13a2e5e6ea
+
+[1975-07-01] DiagnosticReport: History and physical note
+
+[1975-07-01] Encounter: e81c21c5-fa06-1fbd-a6b6-c694beeb9f09
+
+[1975-09-30] DiagnosticReport: History and physical note
+
+[1975-09-30] Encounter: e81c21c5-fa06-1fbd-5d51-c3ef667a868c
+
+[1975-12-22] Condition: Malignant neoplasm of breast (disorder)
+
+[1975-12-22] DiagnosticReport: History and physical note
+
+[1975-12-22] Encounter: e81c21c5-fa06-1fbd-5ce3-80c209cbc58f
+
+[1975-12-22] Observation: Distant metastases.clinical [Class] Cancer
+
+[1975-12-22] Observation: Lymph nodes with micrometastases [#] in Cancer specimen by Light microscopy
+
+[1975-12-22] Observation: Primary tumor.clinical [Class] Cancer
+
+[1975-12-22] Observation: Regional lymph nodes.clinical [Class] Cancer
+
+[1975-12-22] Observation: Size.maximum dimension in Tumor
+
+[1975-12-23] Observation: ERBB2 gene duplication [Presence] in Breast cancer specimen by FISH
+
+[1975-12-23] Observation: Estrogen receptor Ag [Presence] in Breast cancer specimen by Immune stain
+
+[1975-12-23] Observation: HER2 [Presence] in Breast cancer specimen by Immune stain
+
+[1975-12-23] Observation: Progesterone receptor Ag [Presence] in Breast cancer specimen by Immune stain
+
+[1975-12-23] Observation: Stage group.clinical Cancer
+
+[1975-12-28] DiagnosticReport: History and physical note
+
+[1975-12-28] Encounter: e81c21c5-fa06-1fbd-b3f8-82bd434c6d5b
+
+[1976-01-06] DiagnosticReport: History and physical note
+
+[1976-01-06] Encounter: e81c21c5-fa06-1fbd-21d4-0eba0c734507
+
+[1976-01-13] DiagnosticReport: History and physical note
+
+[1976-01-13] Encounter: e81c21c5-fa06-1fbd-e5c1-1e1c355653a4
+
+[1976-02-02] DiagnosticReport: History and physical note
+
+[1976-02-02] Encounter: e81c21c5-fa06-1fbd-ac5a-bdd9f3d7a6d5
+
+[1976-02-24] DiagnosticReport: History and physical note
+
+[1976-02-24] Encounter: e81c21c5-fa06-1fbd-2b24-96da51e13228
+
+[1976-03-14] DiagnosticReport: History and physical note
+
+[1976-03-14] Encounter: e81c21c5-fa06-1fbd-9258-4922c0e8ff5d
+
+[1976-04-06] DiagnosticReport: History and physical note
+
+[1976-04-06] Encounter: e81c21c5-fa06-1fbd-dc8c-87af6d437181
+
+[1976-04-13] DiagnosticReport: History and physical note
+
+[1976-04-13] Encounter: e81c21c5-fa06-1fbd-3e8b-ab4deaf1ab25
+
+[1976-05-04] DiagnosticReport: History and physical note
+
+[1976-05-04] Encounter: e81c21c5-fa06-1fbd-b863-f87236df46ba
+
+[1976-05-25] DiagnosticReport: History and physical note
+
+[1976-05-25] Encounter: e81c21c5-fa06-1fbd-2cb4-2334f8dbb9d5
+
+[1976-06-15] DiagnosticReport: History and physical note
+
+[1976-06-15] Encounter: e81c21c5-fa06-1fbd-9600-db5d8928a9a9
+
+[1976-07-15] DiagnosticReport: History and physical note
+
+[1976-07-15] Encounter: e81c21c5-fa06-1fbd-0c2b-96932a4e71b9
+
+[1976-07-15] Observation: Response to cancer treatment
+
+[1976-07-23] DiagnosticReport: History and physical note
+
+[1976-07-23] Encounter: e81c21c5-fa06-1fbd-cf2c-da33a5863e2b
+
+[1976-07-24] DiagnosticReport: History and physical note
+
+[1976-07-24] Encounter: e81c21c5-fa06-1fbd-e0f7-c46eb13fefa4
+
+[1976-07-25] DiagnosticReport: History and physical note
+
+[1976-07-25] Encounter: e81c21c5-fa06-1fbd-a342-2f4c077c2740
+
+[1976-07-27] DiagnosticReport: History and physical note
+
+[1976-07-27] Encounter: e81c21c5-fa06-1fbd-08a7-d4b28fa92240
+
+[1976-07-28] DiagnosticReport: History and physical note
+
+[1976-07-28] Encounter: e81c21c5-fa06-1fbd-08df-be224b7b14ae
+
+[1976-07-29] DiagnosticReport: History and physical note
+
+[1976-07-29] Encounter: e81c21c5-fa06-1fbd-21bf-f44ded1aa062
+
+[1976-07-30] DiagnosticReport: History and physical note
+
+[1976-07-30] Encounter: e81c21c5-fa06-1fbd-b60f-b119e43b6533
+
+[1976-07-31] DiagnosticReport: History and physical note
+
+[1976-07-31] Encounter: e81c21c5-fa06-1fbd-5672-083782057a41
+
+[1976-08-02] DiagnosticReport: History and physical note
+
+[1976-08-02] Encounter: e81c21c5-fa06-1fbd-ff12-ae0ffc0aea3c
+
+[1976-08-03] DiagnosticReport: History and physical note
+
+[1976-08-03] Encounter: e81c21c5-fa06-1fbd-9ca4-2533bcdd1e05
+
+[1976-08-04] DiagnosticReport: History and physical note
+
+[1976-08-04] Encounter: e81c21c5-fa06-1fbd-628f-71946cc8bdd5
+
+[1976-08-05] DiagnosticReport: History and physical note
+
+[1976-08-05] Encounter: e81c21c5-fa06-1fbd-9ae8-43d5a3eb354d
+
+[1976-08-07] DiagnosticReport: History and physical note
+
+[1976-08-07] Encounter: e81c21c5-fa06-1fbd-fe20-1d869fa7dd7d
+
+[1976-08-08] DiagnosticReport: History and physical note
+
+[1976-08-08] Encounter: e81c21c5-fa06-1fbd-5719-99b10e68621a
+
+[1976-08-09] DiagnosticReport: History and physical note
+
+[1976-08-09] Encounter: e81c21c5-fa06-1fbd-b34a-add3e1bfa73c
+
+[1976-08-10] DiagnosticReport: History and physical note
+
+[1976-08-10] Encounter: e81c21c5-fa06-1fbd-49de-1536f7123cdf
+
+[1976-08-11] DiagnosticReport: History and physical note
+
+[1976-08-11] Encounter: e81c21c5-fa06-1fbd-7661-0c43ffe3f12d
+
+[1976-08-13] DiagnosticReport: History and physical note
+
+[1976-08-13] Encounter: e81c21c5-fa06-1fbd-aa79-88fdd271c185
+
+[1976-08-14] DiagnosticReport: History and physical note
+
+[1976-08-14] Encounter: e81c21c5-fa06-1fbd-b94e-d2bf13793b81
+
+[1976-08-15] DiagnosticReport: History and physical note
+
+[1976-08-15] Encounter: e81c21c5-fa06-1fbd-fb51-40dd0b9a2602
+
+[1976-08-17] DiagnosticReport: History and physical note
+
+[1976-08-17] Encounter: e81c21c5-fa06-1fbd-58a9-e2aa33a3b612
+
+[1976-08-18] DiagnosticReport: History and physical note
+
+[1976-08-18] Encounter: e81c21c5-fa06-1fbd-f1f7-46c6a0c72541
+
+[1976-08-19] DiagnosticReport: History and physical note
+
+[1976-08-19] Encounter: e81c21c5-fa06-1fbd-b4f0-d10be9c996f7
+
+[1976-08-21] DiagnosticReport: History and physical note
+
+[1976-08-21] Encounter: e81c21c5-fa06-1fbd-af84-1977e2729654
+
+[1976-08-22] DiagnosticReport: History and physical note
+
+[1976-08-22] Encounter: e81c21c5-fa06-1fbd-2388-550387010482
+
+[1976-08-23] DiagnosticReport: History and physical note
+
+[1976-08-23] Encounter: e81c21c5-fa06-1fbd-074c-07b0384ef3d9
+
+[1976-08-25] DiagnosticReport: History and physical note
+
+[1976-08-25] Encounter: e81c21c5-fa06-1fbd-24c7-3f3794465d7b
+
+[1976-08-26] DiagnosticReport: History and physical note
+
+[1976-08-26] Encounter: e81c21c5-fa06-1fbd-bb0f-8b0a4b9f1e27
+
+[1976-08-27] DiagnosticReport: History and physical note
+
+[1976-08-27] Encounter: e81c21c5-fa06-1fbd-1f3e-4752b18eba08
+
+[1976-08-28] DiagnosticReport: History and physical note
+
+[1976-08-28] Encounter: e81c21c5-fa06-1fbd-172b-b7db7d3a6af3
+
+[1976-08-30] DiagnosticReport: History and physical note
+
+[1976-08-30] Encounter: e81c21c5-fa06-1fbd-ecd4-3d0866b37951
+
+[1976-08-31] DiagnosticReport: History and physical note
+
+[1976-08-31] Encounter: e81c21c5-fa06-1fbd-b954-2ce7113c6635
+
+[1976-09-01] DiagnosticReport: History and physical note
+
+[1976-09-01] Encounter: e81c21c5-fa06-1fbd-5e4b-68615153914e
+
+[1976-09-02] DiagnosticReport: History and physical note
+
+[1976-09-02] Encounter: e81c21c5-fa06-1fbd-72be-4b11a52660df
+
+[1976-09-06] DiagnosticReport: History and physical note
+
+[1976-09-06] Encounter: e81c21c5-fa06-1fbd-60dd-1e12222f5445
+
+[1976-09-06] Observation: Response to cancer treatment
+
+[1976-09-06] Observation: Treatment status Cancer
+
+[1976-10-05] DiagnosticReport: History and physical note
+
+[1976-10-05] Encounter: e81c21c5-fa06-1fbd-109b-38a97bfed9d0
+
+[1977-01-05] DiagnosticReport: History and physical note
+
+[1977-01-05] Encounter: e81c21c5-fa06-1fbd-272a-aa855fad160c
+
+[1977-04-05] DiagnosticReport: History and physical note
+
+[1977-04-05] Encounter: e81c21c5-fa06-1fbd-7366-442c66a3a5a8
+
+[1977-05-01] DiagnosticReport: History and physical note
+
+[1977-05-01] Encounter: e81c21c5-fa06-1fbd-3bf5-eba19f0237e7
+
+[1977-08-12] DiagnosticReport: History and physical note
+
+[1977-08-12] DiagnosticReport: History and physical note
+
+[1977-08-12] DiagnosticReport: History and physical note
+
+[1977-08-12] Encounter: e81c21c5-fa06-1fbd-8992-aa53016705eb
+
+[1977-08-12] Encounter: e81c21c5-fa06-1fbd-cf74-f898d111674b
+
+[1977-08-12] Encounter: e81c21c5-fa06-1fbd-fad7-686d48b3429d
+
+[1977-08-12] Observation: Response to cancer treatment
+
+[1977-10-04] DiagnosticReport: History and physical note
+
+[1977-10-04] Encounter: e81c21c5-fa06-1fbd-eeeb-fac5e8c14bc1
+
+[1977-11-19] DiagnosticReport: History and physical note
+
+[1977-11-19] Encounter: e81c21c5-fa06-1fbd-de57-bb4b720217f3
+
+[1978-03-04] DiagnosticReport: History and physical note
+
+[1978-03-04] Encounter: e81c21c5-fa06-1fbd-5187-302743f59028
+
+[1978-04-04] DiagnosticReport: History and physical note
+
+[1978-04-04] Encounter: e81c21c5-fa06-1fbd-0290-7082087b86ae
+
+[1978-06-20] DiagnosticReport: History and physical note
+
+[1978-06-20] DiagnosticReport: History and physical note
+
+[1978-06-20] DiagnosticReport: History and physical note
+
+[1978-06-20] Encounter: e81c21c5-fa06-1fbd-0fdd-c7052aab3a71
+
+[1978-06-20] Encounter: e81c21c5-fa06-1fbd-18eb-cef6ba69322d
+
+[1978-06-20] Encounter: e81c21c5-fa06-1fbd-9171-668e8875449a
+
+[1978-06-20] Observation: Response to cancer treatment
+
+[1978-07-18] DiagnosticReport: History and physical note
+
+[1978-07-18] DiagnosticReport: U.S. standard certificate of death - 2003 revision
+
+[1978-07-18] Encounter: e81c21c5-fa06-1fbd-ecbc-3b21a2181275
+
+[1978-07-18] Observation: Cause of Death [US Standard Certificate of Death]

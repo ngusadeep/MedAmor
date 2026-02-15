@@ -1,0 +1,256 @@
+# EHR Timeline
+Patient: Stephanie963 Williamson769
+Patient ID: ee1b1c0c-1885-833d-2751-fbcc25dbcfe0
+
+
+MedicationRequest: ee1b1c0c-1885-833d-32e9-8dc01a6f15d1
+
+MedicationRequest: ee1b1c0c-1885-833d-45bb-465f291486e4
+
+MedicationRequest: ee1b1c0c-1885-833d-7653-ff24d431fc64
+
+MedicationRequest: ee1b1c0c-1885-833d-8721-c2b0b86926cd
+
+MedicationRequest: ee1b1c0c-1885-833d-8eab-f0fa00ecb5db
+
+MedicationRequest: ee1b1c0c-1885-833d-b689-45f91f10b04f
+
+MedicationRequest: ee1b1c0c-1885-833d-b9a8-68a2ae221db6
+
+MedicationRequest: ee1b1c0c-1885-833d-bde4-18a604fe152e
+
+MedicationRequest: ee1b1c0c-1885-833d-cb5a-b00562be388d
+
+MedicationRequest: ee1b1c0c-1885-833d-d17f-56447931ff02
+
+Patient: Stephanie963 Williamson769 (id: ee1b1c0c-1885-833d-2751-fbcc25dbcfe0)
+
+Procedure: Biopsy of breast (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Cytopathology procedure, preparation of smear, genital source (procedure)
+
+Procedure: Cytopathology procedure, preparation of smear, genital source (procedure)
+
+Procedure: Discussion about options (procedure)
+
+Procedure: Excision of lesion of breast (procedure)
+
+Procedure: Human epidermal growth factor receptor 2 gene detection by fluorescence in situ hybridization (procedure)
+
+Procedure: Human epidermal growth factor receptor 2 gene detection by immunohistochemistry (procedure)
+
+Procedure: Mammography (procedure)
+
+Procedure: Mammography (procedure)
+
+Procedure: Manual pelvic examination (procedure)
+
+Procedure: Manual pelvic examination (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Screening mammography (procedure)
+
+Procedure: Ultrasonography of bilateral breasts (procedure)
+
+[1988-09-14] DiagnosticReport: History and physical note
+
+[1988-09-14] Encounter: ee1b1c0c-1885-833d-d333-0e8687917137
+
+[1989-09-20] DiagnosticReport: History and physical note
+
+[1989-09-20] Encounter: ee1b1c0c-1885-833d-af6b-9e27dc9e2a41
+
+[1990-09-26] DiagnosticReport: History and physical note
+
+[1990-09-26] Encounter: ee1b1c0c-1885-833d-a682-fb5ab9422d2e
+
+[1991-10-02] DiagnosticReport: History and physical note
+
+[1991-10-02] Encounter: ee1b1c0c-1885-833d-38fc-7f3506cea6fc
+
+[1992-10-07] DiagnosticReport: History and physical note
+
+[1992-10-07] Encounter: ee1b1c0c-1885-833d-a33b-cece3a53fc48
+
+[1993-10-13] DiagnosticReport: History and physical note
+
+[1993-10-13] Encounter: ee1b1c0c-1885-833d-60c7-b52dcf2d4749
+
+[1994-10-19] DiagnosticReport: History and physical note
+
+[1994-10-19] Encounter: ee1b1c0c-1885-833d-43fe-5f38fb2e3271
+
+[1995-08-23] Condition: Malignant neoplasm of breast (disorder)
+
+[1995-08-23] DiagnosticReport: History and physical note
+
+[1995-08-23] Encounter: ee1b1c0c-1885-833d-dffa-3efd34a5819f
+
+[1995-08-23] Observation: Distant metastases.clinical [Class] Cancer
+
+[1995-08-23] Observation: Lymph nodes with isolated tumor cells [#] in Cancer specimen by Light microscopy
+
+[1995-08-23] Observation: Primary tumor.clinical [Class] Cancer
+
+[1995-08-23] Observation: Regional lymph nodes.clinical [Class] Cancer
+
+[1995-08-23] Observation: Site of distant metastasis in Breast tumor
+
+[1995-08-23] Observation: Size.maximum dimension in Tumor
+
+[1995-08-25] Observation: ERBB2 gene duplication [Presence] in Breast cancer specimen by FISH
+
+[1995-08-25] Observation: Estrogen receptor Ag [Presence] in Breast cancer specimen by Immune stain
+
+[1995-08-25] Observation: HER2 [Presence] in Breast cancer specimen by Immune stain
+
+[1995-08-25] Observation: Progesterone receptor Ag [Presence] in Breast cancer specimen by Immune stain
+
+[1995-08-25] Observation: Stage group.clinical Cancer
+
+[1995-08-25] Observation: Stage group.clinical Cancer
+
+[1995-08-30] DiagnosticReport: History and physical note
+
+[1995-08-30] Encounter: ee1b1c0c-1885-833d-13aa-61055d17c904
+
+[1995-09-01] DiagnosticReport: History and physical note
+
+[1995-09-01] Encounter: ee1b1c0c-1885-833d-e65d-f0c90878419b
+
+[1995-09-09] DiagnosticReport: History and physical note
+
+[1995-09-09] Encounter: ee1b1c0c-1885-833d-84e5-2e928663a764
+
+[1995-10-02] DiagnosticReport: History and physical note
+
+[1995-10-02] Encounter: ee1b1c0c-1885-833d-093e-9ff6fded0353
+
+[1995-10-25] DiagnosticReport: History and physical note
+
+[1995-10-25] Encounter: ee1b1c0c-1885-833d-e97d-c226f86f4b90
+
+[1995-11-01] DiagnosticReport: History and physical note
+
+[1995-11-01] Encounter: ee1b1c0c-1885-833d-894a-8aa8ea4eb607
+
+[1995-11-23] DiagnosticReport: History and physical note
+
+[1995-11-23] Encounter: ee1b1c0c-1885-833d-85db-88396a01fcb6
+
+[1995-12-14] DiagnosticReport: History and physical note
+
+[1995-12-14] Encounter: ee1b1c0c-1885-833d-0943-3bf7c2176caa
+
+[1996-01-04] DiagnosticReport: History and physical note
+
+[1996-01-04] Encounter: ee1b1c0c-1885-833d-f014-ec2e6da81377
+
+[1996-01-26] DiagnosticReport: History and physical note
+
+[1996-01-26] Encounter: ee1b1c0c-1885-833d-4564-4af1b480c13d
+
+[1996-02-15] DiagnosticReport: History and physical note
+
+[1996-02-15] Encounter: ee1b1c0c-1885-833d-88cb-e8be2a710b8b
+
+[1996-02-17] DiagnosticReport: History and physical note
+
+[1996-02-17] Encounter: ee1b1c0c-1885-833d-d61e-db25c10f8153
+
+[1996-02-17] Observation: Response to cancer treatment
+
+[1996-02-17] Observation: Treatment status Cancer
+
+[1996-06-20] DiagnosticReport: History and physical note
+
+[1996-06-20] Encounter: ee1b1c0c-1885-833d-5918-c63c4c585068
+
+[1996-10-04] DiagnosticReport: History and physical note
+
+[1996-10-04] Encounter: ee1b1c0c-1885-833d-c259-e6cdb48fb62a
+
+[1996-10-30] DiagnosticReport: History and physical note
+
+[1996-10-30] Encounter: ee1b1c0c-1885-833d-ae00-d3db27e51663
+
+[1997-01-13] DiagnosticReport: History and physical note
+
+[1997-01-13] DiagnosticReport: History and physical note
+
+[1997-01-13] DiagnosticReport: History and physical note
+
+[1997-01-13] Encounter: ee1b1c0c-1885-833d-387f-575f77d579e1
+
+[1997-01-13] Encounter: ee1b1c0c-1885-833d-cdd4-a4d01ea3e35b
+
+[1997-01-13] Encounter: ee1b1c0c-1885-833d-e0c6-7823aa8579d9
+
+[1997-01-13] Observation: Response to cancer treatment
+
+[1997-05-07] DiagnosticReport: History and physical note
+
+[1997-05-07] Encounter: ee1b1c0c-1885-833d-9f91-ca071442520e
+
+[1997-09-02] DiagnosticReport: History and physical note
+
+[1997-09-02] Encounter: ee1b1c0c-1885-833d-57c2-aeff1981ac21
+
+[1997-11-05] DiagnosticReport: History and physical note
+
+[1997-11-05] Encounter: ee1b1c0c-1885-833d-6534-3ca4c47891ad
+
+[1997-12-22] DiagnosticReport: History and physical note
+
+[1997-12-22] DiagnosticReport: History and physical note
+
+[1997-12-22] DiagnosticReport: History and physical note
+
+[1997-12-22] Encounter: ee1b1c0c-1885-833d-3806-89473a4c94f3
+
+[1997-12-22] Encounter: ee1b1c0c-1885-833d-874c-ef5621ecd553
+
+[1997-12-22] Encounter: ee1b1c0c-1885-833d-a179-1089a22e98aa
+
+[1997-12-22] Observation: Response to cancer treatment
+
+[1998-04-11] DiagnosticReport: History and physical note
+
+[1998-04-11] Encounter: ee1b1c0c-1885-833d-fd42-f1bdec1b43d5
+
+[1998-07-22] DiagnosticReport: History and physical note
+
+[1998-07-22] DiagnosticReport: U.S. standard certificate of death - 2003 revision
+
+[1998-07-22] Encounter: ee1b1c0c-1885-833d-d589-db6c9f104766
+
+[1998-07-22] Observation: Cause of Death [US Standard Certificate of Death]

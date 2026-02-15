@@ -1,13 +1,14 @@
 #!/usr/bin/env python3
-"""Index Medical_KB markdown into Qdrant (Phase 2.3).
+"""Index Medical_KB markdown into ChromaDB (RAG knowledge base).
 
 Run from repo root:
 
   python scripts/index_kb.py
 
-This runs the backend indexer (requires backend deps and Qdrant). Alternatively:
+This runs the backend indexer (requires backend deps and CHROMA_PERSIST_DIR or
+medical_kb_path). Alternatively:
 
-  cd backend && uv run python -c "from app.services.rag import index_kb; print(index_kb())"
+  cd demo/backend && uv run python -c "from app.services.rag import index_kb; print(index_kb())"
 """
 
 import subprocess

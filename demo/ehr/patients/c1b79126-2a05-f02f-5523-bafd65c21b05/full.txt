@@ -1,0 +1,396 @@
+# EHR Timeline
+Patient: Alana17 Morissette863
+Patient ID: c1b79126-2a05-f02f-5523-bafd65c21b05
+
+
+MedicationRequest: c1b79126-2a05-f02f-2876-f752b4122218
+
+MedicationRequest: c1b79126-2a05-f02f-2f87-fdecd07514be
+
+MedicationRequest: c1b79126-2a05-f02f-3a4a-dd119d0853bb
+
+MedicationRequest: c1b79126-2a05-f02f-497a-a36b7cef83c5
+
+MedicationRequest: c1b79126-2a05-f02f-4e50-529762777a94
+
+MedicationRequest: c1b79126-2a05-f02f-5722-0d4784ee0090
+
+MedicationRequest: c1b79126-2a05-f02f-70a5-770e305c8f86
+
+MedicationRequest: c1b79126-2a05-f02f-87b5-fa598d3b3614
+
+MedicationRequest: c1b79126-2a05-f02f-cb86-92e4d33f3b3a
+
+Patient: Alana17 Morissette863 (id: c1b79126-2a05-f02f-5523-bafd65c21b05)
+
+Procedure: Biopsy of breast (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Discussion about options (procedure)
+
+Procedure: Excision of lesion of breast (procedure)
+
+Procedure: Excision of sentinel lymph node (procedure)
+
+Procedure: External beam radiation therapy procedure (procedure)
+
+Procedure: External beam radiation therapy procedure (procedure)
+
+Procedure: External beam radiation therapy procedure (procedure)
+
+Procedure: External beam radiation therapy procedure (procedure)
+
+Procedure: External beam radiation therapy procedure (procedure)
+
+Procedure: External beam radiation therapy procedure (procedure)
+
+Procedure: External beam radiation therapy procedure (procedure)
+
+Procedure: External beam radiation therapy procedure (procedure)
+
+Procedure: External beam radiation therapy procedure (procedure)
+
+Procedure: External beam radiation therapy procedure (procedure)
+
+Procedure: External beam radiation therapy procedure (procedure)
+
+Procedure: External beam radiation therapy procedure (procedure)
+
+Procedure: External beam radiation therapy procedure (procedure)
+
+Procedure: External beam radiation therapy procedure (procedure)
+
+Procedure: External beam radiation therapy procedure (procedure)
+
+Procedure: External beam radiation therapy procedure (procedure)
+
+Procedure: External beam radiation therapy procedure (procedure)
+
+Procedure: External beam radiation therapy procedure (procedure)
+
+Procedure: External beam radiation therapy procedure (procedure)
+
+Procedure: External beam radiation therapy procedure (procedure)
+
+Procedure: External beam radiation therapy procedure (procedure)
+
+Procedure: External beam radiation therapy procedure (procedure)
+
+Procedure: External beam radiation therapy procedure (procedure)
+
+Procedure: External beam radiation therapy procedure (procedure)
+
+Procedure: External beam radiation therapy procedure (procedure)
+
+Procedure: External beam radiation therapy procedure (procedure)
+
+Procedure: External beam radiation therapy procedure (procedure)
+
+Procedure: External beam radiation therapy procedure (procedure)
+
+Procedure: External beam radiation therapy procedure (procedure)
+
+Procedure: External beam radiation therapy procedure (procedure)
+
+Procedure: External beam radiation therapy procedure (procedure)
+
+Procedure: External beam radiation therapy procedure (procedure)
+
+Procedure: External beam radiation therapy procedure (procedure)
+
+Procedure: External beam radiation therapy procedure (procedure)
+
+Procedure: Human epidermal growth factor receptor 2 gene detection by fluorescence in situ hybridization (procedure)
+
+Procedure: Human epidermal growth factor receptor 2 gene detection by immunohistochemistry (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Screening mammography (procedure)
+
+Procedure: Sentinel lymph node biopsy (procedure)
+
+Procedure: Ultrasonography of bilateral breasts (procedure)
+
+[1987-02-22] DiagnosticReport: History and physical note
+
+[1987-02-22] Encounter: c1b79126-2a05-f02f-04d5-67b0a7659372
+
+[1988-02-28] DiagnosticReport: History and physical note
+
+[1988-02-28] Encounter: c1b79126-2a05-f02f-77bd-6f03dca760e6
+
+[1989-03-05] DiagnosticReport: History and physical note
+
+[1989-03-05] Encounter: c1b79126-2a05-f02f-9abb-86037c9adc05
+
+[1990-03-11] DiagnosticReport: History and physical note
+
+[1990-03-11] Encounter: c1b79126-2a05-f02f-23e3-7793974eb118
+
+[1991-03-17] DiagnosticReport: History and physical note
+
+[1991-03-17] Encounter: c1b79126-2a05-f02f-3bf8-b5ed7faa2124
+
+[1992-03-22] DiagnosticReport: History and physical note
+
+[1992-03-22] Encounter: c1b79126-2a05-f02f-4ca5-7033d8833390
+
+[1993-03-28] DiagnosticReport: History and physical note
+
+[1993-03-28] Encounter: c1b79126-2a05-f02f-e17c-75644a0d6dfe
+
+[1994-04-03] DiagnosticReport: History and physical note
+
+[1994-04-03] Encounter: c1b79126-2a05-f02f-c5fd-cad76e401d36
+
+[1995-04-09] DiagnosticReport: History and physical note
+
+[1995-04-09] Encounter: c1b79126-2a05-f02f-3a4e-40d64a8148f3
+
+[1995-10-24] Condition: Malignant neoplasm of breast (disorder)
+
+[1995-10-24] DiagnosticReport: History and physical note
+
+[1995-10-24] Encounter: c1b79126-2a05-f02f-e1cf-b8771647ed51
+
+[1995-10-24] Observation: Distant metastases.clinical [Class] Cancer
+
+[1995-10-24] Observation: Lymph nodes with macrometastases [#] in Cancer specimen by Light microscopy
+
+[1995-10-24] Observation: Primary tumor.clinical [Class] Cancer
+
+[1995-10-24] Observation: Regional lymph nodes.clinical [Class] Cancer
+
+[1995-10-24] Observation: Site of distant metastasis in Breast tumor
+
+[1995-10-24] Observation: Size.maximum dimension in Tumor
+
+[1995-10-25] Observation: ERBB2 gene duplication [Presence] in Breast cancer specimen by FISH
+
+[1995-10-25] Observation: Estrogen receptor Ag [Presence] in Breast cancer specimen by Immune stain
+
+[1995-10-25] Observation: HER2 [Presence] in Breast cancer specimen by Immune stain
+
+[1995-10-25] Observation: Progesterone receptor Ag [Presence] in Breast cancer specimen by Immune stain
+
+[1995-10-25] Observation: Stage group.clinical Cancer
+
+[1995-10-25] Observation: Stage group.clinical Cancer
+
+[1995-10-28] DiagnosticReport: History and physical note
+
+[1995-10-28] Encounter: c1b79126-2a05-f02f-4f88-d94e3b645666
+
+[1995-11-02] DiagnosticReport: History and physical note
+
+[1995-11-02] Encounter: c1b79126-2a05-f02f-bd10-4e73e5c44ac8
+
+[1995-11-22] DiagnosticReport: History and physical note
+
+[1995-11-22] Encounter: c1b79126-2a05-f02f-f183-3c83566da3de
+
+[1995-12-13] DiagnosticReport: History and physical note
+
+[1995-12-13] Encounter: c1b79126-2a05-f02f-c9ae-169725755c7d
+
+[1996-01-04] DiagnosticReport: History and physical note
+
+[1996-01-04] Encounter: c1b79126-2a05-f02f-0749-30b924a82acf
+
+[1996-01-27] DiagnosticReport: History and physical note
+
+[1996-01-27] Encounter: c1b79126-2a05-f02f-aedd-2f5482f2b479
+
+[1996-02-17] DiagnosticReport: History and physical note
+
+[1996-02-17] Encounter: c1b79126-2a05-f02f-2980-1881a2eb405b
+
+[1996-03-09] DiagnosticReport: History and physical note
+
+[1996-03-09] Encounter: c1b79126-2a05-f02f-9fee-3ca0056c4b3d
+
+[1996-03-31] DiagnosticReport: History and physical note
+
+[1996-03-31] Encounter: c1b79126-2a05-f02f-5010-852b0f06f8fc
+
+[1996-04-14] DiagnosticReport: History and physical note
+
+[1996-04-14] Encounter: c1b79126-2a05-f02f-19fb-7f5e31e90797
+
+[1996-04-15] DiagnosticReport: History and physical note
+
+[1996-04-15] Encounter: c1b79126-2a05-f02f-cdcf-a781a83b010a
+
+[1996-04-15] Observation: Response to cancer treatment
+
+[1996-04-28] DiagnosticReport: History and physical note
+
+[1996-04-28] Encounter: c1b79126-2a05-f02f-bbf5-5155e90ce2b2
+
+[1996-04-30] DiagnosticReport: History and physical note
+
+[1996-04-30] Encounter: c1b79126-2a05-f02f-c8ae-e7722d17027a
+
+[1996-05-01] DiagnosticReport: History and physical note
+
+[1996-05-01] Encounter: c1b79126-2a05-f02f-88ea-605d07323b26
+
+[1996-05-02] DiagnosticReport: History and physical note
+
+[1996-05-02] Encounter: c1b79126-2a05-f02f-c30a-bbb0e4f1cd28
+
+[1996-05-03] DiagnosticReport: History and physical note
+
+[1996-05-03] Encounter: c1b79126-2a05-f02f-dc6e-07b5917ce955
+
+[1996-05-05] DiagnosticReport: History and physical note
+
+[1996-05-05] Encounter: c1b79126-2a05-f02f-672e-1583e3aa912c
+
+[1996-05-06] DiagnosticReport: History and physical note
+
+[1996-05-06] Encounter: c1b79126-2a05-f02f-0c2a-42f28621ac86
+
+[1996-05-07] DiagnosticReport: History and physical note
+
+[1996-05-07] Encounter: c1b79126-2a05-f02f-fdd6-4984403fbb60
+
+[1996-05-08] DiagnosticReport: History and physical note
+
+[1996-05-08] Encounter: c1b79126-2a05-f02f-7912-bd57d0f1d8e4
+
+[1996-05-10] DiagnosticReport: History and physical note
+
+[1996-05-10] Encounter: c1b79126-2a05-f02f-f156-0193c4bfa679
+
+[1996-05-11] DiagnosticReport: History and physical note
+
+[1996-05-11] Encounter: c1b79126-2a05-f02f-7ede-a34a61068820
+
+[1996-05-13] DiagnosticReport: History and physical note
+
+[1996-05-13] Encounter: c1b79126-2a05-f02f-0ad1-26d00430c321
+
+[1996-05-14] DiagnosticReport: History and physical note
+
+[1996-05-14] Encounter: c1b79126-2a05-f02f-f9d9-ecfe6711ac7c
+
+[1996-05-15] DiagnosticReport: History and physical note
+
+[1996-05-15] Encounter: c1b79126-2a05-f02f-275a-7d883d3eb8a9
+
+[1996-05-17] DiagnosticReport: History and physical note
+
+[1996-05-17] Encounter: c1b79126-2a05-f02f-97d2-f512dd7255f9
+
+[1996-05-18] DiagnosticReport: History and physical note
+
+[1996-05-18] Encounter: c1b79126-2a05-f02f-d061-6748f183b57e
+
+[1996-05-20] DiagnosticReport: History and physical note
+
+[1996-05-20] Encounter: c1b79126-2a05-f02f-7d15-f89a6c229fa9
+
+[1996-05-21] DiagnosticReport: History and physical note
+
+[1996-05-21] Encounter: c1b79126-2a05-f02f-0ab1-752d6a8418af
+
+[1996-05-22] DiagnosticReport: History and physical note
+
+[1996-05-22] Encounter: c1b79126-2a05-f02f-fff9-e74f04a1c0dc
+
+[1996-05-23] DiagnosticReport: History and physical note
+
+[1996-05-23] Encounter: c1b79126-2a05-f02f-0513-9de19060555b
+
+[1996-05-25] DiagnosticReport: History and physical note
+
+[1996-05-25] Encounter: c1b79126-2a05-f02f-e25c-1eb8f8a21084
+
+[1996-05-26] DiagnosticReport: History and physical note
+
+[1996-05-26] Encounter: c1b79126-2a05-f02f-302a-ab8e00f0b57c
+
+[1996-05-27] DiagnosticReport: History and physical note
+
+[1996-05-27] Encounter: c1b79126-2a05-f02f-1973-9791b68e66a8
+
+[1996-05-28] DiagnosticReport: History and physical note
+
+[1996-05-28] Encounter: c1b79126-2a05-f02f-097d-1a9edc3bec8e
+
+[1996-05-30] DiagnosticReport: History and physical note
+
+[1996-05-30] Encounter: c1b79126-2a05-f02f-8775-792a5e758a92
+
+[1996-05-31] DiagnosticReport: History and physical note
+
+[1996-05-31] Encounter: c1b79126-2a05-f02f-fbaa-cf2c49086a56
+
+[1996-06-01] DiagnosticReport: History and physical note
+
+[1996-06-01] Encounter: c1b79126-2a05-f02f-9e99-87c7d37f72b2
+
+[1996-06-03] DiagnosticReport: History and physical note
+
+[1996-06-03] Encounter: c1b79126-2a05-f02f-c7a6-f9a42990ab4d
+
+[1996-06-04] DiagnosticReport: History and physical note
+
+[1996-06-04] Encounter: c1b79126-2a05-f02f-30dc-54d0e047af44
+
+[1996-06-05] DiagnosticReport: History and physical note
+
+[1996-06-05] Encounter: c1b79126-2a05-f02f-b27d-8bba52b8f562
+
+[1996-06-06] DiagnosticReport: History and physical note
+
+[1996-06-06] Encounter: c1b79126-2a05-f02f-2719-a58dd883a373
+
+[1996-06-07] DiagnosticReport: History and physical note
+
+[1996-06-07] Encounter: c1b79126-2a05-f02f-d82c-78481b33a9b8
+
+[1996-06-09] DiagnosticReport: History and physical note
+
+[1996-06-09] Encounter: c1b79126-2a05-f02f-f08b-96c7b7c7cda2
+
+[1996-06-10] DiagnosticReport: History and physical note
+
+[1996-06-10] Encounter: c1b79126-2a05-f02f-0819-f58dc00d134e
+
+[1996-06-15] DiagnosticReport: History and physical note
+
+[1996-06-15] Encounter: c1b79126-2a05-f02f-9f0f-9c93054c4a7e
+
+[1996-06-15] Observation: Response to cancer treatment
+
+[1996-06-15] Observation: Treatment status Cancer
+
+[1996-09-26] DiagnosticReport: History and physical note
+
+[1996-09-26] Encounter: c1b79126-2a05-f02f-8935-943bf9ead24f
+
+[1996-10-06] DiagnosticReport: History and physical note
+
+[1996-10-06] DiagnosticReport: U.S. standard certificate of death - 2003 revision
+
+[1996-10-06] Encounter: c1b79126-2a05-f02f-5c67-aee859f9ee52
+
+[1996-10-06] Observation: Cause of Death [US Standard Certificate of Death]

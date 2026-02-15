@@ -1,0 +1,338 @@
+# EHR Timeline
+Patient: Susanne275 Janella261 Heathcote539
+Patient ID: 4a602845-8c9f-2ca5-dae6-bbfb43ad828f
+
+
+MedicationRequest: 4a602845-8c9f-2ca5-1733-8b47060b50ff
+
+MedicationRequest: 4a602845-8c9f-2ca5-182d-c03cb0af5e89
+
+MedicationRequest: 4a602845-8c9f-2ca5-37f3-a0c4f4dbde24
+
+MedicationRequest: 4a602845-8c9f-2ca5-4a42-a9df247ec3da
+
+MedicationRequest: 4a602845-8c9f-2ca5-55fb-18698078d3ee
+
+MedicationRequest: 4a602845-8c9f-2ca5-70d8-1330b30168b3
+
+MedicationRequest: 4a602845-8c9f-2ca5-7161-88ad05520b2e
+
+MedicationRequest: 4a602845-8c9f-2ca5-71d2-146232aabe82
+
+MedicationRequest: 4a602845-8c9f-2ca5-8efd-812f34d62821
+
+MedicationRequest: 4a602845-8c9f-2ca5-ae94-730a10474d47
+
+MedicationRequest: 4a602845-8c9f-2ca5-c1a0-8a0490465720
+
+Patient: Susanne275 Janella261 Heathcote539 (id: 4a602845-8c9f-2ca5-dae6-bbfb43ad828f)
+
+Procedure: Biopsy of breast (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Discussion about options (procedure)
+
+Procedure: Human epidermal growth factor receptor 2 gene detection by fluorescence in situ hybridization (procedure)
+
+Procedure: Human epidermal growth factor receptor 2 gene detection by immunohistochemistry (procedure)
+
+Procedure: Lumpectomy of breast (procedure)
+
+Procedure: Mammography (procedure)
+
+Procedure: Mammography (procedure)
+
+Procedure: Mammography (procedure)
+
+Procedure: Mammography (procedure)
+
+Procedure: Mammography (procedure)
+
+Procedure: Mammography (procedure)
+
+Procedure: Mammography (procedure)
+
+Procedure: Mammography (procedure)
+
+Procedure: Mammography (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Screening mammography (procedure)
+
+Procedure: Ultrasonography of bilateral breasts (procedure)
+
+[2016-12-24] Condition: Malignant neoplasm of breast (disorder)
+
+[2016-12-24] DiagnosticReport: History and physical note
+
+[2016-12-24] Encounter: 4a602845-8c9f-2ca5-e238-f8031dbfc167
+
+[2016-12-24] Observation: Distant metastases.clinical [Class] Cancer
+
+[2016-12-24] Observation: Lymph nodes with isolated tumor cells [#] in Cancer specimen by Light microscopy
+
+[2016-12-24] Observation: Primary tumor.clinical [Class] Cancer
+
+[2016-12-24] Observation: Regional lymph nodes.clinical [Class] Cancer
+
+[2016-12-24] Observation: Site of distant metastasis in Breast tumor
+
+[2016-12-24] Observation: Size.maximum dimension in Tumor
+
+[2016-12-25] Observation: ERBB2 gene duplication [Presence] in Breast cancer specimen by FISH
+
+[2016-12-25] Observation: Estrogen receptor Ag [Presence] in Breast cancer specimen by Immune stain
+
+[2016-12-25] Observation: Estrogen+Progesterone receptor Ag [Presence] in Tissue by Immune stain
+
+[2016-12-25] Observation: HER2 [Presence] in Breast cancer specimen by Immune stain
+
+[2016-12-25] Observation: Progesterone receptor Ag [Presence] in Breast cancer specimen by Immune stain
+
+[2016-12-25] Observation: Stage group.clinical Cancer
+
+[2016-12-25] Observation: Stage group.clinical Cancer
+
+[2016-12-28] DiagnosticReport: History and physical note
+
+[2016-12-28] Encounter: 4a602845-8c9f-2ca5-080b-90039f1bf0c9
+
+[2016-12-31] DiagnosticReport: History and physical note
+
+[2016-12-31] Encounter: 4a602845-8c9f-2ca5-064d-b95385172e01
+
+[2017-01-08] DiagnosticReport: History and physical note
+
+[2017-01-08] Encounter: 4a602845-8c9f-2ca5-4dd8-9dcd24c14551
+
+[2017-01-28] DiagnosticReport: History and physical note
+
+[2017-01-28] Encounter: 4a602845-8c9f-2ca5-cac8-7fcac71c3ddf
+
+[2017-02-20] DiagnosticReport: History and physical note
+
+[2017-02-20] Encounter: 4a602845-8c9f-2ca5-d333-3f2709c9d1f3
+
+[2017-03-13] DiagnosticReport: History and physical note
+
+[2017-03-13] Encounter: 4a602845-8c9f-2ca5-2d8d-f99c4c1f69a4
+
+[2017-04-05] DiagnosticReport: History and physical note
+
+[2017-04-05] Encounter: 4a602845-8c9f-2ca5-82c1-53524da00e84
+
+[2017-04-27] DiagnosticReport: History and physical note
+
+[2017-04-27] Encounter: 4a602845-8c9f-2ca5-655a-9f8dd4950fce
+
+[2017-05-20] DiagnosticReport: History and physical note
+
+[2017-05-20] Encounter: 4a602845-8c9f-2ca5-c174-9ba29bff0330
+
+[2017-06-09] DiagnosticReport: History and physical note
+
+[2017-06-09] Encounter: 4a602845-8c9f-2ca5-f80c-dbff6ce151a8
+
+[2017-06-14] DiagnosticReport: History and physical note
+
+[2017-06-14] Encounter: 4a602845-8c9f-2ca5-2bd8-e40a98761145
+
+[2017-06-14] Observation: Response to cancer treatment
+
+[2017-06-14] Observation: Treatment status Cancer
+
+[2017-09-22] DiagnosticReport: History and physical note
+
+[2017-09-22] Encounter: 4a602845-8c9f-2ca5-cf0f-1155d4955d9c
+
+[2018-01-10] DiagnosticReport: History and physical note
+
+[2018-01-10] Encounter: 4a602845-8c9f-2ca5-3911-f2c40fa1ba20
+
+[2018-02-02] DiagnosticReport: History and physical note
+
+[2018-02-02] Encounter: 4a602845-8c9f-2ca5-7d04-02416c5a0594
+
+[2018-04-22] DiagnosticReport: History and physical note
+
+[2018-04-22] Encounter: 4a602845-8c9f-2ca5-5a84-19d78cd06da0
+
+[2018-04-23] DiagnosticReport: History and physical note
+
+[2018-04-23] Encounter: 4a602845-8c9f-2ca5-9318-6eecd9c5982c
+
+[2018-04-23] Observation: Response to cancer treatment
+
+[2018-08-24] DiagnosticReport: History and physical note
+
+[2018-08-24] Encounter: 4a602845-8c9f-2ca5-58a5-8da533575986
+
+[2018-12-05] DiagnosticReport: History and physical note
+
+[2018-12-05] Encounter: 4a602845-8c9f-2ca5-08c2-f2e5a7dd18b0
+
+[2019-03-23] DiagnosticReport: History and physical note
+
+[2019-03-23] DiagnosticReport: History and physical note
+
+[2019-03-23] Encounter: 4a602845-8c9f-2ca5-bf57-4d6ea2fa2901
+
+[2019-03-23] Encounter: 4a602845-8c9f-2ca5-c9db-3b510648bf68
+
+[2019-03-23] Observation: Response to cancer treatment
+
+[2019-07-23] DiagnosticReport: History and physical note
+
+[2019-07-23] Encounter: 4a602845-8c9f-2ca5-63af-a241e980cb6d
+
+[2019-11-05] DiagnosticReport: History and physical note
+
+[2019-11-05] Encounter: 4a602845-8c9f-2ca5-dfbb-0fd1efb8446b
+
+[2020-02-07] DiagnosticReport: History and physical note
+
+[2020-02-07] Encounter: 4a602845-8c9f-2ca5-347d-50076e8468f9
+
+[2020-02-20] DiagnosticReport: History and physical note
+
+[2020-02-20] DiagnosticReport: History and physical note
+
+[2020-02-20] Encounter: 4a602845-8c9f-2ca5-3adb-73d82b50bbb1
+
+[2020-02-20] Encounter: 4a602845-8c9f-2ca5-ab6d-175618619fcc
+
+[2020-02-20] Observation: Response to cancer treatment
+
+[2020-06-20] DiagnosticReport: History and physical note
+
+[2020-06-20] Encounter: 4a602845-8c9f-2ca5-7e77-b76d47d78607
+
+[2020-10-01] DiagnosticReport: History and physical note
+
+[2020-10-01] Encounter: 4a602845-8c9f-2ca5-903d-093d32f2ac67
+
+[2021-01-30] DiagnosticReport: History and physical note
+
+[2021-01-30] DiagnosticReport: History and physical note
+
+[2021-01-30] Encounter: 4a602845-8c9f-2ca5-9491-397089cff4ff
+
+[2021-01-30] Encounter: 4a602845-8c9f-2ca5-a089-59ea29e02836
+
+[2021-01-30] Observation: Response to cancer treatment
+
+[2021-05-22] DiagnosticReport: History and physical note
+
+[2021-05-22] Encounter: 4a602845-8c9f-2ca5-1b2f-d307552ecb57
+
+[2021-09-17] DiagnosticReport: History and physical note
+
+[2021-09-17] Encounter: 4a602845-8c9f-2ca5-c40f-facd7a2c59f7
+
+[2022-01-11] DiagnosticReport: History and physical note
+
+[2022-01-11] DiagnosticReport: History and physical note
+
+[2022-01-11] Encounter: 4a602845-8c9f-2ca5-7c25-7d93c8e312e8
+
+[2022-01-11] Encounter: 4a602845-8c9f-2ca5-f883-2fc755a13811
+
+[2022-02-11] DiagnosticReport: History and physical note
+
+[2022-02-11] Encounter: 4a602845-8c9f-2ca5-19dc-f4b82c78c0a6
+
+[2023-01-20] DiagnosticReport: History and physical note
+
+[2023-01-20] DiagnosticReport: History and physical note
+
+[2023-01-20] Encounter: 4a602845-8c9f-2ca5-3a95-55f420a98acc
+
+[2023-01-20] Encounter: 4a602845-8c9f-2ca5-89c9-1f27df57a981
+
+[2023-12-22] DiagnosticReport: History and physical note
+
+[2023-12-22] DiagnosticReport: History and physical note
+
+[2023-12-22] Encounter: 4a602845-8c9f-2ca5-6326-aa4f7bf9f71d
+
+[2023-12-22] Encounter: 4a602845-8c9f-2ca5-9a3a-6809388482f1
+
+[2024-01-19] DiagnosticReport: History and physical note
+
+[2024-01-19] Encounter: 4a602845-8c9f-2ca5-c51d-5715e957d1bc
+
+[2024-12-09] DiagnosticReport: History and physical note
+
+[2024-12-09] DiagnosticReport: History and physical note
+
+[2024-12-09] Encounter: 4a602845-8c9f-2ca5-88b1-2205f11ba523
+
+[2024-12-09] Encounter: 4a602845-8c9f-2ca5-fc95-511b5ae63669
+
+[2025-01-24] DiagnosticReport: History and physical note
+
+[2025-01-24] Encounter: 4a602845-8c9f-2ca5-9784-4fab815c44db
+
+[2025-12-11] DiagnosticReport: History and physical note
+
+[2025-12-11] DiagnosticReport: History and physical note
+
+[2025-12-11] Encounter: 4a602845-8c9f-2ca5-4a38-e139177bc9c8
+
+[2025-12-11] Encounter: 4a602845-8c9f-2ca5-d9bc-c8559ef25241
+
+[2026-01-30] DiagnosticReport: History and physical note
+
+[2026-01-30] Encounter: 4a602845-8c9f-2ca5-024b-232323f2315b

@@ -1,8 +1,12 @@
+# MedAudit – Breast Cancer Screening Audit
+# Default: docker compose up  → starts only MedAudit (redis, medaudit_*, nginx). App at http://localhost
+# Full stack: docker compose --profile platform --profile hapi up  → adds platform_* and HAPI FHIR
 version: '3.8'
 
 services:
-  # Platform Database
+  # Platform Database (optional; use --profile platform)
   platform_db:
+    profiles: ["platform"]
     image: postgres:16-alpine
     container_name: platform_db
     environment:
@@ -21,6 +25,7 @@ services:
     restart: unless-stopped
 
   platform_ui:
+    profiles: ["platform"]
     build:
       context: ./platform/ui
     container_name: platform_ui
@@ -42,8 +47,9 @@ services:
       - platform_web
     restart: unless-stopped
 
-  # Platform Web Application
+  # Platform Web Application (optional; use --profile platform)
   platform_web:
+    profiles: ["platform"]
     build:
       context: ./platform
       dockerfile: Dockerfile
@@ -72,9 +78,9 @@ services:
         condition: service_healthy
     restart: unless-stopped
 
-<<<<<<< HEAD
-  # HAPI FHIR Database
+  # HAPI FHIR Database (optional; use --profile hapi)
   hapi_db:
+    profiles: ["hapi"]
     image: postgres:15-alpine
     container_name: hapi_db
     environment:
@@ -92,24 +98,20 @@ services:
       retries: 5
     restart: unless-stopped
 
-  # HAPI FHIR Server
   hapi_fhir:
+    profiles: ["hapi"]
     image: hapiproject/hapi:latest
     container_name: hapi_fhir
     ports:
       - "9080:8080"
     environment:
-      # Database Connection
       SPRING_DATASOURCE_URL: jdbc:postgresql://hapi_db:5432/hapi
       SPRING_DATASOURCE_USERNAME: hapi
       SPRING_DATASOURCE_PASSWORD: hapi_dev_password
       SPRING_DATASOURCE_DRIVER_CLASS_NAME: org.postgresql.Driver
       SPRING_DATASOURCE_HIKARI_CONNECTION_TIMEOUT: "60000"
-      # SQL Dialect
       SPRING_JPA_PROPERTIES_HIBERNATE_DIALECT: org.hibernate.dialect.PostgreSQLDialect
-      # Hibernate schema management
       SPRING_JPA_HIBERNATE_DDL_AUTO: update
-      # FHIR Configuration
       HAPI_FHIR_FHIR_VERSION: R4
       HAPI_FHIR_OPENAPI_ENABLED: "true"
       HAPI_FHIR_TESTER_HOME_SERVER_ADDRESS: http://localhost:9080/fhir
@@ -118,7 +120,7 @@ services:
         condition: service_healthy
     restart: unless-stopped
 
-  # Redis for AI Orchestrator Task Queue
+  # Redis (Celery broker for MedAudit)
   redis:
     image: redis:7-alpine
     container_name: medaudit_redis
@@ -134,11 +136,99 @@ services:
       retries: 5
     restart: unless-stopped
 
+  # ---------- MedAudit stack ----------
+  medaudit_db:
+    image: postgres:16-alpine
+    container_name: medaudit_db
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+      POSTGRES_DB: medaudit
+    volumes:
+      - medaudit_db_data:/var/lib/postgresql/data
+    ports:
+      - "5434:5432"
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U postgres -d medaudit"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+    restart: unless-stopped
+
+  medaudit_backend:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    container_name: medaudit_backend
+    environment:
+      DATABASE_URL: postgresql://postgres:postgres@medaudit_db:5432/medaudit
+      CHROMA_PERSIST_DIR: /app/chroma_data
+      REDIS_URL: redis://redis:6379/0
+      CELERY_BROKER_URL: redis://redis:6379/0
+      CELERY_RESULT_BACKEND: redis://redis:6379/0
+      JWT_SECRET_KEY: change_me_jwt_secret_min_32_chars
+      ALLOWED_ORIGINS: http://localhost:3000,http://localhost:5173,http://localhost,http://127.0.0.1
+      MEDICAL_KB_PATH: /app/docs/Medical_KB
+    volumes:
+      - chroma_data:/app/chroma_data
+      - ./docs/Medical_KB:/app/docs/Medical_KB:ro
+    depends_on:
+      medaudit_db:
+        condition: service_healthy
+      redis:
+        condition: service_healthy
+    restart: unless-stopped
+
+  medaudit_worker:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    container_name: medaudit_worker
+    command: ["celery", "-A", "app.worker.celery_app", "worker", "--loglevel=info"]
+    environment:
+      DATABASE_URL: postgresql://postgres:postgres@medaudit_db:5432/medaudit
+      CHROMA_PERSIST_DIR: /app/chroma_data
+      REDIS_URL: redis://redis:6379/0
+      CELERY_BROKER_URL: redis://redis:6379/0
+      CELERY_RESULT_BACKEND: redis://redis:6379/0
+      JWT_SECRET_KEY: change_me_jwt_secret_min_32_chars
+      MEDICAL_KB_PATH: /app/docs/Medical_KB
+    volumes:
+      - chroma_data:/app/chroma_data
+      - ./docs/Medical_KB:/app/docs/Medical_KB:ro
+    depends_on:
+      medaudit_db:
+        condition: service_healthy
+      redis:
+        condition: service_healthy
+      medaudit_backend:
+        condition: service_started
+    restart: unless-stopped
+
+  medaudit_frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+      args:
+        VITE_API_URL: /api
+    container_name: medaudit_frontend
+    restart: unless-stopped
+
+  nginx:
+    image: nginx:1.27-alpine
+    container_name: medaudit_nginx
+    ports:
+      - "80:80"
+    volumes:
+      - ./nginx/nginx.conf:/etc/nginx/conf.d/default.conf:ro
+    depends_on:
+      - medaudit_backend
+      - medaudit_frontend
+    restart: unless-stopped
+
 volumes:
   platform_db_data:
   hapi_db_data:
   redis_data:
-=======
-volumes:
-  platform_db_data:
->>>>>>> 9f901da73b09ffc53c188783039890b217a4aa56
+  medaudit_db_data:
+  chroma_data:

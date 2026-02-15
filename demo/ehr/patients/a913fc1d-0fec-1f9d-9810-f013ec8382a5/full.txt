@@ -1,0 +1,96 @@
+# EHR Timeline
+Patient: Agueda283 Pansy803 Jones311
+Patient ID: a913fc1d-0fec-1f9d-9810-f013ec8382a5
+
+
+Patient: Agueda283 Pansy803 Jones311 (id: a913fc1d-0fec-1f9d-9810-f013ec8382a5)
+
+Procedure: Biopsy of breast (procedure)
+
+Procedure: Discussion about options (procedure)
+
+Procedure: Excision of lesion of breast (procedure)
+
+Procedure: Human epidermal growth factor receptor 2 gene detection by fluorescence in situ hybridization (procedure)
+
+Procedure: Human epidermal growth factor receptor 2 gene detection by immunohistochemistry (procedure)
+
+Procedure: Screening mammography (procedure)
+
+Procedure: Ultrasonography of bilateral breasts (procedure)
+
+[2017-06-08] DiagnosticReport: History and physical note
+
+[2017-06-08] Encounter: a913fc1d-0fec-1f9d-07d1-decb95717560
+
+[2019-06-13] DiagnosticReport: History and physical note
+
+[2019-06-13] Encounter: a913fc1d-0fec-1f9d-8dc5-bd8e412c3a35
+
+[2021-04-15] DiagnosticReport: History and physical note
+
+[2021-04-15] Encounter: a913fc1d-0fec-1f9d-30be-e9486a92a0cc
+
+[2021-05-06] DiagnosticReport: History and physical note
+
+[2021-05-06] Encounter: a913fc1d-0fec-1f9d-65da-bec3982879aa
+
+[2021-05-20] DiagnosticReport: History and physical note
+
+[2021-05-20] Encounter: a913fc1d-0fec-1f9d-5241-3d8703369db6
+
+[2022-05-26] DiagnosticReport: History and physical note
+
+[2022-05-26] Encounter: a913fc1d-0fec-1f9d-ae62-bd20242970f3
+
+[2023-06-01] DiagnosticReport: History and physical note
+
+[2023-06-01] Encounter: a913fc1d-0fec-1f9d-41e9-48d67f51bca2
+
+[2024-06-06] DiagnosticReport: History and physical note
+
+[2024-06-06] Encounter: a913fc1d-0fec-1f9d-bf9f-e5eff488db73
+
+[2025-06-12] DiagnosticReport: History and physical note
+
+[2025-06-12] Encounter: a913fc1d-0fec-1f9d-00fc-4a8c36c4ee20
+
+[2026-01-26] Condition: Malignant neoplasm of breast (disorder)
+
+[2026-01-26] DiagnosticReport: History and physical note
+
+[2026-01-26] Encounter: a913fc1d-0fec-1f9d-8ab9-1dcfca5d325a
+
+[2026-01-26] Observation: Distant metastases.clinical [Class] Cancer
+
+[2026-01-26] Observation: Lymph nodes with isolated tumor cells [#] in Cancer specimen by Light microscopy
+
+[2026-01-26] Observation: Primary tumor.clinical [Class] Cancer
+
+[2026-01-26] Observation: Regional lymph nodes.clinical [Class] Cancer
+
+[2026-01-26] Observation: Site of distant metastasis in Breast tumor
+
+[2026-01-26] Observation: Size.maximum dimension in Tumor
+
+[2026-01-29] Observation: ERBB2 gene duplication [Presence] in Breast cancer specimen by FISH
+
+[2026-01-29] Observation: Estrogen receptor Ag [Presence] in Breast cancer specimen by Immune stain
+
+[2026-01-29] Observation: Estrogen+Progesterone receptor Ag [Presence] in Tissue by Immune stain
+
+[2026-01-29] Observation: HER2 [Presence] in Breast cancer specimen by Immune stain
+
+[2026-01-29] Observation: Progesterone receptor Ag [Presence] in Breast cancer specimen by Immune stain
+
+[2026-01-29] Observation: Stage group.clinical Cancer
+
+[2026-01-29] Observation: Stage group.clinical Cancer
+
+[2026-01-31] DiagnosticReport: History and physical note
+
+[2026-01-31] Encounter: a913fc1d-0fec-1f9d-fd23-591b6abfe7ef
+
+[2026-02-05] DiagnosticReport: History and physical note
+
+[2026-02-05] Encounter: a913fc1d-0fec-1f9d-704c-f79c48733753

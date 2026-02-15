@@ -1,0 +1,136 @@
+# EHR Timeline
+Patient: Tambra47 Daisey627 Schaefer657
+Patient ID: c09f5c1a-2749-25cc-6d4c-91023fef04c8
+
+
+MedicationRequest: c09f5c1a-2749-25cc-1528-783cbadd4b00
+
+MedicationRequest: c09f5c1a-2749-25cc-f09f-38dcd8946a2a
+
+Patient: Tambra47 Daisey627 Schaefer657 (id: c09f5c1a-2749-25cc-6d4c-91023fef04c8)
+
+Procedure: Biopsy of breast (procedure)
+
+Procedure: Brachytherapy of breast (procedure)
+
+Procedure: Discussion about options (procedure)
+
+Procedure: Human epidermal growth factor receptor 2 gene detection by fluorescence in situ hybridization (procedure)
+
+Procedure: Human epidermal growth factor receptor 2 gene detection by immunohistochemistry (procedure)
+
+Procedure: Interstitial brachytherapy (procedure)
+
+Procedure: Lumpectomy of breast (procedure)
+
+Procedure: Magnetic resonance imaging of breast (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Screening mammography (procedure)
+
+[2016-12-28] DiagnosticReport: History and physical note
+
+[2016-12-28] Encounter: c09f5c1a-2749-25cc-11b4-24e1d68b934e
+
+[2018-01-03] DiagnosticReport: History and physical note
+
+[2018-01-03] Encounter: c09f5c1a-2749-25cc-5031-31fe6b968db1
+
+[2019-01-09] DiagnosticReport: History and physical note
+
+[2019-01-09] Encounter: c09f5c1a-2749-25cc-6e92-cae5a7fe07f7
+
+[2020-01-15] DiagnosticReport: History and physical note
+
+[2020-01-15] Encounter: c09f5c1a-2749-25cc-83d2-9e942cda8856
+
+[2021-01-20] DiagnosticReport: History and physical note
+
+[2021-01-20] Encounter: c09f5c1a-2749-25cc-80e0-22c1ce8ae664
+
+[2021-03-31] DiagnosticReport: History and physical note
+
+[2021-03-31] Encounter: c09f5c1a-2749-25cc-325b-3b7d483b0a6e
+
+[2021-04-21] DiagnosticReport: History and physical note
+
+[2021-04-21] Encounter: c09f5c1a-2749-25cc-afd1-8ddff1d866bd
+
+[2022-01-26] DiagnosticReport: History and physical note
+
+[2022-01-26] Encounter: c09f5c1a-2749-25cc-b124-c7d73c651c80
+
+[2023-02-01] DiagnosticReport: History and physical note
+
+[2023-02-01] Encounter: c09f5c1a-2749-25cc-badb-6ce813b0bbd5
+
+[2024-02-07] DiagnosticReport: History and physical note
+
+[2024-02-07] Encounter: c09f5c1a-2749-25cc-9eee-8da0c9e42b09
+
+[2025-01-07] Condition: Malignant neoplasm of breast (disorder)
+
+[2025-01-07] DiagnosticReport: History and physical note
+
+[2025-01-07] Encounter: c09f5c1a-2749-25cc-d419-9647ddb569b6
+
+[2025-01-07] Observation: Distant metastases.clinical [Class] Cancer
+
+[2025-01-07] Observation: Lymph nodes with isolated tumor cells [#] in Cancer specimen by Light microscopy
+
+[2025-01-07] Observation: Primary tumor.clinical [Class] Cancer
+
+[2025-01-07] Observation: Regional lymph nodes.clinical [Class] Cancer
+
+[2025-01-07] Observation: Site of distant metastasis in Breast tumor
+
+[2025-01-07] Observation: Size.maximum dimension in Tumor
+
+[2025-01-09] Observation: ERBB2 gene duplication [Presence] in Breast cancer specimen by FISH
+
+[2025-01-09] Observation: Estrogen receptor Ag [Presence] in Breast cancer specimen by Immune stain
+
+[2025-01-09] Observation: Estrogen+Progesterone receptor Ag [Presence] in Tissue by Immune stain
+
+[2025-01-09] Observation: HER2 [Presence] in Breast cancer specimen by Immune stain
+
+[2025-01-09] Observation: Progesterone receptor Ag [Presence] in Breast cancer specimen by Immune stain
+
+[2025-01-09] Observation: Stage group.clinical Cancer
+
+[2025-01-09] Observation: Stage group.clinical Cancer
+
+[2025-01-14] DiagnosticReport: History and physical note
+
+[2025-01-14] Encounter: c09f5c1a-2749-25cc-6599-a3dbb799e38e
+
+[2025-01-15] DiagnosticReport: History and physical note
+
+[2025-01-15] Encounter: c09f5c1a-2749-25cc-89e5-2062750b1669
+
+[2025-01-30] DiagnosticReport: History and physical note
+
+[2025-01-30] Encounter: c09f5c1a-2749-25cc-8337-3b7818e76886
+
+[2025-02-12] DiagnosticReport: History and physical note
+
+[2025-02-12] Encounter: c09f5c1a-2749-25cc-54cf-be4c89c683a0
+
+[2025-03-08] DiagnosticReport: History and physical note
+
+[2025-03-08] Encounter: c09f5c1a-2749-25cc-4f73-6e5cfb232745
+
+[2025-03-08] Observation: Response to cancer treatment
+
+[2025-03-08] Observation: Treatment status Cancer
+
+[2025-07-11] DiagnosticReport: History and physical note
+
+[2025-07-11] Encounter: c09f5c1a-2749-25cc-a4bf-8e7c1a0aca97
+
+[2025-11-03] DiagnosticReport: History and physical note
+
+[2025-11-03] Encounter: c09f5c1a-2749-25cc-eae3-5b7b4ce58852

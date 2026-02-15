@@ -1,0 +1,386 @@
+# EHR Timeline
+Patient: Bethany501 Fumiko79 Abernathy524
+Patient ID: 8730a0a6-cd24-55f7-d88d-6e2ecb225eea
+
+
+MedicationRequest: 8730a0a6-cd24-55f7-6321-d9718bf7db18
+
+Patient: Bethany501 Fumiko79 Abernathy524 (id: 8730a0a6-cd24-55f7-d88d-6e2ecb225eea)
+
+Procedure: Biopsy of breast (procedure)
+
+Procedure: Bone density scan (procedure)
+
+Procedure: Bone density scan (procedure)
+
+Procedure: Discussion about options (procedure)
+
+Procedure: External beam radiation therapy procedure (procedure)
+
+Procedure: External beam radiation therapy procedure (procedure)
+
+Procedure: External beam radiation therapy procedure (procedure)
+
+Procedure: External beam radiation therapy procedure (procedure)
+
+Procedure: External beam radiation therapy procedure (procedure)
+
+Procedure: External beam radiation therapy procedure (procedure)
+
+Procedure: External beam radiation therapy procedure (procedure)
+
+Procedure: External beam radiation therapy procedure (procedure)
+
+Procedure: External beam radiation therapy procedure (procedure)
+
+Procedure: External beam radiation therapy procedure (procedure)
+
+Procedure: External beam radiation therapy procedure (procedure)
+
+Procedure: External beam radiation therapy procedure (procedure)
+
+Procedure: External beam radiation therapy procedure (procedure)
+
+Procedure: External beam radiation therapy procedure (procedure)
+
+Procedure: External beam radiation therapy procedure (procedure)
+
+Procedure: External beam radiation therapy procedure (procedure)
+
+Procedure: External beam radiation therapy procedure (procedure)
+
+Procedure: External beam radiation therapy procedure (procedure)
+
+Procedure: External beam radiation therapy procedure (procedure)
+
+Procedure: External beam radiation therapy procedure (procedure)
+
+Procedure: External beam radiation therapy procedure (procedure)
+
+Procedure: External beam radiation therapy procedure (procedure)
+
+Procedure: External beam radiation therapy procedure (procedure)
+
+Procedure: External beam radiation therapy procedure (procedure)
+
+Procedure: External beam radiation therapy procedure (procedure)
+
+Procedure: External beam radiation therapy procedure (procedure)
+
+Procedure: External beam radiation therapy procedure (procedure)
+
+Procedure: External beam radiation therapy procedure (procedure)
+
+Procedure: External beam radiation therapy procedure (procedure)
+
+Procedure: External beam radiation therapy procedure (procedure)
+
+Procedure: External beam radiation therapy procedure (procedure)
+
+Procedure: External beam radiation therapy procedure (procedure)
+
+Procedure: External beam radiation therapy procedure (procedure)
+
+Procedure: External beam radiation therapy procedure (procedure)
+
+Procedure: Human epidermal growth factor receptor 2 gene detection by fluorescence in situ hybridization (procedure)
+
+Procedure: Human epidermal growth factor receptor 2 gene detection by immunohistochemistry (procedure)
+
+Procedure: Lumpectomy of breast (procedure)
+
+Procedure: Mammography (procedure)
+
+Procedure: Mammography (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Screening mammography (procedure)
+
+Procedure: Ultrasonography of bilateral breasts (procedure)
+
+[2017-01-20] DiagnosticReport: History and physical note
+
+[2017-01-20] Encounter: 8730a0a6-cd24-55f7-0a24-55659f9a7350
+
+[2018-01-26] DiagnosticReport: History and physical note
+
+[2018-01-26] Encounter: 8730a0a6-cd24-55f7-4fdc-06a0f77e16b6
+
+[2019-02-01] DiagnosticReport: History and physical note
+
+[2019-02-01] Encounter: 8730a0a6-cd24-55f7-cb5a-ba09034e5ef0
+
+[2020-02-07] DiagnosticReport: History and physical note
+
+[2020-02-07] Encounter: 8730a0a6-cd24-55f7-6d7a-9b8ba0b6f5ec
+
+[2021-02-12] DiagnosticReport: History and physical note
+
+[2021-02-12] Encounter: 8730a0a6-cd24-55f7-2858-c4e0030f3af6
+
+[2021-03-19] DiagnosticReport: History and physical note
+
+[2021-03-19] Encounter: 8730a0a6-cd24-55f7-31c4-9cc970e0db09
+
+[2021-04-09] DiagnosticReport: History and physical note
+
+[2021-04-09] Encounter: 8730a0a6-cd24-55f7-4df9-1b7cd51a3a70
+
+[2022-02-18] DiagnosticReport: History and physical note
+
+[2022-02-18] Encounter: 8730a0a6-cd24-55f7-0ea3-deccbd86b363
+
+[2023-02-24] DiagnosticReport: History and physical note
+
+[2023-02-24] Encounter: 8730a0a6-cd24-55f7-b872-484c4804ff12
+
+[2023-09-30] Condition: Malignant neoplasm of breast (disorder)
+
+[2023-09-30] DiagnosticReport: History and physical note
+
+[2023-09-30] Encounter: 8730a0a6-cd24-55f7-515b-16bb32c03819
+
+[2023-09-30] Observation: Distant metastases.clinical [Class] Cancer
+
+[2023-09-30] Observation: Lymph nodes with isolated tumor cells [#] in Cancer specimen by Light microscopy
+
+[2023-09-30] Observation: Primary tumor.clinical [Class] Cancer
+
+[2023-09-30] Observation: Regional lymph nodes.clinical [Class] Cancer
+
+[2023-09-30] Observation: Site of distant metastasis in Breast tumor
+
+[2023-09-30] Observation: Size.maximum dimension in Tumor
+
+[2023-10-01] Observation: ERBB2 gene duplication [Presence] in Breast cancer specimen by FISH
+
+[2023-10-01] Observation: Estrogen receptor Ag [Presence] in Breast cancer specimen by Immune stain
+
+[2023-10-01] Observation: HER2 [Presence] in Breast cancer specimen by Immune stain
+
+[2023-10-01] Observation: Progesterone receptor Ag [Presence] in Breast cancer specimen by Immune stain
+
+[2023-10-01] Observation: Stage group.clinical Cancer
+
+[2023-10-01] Observation: Stage group.clinical Cancer
+
+[2023-10-05] DiagnosticReport: History and physical note
+
+[2023-10-05] Encounter: 8730a0a6-cd24-55f7-3528-ba8b3cd2c277
+
+[2023-10-12] DiagnosticReport: History and physical note
+
+[2023-10-12] Encounter: 8730a0a6-cd24-55f7-cb76-db7df6e20ea6
+
+[2023-10-24] DiagnosticReport: History and physical note
+
+[2023-10-24] Encounter: 8730a0a6-cd24-55f7-8a3c-1ec8c4b230b5
+
+[2023-10-25] DiagnosticReport: History and physical note
+
+[2023-10-25] Encounter: 8730a0a6-cd24-55f7-639b-93144332ffe7
+
+[2023-10-27] DiagnosticReport: History and physical note
+
+[2023-10-27] Encounter: 8730a0a6-cd24-55f7-bffc-395ce1cc8091
+
+[2023-10-28] DiagnosticReport: History and physical note
+
+[2023-10-28] Encounter: 8730a0a6-cd24-55f7-02de-437a85de8731
+
+[2023-10-29] DiagnosticReport: History and physical note
+
+[2023-10-29] Encounter: 8730a0a6-cd24-55f7-1c17-f30e203bcd1b
+
+[2023-10-31] DiagnosticReport: History and physical note
+
+[2023-10-31] Encounter: 8730a0a6-cd24-55f7-6f13-69b6e7bcb8be
+
+[2023-11-01] DiagnosticReport: History and physical note
+
+[2023-11-01] Encounter: 8730a0a6-cd24-55f7-7166-64cbdb0cfe08
+
+[2023-11-02] DiagnosticReport: History and physical note
+
+[2023-11-02] Encounter: 8730a0a6-cd24-55f7-ff1e-93ee7f6df5b7
+
+[2023-11-04] DiagnosticReport: History and physical note
+
+[2023-11-04] Encounter: 8730a0a6-cd24-55f7-4e24-b9b39016e379
+
+[2023-11-05] DiagnosticReport: History and physical note
+
+[2023-11-05] Encounter: 8730a0a6-cd24-55f7-cb85-3eb2558f2706
+
+[2023-11-07] DiagnosticReport: History and physical note
+
+[2023-11-07] Encounter: 8730a0a6-cd24-55f7-d649-aeb083f52392
+
+[2023-11-08] DiagnosticReport: History and physical note
+
+[2023-11-08] Encounter: 8730a0a6-cd24-55f7-6535-8802de4c6c36
+
+[2023-11-09] DiagnosticReport: History and physical note
+
+[2023-11-09] Encounter: 8730a0a6-cd24-55f7-cee3-65b2b3f75f99
+
+[2023-11-10] DiagnosticReport: History and physical note
+
+[2023-11-10] Encounter: 8730a0a6-cd24-55f7-ce14-ef6ddfebdec1
+
+[2023-11-11] DiagnosticReport: History and physical note
+
+[2023-11-11] Encounter: 8730a0a6-cd24-55f7-adb9-14c0357ed34e
+
+[2023-11-13] DiagnosticReport: History and physical note
+
+[2023-11-13] Encounter: 8730a0a6-cd24-55f7-5551-dd4c5df1f395
+
+[2023-11-14] DiagnosticReport: History and physical note
+
+[2023-11-14] Encounter: 8730a0a6-cd24-55f7-22ef-4ca35cb379c0
+
+[2023-11-15] DiagnosticReport: History and physical note
+
+[2023-11-15] Encounter: 8730a0a6-cd24-55f7-c993-bd0ed0a5e665
+
+[2023-11-17] DiagnosticReport: History and physical note
+
+[2023-11-17] Encounter: 8730a0a6-cd24-55f7-9d4b-6493ea8b2a7d
+
+[2023-11-18] DiagnosticReport: History and physical note
+
+[2023-11-18] Encounter: 8730a0a6-cd24-55f7-c71e-050350ca84d2
+
+[2023-11-19] DiagnosticReport: History and physical note
+
+[2023-11-19] Encounter: 8730a0a6-cd24-55f7-5dda-f5a7a00e238d
+
+[2023-11-20] DiagnosticReport: History and physical note
+
+[2023-11-20] Encounter: 8730a0a6-cd24-55f7-9e37-456506c7be12
+
+[2023-11-21] DiagnosticReport: History and physical note
+
+[2023-11-21] Encounter: 8730a0a6-cd24-55f7-3a8f-2350a0b40876
+
+[2023-11-23] DiagnosticReport: History and physical note
+
+[2023-11-23] Encounter: 8730a0a6-cd24-55f7-ae90-480f623bdf45
+
+[2023-11-24] DiagnosticReport: History and physical note
+
+[2023-11-24] Encounter: 8730a0a6-cd24-55f7-da8a-43138a9894bf
+
+[2023-11-25] DiagnosticReport: History and physical note
+
+[2023-11-25] Encounter: 8730a0a6-cd24-55f7-fe3a-50de14eaabac
+
+[2023-11-26] DiagnosticReport: History and physical note
+
+[2023-11-26] Encounter: 8730a0a6-cd24-55f7-59dc-d4ac43398eb4
+
+[2023-11-28] DiagnosticReport: History and physical note
+
+[2023-11-28] Encounter: 8730a0a6-cd24-55f7-9b27-86d051f9e7f9
+
+[2023-11-29] DiagnosticReport: History and physical note
+
+[2023-11-29] Encounter: 8730a0a6-cd24-55f7-fffd-c04f1fea7b64
+
+[2023-11-30] DiagnosticReport: History and physical note
+
+[2023-11-30] Encounter: 8730a0a6-cd24-55f7-c47f-d058bc24bcba
+
+[2023-12-01] DiagnosticReport: History and physical note
+
+[2023-12-01] Encounter: 8730a0a6-cd24-55f7-da27-ab00ae25a448
+
+[2023-12-03] DiagnosticReport: History and physical note
+
+[2023-12-03] Encounter: 8730a0a6-cd24-55f7-c6ae-bbf3668122f0
+
+[2023-12-04] DiagnosticReport: History and physical note
+
+[2023-12-04] Encounter: 8730a0a6-cd24-55f7-d0cc-f686de2ccbd8
+
+[2023-12-05] DiagnosticReport: History and physical note
+
+[2023-12-05] Encounter: 8730a0a6-cd24-55f7-9650-faf2421addfa
+
+[2023-12-10] DiagnosticReport: History and physical note
+
+[2023-12-10] Encounter: 8730a0a6-cd24-55f7-c94c-47a5e4c5dca8
+
+[2023-12-10] Observation: Response to cancer treatment
+
+[2023-12-10] Observation: Treatment status Cancer
+
+[2024-03-01] DiagnosticReport: History and physical note
+
+[2024-03-01] Encounter: 8730a0a6-cd24-55f7-f7d7-b96cabc17323
+
+[2024-03-22] DiagnosticReport: History and physical note
+
+[2024-03-22] Encounter: 8730a0a6-cd24-55f7-9668-2ac987b4fa32
+
+[2024-07-07] DiagnosticReport: History and physical note
+
+[2024-07-07] Encounter: 8730a0a6-cd24-55f7-e977-6d7c9b6ae0c1
+
+[2024-11-07] DiagnosticReport: History and physical note
+
+[2024-11-07] DiagnosticReport: History and physical note
+
+[2024-11-07] DiagnosticReport: History and physical note
+
+[2024-11-07] Encounter: 8730a0a6-cd24-55f7-7325-8274cb56df56
+
+[2024-11-07] Encounter: 8730a0a6-cd24-55f7-cd67-a0d3c0b9272e
+
+[2024-11-07] Encounter: 8730a0a6-cd24-55f7-e116-56faad73dc4a
+
+[2024-11-07] Observation: Response to cancer treatment
+
+[2025-02-13] DiagnosticReport: History and physical note
+
+[2025-02-13] Encounter: 8730a0a6-cd24-55f7-b55c-220bc4539bb9
+
+[2025-03-07] DiagnosticReport: History and physical note
+
+[2025-03-07] Encounter: 8730a0a6-cd24-55f7-7467-389c0538d787
+
+[2025-05-24] DiagnosticReport: History and physical note
+
+[2025-05-24] Encounter: 8730a0a6-cd24-55f7-1aa0-b8f286f89980
+
+[2025-09-13] DiagnosticReport: History and physical note
+
+[2025-09-13] DiagnosticReport: History and physical note
+
+[2025-09-13] DiagnosticReport: History and physical note
+
+[2025-09-13] Encounter: 8730a0a6-cd24-55f7-7f38-874c31e57a67
+
+[2025-09-13] Encounter: 8730a0a6-cd24-55f7-ad64-5d3cb58c24d8
+
+[2025-09-13] Encounter: 8730a0a6-cd24-55f7-d6e9-6e29673d8d6e
+
+[2025-09-13] Observation: Response to cancer treatment
+
+[2025-12-21] DiagnosticReport: History and physical note
+
+[2025-12-21] Encounter: 8730a0a6-cd24-55f7-81e8-d4cf0e07e5b6

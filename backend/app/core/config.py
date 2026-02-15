@@ -46,12 +46,24 @@ class Settings(BaseSettings):
     # CORS
     allowed_origins: str = "http://localhost:3000,http://localhost:5173"
 
-    # Qdrant (vector DB)
+    # ChromaDB (vector DB for RAG)
+    chroma_persist_dir: str = "./chroma_data"
+
+    # Embedding: "openai" uses OpenAI text-embedding-3-small when openai_api_key set; else FastEmbed (bge-small)
+    embedding_provider: str = "fastembed"  # "fastembed" | "openai"
+    openai_api_key: str | None = None
+    openai_embedding_model: str = "text-embedding-3-small"
+
+    # Legacy Qdrant (optional; RAG uses ChromaDB when chroma_persist_dir is set)
     qdrant_url: str = "http://localhost:6333"
     qdrant_api_key: str | None = None
 
-    # RabbitMQ / Celery
+    # Redis / Celery (use redis for broker when available)
+    redis_url: str = "redis://localhost:6379/0"
+
+    # RabbitMQ / Celery (use CELERY_BROKER_URL=redis://... for Redis)
     celery_broker_url: str = "amqp://guest:guest@localhost:5672/"
+    celery_result_backend: str | None = None  # e.g. redis://localhost:6379/0 when using Redis broker
 
     # JWT
     jwt_secret_key: str = "change_me_jwt_secret_min_32_chars"

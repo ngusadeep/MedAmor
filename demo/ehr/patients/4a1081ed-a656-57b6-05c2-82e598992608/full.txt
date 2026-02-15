@@ -1,0 +1,228 @@
+# EHR Timeline
+Patient: Hien98 Retta782 Marvin195
+Patient ID: 4a1081ed-a656-57b6-05c2-82e598992608
+
+
+MedicationRequest: 4a1081ed-a656-57b6-05d0-bd629f48c9ae
+
+MedicationRequest: 4a1081ed-a656-57b6-2b14-e023522cf9a1
+
+MedicationRequest: 4a1081ed-a656-57b6-2d89-09a06610502f
+
+MedicationRequest: 4a1081ed-a656-57b6-3314-d0b74e9aaa93
+
+MedicationRequest: 4a1081ed-a656-57b6-40ba-f2aaab1fa6a1
+
+MedicationRequest: 4a1081ed-a656-57b6-4877-f3b0b339c67b
+
+MedicationRequest: 4a1081ed-a656-57b6-5c72-7cac0e1e38c4
+
+MedicationRequest: 4a1081ed-a656-57b6-883d-b20e88970807
+
+MedicationRequest: 4a1081ed-a656-57b6-a1b1-c5a3385c0c3f
+
+MedicationRequest: 4a1081ed-a656-57b6-c7fe-b39963b5269d
+
+MedicationRequest: 4a1081ed-a656-57b6-d2c3-953c4b29edc7
+
+MedicationRequest: 4a1081ed-a656-57b6-ec77-6cc174dda718
+
+MedicationRequest: 4a1081ed-a656-57b6-f0d6-ebf0293103ee
+
+MedicationRequest: 4a1081ed-a656-57b6-f7b8-73b08310db8b
+
+MedicationRequest: 4a1081ed-a656-57b6-f858-2a6775c48013
+
+Patient: Hien98 Retta782 Marvin195 (id: 4a1081ed-a656-57b6-05c2-82e598992608)
+
+Procedure: Biopsy of breast (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Discussion about options (procedure)
+
+Procedure: Human epidermal growth factor receptor 2 gene detection by fluorescence in situ hybridization (procedure)
+
+Procedure: Human epidermal growth factor receptor 2 gene detection by immunohistochemistry (procedure)
+
+Procedure: Lumpectomy of breast (procedure)
+
+Procedure: Screening mammography (procedure)
+
+Procedure: Ultrasonography of bilateral breasts (procedure)
+
+[2017-01-25] DiagnosticReport: History and physical note
+
+[2017-01-25] Encounter: 4a1081ed-a656-57b6-c229-9ec58722d5bf
+
+[2018-01-31] DiagnosticReport: History and physical note
+
+[2018-01-31] Encounter: 4a1081ed-a656-57b6-7713-482a4ffffe11
+
+[2019-02-06] DiagnosticReport: History and physical note
+
+[2019-02-06] Encounter: 4a1081ed-a656-57b6-4702-62ba388ab3b5
+
+[2020-02-12] DiagnosticReport: History and physical note
+
+[2020-02-12] Encounter: 4a1081ed-a656-57b6-8271-74e128de5f94
+
+[2021-02-17] DiagnosticReport: History and physical note
+
+[2021-02-17] Encounter: 4a1081ed-a656-57b6-fc07-7aed374c5baa
+
+[2021-06-30] DiagnosticReport: History and physical note
+
+[2021-06-30] Encounter: 4a1081ed-a656-57b6-4d5c-615889e6cc9c
+
+[2021-07-21] DiagnosticReport: History and physical note
+
+[2021-07-21] Encounter: 4a1081ed-a656-57b6-cb8c-b302cab2aec1
+
+[2022-02-23] DiagnosticReport: History and physical note
+
+[2022-02-23] Encounter: 4a1081ed-a656-57b6-5208-33ab47661f64
+
+[2023-03-01] DiagnosticReport: History and physical note
+
+[2023-03-01] Encounter: 4a1081ed-a656-57b6-d0cf-225025e1371d
+
+[2024-03-06] DiagnosticReport: History and physical note
+
+[2024-03-06] Encounter: 4a1081ed-a656-57b6-b16f-98dbd54a01fe
+
+[2025-03-12] DiagnosticReport: History and physical note
+
+[2025-03-12] Encounter: 4a1081ed-a656-57b6-187a-2272c91fd583
+
+[2025-03-22] Condition: Malignant neoplasm of breast (disorder)
+
+[2025-03-22] DiagnosticReport: History and physical note
+
+[2025-03-22] Encounter: 4a1081ed-a656-57b6-7824-91b4203fa71d
+
+[2025-03-22] Observation: Distant metastases.clinical [Class] Cancer
+
+[2025-03-22] Observation: Lymph nodes with isolated tumor cells [#] in Cancer specimen by Light microscopy
+
+[2025-03-22] Observation: Primary tumor.clinical [Class] Cancer
+
+[2025-03-22] Observation: Regional lymph nodes.clinical [Class] Cancer
+
+[2025-03-22] Observation: Site of distant metastasis in Breast tumor
+
+[2025-03-22] Observation: Size.maximum dimension in Tumor
+
+[2025-03-24] Observation: ERBB2 gene duplication [Presence] in Breast cancer specimen by FISH
+
+[2025-03-24] Observation: Estrogen receptor Ag [Presence] in Breast cancer specimen by Immune stain
+
+[2025-03-24] Observation: Estrogen+Progesterone receptor Ag [Presence] in Tissue by Immune stain
+
+[2025-03-24] Observation: HER2 [Presence] in Breast cancer specimen by Immune stain
+
+[2025-03-24] Observation: Progesterone receptor Ag [Presence] in Breast cancer specimen by Immune stain
+
+[2025-03-24] Observation: Stage group.clinical Cancer
+
+[2025-03-24] Observation: Stage group.clinical Cancer
+
+[2025-03-24] Observation: Tumor marker Cancer
+
+[2025-03-26] DiagnosticReport: History and physical note
+
+[2025-03-26] Encounter: 4a1081ed-a656-57b6-7949-f1a6bd741765
+
+[2025-04-02] DiagnosticReport: History and physical note
+
+[2025-04-02] Encounter: 4a1081ed-a656-57b6-1705-a4ab27835cef
+
+[2025-04-22] DiagnosticReport: History and physical note
+
+[2025-04-22] Encounter: 4a1081ed-a656-57b6-9e43-62e5e642246a
+
+[2025-05-14] DiagnosticReport: History and physical note
+
+[2025-05-14] Encounter: 4a1081ed-a656-57b6-e522-e191c6a75222
+
+[2025-06-03] DiagnosticReport: History and physical note
+
+[2025-06-03] Encounter: 4a1081ed-a656-57b6-7940-54fb5b2fb4ea
+
+[2025-06-22] DiagnosticReport: History and physical note
+
+[2025-06-22] Encounter: 4a1081ed-a656-57b6-5e41-720fd6fa6879
+
+[2025-07-14] DiagnosticReport: History and physical note
+
+[2025-07-14] Encounter: 4a1081ed-a656-57b6-9a9c-5f70c0904a84
+
+[2025-08-03] DiagnosticReport: History and physical note
+
+[2025-08-03] Encounter: 4a1081ed-a656-57b6-52a4-d3c0187a43a3
+
+[2025-08-24] DiagnosticReport: History and physical note
+
+[2025-08-24] Encounter: 4a1081ed-a656-57b6-ff7e-a0fb5e5ba31c
+
+[2025-09-07] DiagnosticReport: History and physical note
+
+[2025-09-07] Encounter: 4a1081ed-a656-57b6-9ed7-cb086749cb00
+
+[2025-09-07] Observation: Response to cancer treatment
+
+[2025-09-22] DiagnosticReport: History and physical note
+
+[2025-09-22] Encounter: 4a1081ed-a656-57b6-6c8f-091ffa2d1ffa
+
+[2025-10-13] DiagnosticReport: History and physical note
+
+[2025-10-13] Encounter: 4a1081ed-a656-57b6-7f2a-8bd6057189ee
+
+[2025-11-04] DiagnosticReport: History and physical note
+
+[2025-11-04] Encounter: 4a1081ed-a656-57b6-1895-9c8bb70ad143
+
+[2025-11-24] DiagnosticReport: History and physical note
+
+[2025-11-24] Encounter: 4a1081ed-a656-57b6-3406-f1bdbe459507
+
+[2025-12-14] DiagnosticReport: History and physical note
+
+[2025-12-14] Encounter: 4a1081ed-a656-57b6-df8a-e69f4ead2aea
+
+[2026-01-04] DiagnosticReport: History and physical note
+
+[2026-01-04] Encounter: 4a1081ed-a656-57b6-c149-c4a5332b08be
+
+[2026-01-26] DiagnosticReport: History and physical note
+
+[2026-01-26] Encounter: 4a1081ed-a656-57b6-6f9f-a89f827abefa

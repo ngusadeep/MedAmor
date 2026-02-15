@@ -1,0 +1,264 @@
+# EHR Timeline
+Patient: Aja848 Aleen595 Kuphal363
+Patient ID: 5adea5db-0071-ec33-7b21-3aab353e92ee
+
+
+MedicationRequest: 5adea5db-0071-ec33-0cf4-8c93b1cca004
+
+MedicationRequest: 5adea5db-0071-ec33-11b1-1aa27ebc3108
+
+MedicationRequest: 5adea5db-0071-ec33-3bd7-54c865f48e76
+
+MedicationRequest: 5adea5db-0071-ec33-526c-ee8662bd0677
+
+MedicationRequest: 5adea5db-0071-ec33-7a3f-f20ce947275d
+
+MedicationRequest: 5adea5db-0071-ec33-848a-ae54437c56ff
+
+MedicationRequest: 5adea5db-0071-ec33-8614-394b34ae704e
+
+MedicationRequest: 5adea5db-0071-ec33-b40b-2b5517b22edf
+
+MedicationRequest: 5adea5db-0071-ec33-e084-c4025bf49566
+
+MedicationRequest: 5adea5db-0071-ec33-f3c9-89f765a386a5
+
+Patient: Aja848 Aleen595 Kuphal363 (id: 5adea5db-0071-ec33-7b21-3aab353e92ee)
+
+Procedure: Biopsy of breast (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Cytopathology procedure, preparation of smear, genital source (procedure)
+
+Procedure: Cytopathology procedure, preparation of smear, genital source (procedure)
+
+Procedure: Cytopathology procedure, preparation of smear, genital source (procedure)
+
+Procedure: Discussion about options (procedure)
+
+Procedure: Excision of axillary lymph node (procedure)
+
+Procedure: External beam radiation therapy procedure (procedure)
+
+Procedure: Human epidermal growth factor receptor 2 gene detection by fluorescence in situ hybridization (procedure)
+
+Procedure: Human epidermal growth factor receptor 2 gene detection by immunohistochemistry (procedure)
+
+Procedure: Mammography (procedure)
+
+Procedure: Mammography (procedure)
+
+Procedure: Mammography (procedure)
+
+Procedure: Manual pelvic examination (procedure)
+
+Procedure: Manual pelvic examination (procedure)
+
+Procedure: Manual pelvic examination (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Screening mammography (procedure)
+
+Procedure: Ultrasonography of bilateral breasts (procedure)
+
+[1975-05-02] DiagnosticReport: History and physical note
+
+[1975-05-02] Encounter: 5adea5db-0071-ec33-8d0c-510244dea87c
+
+[1978-05-05] DiagnosticReport: History and physical note
+
+[1978-05-05] Encounter: 5adea5db-0071-ec33-0b8b-d098c412618b
+
+[1981-05-08] DiagnosticReport: History and physical note
+
+[1981-05-08] Encounter: 5adea5db-0071-ec33-364b-8445c571cd8f
+
+[1981-05-15] Condition: Malignant neoplasm of breast (disorder)
+
+[1981-05-15] DiagnosticReport: History and physical note
+
+[1981-05-15] Encounter: 5adea5db-0071-ec33-c455-4690add5c0ad
+
+[1981-05-15] Observation: Distant metastases.clinical [Class] Cancer
+
+[1981-05-15] Observation: Lymph nodes with macrometastases [#] in Cancer specimen by Light microscopy
+
+[1981-05-15] Observation: Primary tumor.clinical [Class] Cancer
+
+[1981-05-15] Observation: Regional lymph nodes.clinical [Class] Cancer
+
+[1981-05-15] Observation: Site of distant metastasis in Breast tumor
+
+[1981-05-17] Observation: ERBB2 gene duplication [Presence] in Breast cancer specimen by FISH
+
+[1981-05-17] Observation: Estrogen receptor Ag [Presence] in Breast cancer specimen by Immune stain
+
+[1981-05-17] Observation: Estrogen+Progesterone receptor Ag [Presence] in Tissue by Immune stain
+
+[1981-05-17] Observation: HER2 [Presence] in Breast cancer specimen by Immune stain
+
+[1981-05-17] Observation: Progesterone receptor Ag [Presence] in Breast cancer specimen by Immune stain
+
+[1981-05-17] Observation: Stage group.clinical Cancer
+
+[1981-05-17] Observation: Stage group.clinical Cancer
+
+[1981-05-18] DiagnosticReport: History and physical note
+
+[1981-05-18] Encounter: 5adea5db-0071-ec33-5ff9-b6d5fb0cb9e6
+
+[1981-05-21] DiagnosticReport: History and physical note
+
+[1981-05-21] Encounter: 5adea5db-0071-ec33-fb5a-b4b8ee34346e
+
+[1981-06-11] DiagnosticReport: History and physical note
+
+[1981-06-11] Encounter: 5adea5db-0071-ec33-f216-9b626fe2660c
+
+[1981-07-02] DiagnosticReport: History and physical note
+
+[1981-07-02] Encounter: 5adea5db-0071-ec33-0fea-2e49b6ff7a86
+
+[1981-07-23] DiagnosticReport: History and physical note
+
+[1981-07-23] Encounter: 5adea5db-0071-ec33-8432-00e379e08fb5
+
+[1981-08-15] DiagnosticReport: History and physical note
+
+[1981-08-15] Encounter: 5adea5db-0071-ec33-c4ac-c47412b228a8
+
+[1981-09-03] DiagnosticReport: History and physical note
+
+[1981-09-03] Encounter: 5adea5db-0071-ec33-bb71-8e1909168bc4
+
+[1981-09-26] DiagnosticReport: History and physical note
+
+[1981-09-26] Encounter: 5adea5db-0071-ec33-0fa9-41ead9ef965b
+
+[1981-10-16] DiagnosticReport: History and physical note
+
+[1981-10-16] Encounter: 5adea5db-0071-ec33-c77c-7db480f6eb0b
+
+[1981-10-31] DiagnosticReport: History and physical note
+
+[1981-10-31] Encounter: 5adea5db-0071-ec33-82bd-500e5b7af627
+
+[1981-10-31] Observation: Response to cancer treatment
+
+[1981-11-04] DiagnosticReport: History and physical note
+
+[1981-11-04] Encounter: 5adea5db-0071-ec33-47a2-f0d6207198e0
+
+[1981-11-04] Observation: Response to cancer treatment
+
+[1981-11-04] Observation: Treatment status Cancer
+
+[1982-03-03] DiagnosticReport: History and physical note
+
+[1982-03-03] Encounter: 5adea5db-0071-ec33-ef96-370acf8332fd
+
+[1982-06-15] DiagnosticReport: History and physical note
+
+[1982-06-15] Encounter: 5adea5db-0071-ec33-8852-f37b665fc47b
+
+[1982-10-04] DiagnosticReport: History and physical note
+
+[1982-10-04] DiagnosticReport: History and physical note
+
+[1982-10-04] DiagnosticReport: History and physical note
+
+[1982-10-04] Encounter: 5adea5db-0071-ec33-16b0-58877bf2000a
+
+[1982-10-04] Encounter: 5adea5db-0071-ec33-3607-ca8dcb159450
+
+[1982-10-04] Encounter: 5adea5db-0071-ec33-be06-6accf34593f3
+
+[1982-10-04] Observation: Response to cancer treatment
+
+[1983-02-03] DiagnosticReport: History and physical note
+
+[1983-02-03] Encounter: 5adea5db-0071-ec33-8037-0ef93a24984c
+
+[1983-05-27] DiagnosticReport: History and physical note
+
+[1983-05-27] Encounter: 5adea5db-0071-ec33-1b2c-c8471ad6df56
+
+[1983-09-09] DiagnosticReport: History and physical note
+
+[1983-09-09] DiagnosticReport: History and physical note
+
+[1983-09-09] DiagnosticReport: History and physical note
+
+[1983-09-09] Encounter: 5adea5db-0071-ec33-1148-02ce1ab304eb
+
+[1983-09-09] Encounter: 5adea5db-0071-ec33-69d4-6c88b10614d6
+
+[1983-09-09] Encounter: 5adea5db-0071-ec33-c4d9-fcafae6e1137
+
+[1983-09-09] Observation: Response to cancer treatment
+
+[1983-12-21] DiagnosticReport: History and physical note
+
+[1983-12-21] Encounter: 5adea5db-0071-ec33-a774-cc3c0ede3fae
+
+[1984-04-05] DiagnosticReport: History and physical note
+
+[1984-04-05] Encounter: 5adea5db-0071-ec33-a24b-14f80fd8aa27
+
+[1984-05-11] DiagnosticReport: History and physical note
+
+[1984-05-11] Encounter: 5adea5db-0071-ec33-eef7-bba26f8fdc91
+
+[1984-08-03] DiagnosticReport: History and physical note
+
+[1984-08-03] DiagnosticReport: History and physical note
+
+[1984-08-03] Encounter: 5adea5db-0071-ec33-7038-a82c4cfb6db9
+
+[1984-08-03] Encounter: 5adea5db-0071-ec33-7db3-aa5211ce7617
+
+[1984-08-04] DiagnosticReport: History and physical note
+
+[1984-08-04] Encounter: 5adea5db-0071-ec33-68ba-8307a3e875dc
+
+[1984-08-04] Observation: Response to cancer treatment
+
+[1984-10-12] DiagnosticReport: History and physical note
+
+[1984-10-12] DiagnosticReport: U.S. standard certificate of death - 2003 revision
+
+[1984-10-12] Encounter: 5adea5db-0071-ec33-3d70-b83aadb0c566
+
+[1984-10-12] Observation: Cause of Death [US Standard Certificate of Death]

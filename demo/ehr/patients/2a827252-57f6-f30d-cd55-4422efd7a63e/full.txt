@@ -1,0 +1,176 @@
+# EHR Timeline
+Patient: Kyle55 Yahaira79 Durgan499
+Patient ID: 2a827252-57f6-f30d-cd55-4422efd7a63e
+
+
+MedicationRequest: 2a827252-57f6-f30d-369b-bf5e4abe3328
+
+MedicationRequest: 2a827252-57f6-f30d-39de-9e8058a80f7b
+
+MedicationRequest: 2a827252-57f6-f30d-7328-f615a4777668
+
+MedicationRequest: 2a827252-57f6-f30d-af82-eccb78abbee6
+
+MedicationRequest: 2a827252-57f6-f30d-b763-e10cdc06883c
+
+MedicationRequest: 2a827252-57f6-f30d-be04-54c324453b32
+
+MedicationRequest: 2a827252-57f6-f30d-ca03-87d1ad553d44
+
+MedicationRequest: 2a827252-57f6-f30d-d24c-ac478308d521
+
+Patient: Kyle55 Yahaira79 Durgan499 (id: 2a827252-57f6-f30d-cd55-4422efd7a63e)
+
+Procedure: Biopsy of breast (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Discussion about options (procedure)
+
+Procedure: Excision of sentinel lymph node (procedure)
+
+Procedure: Human epidermal growth factor receptor 2 gene detection by fluorescence in situ hybridization (procedure)
+
+Procedure: Human epidermal growth factor receptor 2 gene detection by immunohistochemistry (procedure)
+
+Procedure: Lumpectomy of breast (procedure)
+
+Procedure: Magnetic resonance imaging of breast (procedure)
+
+Procedure: Screening mammography (procedure)
+
+Procedure: Sentinel lymph node biopsy (procedure)
+
+[2011-10-20] DiagnosticReport: History and physical note
+
+[2011-10-20] Encounter: 2a827252-57f6-f30d-d068-f180a60520ea
+
+[2012-10-25] DiagnosticReport: History and physical note
+
+[2012-10-25] Encounter: 2a827252-57f6-f30d-d143-31d17122a69e
+
+[2013-10-31] DiagnosticReport: History and physical note
+
+[2013-10-31] Encounter: 2a827252-57f6-f30d-3e80-50b0fe4da54e
+
+[2014-11-06] DiagnosticReport: History and physical note
+
+[2014-11-06] Encounter: 2a827252-57f6-f30d-7bbd-6fc039e0aa4a
+
+[2015-11-12] DiagnosticReport: History and physical note
+
+[2015-11-12] Encounter: 2a827252-57f6-f30d-9df7-2ec1fd219aa2
+
+[2016-11-17] DiagnosticReport: History and physical note
+
+[2016-11-17] Encounter: 2a827252-57f6-f30d-8ab5-3ec4ff9740f4
+
+[2017-11-23] DiagnosticReport: History and physical note
+
+[2017-11-23] Encounter: 2a827252-57f6-f30d-c8b0-d2d9e1e1873a
+
+[2018-11-29] DiagnosticReport: History and physical note
+
+[2018-11-29] Encounter: 2a827252-57f6-f30d-1949-c15d0a933360
+
+[2019-12-05] DiagnosticReport: History and physical note
+
+[2019-12-05] Encounter: 2a827252-57f6-f30d-dd11-3810cf550cff
+
+[2020-06-20] Condition: Malignant neoplasm of breast (disorder)
+
+[2020-06-20] DiagnosticReport: History and physical note
+
+[2020-06-20] Encounter: 2a827252-57f6-f30d-5889-75602cdde4ce
+
+[2020-06-20] Observation: Distant metastases.clinical [Class] Cancer
+
+[2020-06-20] Observation: Lymph nodes with macrometastases [#] in Cancer specimen by Light microscopy
+
+[2020-06-20] Observation: Primary tumor.clinical [Class] Cancer
+
+[2020-06-20] Observation: Regional lymph nodes.clinical [Class] Cancer
+
+[2020-06-20] Observation: Site of distant metastasis in Breast tumor
+
+[2020-06-20] Observation: Size.maximum dimension in Tumor
+
+[2020-06-22] Observation: ERBB2 gene duplication [Presence] in Breast cancer specimen by FISH
+
+[2020-06-22] Observation: Estrogen receptor Ag [Presence] in Breast cancer specimen by Immune stain
+
+[2020-06-22] Observation: HER2 [Presence] in Breast cancer specimen by Immune stain
+
+[2020-06-22] Observation: Progesterone receptor Ag [Presence] in Breast cancer specimen by Immune stain
+
+[2020-06-22] Observation: Stage group.clinical Cancer
+
+[2020-06-22] Observation: Stage group.clinical Cancer
+
+[2020-06-29] DiagnosticReport: History and physical note
+
+[2020-06-29] Encounter: 2a827252-57f6-f30d-c8ef-0e39594be6c0
+
+[2020-06-30] DiagnosticReport: History and physical note
+
+[2020-06-30] Encounter: 2a827252-57f6-f30d-4cb2-77ec31fc86ed
+
+[2020-07-21] DiagnosticReport: History and physical note
+
+[2020-07-21] Encounter: 2a827252-57f6-f30d-4475-e9783b39fb0d
+
+[2020-08-12] DiagnosticReport: History and physical note
+
+[2020-08-12] Encounter: 2a827252-57f6-f30d-c4db-d1b94284e4ac
+
+[2020-08-31] DiagnosticReport: History and physical note
+
+[2020-08-31] Encounter: 2a827252-57f6-f30d-12c3-ac3b1d543d68
+
+[2020-09-20] DiagnosticReport: History and physical note
+
+[2020-09-20] Encounter: 2a827252-57f6-f30d-625e-24cc312ca719
+
+[2020-10-09] DiagnosticReport: History and physical note
+
+[2020-10-09] Encounter: 2a827252-57f6-f30d-7fdb-3a5372a205e3
+
+[2020-10-31] DiagnosticReport: History and physical note
+
+[2020-10-31] Encounter: 2a827252-57f6-f30d-dabd-5c8e72c99e33
+
+[2020-11-20] DiagnosticReport: History and physical note
+
+[2020-11-20] Encounter: 2a827252-57f6-f30d-4aae-cc45491e173d
+
+[2020-12-10] DiagnosticReport: History and physical note
+
+[2020-12-10] Encounter: 2a827252-57f6-f30d-d7cf-f0459cd56356
+
+[2020-12-17] DiagnosticReport: History and physical note
+
+[2020-12-17] Encounter: 2a827252-57f6-f30d-6627-1334cfbfba5c
+
+[2020-12-17] Observation: Response to cancer treatment
+
+[2020-12-24] DiagnosticReport: History and physical note
+
+[2020-12-24] DiagnosticReport: U.S. standard certificate of death - 2003 revision
+
+[2020-12-24] Encounter: 2a827252-57f6-f30d-cc22-c27a6cf3562a
+
+[2020-12-24] Observation: Cause of Death [US Standard Certificate of Death]

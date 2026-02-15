@@ -44,10 +44,10 @@ export function CreateJobDialog() {
     <Dialog open={open} onOpenChange={(v) => setOpen(v)}>
       <DialogContent className='sm:max-w-[425px]'>
         <DialogHeader>
-          <DialogTitle>New audit job</DialogTitle>
+          <DialogTitle>New breast cancer screening audit</DialogTitle>
           <DialogDescription>
-            Enter a patient ID to run an EHR audit. The job will be queued and
-            processed.
+            Enter a patient ID to run a breast cancer screening compliance audit
+            against EHR and guidelines. The job will be queued and processed.
           </DialogDescription>
         </DialogHeader>
         <form onSubmit={handleSubmit}>

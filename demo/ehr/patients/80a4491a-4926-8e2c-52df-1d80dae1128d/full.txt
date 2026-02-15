@@ -1,0 +1,402 @@
+# EHR Timeline
+Patient: Sherrell611 Crist667
+Patient ID: 80a4491a-4926-8e2c-52df-1d80dae1128d
+
+
+MedicationRequest: 80a4491a-4926-8e2c-2561-0cf6757b0b58
+
+MedicationRequest: 80a4491a-4926-8e2c-37a0-53d6d2e400e9
+
+MedicationRequest: 80a4491a-4926-8e2c-575a-608fdd1bc48d
+
+MedicationRequest: 80a4491a-4926-8e2c-67de-172b40ccb94f
+
+MedicationRequest: 80a4491a-4926-8e2c-6971-dda955200f2a
+
+MedicationRequest: 80a4491a-4926-8e2c-7200-395788a0c87c
+
+MedicationRequest: 80a4491a-4926-8e2c-83a2-5596d8165f22
+
+MedicationRequest: 80a4491a-4926-8e2c-adbf-6bb50d1f144e
+
+MedicationRequest: 80a4491a-4926-8e2c-b484-742c26f607d1
+
+MedicationRequest: 80a4491a-4926-8e2c-c6cb-3a82470143f4
+
+MedicationRequest: 80a4491a-4926-8e2c-d025-0633cc219baf
+
+Patient: Sherrell611 Crist667 (id: 80a4491a-4926-8e2c-52df-1d80dae1128d)
+
+Procedure: Biopsy of breast (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Cytopathology procedure, preparation of smear, genital source (procedure)
+
+Procedure: Cytopathology procedure, preparation of smear, genital source (procedure)
+
+Procedure: Cytopathology procedure, preparation of smear, genital source (procedure)
+
+Procedure: Cytopathology procedure, preparation of smear, genital source (procedure)
+
+Procedure: Cytopathology procedure, preparation of smear, genital source (procedure)
+
+Procedure: Cytopathology procedure, preparation of smear, genital source (procedure)
+
+Procedure: Cytopathology procedure, preparation of smear, genital source (procedure)
+
+Procedure: Cytopathology procedure, preparation of smear, genital source (procedure)
+
+Procedure: Discussion about options (procedure)
+
+Procedure: Human epidermal growth factor receptor 2 gene detection by fluorescence in situ hybridization (procedure)
+
+Procedure: Human epidermal growth factor receptor 2 gene detection by immunohistochemistry (procedure)
+
+Procedure: Lumpectomy of breast (procedure)
+
+Procedure: Magnetic resonance imaging of breast (procedure)
+
+Procedure: Mammography (procedure)
+
+Procedure: Mammography (procedure)
+
+Procedure: Mammography (procedure)
+
+Procedure: Mammography (procedure)
+
+Procedure: Mammography (procedure)
+
+Procedure: Mammography (procedure)
+
+Procedure: Mammography (procedure)
+
+Procedure: Mammography (procedure)
+
+Procedure: Manual pelvic examination (procedure)
+
+Procedure: Manual pelvic examination (procedure)
+
+Procedure: Manual pelvic examination (procedure)
+
+Procedure: Manual pelvic examination (procedure)
+
+Procedure: Manual pelvic examination (procedure)
+
+Procedure: Manual pelvic examination (procedure)
+
+Procedure: Manual pelvic examination (procedure)
+
+Procedure: Manual pelvic examination (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Screening mammography (procedure)
+
+[2016-11-12] DiagnosticReport: History and physical note
+
+[2016-11-12] Encounter: 80a4491a-4926-8e2c-2ea5-c67eb6497f3a
+
+[2017-11-20] Condition: Malignant neoplasm of breast (disorder)
+
+[2017-11-20] DiagnosticReport: History and physical note
+
+[2017-11-20] Encounter: 80a4491a-4926-8e2c-2306-28e4d4832297
+
+[2017-11-20] Observation: Distant metastases.clinical [Class] Cancer
+
+[2017-11-20] Observation: Lymph nodes with isolated tumor cells [#] in Cancer specimen by Light microscopy
+
+[2017-11-20] Observation: Primary tumor.clinical [Class] Cancer
+
+[2017-11-20] Observation: Regional lymph nodes.clinical [Class] Cancer
+
+[2017-11-20] Observation: Site of distant metastasis in Breast tumor
+
+[2017-11-20] Observation: Size.maximum dimension in Tumor
+
+[2017-11-21] Observation: ERBB2 gene duplication [Presence] in Breast cancer specimen by FISH
+
+[2017-11-21] Observation: Estrogen receptor Ag [Presence] in Breast cancer specimen by Immune stain
+
+[2017-11-21] Observation: Estrogen+Progesterone receptor Ag [Presence] in Tissue by Immune stain
+
+[2017-11-21] Observation: HER2 [Presence] in Breast cancer specimen by Immune stain
+
+[2017-11-21] Observation: Progesterone receptor Ag [Presence] in Breast cancer specimen by Immune stain
+
+[2017-11-21] Observation: Stage group.clinical Cancer
+
+[2017-11-21] Observation: Stage group.clinical Cancer
+
+[2017-11-22] DiagnosticReport: History and physical note
+
+[2017-11-22] Encounter: 80a4491a-4926-8e2c-3506-282a999b3703
+
+[2017-11-28] DiagnosticReport: History and physical note
+
+[2017-11-28] Encounter: 80a4491a-4926-8e2c-8d52-39e2eabc416a
+
+[2017-12-07] DiagnosticReport: History and physical note
+
+[2017-12-07] Encounter: 80a4491a-4926-8e2c-b41d-ea75ac245247
+
+[2017-12-28] DiagnosticReport: History and physical note
+
+[2017-12-28] Encounter: 80a4491a-4926-8e2c-0839-69cb76e2f30c
+
+[2018-01-18] DiagnosticReport: History and physical note
+
+[2018-01-18] Encounter: 80a4491a-4926-8e2c-8d6d-106fd3373fb7
+
+[2018-02-06] DiagnosticReport: History and physical note
+
+[2018-02-06] Encounter: 80a4491a-4926-8e2c-0002-597e9064e6ab
+
+[2018-02-28] DiagnosticReport: History and physical note
+
+[2018-02-28] Encounter: 80a4491a-4926-8e2c-b49b-2976da8c72ba
+
+[2018-03-21] DiagnosticReport: History and physical note
+
+[2018-03-21] Encounter: 80a4491a-4926-8e2c-9c38-28740f6ea9b6
+
+[2018-04-10] DiagnosticReport: History and physical note
+
+[2018-04-10] Encounter: 80a4491a-4926-8e2c-b853-4587d5034a68
+
+[2018-05-01] DiagnosticReport: History and physical note
+
+[2018-05-01] Encounter: 80a4491a-4926-8e2c-ec84-d98c5e43b998
+
+[2018-05-04] DiagnosticReport: History and physical note
+
+[2018-05-04] Encounter: 80a4491a-4926-8e2c-399d-939ccb3b1ccb
+
+[2018-05-04] Observation: Response to cancer treatment
+
+[2018-05-04] Observation: Treatment status Cancer
+
+[2018-08-11] DiagnosticReport: History and physical note
+
+[2018-08-11] Encounter: 80a4491a-4926-8e2c-5767-2991529613e0
+
+[2018-11-17] DiagnosticReport: History and physical note
+
+[2018-11-17] Encounter: 80a4491a-4926-8e2c-247f-c4d3fade703f
+
+[2018-12-13] DiagnosticReport: History and physical note
+
+[2018-12-13] Encounter: 80a4491a-4926-8e2c-651e-a8d8609f155d
+
+[2019-04-04] DiagnosticReport: History and physical note
+
+[2019-04-04] DiagnosticReport: History and physical note
+
+[2019-04-04] DiagnosticReport: History and physical note
+
+[2019-04-04] Encounter: 80a4491a-4926-8e2c-25af-3bd03b175c62
+
+[2019-04-04] Encounter: 80a4491a-4926-8e2c-b45f-86593b336141
+
+[2019-04-04] Encounter: 80a4491a-4926-8e2c-f24d-7ce6ff65a39c
+
+[2019-04-04] Observation: Response to cancer treatment
+
+[2019-07-18] DiagnosticReport: History and physical note
+
+[2019-07-18] Encounter: 80a4491a-4926-8e2c-42ae-bedba38f2e16
+
+[2019-11-19] DiagnosticReport: History and physical note
+
+[2019-11-19] Encounter: 80a4491a-4926-8e2c-a207-800feb52072e
+
+[2020-03-09] DiagnosticReport: History and physical note
+
+[2020-03-09] DiagnosticReport: History and physical note
+
+[2020-03-09] DiagnosticReport: History and physical note
+
+[2020-03-09] Encounter: 80a4491a-4926-8e2c-198a-eb7d451f7625
+
+[2020-03-09] Encounter: 80a4491a-4926-8e2c-74f2-8463e35bc90d
+
+[2020-03-09] Encounter: 80a4491a-4926-8e2c-e9a9-eb802c5bb1b4
+
+[2020-03-09] Observation: Response to cancer treatment
+
+[2020-07-03] DiagnosticReport: History and physical note
+
+[2020-07-03] Encounter: 80a4491a-4926-8e2c-e0c2-d6493a0f3dea
+
+[2020-11-03] DiagnosticReport: History and physical note
+
+[2020-11-03] Encounter: 80a4491a-4926-8e2c-adda-ed1d90864a94
+
+[2020-11-21] DiagnosticReport: History and physical note
+
+[2020-11-21] Encounter: 80a4491a-4926-8e2c-b31a-dfec9457033f
+
+[2021-03-07] DiagnosticReport: History and physical note
+
+[2021-03-07] DiagnosticReport: History and physical note
+
+[2021-03-07] DiagnosticReport: History and physical note
+
+[2021-03-07] Encounter: 80a4491a-4926-8e2c-61b5-6342150e1398
+
+[2021-03-07] Encounter: 80a4491a-4926-8e2c-681e-168ef95dfabd
+
+[2021-03-07] Encounter: 80a4491a-4926-8e2c-dd2b-b4069442e7cf
+
+[2021-03-07] Observation: Response to cancer treatment
+
+[2021-03-27] DiagnosticReport: History and physical note
+
+[2021-03-27] Encounter: 80a4491a-4926-8e2c-b494-9439119f98af
+
+[2021-04-17] DiagnosticReport: History and physical note
+
+[2021-04-17] Encounter: 80a4491a-4926-8e2c-6972-c784f0ea5bde
+
+[2021-06-25] DiagnosticReport: History and physical note
+
+[2021-06-25] Encounter: 80a4491a-4926-8e2c-60a2-48430f2a9c61
+
+[2021-10-20] DiagnosticReport: History and physical note
+
+[2021-10-20] Encounter: 80a4491a-4926-8e2c-09a9-0811e98cc348
+
+[2022-02-07] DiagnosticReport: History and physical note
+
+[2022-02-07] DiagnosticReport: History and physical note
+
+[2022-02-07] DiagnosticReport: History and physical note
+
+[2022-02-07] Encounter: 80a4491a-4926-8e2c-13ca-6651fa63abbc
+
+[2022-02-07] Encounter: 80a4491a-4926-8e2c-1d51-a4528d446343
+
+[2022-02-07] Encounter: 80a4491a-4926-8e2c-3415-88d519639bbe
+
+[2022-02-07] Observation: Response to cancer treatment
+
+[2022-05-27] DiagnosticReport: History and physical note
+
+[2022-05-27] Encounter: 80a4491a-4926-8e2c-1239-883c6bd38a41
+
+[2022-09-11] DiagnosticReport: History and physical note
+
+[2022-09-11] Encounter: 80a4491a-4926-8e2c-473c-4633c65c3bae
+
+[2022-10-29] DiagnosticReport: History and physical note
+
+[2022-10-29] Encounter: 80a4491a-4926-8e2c-5a29-85a9f1423920
+
+[2022-12-31] DiagnosticReport: History and physical note
+
+[2022-12-31] DiagnosticReport: History and physical note
+
+[2022-12-31] DiagnosticReport: History and physical note
+
+[2022-12-31] Encounter: 80a4491a-4926-8e2c-3c6e-052b2d100053
+
+[2022-12-31] Encounter: 80a4491a-4926-8e2c-3cff-74fb305a3ac8
+
+[2022-12-31] Encounter: 80a4491a-4926-8e2c-d8c2-98973249c1c0
+
+[2023-11-04] DiagnosticReport: History and physical note
+
+[2023-11-04] Encounter: 80a4491a-4926-8e2c-7568-888e206d1d65
+
+[2023-12-23] DiagnosticReport: History and physical note
+
+[2023-12-23] DiagnosticReport: History and physical note
+
+[2023-12-23] DiagnosticReport: History and physical note
+
+[2023-12-23] Encounter: 80a4491a-4926-8e2c-232a-1f4c637560d1
+
+[2023-12-23] Encounter: 80a4491a-4926-8e2c-c9dd-f030319d7e31
+
+[2023-12-23] Encounter: 80a4491a-4926-8e2c-e3d0-2fe9d28dccd7
+
+[2024-11-09] DiagnosticReport: History and physical note
+
+[2024-11-09] Encounter: 80a4491a-4926-8e2c-a309-2bf69bfc5e8d
+
+[2025-01-10] DiagnosticReport: History and physical note
+
+[2025-01-10] DiagnosticReport: History and physical note
+
+[2025-01-10] DiagnosticReport: History and physical note
+
+[2025-01-10] Encounter: 80a4491a-4926-8e2c-1f9b-928627346d79
+
+[2025-01-10] Encounter: 80a4491a-4926-8e2c-60bf-3131459041ab
+
+[2025-01-10] Encounter: 80a4491a-4926-8e2c-85b2-4ab89f86249f
+
+[2025-11-15] DiagnosticReport: History and physical note
+
+[2025-11-15] Encounter: 80a4491a-4926-8e2c-b84a-90c9dc5dae56
+
+[2025-12-21] DiagnosticReport: History and physical note
+
+[2025-12-21] DiagnosticReport: History and physical note
+
+[2025-12-21] DiagnosticReport: History and physical note
+
+[2025-12-21] Encounter: 80a4491a-4926-8e2c-2882-2f1bfe525c97
+
+[2025-12-21] Encounter: 80a4491a-4926-8e2c-8dcb-2cfc9e86781e
+
+[2025-12-21] Encounter: 80a4491a-4926-8e2c-c3d5-f65e269ef479

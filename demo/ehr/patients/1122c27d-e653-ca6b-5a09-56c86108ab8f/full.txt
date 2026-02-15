@@ -1,0 +1,30 @@
+# EHR Timeline
+Patient: Nellie325 Berna338 Ferry570
+Patient ID: 1122c27d-e653-ca6b-5a09-56c86108ab8f
+
+
+Patient: Nellie325 Berna338 Ferry570 (id: 1122c27d-e653-ca6b-5a09-56c86108ab8f)
+
+[2016-12-18] DiagnosticReport: History and physical note
+
+[2016-12-18] Encounter: 1122c27d-e653-ca6b-49c9-18d74ff3bf6e
+
+[2018-12-23] DiagnosticReport: History and physical note
+
+[2018-12-23] Encounter: 1122c27d-e653-ca6b-e809-4578f89bf369
+
+[2020-12-27] DiagnosticReport: History and physical note
+
+[2020-12-27] Encounter: 1122c27d-e653-ca6b-262c-5c5857154b38
+
+[2021-05-30] DiagnosticReport: History and physical note
+
+[2021-05-30] Encounter: 1122c27d-e653-ca6b-d75d-cb9c56d67f3b
+
+[2023-01-01] DiagnosticReport: History and physical note
+
+[2023-01-01] Encounter: 1122c27d-e653-ca6b-1981-9af45909b123
+
+[2025-01-05] DiagnosticReport: History and physical note
+
+[2025-01-05] Encounter: 1122c27d-e653-ca6b-0a13-69f07974562a

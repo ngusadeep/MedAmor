@@ -4,11 +4,11 @@ from celery import Celery
 
 from app.core.config import settings
 
-# Result backend: use rpc:// with RabbitMQ (amqp result backend was removed in Celery 5).
+# Result backend: use Redis when CELERY_RESULT_BACKEND set, else rpc:// for RabbitMQ.
 celery_app = Celery(
     "medaudit",
     broker=settings.celery_broker_url,
-    backend=getattr(settings, "celery_result_backend", None) or "rpc://",
+    backend=settings.celery_result_backend or "rpc://",
     include=["app.worker.tasks"],
 )
 celery_app.conf.update(

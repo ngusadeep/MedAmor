@@ -1,0 +1,220 @@
+# EHR Timeline
+Patient: Pat3 Jon665 Lind531
+Patient ID: 0842bf98-e912-c969-e242-2b9423b8f09d
+
+
+Patient: Pat3 Jon665 Lind531 (id: 0842bf98-e912-c969-e242-2b9423b8f09d)
+
+Procedure: Mammography (procedure)
+
+Procedure: Mammography (procedure)
+
+Procedure: Mammography (procedure)
+
+Procedure: Mammography (procedure)
+
+Procedure: Mammography (procedure)
+
+Procedure: Mammography (procedure)
+
+Procedure: Mammography (procedure)
+
+Procedure: Mammography (procedure)
+
+Procedure: Mammography (procedure)
+
+Procedure: Mammography (procedure)
+
+Procedure: Mammography (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+[2012-05-08] Condition: Malignant neoplasm of breast (disorder)
+
+[2012-05-08] DiagnosticReport: History and physical note
+
+[2012-05-08] Encounter: 0842bf98-e912-c969-7861-84149305ea03
+
+[2016-03-11] DiagnosticReport: History and physical note
+
+[2016-03-11] DiagnosticReport: History and physical note
+
+[2016-03-11] Encounter: 0842bf98-e912-c969-4cd0-36519962f844
+
+[2016-03-11] Encounter: 0842bf98-e912-c969-668c-9228f1bafa82
+
+[2016-03-11] Observation: Response to cancer treatment
+
+[2016-07-03] DiagnosticReport: History and physical note
+
+[2016-07-03] Encounter: 0842bf98-e912-c969-1d71-042521054e0a
+
+[2016-08-27] DiagnosticReport: History and physical note
+
+[2016-08-27] Encounter: 0842bf98-e912-c969-a144-39b6ff9e88b0
+
+[2016-10-18] DiagnosticReport: History and physical note
+
+[2016-10-18] Encounter: 0842bf98-e912-c969-eddf-c55a8cfdbe8f
+
+[2017-02-17] DiagnosticReport: History and physical note
+
+[2017-02-17] DiagnosticReport: History and physical note
+
+[2017-02-17] Encounter: 0842bf98-e912-c969-be69-d088a9e1ba60
+
+[2017-02-17] Encounter: 0842bf98-e912-c969-d8dc-8d26dcb41454
+
+[2017-02-17] Observation: Response to cancer treatment
+
+[2017-06-20] DiagnosticReport: History and physical note
+
+[2017-06-20] Encounter: 0842bf98-e912-c969-6f50-6c563db2c16c
+
+[2017-09-02] DiagnosticReport: History and physical note
+
+[2017-09-02] Encounter: 0842bf98-e912-c969-8e20-cc47fdcec310
+
+[2017-09-30] DiagnosticReport: History and physical note
+
+[2017-09-30] Encounter: 0842bf98-e912-c969-45ed-f7d78d84d62b
+
+[2018-01-14] DiagnosticReport: History and physical note
+
+[2018-01-14] DiagnosticReport: History and physical note
+
+[2018-01-14] Encounter: 0842bf98-e912-c969-58ea-c0337b33c5f2
+
+[2018-01-14] Encounter: 0842bf98-e912-c969-d19a-b11bb0e8cdcd
+
+[2018-09-08] DiagnosticReport: History and physical note
+
+[2018-09-08] Encounter: 0842bf98-e912-c969-116e-555a2107b472
+
+[2019-01-06] DiagnosticReport: History and physical note
+
+[2019-01-06] DiagnosticReport: History and physical note
+
+[2019-01-06] Encounter: 0842bf98-e912-c969-7e0c-f1494ea31293
+
+[2019-01-06] Encounter: 0842bf98-e912-c969-aab4-8f66974cf36f
+
+[2019-09-14] DiagnosticReport: History and physical note
+
+[2019-09-14] Encounter: 0842bf98-e912-c969-3dae-05a551015c06
+
+[2020-01-02] DiagnosticReport: History and physical note
+
+[2020-01-02] DiagnosticReport: History and physical note
+
+[2020-01-02] Encounter: 0842bf98-e912-c969-0df4-99f590e363a7
+
+[2020-01-02] Encounter: 0842bf98-e912-c969-1d9c-c4a8c45633b8
+
+[2020-09-19] DiagnosticReport: History and physical note
+
+[2020-09-19] Encounter: 0842bf98-e912-c969-3031-ece59eae806b
+
+[2021-01-09] DiagnosticReport: History and physical note
+
+[2021-01-09] DiagnosticReport: History and physical note
+
+[2021-01-09] Encounter: 0842bf98-e912-c969-8c00-e7bd78a8c81a
+
+[2021-01-09] Encounter: 0842bf98-e912-c969-c7fb-9c5c9c673d4d
+
+[2021-09-11] DiagnosticReport: History and physical note
+
+[2021-09-11] Encounter: 0842bf98-e912-c969-8f23-6ff52768cf81
+
+[2021-09-25] DiagnosticReport: History and physical note
+
+[2021-09-25] Encounter: 0842bf98-e912-c969-daa6-b87cf399aa77
+
+[2021-10-09] DiagnosticReport: History and physical note
+
+[2021-10-09] Encounter: 0842bf98-e912-c969-6ee5-5c72c835ab55
+
+[2022-01-19] DiagnosticReport: History and physical note
+
+[2022-01-19] DiagnosticReport: History and physical note
+
+[2022-01-19] Encounter: 0842bf98-e912-c969-3f8e-b55958398923
+
+[2022-01-19] Encounter: 0842bf98-e912-c969-b7ab-be48d84560d1
+
+[2022-10-01] DiagnosticReport: History and physical note
+
+[2022-10-01] Encounter: 0842bf98-e912-c969-1b0d-7856534c80a7
+
+[2022-12-26] DiagnosticReport: History and physical note
+
+[2022-12-26] DiagnosticReport: History and physical note
+
+[2022-12-26] Encounter: 0842bf98-e912-c969-3102-8081c5b417dc
+
+[2022-12-26] Encounter: 0842bf98-e912-c969-e665-e4b4771cde64
+
+[2023-10-07] DiagnosticReport: History and physical note
+
+[2023-10-07] Encounter: 0842bf98-e912-c969-aced-c49679dc8285
+
+[2024-01-01] DiagnosticReport: History and physical note
+
+[2024-01-01] DiagnosticReport: History and physical note
+
+[2024-01-01] Encounter: 0842bf98-e912-c969-2e69-6cd74775bb2e
+
+[2024-01-01] Encounter: 0842bf98-e912-c969-f47f-16c9ba745a54
+
+[2024-10-12] DiagnosticReport: History and physical note
+
+[2024-10-12] Encounter: 0842bf98-e912-c969-82b8-6971fbab5a40
+
+[2025-01-01] DiagnosticReport: History and physical note
+
+[2025-01-01] DiagnosticReport: History and physical note
+
+[2025-01-01] Encounter: 0842bf98-e912-c969-ce12-0f92795bfbcc
+
+[2025-01-01] Encounter: 0842bf98-e912-c969-d661-847d950451f7
+
+[2025-10-18] DiagnosticReport: History and physical note
+
+[2025-10-18] Encounter: 0842bf98-e912-c969-a789-36fb27acc538
+
+[2026-01-17] DiagnosticReport: History and physical note
+
+[2026-01-17] DiagnosticReport: History and physical note
+
+[2026-01-17] Encounter: 0842bf98-e912-c969-d5f8-9baef527e1ed
+
+[2026-01-17] Encounter: 0842bf98-e912-c969-de27-eab62340e80c

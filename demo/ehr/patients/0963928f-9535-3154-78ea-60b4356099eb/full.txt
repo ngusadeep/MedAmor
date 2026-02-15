@@ -1,0 +1,214 @@
+# EHR Timeline
+Patient: Kathrine376 Mills423
+Patient ID: 0963928f-9535-3154-78ea-60b4356099eb
+
+
+Patient: Kathrine376 Mills423 (id: 0963928f-9535-3154-78ea-60b4356099eb)
+
+Procedure: Mammography (procedure)
+
+Procedure: Mammography (procedure)
+
+Procedure: Mammography (procedure)
+
+Procedure: Mammography (procedure)
+
+Procedure: Mammography (procedure)
+
+Procedure: Mammography (procedure)
+
+Procedure: Mammography (procedure)
+
+Procedure: Mammography (procedure)
+
+Procedure: Mammography (procedure)
+
+Procedure: Mammography (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+[2013-03-25] Condition: Malignant neoplasm of breast (disorder)
+
+[2013-03-25] DiagnosticReport: History and physical note
+
+[2013-03-25] Encounter: 0963928f-9535-3154-f0d9-bfaf3db9ca23
+
+[2016-02-21] DiagnosticReport: History and physical note
+
+[2016-02-21] Encounter: 0963928f-9535-3154-ca71-2d8a5d9d8984
+
+[2016-06-24] DiagnosticReport: History and physical note
+
+[2016-06-24] DiagnosticReport: History and physical note
+
+[2016-06-24] Encounter: 0963928f-9535-3154-1c57-8a9908b68cdc
+
+[2016-06-24] Encounter: 0963928f-9535-3154-ef7c-5fc1fe888dd1
+
+[2016-06-24] Observation: Response to cancer treatment
+
+[2016-09-25] DiagnosticReport: History and physical note
+
+[2016-09-25] Encounter: 0963928f-9535-3154-c57d-2fd9300b5e93
+
+[2016-10-04] DiagnosticReport: History and physical note
+
+[2016-10-04] Encounter: 0963928f-9535-3154-7d97-c5816c5d6dc7
+
+[2017-01-25] DiagnosticReport: History and physical note
+
+[2017-01-25] Encounter: 0963928f-9535-3154-e05b-83c896675085
+
+[2017-05-30] DiagnosticReport: History and physical note
+
+[2017-05-30] DiagnosticReport: History and physical note
+
+[2017-05-30] Encounter: 0963928f-9535-3154-03f5-7aa1b43b3ace
+
+[2017-05-30] Encounter: 0963928f-9535-3154-c47c-6109243520cc
+
+[2017-05-30] Observation: Response to cancer treatment
+
+[2017-09-12] DiagnosticReport: History and physical note
+
+[2017-09-12] Encounter: 0963928f-9535-3154-294f-a60338caa4aa
+
+[2017-10-01] DiagnosticReport: History and physical note
+
+[2017-10-01] Encounter: 0963928f-9535-3154-7c95-be2edf3fb6c2
+
+[2018-01-13] DiagnosticReport: History and physical note
+
+[2018-01-13] Encounter: 0963928f-9535-3154-6ddc-137cd0cf8e78
+
+[2018-04-28] DiagnosticReport: History and physical note
+
+[2018-04-28] DiagnosticReport: History and physical note
+
+[2018-04-28] Encounter: 0963928f-9535-3154-851a-50459185de92
+
+[2018-04-28] Encounter: 0963928f-9535-3154-e0e7-97ec6f8d7e3b
+
+[2018-10-07] DiagnosticReport: History and physical note
+
+[2018-10-07] Encounter: 0963928f-9535-3154-8133-d877a65823bd
+
+[2019-04-09] DiagnosticReport: History and physical note
+
+[2019-04-09] DiagnosticReport: History and physical note
+
+[2019-04-09] Encounter: 0963928f-9535-3154-8240-f6a95b5cedab
+
+[2019-04-09] Encounter: 0963928f-9535-3154-aa05-797d82bbfb55
+
+[2019-10-13] DiagnosticReport: History and physical note
+
+[2019-10-13] Encounter: 0963928f-9535-3154-d896-b3fd8b3564bf
+
+[2020-04-02] DiagnosticReport: History and physical note
+
+[2020-04-02] DiagnosticReport: History and physical note
+
+[2020-04-02] Encounter: 0963928f-9535-3154-2b10-1f70ec6390f0
+
+[2020-04-02] Encounter: 0963928f-9535-3154-bf8f-c9190a4dcf0b
+
+[2020-10-18] DiagnosticReport: History and physical note
+
+[2020-10-18] Encounter: 0963928f-9535-3154-4dd0-53940f8d2a26
+
+[2021-03-20] DiagnosticReport: History and physical note
+
+[2021-03-20] DiagnosticReport: History and physical note
+
+[2021-03-20] Encounter: 0963928f-9535-3154-573c-9688285202fc
+
+[2021-03-20] Encounter: 0963928f-9535-3154-b7b6-c533da3e0815
+
+[2021-04-04] DiagnosticReport: History and physical note
+
+[2021-04-04] Encounter: 0963928f-9535-3154-1445-52668816756a
+
+[2021-05-02] DiagnosticReport: History and physical note
+
+[2021-05-02] Encounter: 0963928f-9535-3154-923b-ce52cf2ebc62
+
+[2021-10-24] DiagnosticReport: History and physical note
+
+[2021-10-24] Encounter: 0963928f-9535-3154-b71f-760b121c4a78
+
+[2022-04-04] DiagnosticReport: History and physical note
+
+[2022-04-04] DiagnosticReport: History and physical note
+
+[2022-04-04] Encounter: 0963928f-9535-3154-7a65-ed597c5d8983
+
+[2022-04-04] Encounter: 0963928f-9535-3154-d4ed-0637c4201966
+
+[2022-10-30] DiagnosticReport: History and physical note
+
+[2022-10-30] Encounter: 0963928f-9535-3154-97c9-a4cd324ad88d
+
+[2023-04-10] DiagnosticReport: History and physical note
+
+[2023-04-10] DiagnosticReport: History and physical note
+
+[2023-04-10] Encounter: 0963928f-9535-3154-74ea-b4c029628b00
+
+[2023-04-10] Encounter: 0963928f-9535-3154-fbae-a9dd47d591e2
+
+[2023-11-05] DiagnosticReport: History and physical note
+
+[2023-11-05] Encounter: 0963928f-9535-3154-6d67-8326790974b3
+
+[2024-03-28] DiagnosticReport: History and physical note
+
+[2024-03-28] DiagnosticReport: History and physical note
+
+[2024-03-28] Encounter: 0963928f-9535-3154-9496-c1e3e4260088
+
+[2024-03-28] Encounter: 0963928f-9535-3154-9a01-47ee07121d41
+
+[2024-11-10] DiagnosticReport: History and physical note
+
+[2024-11-10] Encounter: 0963928f-9535-3154-68cd-92c00d8dbcbc
+
+[2025-04-13] DiagnosticReport: History and physical note
+
+[2025-04-13] DiagnosticReport: History and physical note
+
+[2025-04-13] Encounter: 0963928f-9535-3154-ebdb-398a0654e702
+
+[2025-04-13] Encounter: 0963928f-9535-3154-f35b-676220a4b22e
+
+[2025-11-16] DiagnosticReport: History and physical note
+
+[2025-11-16] Encounter: 0963928f-9535-3154-1f27-ef63790b311a

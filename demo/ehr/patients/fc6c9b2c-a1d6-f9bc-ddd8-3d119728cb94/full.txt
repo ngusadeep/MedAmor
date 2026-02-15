@@ -1,0 +1,114 @@
+# EHR Timeline
+Patient: Alysha630 Ima629 Dare640
+Patient ID: fc6c9b2c-a1d6-f9bc-ddd8-3d119728cb94
+
+
+MedicationRequest: fc6c9b2c-a1d6-f9bc-7eff-619f33c7a295
+
+MedicationRequest: fc6c9b2c-a1d6-f9bc-f975-40e998b3fbbf
+
+Patient: Alysha630 Ima629 Dare640 (id: fc6c9b2c-a1d6-f9bc-ddd8-3d119728cb94)
+
+Procedure: Biopsy of breast (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Discussion about options (procedure)
+
+Procedure: Excision of lesion of breast (procedure)
+
+Procedure: Human epidermal growth factor receptor 2 gene detection by fluorescence in situ hybridization (procedure)
+
+Procedure: Human epidermal growth factor receptor 2 gene detection by immunohistochemistry (procedure)
+
+Procedure: Screening mammography (procedure)
+
+Procedure: Ultrasonography of bilateral breasts (procedure)
+
+[2016-05-26] DiagnosticReport: History and physical note
+
+[2016-05-26] Encounter: fc6c9b2c-a1d6-f9bc-b011-35d63c13aa07
+
+[2018-05-31] DiagnosticReport: History and physical note
+
+[2018-05-31] Encounter: fc6c9b2c-a1d6-f9bc-7620-4955ba8e09c4
+
+[2020-05-07] DiagnosticReport: History and physical note
+
+[2020-05-07] Encounter: fc6c9b2c-a1d6-f9bc-ebaa-a24de6a6533a
+
+[2021-05-13] DiagnosticReport: History and physical note
+
+[2021-05-13] Encounter: fc6c9b2c-a1d6-f9bc-9ba8-3e96cc793380
+
+[2021-07-01] DiagnosticReport: History and physical note
+
+[2021-07-01] Encounter: fc6c9b2c-a1d6-f9bc-f680-795275601cd0
+
+[2021-07-22] DiagnosticReport: History and physical note
+
+[2021-07-22] Encounter: fc6c9b2c-a1d6-f9bc-fb42-e1009e51b1ba
+
+[2022-05-19] DiagnosticReport: History and physical note
+
+[2022-05-19] Encounter: fc6c9b2c-a1d6-f9bc-0171-56625886149f
+
+[2023-05-25] DiagnosticReport: History and physical note
+
+[2023-05-25] Encounter: fc6c9b2c-a1d6-f9bc-037f-b12b73e2de02
+
+[2024-05-30] DiagnosticReport: History and physical note
+
+[2024-05-30] Encounter: fc6c9b2c-a1d6-f9bc-ab39-b4b3f944083b
+
+[2025-06-05] DiagnosticReport: History and physical note
+
+[2025-06-05] Encounter: fc6c9b2c-a1d6-f9bc-3989-44eae0b2fa16
+
+[2025-12-27] Condition: Malignant neoplasm of breast (disorder)
+
+[2025-12-27] DiagnosticReport: History and physical note
+
+[2025-12-27] Encounter: fc6c9b2c-a1d6-f9bc-3bb0-8b11b6740544
+
+[2025-12-27] Observation: Distant metastases.clinical [Class] Cancer
+
+[2025-12-27] Observation: Lymph nodes with isolated tumor cells [#] in Cancer specimen by Light microscopy
+
+[2025-12-27] Observation: Primary tumor.clinical [Class] Cancer
+
+[2025-12-27] Observation: Regional lymph nodes.clinical [Class] Cancer
+
+[2025-12-27] Observation: Site of distant metastasis in Breast tumor
+
+[2025-12-27] Observation: Size.maximum dimension in Tumor
+
+[2025-12-29] Observation: ERBB2 gene duplication [Presence] in Breast cancer specimen by FISH
+
+[2025-12-29] Observation: Estrogen receptor Ag [Presence] in Breast cancer specimen by Immune stain
+
+[2025-12-29] Observation: HER2 [Presence] in Breast cancer specimen by Immune stain
+
+[2025-12-29] Observation: Progesterone receptor Ag [Presence] in Breast cancer specimen by Immune stain
+
+[2025-12-29] Observation: Stage group.clinical Cancer
+
+[2025-12-29] Observation: Stage group.clinical Cancer
+
+[2025-12-31] DiagnosticReport: History and physical note
+
+[2025-12-31] Encounter: fc6c9b2c-a1d6-f9bc-21d6-2a2893315741
+
+[2026-01-07] DiagnosticReport: History and physical note
+
+[2026-01-07] Encounter: fc6c9b2c-a1d6-f9bc-d415-5d88efd0a269
+
+[2026-01-14] DiagnosticReport: History and physical note
+
+[2026-01-14] Encounter: fc6c9b2c-a1d6-f9bc-9f8a-566968672cb4
+
+[2026-02-03] DiagnosticReport: History and physical note
+
+[2026-02-03] Encounter: fc6c9b2c-a1d6-f9bc-a781-959ac0afa8c1

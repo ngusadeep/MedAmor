@@ -26,7 +26,9 @@ def run_audit_task(self, job_id: str):
         job.status = JobStatus.RUNNING
         db.commit()
 
-        report_create = run_audit(job.id, job.patient_id, job.export_type)
+        report_create = run_audit(
+            job.id, job.patient_id, job.export_type, getattr(job, "audit_type", None)
+        )
 
         report = AuditReport(
             job_id=report_create.job_id,

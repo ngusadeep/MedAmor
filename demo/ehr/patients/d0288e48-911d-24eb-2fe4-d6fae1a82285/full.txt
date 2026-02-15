@@ -1,0 +1,260 @@
+# EHR Timeline
+Patient: Librada521 Tyler508 McLaughlin530
+Patient ID: d0288e48-911d-24eb-2fe4-d6fae1a82285
+
+
+MedicationRequest: d0288e48-911d-24eb-1274-4651aa8cfb5d
+
+MedicationRequest: d0288e48-911d-24eb-2728-d0eb95c9c194
+
+MedicationRequest: d0288e48-911d-24eb-31e1-d8392b3adeb8
+
+MedicationRequest: d0288e48-911d-24eb-3242-dba0e44d2777
+
+MedicationRequest: d0288e48-911d-24eb-7137-2850d951ce47
+
+MedicationRequest: d0288e48-911d-24eb-72e7-eea4decdede5
+
+MedicationRequest: d0288e48-911d-24eb-7f92-5cfc71ab65e6
+
+MedicationRequest: d0288e48-911d-24eb-9b4b-056fe721a137
+
+MedicationRequest: d0288e48-911d-24eb-acd1-59ddbcfd1ffc
+
+MedicationRequest: d0288e48-911d-24eb-afce-404f6c3a934b
+
+MedicationRequest: d0288e48-911d-24eb-b440-2c5cb1b12e34
+
+MedicationRequest: d0288e48-911d-24eb-b74e-5b6703489b7f
+
+MedicationRequest: d0288e48-911d-24eb-be49-81fd4aa6b24e
+
+MedicationRequest: d0288e48-911d-24eb-c361-0443bb261168
+
+MedicationRequest: d0288e48-911d-24eb-d08e-615adac38e7a
+
+MedicationRequest: d0288e48-911d-24eb-e1bb-c4356fcc9101
+
+MedicationRequest: d0288e48-911d-24eb-e384-c50990e99589
+
+Patient: Librada521 Tyler508 McLaughlin530 (id: d0288e48-911d-24eb-2fe4-d6fae1a82285)
+
+Procedure: Biopsy of breast (procedure)
+
+Procedure: Bone density scan (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Discussion about options (procedure)
+
+Procedure: Excision of axillary lymph node (procedure)
+
+Procedure: Excision of lesion of breast (procedure)
+
+Procedure: Human epidermal growth factor receptor 2 gene detection by fluorescence in situ hybridization (procedure)
+
+Procedure: Human epidermal growth factor receptor 2 gene detection by immunohistochemistry (procedure)
+
+Procedure: Mammography (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Screening mammography (procedure)
+
+Procedure: Ultrasonography of bilateral breasts (procedure)
+
+[2012-11-06] DiagnosticReport: History and physical note
+
+[2012-11-06] Encounter: d0288e48-911d-24eb-aa43-602445a843d3
+
+[2015-08-25] DiagnosticReport: History and physical note
+
+[2015-08-25] Encounter: d0288e48-911d-24eb-59d6-576362c4c4d6
+
+[2017-08-29] DiagnosticReport: History and physical note
+
+[2017-08-29] Encounter: d0288e48-911d-24eb-f745-485a904e139e
+
+[2019-09-03] DiagnosticReport: History and physical note
+
+[2019-09-03] Encounter: d0288e48-911d-24eb-fef3-045a260f33c6
+
+[2019-10-24] Condition: Malignant neoplasm of breast (disorder)
+
+[2019-10-24] DiagnosticReport: History and physical note
+
+[2019-10-24] Encounter: d0288e48-911d-24eb-5c54-80eaad528802
+
+[2019-10-24] Observation: Distant metastases.clinical [Class] Cancer
+
+[2019-10-24] Observation: Lymph nodes with macrometastases [#] in Cancer specimen by Light microscopy
+
+[2019-10-24] Observation: Primary tumor.clinical [Class] Cancer
+
+[2019-10-24] Observation: Regional lymph nodes.clinical [Class] Cancer
+
+[2019-10-24] Observation: Site of distant metastasis in Breast tumor
+
+[2019-10-24] Observation: Size.maximum dimension in Tumor
+
+[2019-10-26] Observation: ERBB2 gene duplication [Presence] in Breast cancer specimen by FISH
+
+[2019-10-26] Observation: Estrogen receptor Ag [Presence] in Breast cancer specimen by Immune stain
+
+[2019-10-26] Observation: HER2 [Presence] in Breast cancer specimen by Immune stain
+
+[2019-10-26] Observation: Progesterone receptor Ag [Presence] in Breast cancer specimen by Immune stain
+
+[2019-10-26] Observation: Stage group.clinical Cancer
+
+[2019-10-26] Observation: Stage group.clinical Cancer
+
+[2019-10-30] DiagnosticReport: History and physical note
+
+[2019-10-30] Encounter: d0288e48-911d-24eb-9325-cd34619b93b3
+
+[2019-11-05] DiagnosticReport: History and physical note
+
+[2019-11-05] Encounter: d0288e48-911d-24eb-d0f5-28800bbc4096
+
+[2019-11-28] DiagnosticReport: History and physical note
+
+[2019-11-28] Encounter: d0288e48-911d-24eb-a210-823e5e12f2ba
+
+[2019-12-19] DiagnosticReport: History and physical note
+
+[2019-12-19] Encounter: d0288e48-911d-24eb-dda1-522b9bb0936b
+
+[2020-01-09] DiagnosticReport: History and physical note
+
+[2020-01-09] Encounter: d0288e48-911d-24eb-94f4-3d9e4ccdf065
+
+[2020-01-30] DiagnosticReport: History and physical note
+
+[2020-01-30] Encounter: d0288e48-911d-24eb-c88d-31b9f115eff3
+
+[2020-02-21] DiagnosticReport: History and physical note
+
+[2020-02-21] Encounter: d0288e48-911d-24eb-8772-b03a99b2d139
+
+[2020-03-13] DiagnosticReport: History and physical note
+
+[2020-03-13] Encounter: d0288e48-911d-24eb-e6d0-f0d01b8c98e9
+
+[2020-04-02] DiagnosticReport: History and physical note
+
+[2020-04-02] Encounter: d0288e48-911d-24eb-00bd-5d131862a140
+
+[2020-04-30] DiagnosticReport: History and physical note
+
+[2020-04-30] Encounter: d0288e48-911d-24eb-7ea7-858b456b4acd
+
+[2020-04-30] Observation: Response to cancer treatment
+
+[2020-05-10] DiagnosticReport: History and physical note
+
+[2020-05-10] Encounter: d0288e48-911d-24eb-1ad3-0b8635badb91
+
+[2020-05-30] DiagnosticReport: History and physical note
+
+[2020-05-30] Encounter: d0288e48-911d-24eb-cebf-6e6353e82353
+
+[2020-06-19] DiagnosticReport: History and physical note
+
+[2020-06-19] Encounter: d0288e48-911d-24eb-c5f8-124cff5c3401
+
+[2020-07-09] DiagnosticReport: History and physical note
+
+[2020-07-09] Encounter: d0288e48-911d-24eb-b04c-b9395402a112
+
+[2020-07-31] DiagnosticReport: History and physical note
+
+[2020-07-31] Encounter: d0288e48-911d-24eb-3eac-6195be754626
+
+[2020-08-21] DiagnosticReport: History and physical note
+
+[2020-08-21] Encounter: d0288e48-911d-24eb-05f4-cdedb77c0111
+
+[2020-09-13] DiagnosticReport: History and physical note
+
+[2020-09-13] Encounter: d0288e48-911d-24eb-226a-86a9fcdc5a65
+
+[2020-10-03] DiagnosticReport: History and physical note
+
+[2020-10-03] Encounter: d0288e48-911d-24eb-2103-5d0c43afce4f
+
+[2020-10-06] DiagnosticReport: History and physical note
+
+[2020-10-06] Encounter: d0288e48-911d-24eb-0307-20064e4f7001
+
+[2020-10-06] Observation: Response to cancer treatment
+
+[2020-10-06] Observation: Treatment status Cancer
+
+[2021-01-19] DiagnosticReport: History and physical note
+
+[2021-01-19] Encounter: d0288e48-911d-24eb-8cc8-6492529aa39f
+
+[2021-05-05] DiagnosticReport: History and physical note
+
+[2021-05-05] Encounter: d0288e48-911d-24eb-db1d-3d35eb9bdad1
+
+[2021-08-31] DiagnosticReport: History and physical note
+
+[2021-08-31] DiagnosticReport: History and physical note
+
+[2021-08-31] DiagnosticReport: History and physical note
+
+[2021-08-31] Encounter: d0288e48-911d-24eb-5eb5-87082cfc560a
+
+[2021-08-31] Encounter: d0288e48-911d-24eb-7ebb-56159e163773
+
+[2021-08-31] Encounter: d0288e48-911d-24eb-8747-79f70564073f
+
+[2021-08-31] Observation: Response to cancer treatment
+
+[2021-09-07] DiagnosticReport: History and physical note
+
+[2021-09-07] Encounter: d0288e48-911d-24eb-f23d-e31361e905f4
+
+[2021-11-30] DiagnosticReport: History and physical note
+
+[2021-11-30] DiagnosticReport: U.S. standard certificate of death - 2003 revision
+
+[2021-11-30] Encounter: d0288e48-911d-24eb-902f-d722a7af8ac9
+
+[2021-11-30] Observation: Cause of Death [US Standard Certificate of Death]

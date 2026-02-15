@@ -1,0 +1,386 @@
+# EHR Timeline
+Patient: Shanti441 Marianne327 Ondricka197
+Patient ID: 2c8cb3e6-1634-8a30-844c-7675bb50dfb3
+
+
+MedicationRequest: 2c8cb3e6-1634-8a30-1303-d21c9f9127fa
+
+MedicationRequest: 2c8cb3e6-1634-8a30-1358-12e433906554
+
+MedicationRequest: 2c8cb3e6-1634-8a30-29aa-96496dfae6e6
+
+MedicationRequest: 2c8cb3e6-1634-8a30-2f8e-abbfedb7e7a6
+
+MedicationRequest: 2c8cb3e6-1634-8a30-3d74-a549e8ed9ad6
+
+MedicationRequest: 2c8cb3e6-1634-8a30-3f25-6361789119a8
+
+MedicationRequest: 2c8cb3e6-1634-8a30-5e34-4a6d29f88ffe
+
+MedicationRequest: 2c8cb3e6-1634-8a30-78d5-1cb80f5d13ff
+
+MedicationRequest: 2c8cb3e6-1634-8a30-955c-4175f758cd65
+
+MedicationRequest: 2c8cb3e6-1634-8a30-a2aa-e4b358a492f3
+
+MedicationRequest: 2c8cb3e6-1634-8a30-a2c3-45d9f84f7e98
+
+MedicationRequest: 2c8cb3e6-1634-8a30-a78a-f15bf2d71855
+
+MedicationRequest: 2c8cb3e6-1634-8a30-a941-d7fcc67a90f3
+
+MedicationRequest: 2c8cb3e6-1634-8a30-c09c-c37724890044
+
+MedicationRequest: 2c8cb3e6-1634-8a30-ca50-2b9f425dd8d6
+
+MedicationRequest: 2c8cb3e6-1634-8a30-ca7e-02a380e7c176
+
+MedicationRequest: 2c8cb3e6-1634-8a30-f52c-33c45006c9b8
+
+MedicationRequest: 2c8cb3e6-1634-8a30-fcf8-4f9cac37795e
+
+Patient: Shanti441 Marianne327 Ondricka197 (id: 2c8cb3e6-1634-8a30-844c-7675bb50dfb3)
+
+Procedure: Biopsy of breast (procedure)
+
+Procedure: Bone density scan (procedure)
+
+Procedure: Bone density scan (procedure)
+
+Procedure: Bone density scan (procedure)
+
+Procedure: Bone density scan (procedure)
+
+Procedure: Bone density scan (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Discussion about options (procedure)
+
+Procedure: Excision of axillary lymph node (procedure)
+
+Procedure: Excision of lesion of breast (procedure)
+
+Procedure: Human epidermal growth factor receptor 2 gene detection by fluorescence in situ hybridization (procedure)
+
+Procedure: Human epidermal growth factor receptor 2 gene detection by immunohistochemistry (procedure)
+
+Procedure: Mammography (procedure)
+
+Procedure: Mammography (procedure)
+
+Procedure: Mammography (procedure)
+
+Procedure: Mammography (procedure)
+
+Procedure: Mammography (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Screening mammography (procedure)
+
+Procedure: Ultrasonography of bilateral breasts (procedure)
+
+[2017-11-17] DiagnosticReport: History and physical note
+
+[2017-11-17] Encounter: 2c8cb3e6-1634-8a30-85bc-f8f90357f5f5
+
+[2019-11-22] DiagnosticReport: History and physical note
+
+[2019-11-22] Encounter: 2c8cb3e6-1634-8a30-6a86-1147b9ad6aee
+
+[2020-03-31] Condition: Malignant neoplasm of breast (disorder)
+
+[2020-03-31] DiagnosticReport: History and physical note
+
+[2020-03-31] Encounter: 2c8cb3e6-1634-8a30-115e-a6aa6c5ac3a4
+
+[2020-03-31] Observation: Distant metastases.clinical [Class] Cancer
+
+[2020-03-31] Observation: Lymph nodes with macrometastases [#] in Cancer specimen by Light microscopy
+
+[2020-03-31] Observation: Primary tumor.clinical [Class] Cancer
+
+[2020-03-31] Observation: Regional lymph nodes.clinical [Class] Cancer
+
+[2020-03-31] Observation: Site of distant metastasis in Breast tumor
+
+[2020-03-31] Observation: Size.maximum dimension in Tumor
+
+[2020-04-01] Observation: ERBB2 gene duplication [Presence] in Breast cancer specimen by FISH
+
+[2020-04-01] Observation: Estrogen receptor Ag [Presence] in Breast cancer specimen by Immune stain
+
+[2020-04-01] Observation: Estrogen+Progesterone receptor Ag [Presence] in Tissue by Immune stain
+
+[2020-04-01] Observation: HER2 [Presence] in Breast cancer specimen by Immune stain
+
+[2020-04-01] Observation: Progesterone receptor Ag [Presence] in Breast cancer specimen by Immune stain
+
+[2020-04-01] Observation: Stage group.clinical Cancer
+
+[2020-04-01] Observation: Stage group.clinical Cancer
+
+[2020-04-03] DiagnosticReport: History and physical note
+
+[2020-04-03] Encounter: 2c8cb3e6-1634-8a30-e475-e0281fd7b1fd
+
+[2020-04-09] DiagnosticReport: History and physical note
+
+[2020-04-09] Encounter: 2c8cb3e6-1634-8a30-1516-76d8281be749
+
+[2020-04-30] DiagnosticReport: History and physical note
+
+[2020-04-30] Encounter: 2c8cb3e6-1634-8a30-7773-9e455e8dfd75
+
+[2020-05-22] DiagnosticReport: History and physical note
+
+[2020-05-22] Encounter: 2c8cb3e6-1634-8a30-0e61-5f05b9ee1fde
+
+[2020-06-13] DiagnosticReport: History and physical note
+
+[2020-06-13] Encounter: 2c8cb3e6-1634-8a30-c9c1-539750b681c1
+
+[2020-07-03] DiagnosticReport: History and physical note
+
+[2020-07-03] Encounter: 2c8cb3e6-1634-8a30-43ba-69bad165a0f1
+
+[2020-07-22] DiagnosticReport: History and physical note
+
+[2020-07-22] Encounter: 2c8cb3e6-1634-8a30-f279-19028285d69b
+
+[2020-08-11] DiagnosticReport: History and physical note
+
+[2020-08-11] Encounter: 2c8cb3e6-1634-8a30-0760-e5fc1a89088c
+
+[2020-08-30] DiagnosticReport: History and physical note
+
+[2020-08-30] Encounter: 2c8cb3e6-1634-8a30-b74f-1c0422ffc587
+
+[2020-09-14] DiagnosticReport: History and physical note
+
+[2020-09-14] Encounter: 2c8cb3e6-1634-8a30-50ab-f422d5675282
+
+[2020-09-14] Observation: Response to cancer treatment
+
+[2020-09-24] DiagnosticReport: History and physical note
+
+[2020-09-24] Encounter: 2c8cb3e6-1634-8a30-0b69-252d92c44fed
+
+[2020-10-17] DiagnosticReport: History and physical note
+
+[2020-10-17] Encounter: 2c8cb3e6-1634-8a30-7d83-4b8cfc8965b4
+
+[2020-11-06] DiagnosticReport: History and physical note
+
+[2020-11-06] Encounter: 2c8cb3e6-1634-8a30-6562-57f35d2aa2e1
+
+[2020-11-28] DiagnosticReport: History and physical note
+
+[2020-11-28] Encounter: 2c8cb3e6-1634-8a30-2f61-1948ff78f12a
+
+[2020-12-18] DiagnosticReport: History and physical note
+
+[2020-12-18] Encounter: 2c8cb3e6-1634-8a30-29b1-022897d30046
+
+[2021-01-07] DiagnosticReport: History and physical note
+
+[2021-01-07] Encounter: 2c8cb3e6-1634-8a30-01ba-e00c8a514b1e
+
+[2021-01-26] DiagnosticReport: History and physical note
+
+[2021-01-26] Encounter: 2c8cb3e6-1634-8a30-70d4-87320a9fe80b
+
+[2021-02-16] DiagnosticReport: History and physical note
+
+[2021-02-16] Encounter: 2c8cb3e6-1634-8a30-0818-f198a1870e69
+
+[2021-02-20] DiagnosticReport: History and physical note
+
+[2021-02-20] Encounter: 2c8cb3e6-1634-8a30-13f4-533f40008860
+
+[2021-02-20] Observation: Response to cancer treatment
+
+[2021-02-20] Observation: Treatment status Cancer
+
+[2021-05-30] DiagnosticReport: History and physical note
+
+[2021-05-30] Encounter: 2c8cb3e6-1634-8a30-bb07-df0fbb185020
+
+[2021-09-20] DiagnosticReport: History and physical note
+
+[2021-09-20] Encounter: 2c8cb3e6-1634-8a30-a26a-2720a54978a6
+
+[2021-11-26] DiagnosticReport: History and physical note
+
+[2021-11-26] Encounter: 2c8cb3e6-1634-8a30-8e4d-b4feba56a97c
+
+[2022-01-11] DiagnosticReport: History and physical note
+
+[2022-01-11] DiagnosticReport: History and physical note
+
+[2022-01-11] DiagnosticReport: History and physical note
+
+[2022-01-11] Encounter: 2c8cb3e6-1634-8a30-922c-1a70fb45acc2
+
+[2022-01-11] Encounter: 2c8cb3e6-1634-8a30-c54a-446438e67ce5
+
+[2022-01-11] Encounter: 2c8cb3e6-1634-8a30-f670-8e71e29b98eb
+
+[2022-01-11] Observation: Response to cancer treatment
+
+[2022-04-22] DiagnosticReport: History and physical note
+
+[2022-04-22] Encounter: 2c8cb3e6-1634-8a30-2a0e-e96d6678f13f
+
+[2022-07-31] DiagnosticReport: History and physical note
+
+[2022-07-31] Encounter: 2c8cb3e6-1634-8a30-9c24-969b6ee50db4
+
+[2022-11-11] DiagnosticReport: History and physical note
+
+[2022-11-11] DiagnosticReport: History and physical note
+
+[2022-11-11] DiagnosticReport: History and physical note
+
+[2022-11-11] Encounter: 2c8cb3e6-1634-8a30-95e6-3fac48e47cf0
+
+[2022-11-11] Encounter: 2c8cb3e6-1634-8a30-d3da-fd0c217d76ba
+
+[2022-11-11] Encounter: 2c8cb3e6-1634-8a30-f1a9-e5a1fbfea109
+
+[2022-11-11] Observation: Response to cancer treatment
+
+[2023-03-15] DiagnosticReport: History and physical note
+
+[2023-03-15] Encounter: 2c8cb3e6-1634-8a30-f12a-a77d3c13717e
+
+[2023-07-12] DiagnosticReport: History and physical note
+
+[2023-07-12] Encounter: 2c8cb3e6-1634-8a30-ef4a-1be77fb4a23d
+
+[2023-11-03] DiagnosticReport: History and physical note
+
+[2023-11-03] DiagnosticReport: History and physical note
+
+[2023-11-03] DiagnosticReport: History and physical note
+
+[2023-11-03] DiagnosticReport: History and physical note
+
+[2023-11-03] Encounter: 2c8cb3e6-1634-8a30-2455-3aa6f0d12f20
+
+[2023-11-03] Encounter: 2c8cb3e6-1634-8a30-ad90-41bcd6706bf5
+
+[2023-11-03] Encounter: 2c8cb3e6-1634-8a30-c6ff-a9a88e7e44dc
+
+[2023-11-03] Encounter: 2c8cb3e6-1634-8a30-efdd-33c0fe019a5f
+
+[2023-11-03] Observation: Response to cancer treatment
+
+[2024-03-05] DiagnosticReport: History and physical note
+
+[2024-03-05] Encounter: 2c8cb3e6-1634-8a30-d767-642c57985ee7
+
+[2024-06-23] DiagnosticReport: History and physical note
+
+[2024-06-23] Encounter: 2c8cb3e6-1634-8a30-9b9c-fc68feaf0b65
+
+[2024-10-03] DiagnosticReport: History and physical note
+
+[2024-10-03] DiagnosticReport: History and physical note
+
+[2024-10-03] DiagnosticReport: History and physical note
+
+[2024-10-03] Encounter: 2c8cb3e6-1634-8a30-42d9-b3c0e5fa49a3
+
+[2024-10-03] Encounter: 2c8cb3e6-1634-8a30-488d-3422f572ad6b
+
+[2024-10-03] Encounter: 2c8cb3e6-1634-8a30-bc80-1527e2027652
+
+[2024-10-03] Observation: Response to cancer treatment
+
+[2024-11-08] DiagnosticReport: History and physical note
+
+[2024-11-08] Encounter: 2c8cb3e6-1634-8a30-48a1-fd4bcaa1bb88
+
+[2025-01-26] DiagnosticReport: History and physical note
+
+[2025-01-26] Encounter: 2c8cb3e6-1634-8a30-0ad1-239385c13367
+
+[2025-05-17] DiagnosticReport: History and physical note
+
+[2025-05-17] Encounter: 2c8cb3e6-1634-8a30-38a4-06ac2557ce08
+
+[2025-08-24] DiagnosticReport: History and physical note
+
+[2025-08-24] DiagnosticReport: History and physical note
+
+[2025-08-24] DiagnosticReport: History and physical note
+
+[2025-08-24] Encounter: 2c8cb3e6-1634-8a30-3064-51724a631e1f
+
+[2025-08-24] Encounter: 2c8cb3e6-1634-8a30-ac71-8502c2e91eda
+
+[2025-08-24] Encounter: 2c8cb3e6-1634-8a30-e732-d7e7b4b0fdda
+
+[2025-11-14] DiagnosticReport: History and physical note
+
+[2025-11-14] Encounter: 2c8cb3e6-1634-8a30-5d00-d1f52c1bf6c9

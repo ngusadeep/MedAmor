@@ -1,0 +1,276 @@
+# EHR Timeline
+Patient: Tresa661 Cameron381 Zemlak964
+Patient ID: 2e6529c9-cfe5-12d8-9084-259c55b80335
+
+
+MedicationRequest: 2e6529c9-cfe5-12d8-0082-0768f22e8eab
+
+MedicationRequest: 2e6529c9-cfe5-12d8-3dbc-c4bd4c10eff4
+
+MedicationRequest: 2e6529c9-cfe5-12d8-5201-b76cd236fee2
+
+MedicationRequest: 2e6529c9-cfe5-12d8-79d6-f916df4d29f7
+
+MedicationRequest: 2e6529c9-cfe5-12d8-832d-52e8fd543ebc
+
+MedicationRequest: 2e6529c9-cfe5-12d8-a661-fb7c659eee7f
+
+MedicationRequest: 2e6529c9-cfe5-12d8-c6a2-802a01f0b3f2
+
+MedicationRequest: 2e6529c9-cfe5-12d8-d38a-f1f6e1670356
+
+MedicationRequest: 2e6529c9-cfe5-12d8-eb4b-c33e9353808b
+
+MedicationRequest: 2e6529c9-cfe5-12d8-f18f-c1f6494186be
+
+Patient: Tresa661 Cameron381 Zemlak964 (id: 2e6529c9-cfe5-12d8-9084-259c55b80335)
+
+Procedure: Biopsy of breast (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Cytopathology procedure, preparation of smear, genital source (procedure)
+
+Procedure: Cytopathology procedure, preparation of smear, genital source (procedure)
+
+Procedure: Cytopathology procedure, preparation of smear, genital source (procedure)
+
+Procedure: Discussion about options (procedure)
+
+Procedure: Excision of lesion of breast (procedure)
+
+Procedure: Excision of sentinel lymph node (procedure)
+
+Procedure: Human epidermal growth factor receptor 2 gene detection by fluorescence in situ hybridization (procedure)
+
+Procedure: Human epidermal growth factor receptor 2 gene detection by immunohistochemistry (procedure)
+
+Procedure: Mammography (procedure)
+
+Procedure: Mammography (procedure)
+
+Procedure: Mammography (procedure)
+
+Procedure: Manual pelvic examination (procedure)
+
+Procedure: Manual pelvic examination (procedure)
+
+Procedure: Manual pelvic examination (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Screening mammography (procedure)
+
+Procedure: Sentinel lymph node biopsy (procedure)
+
+Procedure: Ultrasonography of bilateral breasts (procedure)
+
+[2010-10-18] DiagnosticReport: History and physical note
+
+[2010-10-18] Encounter: 2e6529c9-cfe5-12d8-ab04-f956e3a240f5
+
+[2012-10-22] DiagnosticReport: History and physical note
+
+[2012-10-22] Encounter: 2e6529c9-cfe5-12d8-284b-d9296d720e52
+
+[2014-10-27] DiagnosticReport: History and physical note
+
+[2014-10-27] Encounter: 2e6529c9-cfe5-12d8-91b1-65cc9dbe2f6f
+
+[2016-09-02] Condition: Malignant neoplasm of breast (disorder)
+
+[2016-09-02] DiagnosticReport: History and physical note
+
+[2016-09-02] Encounter: 2e6529c9-cfe5-12d8-6dd6-02776728ae87
+
+[2016-09-02] Observation: Distant metastases.clinical [Class] Cancer
+
+[2016-09-02] Observation: Lymph nodes with micrometastases [#] in Cancer specimen by Light microscopy
+
+[2016-09-02] Observation: Primary tumor.clinical [Class] Cancer
+
+[2016-09-02] Observation: Regional lymph nodes.clinical [Class] Cancer
+
+[2016-09-02] Observation: Site of distant metastasis in Breast tumor
+
+[2016-09-02] Observation: Size.maximum dimension in Tumor
+
+[2016-09-04] Observation: ERBB2 gene duplication [Presence] in Breast cancer specimen by FISH
+
+[2016-09-04] Observation: Estrogen receptor Ag [Presence] in Breast cancer specimen by Immune stain
+
+[2016-09-04] Observation: HER2 [Presence] in Breast cancer specimen by Immune stain
+
+[2016-09-04] Observation: Progesterone receptor Ag [Presence] in Breast cancer specimen by Immune stain
+
+[2016-09-04] Observation: Stage group.clinical Cancer
+
+[2016-09-04] Observation: Stage group.clinical Cancer
+
+[2016-09-08] DiagnosticReport: History and physical note
+
+[2016-09-08] Encounter: 2e6529c9-cfe5-12d8-8453-4ed87196ba6b
+
+[2016-09-12] DiagnosticReport: History and physical note
+
+[2016-09-12] Encounter: 2e6529c9-cfe5-12d8-04f2-e6eeb0bca454
+
+[2016-10-03] DiagnosticReport: History and physical note
+
+[2016-10-03] Encounter: 2e6529c9-cfe5-12d8-dd68-4595f9b9c3b6
+
+[2016-10-10] DiagnosticReport: History and physical note
+
+[2016-10-10] Encounter: 2e6529c9-cfe5-12d8-aa29-8bc909581bea
+
+[2016-10-29] DiagnosticReport: History and physical note
+
+[2016-10-29] Encounter: 2e6529c9-cfe5-12d8-425d-4280eda2ddea
+
+[2016-11-21] DiagnosticReport: History and physical note
+
+[2016-11-21] Encounter: 2e6529c9-cfe5-12d8-e0b7-e51206b6d850
+
+[2016-12-12] DiagnosticReport: History and physical note
+
+[2016-12-12] Encounter: 2e6529c9-cfe5-12d8-d8c5-63043fe0a419
+
+[2017-01-02] DiagnosticReport: History and physical note
+
+[2017-01-02] Encounter: 2e6529c9-cfe5-12d8-a2ce-67805f7b3a41
+
+[2017-01-22] DiagnosticReport: History and physical note
+
+[2017-01-22] Encounter: 2e6529c9-cfe5-12d8-a95e-042bfc080f0e
+
+[2017-02-10] DiagnosticReport: History and physical note
+
+[2017-02-10] Encounter: 2e6529c9-cfe5-12d8-ddfa-243eaadc72b0
+
+[2017-03-05] DiagnosticReport: History and physical note
+
+[2017-03-05] Encounter: 2e6529c9-cfe5-12d8-23b2-c40b82668157
+
+[2017-03-07] DiagnosticReport: History and physical note
+
+[2017-03-07] Encounter: 2e6529c9-cfe5-12d8-5ef4-7e2630313fd7
+
+[2017-03-07] Observation: Response to cancer treatment
+
+[2017-03-07] Observation: Treatment status Cancer
+
+[2017-06-24] DiagnosticReport: History and physical note
+
+[2017-06-24] Encounter: 2e6529c9-cfe5-12d8-60bf-6488fcbd222d
+
+[2017-10-09] DiagnosticReport: History and physical note
+
+[2017-10-09] Encounter: 2e6529c9-cfe5-12d8-ecb1-80feb38bce22
+
+[2017-10-21] DiagnosticReport: History and physical note
+
+[2017-10-21] Encounter: 2e6529c9-cfe5-12d8-8570-23390a539ee5
+
+[2018-02-12] DiagnosticReport: History and physical note
+
+[2018-02-12] DiagnosticReport: History and physical note
+
+[2018-02-12] DiagnosticReport: History and physical note
+
+[2018-02-12] Encounter: 2e6529c9-cfe5-12d8-152d-94d9e8d4ce25
+
+[2018-02-12] Encounter: 2e6529c9-cfe5-12d8-8d1e-79fd4496a566
+
+[2018-02-12] Encounter: 2e6529c9-cfe5-12d8-d96b-07fe4a7576d6
+
+[2018-02-13] Observation: Response to cancer treatment
+
+[2018-06-08] DiagnosticReport: History and physical note
+
+[2018-06-08] Encounter: 2e6529c9-cfe5-12d8-31cd-177186470479
+
+[2018-09-22] DiagnosticReport: History and physical note
+
+[2018-09-22] Encounter: 2e6529c9-cfe5-12d8-f946-63d19cc0a6dd
+
+[2018-10-15] DiagnosticReport: History and physical note
+
+[2018-10-15] Encounter: 2e6529c9-cfe5-12d8-db43-1867b3bac579
+
+[2019-01-13] DiagnosticReport: History and physical note
+
+[2019-01-13] DiagnosticReport: History and physical note
+
+[2019-01-13] DiagnosticReport: History and physical note
+
+[2019-01-13] Encounter: 2e6529c9-cfe5-12d8-20d5-ab1fddccd9af
+
+[2019-01-13] Encounter: 2e6529c9-cfe5-12d8-965e-238bd756d8fd
+
+[2019-01-13] Encounter: 2e6529c9-cfe5-12d8-9fd8-198bec0cf7c3
+
+[2019-01-13] Observation: Response to cancer treatment
+
+[2019-05-04] DiagnosticReport: History and physical note
+
+[2019-05-04] Encounter: 2e6529c9-cfe5-12d8-ea61-078ca1606fde
+
+[2019-08-24] DiagnosticReport: History and physical note
+
+[2019-08-24] Encounter: 2e6529c9-cfe5-12d8-d2b8-ec17d6271374
+
+[2019-10-21] DiagnosticReport: History and physical note
+
+[2019-10-21] Encounter: 2e6529c9-cfe5-12d8-384b-162ec655b37c
+
+[2019-12-26] DiagnosticReport: History and physical note
+
+[2019-12-26] DiagnosticReport: History and physical note
+
+[2019-12-26] DiagnosticReport: History and physical note
+
+[2019-12-26] Encounter: 2e6529c9-cfe5-12d8-8c2a-3500df234c1d
+
+[2019-12-26] Encounter: 2e6529c9-cfe5-12d8-b515-0ad32ecb9e1f
+
+[2019-12-26] Encounter: 2e6529c9-cfe5-12d8-e595-595c3d2dff77
+
+[2019-12-26] Observation: Response to cancer treatment
+
+[2020-04-06] DiagnosticReport: History and physical note
+
+[2020-04-06] DiagnosticReport: U.S. standard certificate of death - 2003 revision
+
+[2020-04-06] Encounter: 2e6529c9-cfe5-12d8-c401-de2909c131f2
+
+[2020-04-06] Observation: Cause of Death [US Standard Certificate of Death]

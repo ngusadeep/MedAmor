@@ -23,8 +23,12 @@ class JobStatus:
     FAILED = "failed"
 
 
+# Default audit type: project focus is breast cancer screening
+AUDIT_TYPE_DEFAULT = "breast_cancer_screening"
+
+
 class Job(Base):
-    """Audit job: one per manual or scheduled trigger."""
+    """Audit job: one per manual or scheduled trigger (Breast Cancer Screening focus)."""
 
     __tablename__ = "jobs"
 
@@ -32,6 +36,9 @@ class Job(Base):
         PG_UUID(as_uuid=True), primary_key=True, default=uuid.uuid4
     )
     patient_id: Mapped[str] = mapped_column(String(64), nullable=False, index=True)
+    audit_type: Mapped[str] = mapped_column(
+        String(64), nullable=False, default=AUDIT_TYPE_DEFAULT, index=True
+    )
     status: Mapped[str] = mapped_column(
         String(32), nullable=False, default=JobStatus.PENDING, index=True
     )

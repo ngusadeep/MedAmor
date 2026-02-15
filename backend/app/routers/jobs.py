@@ -7,7 +7,7 @@ from sqlalchemy.orm import Session
 
 from app.core.database import get_db_session
 from app.core.deps import get_current_user_required
-from app.models.job import Job, JobStatus
+from app.models.job import AUDIT_TYPE_DEFAULT, Job, JobStatus
 from app.models.user import User
 from app.schemas.job import JobCreate, JobResponse
 
@@ -20,9 +20,10 @@ def create_job(
     db: Session = Depends(get_db_session),
     _user: User = Depends(get_current_user_required),
 ) -> Job:
-    """Create an audit job (pending). Celery or sync runner will process it later."""
+    """Create an audit job (pending). Celery processes it; default audit type is breast cancer screening."""
     job = Job(
         patient_id=body.patient_id,
+        audit_type=body.audit_type or AUDIT_TYPE_DEFAULT,
         status=JobStatus.PENDING,
         export_type=body.export_type,
         triggered_by=body.triggered_by,

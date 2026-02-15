@@ -23,13 +23,14 @@ dependencies = [
     # Task queue (RabbitMQ)
     "celery>=5.3.0",
     "aio-pika>=9.4.0",
-    # Vector DB / RAG
-    "qdrant-client>=1.7.0",
+    # Vector DB / RAG (ChromaDB + embeddings)
+    "chromadb>=0.4.0",
     "langchain>=0.3.0",
     "langchain-community>=0.3.0",
-    "langgraph>=0.2.0",
-    "langchain-qdrant>=0.1.0",
+    "langchain-chroma>=0.1.0",
+    "langchain-openai>=0.2.0",
     "fastembed>=0.4.0",
+    "openai>=1.0.0",
     # Observability (optional)
     "langsmith>=0.2.0",
 ]

@@ -1,0 +1,232 @@
+# EHR Timeline
+Patient: Stephania967 Heidenreich818
+Patient ID: b09f7460-3f62-d1c8-7c93-59cc5c678769
+
+
+MedicationRequest: b09f7460-3f62-d1c8-0d00-95e8711176ba
+
+MedicationRequest: b09f7460-3f62-d1c8-2c6e-64b404ef9d42
+
+MedicationRequest: b09f7460-3f62-d1c8-4260-e4744442ba5b
+
+MedicationRequest: b09f7460-3f62-d1c8-4d3d-e63a27eab949
+
+MedicationRequest: b09f7460-3f62-d1c8-5072-6391b9f763a7
+
+MedicationRequest: b09f7460-3f62-d1c8-94a9-e1f634dfd5e4
+
+MedicationRequest: b09f7460-3f62-d1c8-9eb0-faa1ef0970ad
+
+MedicationRequest: b09f7460-3f62-d1c8-a61b-3cd89c4495d3
+
+MedicationRequest: b09f7460-3f62-d1c8-b3b2-0ea02bedc82f
+
+MedicationRequest: b09f7460-3f62-d1c8-bc44-47f9a31d3c6d
+
+MedicationRequest: b09f7460-3f62-d1c8-d1d8-7bedc565f1b5
+
+Patient: Stephania967 Heidenreich818 (id: b09f7460-3f62-d1c8-7c93-59cc5c678769)
+
+Procedure: Biopsy of breast (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Cytopathology procedure, preparation of smear, genital source (procedure)
+
+Procedure: Discussion about options (procedure)
+
+Procedure: Excision of lesion of breast (procedure)
+
+Procedure: Human epidermal growth factor receptor 2 gene detection by fluorescence in situ hybridization (procedure)
+
+Procedure: Human epidermal growth factor receptor 2 gene detection by immunohistochemistry (procedure)
+
+Procedure: Mammography (procedure)
+
+Procedure: Manual pelvic examination (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Screening mammography (procedure)
+
+Procedure: Ultrasonography of bilateral breasts (procedure)
+
+[2013-02-02] DiagnosticReport: History and physical note
+
+[2013-02-02] Encounter: b09f7460-3f62-d1c8-f2c3-67bcdbbe1a07
+
+[2014-02-08] DiagnosticReport: History and physical note
+
+[2014-02-08] Encounter: b09f7460-3f62-d1c8-ae5d-36ada136e0cf
+
+[2015-02-14] DiagnosticReport: History and physical note
+
+[2015-02-14] Encounter: b09f7460-3f62-d1c8-1263-f9d7f02bf203
+
+[2016-02-20] DiagnosticReport: History and physical note
+
+[2016-02-20] Encounter: b09f7460-3f62-d1c8-e749-b99d7d1b1d5a
+
+[2017-02-25] DiagnosticReport: History and physical note
+
+[2017-02-25] Encounter: b09f7460-3f62-d1c8-a1e2-d691b703701e
+
+[2018-03-03] DiagnosticReport: History and physical note
+
+[2018-03-03] Encounter: b09f7460-3f62-d1c8-70af-2c69a34f0833
+
+[2019-03-02] Condition: Malignant neoplasm of breast (disorder)
+
+[2019-03-02] DiagnosticReport: History and physical note
+
+[2019-03-02] Encounter: b09f7460-3f62-d1c8-299e-8072892ec521
+
+[2019-03-02] Observation: Distant metastases.clinical [Class] Cancer
+
+[2019-03-02] Observation: Lymph nodes with isolated tumor cells [#] in Cancer specimen by Light microscopy
+
+[2019-03-02] Observation: Primary tumor.clinical [Class] Cancer
+
+[2019-03-02] Observation: Regional lymph nodes.clinical [Class] Cancer
+
+[2019-03-02] Observation: Site of distant metastasis in Breast tumor
+
+[2019-03-02] Observation: Size.maximum dimension in Tumor
+
+[2019-03-04] Observation: ERBB2 gene duplication [Presence] in Breast cancer specimen by FISH
+
+[2019-03-04] Observation: Estrogen receptor Ag [Presence] in Breast cancer specimen by Immune stain
+
+[2019-03-04] Observation: Estrogen+Progesterone receptor Ag [Presence] in Tissue by Immune stain
+
+[2019-03-04] Observation: HER2 [Presence] in Breast cancer specimen by Immune stain
+
+[2019-03-04] Observation: Progesterone receptor Ag [Presence] in Breast cancer specimen by Immune stain
+
+[2019-03-04] Observation: Stage group.clinical Cancer
+
+[2019-03-04] Observation: Stage group.clinical Cancer
+
+[2019-03-07] DiagnosticReport: History and physical note
+
+[2019-03-07] Encounter: b09f7460-3f62-d1c8-bc4a-76f807ac7277
+
+[2019-03-09] DiagnosticReport: History and physical note
+
+[2019-03-09] Encounter: b09f7460-3f62-d1c8-ee7c-d735e32a9351
+
+[2019-03-23] DiagnosticReport: History and physical note
+
+[2019-03-23] Encounter: b09f7460-3f62-d1c8-f4ee-25036f0e6e0a
+
+[2019-03-30] DiagnosticReport: History and physical note
+
+[2019-03-30] Encounter: b09f7460-3f62-d1c8-0c16-b38cf356f5f9
+
+[2019-04-19] DiagnosticReport: History and physical note
+
+[2019-04-19] Encounter: b09f7460-3f62-d1c8-df6d-a6b9edeb4a35
+
+[2019-05-09] DiagnosticReport: History and physical note
+
+[2019-05-09] Encounter: b09f7460-3f62-d1c8-2d86-bb75f2248dd5
+
+[2019-06-01] DiagnosticReport: History and physical note
+
+[2019-06-01] Encounter: b09f7460-3f62-d1c8-aeb9-73c32b81e620
+
+[2019-06-20] DiagnosticReport: History and physical note
+
+[2019-06-20] Encounter: b09f7460-3f62-d1c8-4238-796c25127dbc
+
+[2019-07-13] DiagnosticReport: History and physical note
+
+[2019-07-13] Encounter: b09f7460-3f62-d1c8-ae20-8103be442e11
+
+[2019-08-03] DiagnosticReport: History and physical note
+
+[2019-08-03] Encounter: b09f7460-3f62-d1c8-85aa-16ff1d1a5736
+
+[2019-08-24] DiagnosticReport: History and physical note
+
+[2019-08-24] Encounter: b09f7460-3f62-d1c8-da34-8ac36b5c53aa
+
+[2019-08-29] DiagnosticReport: History and physical note
+
+[2019-08-29] Encounter: b09f7460-3f62-d1c8-ac0c-d96257ea8723
+
+[2019-08-29] Observation: Response to cancer treatment
+
+[2019-08-29] Observation: Treatment status Cancer
+
+[2019-12-30] DiagnosticReport: History and physical note
+
+[2019-12-30] Encounter: b09f7460-3f62-d1c8-7340-79e3e9560690
+
+[2020-03-28] DiagnosticReport: History and physical note
+
+[2020-03-28] Encounter: b09f7460-3f62-d1c8-607c-c1d38fca3ba8
+
+[2020-04-17] DiagnosticReport: History and physical note
+
+[2020-04-17] Encounter: b09f7460-3f62-d1c8-54ff-c8f1d927db07
+
+[2020-08-01] DiagnosticReport: History and physical note
+
+[2020-08-01] DiagnosticReport: History and physical note
+
+[2020-08-01] DiagnosticReport: History and physical note
+
+[2020-08-01] Encounter: b09f7460-3f62-d1c8-1bff-f97ff2cfb016
+
+[2020-08-01] Encounter: b09f7460-3f62-d1c8-40d0-ee667beb5ad5
+
+[2020-08-01] Encounter: b09f7460-3f62-d1c8-4d61-ff72c2579551
+
+[2020-08-01] Observation: Response to cancer treatment
+
+[2020-11-15] DiagnosticReport: History and physical note
+
+[2020-11-15] Encounter: b09f7460-3f62-d1c8-ee95-420fda821f61
+
+[2021-02-22] DiagnosticReport: History and physical note
+
+[2021-02-22] Encounter: b09f7460-3f62-d1c8-32ab-0a6ec9ed4fc6
+
+[2021-04-03] DiagnosticReport: History and physical note
+
+[2021-04-03] Encounter: b09f7460-3f62-d1c8-1c4a-b1664e9b452e
+
+[2021-04-24] DiagnosticReport: History and physical note
+
+[2021-04-24] Encounter: b09f7460-3f62-d1c8-aa93-7d351a0a7f8d
+
+[2021-05-29] DiagnosticReport: History and physical note
+
+[2021-05-29] DiagnosticReport: U.S. standard certificate of death - 2003 revision
+
+[2021-05-29] Encounter: b09f7460-3f62-d1c8-dfe7-b69a082e7197
+
+[2021-05-29] Observation: Cause of Death [US Standard Certificate of Death]

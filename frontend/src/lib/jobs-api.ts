@@ -7,6 +7,7 @@ import { apiGet, apiPost } from './api'
 export interface JobResponse {
   id: string
   patient_id: string
+  audit_type: string
   status: string
   triggered_by: string | null
   export_type: string | null
@@ -31,6 +32,7 @@ export interface AuditReportResponse {
 
 export interface JobCreate {
   patient_id: string
+  audit_type?: string | null // default: breast_cancer_screening
   export_type?: string | null
   triggered_by?: string | null
 }

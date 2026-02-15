@@ -1,0 +1,210 @@
+# EHR Timeline
+Patient: Carl856 Delores12 Kuhic920
+Patient ID: 676dd44d-c14b-be85-c400-c5066dc3c3e7
+
+
+MedicationRequest: 676dd44d-c14b-be85-0495-84b8458e6b1e
+
+MedicationRequest: 676dd44d-c14b-be85-1c03-5ae94ecda787
+
+MedicationRequest: 676dd44d-c14b-be85-232a-1dd88e7fdc33
+
+MedicationRequest: 676dd44d-c14b-be85-30a6-9411d6a6e5f1
+
+MedicationRequest: 676dd44d-c14b-be85-5ff0-fabe007fc9f3
+
+MedicationRequest: 676dd44d-c14b-be85-6630-59f0f5af31e9
+
+MedicationRequest: 676dd44d-c14b-be85-aed3-820a81c57a85
+
+MedicationRequest: 676dd44d-c14b-be85-c370-d7d45015147d
+
+MedicationRequest: 676dd44d-c14b-be85-df6a-826eaeec82c7
+
+Patient: Carl856 Delores12 Kuhic920 (id: 676dd44d-c14b-be85-c400-c5066dc3c3e7)
+
+Procedure: Biopsy of breast (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Chemotherapy (procedure)
+
+Procedure: Cytopathology procedure, preparation of smear, genital source (procedure)
+
+Procedure: Discussion about options (procedure)
+
+Procedure: Human epidermal growth factor receptor 2 gene detection by fluorescence in situ hybridization (procedure)
+
+Procedure: Human epidermal growth factor receptor 2 gene detection by immunohistochemistry (procedure)
+
+Procedure: Lumpectomy of breast (procedure)
+
+Procedure: Mammography (procedure)
+
+Procedure: Manual pelvic examination (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Physical examination, complete (procedure)
+
+Procedure: Screening mammography (procedure)
+
+Procedure: Ultrasonography of bilateral breasts (procedure)
+
+[2016-11-29] DiagnosticReport: History and physical note
+
+[2016-11-29] Encounter: 676dd44d-c14b-be85-f1a5-bbef22cae0eb
+
+[2017-12-05] DiagnosticReport: History and physical note
+
+[2017-12-05] Encounter: 676dd44d-c14b-be85-4fe9-9de0d7975f73
+
+[2018-12-11] DiagnosticReport: History and physical note
+
+[2018-12-11] Encounter: 676dd44d-c14b-be85-0ce8-eac4c82d5b31
+
+[2019-12-17] DiagnosticReport: History and physical note
+
+[2019-12-17] Encounter: 676dd44d-c14b-be85-3049-64b97d33afe1
+
+[2020-12-22] DiagnosticReport: History and physical note
+
+[2020-12-22] Encounter: 676dd44d-c14b-be85-7bbc-6c2f38ffd512
+
+[2021-03-09] DiagnosticReport: History and physical note
+
+[2021-03-09] Encounter: 676dd44d-c14b-be85-442e-3a104c0b78f5
+
+[2021-12-28] DiagnosticReport: History and physical note
+
+[2021-12-28] Encounter: 676dd44d-c14b-be85-ba48-31fe326d16c1
+
+[2023-01-03] DiagnosticReport: History and physical note
+
+[2023-01-03] Encounter: 676dd44d-c14b-be85-decc-f70f518d8262
+
+[2024-01-09] DiagnosticReport: History and physical note
+
+[2024-01-09] Encounter: 676dd44d-c14b-be85-a7e5-0e281a0594c7
+
+[2024-06-16] Condition: Malignant neoplasm of breast (disorder)
+
+[2024-06-16] DiagnosticReport: History and physical note
+
+[2024-06-16] Encounter: 676dd44d-c14b-be85-7d86-925e98469804
+
+[2024-06-16] Observation: Distant metastases.clinical [Class] Cancer
+
+[2024-06-16] Observation: Lymph nodes with isolated tumor cells [#] in Cancer specimen by Light microscopy
+
+[2024-06-16] Observation: Primary tumor.clinical [Class] Cancer
+
+[2024-06-16] Observation: Regional lymph nodes.clinical [Class] Cancer
+
+[2024-06-16] Observation: Site of distant metastasis in Breast tumor
+
+[2024-06-16] Observation: Size.maximum dimension in Tumor
+
+[2024-06-17] Observation: ERBB2 gene duplication [Presence] in Breast cancer specimen by FISH
+
+[2024-06-17] Observation: Estrogen receptor Ag [Presence] in Breast cancer specimen by Immune stain
+
+[2024-06-17] Observation: HER2 [Presence] in Breast cancer specimen by Immune stain
+
+[2024-06-17] Observation: Progesterone receptor Ag [Presence] in Breast cancer specimen by Immune stain
+
+[2024-06-17] Observation: Stage group.clinical Cancer
+
+[2024-06-17] Observation: Stage group.clinical Cancer
+
+[2024-06-24] DiagnosticReport: History and physical note
+
+[2024-06-24] Encounter: 676dd44d-c14b-be85-f141-18e6a69b1e05
+
+[2024-06-28] DiagnosticReport: History and physical note
+
+[2024-06-28] Encounter: 676dd44d-c14b-be85-ae36-96a2ac7e4e7b
+
+[2024-07-09] DiagnosticReport: History and physical note
+
+[2024-07-09] Encounter: 676dd44d-c14b-be85-8195-c5055bca8745
+
+[2024-07-30] DiagnosticReport: History and physical note
+
+[2024-07-30] Encounter: 676dd44d-c14b-be85-0b16-542d9fe2e178
+
+[2024-08-19] DiagnosticReport: History and physical note
+
+[2024-08-19] Encounter: 676dd44d-c14b-be85-6beb-a9f91563472a
+
+[2024-09-11] DiagnosticReport: History and physical note
+
+[2024-09-11] Encounter: 676dd44d-c14b-be85-09d0-090413f101b1
+
+[2024-10-02] DiagnosticReport: History and physical note
+
+[2024-10-02] Encounter: 676dd44d-c14b-be85-d994-f14037a118a9
+
+[2024-10-22] DiagnosticReport: History and physical note
+
+[2024-10-22] Encounter: 676dd44d-c14b-be85-3dc9-6c0a8b8ace04
+
+[2024-11-14] DiagnosticReport: History and physical note
+
+[2024-11-14] Encounter: 676dd44d-c14b-be85-d4e3-fa7240c05824
+
+[2024-12-06] DiagnosticReport: History and physical note
+
+[2024-12-06] Encounter: 676dd44d-c14b-be85-9cf7-05285cf96e5c
+
+[2024-12-10] DiagnosticReport: History and physical note
+
+[2024-12-10] Encounter: 676dd44d-c14b-be85-9a1d-46c9976bf33d
+
+[2024-12-10] Observation: Response to cancer treatment
+
+[2024-12-10] Observation: Treatment status Cancer
+
+[2025-01-14] DiagnosticReport: History and physical note
+
+[2025-01-14] Encounter: 676dd44d-c14b-be85-0ad1-065416343cad
+
+[2025-04-06] DiagnosticReport: History and physical note
+
+[2025-04-06] Encounter: 676dd44d-c14b-be85-8d5d-ef2811d1bf48
+
+[2025-08-02] DiagnosticReport: History and physical note
+
+[2025-08-02] Encounter: 676dd44d-c14b-be85-b1a3-b9365f47d2b7
+
+[2025-11-18] DiagnosticReport: History and physical note
+
+[2025-11-18] DiagnosticReport: History and physical note
+
+[2025-11-18] DiagnosticReport: History and physical note
+
+[2025-11-18] Encounter: 676dd44d-c14b-be85-040e-7a80438cdff1
+
+[2025-11-18] Encounter: 676dd44d-c14b-be85-2f83-d99d873082ec
+
+[2025-11-18] Encounter: 676dd44d-c14b-be85-9293-890fe615e8ba
+
+[2025-11-18] Observation: Response to cancer treatment
+
+[2026-01-20] DiagnosticReport: History and physical note
+
+[2026-01-20] Encounter: 676dd44d-c14b-be85-cec2-05f9fc850c35

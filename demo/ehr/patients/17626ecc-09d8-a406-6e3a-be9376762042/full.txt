@@ -1,0 +1,34 @@
+# EHR Timeline
+Patient: Tonya123 Kristian973 Smith67
+Patient ID: 17626ecc-09d8-a406-6e3a-be9376762042
+
+
+Patient: Tonya123 Kristian973 Smith67 (id: 17626ecc-09d8-a406-6e3a-be9376762042)
+
+[2016-12-09] DiagnosticReport: History and physical note
+
+[2016-12-09] Encounter: 17626ecc-09d8-a406-e052-f890718d8daa
+
+[2018-12-14] DiagnosticReport: History and physical note
+
+[2018-12-14] Encounter: 17626ecc-09d8-a406-2564-ee4c2e6ed629
+
+[2020-12-18] DiagnosticReport: History and physical note
+
+[2020-12-18] Encounter: 17626ecc-09d8-a406-8b58-8d37f45c465c
+
+[2021-04-09] DiagnosticReport: History and physical note
+
+[2021-04-09] Encounter: 17626ecc-09d8-a406-98f3-446295a913d0
+
+[2021-04-30] DiagnosticReport: History and physical note
+
+[2021-04-30] Encounter: 17626ecc-09d8-a406-edf4-3f33fc8d0bdd
+
+[2022-12-23] DiagnosticReport: History and physical note
+
+[2022-12-23] Encounter: 17626ecc-09d8-a406-e435-6add71c3a907
+
+[2024-12-27] DiagnosticReport: History and physical note
+
+[2024-12-27] Encounter: 17626ecc-09d8-a406-3279-cdfaacfeaefc

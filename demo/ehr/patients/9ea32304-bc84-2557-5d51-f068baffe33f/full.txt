@@ -1,0 +1,200 @@
+# EHR Timeline
+Patient: Sherril389 Ila598 Cummings51
+Patient ID: 9ea32304-bc84-2557-5d51-f068baffe33f
+
+
+Patient: Sherril389 Ila598 Cummings51 (id: 9ea32304-bc84-2557-5d51-f068baffe33f)
+
+Procedure: Biopsy of breast (procedure)
+
+Procedure: Discussion about options (procedure)
+
+Procedure: Human epidermal growth factor receptor 2 gene detection by fluorescence in situ hybridization (procedure)
+
+Procedure: Human epidermal growth factor receptor 2 gene detection by immunohistochemistry (procedure)
+
+Procedure: Lumpectomy of breast (procedure)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Radiation therapy care (regime/therapy)
+
+Procedure: Screening mammography (procedure)
+
+Procedure: Ultrasonography of bilateral breasts (procedure)
+
+[2016-11-22] DiagnosticReport: History and physical note
+
+[2016-11-22] Encounter: 9ea32304-bc84-2557-27cc-dec68437fb21
+
+[2017-11-28] DiagnosticReport: History and physical note
+
+[2017-11-28] Encounter: 9ea32304-bc84-2557-66b1-52a1ecc7bbd1
+
+[2018-12-04] DiagnosticReport: History and physical note
+
+[2018-12-04] Encounter: 9ea32304-bc84-2557-7d76-8a3ab0dc3e08
+
+[2019-12-10] DiagnosticReport: History and physical note
+
+[2019-12-10] Encounter: 9ea32304-bc84-2557-9dd2-3bb8b71ae527
+
+[2020-12-15] DiagnosticReport: History and physical note
+
+[2020-12-15] Encounter: 9ea32304-bc84-2557-8d8b-9eca4c747074
+
+[2021-04-27] DiagnosticReport: History and physical note
+
+[2021-04-27] Encounter: 9ea32304-bc84-2557-6d36-965065817f2b
+
+[2021-12-21] DiagnosticReport: History and physical note
+
+[2021-12-21] Encounter: 9ea32304-bc84-2557-0a3c-308521521b5f
+
+[2022-12-27] DiagnosticReport: History and physical note
+
+[2022-12-27] Encounter: 9ea32304-bc84-2557-c549-a49da9983a95
+
+[2024-01-02] DiagnosticReport: History and physical note
+
+[2024-01-02] Encounter: 9ea32304-bc84-2557-79f8-c1e78e091451
+
+[2025-01-07] DiagnosticReport: History and physical note
+
+[2025-01-07] Encounter: 9ea32304-bc84-2557-053f-a03b650d0cf0
+
+[2025-12-02] Condition: Malignant neoplasm of breast (disorder)
+
+[2025-12-02] DiagnosticReport: History and physical note
+
+[2025-12-02] Encounter: 9ea32304-bc84-2557-0887-5f6d5be443e9
+
+[2025-12-02] Observation: Distant metastases.clinical [Class] Cancer
+
+[2025-12-02] Observation: Lymph nodes with isolated tumor cells [#] in Cancer specimen by Light microscopy
+
+[2025-12-02] Observation: Primary tumor.clinical [Class] Cancer
+
+[2025-12-02] Observation: Regional lymph nodes.clinical [Class] Cancer
+
+[2025-12-02] Observation: Site of distant metastasis in Breast tumor
+
+[2025-12-02] Observation: Size.maximum dimension in Tumor
+
+[2025-12-04] Observation: ERBB2 gene duplication [Presence] in Breast cancer specimen by FISH
+
+[2025-12-04] Observation: Estrogen receptor Ag [Presence] in Breast cancer specimen by Immune stain
+
+[2025-12-04] Observation: Estrogen+Progesterone receptor Ag [Presence] in Tissue by Immune stain
+
+[2025-12-04] Observation: HER2 [Presence] in Breast cancer specimen by Immune stain
+
+[2025-12-04] Observation: Progesterone receptor Ag [Presence] in Breast cancer specimen by Immune stain
+
+[2025-12-04] Observation: Stage group.clinical Cancer
+
+[2025-12-04] Observation: Stage group.clinical Cancer
+
+[2025-12-11] DiagnosticReport: History and physical note
+
+[2025-12-11] Encounter: 9ea32304-bc84-2557-47b5-7127cac731c8
+
+[2025-12-15] DiagnosticReport: History and physical note
+
+[2025-12-15] Encounter: 9ea32304-bc84-2557-3fac-c1c120c71283
+
+[2025-12-31] DiagnosticReport: History and physical note
+
+[2025-12-31] Encounter: 9ea32304-bc84-2557-3f20-8e38c366ddc3
+
+[2026-01-01] DiagnosticReport: History and physical note
+
+[2026-01-01] Encounter: 9ea32304-bc84-2557-6a75-df9e1ecd8440
+
+[2026-01-03] DiagnosticReport: History and physical note
+
+[2026-01-03] Encounter: 9ea32304-bc84-2557-7911-92ed045d9950
+
+[2026-01-04] DiagnosticReport: History and physical note
+
+[2026-01-04] Encounter: 9ea32304-bc84-2557-4c59-cb45fa55d7e9
+
+[2026-01-05] DiagnosticReport: History and physical note
+
+[2026-01-05] Encounter: 9ea32304-bc84-2557-d891-903607dd93af
+
+[2026-01-13] DiagnosticReport: History and physical note
+
+[2026-01-13] Encounter: 9ea32304-bc84-2557-9f7e-f1610bad0ab8
+
+[2026-01-20] DiagnosticReport: History and physical note
+
+[2026-01-20] Encounter: 9ea32304-bc84-2557-9ca4-9284bfd372bd
+
+[2026-01-22] DiagnosticReport: History and physical note
+
+[2026-01-22] Encounter: 9ea32304-bc84-2557-01da-ddc47cf422f3
+
+[2026-01-23] DiagnosticReport: History and physical note
+
+[2026-01-23] Encounter: 9ea32304-bc84-2557-6b42-fb1b82044a6c
+
+[2026-01-24] DiagnosticReport: History and physical note
+
+[2026-01-24] Encounter: 9ea32304-bc84-2557-c6ad-a424f406ee52
+
+[2026-01-26] DiagnosticReport: History and physical note
+
+[2026-01-26] Encounter: 9ea32304-bc84-2557-7fc3-f03957161975
+
+[2026-01-27] DiagnosticReport: History and physical note
+
+[2026-01-27] Encounter: 9ea32304-bc84-2557-7e5a-94106089f374
+
+[2026-01-28] DiagnosticReport: History and physical note
+
+[2026-01-28] Encounter: 9ea32304-bc84-2557-5831-9c677db04db0
+
+[2026-01-30] DiagnosticReport: History and physical note
+
+[2026-01-30] Encounter: 9ea32304-bc84-2557-26a8-b11bfa1e45a8
+
+[2026-01-31] DiagnosticReport: History and physical note
+
+[2026-01-31] Encounter: 9ea32304-bc84-2557-1070-66371b5e8f43
+
+[2026-02-01] DiagnosticReport: History and physical note
+
+[2026-02-01] Encounter: 9ea32304-bc84-2557-4ffb-ed0ee4356c85
+
+[2026-02-02] DiagnosticReport: History and physical note
+
+[2026-02-02] Encounter: 9ea32304-bc84-2557-2a06-510d5724ed44
