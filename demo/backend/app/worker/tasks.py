@@ -15,7 +15,7 @@ from app.worker.celery_app import celery_app
 
 @celery_app.task(bind=True, name="app.worker.tasks.run_audit_task")
 def run_audit_task(self, job_id: str):
-    """Load job, run audit (EHR + RAG + MedGemma), save report, update job status."""
+    """Load job, run audit using LangGraph orchestrator, save report, update job status."""
     db: Session = SessionLocal()
     job = None
     try:
@@ -25,11 +25,41 @@ def run_audit_task(self, job_id: str):
         if job.status != JobStatus.PENDING:
             return {"ok": False, "error": f"Job not pending: {job.status}"}
 
+        # Update task state to show progress
+        self.update_state(
+            state="PROCESSING",
+            meta={
+                "patient_id": job.patient_id,
+                "audit_type": getattr(job, "audit_type", "general"),
+                "stage": "Initializing audit workflow",
+            },
+        )
+
         job.status = JobStatus.IN_PROGRESS
         db.commit()
 
+        # Update progress: Fetching EHR data
+        self.update_state(
+            state="PROCESSING",
+            meta={
+                "patient_id": job.patient_id,
+                "audit_type": getattr(job, "audit_type", "general"),
+                "stage": "Fetching patient EHR data",
+            },
+        )
+
         report_create = run_audit(
             job.id, job.patient_id, job.export_type, getattr(job, "audit_type", None)
+        )
+
+        # Update progress: Processing complete
+        self.update_state(
+            state="PROCESSING",
+            meta={
+                "patient_id": job.patient_id,
+                "audit_type": getattr(job, "audit_type", "general"),
+                "stage": "Audit analysis complete",
+            },
         )
 
         report = AuditReport(
@@ -49,6 +79,7 @@ def run_audit_task(self, job_id: str):
         db.commit()
         return {"ok": True, "report_id": str(report.id)}
     except Exception as e:
+        error_msg = f"Audit failed for patient {job.patient_id if job else 'unknown'}: {str(e)}"
         if job:
             job.status = JobStatus.FAILED
             job.error_message = str(e)[:500]

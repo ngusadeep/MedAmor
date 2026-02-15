@@ -108,3 +108,103 @@ def get_job(
     if not job:
         raise HTTPException(status_code=404, detail="Job not found")
     return job
+
+
+@router.get("/task/{task_id}/status")
+def get_task_status(
+    task_id: str,
+    _user: User = Depends(get_current_chief_doctor_required),
+) -> dict:
+    """Get status of a Celery task."""
+    try:
+        from app.worker.celery_app import celery_app
+        from celery.result import AsyncResult
+
+        task = AsyncResult(task_id, app=celery_app)
+
+        if task.state == "PENDING":
+            response = {
+                "status": "pending",
+                "state": "PENDING",
+                "task_id": task_id,
+                "message": "Task is waiting in queue",
+            }
+        elif task.state == "PROCESSING":
+            response = {
+                "status": "processing",
+                "state": "PROCESSING",
+                "task_id": task_id,
+                "message": "Task is being processed",
+                "meta": task.info,  # Progress info
+            }
+        elif task.state == "SUCCESS":
+            result = task.result
+            response = {
+                "status": "completed",
+                "state": "SUCCESS",
+                "task_id": task_id,
+                "result": result,
+            }
+        elif task.state == "FAILURE":
+            response = {
+                "status": "failed",
+                "state": "FAILURE",
+                "task_id": task_id,
+                "message": str(task.info),  # Exception info
+            }
+        else:
+            response = {
+                "status": task.state.lower(),
+                "state": task.state,
+                "task_id": task_id,
+                "message": f"Task is in state: {task.state}",
+            }
+
+        return response
+
+    except Exception as e:
+        return {
+            "status": "error",
+            "message": f"Failed to get task status: {str(e)}",
+        }
+
+
+@router.get("/queue/stats")
+def get_queue_stats(
+    _user: User = Depends(get_current_chief_doctor_required),
+) -> dict:
+    """Get queue statistics and worker status."""
+    try:
+        from app.worker.celery_app import celery_app
+
+        # Get Celery inspector
+        inspect = celery_app.control.inspect()
+
+        # Get active tasks
+        active = inspect.active()
+        reserved = inspect.reserved()
+        stats = inspect.stats()
+
+        active_count = sum(len(tasks) for tasks in (active or {}).values())
+        reserved_count = sum(len(tasks) for tasks in (reserved or {}).values())
+        workers = list((stats or {}).keys())
+
+        return {
+            "workers": {
+                "count": len(workers),
+                "names": workers,
+            },
+            "queue": {
+                "active_jobs": active_count,
+                "queued_jobs": reserved_count,
+            },
+            "details": {
+                "active_tasks": active,
+                "reserved_tasks": reserved,
+            },
+        }
+    except Exception as e:
+        return {
+            "status": "error",
+            "message": f"Failed to get queue stats: {str(e)}",
+        }

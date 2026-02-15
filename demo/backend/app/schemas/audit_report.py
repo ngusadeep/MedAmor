@@ -23,6 +23,13 @@ class EvidenceItem(BaseModel):
     image_ref: str | None = None
 
 
+class OrchestratorEvidenceItem(BaseModel):
+    """Evidence item from aiorchestrator-style reports."""
+
+    guideline: str
+    violation: str
+
+
 class AuditReportCreate(BaseModel):
     """Payload to store an audit result (from audit engine)."""
 
@@ -35,6 +42,14 @@ class AuditReportCreate(BaseModel):
     evidence: list[EvidenceItem] | None = None
     corrective_actions: list[str] | None = None
     next_audit_date: datetime | None = None
+
+
+class OrchestratorAuditReport(BaseModel):
+    """aiorchestrator-style audit report structure."""
+
+    compliant: bool
+    gaps: list[str] = []
+    evidence: list[OrchestratorEvidenceItem] = []
 
 
 class AuditReportResponse(BaseModel):
