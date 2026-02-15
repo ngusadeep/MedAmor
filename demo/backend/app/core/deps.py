@@ -8,7 +8,7 @@ from sqlalchemy.orm import Session
 
 from app.core.database import get_db_session
 from app.core.security import decode_access_token
-from app.models.user import User
+from app.models.user import User, UserRole
 
 security = HTTPBearer(auto_error=False)
 
@@ -45,5 +45,17 @@ def get_current_user_required(
             status_code=status.HTTP_401_UNAUTHORIZED,
             detail="User not found",
             headers={"WWW-Authenticate": "Bearer"},
+        )
+    return user
+
+
+def get_current_chief_doctor_required(
+    user: User = Depends(get_current_user_required),
+) -> User:
+    """Require Chief Doctor role; return User or 403."""
+    if user.role != UserRole.CHIEF_DOCTOR:
+        raise HTTPException(
+            status_code=status.HTTP_403_FORBIDDEN,
+            detail="Chief Doctor access required",
         )
     return user

@@ -20,7 +20,8 @@ Self-contained **Breast Cancer Screening Audit** demo: **frontend** (UI) → **b
 
 ## Run the demo
 
-From this directory (`/demo`):
+1. **Env:** Copy `.env.example` to `.env` and set values (e.g. `JWT_SECRET_KEY`). Compose and the backend (when run from `demo/backend`) use `demo/.env`.
+2. From this directory (`demo/`):
 
 ```bash
 docker compose up --build

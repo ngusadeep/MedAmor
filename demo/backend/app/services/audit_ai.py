@@ -1,4 +1,4 @@
-"""Unified audit AI: MedGemma, Gemini, or OpenAI. Returns same structured audit payload."""
+"""Unified audit AI: MedGemma (HF Endpoints), Gemini, or OpenAI. All configured via .env."""
 
 import json
 import re
@@ -6,6 +6,18 @@ from typing import Any
 
 from app.core.config import settings
 from app.services import medgemma
+
+
+def is_audit_ai_configured() -> bool:
+    """True if the current AUDIT_AI_PROVIDER has required env vars set."""
+    provider = (settings.audit_ai_provider or "medgemma").strip().lower()
+    if provider == "medgemma":
+        return bool(settings.hf_token and settings.hf_medgemma_endpoint)
+    if provider == "gemini":
+        return bool(settings.google_api_key)
+    if provider == "openai":
+        return bool(settings.openai_api_key)
+    return False
 
 STUB_REPORT: dict[str, Any] = {
     "status": "NO_FINDINGS",
@@ -100,7 +112,8 @@ def run_audit_ai(
     kb_context: str | None = None,
 ) -> dict[str, Any]:
     """
-    Run audit with configured provider (medgemma | gemini | openai).
+    Run audit with provider from AUDIT_AI_PROVIDER (medgemma | gemini | openai).
+    All provider keys are read from config (loaded from .env).
     Returns structured dict: status, risk_level, executive_summary, findings, evidence, corrective_actions, next_audit_date.
     """
     provider = (settings.audit_ai_provider or "medgemma").strip().lower()

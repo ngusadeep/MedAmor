@@ -6,7 +6,7 @@ from fastapi import APIRouter, Depends, HTTPException
 from sqlalchemy.orm import Session
 
 from app.core.database import get_db_session
-from app.core.deps import get_current_user_required
+from app.core.deps import get_current_chief_doctor_required
 from app.models.job import AUDIT_TYPE_DEFAULT, Job, JobStatus
 from app.models.user import User
 from app.schemas.job import JobCreate, JobCreateBatch, JobResponse
@@ -38,7 +38,7 @@ def _create_one_job(
 def create_job(
     body: JobCreate,
     db: Session = Depends(get_db_session),
-    _user: User = Depends(get_current_user_required),
+    _user: User = Depends(get_current_chief_doctor_required),
 ) -> Job:
     """Create one audit job (pending). Celery processes it."""
     job = _create_one_job(
@@ -57,7 +57,7 @@ def create_job(
 def create_jobs_batch(
     body: JobCreateBatch,
     db: Session = Depends(get_db_session),
-    _user: User = Depends(get_current_user_required),
+    _user: User = Depends(get_current_chief_doctor_required),
 ) -> list[Job]:
     """Create one audit job per patient_id. Each job is queued for processing."""
     if not body.patient_ids:
@@ -85,7 +85,7 @@ def list_jobs(
     patient_id: str | None = None,
     status: str | None = None,
     db: Session = Depends(get_db_session),
-    _user: User = Depends(get_current_user_required),
+    _user: User = Depends(get_current_chief_doctor_required),
 ) -> list[Job]:
     """List jobs; optional filter by patient_id or status."""
     q = db.query(Job)
@@ -101,7 +101,7 @@ def list_jobs(
 def get_job(
     job_id: UUID,
     db: Session = Depends(get_db_session),
-    _user: User = Depends(get_current_user_required),
+    _user: User = Depends(get_current_chief_doctor_required),
 ) -> Job:
     """Get one job by id."""
     job = db.query(Job).filter(Job.id == job_id).first()

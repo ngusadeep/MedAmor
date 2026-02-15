@@ -1,63 +1,62 @@
 # MedAudit Demo – Breast Cancer Screening Audit
-# Frontend → Backend → EHR service (FastAPI). Backend gets patient data from EHR service.
-# Run from /demo:  docker compose up --build
-# App: http://localhost   API: http://localhost/api   EHR data: http://ehr:8000 (internal)
-version: '3.8'
+# All config from .env only: copy .env.example to .env and set every variable.
+# Run from demo/:  docker compose up --build
+# One Python image (medaudit-app) for backend, worker, beat, and ehr – built once by medaudit_backend.
 
 services:
-  # ---------- EHR Data Service (FastAPI): serves patients list + patient bundle for backend ----------
+  # ---------- EHR Data Service (same image as backend; runs ehr.server:app) ----------
   ehr:
-    build:
-      context: ./ehr
-      dockerfile: Dockerfile
+    image: medaudit-app
     container_name: ehr_service
+    command: ["uvicorn", "ehr.server:app", "--host", "0.0.0.0", "--port", "8000"]
+    env_file: .env
     environment:
-      EHR_DATA_PATH: /data
+      EHR_DATA_PATH: ${EHR_DATA_PATH}
     volumes:
       - ./ehr:/data:ro
     ports:
       - "8001:8000"
     restart: unless-stopped
 
-  # ---------- HAPI FHIR (optional; for raw FHIR upload/query) ----------
-  hapi_db:
-    image: postgres:15-alpine
-    container_name: hapi_db
-    environment:
-      POSTGRES_DB: hapi
-      POSTGRES_USER: hapi
-      POSTGRES_PASSWORD: hapi_dev_password
-    volumes:
-      - hapi_db_data:/var/lib/postgresql/data
-    ports:
-      - "5433:5432"
-    healthcheck:
-      test: ["CMD-SHELL", "pg_isready -U hapi -d hapi"]
-      interval: 10s
-      timeout: 5s
-      retries: 5
-    restart: unless-stopped
+  # ---------- HAPI FHIR (optional; uncomment if needed) ----------
+  # hapi_db:
+  #   image: postgres:15-alpine
+  #   container_name: hapi_db
+  #   environment:
+  #     POSTGRES_DB: hapi
+  #     POSTGRES_USER: hapi
+  #     POSTGRES_PASSWORD: hapi_dev_password
+  #   volumes:
+  #     - hapi_db_data:/var/lib/postgresql/data
+  #   ports:
+  #     - "5433:5432"
+  #   healthcheck:
+  #     test: ["CMD-SHELL", "pg_isready -U hapi -d hapi"]
+  #     interval: 10s
+  #     timeout: 5s
+  #     retries: 5
+  #   restart: unless-stopped
 
-  hapi_fhir:
-    image: hapiproject/hapi:latest
-    container_name: hapi_fhir
-    ports:
-      - "9080:8080"
-    environment:
-      SPRING_DATASOURCE_URL: jdbc:postgresql://hapi_db:5432/hapi
-      SPRING_DATASOURCE_USERNAME: hapi
-      SPRING_DATASOURCE_PASSWORD: hapi_dev_password
-      SPRING_DATASOURCE_DRIVER_CLASS_NAME: org.postgresql.Driver
-      SPRING_DATASOURCE_HIKARI_CONNECTION_TIMEOUT: "60000"
-      SPRING_JPA_PROPERTIES_HIBERNATE_DIALECT: org.hibernate.dialect.PostgreSQLDialect
-      SPRING_JPA_HIBERNATE_DDL_AUTO: update
-      HAPI_FHIR_FHIR_VERSION: R4
-      HAPI_FHIR_OPENAPI_ENABLED: "true"
-      HAPI_FHIR_TESTER_HOME_SERVER_ADDRESS: http://localhost:9080/fhir
-    depends_on:
-      hapi_db:
-        condition: service_healthy
-    restart: unless-stopped
+  # hapi_fhir:
+  #   image: hapiproject/hapi:latest
+  #   container_name: hapi_fhir
+  #   ports:
+  #     - "9080:8080"
+  #   environment:
+  #     SPRING_DATASOURCE_URL: jdbc:postgresql://hapi_db:5432/hapi
+  #     SPRING_DATASOURCE_USERNAME: hapi
+  #     SPRING_DATASOURCE_PASSWORD: hapi1234
+  #     SPRING_DATASOURCE_DRIVER_CLASS_NAME: org.postgresql.Driver
+  #     SPRING_DATASOURCE_HIKARI_CONNECTION_TIMEOUT: "60000"
+  #     SPRING_JPA_PROPERTIES_HIBERNATE_DIALECT: org.hibernate.dialect.PostgreSQLDialect
+  #     SPRING_JPA_HIBERNATE_DDL_AUTO: update
+  #     HAPI_FHIR_FHIR_VERSION: R4
+  #     HAPI_FHIR_OPENAPI_ENABLED: "true"
+  #     HAPI_FHIR_TESTER_HOME_SERVER_ADDRESS: http://localhost:9080/fhir
+  #   depends_on:
+  #     hapi_db:
+  #       condition: service_healthy
+  #   restart: unless-stopped
 
   # ---------- Redis (Celery) ----------
   redis:
@@ -77,18 +76,19 @@ services:
 
   # ---------- MedAudit backend (AI + backend logic) ----------
   medaudit_db:
-    image: postgres:16-alpine
+    image: postgres:15-alpine
     container_name: medaudit_db
+    env_file: .env
     environment:
-      POSTGRES_USER: postgres
-      POSTGRES_PASSWORD: postgres
-      POSTGRES_DB: medaudit
+      POSTGRES_USER: ${POSTGRES_USER}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD}
+      POSTGRES_DB: ${POSTGRES_DB}
     volumes:
       - medaudit_db_data:/var/lib/postgresql/data
     ports:
       - "5434:5432"
     healthcheck:
-      test: ["CMD-SHELL", "pg_isready -U postgres -d medaudit"]
+      test: ["CMD-SHELL", "pg_isready -U ${POSTGRES_USER} -d ${POSTGRES_DB}"]
       interval: 10s
       timeout: 5s
       retries: 5
@@ -96,19 +96,36 @@ services:
 
   medaudit_backend:
     build:
-      context: ./backend
+      context: .
       dockerfile: Dockerfile
+    image: medaudit-app
     container_name: medaudit_backend
+    env_file: .env
     environment:
-      DATABASE_URL: postgresql://postgres:postgres@medaudit_db:5432/medaudit
-      CHROMA_PERSIST_DIR: /app/chroma_data
-      EHR_SERVICE_URL: http://ehr:8000
-      REDIS_URL: redis://redis:6379/0
-      CELERY_BROKER_URL: redis://redis:6379/0
-      CELERY_RESULT_BACKEND: redis://redis:6379/0
-      JWT_SECRET_KEY: change_me_jwt_secret_min_32_chars
-      ALLOWED_ORIGINS: http://localhost:3000,http://localhost:5173,http://localhost,http://127.0.0.1
-      MEDICAL_KB_PATH: /app/docs/Medical_KB
+      DATABASE_URL: ${DATABASE_URL}
+      CHROMA_PERSIST_DIR: ${CHROMA_PERSIST_DIR}
+      EHR_SERVICE_URL: ${EHR_SERVICE_URL}
+      REDIS_URL: ${REDIS_URL}
+      CELERY_BROKER_URL: ${CELERY_BROKER_URL}
+      CELERY_RESULT_BACKEND: ${CELERY_RESULT_BACKEND}
+      JWT_SECRET_KEY: ${JWT_SECRET_KEY}
+      ALLOWED_ORIGINS: ${ALLOWED_ORIGINS}
+      MEDICAL_KB_PATH: ${MEDICAL_KB_PATH}
+      AUDIT_AI_PROVIDER: ${AUDIT_AI_PROVIDER}
+      HF_TOKEN: ${HF_TOKEN}
+      HF_MEDGEMMA_ENDPOINT: ${HF_MEDGEMMA_ENDPOINT}
+      GOOGLE_API_KEY: ${GOOGLE_API_KEY}
+      GEMINI_MODEL: ${GEMINI_MODEL}
+      OPENAI_API_KEY: ${OPENAI_API_KEY}
+      OPENAI_AUDIT_MODEL: ${OPENAI_AUDIT_MODEL}
+      EMBEDDING_PROVIDER: ${EMBEDDING_PROVIDER}
+      OPENAI_EMBEDDING_MODEL: ${OPENAI_EMBEDDING_MODEL}
+      ENVIRONMENT: ${ENVIRONMENT}
+      DEBUG: ${DEBUG}
+      JWT_ALGORITHM: ${JWT_ALGORITHM}
+      JWT_EXPIRE_MINUTES: ${JWT_EXPIRE_MINUTES}
+      HOST: ${HOST}
+      PORT: ${PORT}
     volumes:
       - chroma_data:/app/chroma_data
       - ./docs/Medical_KB:/app/docs/Medical_KB:ro
@@ -122,20 +139,32 @@ services:
     restart: unless-stopped
 
   medaudit_worker:
-    build:
-      context: ./backend
-      dockerfile: Dockerfile
+    image: medaudit-app
     container_name: medaudit_worker
     command: ["celery", "-A", "app.worker.celery_app", "worker", "--loglevel=info"]
+    env_file: .env
     environment:
-      DATABASE_URL: postgresql://postgres:postgres@medaudit_db:5432/medaudit
-      CHROMA_PERSIST_DIR: /app/chroma_data
-      EHR_SERVICE_URL: http://ehr:8000
-      REDIS_URL: redis://redis:6379/0
-      CELERY_BROKER_URL: redis://redis:6379/0
-      CELERY_RESULT_BACKEND: redis://redis:6379/0
-      JWT_SECRET_KEY: change_me_jwt_secret_min_32_chars
-      MEDICAL_KB_PATH: /app/docs/Medical_KB
+      DATABASE_URL: ${DATABASE_URL}
+      CHROMA_PERSIST_DIR: ${CHROMA_PERSIST_DIR}
+      EHR_SERVICE_URL: ${EHR_SERVICE_URL}
+      REDIS_URL: ${REDIS_URL}
+      CELERY_BROKER_URL: ${CELERY_BROKER_URL}
+      CELERY_RESULT_BACKEND: ${CELERY_RESULT_BACKEND}
+      JWT_SECRET_KEY: ${JWT_SECRET_KEY}
+      MEDICAL_KB_PATH: ${MEDICAL_KB_PATH}
+      AUDIT_AI_PROVIDER: ${AUDIT_AI_PROVIDER}
+      HF_TOKEN: ${HF_TOKEN}
+      HF_MEDGEMMA_ENDPOINT: ${HF_MEDGEMMA_ENDPOINT}
+      GOOGLE_API_KEY: ${GOOGLE_API_KEY}
+      GEMINI_MODEL: ${GEMINI_MODEL}
+      OPENAI_API_KEY: ${OPENAI_API_KEY}
+      OPENAI_AUDIT_MODEL: ${OPENAI_AUDIT_MODEL}
+      EMBEDDING_PROVIDER: ${EMBEDDING_PROVIDER}
+      OPENAI_EMBEDDING_MODEL: ${OPENAI_EMBEDDING_MODEL}
+      ENVIRONMENT: ${ENVIRONMENT}
+      DEBUG: ${DEBUG}
+      JWT_ALGORITHM: ${JWT_ALGORITHM}
+      JWT_EXPIRE_MINUTES: ${JWT_EXPIRE_MINUTES}
     volumes:
       - chroma_data:/app/chroma_data
       - ./docs/Medical_KB:/app/docs/Medical_KB:ro
@@ -151,20 +180,32 @@ services:
     restart: unless-stopped
 
   medaudit_beat:
-    build:
-      context: ./backend
-      dockerfile: Dockerfile
+    image: medaudit-app
     container_name: medaudit_beat
     command: ["celery", "-A", "app.worker.celery_app", "beat", "--loglevel=info"]
+    env_file: .env
     environment:
-      DATABASE_URL: postgresql://postgres:postgres@medaudit_db:5432/medaudit
-      CHROMA_PERSIST_DIR: /app/chroma_data
-      EHR_SERVICE_URL: http://ehr:8000
-      REDIS_URL: redis://redis:6379/0
-      CELERY_BROKER_URL: redis://redis:6379/0
-      CELERY_RESULT_BACKEND: redis://redis:6379/0
-      JWT_SECRET_KEY: change_me_jwt_secret_min_32_chars
-      MEDICAL_KB_PATH: /app/docs/Medical_KB
+      DATABASE_URL: ${DATABASE_URL}
+      CHROMA_PERSIST_DIR: ${CHROMA_PERSIST_DIR}
+      EHR_SERVICE_URL: ${EHR_SERVICE_URL}
+      REDIS_URL: ${REDIS_URL}
+      CELERY_BROKER_URL: ${CELERY_BROKER_URL}
+      CELERY_RESULT_BACKEND: ${CELERY_RESULT_BACKEND}
+      JWT_SECRET_KEY: ${JWT_SECRET_KEY}
+      MEDICAL_KB_PATH: ${MEDICAL_KB_PATH}
+      AUDIT_AI_PROVIDER: ${AUDIT_AI_PROVIDER}
+      HF_TOKEN: ${HF_TOKEN}
+      HF_MEDGEMMA_ENDPOINT: ${HF_MEDGEMMA_ENDPOINT}
+      GOOGLE_API_KEY: ${GOOGLE_API_KEY}
+      GEMINI_MODEL: ${GEMINI_MODEL}
+      OPENAI_API_KEY: ${OPENAI_API_KEY}
+      OPENAI_AUDIT_MODEL: ${OPENAI_AUDIT_MODEL}
+      EMBEDDING_PROVIDER: ${EMBEDDING_PROVIDER}
+      OPENAI_EMBEDDING_MODEL: ${OPENAI_EMBEDDING_MODEL}
+      ENVIRONMENT: ${ENVIRONMENT}
+      DEBUG: ${DEBUG}
+      JWT_ALGORITHM: ${JWT_ALGORITHM}
+      JWT_EXPIRE_MINUTES: ${JWT_EXPIRE_MINUTES}
     volumes:
       - chroma_data:/app/chroma_data
       - ./docs/Medical_KB:/app/docs/Medical_KB:ro
@@ -185,7 +226,7 @@ services:
       context: ./frontend
       dockerfile: Dockerfile
       args:
-        VITE_API_URL: /api
+        VITE_API_URL: ${VITE_API_URL}
     container_name: medaudit_frontend
     restart: unless-stopped
 
@@ -202,7 +243,7 @@ services:
     restart: unless-stopped
 
 volumes:
-  hapi_db_data:
+  # hapi_db_data:  # Uncomment if enabling HAPI
   redis_data:
   medaudit_db_data:
   chroma_data:

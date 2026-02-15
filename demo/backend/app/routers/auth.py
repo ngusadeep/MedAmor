@@ -6,7 +6,7 @@ from sqlalchemy.orm import Session
 from app.core.database import get_db_session
 from app.core.deps import get_current_user_required
 from app.core.security import create_access_token, hash_password, verify_password
-from app.models.user import User
+from app.models.user import User, UserRole
 from app.schemas.auth import LoginRequest, SignUpRequest, TokenResponse, UserResponse
 
 router = APIRouter(prefix="/auth", tags=["auth"])
@@ -22,6 +22,7 @@ def _ensure_demo_user(db: Session) -> User:
         user = User(
             username=DEMO_USERNAME,
             hashed_password=hash_password(DEMO_PASSWORD),
+            role=UserRole.CHIEF_DOCTOR,  # Demo user is Chief Doctor
         )
         db.add(user)
         db.commit()
@@ -41,9 +42,12 @@ def signup(
             status_code=status.HTTP_400_BAD_REQUEST,
             detail="Username already registered",
         )
+
+    # All new signups get Doctor role by default
     user = User(
         username=body.username,
         hashed_password=hash_password(body.password),
+        role=UserRole.DOCTOR,
     )
     db.add(user)
     db.commit()
@@ -104,4 +108,4 @@ def logout(response: Response):
 @router.get("/me", response_model=UserResponse)
 def me(user: User = Depends(get_current_user_required)):
     """Return current user from JWT (Bearer or cookie)."""
-    return UserResponse(id=str(user.id), username=user.username)
+    return UserResponse(id=str(user.id), username=user.username, role=user.role)
