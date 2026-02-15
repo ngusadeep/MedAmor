@@ -11,9 +11,13 @@ services:
     command: ["uvicorn", "ehr.server:app", "--host", "0.0.0.0", "--port", "8000"]
     env_file: .env
     environment:
-      EHR_DATA_PATH: ${EHR_DATA_PATH}
+      DATABASE_URL: ${EHR_DATABASE_URL}
+      EHR_DATA_PATH: /app/ehr
     volumes:
-      - ./ehr:/data:ro
+      - ./ehr:/app/ehr:ro
+    depends_on:
+      medaudit_db:
+        condition: service_healthy
     ports:
       - "8001:8000"
     restart: unless-stopped
@@ -83,8 +87,10 @@ services:
       POSTGRES_USER: ${POSTGRES_USER}
       POSTGRES_PASSWORD: ${POSTGRES_PASSWORD}
       POSTGRES_DB: ${POSTGRES_DB}
+      POSTGRES_MULTIPLE_DATABASES: ehr
     volumes:
       - medaudit_db_data:/var/lib/postgresql/data
+      - ./ehr/init_ehr_db.sql:/docker-entrypoint-initdb.d/init_ehr_db.sql:ro
     ports:
       - "5434:5432"
     healthcheck:

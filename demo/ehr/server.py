@@ -1,104 +1,80 @@
-"""EHR data service: FastAPI app that serves patient list and patient bundle (ehr_text).
+"""EHR data service: FastAPI app that serves patient data from PostgreSQL database.
 
 Response format matches backend schemas EHRPatientSummary and EHRPatientBundle
 so the backend can proxy requests from the frontend to this service.
 """
 
-import os
-from pathlib import Path
+from contextlib import asynccontextmanager
 
-from fastapi import FastAPI, HTTPException
+from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
-from pydantic import BaseModel
 
-# Data root: same layout as ehr/ (patients/<id>/full.txt). In Docker mount ehr at /data.
-_def = os.environ.get("EHR_DATA_PATH", "/data")
-DATA_ROOT = Path(_def) if Path(_def).is_absolute() else Path(__file__).resolve().parent / _def
-
-
-class EHRPatientSummary(BaseModel):
-    patient_id: str
-    patient_name: str | None = None
-    export_types: list[str]
+from app.core.config import settings
+from app.database.connection import create_tables
+from app.routes.health import router as health_router
+from app.routes.patients import router as patients_router
 
 
-class EHRPatientBundle(BaseModel):
-    patient_id: str
-    export_type: str = "full"
-    ehr_text: str
-    image_refs: list[str] | None = None
+@asynccontextmanager
+async def lifespan(app: FastAPI):
+    """Application lifespan context manager."""
+    # Startup: Create database tables
+    create_tables()
+
+    # Run migration to populate patients from files (if database is empty)
+    from sqlalchemy.orm import Session
+    from app.database.connection import SessionLocal
+    from app.database.patient_service import get_all_patients
+
+    with SessionLocal() as db:
+        existing_patients = get_all_patients(db)
+        if not existing_patients:
+            print("Database is empty, running patient migration...")
+            # Import and run migration
+            import subprocess
+            import sys
+            try:
+                result = subprocess.run([sys.executable, "migrate_patients.py"],
+                                      cwd="/app",
+                                      capture_output=True,
+                                      text=True)
+                if result.returncode == 0:
+                    print("Patient migration completed successfully")
+                    print(result.stdout)
+                else:
+                    print(f"Migration failed: {result.stderr}")
+            except Exception as e:
+                print(f"Migration error: {e}")
+
+    yield
+    # Shutdown: Clean up resources if needed
 
 
-app = FastAPI(title="EHR Data Service", version="0.1.0")
+app = FastAPI(
+    title="EHR Data Service",
+    version="0.1.0",
+    lifespan=lifespan
+)
+
+# CORS middleware
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],
+    allow_origins=settings.cors_origins,
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
 )
 
-
-def _list_patients() -> list[EHRPatientSummary]:
-    patients_dir = DATA_ROOT / "patients"
-    if not patients_dir.is_dir():
-        return []
-    out = []
-    for path in sorted(patients_dir.iterdir()):
-        if not path.is_dir():
-            continue
-        patient_id = path.name
-        export_types = [f.stem for f in path.iterdir() if f.is_file() and f.suffix == ".txt"]
-        if export_types:
-            out.append(
-                EHRPatientSummary(
-                    patient_id=patient_id,
-                    patient_name=None,
-                    export_types=sorted(set(export_types)),
-                )
-            )
-    return out
-
-
-def _get_patient_bundle(patient_id: str, export_type: str = "full") -> EHRPatientBundle | None:
-    patients_dir = DATA_ROOT / "patients" / patient_id
-    if not patients_dir.is_dir():
-        return None
-    f = patients_dir / f"{export_type}.txt"
-    if not f.is_file():
-        return None
-    text = f.read_text(encoding="utf-8", errors="replace")
-    return EHRPatientBundle(
-        patient_id=patient_id,
-        export_type=export_type,
-        ehr_text=text,
-        image_refs=None,
-    )
-
-
-@app.get("/health")
-def health():
-    return {"status": "ok"}
-
-
-@app.get("/patients", response_model=list[EHRPatientSummary])
-def list_patients():
-    """List all patients (ids and export_types). Backend calls this and forwards to frontend."""
-    return _list_patients()
-
-
-@app.get("/patients/{patient_id}", response_model=EHRPatientBundle)
-def get_patient(patient_id: str, export_type: str = "full"):
-    """Get one patient's EHR text. Backend calls this and forwards to frontend."""
-    bundle = _get_patient_bundle(patient_id, export_type)
-    if not bundle:
-        raise HTTPException(
-            status_code=404,
-            detail=f"EHR not found for patient_id={patient_id}, export_type={export_type}",
-        )
-    return bundle
+# Include routers
+app.include_router(health_router)
+app.include_router(patients_router)
 
 
 if __name__ == "__main__":
     import uvicorn
-    uvicorn.run(app, host="0.0.0.0", port=8000)
+    uvicorn.run(
+        app,
+        host=settings.host,
+        port=settings.port,
+        reload=settings.environment == "development"
+    )
