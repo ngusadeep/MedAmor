@@ -2,6 +2,7 @@
 MedAudit Backend API
 FastAPI application for medical audit system.
 """
+
 from contextlib import asynccontextmanager
 
 from fastapi import FastAPI
@@ -18,6 +19,7 @@ async def lifespan(app: FastAPI):
     init_db()
     try:
         from app.services import rag
+
         rag.ensure_indexed()
     except Exception:
         pass

@@ -59,9 +59,7 @@ def get_audit_report_by_job(
     _user: User = Depends(get_current_user_required),
 ) -> AuditReport | None:
     """Get audit report for a job (if completed)."""
-    report = (
-        db.query(AuditReport).filter(AuditReport.job_id == job_id).first()
-    )
+    report = db.query(AuditReport).filter(AuditReport.job_id == job_id).first()
     return report
 
 
@@ -112,10 +110,16 @@ def _report_to_export_row(report: AuditReport) -> AuditReportExportRow:
         status=report.status,
         risk_level=report.risk_level,
         executive_summary=report.executive_summary,
-        findings_json=json.dumps(report.findings) if report.findings is not None else None,
-        evidence_json=json.dumps(report.evidence) if report.evidence is not None else None,
+        findings_json=(
+            json.dumps(report.findings) if report.findings is not None else None
+        ),
+        evidence_json=(
+            json.dumps(report.evidence) if report.evidence is not None else None
+        ),
         corrective_actions_json=(
-            json.dumps(report.corrective_actions) if report.corrective_actions is not None else None
+            json.dumps(report.corrective_actions)
+            if report.corrective_actions is not None
+            else None
         ),
         next_audit_date=report.next_audit_date,
         created_at=report.created_at,
@@ -128,11 +132,7 @@ def export_audit_reports(
     _user: User = Depends(get_current_user_required),
 ) -> list[AuditReportExportRow]:
     """Export all audit reports for Kaggle / evaluation (JSON)."""
-    reports = (
-        db.query(AuditReport)
-        .order_by(AuditReport.created_at.desc())
-        .all()
-    )
+    reports = db.query(AuditReport).order_by(AuditReport.created_at.desc()).all()
     return [_report_to_export_row(r) for r in reports]
 
 
@@ -145,11 +145,7 @@ def export_audit_reports_csv(
     import csv
     import io
 
-    reports = (
-        db.query(AuditReport)
-        .order_by(AuditReport.created_at.desc())
-        .all()
-    )
+    reports = db.query(AuditReport).order_by(AuditReport.created_at.desc()).all()
     rows = [_report_to_export_row(r) for r in reports]
     if not rows:
         return PlainTextResponse(

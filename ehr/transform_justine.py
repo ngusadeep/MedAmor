@@ -24,7 +24,8 @@ BREAST_CANCER_KEYWORDS = [
     "chemotherapy",
     "doxorubicin",
     "tamoxifen",
-    "her2", "erbb2",
+    "her2",
+    "erbb2",
     "estrogen receptor",
     "progesterone receptor",
     "cancer treatment",
@@ -33,7 +34,9 @@ BREAST_CANCER_KEYWORDS = [
 
 DATE_RE = re.compile(r"\d{4}-\d{2}-\d{2}")
 DATE_ONLY_RE = re.compile(r"^\d{4}-\d{2}-\d{2}$")
-DATETIME_RE = re.compile(r"^(\d{4}-\d{2}-\d{2})(T\d{2}:\d{2}:\d{2}(?:\.\d+)?[+-]\d{2}:\d{2})$")
+DATETIME_RE = re.compile(
+    r"^(\d{4}-\d{2}-\d{2})(T\d{2}:\d{2}:\d{2}(?:\.\d+)?[+-]\d{2}:\d{2})$"
+)
 
 CUTOFF_STEP1 = date(2025, 4, 30)
 CUTOFF_STEP3 = date(2026, 1, 16)
@@ -141,7 +144,9 @@ def main():
     with open(INPUT_FILE) as f:
         result = json.load(f)
     print(f"Valid JSON: Yes")
-    print(f"Entry count: {len(result['entry'])} (removed {original_count - len(result['entry'])})")
+    print(
+        f"Entry count: {len(result['entry'])} (removed {original_count - len(result['entry'])})"
+    )
 
     # Check birthDate
     patient = result["entry"][0]["resource"]

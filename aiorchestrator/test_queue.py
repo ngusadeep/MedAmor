@@ -4,7 +4,6 @@
 import time
 import requests
 
-
 API_URL = "http://localhost:5001"
 
 
@@ -102,9 +101,14 @@ def test_queue():
                         report = result.get("report", "")
                         if "compliant" in report.lower():
                             import json
+
                             try:
                                 audit = json.loads(report)
-                                compliant = "✓ Compliant" if audit.get("compliant") else "✗ Non-compliant"
+                                compliant = (
+                                    "✓ Compliant"
+                                    if audit.get("compliant")
+                                    else "✗ Non-compliant"
+                                )
                                 gaps_count = len(audit.get("gaps", []))
                                 print(f"      {compliant}, {gaps_count} gaps found")
                             except:
@@ -132,5 +136,6 @@ def test_queue():
 
 if __name__ == "__main__":
     import sys
+
     success = test_queue()
     sys.exit(0 if success else 1)

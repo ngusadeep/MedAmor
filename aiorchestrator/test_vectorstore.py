@@ -22,6 +22,7 @@ print(f"✓ Google API Key found: {api_key[:8]}...")
 print("\n1. Testing vector store initialization:")
 try:
     from aiorchestrator.app.vector_store import get_vector_store
+
     vs = get_vector_store()
     print(f"✓ Vector store initialized")
     print(f"  Collection: medaudit_guidelines")
@@ -29,6 +30,7 @@ try:
 except Exception as e:
     print(f"✗ Error: {e}")
     import traceback
+
     traceback.print_exc()
     exit(1)
 
@@ -51,6 +53,7 @@ try:
 except Exception as e:
     print(f"✗ Error adding documents: {e}")
     import traceback
+
     traceback.print_exc()
     exit(1)
 
@@ -66,6 +69,7 @@ try:
 except Exception as e:
     print(f"✗ Error during search: {e}")
     import traceback
+
     traceback.print_exc()
     exit(1)
 

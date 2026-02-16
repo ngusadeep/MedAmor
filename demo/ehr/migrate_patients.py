@@ -15,17 +15,17 @@ from ehr.app.database.patient_service import create_patient
 
 def extract_patient_name_from_text(ehr_text: str) -> str | None:
     """Extract patient name from EHR text if possible."""
-    lines = ehr_text.split('\n')
+    lines = ehr_text.split("\n")
     for line in lines:
-        if line.startswith('Patient: ') or line.startswith('# EHR Timeline'):
+        if line.startswith("Patient: ") or line.startswith("# EHR Timeline"):
             continue
-        if 'Patient ID:' in line:
+        if "Patient ID:" in line:
             continue
         # Try to extract name from the first meaningful line
-        if line.strip() and not line.startswith('['):
+        if line.strip() and not line.startswith("["):
             # Look for name patterns like "John Doe (id: ...)"
-            if '(id:' in line:
-                name = line.split('(id:')[0].strip()
+            if "(id:" in line:
+                name = line.split("(id:")[0].strip()
                 return name if name else None
     return None
 
@@ -73,11 +73,13 @@ def migrate_patients_from_files():
                     db=db,
                     patient_id=patient_id,
                     patient_name=patient_name,
-                    ehr_text=ehr_text
+                    ehr_text=ehr_text,
                 )
 
                 migrated_count += 1
-                print(f"Migrated patient {patient_id}: {patient_name or 'Unknown name'}")
+                print(
+                    f"Migrated patient {patient_id}: {patient_name or 'Unknown name'}"
+                )
 
             except Exception as e:
                 print(f"Error migrating patient {patient_id}: {e}")

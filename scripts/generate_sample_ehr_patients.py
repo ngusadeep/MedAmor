@@ -9,7 +9,6 @@ Creates EHR-DATA_51675_* through EHR-DATA_51678_* so the mock EHR API lists 5 pa
 from pathlib import Path
 import re
 
-
 REPO_ROOT = Path(__file__).resolve().parents[1]
 TEMPLATE_DIR = REPO_ROOT / "EHR-DATA_51674_mrs_elinore878_barton704_"
 
@@ -26,7 +25,9 @@ def main() -> None:
     if not TEMPLATE_DIR.is_dir():
         print(f"Template not found: {TEMPLATE_DIR}")
         return
-    txt_files = sorted(f for f in TEMPLATE_DIR.iterdir() if f.is_file() and f.suffix == ".txt")
+    txt_files = sorted(
+        f for f in TEMPLATE_DIR.iterdir() if f.is_file() and f.suffix == ".txt"
+    )
     if not txt_files:
         print("No .txt files in template dir")
         return
@@ -45,14 +46,20 @@ def main() -> None:
 
         for src in txt_files:
             content = src.read_text(encoding="utf-8", errors="replace")
-            content = content.replace(f"Patient ID: {old_id}", f"Patient ID: {patient_id}")
-            content = content.replace(f"  Patient ID: {old_id}", f"  Patient ID: {patient_id}")
+            content = content.replace(
+                f"Patient ID: {old_id}", f"Patient ID: {patient_id}"
+            )
+            content = content.replace(
+                f"  Patient ID: {old_id}", f"  Patient ID: {patient_id}"
+            )
             content = re.sub(rf"\b{re.escape(old_id)}\b", patient_id, content)
             content = content.replace(old_name, display_name)
             content = content.replace(f"  Name: {old_name}", f"  Name: {display_name}")
 
             # New filename: 51674_mrs_elinore878_barton704_full_... -> 51675_mr_john755_smith801_full_...
-            base = src.name.replace(old_id, patient_id, 1).replace(old_slug, name_slug, 1)
+            base = src.name.replace(old_id, patient_id, 1).replace(
+                old_slug, name_slug, 1
+            )
             dest = new_dir / base
             dest.write_text(content, encoding="utf-8")
             print(f"  {dest.relative_to(REPO_ROOT)}")

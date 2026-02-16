@@ -29,7 +29,9 @@ def _discover_patients() -> list[tuple[str, str, list[str]]]:
         name_slug = m.group(2)
         export_types: list[str] = []
         # Files: 51674_mrs_elinore878_barton704_full_20260201_113539.txt
-        file_pattern = re.compile(r"^\d+_.+?_(full|handoff_complete|handoff_minimal|imaging_complete|imaging_minimal)_\d{8}_\d+\.txt$")
+        file_pattern = re.compile(
+            r"^\d+_.+?_(full|handoff_complete|handoff_minimal|imaging_complete|imaging_minimal)_\d{8}_\d+\.txt$"
+        )
         for f in path.iterdir():
             if f.is_file() and f.suffix == ".txt":
                 fm = file_pattern.match(f.name)
@@ -54,7 +56,9 @@ def list_patients() -> list[EHRPatientSummary]:
     return summaries
 
 
-def get_patient_bundle(patient_id: str, export_type: str = "full") -> EHRPatientBundle | None:
+def get_patient_bundle(
+    patient_id: str, export_type: str = "full"
+) -> EHRPatientBundle | None:
     """Load one patient's EHR text for given export_type. Returns None if not found."""
     root = _ehr_root()
     for path in root.iterdir():

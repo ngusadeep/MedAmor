@@ -38,10 +38,12 @@ def test_audit(patient_id: str = "test-patient", audit_type: str = "general"):
     print("   → Generating audit report with Gemini...")
 
     try:
-        result = graph.invoke({
-            "patient_id": patient_id,
-            "audit_type": audit_type,
-        })
+        result = graph.invoke(
+            {
+                "patient_id": patient_id,
+                "audit_type": audit_type,
+            }
+        )
 
         print("   ✓ Workflow complete")
 
@@ -51,7 +53,9 @@ def test_audit(patient_id: str = "test-patient", audit_type: str = "general"):
 
         # Parse and pretty-print the report
         report = json.loads(result.get("report", "{}"))
-        print(f"\nCompliance Status: {'✓ COMPLIANT' if report.get('compliant') else '✗ NON-COMPLIANT'}")
+        print(
+            f"\nCompliance Status: {'✓ COMPLIANT' if report.get('compliant') else '✗ NON-COMPLIANT'}"
+        )
 
         gaps = report.get("gaps", [])
         if gaps:

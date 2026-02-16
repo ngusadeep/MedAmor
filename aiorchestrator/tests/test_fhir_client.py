@@ -1,4 +1,5 @@
 """Tests for MockFHIRClient."""
+
 import json
 import tempfile
 from pathlib import Path
@@ -16,7 +17,9 @@ def test_mock_fhir_client_returns_well_formed_bundle() -> None:
             "type": "document",
             "entry": [{"resource": {"resourceType": "Patient", "id": "test"}}],
         }
-        (sample_dir / "patient_test.json").write_text(json.dumps(bundle), encoding="utf-8")
+        (sample_dir / "patient_test.json").write_text(
+            json.dumps(bundle), encoding="utf-8"
+        )
         client = MockFHIRClient(sample_dir=str(sample_dir))
         result = client.get_patient_bundle("test")
         assert result["resourceType"] == "Bundle"

@@ -63,5 +63,7 @@ def test_get_patient_bundle_from_service_404():
         client_cls.return_value.__enter__.return_value.get.return_value = (
             httpx.Response(404, request=req)
         )
-        bundle = get_patient_bundle_from_service("http://ehr:8000", "nonexistent", "full")
+        bundle = get_patient_bundle_from_service(
+            "http://ehr:8000", "nonexistent", "full"
+        )
         assert bundle is None

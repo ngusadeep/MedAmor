@@ -49,6 +49,7 @@ def create_job(
         triggered_by=body.triggered_by,
     )
     from app.worker.tasks import run_audit_task
+
     run_audit_task.delay(str(job.id))
     return job
 
@@ -63,6 +64,7 @@ def create_jobs_batch(
     if not body.patient_ids:
         raise HTTPException(status_code=400, detail="patient_ids must not be empty")
     from app.worker.tasks import run_audit_task
+
     jobs: list[Job] = []
     for pid in body.patient_ids:
         pid_clean = (pid or "").strip()

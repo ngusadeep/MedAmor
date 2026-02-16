@@ -51,10 +51,12 @@ def run_patient_audit(self, patient_id: str, audit_type: str = "general") -> dic
 
         # Run the audit through LangGraph
         graph = self.graph
-        result = graph.invoke({
-            "patient_id": patient_id.strip(),
-            "audit_type": audit_type.strip(),
-        })
+        result = graph.invoke(
+            {
+                "patient_id": patient_id.strip(),
+                "audit_type": audit_type.strip(),
+            }
+        )
 
         # Return successful result
         return {

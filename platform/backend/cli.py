@@ -144,10 +144,18 @@ def main():
     create_user_parser = subparsers.add_parser("create-user", help="Create a new user")
     create_user_parser.add_argument("--username", "-u", help="Username")
     create_user_parser.add_argument("--email", "-e", help="Email address")
-    create_user_parser.add_argument("--password", "-p", help="Password (not recommended, use prompt)")
-    create_user_parser.add_argument("--first-name", "-f", dest="first_name", help="First name")
-    create_user_parser.add_argument("--last-name", "-l", dest="last_name", help="Last name")
-    create_user_parser.add_argument("--admin", "-a", action="store_true", help="Make user an admin")
+    create_user_parser.add_argument(
+        "--password", "-p", help="Password (not recommended, use prompt)"
+    )
+    create_user_parser.add_argument(
+        "--first-name", "-f", dest="first_name", help="First name"
+    )
+    create_user_parser.add_argument(
+        "--last-name", "-l", dest="last_name", help="Last name"
+    )
+    create_user_parser.add_argument(
+        "--admin", "-a", action="store_true", help="Make user an admin"
+    )
     create_user_parser.set_defaults(func=cmd_create_user)
 
     # list-users command

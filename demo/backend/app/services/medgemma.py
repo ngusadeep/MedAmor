@@ -44,9 +44,15 @@ def run_medgemma(
 
     url = settings.hf_medgemma_endpoint.rstrip("/")
     if "/chat" in url or "inference" in url:
-        payload = {"inputs": full_prompt, "parameters": {"max_new_tokens": max_new_tokens}}
+        payload = {
+            "inputs": full_prompt,
+            "parameters": {"max_new_tokens": max_new_tokens},
+        }
     else:
-        payload = {"inputs": full_prompt, "parameters": {"max_new_tokens": max_new_tokens}}
+        payload = {
+            "inputs": full_prompt,
+            "parameters": {"max_new_tokens": max_new_tokens},
+        }
 
     try:
         with httpx.Client(timeout=120.0) as client:
@@ -63,7 +69,11 @@ def run_medgemma(
     # Parse model output into structured report (simplified: look for JSON block or use stub)
     raw = ""
     if isinstance(data, list) and len(data) > 0:
-        raw = data[0].get("generated_text", data[0]) if isinstance(data[0], dict) else str(data[0])
+        raw = (
+            data[0].get("generated_text", data[0])
+            if isinstance(data[0], dict)
+            else str(data[0])
+        )
     elif isinstance(data, dict):
         raw = data.get("generated_text", data.get("output", str(data)))
 

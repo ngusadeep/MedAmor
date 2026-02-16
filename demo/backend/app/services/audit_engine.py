@@ -32,9 +32,14 @@ def run_audit(
     if isinstance(report_data, str):
         try:
             import json
+
             report_data = json.loads(report_data)
         except:
-            report_data = {"compliant": False, "gaps": ["Failed to parse report"], "evidence": []}
+            report_data = {
+                "compliant": False,
+                "gaps": ["Failed to parse report"],
+                "evidence": [],
+            }
 
     # Convert orchestrator format to our schema format
     compliant = report_data.get("compliant", False)
@@ -49,21 +54,25 @@ def run_audit(
     corrective_actions = []
 
     for i, gap in enumerate(gaps):
-        findings.append(FindingItem(
-            category="Compliance Gap",
-            description=gap,
-            urgency="medium" if "critical" in gap.lower() else "low"
-        ))
+        findings.append(
+            FindingItem(
+                category="Compliance Gap",
+                description=gap,
+                urgency="medium" if "critical" in gap.lower() else "low",
+            )
+        )
         corrective_actions.append(f"Address: {gap}")
 
     # Convert orchestrator evidence to our format
     evidence = []
     for item in evidence_items:
         if isinstance(item, dict):
-            evidence.append(EvidenceItem(
-                kb_source=item.get("guideline", ""),
-                ehr_snippet=item.get("violation", "")
-            ))
+            evidence.append(
+                EvidenceItem(
+                    kb_source=item.get("guideline", ""),
+                    ehr_snippet=item.get("violation", ""),
+                )
+            )
 
     # Create executive summary
     if compliant:

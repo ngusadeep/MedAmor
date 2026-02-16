@@ -7,7 +7,6 @@ from typing import Any
 
 import requests
 
-
 HAPI_FHIR_URL = os.environ.get("HAPI_FHIR_URL", "http://localhost:9080/fhir")
 
 
@@ -46,12 +45,19 @@ def format_patient_summary(fhir_bundle: dict[str, Any]) -> str:
                 else {}
             )
             display = coding.get("display", coding.get("code", "Observation"))
-            value = resource.get("valueQuantity") or resource.get("valueString") or resource.get("valueCode")
+            value = (
+                resource.get("valueQuantity")
+                or resource.get("valueString")
+                or resource.get("valueCode")
+            )
             if isinstance(value, dict):
                 val_str = value.get("value") or value.get("display", str(value))
             else:
                 val_str = str(value) if value is not None else "N/A"
-            eff = resource.get("effectiveDateTime", resource.get("effectivePeriod", {}).get("start", "N/A"))
+            eff = resource.get(
+                "effectiveDateTime",
+                resource.get("effectivePeriod", {}).get("start", "N/A"),
+            )
             parts.append(f"Observation: {display} = {val_str} ({eff})")
 
         elif rtype == "Condition":
@@ -61,7 +67,9 @@ def format_patient_summary(fhir_bundle: dict[str, Any]) -> str:
                 else {}
             )
             display = coding.get("display", coding.get("code", "Condition"))
-            onset = resource.get("onsetDateTime", resource.get("onsetPeriod", {}).get("start", "N/A"))
+            onset = resource.get(
+                "onsetDateTime", resource.get("onsetPeriod", {}).get("start", "N/A")
+            )
             parts.append(f"Condition: {display} (onset: {onset})")
 
         elif rtype == "MedicationRequest":
@@ -91,7 +99,9 @@ def format_patient_summary(fhir_bundle: dict[str, Any]) -> str:
     return " ".join(parts) if parts else "No patient data available."
 
 
-def fetch_patient_bundle(patient_id: str, fhir_base_url: str | None = None) -> dict[str, Any]:
+def fetch_patient_bundle(
+    patient_id: str, fhir_base_url: str | None = None
+) -> dict[str, Any]:
     """Fetch complete patient data bundle from HAPI FHIR server using $everything operation.
 
     Args:
@@ -116,9 +126,13 @@ def fetch_patient_bundle(patient_id: str, fhir_base_url: str | None = None) -> d
 
         # Validate it's a FHIR Bundle
         if not isinstance(bundle, dict) or bundle.get("resourceType") != "Bundle":
-            raise ValueError(f"Invalid FHIR response: expected Bundle, got {type(bundle)}")
+            raise ValueError(
+                f"Invalid FHIR response: expected Bundle, got {type(bundle)}"
+            )
 
         return bundle
 
     except requests.RequestException as e:
-        raise ValueError(f"Failed to fetch patient {patient_id} from FHIR server: {e}") from e
+        raise ValueError(
+            f"Failed to fetch patient {patient_id} from FHIR server: {e}"
+        ) from e

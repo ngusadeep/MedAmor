@@ -83,7 +83,11 @@ DUMMY_FHIR_BUNDLE = {
             "resource": {
                 "resourceType": "Observation",
                 "id": "obs-2",
-                "code": {"coding": [{"display": "Diastolic blood pressure", "code": "8462-4"}]},
+                "code": {
+                    "coding": [
+                        {"display": "Diastolic blood pressure", "code": "8462-4"}
+                    ]
+                },
                 "valueQuantity": {"value": 88, "unit": "mmHg"},
                 "effectiveDateTime": "2024-01-10",
             }
@@ -92,7 +96,11 @@ DUMMY_FHIR_BUNDLE = {
             "resource": {
                 "resourceType": "Condition",
                 "id": "cond-1",
-                "code": {"coding": [{"display": "Essential hypertension", "code": "38341003"}]},
+                "code": {
+                    "coding": [
+                        {"display": "Essential hypertension", "code": "38341003"}
+                    ]
+                },
                 "onsetDateTime": "2023-06-01",
             }
         },
@@ -175,7 +183,10 @@ def generate_report(state: AuditState) -> dict:
             {
                 "compliant": result.compliant,
                 "gaps": result.gaps,
-                "evidence": [{"guideline": e.guideline, "violation": e.violation} for e in result.evidence],
+                "evidence": [
+                    {"guideline": e.guideline, "violation": e.violation}
+                    for e in result.evidence
+                ],
             },
             indent=2,
         )

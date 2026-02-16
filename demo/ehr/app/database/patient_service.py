@@ -13,7 +13,7 @@ def get_all_patients(db: Session) -> list[EHRPatientSummary]:
         EHRPatientSummary(
             patient_id=patient.patient_id,
             patient_name=patient.patient_name,
-            export_types=["full"]  # For now, only support "full" export type
+            export_types=["full"],  # For now, only support "full" export type
         )
         for patient in patients
     ]
@@ -29,16 +29,16 @@ def get_patient_bundle(db: Session, patient_id: str) -> EHRPatientBundle | None:
         patient_id=patient.patient_id,
         export_type="full",
         ehr_text=patient.ehr_text,
-        image_refs=None
+        image_refs=None,
     )
 
 
-def create_patient(db: Session, patient_id: str, patient_name: str | None, ehr_text: str) -> Patient:
+def create_patient(
+    db: Session, patient_id: str, patient_name: str | None, ehr_text: str
+) -> Patient:
     """Create a new patient record."""
     patient = Patient(
-        patient_id=patient_id,
-        patient_name=patient_name,
-        ehr_text=ehr_text
+        patient_id=patient_id, patient_name=patient_name, ehr_text=ehr_text
     )
     db.add(patient)
     db.commit()

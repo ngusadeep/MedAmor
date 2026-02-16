@@ -1,4 +1,5 @@
 """Tests for GuidelineStore and GuidelineRetriever."""
+
 import tempfile
 from pathlib import Path
 
@@ -33,6 +34,8 @@ def test_guideline_retriever_returns_relevant_chunks() -> None:
         store = GuidelineStore(guidelines_dir=tmp)
         store.load()
         retriever = GuidelineRetriever(store=store, top_k=5)
-        chunks = retriever.retrieve("medication_safety", "patient on warfarin and metformin")
+        chunks = retriever.retrieve(
+            "medication_safety", "patient on warfarin and metformin"
+        )
         assert len(chunks) <= 5
         assert all(c.audit_type == "medication_safety" for c in chunks)

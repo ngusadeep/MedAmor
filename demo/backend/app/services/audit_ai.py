@@ -19,6 +19,7 @@ def is_audit_ai_configured() -> bool:
         return bool(settings.openai_api_key)
     return False
 
+
 STUB_REPORT: dict[str, Any] = {
     "status": "NO_FINDINGS",
     "risk_level": "low",
@@ -56,7 +57,9 @@ def _parse_structured_output(raw: str) -> dict | None:
     return None
 
 
-def _run_medgemma(prompt: str, ehr_excerpt: str | None, kb_context: str | None) -> dict[str, Any]:
+def _run_medgemma(
+    prompt: str, ehr_excerpt: str | None, kb_context: str | None
+) -> dict[str, Any]:
     return medgemma.run_medgemma(
         prompt=prompt,
         ehr_excerpt=ehr_excerpt,
@@ -64,11 +67,14 @@ def _run_medgemma(prompt: str, ehr_excerpt: str | None, kb_context: str | None) 
     )
 
 
-def _run_gemini(prompt: str, ehr_excerpt: str | None, kb_context: str | None) -> dict[str, Any]:
+def _run_gemini(
+    prompt: str, ehr_excerpt: str | None, kb_context: str | None
+) -> dict[str, Any]:
     if not settings.google_api_key:
         return STUB_REPORT.copy()
     try:
         import google.generativeai as genai
+
         genai.configure(api_key=settings.google_api_key)
         model = genai.GenerativeModel(settings.gemini_model)
         full = _build_prompt_parts(prompt, ehr_excerpt, kb_context)
@@ -86,11 +92,14 @@ def _run_gemini(prompt: str, ehr_excerpt: str | None, kb_context: str | None) ->
         return STUB_REPORT.copy()
 
 
-def _run_openai(prompt: str, ehr_excerpt: str | None, kb_context: str | None) -> dict[str, Any]:
+def _run_openai(
+    prompt: str, ehr_excerpt: str | None, kb_context: str | None
+) -> dict[str, Any]:
     if not settings.openai_api_key:
         return STUB_REPORT.copy()
     try:
         from openai import OpenAI
+
         client = OpenAI(api_key=settings.openai_api_key)
         full = _build_prompt_parts(prompt, ehr_excerpt, kb_context)
         response = client.chat.completions.create(

@@ -2,6 +2,7 @@
 MedAudit Backend API
 FastAPI application for medical audit system.
 """
+
 from contextlib import asynccontextmanager
 
 from fastapi import FastAPI

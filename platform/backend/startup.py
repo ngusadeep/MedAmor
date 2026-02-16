@@ -54,7 +54,9 @@ def run_startup() -> None:
         if ensure_default_user():
             print("[startup] Default admin user created.")
         else:
-            print("[startup] Default admin user skipped (already exists or env not set).")
+            print(
+                "[startup] Default admin user skipped (already exists or env not set)."
+            )
     except Exception as e:
         # Don't fail container start; tables might not exist yet (migrations just ran)
         print(f"[startup] Warning: could not ensure default user: {e}", file=sys.stderr)

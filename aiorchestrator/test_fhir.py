@@ -2,6 +2,7 @@
 """Test FHIR fetching independently."""
 
 import os
+
 os.environ["USE_DUMMY_FHIR"] = "true"  # Start with dummy data
 
 from aiorchestrator.app.fhir import fetch_patient_bundle, format_patient_summary
@@ -13,6 +14,7 @@ print("-" * 60)
 print("\n1. Testing with DUMMY data:")
 try:
     from aiorchestrator.app.agent import DUMMY_FHIR_BUNDLE
+
     summary = format_patient_summary(DUMMY_FHIR_BUNDLE)
     print(f"✓ Dummy data summary: {summary[:100]}...")
 except Exception as e:
@@ -24,6 +26,7 @@ print("   Note: This will fail if HAPI FHIR server is not running")
 try:
     # First check if we have any patients
     import requests
+
     response = requests.get("http://localhost:9080/fhir/Patient?_count=1", timeout=5)
     if response.status_code == 200:
         data = response.json()

@@ -6,14 +6,15 @@ Scenario: Breast cancer diagnosed in 2023, follow-up screening in 2024
 """
 
 import os
-os.environ['USE_DUMMY_FHIR'] = 'false'  # We'll use real FHIR or create a bundle
+
+os.environ["USE_DUMMY_FHIR"] = "false"  # We'll use real FHIR or create a bundle
 
 from dotenv import load_dotenv
+
 load_dotenv()
 
 from aiorchestrator.app.agent import build_audit_graph
 import json
-
 
 # Create a FHIR-like summary based on the patient timeline
 JUSTINE_FHIR_SUMMARY = {
@@ -34,20 +35,20 @@ JUSTINE_FHIR_SUMMARY = {
                 "resourceType": "Condition",
                 "id": "breast-cancer-1",
                 "code": {
-                    "coding": [{
-                        "display": "Malignant neoplasm of breast (disorder)",
-                        "code": "254837009"
-                    }]
+                    "coding": [
+                        {
+                            "display": "Malignant neoplasm of breast (disorder)",
+                            "code": "254837009",
+                        }
+                    ]
                 },
-                "clinicalStatus": {
-                    "coding": [{
-                        "code": "active"
-                    }]
-                },
+                "clinicalStatus": {"coding": [{"code": "active"}]},
                 "onsetDateTime": "2023-07-23",
-                "note": [{
-                    "text": "Stage IA breast cancer. Tumor size 0.48 cm. cT1cN0cM0. ER+/PR+/HER2-"
-                }]
+                "note": [
+                    {
+                        "text": "Stage IA breast cancer. Tumor size 0.48 cm. cT1cN0cM0. ER+/PR+/HER2-"
+                    }
+                ],
             }
         },
         {
@@ -55,16 +56,20 @@ JUSTINE_FHIR_SUMMARY = {
                 "resourceType": "Procedure",
                 "id": "initial-mammogram",
                 "code": {
-                    "coding": [{
-                        "display": "Screening mammography (procedure)",
-                        "code": "71651007"
-                    }]
+                    "coding": [
+                        {
+                            "display": "Screening mammography (procedure)",
+                            "code": "71651007",
+                        }
+                    ]
                 },
                 "status": "completed",
                 "performedDateTime": "2023-07-23",
-                "note": [{
-                    "text": "Screening mammography performed. Suspicious findings led to same-day ultrasound and biopsy."
-                }]
+                "note": [
+                    {
+                        "text": "Screening mammography performed. Suspicious findings led to same-day ultrasound and biopsy."
+                    }
+                ],
             }
         },
         {
@@ -72,16 +77,13 @@ JUSTINE_FHIR_SUMMARY = {
                 "resourceType": "Procedure",
                 "id": "biopsy",
                 "code": {
-                    "coding": [{
-                        "display": "Biopsy of breast (procedure)",
-                        "code": "122548005"
-                    }]
+                    "coding": [
+                        {"display": "Biopsy of breast (procedure)", "code": "122548005"}
+                    ]
                 },
                 "status": "completed",
                 "performedDateTime": "2023-07-23",
-                "note": [{
-                    "text": "Core needle biopsy confirmed malignancy"
-                }]
+                "note": [{"text": "Core needle biopsy confirmed malignancy"}],
             }
         },
         {
@@ -89,13 +91,15 @@ JUSTINE_FHIR_SUMMARY = {
                 "resourceType": "Procedure",
                 "id": "lumpectomy",
                 "code": {
-                    "coding": [{
-                        "display": "Lumpectomy of breast (procedure)",
-                        "code": "392021009"
-                    }]
+                    "coding": [
+                        {
+                            "display": "Lumpectomy of breast (procedure)",
+                            "code": "392021009",
+                        }
+                    ]
                 },
                 "status": "completed",
-                "performedDateTime": "2023-08-03"
+                "performedDateTime": "2023-08-03",
             }
         },
         {
@@ -103,19 +107,15 @@ JUSTINE_FHIR_SUMMARY = {
                 "resourceType": "Procedure",
                 "id": "chemotherapy-1",
                 "code": {
-                    "coding": [{
-                        "display": "Chemotherapy (procedure)",
-                        "code": "367336001"
-                    }]
+                    "coding": [
+                        {"display": "Chemotherapy (procedure)", "code": "367336001"}
+                    ]
                 },
                 "status": "completed",
-                "performedPeriod": {
-                    "start": "2023-08-12",
-                    "end": "2024-01-12"
-                },
-                "note": [{
-                    "text": "8 cycles of adjuvant chemotherapy with Doxorubicin"
-                }]
+                "performedPeriod": {"start": "2023-08-12", "end": "2024-01-12"},
+                "note": [
+                    {"text": "8 cycles of adjuvant chemotherapy with Doxorubicin"}
+                ],
             }
         },
         {
@@ -123,16 +123,17 @@ JUSTINE_FHIR_SUMMARY = {
                 "resourceType": "Procedure",
                 "id": "followup-mammogram",
                 "code": {
-                    "coding": [{
-                        "display": "Mammography (procedure)",
-                        "code": "71651007"
-                    }]
+                    "coding": [
+                        {"display": "Mammography (procedure)", "code": "71651007"}
+                    ]
                 },
                 "status": "completed",
                 "performedDateTime": "2024-12-10",
-                "note": [{
-                    "text": "Post-treatment surveillance mammography performed 16 months after diagnosis"
-                }]
+                "note": [
+                    {
+                        "text": "Post-treatment surveillance mammography performed 16 months after diagnosis"
+                    }
+                ],
             }
         },
         {
@@ -140,22 +141,20 @@ JUSTINE_FHIR_SUMMARY = {
                 "resourceType": "Observation",
                 "id": "treatment-response",
                 "code": {
-                    "coding": [{
-                        "display": "Response to cancer treatment",
-                        "code": "395100000"
-                    }]
+                    "coding": [
+                        {"display": "Response to cancer treatment", "code": "395100000"}
+                    ]
                 },
                 "status": "final",
                 "valueCodeableConcept": {
-                    "coding": [{
-                        "display": "Improving (qualifier value)",
-                        "code": "385633008"
-                    }]
+                    "coding": [
+                        {"display": "Improving (qualifier value)", "code": "385633008"}
+                    ]
                 },
-                "effectiveDateTime": "2024-12-10"
+                "effectiveDateTime": "2024-12-10",
             }
-        }
-    ]
+        },
+    ],
 }
 
 
@@ -168,7 +167,9 @@ def test_breast_cancer_screening_audit():
     print("\nPatient: Mrs. Justine Garnett")
     print("DOB: 1979-02-12 (Age: 45)")
     print("Timeline:")
-    print("  - 2023-07-23: Initial screening → Biopsy → Breast cancer diagnosis (Stage IA)")
+    print(
+        "  - 2023-07-23: Initial screening → Biopsy → Breast cancer diagnosis (Stage IA)"
+    )
     print("  - 2023-08-03: Lumpectomy")
     print("  - 2023-08-12 to 2024-01-12: 8 cycles chemotherapy")
     print("  - 2024-12-10: Post-treatment surveillance mammography (16 months post-dx)")
@@ -270,7 +271,10 @@ Output ONLY valid JSON with this structure:
         report = {
             "compliant": result.compliant,
             "gaps": result.gaps,
-            "evidence": [{"guideline": e.guideline, "violation": e.violation} for e in result.evidence],
+            "evidence": [
+                {"guideline": e.guideline, "violation": e.violation}
+                for e in result.evidence
+            ],
         }
 
         print("=" * 80)
@@ -304,6 +308,7 @@ Output ONLY valid JSON with this structure:
     except Exception as e:
         print(f"✗ Error during audit: {e}")
         import traceback
+
         traceback.print_exc()
         return None
 

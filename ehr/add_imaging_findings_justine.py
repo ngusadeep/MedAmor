@@ -39,10 +39,7 @@ def entry_wrapper(resource):
     return {
         "fullUrl": full_url,
         "resource": resource,
-        "request": {
-            "method": "POST",
-            "url": resource["resourceType"]
-        }
+        "request": {"method": "POST", "url": resource["resourceType"]},
     }
 
 
@@ -78,218 +75,273 @@ RECOMMENDATION:
 Targeted diagnostic ultrasound of the left breast is recommended for further characterization. Tissue sampling (core needle biopsy) is strongly recommended. Stereotactic biopsy of the calcifications should also be considered.
 """
     rid = make_uuid()
-    return entry_wrapper({
-        "resourceType": "DiagnosticReport",
-        "id": rid,
-        "meta": {
-            "profile": ["http://hl7.org/fhir/us/core/StructureDefinition/us-core-diagnosticreport-note"]
-        },
-        "status": "final",
-        "category": [{
-            "coding": [{
-                "system": "http://loinc.org",
-                "code": "24606-6",
-                "display": "MG Breast Screening"
-            }]
-        }],
-        "code": {
-            "coding": [{
-                "system": "http://loinc.org",
-                "code": "24606-6",
-                "display": "MG Breast Screening"
-            }],
-            "text": "MG Breast Screening"
-        },
-        "subject": {"reference": PATIENT_REF},
-        "encounter": {"reference": ENCOUNTER_REF},
-        "effectiveDateTime": DATETIME,
-        "issued": DATETIME_MS,
-        "performer": [{
-            "reference": PRACTITIONER_REF,
-            "display": PRACTITIONER_DISPLAY
-        }],
-        "conclusion": "BI-RADS 4C - High Suspicion for Malignancy. 1.4 cm irregular mass with associated pleomorphic microcalcifications, upper outer quadrant, left breast. Core needle biopsy strongly recommended.",
-        "presentedForm": [{
-            "contentType": "text/plain; charset=utf-8",
-            "data": base64.b64encode(narrative.encode("utf-8")).decode("ascii")
-        }]
-    })
+    return entry_wrapper(
+        {
+            "resourceType": "DiagnosticReport",
+            "id": rid,
+            "meta": {
+                "profile": [
+                    "http://hl7.org/fhir/us/core/StructureDefinition/us-core-diagnosticreport-note"
+                ]
+            },
+            "status": "final",
+            "category": [
+                {
+                    "coding": [
+                        {
+                            "system": "http://loinc.org",
+                            "code": "24606-6",
+                            "display": "MG Breast Screening",
+                        }
+                    ]
+                }
+            ],
+            "code": {
+                "coding": [
+                    {
+                        "system": "http://loinc.org",
+                        "code": "24606-6",
+                        "display": "MG Breast Screening",
+                    }
+                ],
+                "text": "MG Breast Screening",
+            },
+            "subject": {"reference": PATIENT_REF},
+            "encounter": {"reference": ENCOUNTER_REF},
+            "effectiveDateTime": DATETIME,
+            "issued": DATETIME_MS,
+            "performer": [
+                {"reference": PRACTITIONER_REF, "display": PRACTITIONER_DISPLAY}
+            ],
+            "conclusion": "BI-RADS 4C - High Suspicion for Malignancy. 1.4 cm irregular mass with associated pleomorphic microcalcifications, upper outer quadrant, left breast. Core needle biopsy strongly recommended.",
+            "presentedForm": [
+                {
+                    "contentType": "text/plain; charset=utf-8",
+                    "data": base64.b64encode(narrative.encode("utf-8")).decode("ascii"),
+                }
+            ],
+        }
+    )
 
 
 def make_birads_observation():
     rid = make_uuid()
-    return entry_wrapper({
-        "resourceType": "Observation",
-        "id": rid,
-        "meta": {
-            "profile": ["http://hl7.org/fhir/us/core/StructureDefinition/us-core-observation-clinical-result"]
-        },
-        "status": "final",
-        "category": [{
-            "coding": [{
-                "system": "http://terminology.hl7.org/CodeSystem/observation-category",
-                "code": "imaging",
-                "display": "Imaging"
-            }]
-        }],
-        "code": {
-            "coding": [{
-                "system": "http://loinc.org",
-                "code": "36625-2",
-                "display": "Breast Imaging Reporting and Data System"
-            }],
-            "text": "Breast Imaging Reporting and Data System"
-        },
-        "subject": {"reference": PATIENT_REF},
-        "encounter": {"reference": ENCOUNTER_REF},
-        "effectiveDateTime": DATETIME,
-        "issued": DATETIME_MS,
-        "valueCodeableConcept": {
-            "coding": [{
-                "system": "http://snomed.info/sct",
-                "code": "397183009",
-                "display": "Mammography assessment (Category 4) (finding)"
-            }],
-            "text": "BI-RADS Category 4C - High Suspicion for Malignancy"
+    return entry_wrapper(
+        {
+            "resourceType": "Observation",
+            "id": rid,
+            "meta": {
+                "profile": [
+                    "http://hl7.org/fhir/us/core/StructureDefinition/us-core-observation-clinical-result"
+                ]
+            },
+            "status": "final",
+            "category": [
+                {
+                    "coding": [
+                        {
+                            "system": "http://terminology.hl7.org/CodeSystem/observation-category",
+                            "code": "imaging",
+                            "display": "Imaging",
+                        }
+                    ]
+                }
+            ],
+            "code": {
+                "coding": [
+                    {
+                        "system": "http://loinc.org",
+                        "code": "36625-2",
+                        "display": "Breast Imaging Reporting and Data System",
+                    }
+                ],
+                "text": "Breast Imaging Reporting and Data System",
+            },
+            "subject": {"reference": PATIENT_REF},
+            "encounter": {"reference": ENCOUNTER_REF},
+            "effectiveDateTime": DATETIME,
+            "issued": DATETIME_MS,
+            "valueCodeableConcept": {
+                "coding": [
+                    {
+                        "system": "http://snomed.info/sct",
+                        "code": "397183009",
+                        "display": "Mammography assessment (Category 4) (finding)",
+                    }
+                ],
+                "text": "BI-RADS Category 4C - High Suspicion for Malignancy",
+            },
         }
-    })
+    )
 
 
 def make_mammo_mass_observation():
     rid = make_uuid()
-    return entry_wrapper({
-        "resourceType": "Observation",
-        "id": rid,
-        "meta": {
-            "profile": ["http://hl7.org/fhir/us/core/StructureDefinition/us-core-observation-clinical-result"]
-        },
-        "status": "final",
-        "category": [{
-            "coding": [{
-                "system": "http://terminology.hl7.org/CodeSystem/observation-category",
-                "code": "imaging",
-                "display": "Imaging"
-            }]
-        }],
-        "code": {
-            "coding": [{
-                "system": "http://snomed.info/sct",
-                "code": "129748003",
-                "display": "Mammographic mass (finding)"
-            }],
-            "text": "Mammographic mass (finding)"
-        },
-        "subject": {"reference": PATIENT_REF},
-        "encounter": {"reference": ENCOUNTER_REF},
-        "effectiveDateTime": DATETIME,
-        "issued": DATETIME_MS,
-        "valueCodeableConcept": {
-            "coding": [{
-                "system": "http://snomed.info/sct",
-                "code": "129748003",
-                "display": "Mammographic mass (finding)"
-            }],
-            "text": "Mammographic mass with associated microcalcifications, left breast"
-        },
-        "bodySite": {
-            "coding": [{
-                "system": "http://snomed.info/sct",
-                "code": "19100000",
-                "display": "Structure of upper outer quadrant of left breast (body structure)"
-            }],
-            "text": "Upper outer quadrant of left breast"
-        },
-        "component": [
-            {
-                "code": {
-                    "coding": [{
-                        "system": "http://snomed.info/sct",
-                        "code": "272741003",
-                        "display": "Laterality (attribute)"
-                    }],
-                    "text": "Laterality"
-                },
-                "valueCodeableConcept": {
-                    "coding": [{
-                        "system": "http://snomed.info/sct",
-                        "code": "7771000",
-                        "display": "Left (qualifier value)"
-                    }],
-                    "text": "Left"
-                }
+    return entry_wrapper(
+        {
+            "resourceType": "Observation",
+            "id": rid,
+            "meta": {
+                "profile": [
+                    "http://hl7.org/fhir/us/core/StructureDefinition/us-core-observation-clinical-result"
+                ]
             },
-            {
-                "code": {
-                    "coding": [{
-                        "system": "http://loinc.org",
-                        "code": "33728-7",
-                        "display": "Size.maximum dimension in Tumor"
-                    }],
-                    "text": "Tumor size"
-                },
-                "valueQuantity": {
-                    "value": 1.4,
-                    "unit": "cm",
-                    "system": "http://unitsofmeasure.org",
-                    "code": "cm"
+            "status": "final",
+            "category": [
+                {
+                    "coding": [
+                        {
+                            "system": "http://terminology.hl7.org/CodeSystem/observation-category",
+                            "code": "imaging",
+                            "display": "Imaging",
+                        }
+                    ]
                 }
+            ],
+            "code": {
+                "coding": [
+                    {
+                        "system": "http://snomed.info/sct",
+                        "code": "129748003",
+                        "display": "Mammographic mass (finding)",
+                    }
+                ],
+                "text": "Mammographic mass (finding)",
             },
-            {
-                "code": {
-                    "coding": [{
+            "subject": {"reference": PATIENT_REF},
+            "encounter": {"reference": ENCOUNTER_REF},
+            "effectiveDateTime": DATETIME,
+            "issued": DATETIME_MS,
+            "valueCodeableConcept": {
+                "coding": [
+                    {
                         "system": "http://snomed.info/sct",
-                        "code": "300842002",
-                        "display": "Mass shape (attribute)"
-                    }],
-                    "text": "Shape"
-                },
-                "valueCodeableConcept": {
-                    "coding": [{
-                        "system": "http://snomed.info/sct",
-                        "code": "23085002",
-                        "display": "Irregular (qualifier value)"
-                    }],
-                    "text": "Irregular"
-                }
+                        "code": "129748003",
+                        "display": "Mammographic mass (finding)",
+                    }
+                ],
+                "text": "Mammographic mass with associated microcalcifications, left breast",
             },
-            {
-                "code": {
-                    "coding": [{
+            "bodySite": {
+                "coding": [
+                    {
                         "system": "http://snomed.info/sct",
-                        "code": "112233004",
-                        "display": "Mass margin (attribute)"
-                    }],
-                    "text": "Margin"
-                },
-                "valueCodeableConcept": {
-                    "coding": [{
-                        "system": "http://snomed.info/sct",
-                        "code": "129742005",
-                        "display": "Indistinct (qualifier value)"
-                    }],
-                    "text": "Indistinct"
-                }
+                        "code": "19100000",
+                        "display": "Structure of upper outer quadrant of left breast (body structure)",
+                    }
+                ],
+                "text": "Upper outer quadrant of left breast",
             },
-            {
-                "code": {
-                    "coding": [{
-                        "system": "http://snomed.info/sct",
-                        "code": "129770003",
-                        "display": "Calcification morphology (attribute)"
-                    }],
-                    "text": "Associated calcifications"
+            "component": [
+                {
+                    "code": {
+                        "coding": [
+                            {
+                                "system": "http://snomed.info/sct",
+                                "code": "272741003",
+                                "display": "Laterality (attribute)",
+                            }
+                        ],
+                        "text": "Laterality",
+                    },
+                    "valueCodeableConcept": {
+                        "coding": [
+                            {
+                                "system": "http://snomed.info/sct",
+                                "code": "7771000",
+                                "display": "Left (qualifier value)",
+                            }
+                        ],
+                        "text": "Left",
+                    },
                 },
-                "valueCodeableConcept": {
-                    "coding": [{
-                        "system": "http://snomed.info/sct",
-                        "code": "129764000",
-                        "display": "Fine pleomorphic microcalcifications (finding)"
-                    }],
-                    "text": "Fine pleomorphic microcalcifications"
-                }
-            }
-        ]
-    })
+                {
+                    "code": {
+                        "coding": [
+                            {
+                                "system": "http://loinc.org",
+                                "code": "33728-7",
+                                "display": "Size.maximum dimension in Tumor",
+                            }
+                        ],
+                        "text": "Tumor size",
+                    },
+                    "valueQuantity": {
+                        "value": 1.4,
+                        "unit": "cm",
+                        "system": "http://unitsofmeasure.org",
+                        "code": "cm",
+                    },
+                },
+                {
+                    "code": {
+                        "coding": [
+                            {
+                                "system": "http://snomed.info/sct",
+                                "code": "300842002",
+                                "display": "Mass shape (attribute)",
+                            }
+                        ],
+                        "text": "Shape",
+                    },
+                    "valueCodeableConcept": {
+                        "coding": [
+                            {
+                                "system": "http://snomed.info/sct",
+                                "code": "23085002",
+                                "display": "Irregular (qualifier value)",
+                            }
+                        ],
+                        "text": "Irregular",
+                    },
+                },
+                {
+                    "code": {
+                        "coding": [
+                            {
+                                "system": "http://snomed.info/sct",
+                                "code": "112233004",
+                                "display": "Mass margin (attribute)",
+                            }
+                        ],
+                        "text": "Margin",
+                    },
+                    "valueCodeableConcept": {
+                        "coding": [
+                            {
+                                "system": "http://snomed.info/sct",
+                                "code": "129742005",
+                                "display": "Indistinct (qualifier value)",
+                            }
+                        ],
+                        "text": "Indistinct",
+                    },
+                },
+                {
+                    "code": {
+                        "coding": [
+                            {
+                                "system": "http://snomed.info/sct",
+                                "code": "129770003",
+                                "display": "Calcification morphology (attribute)",
+                            }
+                        ],
+                        "text": "Associated calcifications",
+                    },
+                    "valueCodeableConcept": {
+                        "coding": [
+                            {
+                                "system": "http://snomed.info/sct",
+                                "code": "129764000",
+                                "display": "Fine pleomorphic microcalcifications (finding)",
+                            }
+                        ],
+                        "text": "Fine pleomorphic microcalcifications",
+                    },
+                },
+            ],
+        }
+    )
 
 
 def make_us_report():
@@ -333,215 +385,266 @@ RECOMMENDATION:
 Ultrasound-guided core needle biopsy of the left breast mass is strongly recommended. Ultrasound-guided fine needle aspiration or core biopsy of the suspicious left axillary lymph node should be performed at the same time.
 """
     rid = make_uuid()
-    return entry_wrapper({
-        "resourceType": "DiagnosticReport",
-        "id": rid,
-        "meta": {
-            "profile": ["http://hl7.org/fhir/us/core/StructureDefinition/us-core-diagnosticreport-note"]
-        },
-        "status": "final",
-        "category": [{
-            "coding": [{
-                "system": "http://loinc.org",
-                "code": "24590-2",
-                "display": "US Breast"
-            }]
-        }],
-        "code": {
-            "coding": [{
-                "system": "http://loinc.org",
-                "code": "24590-2",
-                "display": "US Breast"
-            }],
-            "text": "US Breast"
-        },
-        "subject": {"reference": PATIENT_REF},
-        "encounter": {"reference": ENCOUNTER_REF},
-        "effectiveDateTime": DATETIME,
-        "issued": DATETIME_MS,
-        "performer": [{
-            "reference": PRACTITIONER_REF,
-            "display": PRACTITIONER_DISPLAY
-        }],
-        "conclusion": "BI-RADS 4C - High Suspicion for Malignancy. 1.5 cm hypoechoic solid mass with irregular margins, posterior shadowing, and increased vascularity, left breast 2 o'clock. Suspicious left axillary lymph node. Ultrasound-guided core needle biopsy strongly recommended for both lesions.",
-        "presentedForm": [{
-            "contentType": "text/plain; charset=utf-8",
-            "data": base64.b64encode(narrative.encode("utf-8")).decode("ascii")
-        }]
-    })
+    return entry_wrapper(
+        {
+            "resourceType": "DiagnosticReport",
+            "id": rid,
+            "meta": {
+                "profile": [
+                    "http://hl7.org/fhir/us/core/StructureDefinition/us-core-diagnosticreport-note"
+                ]
+            },
+            "status": "final",
+            "category": [
+                {
+                    "coding": [
+                        {
+                            "system": "http://loinc.org",
+                            "code": "24590-2",
+                            "display": "US Breast",
+                        }
+                    ]
+                }
+            ],
+            "code": {
+                "coding": [
+                    {
+                        "system": "http://loinc.org",
+                        "code": "24590-2",
+                        "display": "US Breast",
+                    }
+                ],
+                "text": "US Breast",
+            },
+            "subject": {"reference": PATIENT_REF},
+            "encounter": {"reference": ENCOUNTER_REF},
+            "effectiveDateTime": DATETIME,
+            "issued": DATETIME_MS,
+            "performer": [
+                {"reference": PRACTITIONER_REF, "display": PRACTITIONER_DISPLAY}
+            ],
+            "conclusion": "BI-RADS 4C - High Suspicion for Malignancy. 1.5 cm hypoechoic solid mass with irregular margins, posterior shadowing, and increased vascularity, left breast 2 o'clock. Suspicious left axillary lymph node. Ultrasound-guided core needle biopsy strongly recommended for both lesions.",
+            "presentedForm": [
+                {
+                    "contentType": "text/plain; charset=utf-8",
+                    "data": base64.b64encode(narrative.encode("utf-8")).decode("ascii"),
+                }
+            ],
+        }
+    )
 
 
 def make_us_mass_observation():
     rid = make_uuid()
-    return entry_wrapper({
-        "resourceType": "Observation",
-        "id": rid,
-        "meta": {
-            "profile": ["http://hl7.org/fhir/us/core/StructureDefinition/us-core-observation-clinical-result"]
-        },
-        "status": "final",
-        "category": [{
-            "coding": [{
-                "system": "http://terminology.hl7.org/CodeSystem/observation-category",
-                "code": "imaging",
-                "display": "Imaging"
-            }]
-        }],
-        "code": {
-            "coding": [{
-                "system": "http://snomed.info/sct",
-                "code": "390790000",
-                "display": "Ultrasound scan of breast (procedure)"
-            }],
-            "text": "Breast ultrasound finding"
-        },
-        "subject": {"reference": PATIENT_REF},
-        "encounter": {"reference": ENCOUNTER_REF},
-        "effectiveDateTime": DATETIME,
-        "issued": DATETIME_MS,
-        "valueCodeableConcept": {
-            "coding": [{
-                "system": "http://snomed.info/sct",
-                "code": "129766003",
-                "display": "Hypoechoic mass of breast (finding)"
-            }],
-            "text": "Hypoechoic solid mass with internal calcifications, left breast"
-        },
-        "bodySite": {
-            "coding": [{
-                "system": "http://snomed.info/sct",
-                "code": "19100000",
-                "display": "Structure of upper outer quadrant of left breast (body structure)"
-            }],
-            "text": "Left breast, 2 o'clock, 5 cm from nipple"
-        },
-        "component": [
-            {
-                "code": {
-                    "coding": [{
-                        "system": "http://loinc.org",
-                        "code": "33728-7",
-                        "display": "Size.maximum dimension in Tumor"
-                    }],
-                    "text": "Mass size"
-                },
-                "valueQuantity": {
-                    "value": 1.5,
-                    "unit": "cm",
-                    "system": "http://unitsofmeasure.org",
-                    "code": "cm"
-                }
+    return entry_wrapper(
+        {
+            "resourceType": "Observation",
+            "id": rid,
+            "meta": {
+                "profile": [
+                    "http://hl7.org/fhir/us/core/StructureDefinition/us-core-observation-clinical-result"
+                ]
             },
-            {
-                "code": {
-                    "coding": [{
-                        "system": "http://snomed.info/sct",
-                        "code": "300842002",
-                        "display": "Mass shape (attribute)"
-                    }],
-                    "text": "Shape"
-                },
-                "valueCodeableConcept": {
-                    "coding": [{
-                        "system": "http://snomed.info/sct",
-                        "code": "23085002",
-                        "display": "Irregular (qualifier value)"
-                    }],
-                    "text": "Irregular"
+            "status": "final",
+            "category": [
+                {
+                    "coding": [
+                        {
+                            "system": "http://terminology.hl7.org/CodeSystem/observation-category",
+                            "code": "imaging",
+                            "display": "Imaging",
+                        }
+                    ]
                 }
+            ],
+            "code": {
+                "coding": [
+                    {
+                        "system": "http://snomed.info/sct",
+                        "code": "390790000",
+                        "display": "Ultrasound scan of breast (procedure)",
+                    }
+                ],
+                "text": "Breast ultrasound finding",
             },
-            {
-                "code": {
-                    "coding": [{
+            "subject": {"reference": PATIENT_REF},
+            "encounter": {"reference": ENCOUNTER_REF},
+            "effectiveDateTime": DATETIME,
+            "issued": DATETIME_MS,
+            "valueCodeableConcept": {
+                "coding": [
+                    {
                         "system": "http://snomed.info/sct",
-                        "code": "112233004",
-                        "display": "Mass margin (attribute)"
-                    }],
-                    "text": "Margin"
-                },
-                "valueCodeableConcept": {
-                    "coding": [{
-                        "system": "http://snomed.info/sct",
-                        "code": "129743000",
-                        "display": "Angular (qualifier value)"
-                    }],
-                    "text": "Angular and microlobulated"
-                }
+                        "code": "129766003",
+                        "display": "Hypoechoic mass of breast (finding)",
+                    }
+                ],
+                "text": "Hypoechoic solid mass with internal calcifications, left breast",
             },
-            {
-                "code": {
-                    "coding": [{
+            "bodySite": {
+                "coding": [
+                    {
                         "system": "http://snomed.info/sct",
-                        "code": "118420003",
-                        "display": "Echogenicity (attribute)"
-                    }],
-                    "text": "Echogenicity"
-                },
-                "valueCodeableConcept": {
-                    "coding": [{
-                        "system": "http://snomed.info/sct",
-                        "code": "65943003",
-                        "display": "Hypoechoic (qualifier value)"
-                    }],
-                    "text": "Markedly hypoechoic"
-                }
+                        "code": "19100000",
+                        "display": "Structure of upper outer quadrant of left breast (body structure)",
+                    }
+                ],
+                "text": "Left breast, 2 o'clock, 5 cm from nipple",
             },
-            {
-                "code": {
-                    "coding": [{
-                        "system": "http://snomed.info/sct",
-                        "code": "118421004",
-                        "display": "Posterior acoustic features (attribute)"
-                    }],
-                    "text": "Posterior acoustic features"
+            "component": [
+                {
+                    "code": {
+                        "coding": [
+                            {
+                                "system": "http://loinc.org",
+                                "code": "33728-7",
+                                "display": "Size.maximum dimension in Tumor",
+                            }
+                        ],
+                        "text": "Mass size",
+                    },
+                    "valueQuantity": {
+                        "value": 1.5,
+                        "unit": "cm",
+                        "system": "http://unitsofmeasure.org",
+                        "code": "cm",
+                    },
                 },
-                "valueCodeableConcept": {
-                    "coding": [{
-                        "system": "http://snomed.info/sct",
-                        "code": "31781000",
-                        "display": "Acoustic shadowing (finding)"
-                    }],
-                    "text": "Posterior acoustic shadowing"
-                }
-            },
-            {
-                "code": {
-                    "coding": [{
-                        "system": "http://snomed.info/sct",
-                        "code": "250142004",
-                        "display": "Orientation of mass (attribute)"
-                    }],
-                    "text": "Orientation"
+                {
+                    "code": {
+                        "coding": [
+                            {
+                                "system": "http://snomed.info/sct",
+                                "code": "300842002",
+                                "display": "Mass shape (attribute)",
+                            }
+                        ],
+                        "text": "Shape",
+                    },
+                    "valueCodeableConcept": {
+                        "coding": [
+                            {
+                                "system": "http://snomed.info/sct",
+                                "code": "23085002",
+                                "display": "Irregular (qualifier value)",
+                            }
+                        ],
+                        "text": "Irregular",
+                    },
                 },
-                "valueCodeableConcept": {
-                    "coding": [{
-                        "system": "http://snomed.info/sct",
-                        "code": "250143009",
-                        "display": "Not parallel (qualifier value)"
-                    }],
-                    "text": "Not parallel (taller than wide)"
-                }
-            },
-            {
-                "code": {
-                    "coding": [{
-                        "system": "http://snomed.info/sct",
-                        "code": "129777006",
-                        "display": "Vascularity of mass (attribute)"
-                    }],
-                    "text": "Vascularity"
+                {
+                    "code": {
+                        "coding": [
+                            {
+                                "system": "http://snomed.info/sct",
+                                "code": "112233004",
+                                "display": "Mass margin (attribute)",
+                            }
+                        ],
+                        "text": "Margin",
+                    },
+                    "valueCodeableConcept": {
+                        "coding": [
+                            {
+                                "system": "http://snomed.info/sct",
+                                "code": "129743000",
+                                "display": "Angular (qualifier value)",
+                            }
+                        ],
+                        "text": "Angular and microlobulated",
+                    },
                 },
-                "valueCodeableConcept": {
-                    "coding": [{
-                        "system": "http://snomed.info/sct",
-                        "code": "129778001",
-                        "display": "Increased vascularity (finding)"
-                    }],
-                    "text": "Increased peripheral vascularity"
-                }
-            }
-        ]
-    })
+                {
+                    "code": {
+                        "coding": [
+                            {
+                                "system": "http://snomed.info/sct",
+                                "code": "118420003",
+                                "display": "Echogenicity (attribute)",
+                            }
+                        ],
+                        "text": "Echogenicity",
+                    },
+                    "valueCodeableConcept": {
+                        "coding": [
+                            {
+                                "system": "http://snomed.info/sct",
+                                "code": "65943003",
+                                "display": "Hypoechoic (qualifier value)",
+                            }
+                        ],
+                        "text": "Markedly hypoechoic",
+                    },
+                },
+                {
+                    "code": {
+                        "coding": [
+                            {
+                                "system": "http://snomed.info/sct",
+                                "code": "118421004",
+                                "display": "Posterior acoustic features (attribute)",
+                            }
+                        ],
+                        "text": "Posterior acoustic features",
+                    },
+                    "valueCodeableConcept": {
+                        "coding": [
+                            {
+                                "system": "http://snomed.info/sct",
+                                "code": "31781000",
+                                "display": "Acoustic shadowing (finding)",
+                            }
+                        ],
+                        "text": "Posterior acoustic shadowing",
+                    },
+                },
+                {
+                    "code": {
+                        "coding": [
+                            {
+                                "system": "http://snomed.info/sct",
+                                "code": "250142004",
+                                "display": "Orientation of mass (attribute)",
+                            }
+                        ],
+                        "text": "Orientation",
+                    },
+                    "valueCodeableConcept": {
+                        "coding": [
+                            {
+                                "system": "http://snomed.info/sct",
+                                "code": "250143009",
+                                "display": "Not parallel (qualifier value)",
+                            }
+                        ],
+                        "text": "Not parallel (taller than wide)",
+                    },
+                },
+                {
+                    "code": {
+                        "coding": [
+                            {
+                                "system": "http://snomed.info/sct",
+                                "code": "129777006",
+                                "display": "Vascularity of mass (attribute)",
+                            }
+                        ],
+                        "text": "Vascularity",
+                    },
+                    "valueCodeableConcept": {
+                        "coding": [
+                            {
+                                "system": "http://snomed.info/sct",
+                                "code": "129778001",
+                                "display": "Increased vascularity (finding)",
+                            }
+                        ],
+                        "text": "Increased peripheral vascularity",
+                    },
+                },
+            ],
+        }
+    )
 
 
 def make_clinical_note():
@@ -593,48 +696,61 @@ Highly suspicious breast mass, left breast. BI-RADS 4C on both mammography and u
 - Patient counseled regarding findings and recommendations
 """
     rid = make_uuid()
-    return entry_wrapper({
-        "resourceType": "DiagnosticReport",
-        "id": rid,
-        "meta": {
-            "profile": ["http://hl7.org/fhir/us/core/StructureDefinition/us-core-diagnosticreport-note"]
-        },
-        "status": "final",
-        "category": [{
-            "coding": [{
-                "system": "http://loinc.org",
-                "code": "34117-2",
-                "display": "History and physical note"
-            }, {
-                "system": "http://loinc.org",
-                "code": "51847-2",
-                "display": "Evaluation + Plan note"
-            }]
-        }],
-        "code": {
-            "coding": [{
-                "system": "http://loinc.org",
-                "code": "34117-2",
-                "display": "History and physical note"
-            }, {
-                "system": "http://loinc.org",
-                "code": "51847-2",
-                "display": "Evaluation + Plan note"
-            }]
-        },
-        "subject": {"reference": PATIENT_REF},
-        "encounter": {"reference": ENCOUNTER_REF},
-        "effectiveDateTime": DATETIME,
-        "issued": DATETIME_MS,
-        "performer": [{
-            "reference": PRACTITIONER_REF,
-            "display": PRACTITIONER_DISPLAY
-        }],
-        "presentedForm": [{
-            "contentType": "text/plain; charset=utf-8",
-            "data": base64.b64encode(narrative.encode("utf-8")).decode("ascii")
-        }]
-    })
+    return entry_wrapper(
+        {
+            "resourceType": "DiagnosticReport",
+            "id": rid,
+            "meta": {
+                "profile": [
+                    "http://hl7.org/fhir/us/core/StructureDefinition/us-core-diagnosticreport-note"
+                ]
+            },
+            "status": "final",
+            "category": [
+                {
+                    "coding": [
+                        {
+                            "system": "http://loinc.org",
+                            "code": "34117-2",
+                            "display": "History and physical note",
+                        },
+                        {
+                            "system": "http://loinc.org",
+                            "code": "51847-2",
+                            "display": "Evaluation + Plan note",
+                        },
+                    ]
+                }
+            ],
+            "code": {
+                "coding": [
+                    {
+                        "system": "http://loinc.org",
+                        "code": "34117-2",
+                        "display": "History and physical note",
+                    },
+                    {
+                        "system": "http://loinc.org",
+                        "code": "51847-2",
+                        "display": "Evaluation + Plan note",
+                    },
+                ]
+            },
+            "subject": {"reference": PATIENT_REF},
+            "encounter": {"reference": ENCOUNTER_REF},
+            "effectiveDateTime": DATETIME,
+            "issued": DATETIME_MS,
+            "performer": [
+                {"reference": PRACTITIONER_REF, "display": PRACTITIONER_DISPLAY}
+            ],
+            "presentedForm": [
+                {
+                    "contentType": "text/plain; charset=utf-8",
+                    "data": base64.b64encode(narrative.encode("utf-8")).decode("ascii"),
+                }
+            ],
+        }
+    )
 
 
 def main():
@@ -744,7 +860,9 @@ def main():
                     break
         start = res.get("period", res.get("performedPeriod", {})).get("start", "")[:10]
         if not start:
-            start = res.get("effectiveDateTime", res.get("onsetDateTime", res.get("date", "")))[:10]
+            start = res.get(
+                "effectiveDateTime", res.get("onsetDateTime", res.get("date", ""))
+            )[:10]
         print(f"  [{i}] {start:12s} | {rtype:25s} | {code}")
 
 

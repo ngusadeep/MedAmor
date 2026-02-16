@@ -20,7 +20,13 @@ from app.core.config import settings
 COLLECTION_NAME = "medaudit_kb"
 CHUNK_SIZE = 2048
 CHUNK_OVERLAP = 256
-DOCUMENT_TYPES = ("Documentation", "SOPs", "User_Manuals", "FAQs", "Clinical_Guidelines")
+DOCUMENT_TYPES = (
+    "Documentation",
+    "SOPs",
+    "User_Manuals",
+    "FAQs",
+    "Clinical_Guidelines",
+)
 
 
 def _get_embeddings() -> Embeddings:
@@ -98,7 +104,12 @@ def ensure_indexed() -> dict:
     Call on backend startup so ChromaDB is populated from docs when needed.
     """
     if not needs_reindex():
-        return {"indexed": 0, "chunks": 0, "skipped": True, "message": "No new or changed documents"}
+        return {
+            "indexed": 0,
+            "chunks": 0,
+            "skipped": True,
+            "message": "No new or changed documents",
+        }
     result = index_kb()
     if result.get("error"):
         return result

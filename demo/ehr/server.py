@@ -33,11 +33,14 @@ async def lifespan(app: FastAPI):
             # Import and run migration
             import subprocess
             import sys
+
             try:
-                result = subprocess.run([sys.executable, "ehr/migrate_patients.py"],
-                                      cwd="/app",
-                                      capture_output=True,
-                                      text=True)
+                result = subprocess.run(
+                    [sys.executable, "ehr/migrate_patients.py"],
+                    cwd="/app",
+                    capture_output=True,
+                    text=True,
+                )
                 if result.returncode == 0:
                     print("Patient migration completed successfully")
                     print(result.stdout)
@@ -50,11 +53,7 @@ async def lifespan(app: FastAPI):
     # Shutdown: Clean up resources if needed
 
 
-app = FastAPI(
-    title="EHR Data Service",
-    version="0.1.0",
-    lifespan=lifespan
-)
+app = FastAPI(title="EHR Data Service", version="0.1.0", lifespan=lifespan)
 
 # CORS middleware
 app.add_middleware(
@@ -72,9 +71,10 @@ app.include_router(patients_router)
 
 if __name__ == "__main__":
     import uvicorn
+
     uvicorn.run(
         app,
         host=settings.host,
         port=settings.port,
-        reload=settings.environment == "development"
+        reload=settings.environment == "development",
     )

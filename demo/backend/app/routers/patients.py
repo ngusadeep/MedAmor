@@ -15,8 +15,7 @@ router = APIRouter(prefix="/patients", tags=["patients"])
 
 @router.get("/", response_model=List[PatientResponse])
 def get_patients(
-    status: str | None = None,
-    _user: User = Depends(get_current_user_required)
+    status: str | None = None, _user: User = Depends(get_current_user_required)
 ) -> List[PatientResponse]:
     """List all patients from EHR service."""
     ehr_patients = list_ehr_patients()
@@ -27,6 +26,7 @@ def get_patients(
         pass
 
     from datetime import datetime
+
     now = datetime.now()
     return [
         PatientResponse(
@@ -38,7 +38,7 @@ def get_patients(
             next_audit_date=None,
             risk_level=None,
             created_at=now,
-            updated_at=now
+            updated_at=now,
         )
         for p in ehr_patients
     ]
@@ -47,7 +47,7 @@ def get_patients(
 @router.get("/stats", response_model=PatientStats)
 def get_patient_stats(
     db: Session = Depends(get_db_session),
-    _user: User = Depends(get_current_user_required)
+    _user: User = Depends(get_current_user_required),
 ) -> PatientStats:
     """Get patient statistics for dashboard."""
     from app.models.job import Job, JobStatus
@@ -63,9 +63,9 @@ def get_patient_stats(
     failed_jobs = db.query(Job).filter(Job.status == JobStatus.FAILED).count()
 
     # Count reports with findings
-    reports_with_findings = db.query(AuditReport).filter(
-        AuditReport.status == "FINDING_PRESENT"
-    ).count()
+    reports_with_findings = (
+        db.query(AuditReport).filter(AuditReport.status == "FINDING_PRESENT").count()
+    )
 
     return PatientStats(
         total_patients=total_patients,
@@ -75,23 +75,23 @@ def get_patient_stats(
             "failed_jobs": failed_jobs,
             "reports_with_findings": reports_with_findings,
         },
-        due_for_review_count=pending_jobs  # Simplified
+        due_for_review_count=pending_jobs,  # Simplified
     )
 
 
 @router.post("/sync")
-def sync_patients(
-    _user: User = Depends(get_current_user_required)
-):
+def sync_patients(_user: User = Depends(get_current_user_required)):
     """Trigger patient sync from EHR service (no-op since we fetch on-demand)."""
     return {"message": "Patient sync completed", "status": "success"}
 
+
 @router.get("/due-for-review", response_model=List[PatientResponse])
 def list_patients_due_for_review(
-    _user: User = Depends(get_current_user_required)
+    _user: User = Depends(get_current_user_required),
 ) -> List[PatientResponse]:
     """Get patients who are due for review (simplified - all patients)."""
     from datetime import datetime
+
     ehr_patients = list_ehr_patients()
     now = datetime.now()
     return [
@@ -104,7 +104,7 @@ def list_patients_due_for_review(
             next_audit_date=None,
             risk_level=None,
             created_at=now,
-            updated_at=now
+            updated_at=now,
         )
         for p in ehr_patients
     ]

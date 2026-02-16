@@ -5,6 +5,7 @@ Revises: 001
 Create Date: 2024-01-02 00:00:00.000000
 
 """
+
 from typing import Sequence, Union
 
 import sqlalchemy as sa
@@ -33,7 +34,9 @@ def upgrade() -> None:
         ),
         sa.PrimaryKeyConstraint("id"),
     )
-    op.create_index(op.f("ix_reports_patient_id"), "reports", ["patient_id"], unique=False)
+    op.create_index(
+        op.f("ix_reports_patient_id"), "reports", ["patient_id"], unique=False
+    )
 
 
 def downgrade() -> None:

@@ -105,10 +105,14 @@ def test_create_scheduled_audit_jobs_due_and_never_audited():
         with patch("app.worker.tasks.SessionLocal") as session_factory:
             session = MagicMock()
             session_factory.return_value = session
-            session.query.return_value.order_by.return_value.all.return_value = all_reports
+            session.query.return_value.order_by.return_value.all.return_value = (
+                all_reports
+            )
             session.query.return_value.filter.return_value.first.return_value = None
             session.add.side_effect = add_job
-            with patch("app.worker.tasks.list_patients", return_value=list_patients_result):
+            with patch(
+                "app.worker.tasks.list_patients", return_value=list_patients_result
+            ):
                 with patch("app.worker.tasks.run_audit_task") as run_audit_task_mock:
                     run_audit_task_mock.delay = MagicMock()
                     out = create_scheduled_audit_jobs()

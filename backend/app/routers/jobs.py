@@ -32,6 +32,7 @@ def create_job(
     db.commit()
     db.refresh(job)
     from app.worker.tasks import run_audit_task
+
     run_audit_task.delay(str(job.id))
     return job
 

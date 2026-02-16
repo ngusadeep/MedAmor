@@ -47,7 +47,9 @@ def test_manifest_save_load(temp_dir):
 
 def test_manifest_path():
     """Manifest path is chroma_persist_dir / kb_index_manifest.json."""
-    with patch("app.services.rag._get_chroma_persist_dir", return_value=Path("/tmp/chroma")):
+    with patch(
+        "app.services.rag._get_chroma_persist_dir", return_value=Path("/tmp/chroma")
+    ):
         p = _manifest_path()
         assert p.name == MANIFEST_FILENAME
         assert "chroma" in str(p)

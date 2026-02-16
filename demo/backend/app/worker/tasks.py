@@ -79,7 +79,9 @@ def run_audit_task(self, job_id: str):
         db.commit()
         return {"ok": True, "report_id": str(report.id)}
     except Exception as e:
-        error_msg = f"Audit failed for patient {job.patient_id if job else 'unknown'}: {str(e)}"
+        error_msg = (
+            f"Audit failed for patient {job.patient_id if job else 'unknown'}: {str(e)}"
+        )
         if job:
             job.status = JobStatus.FAILED
             job.error_message = str(e)[:500]
@@ -101,6 +103,7 @@ def create_scheduled_audit_jobs():
     try:
         # Get all patients from EHR service
         from app.services.ehr_mock import list_patients
+
         all_patients = list_patients()
 
         created = 0
@@ -110,7 +113,7 @@ def create_scheduled_audit_jobs():
                 db.query(Job)
                 .filter(
                     Job.patient_id == patient.patient_id,
-                    Job.status.in_([JobStatus.PENDING, JobStatus.IN_PROGRESS])
+                    Job.status.in_([JobStatus.PENDING, JobStatus.IN_PROGRESS]),
                 )
                 .first()
             )
@@ -131,7 +134,7 @@ def create_scheduled_audit_jobs():
         return {
             "ok": True,
             "jobs_created": created,
-            "total_patients": len(all_patients)
+            "total_patients": len(all_patients),
         }
     finally:
         db.close()

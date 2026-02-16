@@ -81,6 +81,7 @@ def list_patients() -> list[EHRPatientSummary]:
     """List patients: from EHR service if EHR_SERVICE_URL set, else from disk (patients/ or EHR-DATA_*)."""
     if settings.ehr_service_url:
         from app.services.ehr_client import list_patients_from_service
+
         return list_patients_from_service(settings.ehr_service_url)
     return [
         EHRPatientSummary(
@@ -92,11 +93,16 @@ def list_patients() -> list[EHRPatientSummary]:
     ]
 
 
-def get_patient_bundle(patient_id: str, export_type: str = "full") -> EHRPatientBundle | None:
+def get_patient_bundle(
+    patient_id: str, export_type: str = "full"
+) -> EHRPatientBundle | None:
     """Load one patient: from EHR service if EHR_SERVICE_URL set, else from disk."""
     if settings.ehr_service_url:
         from app.services.ehr_client import get_patient_bundle_from_service
-        return get_patient_bundle_from_service(settings.ehr_service_url, patient_id, export_type)
+
+        return get_patient_bundle_from_service(
+            settings.ehr_service_url, patient_id, export_type
+        )
     root = _ehr_root()
     # 1) patients/<id>/<export_type>.txt
     patients_dir = root / "patients" / patient_id

@@ -18,7 +18,9 @@ class User(Base):
     id: Mapped[uuid.UUID] = mapped_column(
         PG_UUID(as_uuid=True), primary_key=True, default=uuid.uuid4
     )
-    username: Mapped[str] = mapped_column(String(128), unique=True, nullable=False, index=True)
+    username: Mapped[str] = mapped_column(
+        String(128), unique=True, nullable=False, index=True
+    )
     hashed_password: Mapped[str] = mapped_column(String(256), nullable=False)
     created_at: Mapped[datetime] = mapped_column(
         DateTime(timezone=True), default=datetime.utcnow

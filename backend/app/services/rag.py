@@ -18,7 +18,13 @@ from app.core.config import settings
 COLLECTION_NAME = "medaudit_kb"
 CHUNK_SIZE = 2048
 CHUNK_OVERLAP = 256
-DOCUMENT_TYPES = ("Documentation", "SOPs", "User_Manuals", "FAQs", "Clinical_Guidelines")
+DOCUMENT_TYPES = (
+    "Documentation",
+    "SOPs",
+    "User_Manuals",
+    "FAQs",
+    "Clinical_Guidelines",
+)
 
 
 def _get_embeddings() -> Embeddings:

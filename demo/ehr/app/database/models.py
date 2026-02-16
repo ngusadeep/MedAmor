@@ -16,4 +16,6 @@ class Patient(Base):
     ehr_text: Mapped[str] = Column(Text, nullable=False)
 
     def __repr__(self):
-        return f"<Patient(patient_id={self.patient_id}, patient_name={self.patient_name})>"
+        return (
+            f"<Patient(patient_id={self.patient_id}, patient_name={self.patient_name})>"
+        )

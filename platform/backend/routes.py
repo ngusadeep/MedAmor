@@ -31,15 +31,17 @@ def login():
         return jsonify({"error": "Account is disabled"}), 403
 
     # TODO: Implement session/token management
-    return jsonify({
-        "message": "Login successful",
-        "user": {
-            "id": user.id,
-            "username": user.username,
-            "email": user.email,
-            "is_admin": user.is_admin,
+    return jsonify(
+        {
+            "message": "Login successful",
+            "user": {
+                "id": user.id,
+                "username": user.username,
+                "email": user.email,
+                "is_admin": user.is_admin,
+            },
         }
-    })
+    )
 
 
 @api_bp.route("/reports", methods=["GET"])

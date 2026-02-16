@@ -23,7 +23,9 @@ from aiorchestrator.app.vector_store import get_vector_store, ingest_guidelines
 def main():
     import argparse
 
-    parser = argparse.ArgumentParser(description="Ingest medical guidelines into ChromaDB")
+    parser = argparse.ArgumentParser(
+        description="Ingest medical guidelines into ChromaDB"
+    )
     parser.add_argument(
         "--kb-path",
         type=str,

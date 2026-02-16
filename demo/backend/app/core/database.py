@@ -34,7 +34,9 @@ def init_db() -> None:
         db.commit()
 
         # Create default Chief Doctor user
-        chief_doctor = db.query(User).filter(User.username == "chief@medaudit.com").first()
+        chief_doctor = (
+            db.query(User).filter(User.username == "chief@medaudit.com").first()
+        )
         if not chief_doctor:
             chief_doctor = User(
                 username="chief@medaudit.com",

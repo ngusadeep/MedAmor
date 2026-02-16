@@ -35,20 +35,30 @@ def submit_audit():
             args=[patient_id.strip(), audit_type.strip()]
         )
 
-        return jsonify({
-            "status": "queued",
-            "job_id": task.id,
-            "patient_id": patient_id,
-            "audit_type": audit_type,
-            "message": "Audit job queued successfully",
-            "check_status": f"/audit/{task.id}",
-        }), 202  # HTTP 202 Accepted
+        return (
+            jsonify(
+                {
+                    "status": "queued",
+                    "job_id": task.id,
+                    "patient_id": patient_id,
+                    "audit_type": audit_type,
+                    "message": "Audit job queued successfully",
+                    "check_status": f"/audit/{task.id}",
+                }
+            ),
+            202,
+        )  # HTTP 202 Accepted
 
     except Exception as e:
-        return jsonify({
-            "status": "error",
-            "message": f"Failed to queue audit job: {str(e)}",
-        }), 500
+        return (
+            jsonify(
+                {
+                    "status": "error",
+                    "message": f"Failed to queue audit job: {str(e)}",
+                }
+            ),
+            500,
+        )
 
 
 @app.route("/audit/<job_id>", methods=["GET"])
@@ -105,10 +115,15 @@ def get_audit_status(job_id):
         return jsonify(response)
 
     except Exception as e:
-        return jsonify({
-            "status": "error",
-            "message": f"Failed to get job status: {str(e)}",
-        }), 500
+        return (
+            jsonify(
+                {
+                    "status": "error",
+                    "message": f"Failed to get job status: {str(e)}",
+                }
+            ),
+            500,
+        )
 
 
 @app.route("/audit/<job_id>/result", methods=["GET"])
@@ -126,28 +141,48 @@ def get_audit_result(job_id):
         if task.state == "SUCCESS":
             return jsonify(task.result), 200
         elif task.state in ["PENDING", "PROCESSING"]:
-            return jsonify({
-                "status": "processing",
-                "message": "Audit is still being processed",
-                "job_id": job_id,
-            }), 202
+            return (
+                jsonify(
+                    {
+                        "status": "processing",
+                        "message": "Audit is still being processed",
+                        "job_id": job_id,
+                    }
+                ),
+                202,
+            )
         elif task.state == "FAILURE":
-            return jsonify({
-                "status": "failed",
-                "message": "Audit job failed",
-                "error": str(task.info),
-            }), 404
+            return (
+                jsonify(
+                    {
+                        "status": "failed",
+                        "message": "Audit job failed",
+                        "error": str(task.info),
+                    }
+                ),
+                404,
+            )
         else:
-            return jsonify({
-                "status": task.state.lower(),
-                "message": f"Job is in state: {task.state}",
-            }), 404
+            return (
+                jsonify(
+                    {
+                        "status": task.state.lower(),
+                        "message": f"Job is in state: {task.state}",
+                    }
+                ),
+                404,
+            )
 
     except Exception as e:
-        return jsonify({
-            "status": "error",
-            "message": str(e),
-        }), 500
+        return (
+            jsonify(
+                {
+                    "status": "error",
+                    "message": str(e),
+                }
+            ),
+            500,
+        )
 
 
 @app.route("/queue/stats", methods=["GET"])
@@ -166,26 +201,33 @@ def queue_stats():
         reserved_count = sum(len(tasks) for tasks in (reserved or {}).values())
         workers = list((stats or {}).keys())
 
-        return jsonify({
-            "workers": {
-                "count": len(workers),
-                "names": workers,
-            },
-            "queue": {
-                "active_jobs": active_count,
-                "queued_jobs": reserved_count,
-            },
-            "details": {
-                "active_tasks": active,
-                "reserved_tasks": reserved,
-            },
-        })
+        return jsonify(
+            {
+                "workers": {
+                    "count": len(workers),
+                    "names": workers,
+                },
+                "queue": {
+                    "active_jobs": active_count,
+                    "queued_jobs": reserved_count,
+                },
+                "details": {
+                    "active_tasks": active,
+                    "reserved_tasks": reserved,
+                },
+            }
+        )
 
     except Exception as e:
-        return jsonify({
-            "status": "error",
-            "message": f"Failed to get queue stats: {str(e)}",
-        }), 500
+        return (
+            jsonify(
+                {
+                    "status": "error",
+                    "message": f"Failed to get queue stats: {str(e)}",
+                }
+            ),
+            500,
+        )
 
 
 @app.route("/health", methods=["GET"])
@@ -196,6 +238,7 @@ def health():
 
 def main():
     import os
+
     port = int(os.environ.get("FLASK_RUN_PORT", 5001))
     app.run(host="0.0.0.0", port=port)
 

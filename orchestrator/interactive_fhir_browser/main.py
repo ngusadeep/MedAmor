@@ -50,10 +50,12 @@ class FHIRClient:
     def __init__(self, base_url: str):
         self.base_url = base_url.rstrip("/")
         self.session = requests.Session()
-        self.session.headers.update({
-            "Accept": "application/fhir+json",
-            "Content-Type": "application/fhir+json",
-        })
+        self.session.headers.update(
+            {
+                "Accept": "application/fhir+json",
+                "Content-Type": "application/fhir+json",
+            }
+        )
 
     def get_patients(self, count: int = 50, offset: int = 0) -> Tuple[List[Dict], int]:
         """
@@ -150,8 +152,8 @@ def format_patient_info(patient: Dict) -> str:
 def sanitize_filename(name: str) -> str:
     """Sanitize a string for use in a filename."""
     # Replace spaces with underscores, remove special characters
-    sanitized = re.sub(r'[^\w\s-]', '', name)
-    sanitized = re.sub(r'\s+', '_', sanitized)
+    sanitized = re.sub(r"[^\w\s-]", "", name)
+    sanitized = re.sub(r"\s+", "_", sanitized)
     return sanitized.lower()
 
 
@@ -163,7 +165,7 @@ def filter_bundle_by_resource_types(bundle: Dict, resource_types: List[str]) -> 
     filtered_bundle = {
         "resourceType": "Bundle",
         "type": bundle.get("type", "searchset"),
-        "entry": []
+        "entry": [],
     }
 
     if "entry" in bundle:
@@ -213,8 +215,7 @@ class PatientBrowser:
         try:
             offset = self.current_page * PATIENTS_PER_PAGE
             self.patients, self.total_patients = self.client.get_patients(
-                count=PATIENTS_PER_PAGE,
-                offset=offset
+                count=PATIENTS_PER_PAGE, offset=offset
             )
             self.status_message = f"Loaded {len(self.patients)} patients"
 
@@ -270,7 +271,7 @@ class PatientBrowser:
             info = format_patient_info(patient)
             # Truncate if too long
             if len(info) > width - 4:
-                info = info[:width - 7] + "..."
+                info = info[: width - 7] + "..."
 
             if i == self.selected_index:
                 self.stdscr.attron(curses.color_pair(1))
@@ -324,7 +325,7 @@ class PatientBrowser:
             self.stdscr.clear()
             self.stdscr.attron(curses.color_pair(3))
             error_msg = f"Error loading patient: {str(e)}"
-            self.stdscr.addstr(height // 2, 2, error_msg[:width - 4])
+            self.stdscr.addstr(height // 2, 2, error_msg[: width - 4])
             self.stdscr.addstr(height // 2 + 2, 2, "Press any key to go back...")
             self.stdscr.attroff(curses.color_pair(3))
             self.stdscr.refresh()
@@ -363,14 +364,14 @@ class PatientBrowser:
             # Content area
             content_start = 4
             content_height = height - content_start - 1
-            visible_lines = lines[scroll_pos:scroll_pos + content_height]
+            visible_lines = lines[scroll_pos : scroll_pos + content_height]
 
             for i, line in enumerate(visible_lines):
                 y = content_start + i
                 if y >= height - 1:
                     break
                 # Truncate line if too long
-                display_line = line[:width - 1] if len(line) >= width else line
+                display_line = line[: width - 1] if len(line) >= width else line
                 try:
                     self.stdscr.addstr(y, 0, display_line)
                 except curses.error:
@@ -378,9 +379,13 @@ class PatientBrowser:
 
             # Scroll position indicator
             if len(lines) > content_height:
-                scroll_pct = int((scroll_pos / max(1, len(lines) - content_height)) * 100)
+                scroll_pct = int(
+                    (scroll_pos / max(1, len(lines) - content_height)) * 100
+                )
                 scroll_info = f" Line {scroll_pos + 1}/{len(lines)} ({scroll_pct}%) "
-                self.stdscr.addstr(height - 1, width - len(scroll_info) - 1, scroll_info)
+                self.stdscr.addstr(
+                    height - 1, width - len(scroll_info) - 1, scroll_info
+                )
 
             self.stdscr.refresh()
 
@@ -396,7 +401,9 @@ class PatientBrowser:
             elif key == curses.KEY_PPAGE:  # Page Up
                 scroll_pos = max(0, scroll_pos - content_height)
             elif key == curses.KEY_NPAGE:  # Page Down
-                scroll_pos = min(len(lines) - content_height, scroll_pos + content_height)
+                scroll_pos = min(
+                    len(lines) - content_height, scroll_pos + content_height
+                )
             elif key == curses.KEY_HOME:
                 scroll_pos = 0
             elif key == curses.KEY_END:
@@ -404,7 +411,9 @@ class PatientBrowser:
             elif key == ord("e"):  # Export
                 export_type = self.show_export_menu(patient)
                 if export_type:
-                    filenames = self.export_patient_timeline_from_bundle(patient, bundle, export_type)
+                    filenames = self.export_patient_timeline_from_bundle(
+                        patient, bundle, export_type
+                    )
                     self.show_export_result(filenames)
 
     def show_export_menu(self, patient: Dict) -> Optional[str]:
@@ -412,9 +421,17 @@ class PatientBrowser:
         options = [
             ("1", "full", "Full Content - All FHIR resources"),
             ("2", "handoff_minimal", "Handoff Minimal - Demo handoff resources"),
-            ("3", "handoff_complete", "Handoff Complete - Production handoff resources"),
+            (
+                "3",
+                "handoff_complete",
+                "Handoff Complete - Production handoff resources",
+            ),
             ("4", "imaging_minimal", "Imaging Minimal - Demo imaging resources"),
-            ("5", "imaging_complete", "Imaging Complete - Production imaging resources"),
+            (
+                "5",
+                "imaging_complete",
+                "Imaging Complete - Production imaging resources",
+            ),
             ("6", "all", "Export All - Generate all 5 export files"),
         ]
 
@@ -451,7 +468,9 @@ class PatientBrowser:
 
             # Controls
             self.stdscr.attron(curses.color_pair(4))
-            self.stdscr.addstr(height - 2, 2, "[↑↓] Select  [Enter] Export  [q/Esc] Cancel")
+            self.stdscr.addstr(
+                height - 2, 2, "[↑↓] Select  [Enter] Export  [q/Esc] Cancel"
+            )
             self.stdscr.attroff(curses.color_pair(4))
 
             self.stdscr.refresh()
@@ -470,7 +489,9 @@ class PatientBrowser:
                 idx = key - ord("1")
                 return options[idx][1]
 
-    def export_patient_timeline_from_bundle(self, patient: Dict, bundle: Dict, export_type: str) -> List[str]:
+    def export_patient_timeline_from_bundle(
+        self, patient: Dict, bundle: Dict, export_type: str
+    ) -> List[str]:
         """Export patient timeline to file(s) using pre-fetched bundle. Returns list of created filenames."""
         patient_id = patient.get("id", "unknown")
         patient_name = format_patient_name(patient)
@@ -481,8 +502,13 @@ class PatientBrowser:
         try:
             # Determine which exports to generate
             if export_type == "all":
-                export_profiles = ["full", "handoff_minimal", "handoff_complete",
-                                   "imaging_minimal", "imaging_complete"]
+                export_profiles = [
+                    "full",
+                    "handoff_minimal",
+                    "handoff_complete",
+                    "imaging_minimal",
+                    "imaging_complete",
+                ]
             else:
                 export_profiles = [export_type]
 
@@ -491,7 +517,9 @@ class PatientBrowser:
             for profile_key in export_profiles:
                 # Update status
                 self.stdscr.clear()
-                profile_name = EXPORT_PROFILES.get(profile_key, {}).get("name", profile_key)
+                profile_name = EXPORT_PROFILES.get(profile_key, {}).get(
+                    "name", profile_key
+                )
                 msg = f"Generating {profile_name}..."
                 self.stdscr.attron(curses.color_pair(4))
                 self.stdscr.addstr(height // 2, (width - len(msg)) // 2, msg)
@@ -504,7 +532,9 @@ class PatientBrowser:
 
                 # Filter bundle if needed
                 if resource_types:
-                    filtered_bundle = filter_bundle_by_resource_types(bundle, resource_types)
+                    filtered_bundle = filter_bundle_by_resource_types(
+                        bundle, resource_types
+                    )
                 else:
                     filtered_bundle = bundle
 
@@ -533,7 +563,7 @@ class PatientBrowser:
             self.stdscr.clear()
             self.stdscr.attron(curses.color_pair(3))
             error_msg = f"Error exporting: {str(e)}"
-            self.stdscr.addstr(height // 2, 2, error_msg[:width - 4])
+            self.stdscr.addstr(height // 2, 2, error_msg[: width - 4])
             self.stdscr.addstr(height // 2 + 2, 2, "Press any key to continue...")
             self.stdscr.attroff(curses.color_pair(3))
             self.stdscr.refresh()
@@ -564,7 +594,11 @@ class PatientBrowser:
                     self.stdscr.addstr(y, 4, f"... and {len(filenames) - i} more files")
                     break
                 # Truncate filename if too long
-                display_name = filename if len(filename) < width - 6 else "..." + filename[-(width - 9):]
+                display_name = (
+                    filename
+                    if len(filename) < width - 6
+                    else "..." + filename[-(width - 9) :]
+                )
                 self.stdscr.addstr(y, 4, display_name)
         else:
             self.stdscr.attron(curses.color_pair(3))

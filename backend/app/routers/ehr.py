@@ -11,7 +11,9 @@ router = APIRouter(prefix="/ehr", tags=["ehr"])
 
 
 @router.get("/patients", response_model=list[EHRPatientSummary])
-def ehr_list_patients(_user: User = Depends(get_current_user_required)) -> list[EHRPatientSummary]:
+def ehr_list_patients(
+    _user: User = Depends(get_current_user_required),
+) -> list[EHRPatientSummary]:
     """List patients available in mock EHR (EHR-DATA_* folders)."""
     return list_patients()
 

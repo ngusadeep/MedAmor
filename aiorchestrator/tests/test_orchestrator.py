@@ -1,4 +1,5 @@
 """End-to-end test for AuditOrchestrator with mocks."""
+
 import json
 import tempfile
 from pathlib import Path
@@ -20,7 +21,13 @@ def sample_fhir_dir(tmp_path: Path) -> Path:
         "resourceType": "Bundle",
         "type": "document",
         "entry": [
-            {"resource": {"resourceType": "Patient", "id": "e2e", "birthDate": "1985-05-01"}},
+            {
+                "resource": {
+                    "resourceType": "Patient",
+                    "id": "e2e",
+                    "birthDate": "1985-05-01",
+                }
+            },
         ],
     }
     (tmp_path / "patient_e2e.json").write_text(json.dumps(bundle), encoding="utf-8")

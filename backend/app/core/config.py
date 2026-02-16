@@ -63,7 +63,9 @@ class Settings(BaseSettings):
 
     # RabbitMQ / Celery (use CELERY_BROKER_URL=redis://... for Redis)
     celery_broker_url: str = "amqp://guest:guest@localhost:5672/"
-    celery_result_backend: str | None = None  # e.g. redis://localhost:6379/0 when using Redis broker
+    celery_result_backend: str | None = (
+        None  # e.g. redis://localhost:6379/0 when using Redis broker
+    )
 
     # JWT
     jwt_secret_key: str = "change_me_jwt_secret_min_32_chars"

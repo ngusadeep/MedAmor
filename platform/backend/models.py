@@ -47,11 +47,15 @@ class User(db.Model):
     def set_password(self, password: str, rounds: int = 12) -> None:
         """Hash and set the user's password."""
         salt = bcrypt.gensalt(rounds=rounds)
-        self.password_hash = bcrypt.hashpw(password.encode("utf-8"), salt).decode("utf-8")
+        self.password_hash = bcrypt.hashpw(password.encode("utf-8"), salt).decode(
+            "utf-8"
+        )
 
     def check_password(self, password: str) -> bool:
         """Check if the provided password matches the stored hash."""
-        return bcrypt.checkpw(password.encode("utf-8"), self.password_hash.encode("utf-8"))
+        return bcrypt.checkpw(
+            password.encode("utf-8"), self.password_hash.encode("utf-8")
+        )
 
     def to_dict(self) -> dict:
         """Convert user to dictionary (excluding password)."""
@@ -101,7 +105,9 @@ class Report(db.Model):
         return {
             "id": self.id,
             "patient_id": self.patient_id,
-            "date_of_finding": self.date_of_finding.isoformat() if self.date_of_finding else None,
+            "date_of_finding": (
+                self.date_of_finding.isoformat() if self.date_of_finding else None
+            ),
             "status": self.status_enum.name,
             "finding_type": self.finding_type_enum.name,
             "created_at": self.created_at.isoformat() if self.created_at else None,
