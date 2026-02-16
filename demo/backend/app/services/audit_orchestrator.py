@@ -3,15 +3,12 @@
 from __future__ import annotations
 
 import json
+import operator
 from typing import Annotated, TypedDict
-from uuid import UUID
 
-from langchain_google_genai import ChatGoogleGenerativeAI
-from langchain_openai import ChatOpenAI
 from langgraph.graph import END, START, StateGraph
 from pydantic import BaseModel, Field
 
-from app.core.config import settings
 from app.services import audit_ai, rag
 from app.services.ehr_mock import get_patient_bundle
 
@@ -33,7 +30,7 @@ class AuditState(TypedDict):
     patient_id: str
     audit_type: str
     ehr_data: str | None
-    context: Annotated[list[str], lambda x, y: x + y]  # guideline chunks from RAG
+    context: Annotated[list[str], operator.add]  # guideline chunks from RAG
     report: str
 
 
@@ -180,71 +177,34 @@ def generate_audit_report(state: AuditState) -> dict:
         patient_summary=patient_summary, guidelines=guidelines_text
     )
 
-    # Use the configured AI provider
-    provider = (settings.audit_ai_provider or "medgemma").strip().lower()
+    # Use existing audit_ai service (MedGemma, Gemini, OpenAI) - no langchain_google_genai dependency
+    ai_result = audit_ai.run_audit_ai(
+        prompt=full_prompt,
+        ehr_excerpt=ehr_data[:10000],
+        kb_context=guidelines_text[:5000],
+    )
 
-    if provider == "gemini" and settings.google_api_key:
-        try:
-            llm = ChatGoogleGenerativeAI(
-                model=settings.gemini_model or "gemini-2.0-flash-exp",
-                google_api_key=settings.google_api_key,
-                temperature=0.2,
-                max_tokens=1024,
-            )
-            response = llm.invoke(full_prompt)
-            raw_output = response.content
-        except Exception:
-            raw_output = (
-                '{"compliant": false, "gaps": ["AI analysis failed"], "evidence": []}'
-            )
+    compliant = ai_result.get("status") == "NO_FINDINGS"
+    gaps = []
+    evidence = []
 
-    elif provider == "openai" and settings.openai_api_key:
-        try:
-            llm = ChatOpenAI(
-                model=settings.openai_audit_model or "gpt-4",
-                api_key=settings.openai_api_key,
-                temperature=0.2,
-                max_tokens=1024,
-            )
-            response = llm.invoke(full_prompt)
-            raw_output = response.content
-        except Exception:
-            raw_output = (
-                '{"compliant": false, "gaps": ["AI analysis failed"], "evidence": []}'
-            )
-
-    else:
-        # Fallback to existing audit_ai service
-        ai_result = audit_ai.run_audit_ai(
-            prompt=full_prompt,
-            ehr_excerpt=ehr_data[:10000],
-            kb_context=guidelines_text[:5000],
-        )
-
-        # Convert existing format to new structured format
-        compliant = ai_result.get("status") == "NO_FINDINGS"
-        gaps = []
-        evidence = []
-
-        if not compliant:
-            findings = ai_result.get("findings", [])
-            for finding in findings:
-                if isinstance(finding, dict):
-                    desc = finding.get("description", "")
-                    if desc:
-                        gaps.append(desc)
-
-                    category = finding.get("category", "")
-                    if category and desc:
-                        evidence.append(
-                            EvidenceItem(
-                                guideline=f"Category: {category}", violation=desc
-                            )
+    if not compliant:
+        for finding in ai_result.get("findings", []):
+            if isinstance(finding, dict):
+                desc = finding.get("description", "")
+                if desc:
+                    gaps.append(desc)
+                category = finding.get("category", "")
+                if category and desc:
+                    evidence.append(
+                        EvidenceItem(
+                            guideline=f"Category: {category}", violation=desc
                         )
+                    )
 
-        raw_output = AuditReport(
-            compliant=compliant, gaps=gaps, evidence=evidence
-        ).model_dump_json()
+    raw_output = AuditReport(
+        compliant=compliant, gaps=gaps, evidence=evidence
+    ).model_dump_json()
 
     return {"report": raw_output}
 

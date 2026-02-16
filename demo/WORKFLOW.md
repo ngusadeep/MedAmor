@@ -54,12 +54,12 @@ Patient IDs come from the **patient list** the backend gets from the **EHR servi
 3. **Backend** creates **Job**(s) (status PENDING), then calls `run_audit_task.delay(job.id)` for each.
 4. **Celery worker**:
    - Loads job from DB.
-   - Sets job status **IN_PROGRESS**.
-   - Calls **audit engine** `run_audit(job_id, patient_id, export_type, audit_type)`:
-     - **EHR:** `get_patient_bundle(patient_id, export_type)` → backend calls **EHR service** (or disk) → gets `ehr_text`.
-     - **RAG:** `rag.retrieve(query)` (ChromaDB) → KB context.
-     - **AI:** **MedGemma**, **Gemini**, or **OpenAI** (see `AUDIT_AI_PROVIDER`) with prompt + ehr excerpt + KB context → JSON (status, risk_level, executive_summary, findings, evidence, corrective_actions, next_audit_date).
-   - Builds **AuditReport** from that JSON, saves to DB.
+   - Sets job status **IN_PROGRESS**; updates task state (PROCESSING + meta: stage).
+   - Calls **audit engine** `run_audit(...)` which uses **LangGraph orchestrator**:
+     - **fetch_ehr_data:** `get_patient_bundle(patient_id)` → EHR service (or disk) → `ehr_text`.
+     - **retrieve_guidelines:** `rag.retrieve(query)` (ChromaDB) → guideline chunks.
+     - **generate_audit_report:** **audit_ai** (MedGemma / Gemini / OpenAI) → compliant, gaps, evidence; mapped to report schema.
+   - Builds **AuditReport**, saves to DB.
    - Sets job status COMPLETED (or FAILED on error).
 5. **Frontend** can poll job by id or list reports; **report detail** page shows findings, evidence, corrective actions, next audit date, and annotations.
 
@@ -121,4 +121,7 @@ Same structured output (status, findings, evidence, etc.) for all providers.
 | AI: MedGemma, Gemini, OpenAI | ✅ Implemented |
 | Human-in-the-loop annotations (model, API, frontend) | ✅ Implemented |
 | CRON: Celery Beat + create_scheduled_audit_jobs | ✅ Implemented |
+| LangGraph orchestrator (fetch → RAG → AI) | ✅ Implemented |
+| Queue stats `GET /api/jobs/queue/stats` | ✅ Implemented |
+| Task status `GET /api/jobs/task/{task_id}/status` | ✅ Implemented |
 | Notifications (e.g. email on report) | ⏳ Planned |
