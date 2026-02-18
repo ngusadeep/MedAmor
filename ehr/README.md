@@ -10,16 +10,11 @@ server can act as a live EHR.
 Make sure you have docker compose v2 installed. See notes in the MedArmor
 README for details.
 
-If running from the `ehr` folder, run using
+The HAPI FHIR service (different app) is behind profiles and does not start by
+default, but can be started using the following:
 
-```
-sudo docker compose up --build
-```
-
-If running from the base directory of this repository, run using
-
-```
-sudo docker compose -f ehr/docker-compose.yml up --build
+```bash
+docker compose --profile hapi up --build
 ```
 
 Note that it can take several minutes without any output before the server
@@ -31,12 +26,14 @@ To test the server is running, run the following:
 curl -X GET "http://localhost:9080/fhir/metadata"
 ```
 
-Additional commands are below.
+Additional management commands are below.
+
 
 ## Loading Data
 
 We have data prepared to load into the system. If you wish to make this data
 yourself or make it in a different way, see <data_notes.md>.
+
 
 ## Uploading Data
 
@@ -44,7 +41,7 @@ yourself or make it in a different way, see <data_notes.md>.
 ./upload_fhir.sh data/breast/fhir/
 ```
 
-## Other Notes
+## Other Management Notes
 
 ### See some data
 
