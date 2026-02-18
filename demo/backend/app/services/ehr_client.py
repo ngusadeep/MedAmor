@@ -19,7 +19,8 @@ def get_patient_bundle_from_service(
     base_url: str, patient_id: str, export_type: str = "full"
 ) -> EHRPatientBundle | None:
     """GET {base_url}/patients/{patient_id}?export_type=... -> EHRPatientBundle or None if 404."""
-    url = f"{base_url.rstrip('/')}/patients/{patient_id}/"
+    # EHR route is /patients/{patient_id} (no trailing slash); trailing slash causes 307
+    url = f"{base_url.rstrip('/')}/patients/{patient_id}"
     with httpx.Client(timeout=60.0) as client:
         r = client.get(url, params={"export_type": export_type})
         if r.status_code == 404:

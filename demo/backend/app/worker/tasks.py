@@ -94,40 +94,32 @@ def run_audit_task(self, job_id: str):
 @celery_app.task(name="app.worker.tasks.create_scheduled_audit_jobs")
 def create_scheduled_audit_jobs():
     """
-    CRON: create audit jobs for all patients from EHR service.
-    Simplified version: create jobs for all patients that don't have pending jobs.
+    CRON (e.g. every 24h): create one audit job per patient due for review.
+    Due = no report yet, or latest report's next_audit_date <= today.
+    Skips patients that already have a PENDING or IN_PROGRESS job.
+    Each job runs full RAG/agentic workflow (run_audit_task -> orchestrator -> report with next_audit_date).
     """
     from app.models.job import AUDIT_TYPE_DEFAULT, JobStatus
+    from app.services.ehr_mock import list_patients
+    from app.services.patient_enrichment import get_patients_due_for_review_ids
 
     db = SessionLocal()
     try:
-        # Get all patients from EHR service
-        from app.services.ehr_mock import list_patients
-
         all_patients = list_patients()
+        ehr_ids = [p.patient_id for p in all_patients]
+        due_ids = get_patients_due_for_review_ids(db, ehr_ids)
 
         created = 0
-        for patient in all_patients:
-            # Check if there's already a pending or in-progress job for this patient
-            existing = (
-                db.query(Job)
-                .filter(
-                    Job.patient_id == patient.patient_id,
-                    Job.status.in_([JobStatus.PENDING, JobStatus.IN_PROGRESS]),
-                )
-                .first()
-            )
-            if existing:
-                continue
-
+        for patient_id in due_ids:
             job = Job(
-                patient_id=patient.patient_id,
+                patient_id=patient_id,
                 audit_type=AUDIT_TYPE_DEFAULT,
                 status=JobStatus.PENDING,
                 triggered_by="scheduled",
             )
             db.add(job)
             db.commit()
+            db.refresh(job)
             run_audit_task.delay(str(job.id))
             created += 1
 
@@ -135,6 +127,7 @@ def create_scheduled_audit_jobs():
             "ok": True,
             "jobs_created": created,
             "total_patients": len(all_patients),
+            "due_for_review": len(due_ids),
         }
     finally:
         db.close()
