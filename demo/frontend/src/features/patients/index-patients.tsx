@@ -1,7 +1,14 @@
-import { useState, useEffect } from 'react'
+import { useState } from 'react'
+import { useQuery } from '@tanstack/react-query'
 import { Button } from '@/components/ui/button'
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card'
 import { Tabs, TabsContent, TabsList, TabsTrigger } from '@/components/ui/tabs'
+import { ConfigDrawer } from '@/components/config-drawer'
+import { Header } from '@/components/layout/header'
+import { Main } from '@/components/layout/main'
+import { ProfileDropdown } from '@/components/profile-dropdown'
+import { Search } from '@/components/search'
+import { ThemeSwitch } from '@/components/theme-switch'
 import { RefreshCw, Users, Zap } from 'lucide-react'
 import { toast } from 'sonner'
 
@@ -14,41 +21,34 @@ import {
   updatePatientStatus,
   listPatientsDueForReview,
   createJobsBatch,
-  PatientStats as PatientStatisticsType
 } from '@/lib/jobs-api'
-import type { Patient } from './data/schema'
 
 export function PatientsPage() {
-  const [patients, setPatients] = useState<Patient[]>([])
-  const [stats, setStats] = useState<PatientStatisticsType | null>(null)
-  const [isLoading, setIsLoading] = useState(true)
   const [isSyncing, setIsSyncing] = useState(false)
   const [activeTab, setActiveTab] = useState('all')
 
-  const loadData = async () => {
-    setIsLoading(true)
-    try {
-      const [patientsData, statsData] = await Promise.all([
-        listPatients(),
-        getPatientStats(),
-      ])
-      setPatients(patientsData)
-      setStats(statsData)
-    } catch (error) {
-      toast.error('Failed to load patient data')
-    } finally {
-      setIsLoading(false)
-    }
+  const { data: patients = [], isLoading, refetch } = useQuery({
+    queryKey: ['patients'],
+    queryFn: () => listPatients(),
+  })
+
+  const { data: stats, refetch: refetchStats } = useQuery({
+    queryKey: ['patient-stats'],
+    queryFn: () => getPatientStats(),
+  })
+
+  const loadData = () => {
+    refetch()
+    refetchStats()
   }
 
   const handleSyncPatients = async () => {
     setIsSyncing(true)
     try {
       await syncPatients()
-      toast.success('Patient sync started in background')
-      // Reload data after a short delay
-      setTimeout(loadData, 2000)
-    } catch (error) {
+      toast.success('Patient list refreshed from EHR')
+      setTimeout(loadData, 1000)
+    } catch {
       toast.error('Failed to sync patients')
     } finally {
       setIsSyncing(false)
@@ -57,11 +57,11 @@ export function PatientsPage() {
 
   const handleUpdateStatus = async () => {
     try {
-      const result = await updatePatientStatus()
-      toast.success(`Updated ${result.updated_patients} patient statuses`)
+      await updatePatientStatus()
+      toast.success('Status is computed from latest reports')
       loadData()
-    } catch (error) {
-      toast.error('Failed to update patient statuses')
+    } catch {
+      toast.error('Failed to refresh status')
     }
   }
 
@@ -69,29 +69,21 @@ export function PatientsPage() {
     try {
       const duePatients = await listPatientsDueForReview()
       if (duePatients.length === 0) {
-        toast.info('All patients are up to date')
+        toast.info('No patients due for review')
         return
       }
-
       const patientIds = duePatients.map(p => p.patient_id)
       await createJobsBatch({
         patient_ids: patientIds,
         audit_type: 'breast_cancer_screening',
         triggered_by: 'batch_audit',
       })
-
       toast.success(`Created audit jobs for ${duePatients.length} patients`)
-
-      // Reload data after a short delay
       setTimeout(loadData, 1000)
-    } catch (error) {
+    } catch {
       toast.error('Failed to create batch audit')
     }
   }
-
-  useEffect(() => {
-    loadData()
-  }, [])
 
   const filteredPatients = patients.filter((patient) => {
     if (activeTab === 'all') return true
@@ -101,65 +93,71 @@ export function PatientsPage() {
   })
 
   return (
-    <div className="space-y-6">
-      {/* Header */}
-      <div className="flex items-center justify-between">
-        <div>
-          <h1 className="text-3xl font-bold tracking-tight">Patient Management</h1>
-          <p className="text-muted-foreground">
-            Monitor patient audit status and manage review schedules
-          </p>
+    <>
+      <Header fixed>
+        <Search />
+        <div className="ms-auto flex items-center space-x-4">
+          <ThemeSwitch />
+          <ConfigDrawer />
+          <ProfileDropdown />
         </div>
-        <div className="flex items-center space-x-2">
-          <Button
-            variant="outline"
-            onClick={handleSyncPatients}
-            disabled={isSyncing}
-          >
-            <RefreshCw className={`mr-2 h-4 w-4 ${isSyncing ? 'animate-spin' : ''}`} />
-            Sync Patients
-          </Button>
-          <Button variant="outline" onClick={handleUpdateStatus}>
-            <Users className="mr-2 h-4 w-4" />
-            Update Status
-          </Button>
-          <Button onClick={handleBatchAudit}>
-            <Zap className="mr-2 h-4 w-4" />
-            Batch Audit
-          </Button>
+      </Header>
+
+      <Main className="flex flex-1 flex-col gap-4 sm:gap-6">
+        <div className="flex flex-wrap items-end justify-between gap-2">
+          <div>
+            <h2 className="text-2xl font-bold tracking-tight">Patients</h2>
+            <p className="text-muted-foreground">
+              Monitor audit status, last/next review dates, and run batch audits for due patients.
+            </p>
+          </div>
+          <div className="flex items-center gap-2">
+            <Button variant="outline" size="sm" onClick={handleSyncPatients} disabled={isSyncing}>
+              <RefreshCw className={`mr-2 h-4 w-4 ${isSyncing ? 'animate-spin' : ''}`} />
+              Sync
+            </Button>
+            <Button variant="outline" size="sm" onClick={handleUpdateStatus}>
+              <Users className="mr-2 h-4 w-4" />
+              Refresh status
+            </Button>
+            <Button size="sm" onClick={handleBatchAudit}>
+              <Zap className="mr-2 h-4 w-4" />
+              Batch audit due
+            </Button>
+          </div>
         </div>
-      </div>
 
-      {/* Stats Dashboard */}
-      {stats && <PatientStats stats={stats} isLoading={isLoading} />}
+        {stats && <PatientStats stats={stats} isLoading={isLoading} />}
 
-      {/* Patients Table */}
-      <Card>
-        <CardHeader>
-          <CardTitle>Patients</CardTitle>
-        </CardHeader>
-        <CardContent>
-          <Tabs value={activeTab} onValueChange={setActiveTab}>
-            <TabsList className="grid w-full grid-cols-5">
-              <TabsTrigger value="all">All ({patients.length})</TabsTrigger>
-              <TabsTrigger value="due">Due Review ({stats?.due_for_review_count || 0})</TabsTrigger>
-              <TabsTrigger value="needs_attention">
-                Needs Attention ({stats?.status_counts.needs_attention || 0})
-              </TabsTrigger>
-              <TabsTrigger value="never_audited">
-                Never Audited ({stats?.status_counts.never_audited || 0})
-              </TabsTrigger>
-              <TabsTrigger value="compliant">
-                Compliant ({stats?.status_counts.compliant || 0})
-              </TabsTrigger>
-            </TabsList>
-
-            <TabsContent value={activeTab} className="mt-6">
-              <PatientsTable patients={filteredPatients} isLoading={isLoading} />
-            </TabsContent>
-          </Tabs>
-        </CardContent>
-      </Card>
-    </div>
+        <Card>
+          <CardHeader>
+            <CardTitle>Patient list</CardTitle>
+            <p className="text-sm text-muted-foreground">
+              Filter by status; last audit and next review come from the latest report.
+            </p>
+          </CardHeader>
+          <CardContent>
+            <Tabs value={activeTab} onValueChange={setActiveTab}>
+              <TabsList className="grid w-full grid-cols-5">
+                <TabsTrigger value="all">All ({patients.length})</TabsTrigger>
+                <TabsTrigger value="due">Due ({stats?.due_for_review_count ?? 0})</TabsTrigger>
+                <TabsTrigger value="needs_attention">
+                  Needs attention ({stats?.status_counts?.needs_attention ?? 0})
+                </TabsTrigger>
+                <TabsTrigger value="never_audited">
+                  Never audited ({stats?.status_counts?.never_audited ?? 0})
+                </TabsTrigger>
+                <TabsTrigger value="compliant">
+                  Compliant ({stats?.status_counts?.compliant ?? 0})
+                </TabsTrigger>
+              </TabsList>
+              <TabsContent value={activeTab} className="mt-4">
+                <PatientsTable patients={filteredPatients} isLoading={isLoading} />
+              </TabsContent>
+            </Tabs>
+          </CardContent>
+        </Card>
+      </Main>
+    </>
   )
 }

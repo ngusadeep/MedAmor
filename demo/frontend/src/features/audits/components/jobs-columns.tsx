@@ -58,19 +58,21 @@ export const jobsColumns: ColumnDef<Job>[] = [
       <DataTableColumnHeader column={column} title='Status' />
     ),
     cell: ({ row }) => {
-      const status = row.getValue('status') as string
+      const status = (row.getValue('status') as string) ?? ''
+      const normalized = status.toLowerCase()
       const label =
-        status === 'in_progress'
+        normalized === 'in_progress'
           ? 'In progress'
-          : status === 'pending'
+          : normalized === 'pending'
             ? 'Pending'
-            : status === 'completed'
+            : normalized === 'completed'
               ? 'Completed'
-              : status === 'failed'
+              : normalized === 'failed' || normalized === 'fail'
                 ? 'Failed'
-                : status
+                : status || 'Unknown'
+      const variantStatus = normalized === 'fail' ? 'failed' : normalized
       return (
-        <Badge variant={statusVariant(status)} className='capitalize'>
+        <Badge variant={statusVariant(variantStatus)} className='capitalize'>
           {label}
         </Badge>
       )

@@ -34,7 +34,7 @@ How the **Breast Cancer Screening Audit** demo runs end-to-end.
 6. **Reports** – list reports (`GET /api/audit-reports`), open a report to see findings, evidence, corrective actions, **next audit date**, and **annotations (human-in-the-loop)**.
 7. **Annotations** – on report detail: list annotations per finding, add note (finding index + note) via `POST /api/audit-reports/{id}/annotations`.
 
-Patient IDs come from the **patient list** the backend gets from the **EHR service** (or disk when `EHR_SERVICE_URL` is not set).
+**Patients** – list (`GET /api/patients`) is enriched from the latest audit report per patient: **last_audit_date**, **next_audit_date**, **status** (never_audited, due_for_review, compliant, needs_attention), **risk_level**. Due-for-review (`GET /api/patients/due-for-review`) returns only patients due (next_audit_date ≤ today or never audited) and without a pending job. Patient IDs come from the **EHR service** (or disk when `EHR_SERVICE_URL` is not set).
 
 ---
 
@@ -67,13 +67,13 @@ Patient IDs come from the **patient list** the backend gets from the **EHR servi
 
 ## 5. Scheduled audits (CRON – Celery Beat)
 
-- **Celery Beat** runs in a separate container (`medaudit_beat`), schedule: **daily at 06:00 UTC**.
-- Task: **`create_scheduled_audit_jobs`**.
+- **Celery Beat** runs in a separate container (`medaudit_beat`), schedule: **daily at 06:00 UTC** (every 24h).
+- Task: **`create_scheduled_audit_jobs`** (full workflow per patient).
 - Logic:
-  - Build “latest report per patient” (by `created_at`).
-  - **Due:** patients whose latest report has `next_audit_date <= today`.
-  - **Never audited:** patients in EHR list who have no report.
-  - For each patient in the union (no duplicate), if there is **no existing PENDING job**, create one with `triggered_by="scheduled"` and enqueue `run_audit_task.delay(job.id)`.
+  - **Due for review:** patients with no report yet, or whose latest report has `next_audit_date` is None or `next_audit_date <= today`.
+  - Exclude patients that already have a PENDING or IN_PROGRESS job.
+  - For each due patient, create one job with `triggered_by="scheduled"` and enqueue `run_audit_task.delay(job.id)`.
+  - Each job runs the full RAG/orchestrator workflow; the resulting report stores **review date** (report `created_at`) and **next_audit_date** (from AI). Patient list and “due” counts are derived from latest report per patient.
 
 ---
 
