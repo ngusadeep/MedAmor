@@ -42,6 +42,7 @@ class AuditReportCreate(BaseModel):
     evidence: list[EvidenceItem] | None = None
     corrective_actions: list[str] | None = None
     next_audit_date: datetime | None = None
+    created_at: datetime | None = None  # override creation timestamp (e.g. for seeding)
 
 
 class OrchestratorAuditReport(BaseModel):

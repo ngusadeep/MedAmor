@@ -22,6 +22,8 @@ class JobCreate(BaseModel):
     audit_type: str | None = None  # default breast_cancer_screening
     export_type: str | None = None
     triggered_by: str | None = None
+    skip_celery: bool = False  # if True, job is created as COMPLETED without queuing
+    created_at: datetime | None = None  # override creation timestamp (e.g. for seeding)
 
 
 class JobResponse(BaseModel):

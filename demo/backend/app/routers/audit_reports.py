@@ -1,6 +1,7 @@
-"""Audit reports API: list, get, and human-in-the-loop annotations."""
+"""Audit reports API: create, list, get, and human-in-the-loop annotations."""
 
 import json
+from datetime import datetime
 from uuid import UUID
 
 from fastapi import APIRouter, Depends, HTTPException
@@ -10,9 +11,11 @@ from sqlalchemy.orm import Session
 from app.core.database import get_db_session
 from app.core.deps import get_current_user_required
 from app.models.audit_report import AuditReport
+from app.models.job import Job
 from app.models.report_annotation import ReportAnnotation
 from app.models.user import User
 from app.schemas.audit_report import (
+    AuditReportCreate,
     AuditReportExportRow,
     AuditReportResponse,
     ReportAnnotationCreate,
@@ -20,6 +23,37 @@ from app.schemas.audit_report import (
 )
 
 router = APIRouter(prefix="/audit-reports", tags=["audit-reports"])
+
+
+@router.post("", response_model=AuditReportResponse)
+def create_audit_report(
+    body: AuditReportCreate,
+    db: Session = Depends(get_db_session),
+    _user: User = Depends(get_current_user_required),
+) -> AuditReport:
+    """Store a completed audit report for an existing job."""
+    job = db.query(Job).filter(Job.id == body.job_id).first()
+    if not job:
+        raise HTTPException(status_code=404, detail="Job not found")
+    if db.query(AuditReport).filter(AuditReport.job_id == body.job_id).first():
+        raise HTTPException(status_code=409, detail="Audit report already exists for this job")
+    now = body.created_at or datetime.utcnow()
+    report = AuditReport(
+        job_id=body.job_id,
+        patient_id=body.patient_id,
+        status=body.status,
+        risk_level=body.risk_level,
+        executive_summary=body.executive_summary,
+        findings=[f.model_dump() for f in body.findings] if body.findings else [],
+        evidence=[e.model_dump() for e in body.evidence] if body.evidence else [],
+        corrective_actions=body.corrective_actions or [],
+        next_audit_date=body.next_audit_date,
+        created_at=now,
+    )
+    db.add(report)
+    db.commit()
+    db.refresh(report)
+    return report
 
 
 @router.get("", response_model=list[AuditReportResponse])
