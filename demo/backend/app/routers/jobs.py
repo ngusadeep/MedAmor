@@ -1,5 +1,6 @@
 """Jobs API: create (single or batch) and list audit jobs."""
 
+from datetime import datetime
 from uuid import UUID
 
 from fastapi import APIRouter, Depends, HTTPException
@@ -20,13 +21,18 @@ def _create_one_job(
     audit_type: str | None = None,
     export_type: str | None = None,
     triggered_by: str | None = None,
+    skip_celery: bool = False,
+    created_at: datetime | None = None,
 ) -> Job:
+    now = created_at or datetime.utcnow()
     job = Job(
         patient_id=patient_id,
         audit_type=audit_type or AUDIT_TYPE_DEFAULT,
-        status=JobStatus.PENDING,
+        status=JobStatus.COMPLETED if skip_celery else JobStatus.PENDING,
         export_type=export_type,
         triggered_by=triggered_by,
+        created_at=now,
+        updated_at=now,
     )
     db.add(job)
     db.commit()
@@ -40,17 +46,19 @@ def create_job(
     db: Session = Depends(get_db_session),
     _user: User = Depends(get_current_chief_doctor_required),
 ) -> Job:
-    """Create one audit job (pending). Celery processes it."""
+    """Create one audit job. Pass skip_celery=true to mark it completed without queuing."""
     job = _create_one_job(
         db,
         body.patient_id,
         audit_type=body.audit_type,
         export_type=body.export_type,
         triggered_by=body.triggered_by,
+        skip_celery=body.skip_celery,
+        created_at=body.created_at,
     )
-    from app.worker.tasks import run_audit_task
-
-    run_audit_task.delay(str(job.id))
+    if not body.skip_celery:
+        from app.worker.tasks import run_audit_task
+        run_audit_task.delay(str(job.id))
     return job
 
 
