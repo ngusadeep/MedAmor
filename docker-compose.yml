@@ -1,126 +1,70 @@
-# MedAudit – Breast Cancer Screening Audit
-# Default: docker compose up  → starts only MedAudit (redis, medaudit_*, nginx). App at http://localhost
-# Full stack: docker compose --profile platform --profile hapi up  → adds platform_* and HAPI FHIR
-version: '3.8'
+# MedAudit Demo – Breast Cancer Screening Audit
+# All config from .env only: copy .env.example to .env and set every variable.
+# Run from project root:  docker compose up --build
+# One Python image (medaudit-app) for backend, worker, beat, and ehr – built once by medaudit_backend.
 
 services:
-  # Platform Database (optional; use --profile platform)
-  platform_db:
-    profiles: ["platform"]
-    image: postgres:16-alpine
-    container_name: platform_db
+  # ---------- EHR Data Service (same image as backend; runs ehr.server:app) ----------
+  ehr:
+    image: medaudit-app
+    container_name: ehr_service
+    working_dir: /app
+    command: ["uvicorn", "ehr.server:app", "--host", "0.0.0.0", "--port", "8000"]
+    env_file: .env
     environment:
-      POSTGRES_USER: platform
-      POSTGRES_PASSWORD: platform_dev_password
-      POSTGRES_DB: platform
+      DATABASE_URL: ${EHR_DATABASE_URL}
+      EHR_DATA_PATH: /app/ehr
+      PYTHONPATH: /app:/app/ehr
     volumes:
-      - platform_db_data:/var/lib/postgresql/data
-    ports:
-      - "5432:5432"
-    healthcheck:
-      test: ["CMD-SHELL", "pg_isready -U platform -d platform"]
-      interval: 10s
-      timeout: 5s
-      retries: 5
-    restart: unless-stopped
-
-  platform_ui:
-    profiles: ["platform"]
-    build:
-      context: ./platform/ui
-    container_name: platform_ui
-    environment:
-      # Vite dev server proxy: backend is platform_web:5000 inside Docker network
-      VITE_PROXY_TARGET: http://platform_web:5000
-      VITE_API_BASE_URL: http://localhost:3000
-      VITE_API_URL: http://localhost:3000/api/v1
-    ports:
-      - "3000:3000"
-    volumes:
-      # Mount source code for hot reloading in development
-      - ./platform/ui/src:/app/src:ro
-      - ./platform/ui/public:/app/public:ro
-      - ./platform/ui/index.html:/app/index.html:ro
-      - ./platform/ui/package.json:/app/package.json:ro
-      - ./platform/ui/vite.config.ts:/app/vite.config.ts:ro
+      - ./ehr:/app/ehr:ro
     depends_on:
-      - platform_web
-    restart: unless-stopped
-
-  # Platform Web Application (optional; use --profile platform)
-  platform_web:
-    profiles: ["platform"]
-    build:
-      context: ./platform
-      dockerfile: Dockerfile
-    container_name: platform_web
-    environment:
-      FLASK_ENV: development
-      DATABASE_HOST: platform_db
-      DATABASE_PORT: 5432
-      DATABASE_NAME: platform
-      DATABASE_USER: platform
-      DATABASE_PASSWORD: platform_dev_password
-      # Optional: default admin created on first startup (skipped if user exists)
-      DEFAULT_ADMIN_USERNAME: admin
-      DEFAULT_ADMIN_EMAIL: admin@example.com
-      DEFAULT_ADMIN_PASSWORD: admin
-    ports:
-      - "8080:80"
-    volumes:
-      # Mount source code for hot reloading
-      - ./platform/backend:/app/backend:ro
-      - ./platform/ui/src:/app/ui/src:ro
-      - ./platform/ui/public:/app/ui/public:ro
-      - ./platform/config.toml:/app/config.toml:ro
-    depends_on:
-      platform_db:
+      medaudit_db:
         condition: service_healthy
-    restart: unless-stopped
-
-  # HAPI FHIR Database (optional; use --profile hapi)
-  hapi_db:
-    profiles: ["hapi"]
-    image: postgres:15-alpine
-    container_name: hapi_db
-    environment:
-      POSTGRES_DB: hapi
-      POSTGRES_USER: hapi
-      POSTGRES_PASSWORD: hapi_dev_password
-    volumes:
-      - hapi_db_data:/var/lib/postgresql/data
     ports:
-      - "5433:5432"
-    healthcheck:
-      test: ["CMD-SHELL", "pg_isready -U hapi -d hapi"]
-      interval: 10s
-      timeout: 5s
-      retries: 5
+      - "8001:8000"
     restart: unless-stopped
 
-  hapi_fhir:
-    profiles: ["hapi"]
-    image: hapiproject/hapi:latest
-    container_name: hapi_fhir
-    ports:
-      - "9080:8080"
-    environment:
-      SPRING_DATASOURCE_URL: jdbc:postgresql://hapi_db:5432/hapi
-      SPRING_DATASOURCE_USERNAME: hapi
-      SPRING_DATASOURCE_PASSWORD: hapi_dev_password
-      SPRING_DATASOURCE_DRIVER_CLASS_NAME: org.postgresql.Driver
-      SPRING_DATASOURCE_HIKARI_CONNECTION_TIMEOUT: "60000"
-      SPRING_JPA_PROPERTIES_HIBERNATE_DIALECT: org.hibernate.dialect.PostgreSQLDialect
-      SPRING_JPA_HIBERNATE_DDL_AUTO: update
-      HAPI_FHIR_FHIR_VERSION: R4
-      HAPI_FHIR_OPENAPI_ENABLED: "true"
-      HAPI_FHIR_TESTER_HOME_SERVER_ADDRESS: http://localhost:9080/fhir
-    depends_on:
-      hapi_db:
-        condition: service_healthy
-    restart: unless-stopped
+  # ---------- HAPI FHIR (optional; uncomment if needed) ----------
+  # hapi_db:
+  #   image: postgres:15-alpine
+  #   container_name: hapi_db
+  #   environment:
+  #     POSTGRES_DB: hapi
+  #     POSTGRES_USER: hapi
+  #     POSTGRES_PASSWORD: hapi_dev_password
+  #   volumes:
+  #     - hapi_db_data:/var/lib/postgresql/data
+  #   ports:
+  #     - "5433:5432"
+  #   healthcheck:
+  #     test: ["CMD-SHELL", "pg_isready -U hapi -d hapi"]
+  #     interval: 10s
+  #     timeout: 5s
+  #     retries: 5
+  #   restart: unless-stopped
 
-  # Redis (Celery broker for MedAudit)
+  # hapi_fhir:
+  #   image: hapiproject/hapi:latest
+  #   container_name: hapi_fhir
+  #   ports:
+  #     - "9080:8080"
+  #   environment:
+  #     SPRING_DATASOURCE_URL: jdbc:postgresql://hapi_db:5432/hapi
+  #     SPRING_DATASOURCE_USERNAME: hapi
+  #     SPRING_DATASOURCE_PASSWORD: hapi1234
+  #     SPRING_DATASOURCE_DRIVER_CLASS_NAME: org.postgresql.Driver
+  #     SPRING_DATASOURCE_HIKARI_CONNECTION_TIMEOUT: "60000"
+  #     SPRING_JPA_PROPERTIES_HIBERNATE_DIALECT: org.hibernate.dialect.PostgreSQLDialect
+  #     SPRING_JPA_HIBERNATE_DDL_AUTO: update
+  #     HAPI_FHIR_FHIR_VERSION: R4
+  #     HAPI_FHIR_OPENAPI_ENABLED: "true"
+  #     HAPI_FHIR_TESTER_HOME_SERVER_ADDRESS: http://localhost:9080/fhir
+  #   depends_on:
+  #     hapi_db:
+  #       condition: service_healthy
+  #   restart: unless-stopped
+
+  # ---------- Redis (Celery) ----------
   redis:
     image: redis:7-alpine
     container_name: medaudit_redis
@@ -136,20 +80,23 @@ services:
       retries: 5
     restart: unless-stopped
 
-  # ---------- MedAudit stack ----------
+  # ---------- MedAudit backend (AI + backend logic) ----------
   medaudit_db:
-    image: postgres:16-alpine
+    image: postgres:15-alpine
     container_name: medaudit_db
+    env_file: .env
     environment:
-      POSTGRES_USER: postgres
-      POSTGRES_PASSWORD: postgres
-      POSTGRES_DB: medaudit
+      POSTGRES_USER: ${POSTGRES_USER}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD}
+      POSTGRES_DB: ${POSTGRES_DB}
+      POSTGRES_MULTIPLE_DATABASES: ehr
     volumes:
       - medaudit_db_data:/var/lib/postgresql/data
+      - ./ehr/init_ehr_db.sql:/docker-entrypoint-initdb.d/init_ehr_db.sql:ro
     ports:
       - "5434:5432"
     healthcheck:
-      test: ["CMD-SHELL", "pg_isready -U postgres -d medaudit"]
+      test: ["CMD-SHELL", "pg_isready -U ${POSTGRES_USER} -d ${POSTGRES_DB}"]
       interval: 10s
       timeout: 5s
       retries: 5
@@ -157,18 +104,36 @@ services:
 
   medaudit_backend:
     build:
-      context: ./backend
+      context: .
       dockerfile: Dockerfile
+    image: medaudit-app
     container_name: medaudit_backend
+    env_file: .env
     environment:
-      DATABASE_URL: postgresql://postgres:postgres@medaudit_db:5432/medaudit
-      CHROMA_PERSIST_DIR: /app/chroma_data
-      REDIS_URL: redis://redis:6379/0
-      CELERY_BROKER_URL: redis://redis:6379/0
-      CELERY_RESULT_BACKEND: redis://redis:6379/0
-      JWT_SECRET_KEY: change_me_jwt_secret_min_32_chars
-      ALLOWED_ORIGINS: http://localhost:3000,http://localhost:5173,http://localhost,http://127.0.0.1
-      MEDICAL_KB_PATH: /app/docs/Medical_KB
+      DATABASE_URL: ${DATABASE_URL}
+      CHROMA_PERSIST_DIR: ${CHROMA_PERSIST_DIR}
+      EHR_SERVICE_URL: ${EHR_SERVICE_URL}
+      REDIS_URL: ${REDIS_URL}
+      CELERY_BROKER_URL: ${CELERY_BROKER_URL}
+      CELERY_RESULT_BACKEND: ${CELERY_RESULT_BACKEND}
+      JWT_SECRET_KEY: ${JWT_SECRET_KEY}
+      ALLOWED_ORIGINS: ${ALLOWED_ORIGINS}
+      MEDICAL_KB_PATH: ${MEDICAL_KB_PATH}
+      AUDIT_AI_PROVIDER: ${AUDIT_AI_PROVIDER}
+      HF_TOKEN: ${HF_TOKEN}
+      HF_MEDGEMMA_ENDPOINT: ${HF_MEDGEMMA_ENDPOINT}
+      GOOGLE_API_KEY: ${GOOGLE_API_KEY}
+      GEMINI_MODEL: ${GEMINI_MODEL}
+      OPENAI_API_KEY: ${OPENAI_API_KEY}
+      OPENAI_AUDIT_MODEL: ${OPENAI_AUDIT_MODEL}
+      EMBEDDING_PROVIDER: ${EMBEDDING_PROVIDER}
+      OPENAI_EMBEDDING_MODEL: ${OPENAI_EMBEDDING_MODEL}
+      ENVIRONMENT: ${ENVIRONMENT}
+      DEBUG: ${DEBUG}
+      JWT_ALGORITHM: ${JWT_ALGORITHM}
+      JWT_EXPIRE_MINUTES: ${JWT_EXPIRE_MINUTES}
+      HOST: ${HOST}
+      PORT: ${PORT}
     volumes:
       - chroma_data:/app/chroma_data
       - ./docs/Medical_KB:/app/docs/Medical_KB:ro
@@ -177,22 +142,37 @@ services:
         condition: service_healthy
       redis:
         condition: service_healthy
+      ehr:
+        condition: service_started
     restart: unless-stopped
 
   medaudit_worker:
-    build:
-      context: ./backend
-      dockerfile: Dockerfile
+    image: medaudit-app
     container_name: medaudit_worker
     command: ["celery", "-A", "app.worker.celery_app", "worker", "--loglevel=info"]
+    env_file: .env
     environment:
-      DATABASE_URL: postgresql://postgres:postgres@medaudit_db:5432/medaudit
-      CHROMA_PERSIST_DIR: /app/chroma_data
-      REDIS_URL: redis://redis:6379/0
-      CELERY_BROKER_URL: redis://redis:6379/0
-      CELERY_RESULT_BACKEND: redis://redis:6379/0
-      JWT_SECRET_KEY: change_me_jwt_secret_min_32_chars
-      MEDICAL_KB_PATH: /app/docs/Medical_KB
+      DATABASE_URL: ${DATABASE_URL}
+      CHROMA_PERSIST_DIR: ${CHROMA_PERSIST_DIR}
+      EHR_SERVICE_URL: ${EHR_SERVICE_URL}
+      REDIS_URL: ${REDIS_URL}
+      CELERY_BROKER_URL: ${CELERY_BROKER_URL}
+      CELERY_RESULT_BACKEND: ${CELERY_RESULT_BACKEND}
+      JWT_SECRET_KEY: ${JWT_SECRET_KEY}
+      MEDICAL_KB_PATH: ${MEDICAL_KB_PATH}
+      AUDIT_AI_PROVIDER: ${AUDIT_AI_PROVIDER}
+      HF_TOKEN: ${HF_TOKEN}
+      HF_MEDGEMMA_ENDPOINT: ${HF_MEDGEMMA_ENDPOINT}
+      GOOGLE_API_KEY: ${GOOGLE_API_KEY}
+      GEMINI_MODEL: ${GEMINI_MODEL}
+      OPENAI_API_KEY: ${OPENAI_API_KEY}
+      OPENAI_AUDIT_MODEL: ${OPENAI_AUDIT_MODEL}
+      EMBEDDING_PROVIDER: ${EMBEDDING_PROVIDER}
+      OPENAI_EMBEDDING_MODEL: ${OPENAI_EMBEDDING_MODEL}
+      ENVIRONMENT: ${ENVIRONMENT}
+      DEBUG: ${DEBUG}
+      JWT_ALGORITHM: ${JWT_ALGORITHM}
+      JWT_EXPIRE_MINUTES: ${JWT_EXPIRE_MINUTES}
     volumes:
       - chroma_data:/app/chroma_data
       - ./docs/Medical_KB:/app/docs/Medical_KB:ro
@@ -203,14 +183,58 @@ services:
         condition: service_healthy
       medaudit_backend:
         condition: service_started
+      ehr:
+        condition: service_started
     restart: unless-stopped
 
+  medaudit_beat:
+    image: medaudit-app
+    container_name: medaudit_beat
+    command: ["celery", "-A", "app.worker.celery_app", "beat", "--loglevel=info"]
+    env_file: .env
+    environment:
+      DATABASE_URL: ${DATABASE_URL}
+      CHROMA_PERSIST_DIR: ${CHROMA_PERSIST_DIR}
+      EHR_SERVICE_URL: ${EHR_SERVICE_URL}
+      REDIS_URL: ${REDIS_URL}
+      CELERY_BROKER_URL: ${CELERY_BROKER_URL}
+      CELERY_RESULT_BACKEND: ${CELERY_RESULT_BACKEND}
+      JWT_SECRET_KEY: ${JWT_SECRET_KEY}
+      MEDICAL_KB_PATH: ${MEDICAL_KB_PATH}
+      AUDIT_AI_PROVIDER: ${AUDIT_AI_PROVIDER}
+      HF_TOKEN: ${HF_TOKEN}
+      HF_MEDGEMMA_ENDPOINT: ${HF_MEDGEMMA_ENDPOINT}
+      GOOGLE_API_KEY: ${GOOGLE_API_KEY}
+      GEMINI_MODEL: ${GEMINI_MODEL}
+      OPENAI_API_KEY: ${OPENAI_API_KEY}
+      OPENAI_AUDIT_MODEL: ${OPENAI_AUDIT_MODEL}
+      EMBEDDING_PROVIDER: ${EMBEDDING_PROVIDER}
+      OPENAI_EMBEDDING_MODEL: ${OPENAI_EMBEDDING_MODEL}
+      ENVIRONMENT: ${ENVIRONMENT}
+      DEBUG: ${DEBUG}
+      JWT_ALGORITHM: ${JWT_ALGORITHM}
+      JWT_EXPIRE_MINUTES: ${JWT_EXPIRE_MINUTES}
+    volumes:
+      - chroma_data:/app/chroma_data
+      - ./docs/Medical_KB:/app/docs/Medical_KB:ro
+    depends_on:
+      medaudit_db:
+        condition: service_healthy
+      redis:
+        condition: service_healthy
+      medaudit_backend:
+        condition: service_started
+      ehr:
+        condition: service_started
+    restart: unless-stopped
+
+  # ---------- MedAudit frontend (UI) ----------
   medaudit_frontend:
     build:
       context: ./frontend
       dockerfile: Dockerfile
       args:
-        VITE_API_URL: /api
+        VITE_API_URL: ${VITE_API_URL}
     container_name: medaudit_frontend
     restart: unless-stopped
 
@@ -227,8 +251,7 @@ services:
     restart: unless-stopped
 
 volumes:
-  platform_db_data:
-  hapi_db_data:
+  # hapi_db_data:  # Uncomment if enabling HAPI
   redis_data:
   medaudit_db_data:
   chroma_data:

@@ -10,13 +10,19 @@ from fastapi.middleware.cors import CORSMiddleware
 
 from app.core.config import settings
 from app.core.database import init_db
-from app.routers import audit_reports, auth, ehr, jobs, rag
+from app.routers import audit_reports, auth, ehr, jobs, patients, rag
 
 
 @asynccontextmanager
 async def lifespan(app: FastAPI):
-    """Startup: create DB tables. Shutdown: none."""
+    """Startup: create DB tables; ensure RAG KB is indexed (only if new/changed docs in docs/)."""
     init_db()
+    try:
+        from app.services import rag
+
+        rag.ensure_indexed()
+    except Exception:
+        pass
     yield
 
 
@@ -39,6 +45,7 @@ app.include_router(auth.router, prefix="/api")
 app.include_router(jobs.router, prefix="/api")
 app.include_router(audit_reports.router, prefix="/api")
 app.include_router(ehr.router, prefix="/api")
+app.include_router(patients.router, prefix="/api")
 app.include_router(rag.router, prefix="/api")
 
 
@@ -59,5 +66,5 @@ if __name__ == "__main__":
         "main:app",
         host=settings.host,
         port=settings.port,
-        reload=settings.debug and settings.environment == "development",
+        reload=False,  # Disable reload in container environment
     )

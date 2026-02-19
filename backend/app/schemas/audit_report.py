@@ -23,6 +23,13 @@ class EvidenceItem(BaseModel):
     image_ref: str | None = None
 
 
+class OrchestratorEvidenceItem(BaseModel):
+    """Evidence item from aiorchestrator-style reports."""
+
+    guideline: str
+    violation: str
+
+
 class AuditReportCreate(BaseModel):
     """Payload to store an audit result (from audit engine)."""
 
@@ -35,6 +42,14 @@ class AuditReportCreate(BaseModel):
     evidence: list[EvidenceItem] | None = None
     corrective_actions: list[str] | None = None
     next_audit_date: datetime | None = None
+
+
+class OrchestratorAuditReport(BaseModel):
+    """aiorchestrator-style audit report structure."""
+
+    compliant: bool
+    gaps: list[str] = []
+    evidence: list[OrchestratorEvidenceItem] = []
 
 
 class AuditReportResponse(BaseModel):
@@ -52,6 +67,26 @@ class AuditReportResponse(BaseModel):
     evidence: list | None
     corrective_actions: list | None
     next_audit_date: datetime | None
+    created_at: datetime
+
+
+class ReportAnnotationCreate(BaseModel):
+    """Add a reviewer note to a finding."""
+
+    finding_index: int
+    note: str
+
+
+class ReportAnnotationResponse(BaseModel):
+    """Annotation in API response."""
+
+    model_config = ConfigDict(from_attributes=True)
+
+    id: UUID
+    audit_report_id: UUID
+    finding_index: int
+    note: str
+    created_by_user_id: UUID | None
     created_at: datetime
 
 

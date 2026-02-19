@@ -1,7 +1,8 @@
-import { useQuery } from '@tanstack/react-query'
+import { useMutation, useQuery, useQueryClient } from '@tanstack/react-query'
 import { Link } from '@tanstack/react-router'
 import { ArrowLeft } from 'lucide-react'
 import { getRouteApi } from '@tanstack/react-router'
+import { useState } from 'react'
 import { ConfigDrawer } from '@/components/config-drawer'
 import { Header } from '@/components/layout/header'
 import { Main } from '@/components/layout/main'
@@ -17,7 +18,13 @@ import {
 } from '@/components/ui/card'
 import { Badge } from '@/components/ui/badge'
 import { Button } from '@/components/ui/button'
-import { getAuditReport } from '@/lib/jobs-api'
+import { Input } from '@/components/ui/input'
+import { Label } from '@/components/ui/label'
+import {
+  getAuditReport,
+  listReportAnnotations,
+  createReportAnnotation,
+} from '@/lib/jobs-api'
 
 const route = getRouteApi(
   '/_authenticated/audits/reports/$reportId' as any
@@ -25,9 +32,25 @@ const route = getRouteApi(
 
 export function ReportDetailPage() {
   const { reportId } = route.useParams()
+  const queryClient = useQueryClient()
+  const [annoFindingIndex, setAnnoFindingIndex] = useState(0)
+  const [annoNote, setAnnoNote] = useState('')
   const { data: report, isLoading, error } = useQuery({
     queryKey: ['audit-report', reportId],
     queryFn: () => getAuditReport(reportId),
+  })
+  const { data: annotations = [] } = useQuery({
+    queryKey: ['report-annotations', reportId],
+    queryFn: () => listReportAnnotations(reportId),
+    enabled: !!reportId,
+  })
+  const createAnnotation = useMutation({
+    mutationFn: (body: { finding_index: number; note: string }) =>
+      createReportAnnotation(reportId, body),
+    onSuccess: () => {
+      queryClient.invalidateQueries({ queryKey: ['report-annotations', reportId] })
+      setAnnoNote('')
+    },
   })
 
   if (isLoading) {
@@ -234,6 +257,87 @@ export function ReportDetailPage() {
               </CardContent>
             </Card>
           )}
+
+          <Card>
+            <CardHeader>
+              <CardTitle>Annotations (human-in-the-loop)</CardTitle>
+              <CardDescription>
+                Add notes to findings for review and training.
+              </CardDescription>
+            </CardHeader>
+            <CardContent className='space-y-4'>
+              {annotations.length > 0 && (
+                <ul className='space-y-2 text-sm'>
+                  {annotations.map((a) => (
+                    <li key={a.id} className='rounded border p-2'>
+                      <span className='font-medium text-muted-foreground'>
+                        Finding #{a.finding_index}:
+                      </span>{' '}
+                      {a.note}
+                      <span className='ml-2 text-muted-foreground text-xs'>
+                        {new Date(a.created_at).toLocaleString()}
+                        {a.created_by_user_id && ` · by ${a.created_by_user_id}`}
+                      </span>
+                    </li>
+                  ))}
+                </ul>
+              )}
+              <form
+                className='flex flex-wrap gap-3 items-end'
+                onSubmit={(e) => {
+                  e.preventDefault()
+                  if (!annoNote.trim()) return
+                  createAnnotation.mutate({
+                    finding_index: annoFindingIndex,
+                    note: annoNote.trim(),
+                  })
+                }}
+              >
+                <div className='grid gap-1.5'>
+                  <Label htmlFor='anno_finding'>Finding</Label>
+                  <select
+                    id='anno_finding'
+                    className='flex h-9 w-24 rounded-md border border-input bg-transparent px-3 py-1 text-sm shadow-sm'
+                    value={annoFindingIndex}
+                    onChange={(e) => setAnnoFindingIndex(Number(e.target.value))}
+                  >
+                    {findings.length === 0 ? (
+                      <option value={0}>0 (general)</option>
+                    ) : (
+                      findings.map((_, i) => (
+                        <option key={i} value={i}>
+                          #{i}
+                        </option>
+                      ))
+                    )}
+                  </select>
+                </div>
+                <div className='grid gap-1.5 flex-1 min-w-[200px]'>
+                  <Label htmlFor='anno_note'>Note</Label>
+                  <Input
+                    id='anno_note'
+                    value={annoNote}
+                    onChange={(e) => setAnnoNote(e.target.value)}
+                    placeholder='Reviewer note…'
+                    disabled={createAnnotation.isPending}
+                  />
+                </div>
+                <Button
+                  type='submit'
+                  disabled={!annoNote.trim() || createAnnotation.isPending}
+                >
+                  {createAnnotation.isPending ? 'Adding…' : 'Add annotation'}
+                </Button>
+              </form>
+              {createAnnotation.isError && (
+                <p className='text-sm text-destructive'>
+                  {createAnnotation.error instanceof Error
+                    ? createAnnotation.error.message
+                    : 'Failed to add annotation'}
+                </p>
+              )}
+            </CardContent>
+          </Card>
         </div>
       </Main>
     </>

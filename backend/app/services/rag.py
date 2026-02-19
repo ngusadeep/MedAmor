@@ -1,8 +1,10 @@
-"""RAG: index Medical_KB markdown into ChromaDB, retrieve context for audit engine.
+"""RAG: index docs (knowledge base) into ChromaDB, retrieve context for audit engine.
 
+Ingests only when new/changed documents exist under medical_kb_path; otherwise skips re-index.
 Uses ChromaDB for vector store; embedding via FastEmbed (bge-small) or OpenAI text-embedding-3-small.
 """
 
+import json
 from pathlib import Path
 
 import chromadb
@@ -39,6 +41,82 @@ def _get_embeddings() -> Embeddings:
 
 def _get_chroma_persist_dir() -> Path:
     return Path(settings.chroma_persist_dir).resolve()
+
+
+MANIFEST_FILENAME = "kb_index_manifest.json"
+
+
+def _manifest_path() -> Path:
+    return _get_chroma_persist_dir() / MANIFEST_FILENAME
+
+
+def _current_doc_signatures(kb_path: Path) -> list[tuple[str, float]]:
+    """Return [(rel_path, mtime), ...] for all .md under kb_path."""
+    out: list[tuple[str, float]] = []
+    if not kb_path.exists():
+        return out
+    for path in kb_path.rglob("*.md"):
+        try:
+            rel = path.relative_to(kb_path)
+            out.append((str(rel).replace("\\", "/"), path.stat().st_mtime))
+        except Exception:
+            continue
+    return sorted(out)
+
+
+def _load_manifest() -> list[tuple[str, float]] | None:
+    """Load stored manifest; return list of (path, mtime) or None if missing/invalid."""
+    p = _manifest_path()
+    if not p.is_file():
+        return None
+    try:
+        data = json.loads(p.read_text(encoding="utf-8"))
+        return [tuple(x) for x in data.get("sources", [])]
+    except Exception:
+        return None
+
+
+def _save_manifest(sources: list[tuple[str, float]]) -> None:
+    """Persist manifest after successful index."""
+    p = _manifest_path()
+    p.parent.mkdir(parents=True, exist_ok=True)
+    p.write_text(
+        json.dumps({"sources": [list(s) for s in sources]}, indent=2),
+        encoding="utf-8",
+    )
+
+
+def needs_reindex() -> bool:
+    """True if KB has new or changed docs compared to last index (or no index yet)."""
+    kb_path = settings.medical_kb_path_resolved
+    current = _current_doc_signatures(kb_path)
+    if not current:
+        return False
+    stored = _load_manifest()
+    if stored is None:
+        return True
+    return set(current) != set(stored)
+
+
+def ensure_indexed() -> dict:
+    """
+    If docs have new/changed files compared to last index, run index_kb(). Else no-op.
+    Call on backend startup so ChromaDB is populated from docs when needed.
+    """
+    if not needs_reindex():
+        return {
+            "indexed": 0,
+            "chunks": 0,
+            "skipped": True,
+            "message": "No new or changed documents",
+        }
+    result = index_kb()
+    if result.get("error"):
+        return result
+    kb_path = settings.medical_kb_path_resolved
+    result["skipped"] = False
+    _save_manifest(_current_doc_signatures(kb_path))
+    return result
 
 
 def _get_chroma_client() -> chromadb.PersistentClient:

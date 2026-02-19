@@ -10,7 +10,7 @@ class JobStatusEnum:
     """Job status values."""
 
     PENDING = "pending"
-    RUNNING = "running"
+    IN_PROGRESS = "in_progress"
     COMPLETED = "completed"
     FAILED = "failed"
 
@@ -38,3 +38,12 @@ class JobResponse(BaseModel):
     error_message: str | None
     created_at: datetime
     updated_at: datetime
+
+
+class JobCreateBatch(BaseModel):
+    """Request body to create multiple audit jobs (one per patient)."""
+
+    patient_ids: list[str]
+    audit_type: str | None = None
+    export_type: str | None = None
+    triggered_by: str | None = None
