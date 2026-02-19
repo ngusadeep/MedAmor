@@ -1,7 +1,7 @@
 import { Link } from '@tanstack/react-router'
 
 export const Logo = () => (
-  <Link to="/landing" className="flex shrink-0 items-center" aria-label="MedAudit home">
+  <Link to="/" className="flex shrink-0 items-center" aria-label="MedAudit home">
   <svg
     fill="none"
     height="32"

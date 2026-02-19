@@ -3,6 +3,7 @@ import { Button } from '@/components/ui/button'
 import { Logo } from '@/components/logo'
 import { NavMenu } from '@/components/nav-menu'
 import { NavigationSheet } from '@/components/navigation-sheet'
+import { ThemeSwitch } from '@/components/theme-switch'
 
 const Navbar = () => {
   return (
@@ -13,7 +14,8 @@ const Navbar = () => {
         {/* Desktop Menu */}
         <NavMenu className="hidden md:block" />
 
-        <div className="flex items-center gap-3">
+        <div className="flex items-center gap-2 sm:gap-3">
+          <ThemeSwitch />
           <Button
             className="hidden rounded-full sm:inline-flex"
             variant="outline"

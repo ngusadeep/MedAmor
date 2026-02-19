@@ -8,8 +8,8 @@ const footerSections = [
   {
     title: 'Product',
     links: [
-      { title: 'Overview', to: '/landing' as const },
-      { title: 'Features', to: '/landing' as const, hash: '#features' },
+      { title: 'Overview', to: '/' },
+      { title: 'Features', to: '/', hash: '#features' },
       { title: 'Audits & reports', to: '/sign-in' },
       { title: 'Patients', to: '/sign-in' },
     ],
@@ -19,7 +19,7 @@ const footerSections = [
     links: [
       { title: 'Sign in', to: '/sign-in' },
       { title: 'Get started', to: '/sign-up' },
-      { title: 'Workflow', to: '/landing' as const, hash: '#how-it-works' },
+      { title: 'Workflow', to: '/', hash: '#how-it-works' },
     ],
   },
 ]
@@ -30,7 +30,7 @@ const Footer = () => {
       <div className="mx-auto max-w-6xl">
         <div className="grid grid-cols-2 gap-x-8 gap-y-10 px-6 py-12 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 xl:grid-cols-7 xl:px-0">
           <div className="col-span-full xl:col-span-2">
-            <Link to="/landing" className="font-semibold text-xl text-foreground">
+            <Link to="/" className="font-semibold text-xl text-foreground">
               MedAudit
             </Link>
             <p className="mt-4 text-muted-foreground">
@@ -77,7 +77,7 @@ const Footer = () => {
         <div className="flex flex-col-reverse items-center justify-between gap-x-2 gap-y-5 px-6 py-8 sm:flex-row xl:px-0">
           <span className="text-muted-foreground">
             &copy; {new Date().getFullYear()}{' '}
-            <Link to="/landing">MedAudit</Link>. All rights reserved.
+            <Link to="/">MedAudit</Link>. All rights reserved.
           </span>
           <div className="flex items-center gap-5 text-muted-foreground">
             <a href="#" target="_blank" rel="noreferrer" aria-label="Twitter">

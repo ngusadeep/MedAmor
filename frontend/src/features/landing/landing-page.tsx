@@ -5,10 +5,10 @@ import {
   FileSearch,
   Shield,
   CalendarCheck,
-  Stethoscope,
   Sparkles,
 } from 'lucide-react'
 import Navbar from '@/components/navbar'
+import Hero from '@/components/hero'
 import Footer from '@/components/footer'
 
 const features = [
@@ -60,43 +60,15 @@ export function LandingPage() {
   return (
     <div className="flex min-h-screen flex-col">
       <Navbar />
-      {/* Hero — replace this block with your shadcn hero component */}
-      <section className="border-b bg-muted/40 pt-28">
-        <div className="mx-auto max-w-6xl px-6 py-20 sm:py-28">
-          <div className="flex flex-col items-center gap-8 text-center">
-            <div className="flex items-center gap-2 rounded-full border bg-background px-4 py-1.5 text-sm text-muted-foreground">
-              <Stethoscope className="h-4 w-4" />
-              <span>Breast cancer screening compliance</span>
-            </div>
-            <h1 className="text-4xl font-bold tracking-tight sm:text-5xl md:text-6xl">
-              AI-assisted medical audits,{' '}
-              <span className="text-primary">guideline-grounded</span>
-            </h1>
-            <p className="max-w-2xl text-lg text-muted-foreground">
-              MedAudit compares patient EHR data against clinical guidelines,
-              produces structured reports with findings and evidence, and keeps
-              human review at the center with annotations and scheduled audits.
-            </p>
-            <div className="flex flex-wrap items-center justify-center gap-4">
-              <Button asChild size="lg">
-                <Link to="/sign-in">Sign in</Link>
-              </Button>
-              <Button asChild variant="outline" size="lg">
-                <Link to="/sign-up">Get started</Link>
-              </Button>
-            </div>
-          </div>
-        </div>
-      </section>
+      <Hero />
 
-      {/* Features — replace with your shadcn block if needed */}
       <section id="features" className="border-b py-20">
         <div className="mx-auto max-w-6xl px-6">
           <div className="mb-12 text-center">
             <h2 className="text-3xl font-bold tracking-tight sm:text-4xl">
               Built for compliance teams
             </h2>
-            <p className="mt-4 max-w-2xl mx-auto text-muted-foreground">
+            <p className="mx-auto mt-4 max-w-2xl text-muted-foreground">
               From single-patient checks to batch and scheduled audits, with one
               pipeline and one report schema.
             </p>
@@ -118,21 +90,20 @@ export function LandingPage() {
         </div>
       </section>
 
-      {/* How it works */}
       <section id="how-it-works" className="border-b bg-muted/30 py-20">
         <div className="mx-auto max-w-6xl px-6">
           <div className="mb-12 text-center">
             <h2 className="text-3xl font-bold tracking-tight sm:text-4xl">
               How it works
             </h2>
-            <p className="mt-4 max-w-2xl mx-auto text-muted-foreground">
+            <p className="mx-auto mt-4 max-w-2xl text-muted-foreground">
               EHR → RAG (guidelines) → AI report. You review and annotate.
             </p>
           </div>
           <div className="grid gap-8 md:grid-cols-3">
             {howItWorks.map(({ step, title, text }) => (
               <div key={step} className="flex flex-col items-center text-center">
-                <div className="flex h-12 w-12 items-center justify-center rounded-full bg-primary text-primary-foreground font-semibold">
+                <div className="flex h-12 w-12 items-center justify-center rounded-full bg-primary font-semibold text-primary-foreground">
                   {step}
                 </div>
                 <h3 className="mt-4 font-semibold">{title}</h3>
@@ -143,7 +114,6 @@ export function LandingPage() {
         </div>
       </section>
 
-      {/* CTA — replace with your shadcn CTA block if needed */}
       <section className="py-20">
         <div className="mx-auto max-w-3xl px-6 text-center">
           <Sparkles className="mx-auto h-12 w-12 text-primary" />

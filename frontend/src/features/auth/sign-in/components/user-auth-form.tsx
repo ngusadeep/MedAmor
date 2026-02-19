@@ -59,11 +59,11 @@ export function UserAuthForm({
         auth.setAccessToken('ok')
       }
       toast.success(`Welcome back, ${data.email}!`)
-      let targetPath = redirectTo ?? '/'
+      let targetPath = redirectTo ?? '/dashboard'
       try {
         if (targetPath.startsWith('http')) targetPath = new URL(targetPath).pathname
       } catch {
-        targetPath = '/'
+        targetPath = '/dashboard'
       }
       navigate({ to: targetPath, replace: true })
     } catch (err) {
