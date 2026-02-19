@@ -1,42 +1,13 @@
 import { Link } from '@tanstack/react-router'
 import { Button } from '@/components/ui/button'
-import {
-  ClipboardCheck,
-  FileSearch,
-  Shield,
-  CalendarCheck,
-  Sparkles,
-} from 'lucide-react'
+import { Sparkles } from 'lucide-react'
 import Navbar from '@/components/navbar'
 import Hero from '@/components/hero'
+import Features from '@/components/features'
+import Stats from '@/components/stats'
+import FAQ from '@/components/faq'
+import Team from '@/components/team'
 import Footer from '@/components/footer'
-
-const features = [
-  {
-    icon: FileSearch,
-    title: 'EHR-driven audits',
-    description:
-      'Compare patient timelines against clinical guidelines. Pull data from your EHR or our demo service.',
-  },
-  {
-    icon: ClipboardCheck,
-    title: 'Structured reports',
-    description:
-      'Get findings, evidence, corrective actions, and next audit dates—ready for review and annotations.',
-  },
-  {
-    icon: Shield,
-    title: 'Guideline-grounded AI',
-    description:
-      'RAG over your Medical KB (e.g. BI-RADS, SOPs). AI answers are grounded in retrievable guidelines.',
-  },
-  {
-    icon: CalendarCheck,
-    title: 'Scheduled reviews',
-    description:
-      'Daily jobs for patients due for review. Never miss a follow-up; human sign-off stays in the loop.',
-  },
-]
 
 const howItWorks = [
   {
@@ -62,33 +33,9 @@ export function LandingPage() {
       <Navbar />
       <Hero />
 
-      <section id="features" className="border-b py-20">
-        <div className="mx-auto max-w-6xl px-6">
-          <div className="mb-12 text-center">
-            <h2 className="text-3xl font-bold tracking-tight sm:text-4xl">
-              Built for compliance teams
-            </h2>
-            <p className="mx-auto mt-4 max-w-2xl text-muted-foreground">
-              From single-patient checks to batch and scheduled audits, with one
-              pipeline and one report schema.
-            </p>
-          </div>
-          <div className="grid gap-8 sm:grid-cols-2 lg:grid-cols-4">
-            {features.map(({ icon: Icon, title, description }) => (
-              <div
-                key={title}
-                className="rounded-lg border bg-card p-6 text-card-foreground shadow-sm"
-              >
-                <Icon className="mb-4 h-10 w-10 text-primary" />
-                <h3 className="font-semibold">{title}</h3>
-                <p className="mt-2 text-sm text-muted-foreground">
-                  {description}
-                </p>
-              </div>
-            ))}
-          </div>
-        </div>
-      </section>
+      <Features />
+
+      <Stats />
 
       <section id="how-it-works" className="border-b bg-muted/30 py-20">
         <div className="mx-auto max-w-6xl px-6">
@@ -113,6 +60,10 @@ export function LandingPage() {
           </div>
         </div>
       </section>
+
+      <FAQ />
+
+      <Team />
 
       <section className="py-20">
         <div className="mx-auto max-w-3xl px-6 text-center">
