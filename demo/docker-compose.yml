@@ -1,4 +1,4 @@
-# MedAudit Demo – Breast Cancer Screening Audit
+# MedArmor Demo – Breast Cancer Screening Audit
 # All config from .env only: copy .env.example to .env and set every variable.
 # Run from demo/:  docker compose up --build
 # One Python image (medaudit-app) for backend, worker, beat, and ehr – built once by medaudit_backend.
@@ -80,7 +80,7 @@ services:
       retries: 5
     restart: unless-stopped
 
-  # ---------- MedAudit backend (AI + backend logic) ----------
+  # ---------- MedArmor backend (AI + backend logic) ----------
   medaudit_db:
     image: postgres:15-alpine
     container_name: medaudit_db

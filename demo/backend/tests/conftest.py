@@ -1,4 +1,4 @@
-"""Pytest fixtures and config for MedAudit backend tests."""
+"""Pytest fixtures and config for MedArmor backend tests."""
 
 import os
 import tempfile

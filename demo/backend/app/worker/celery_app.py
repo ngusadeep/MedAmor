@@ -7,7 +7,7 @@ from app.core.config import settings
 
 # Result backend: use Redis when CELERY_RESULT_BACKEND set, else rpc:// for RabbitMQ.
 celery_app = Celery(
-    "medaudit",
+    "medarmor",
     broker=settings.celery_broker_url,
     backend=settings.celery_result_backend or "rpc://",
     include=["app.worker.tasks"],

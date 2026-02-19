@@ -1,5 +1,5 @@
 /**
- * Jobs and audit reports API for MedAudit dashboard.
+ * Jobs and audit reports API for MedArmor dashboard.
  */
 
 import { apiGet, apiPost } from './api'

@@ -1,6 +1,34 @@
-# MedAudit Demo
+# MedArmor Demo
 
 Self-contained **Breast Cancer Screening Audit** demo: **frontend** (UI) → **backend** (API + audit) → **EHR service** (patient data).
+
+## Run the demo
+
+1. **Env:** Copy `.env.example` to `.env` and set values (e.g. `JWT_SECRET_KEY`). Compose and the backend (when run from `demo/backend`) use `demo/.env`.
+2. From this directory (`demo/`):
+
+```bash
+# If never run before, run docker login
+docker compose up --build
+```
+
+- **App (UI):** http://localhost  
+- **API:** http://localhost/api  
+- **EHR service (internal):** http://localhost:8001 (list/get patients; backend uses http://ehr:8000)
+
+Sign up in the UI, then create a **breast cancer screening audit job** using a patient ID from the patient list (backend gets the list from the EHR service).
+
+## Optional: run from repo root
+
+If you prefer to keep backend/frontend at the repo root and only use this compose:
+
+```bash
+cd /path/to/MedArmor
+docker compose -f demo/docker-compose.yml --project-directory demo up --build
+```
+
+You’ll need to adjust build contexts in `demo/docker-compose.yml` to `../backend`, `../frontend`, etc., or run from `demo` as above.
+
 
 ## Data flow
 
@@ -18,28 +46,3 @@ Self-contained **Breast Cancer Screening Audit** demo: **frontend** (UI) → **b
 | **docs/Medical_KB** | Clinical guidelines (RAG). |
 | **nginx**    | Reverse proxy: /api → backend, / → frontend. |
 
-## Run the demo
-
-1. **Env:** Copy `.env.example` to `.env` and set values (e.g. `JWT_SECRET_KEY`). Compose and the backend (when run from `demo/backend`) use `demo/.env`.
-2. From this directory (`demo/`):
-
-```bash
-docker compose up --build
-```
-
-- **App (UI):** http://localhost  
-- **API:** http://localhost/api  
-- **EHR service (internal):** http://localhost:8001 (list/get patients; backend uses http://ehr:8000)
-
-Sign up in the UI, then create a **breast cancer screening audit job** using a patient ID from the patient list (backend gets the list from the EHR service).
-
-## Optional: run from repo root
-
-If you prefer to keep backend/frontend at the repo root and only use this compose:
-
-```bash
-cd /path/to/MedAudit
-docker compose -f demo/docker-compose.yml --project-directory demo up --build
-```
-
-You’ll need to adjust build contexts in `demo/docker-compose.yml` to `../backend`, `../frontend`, etc., or run from `demo` as above.

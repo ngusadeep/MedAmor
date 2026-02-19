@@ -1,6 +1,6 @@
-# MedAudit Backend
+# MedArmor Backend
 
-FastAPI backend for the MedAudit **Breast Cancer Screening Audit** system (EHR + RAG + AI reports).
+FastAPI backend for the MedArmor **Breast Cancer Screening Audit** system (EHR + RAG + AI reports).
 
 ## Setup
 

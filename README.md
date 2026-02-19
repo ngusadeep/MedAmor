@@ -27,7 +27,7 @@ docker compose up --build
 - **App:** <http://localhost> (nginx → frontend + `/api` → backend)
 - **Sign up** via the UI, then log in and create a **breast cancer screening audit job** (patient ID).
 
-Optional platform/HAPI services (different app) are behind profiles and do not start by default:
+Optional platform/HAPI services (platform/test FHIR/EHR server) are behind profiles and do not start by default:
 
 ```bash
 docker compose --profile platform --profile hapi up --build
