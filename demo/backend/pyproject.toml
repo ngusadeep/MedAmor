@@ -1,5 +1,5 @@
 [project]
-name = "medarmor-backend"
+name = "medaudit-backend"
 version = "0.1.0"
 description = "Backend API for MedArmor medical audit system"
 requires-python = ">=3.12"
