@@ -1,5 +1,5 @@
 /**
- * MedAudit API base. Uses credentials: 'include' for cookie auth.
+ * MedArmor API base. Uses credentials: 'include' for cookie auth.
  */
 
 const getBaseUrl = () => {

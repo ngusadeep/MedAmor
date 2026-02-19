@@ -1,5 +1,5 @@
 """
-MedAudit Backend API
+MedArmor Backend API
 FastAPI application for medical audit system.
 """
 
@@ -27,7 +27,7 @@ async def lifespan(app: FastAPI):
 
 
 app = FastAPI(
-    title="MedAudit Backend API",
+    title="MedArmor Backend API",
     description="Medical audit system backend — jobs, audit reports, mock EHR",
     version="0.1.0",
     lifespan=lifespan,
@@ -51,7 +51,7 @@ app.include_router(rag.router, prefix="/api")
 
 @app.get("/")
 def root():
-    return {"message": "MedAudit Backend API", "status": "running"}
+    return {"message": "MedArmor Backend API", "status": "running"}
 
 
 @app.get("/health")

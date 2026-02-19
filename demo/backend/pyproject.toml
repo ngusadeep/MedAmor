@@ -1,7 +1,7 @@
 [project]
-name = "medaudit-backend"
+name = "medarmor-backend"
 version = "0.1.0"
-description = "Backend API for MedAudit medical audit system"
+description = "Backend API for MedArmor medical audit system"
 requires-python = ">=3.12"
 dependencies = [
     # API
