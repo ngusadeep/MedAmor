@@ -1,0 +1,1257 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Mrs. Morgan564 Theressa101 Barton704
+  Patient ID: 116435
+  Date of Birth: 1972-02-19
+  Gender: Female
+  Race: White
+  Ethnicity: Not Hispanic or Latino
+  Marital Status: Married
+  Address: 859 Simonis Rue, Woburn, MA 01890
+  Phone: 555-786-9784
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2014-09-04
+
+  [23:49:54] VISIT: Periodic reevaluation and management of healthy individual (procedure)
+    Reason: Screening for malignant neoplasm of breast (procedure)
+    Provider: Dr. Chun678 Armstrong51
+    Location: MASSACHUSETTS EYE AND EAR INFIRMARY -
+    Duration: 23:49:54 - 19:08:47
+
+  [23:49:54] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2014-09-04
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Morgan564 Theressa101 is a 42 year-old nonhispanic white female.
+      # Social History
+
+  [23:49:54] DOCUMENT: History and physical note
+    Status: superseded
+
+
+📅 2014-09-05
+
+  [01:05:47] CONDITION: Malignant neoplasm of breast (disorder) (active)
+
+
+📅 2014-09-06
+
+  [19:08:47] CLAIM: professional
+    Amount: USD 4266.84
+
+
+📅 2016-02-20
+
+  [16:07:20] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Chun678 Armstrong51
+    Location: MASSACHUSETTS EYE AND EAR INFIRMARY -
+    Duration: 16:07:20 - 16:50:12
+
+  [16:07:20] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [16:07:20] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-02-20
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Morgan564 Theressa101 is a 44 year-old nonhispanic white female.
+      # Social History
+
+  [16:07:20] DOCUMENT: History and physical note
+    Status: superseded
+
+  [16:50:12] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2016-03-05
+
+  [22:49:54] VISIT: General examination of patient (procedure)
+    Provider: Dr. Georgianne697 Howe413
+    Location: WOODLAND INTERNISTS, P.C.
+    Duration: 22:49:54 - 23:04:54
+
+  [22:49:54] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [22:49:54] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-03-05
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Morgan564 Theressa101 is a 44 year-old nonhispanic white female.
+      # Social History
+
+  [22:49:54] DOCUMENT: History and physical note
+    Status: superseded
+
+  [23:04:54] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2016-06-24
+
+  [17:50:12] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Chun678 Armstrong51
+    Location: MASSACHUSETTS EYE AND EAR INFIRMARY -
+    Duration: 17:50:12 - 18:26:52
+
+  [17:50:12] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [17:50:12] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-06-24
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Morgan564 Theressa101 is a 44 year-old nonhispanic white female.
+      # Social History
+
+  [17:50:12] DOCUMENT: History and physical note
+    Status: superseded
+
+  [18:26:52] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2016-10-23
+
+  [18:26:52] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Chun678 Armstrong51
+    Location: MASSACHUSETTS EYE AND EAR INFIRMARY -
+    Duration: 18:26:52 - 19:03:43
+
+  [18:26:52] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [18:26:52] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-10-23
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Morgan564 Theressa101 is a 44 year-old nonhispanic white female.
+      # Social History
+
+  [18:26:52] DOCUMENT: History and physical note
+    Status: superseded
+
+  [19:03:43] CLAIM: professional
+    Amount: USD 573.98
+
+  [19:03:43] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Chun678 Armstrong51
+    Location: MASSACHUSETTS EYE AND EAR INFIRMARY -
+    Duration: 19:03:43 - 19:27:43
+
+  [19:03:43] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [19:03:43] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-10-23
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Morgan564 Theressa101 is a 44 year-old nonhispanic white female.
+      # Social History
+
+  [19:03:43] DOCUMENT: History and physical note
+    Status: superseded
+
+  [19:27:43] CLAIM: professional
+    Amount: USD 215.31
+
+  [19:27:43] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Chun678 Armstrong51
+    Location: MASSACHUSETTS EYE AND EAR INFIRMARY -
+    Duration: 19:27:43 - 19:54:21
+
+  [19:27:43] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [19:27:43] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-10-23
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Morgan564 Theressa101 is a 44 year-old nonhispanic white female.
+      # Social History
+
+  [19:27:43] DOCUMENT: History and physical note
+    Status: superseded
+
+  [19:42:38] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [19:54:21] OBSERVATION: Response to cancer treatment: Improving (qualifier value)
+
+  [19:54:21] CLAIM: professional
+    Amount: USD 1265.46
+
+
+📅 2017-02-16
+
+  [18:54:21] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Chun678 Armstrong51
+    Location: MASSACHUSETTS EYE AND EAR INFIRMARY -
+    Duration: 18:54:21 - 19:29:19
+
+  [18:54:21] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [18:54:21] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-02-16
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Morgan564 Theressa101 is a 44 year-old nonhispanic white female.
+      # Social History
+
+  [18:54:21] DOCUMENT: History and physical note
+    Status: superseded
+
+  [19:29:19] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2017-06-21
+
+  [20:29:19] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Chun678 Armstrong51
+    Location: MASSACHUSETTS EYE AND EAR INFIRMARY -
+    Duration: 20:29:19 - 21:08:54
+
+  [20:29:19] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [20:29:19] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-06-21
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Morgan564 Theressa101 is a 45 year-old nonhispanic white female.
+      # Social History
+
+  [20:29:19] DOCUMENT: History and physical note
+    Status: superseded
+
+  [21:08:54] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2017-10-20
+
+  [21:08:54] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Chun678 Armstrong51
+    Location: MASSACHUSETTS EYE AND EAR INFIRMARY -
+    Duration: 21:08:54 - 21:53:16
+
+  [21:08:54] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [21:08:54] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-10-20
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Morgan564 Theressa101 is a 45 year-old nonhispanic white female.
+      # Social History
+
+  [21:08:54] DOCUMENT: History and physical note
+    Status: superseded
+
+  [21:53:16] CLAIM: professional
+    Amount: USD 573.98
+
+  [21:53:16] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Chun678 Armstrong51
+    Location: MASSACHUSETTS EYE AND EAR INFIRMARY -
+    Duration: 21:53:16 - 22:10:38
+
+  [21:53:16] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [21:53:16] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-10-20
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Morgan564 Theressa101 is a 45 year-old nonhispanic white female.
+      # Social History
+
+  [21:53:16] DOCUMENT: History and physical note
+    Status: superseded
+
+  [22:10:38] CLAIM: professional
+    Amount: USD 211.60
+
+  [22:10:38] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Chun678 Armstrong51
+    Location: MASSACHUSETTS EYE AND EAR INFIRMARY -
+    Duration: 22:10:38 - 22:41:25
+
+  [22:10:38] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [22:10:38] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-10-20
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Morgan564 Theressa101 is a 45 year-old nonhispanic white female.
+      # Social History
+
+  [22:10:38] DOCUMENT: History and physical note
+    Status: superseded
+
+  [22:25:25] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [22:41:25] OBSERVATION: Response to cancer treatment: Improving (qualifier value)
+
+  [22:41:25] CLAIM: professional
+    Amount: USD 2390.15
+
+
+📅 2018-02-11
+
+  [21:41:25] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Chun678 Armstrong51
+    Location: MASSACHUSETTS EYE AND EAR INFIRMARY -
+    Duration: 21:41:25 - 22:16:50
+
+  [21:41:25] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [21:41:25] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-02-11
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Morgan564 Theressa101 is a 45 year-old nonhispanic white female.
+      # Social History
+
+  [21:41:25] DOCUMENT: History and physical note
+    Status: superseded
+
+  [22:16:50] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2018-03-10
+
+  [22:49:54] VISIT: General examination of patient (procedure)
+    Provider: Dr. Georgianne697 Howe413
+    Location: WOODLAND INTERNISTS, P.C.
+    Duration: 22:49:54 - 23:04:54
+
+  [22:49:54] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [22:49:54] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-03-10
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Morgan564 Theressa101 is a 46 year-old nonhispanic white female.
+      # Social History
+
+  [22:49:54] DOCUMENT: History and physical note
+    Status: superseded
+
+  [23:04:54] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2018-05-23
+
+  [23:16:50] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Chun678 Armstrong51
+    Location: MASSACHUSETTS EYE AND EAR INFIRMARY -
+    Duration: 23:16:50 - 23:52:39
+
+  [23:16:50] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [23:16:50] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-05-23
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Morgan564 Theressa101 is a 46 year-old nonhispanic white female.
+      # Social History
+
+  [23:16:50] DOCUMENT: History and physical note
+    Status: superseded
+
+  [23:52:39] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2018-09-09
+
+  [23:52:39] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Chun678 Armstrong51
+    Location: MASSACHUSETTS EYE AND EAR INFIRMARY -
+    Duration: 23:52:39 - 00:31:48
+
+  [23:52:39] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [23:52:39] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-09-09
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Morgan564 Theressa101 is a 46 year-old nonhispanic white female.
+      # Social History
+
+  [23:52:39] DOCUMENT: History and physical note
+    Status: superseded
+
+
+📅 2018-09-10
+
+  [00:31:48] CLAIM: professional
+    Amount: USD 573.98
+
+  [00:31:48] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Chun678 Armstrong51
+    Location: MASSACHUSETTS EYE AND EAR INFIRMARY -
+    Duration: 00:31:48 - 00:48:14
+
+  [00:31:48] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [00:31:48] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-09-10
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Morgan564 Theressa101 is a 46 year-old nonhispanic white female.
+      # Social History
+
+  [00:31:48] DOCUMENT: History and physical note
+    Status: superseded
+
+  [00:48:14] CLAIM: professional
+    Amount: USD 211.60
+
+  [00:48:14] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Chun678 Armstrong51
+    Location: MASSACHUSETTS EYE AND EAR INFIRMARY -
+    Duration: 00:48:14 - 01:22:23
+
+  [00:48:14] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [00:48:14] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-09-10
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Morgan564 Theressa101 is a 46 year-old nonhispanic white female.
+      # Social History
+
+  [00:48:14] DOCUMENT: History and physical note
+    Status: superseded
+
+  [01:02:52] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [01:22:23] OBSERVATION: Response to cancer treatment: Improving (qualifier value)
+
+  [01:22:23] CLAIM: professional
+    Amount: USD 1379.91
+
+
+📅 2019-01-02
+
+  [00:22:23] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Chun678 Armstrong51
+    Location: MASSACHUSETTS EYE AND EAR INFIRMARY -
+    Duration: 00:22:23 - 01:01:42
+
+  [00:22:23] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [00:22:23] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-01-02
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Morgan564 Theressa101 is a 46 year-old nonhispanic white female.
+      # Social History
+
+  [00:22:23] DOCUMENT: History and physical note
+    Status: superseded
+
+  [01:01:42] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2019-04-19
+
+  [02:01:42] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Chun678 Armstrong51
+    Location: MASSACHUSETTS EYE AND EAR INFIRMARY -
+    Duration: 02:01:42 - 02:33:12
+
+  [02:01:42] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [02:01:42] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-04-19
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Morgan564 Theressa101 is a 47 year-old nonhispanic white female.
+      # Social History
+
+  [02:01:42] DOCUMENT: History and physical note
+    Status: superseded
+
+  [02:33:12] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2019-08-12
+
+  [02:33:12] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Chun678 Armstrong51
+    Location: MASSACHUSETTS EYE AND EAR INFIRMARY -
+    Duration: 02:33:12 - 03:16:11
+
+  [02:33:12] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [02:33:12] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-08-12
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Morgan564 Theressa101 is a 47 year-old nonhispanic white female.
+      # Social History
+
+  [02:33:12] DOCUMENT: History and physical note
+    Status: superseded
+
+  [03:16:11] CLAIM: professional
+    Amount: USD 573.98
+
+  [03:16:11] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Chun678 Armstrong51
+    Location: MASSACHUSETTS EYE AND EAR INFIRMARY -
+    Duration: 03:16:11 - 03:32:08
+
+  [03:16:11] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [03:16:11] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-08-12
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Morgan564 Theressa101 is a 47 year-old nonhispanic white female.
+      # Social History
+
+  [03:16:11] DOCUMENT: History and physical note
+    Status: superseded
+
+  [03:32:08] CLAIM: professional
+    Amount: USD 229.73
+
+  [03:32:08] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Chun678 Armstrong51
+    Location: MASSACHUSETTS EYE AND EAR INFIRMARY -
+    Duration: 03:32:08 - 03:57:42
+
+  [03:32:08] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [03:32:08] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-08-12
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Morgan564 Theressa101 is a 47 year-old nonhispanic white female.
+      # Social History
+
+  [03:32:08] DOCUMENT: History and physical note
+    Status: superseded
+
+  [03:44:29] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [03:57:42] CLAIM: professional
+    Amount: USD 3809.48
+
+
+📅 2020-03-14
+
+  [23:49:54] VISIT: General examination of patient (procedure)
+    Provider: Dr. Georgianne697 Howe413
+    Location: WOODLAND INTERNISTS, P.C.
+    Duration: 23:49:54 - 00:04:54
+
+  [23:49:54] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [23:49:54] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-03-14
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Morgan564 Theressa101 is a 48 year-old nonhispanic white female.
+      # Social History
+
+  [23:49:54] DOCUMENT: History and physical note
+    Status: superseded
+
+
+📅 2020-03-15
+
+  [00:04:54] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2020-08-05
+
+  [03:57:42] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Chun678 Armstrong51
+    Location: MASSACHUSETTS EYE AND EAR INFIRMARY -
+    Duration: 03:57:42 - 04:42:10
+
+  [03:57:42] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [03:57:42] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-08-05
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Morgan564 Theressa101 is a 48 year-old nonhispanic white female.
+      # Social History
+
+  [03:57:42] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:42:10] CLAIM: professional
+    Amount: USD 573.98
+
+  [04:42:10] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Chun678 Armstrong51
+    Location: MASSACHUSETTS EYE AND EAR INFIRMARY -
+    Duration: 04:42:10 - 05:01:30
+
+  [04:42:10] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [04:42:10] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-08-05
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Morgan564 Theressa101 is a 48 year-old nonhispanic white female.
+      # Social History
+
+  [04:42:10] DOCUMENT: History and physical note
+    Status: superseded
+
+  [05:01:30] CLAIM: professional
+    Amount: USD 211.60
+
+  [05:01:30] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Chun678 Armstrong51
+    Location: MASSACHUSETTS EYE AND EAR INFIRMARY -
+    Duration: 05:01:30 - 05:30:44
+
+  [05:01:30] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [05:01:30] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-08-05
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Morgan564 Theressa101 is a 48 year-old nonhispanic white female.
+      # Social History
+
+  [05:01:30] DOCUMENT: History and physical note
+    Status: superseded
+
+  [05:14:09] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [05:30:44] CLAIM: professional
+    Amount: USD 1130.10
+
+
+📅 2021-07-26
+
+  [05:30:44] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Chun678 Armstrong51
+    Location: MASSACHUSETTS EYE AND EAR INFIRMARY -
+    Duration: 05:30:44 - 06:07:33
+
+  [05:30:44] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [05:30:44] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-07-26
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Morgan564 Theressa101 is a 49 year-old nonhispanic white female.
+      # Social History
+
+  [05:30:44] DOCUMENT: History and physical note
+    Status: superseded
+
+  [06:07:33] CLAIM: professional
+    Amount: USD 573.98
+
+  [06:07:33] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Chun678 Armstrong51
+    Location: MASSACHUSETTS EYE AND EAR INFIRMARY -
+    Duration: 06:07:33 - 06:32:19
+
+  [06:07:33] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [06:07:33] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-07-26
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Morgan564 Theressa101 is a 49 year-old nonhispanic white female.
+      # Social History
+
+  [06:07:33] DOCUMENT: History and physical note
+    Status: superseded
+
+  [06:32:19] CLAIM: professional
+    Amount: USD 247.86
+
+  [06:32:19] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Chun678 Armstrong51
+    Location: MASSACHUSETTS EYE AND EAR INFIRMARY -
+    Duration: 06:32:19 - 07:06:02
+
+  [06:32:19] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [06:32:19] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-07-26
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Morgan564 Theressa101 is a 49 year-old nonhispanic white female.
+      # Social History
+
+  [06:32:19] DOCUMENT: History and physical note
+    Status: superseded
+
+  [06:46:41] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [07:06:02] CLAIM: professional
+    Amount: USD 1221.08
+
+
+📅 2022-02-19
+
+  [22:49:54] VISIT: General examination of patient (procedure)
+    Provider: Dr. Georgianne697 Howe413
+    Location: WOODLAND INTERNISTS, P.C.
+    Duration: 22:49:54 - 23:04:54
+
+  [22:49:54] IMMUNIZATION: zoster vaccine, live
+    Status: completed
+
+  [22:49:54] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [22:49:54] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-02-19
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Morgan564 Theressa101 is a 50 year-old nonhispanic white female.
+      # Social History
+
+  [22:49:54] DOCUMENT: History and physical note
+    Status: superseded
+
+  [23:04:54] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2022-07-27
+
+  [07:06:02] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Chun678 Armstrong51
+    Location: MASSACHUSETTS EYE AND EAR INFIRMARY -
+    Duration: 07:06:02 - 07:45:21
+
+  [07:06:02] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [07:06:02] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-07-27
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Morgan564 Theressa101 is a 50 year-old nonhispanic white female.
+      # Social History
+
+  [07:06:02] DOCUMENT: History and physical note
+    Status: superseded
+
+  [07:45:21] CLAIM: professional
+    Amount: USD 573.98
+
+  [07:45:21] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Chun678 Armstrong51
+    Location: MASSACHUSETTS EYE AND EAR INFIRMARY -
+    Duration: 07:45:21 - 08:09:39
+
+  [07:45:21] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [07:45:21] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-07-27
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Morgan564 Theressa101 is a 50 year-old nonhispanic white female.
+      # Social History
+
+  [07:45:21] DOCUMENT: History and physical note
+    Status: superseded
+
+  [08:09:39] CLAIM: professional
+    Amount: USD 223.04
+
+  [08:09:39] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Chun678 Armstrong51
+    Location: MASSACHUSETTS EYE AND EAR INFIRMARY -
+    Duration: 08:09:39 - 08:39:16
+
+  [08:09:39] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [08:09:39] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-07-27
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Morgan564 Theressa101 is a 50 year-old nonhispanic white female.
+      # Social History
+
+  [08:09:39] DOCUMENT: History and physical note
+    Status: superseded
+
+  [08:21:35] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [08:39:16] CLAIM: professional
+    Amount: USD 1144.19
+
+
+📅 2023-02-25
+
+  [22:49:54] VISIT: General examination of patient (procedure)
+    Provider: Dr. Georgianne697 Howe413
+    Location: WOODLAND INTERNISTS, P.C.
+    Duration: 22:49:54 - 23:04:54
+
+  [22:49:54] IMMUNIZATION: zoster vaccine, live
+    Status: completed
+
+  [22:49:54] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [22:49:54] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [22:49:54] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-02-25
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Morgan564 Theressa101 is a 51 year-old nonhispanic white female.
+      # Social History
+
+  [22:49:54] DOCUMENT: History and physical note
+    Status: superseded
+
+  [23:04:54] CLAIM: professional
+    Amount: USD 544.80
+
+
+📅 2023-08-04
+
+  [08:39:16] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Chun678 Armstrong51
+    Location: MASSACHUSETTS EYE AND EAR INFIRMARY -
+    Duration: 08:39:16 - 09:20:27
+
+  [08:39:16] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [08:39:16] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-08-04
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Morgan564 Theressa101 is a 51 year-old nonhispanic white female.
+      # Social History
+
+  [08:39:16] DOCUMENT: History and physical note
+    Status: superseded
+
+  [09:20:27] CLAIM: professional
+    Amount: USD 573.98
+
+  [09:20:27] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Chun678 Armstrong51
+    Location: MASSACHUSETTS EYE AND EAR INFIRMARY -
+    Duration: 09:20:27 - 09:44:56
+
+  [09:20:27] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [09:20:27] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-08-04
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Morgan564 Theressa101 is a 51 year-old nonhispanic white female.
+      # Social History
+
+  [09:20:27] DOCUMENT: History and physical note
+    Status: superseded
+
+  [09:44:56] CLAIM: professional
+    Amount: USD 211.60
+
+  [09:44:56] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Chun678 Armstrong51
+    Location: MASSACHUSETTS EYE AND EAR INFIRMARY -
+    Duration: 09:44:56 - 10:11:40
+
+  [09:44:56] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [09:44:56] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-08-04
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Morgan564 Theressa101 is a 51 year-old nonhispanic white female.
+      # Social History
+
+  [09:44:56] DOCUMENT: History and physical note
+    Status: superseded
+
+  [09:59:01] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [10:11:40] CLAIM: professional
+    Amount: USD 1221.08
+
+
+📅 2024-03-02
+
+  [22:49:54] VISIT: General examination of patient (procedure)
+    Provider: Dr. Georgianne697 Howe413
+    Location: WOODLAND INTERNISTS, P.C.
+    Duration: 22:49:54 - 23:04:54
+
+  [22:49:54] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [22:49:54] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-03-02
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Morgan564 Theressa101 is a 52 year-old nonhispanic white female.
+      # Social History
+
+  [22:49:54] DOCUMENT: History and physical note
+    Status: superseded
+
+  [23:04:54] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2024-08-14
+
+  [10:11:40] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Chun678 Armstrong51
+    Location: MASSACHUSETTS EYE AND EAR INFIRMARY -
+    Duration: 10:11:40 - 10:43:29
+
+  [10:11:40] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [10:11:40] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-08-14
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Morgan564 Theressa101 is a 52 year-old nonhispanic white female.
+      # Social History
+
+  [10:11:40] DOCUMENT: History and physical note
+    Status: superseded
+
+  [10:43:29] CLAIM: professional
+    Amount: USD 573.98
+
+  [10:43:29] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Chun678 Armstrong51
+    Location: MASSACHUSETTS EYE AND EAR INFIRMARY -
+    Duration: 10:43:29 - 11:02:10
+
+  [10:43:29] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [10:43:29] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-08-14
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Morgan564 Theressa101 is a 52 year-old nonhispanic white female.
+      # Social History
+
+  [10:43:29] DOCUMENT: History and physical note
+    Status: superseded
+
+  [11:02:10] CLAIM: professional
+    Amount: USD 300.26
+
+  [11:02:10] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Chun678 Armstrong51
+    Location: MASSACHUSETTS EYE AND EAR INFIRMARY -
+    Duration: 11:02:10 - 11:31:01
+
+  [11:02:10] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [11:02:10] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-08-14
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Morgan564 Theressa101 is a 52 year-old nonhispanic white female.
+      # Social History
+
+  [11:02:10] DOCUMENT: History and physical note
+    Status: superseded
+
+  [11:14:15] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [11:31:01] CLAIM: professional
+    Amount: USD 3680.06
+
+
+📅 2025-03-08
+
+  [22:49:54] VISIT: General examination of patient (procedure)
+    Provider: Dr. Georgianne697 Howe413
+    Location: WOODLAND INTERNISTS, P.C.
+    Duration: 22:49:54 - 23:04:54
+
+  [22:49:54] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [22:49:54] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-03-08
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Morgan564 Theressa101 is a 53 year-old nonhispanic white female.
+      # Social History
+
+  [22:49:54] DOCUMENT: History and physical note
+    Status: superseded
+
+  [23:04:54] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2025-08-15
+
+  [11:31:01] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Chun678 Armstrong51
+    Location: Patient's Home
+    Duration: 11:31:01 - 12:03:16
+
+  [11:31:01] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [11:31:01] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-08-15
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Morgan564 Theressa101 is a 53 year-old nonhispanic white female.
+      # Social History
+
+  [11:31:01] DOCUMENT: History and physical note
+    Status: superseded
+
+  [12:03:16] CLAIM: institutional
+    Amount: USD 556.40
+
+  [12:03:16] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Chun678 Armstrong51
+    Location: MASSACHUSETTS EYE AND EAR INFIRMARY -
+    Duration: 12:03:16 - 12:18:18
+
+  [12:03:16] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [12:03:16] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-08-15
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Morgan564 Theressa101 is a 53 year-old nonhispanic white female.
+      # Social History
+
+  [12:03:16] DOCUMENT: History and physical note
+    Status: superseded
+
+  [12:18:18] CLAIM: professional
+    Amount: USD 211.60
+
+  [12:18:18] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Chun678 Armstrong51
+    Location: MASSACHUSETTS EYE AND EAR INFIRMARY -
+    Duration: 12:18:18 - 12:43:41
+
+  [12:18:18] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [12:18:18] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-08-15
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Morgan564 Theressa101 is a 53 year-old nonhispanic white female.
+      # Social History
+
+  [12:18:18] DOCUMENT: History and physical note
+    Status: current
+
+  [12:30:55] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [12:43:41] CLAIM: professional
+    Amount: USD 3809.48
+
+
+📅 2026-02-14
+
+  [22:49:54] PROVENANCE: Record activity
+    Agents: Dr. Chun678 Armstrong51, Dr. Chun678 Armstrong51
+
+================================================================================
+END OF TIMELINE (247 events)
+================================================================================

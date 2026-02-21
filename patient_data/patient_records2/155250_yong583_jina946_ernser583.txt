@@ -1,0 +1,973 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Mrs. Yong583 Jina946 Ernser583
+  Patient ID: 155250
+  Date of Birth: 1981-03-19
+  Gender: Female
+  Race: White
+  Ethnicity: Not Hispanic or Latino
+  Marital Status: Married
+  Address: 898 Bahringer Run Suite 21, Cohasset, MA 00000
+  Phone: 555-752-4132
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 1996-10-10
+
+  [13:47:41] VISIT: Periodic reevaluation and management of healthy individual (procedure)
+    Reason: Screening for malignant neoplasm of breast (procedure)
+    Provider: Dr. Cira533 Hane680
+    Location: DANA FARBER CANCER INSTITUTE
+    Duration: 13:47:41 - 13:25:29
+
+  [13:47:41] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      1996-10-10
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Yong583 Jina946 is a 15 year-old nonhispanic white female.
+      # Social History
+
+  [13:47:41] DOCUMENT: History and physical note
+    Status: superseded
+
+  [14:51:29] CONDITION: Malignant neoplasm of breast (disorder) (active)
+
+
+📅 1996-10-12
+
+  [13:25:29] CLAIM: professional
+    Amount: USD 5644.61
+
+
+📅 2016-05-17
+
+  [19:05:21] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Cira533 Hane680
+    Location: DANA FARBER CANCER INSTITUTE
+    Duration: 19:05:21 - 19:48:18
+
+  [19:05:21] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [19:05:21] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-05-17
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Yong583 Jina946 is a 35 year-old nonhispanic white female.
+      # Social History
+
+  [19:05:21] DOCUMENT: History and physical note
+    Status: superseded
+
+  [19:48:18] CLAIM: professional
+    Amount: USD 573.98
+
+  [19:48:18] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Cira533 Hane680
+    Location: DANA FARBER CANCER INSTITUTE
+    Duration: 19:48:18 - 20:13:17
+
+  [19:48:18] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [19:48:18] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-05-17
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Yong583 Jina946 is a 35 year-old nonhispanic white female.
+      # Social History
+
+  [19:48:18] DOCUMENT: History and physical note
+    Status: superseded
+
+  [20:13:17] CLAIM: professional
+    Amount: USD 325.49
+
+  [20:13:17] VISIT: Follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Cira533 Hane680
+    Location: DANA FARBER CANCER INSTITUTE
+    Duration: 20:13:17 - 20:28:17
+
+  [20:13:17] PROCEDURE: Bone density scan (procedure)
+    Status: completed
+
+  [20:13:17] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-05-17
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Yong583 Jina946 is a 35 year-old nonhispanic white female.
+      # Social History
+
+  [20:13:17] DOCUMENT: History and physical note
+    Status: superseded
+
+  [20:28:17] CLAIM: professional
+    Amount: USD 4181.24
+
+
+📅 2017-04-22
+
+  [20:25:42] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Cira533 Hane680
+    Location: DANA FARBER CANCER INSTITUTE
+    Duration: 20:25:42 - 21:01:54
+
+  [20:25:42] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [20:25:42] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-04-22
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Yong583 Jina946 is a 36 year-old nonhispanic white female.
+      # Social History
+
+  [20:25:42] DOCUMENT: History and physical note
+    Status: superseded
+
+  [21:01:54] CLAIM: professional
+    Amount: USD 573.98
+
+  [21:01:54] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Cira533 Hane680
+    Location: DANA FARBER CANCER INSTITUTE
+    Duration: 21:01:54 - 21:19:27
+
+  [21:01:54] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [21:01:54] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-04-22
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Yong583 Jina946 is a 36 year-old nonhispanic white female.
+      # Social History
+
+  [21:01:54] DOCUMENT: History and physical note
+    Status: superseded
+
+  [21:19:27] CLAIM: professional
+    Amount: USD 243.58
+
+  [21:19:27] VISIT: Follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Cira533 Hane680
+    Location: DANA FARBER CANCER INSTITUTE
+    Duration: 21:19:27 - 21:44:25
+
+  [21:19:27] PROCEDURE: Bone density scan (procedure)
+    Status: completed
+
+  [21:19:27] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-04-22
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Yong583 Jina946 is a 36 year-old nonhispanic white female.
+      # Social History
+
+  [21:19:27] DOCUMENT: History and physical note
+    Status: superseded
+
+  [21:44:25] CLAIM: professional
+    Amount: USD 4181.24
+
+
+📅 2018-04-17
+
+  [21:44:25] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Cira533 Hane680
+    Location: DANA FARBER CANCER INSTITUTE
+    Duration: 21:44:25 - 22:22:09
+
+  [21:44:25] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [21:44:25] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-04-17
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Yong583 Jina946 is a 37 year-old nonhispanic white female.
+      # Social History
+
+  [21:44:25] DOCUMENT: History and physical note
+    Status: superseded
+
+  [22:22:09] CLAIM: professional
+    Amount: USD 573.98
+
+  [22:22:09] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Cira533 Hane680
+    Location: DANA FARBER CANCER INSTITUTE
+    Duration: 22:22:09 - 22:43:45
+
+  [22:22:09] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [22:22:09] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-04-17
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Yong583 Jina946 is a 37 year-old nonhispanic white female.
+      # Social History
+
+  [22:22:09] DOCUMENT: History and physical note
+    Status: superseded
+
+  [22:43:45] CLAIM: professional
+    Amount: USD 318.76
+
+  [22:43:45] VISIT: Follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Cira533 Hane680
+    Location: DANA FARBER CANCER INSTITUTE
+    Duration: 22:43:45 - 23:11:51
+
+  [22:43:45] PROCEDURE: Bone density scan (procedure)
+    Status: completed
+
+  [22:43:45] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-04-17
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Yong583 Jina946 is a 37 year-old nonhispanic white female.
+      # Social History
+
+  [22:43:45] DOCUMENT: History and physical note
+    Status: superseded
+
+  [23:11:51] CLAIM: professional
+    Amount: USD 4181.24
+
+
+📅 2018-06-07
+
+  [13:47:41] VISIT: General examination of patient (procedure)
+    Provider: Dr. Karlene380 O'Keefe54
+    Location: MANET COMMUNITY HEALTH CENTER, INC.
+    Duration: 13:47:41 - 14:02:41
+
+  [13:47:41] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [13:47:41] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-06-07
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Yong583 Jina946 is a 37 year-old nonhispanic white female.
+      # Social History
+
+  [13:47:41] DOCUMENT: History and physical note
+    Status: superseded
+
+  [14:02:41] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2019-04-20
+
+  [23:11:51] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Cira533 Hane680
+    Location: DANA FARBER CANCER INSTITUTE
+    Duration: 23:11:51 - 23:46:29
+
+  [23:11:51] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [23:11:51] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-04-20
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Yong583 Jina946 is a 38 year-old nonhispanic white female.
+      # Social History
+
+  [23:11:51] DOCUMENT: History and physical note
+    Status: superseded
+
+  [23:46:29] CLAIM: professional
+    Amount: USD 573.98
+
+  [23:46:29] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Cira533 Hane680
+    Location: DANA FARBER CANCER INSTITUTE
+    Duration: 23:46:29 - 00:07:06
+
+  [23:46:29] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [23:46:29] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-04-20
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Yong583 Jina946 is a 38 year-old nonhispanic white female.
+      # Social History
+
+  [23:46:29] DOCUMENT: History and physical note
+    Status: superseded
+
+
+📅 2019-04-21
+
+  [00:07:06] CLAIM: professional
+    Amount: USD 211.71
+
+  [00:07:06] VISIT: Follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Cira533 Hane680
+    Location: DANA FARBER CANCER INSTITUTE
+    Duration: 00:07:06 - 00:22:06
+
+  [00:07:06] PROCEDURE: Bone density scan (procedure)
+    Status: completed
+
+  [00:07:06] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-04-21
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Yong583 Jina946 is a 38 year-old nonhispanic white female.
+      # Social History
+
+  [00:07:06] DOCUMENT: History and physical note
+    Status: superseded
+
+  [00:22:06] CLAIM: professional
+    Amount: USD 12037.37
+
+
+📅 2020-04-10
+
+  [00:20:15] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Cira533 Hane680
+    Location: Patient's Home
+    Duration: 00:20:15 - 00:53:17
+
+  [00:20:15] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [00:20:15] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-04-10
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Yong583 Jina946 is a 39 year-old nonhispanic white female.
+      # Social History
+
+  [00:20:15] DOCUMENT: History and physical note
+    Status: superseded
+
+  [00:53:17] CLAIM: institutional
+    Amount: USD 556.40
+
+  [00:53:17] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Cira533 Hane680
+    Location: DANA FARBER CANCER INSTITUTE
+    Duration: 00:53:17 - 01:11:46
+
+  [00:53:17] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [00:53:17] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-04-10
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Yong583 Jina946 is a 39 year-old nonhispanic white female.
+      # Social History
+
+  [00:53:17] DOCUMENT: History and physical note
+    Status: superseded
+
+  [01:11:46] CLAIM: professional
+    Amount: USD 211.60
+
+  [01:11:46] VISIT: Follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Cira533 Hane680
+    Location: DANA FARBER CANCER INSTITUTE
+    Duration: 01:11:46 - 01:37:18
+
+  [01:11:46] PROCEDURE: Bone density scan (procedure)
+    Status: completed
+
+  [01:11:46] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-04-10
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Yong583 Jina946 is a 39 year-old nonhispanic white female.
+      # Social History
+
+  [01:11:46] DOCUMENT: History and physical note
+    Status: superseded
+
+  [01:37:18] CLAIM: professional
+    Amount: USD 4181.24
+
+
+📅 2021-03-25
+
+  [13:47:41] VISIT: General examination of patient (procedure)
+    Provider: Dr. Karlene380 O'Keefe54
+    Location: MANET COMMUNITY HEALTH CENTER, INC.
+    Duration: 13:47:41 - 14:02:41
+
+  [13:47:41] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [13:47:41] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [13:47:41] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-03-25
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Yong583 Jina946 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [13:47:41] DOCUMENT: History and physical note
+    Status: superseded
+
+  [14:02:41] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2021-04-09
+
+  [01:37:18] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Cira533 Hane680
+    Location: DANA FARBER CANCER INSTITUTE
+    Duration: 01:37:18 - 02:09:36
+
+  [01:37:18] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [01:37:18] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-04-09
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Yong583 Jina946 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [01:37:18] DOCUMENT: History and physical note
+    Status: superseded
+
+  [02:09:36] CLAIM: professional
+    Amount: USD 573.98
+
+  [02:09:36] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Cira533 Hane680
+    Location: DANA FARBER CANCER INSTITUTE
+    Duration: 02:09:36 - 02:27:56
+
+  [02:09:36] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [02:09:36] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-04-09
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Yong583 Jina946 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [02:09:36] DOCUMENT: History and physical note
+    Status: superseded
+
+  [02:27:56] CLAIM: professional
+    Amount: USD 325.49
+
+  [02:27:56] VISIT: Follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Cira533 Hane680
+    Location: DANA FARBER CANCER INSTITUTE
+    Duration: 02:27:56 - 02:46:07
+
+  [02:27:56] PROCEDURE: Bone density scan (procedure)
+    Status: completed
+
+  [02:27:56] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-04-09
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Yong583 Jina946 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [02:27:56] DOCUMENT: History and physical note
+    Status: superseded
+
+  [02:46:07] CLAIM: professional
+    Amount: USD 13067.90
+
+
+📅 2021-05-06
+
+  [13:47:41] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Cira533 Hane680
+    Location: DANA FARBER CANCER INSTITUTE
+    Duration: 13:47:41 - 14:02:41
+
+  [13:47:41] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+    Status: completed
+
+  [13:47:41] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-05-06
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Yong583 Jina946 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [13:47:41] DOCUMENT: History and physical note
+    Status: superseded
+
+  [14:02:41] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-06-03
+
+  [13:47:41] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Cira533 Hane680
+    Location: DANA FARBER CANCER INSTITUTE
+    Duration: 13:47:41 - 14:02:41
+
+  [13:47:41] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+    Status: completed
+
+  [13:47:41] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-06-03
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Yong583 Jina946 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [13:47:41] DOCUMENT: History and physical note
+    Status: superseded
+
+  [14:02:41] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2022-03-25
+
+  [02:46:07] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Cira533 Hane680
+    Location: DANA FARBER CANCER INSTITUTE
+    Duration: 02:46:07 - 03:28:48
+
+  [02:46:07] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [02:46:07] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-03-25
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Yong583 Jina946 is a 41 year-old nonhispanic white female.
+      # Social History
+
+  [02:46:07] DOCUMENT: History and physical note
+    Status: superseded
+
+  [03:28:48] CLAIM: professional
+    Amount: USD 573.98
+
+  [03:28:48] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Cira533 Hane680
+    Location: DANA FARBER CANCER INSTITUTE
+    Duration: 03:28:48 - 03:48:02
+
+  [03:28:48] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [03:28:48] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-03-25
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Yong583 Jina946 is a 41 year-old nonhispanic white female.
+      # Social History
+
+  [03:28:48] DOCUMENT: History and physical note
+    Status: superseded
+
+  [03:48:02] CLAIM: professional
+    Amount: USD 211.60
+
+  [03:48:02] VISIT: Follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Cira533 Hane680
+    Location: DANA FARBER CANCER INSTITUTE
+    Duration: 03:48:02 - 04:03:02
+
+  [03:48:02] PROCEDURE: Bone density scan (procedure)
+    Status: completed
+
+  [03:48:02] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-03-25
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Yong583 Jina946 is a 41 year-old nonhispanic white female.
+      # Social History
+
+  [03:48:02] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:03:02] CLAIM: professional
+    Amount: USD 8122.39
+
+
+📅 2023-03-30
+
+  [13:47:41] VISIT: General examination of patient (procedure)
+    Provider: Dr. Karlene380 O'Keefe54
+    Location: MANET COMMUNITY HEALTH CENTER, INC.
+    Duration: 13:47:41 - 14:02:41
+
+  [13:47:41] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [13:47:41] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [13:47:41] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [13:47:41] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-03-30
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Yong583 Jina946 is a 42 year-old nonhispanic white female.
+      # Social History
+
+  [13:47:41] DOCUMENT: History and physical note
+    Status: superseded
+
+  [14:02:41] CLAIM: professional
+    Amount: USD 544.80
+
+
+📅 2023-04-08
+
+  [04:00:17] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Cira533 Hane680
+    Location: DANA FARBER CANCER INSTITUTE
+    Duration: 04:00:17 - 04:39:09
+
+  [04:00:17] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [04:00:17] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-04-08
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Yong583 Jina946 is a 42 year-old nonhispanic white female.
+      # Social History
+
+  [04:00:17] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:39:09] CLAIM: professional
+    Amount: USD 573.98
+
+  [04:39:09] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Cira533 Hane680
+    Location: DANA FARBER CANCER INSTITUTE
+    Duration: 04:39:09 - 05:00:41
+
+  [04:39:09] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [04:39:09] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-04-08
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Yong583 Jina946 is a 42 year-old nonhispanic white female.
+      # Social History
+
+  [04:39:09] DOCUMENT: History and physical note
+    Status: superseded
+
+  [05:00:41] CLAIM: professional
+    Amount: USD 325.49
+
+  [05:00:41] VISIT: Follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Cira533 Hane680
+    Location: DANA FARBER CANCER INSTITUTE
+    Duration: 05:00:41 - 05:18:12
+
+  [05:00:41] PROCEDURE: Bone density scan (procedure)
+    Status: completed
+
+  [05:00:41] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-04-08
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Yong583 Jina946 is a 42 year-old nonhispanic white female.
+      # Social History
+
+  [05:00:41] DOCUMENT: History and physical note
+    Status: superseded
+
+  [05:18:12] CLAIM: professional
+    Amount: USD 4181.24
+
+
+📅 2024-03-21
+
+  [05:18:12] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Cira533 Hane680
+    Location: DANA FARBER CANCER INSTITUTE
+    Duration: 05:18:12 - 05:51:50
+
+  [05:18:12] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [05:18:12] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-03-21
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Yong583 Jina946 is a 43 year-old nonhispanic white female.
+      # Social History
+
+  [05:18:12] DOCUMENT: History and physical note
+    Status: superseded
+
+  [05:51:50] CLAIM: professional
+    Amount: USD 573.98
+
+  [05:51:50] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Cira533 Hane680
+    Location: DANA FARBER CANCER INSTITUTE
+    Duration: 05:51:50 - 06:10:59
+
+  [05:51:50] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [05:51:50] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-03-21
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Yong583 Jina946 is a 43 year-old nonhispanic white female.
+      # Social History
+
+  [05:51:50] DOCUMENT: History and physical note
+    Status: superseded
+
+  [06:10:59] CLAIM: professional
+    Amount: USD 211.60
+
+  [06:10:59] VISIT: Follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Cira533 Hane680
+    Location: DANA FARBER CANCER INSTITUTE
+    Duration: 06:10:59 - 06:25:59
+
+  [06:10:59] PROCEDURE: Bone density scan (procedure)
+    Status: completed
+
+  [06:10:59] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-03-21
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Yong583 Jina946 is a 43 year-old nonhispanic white female.
+      # Social History
+
+  [06:10:59] DOCUMENT: History and physical note
+    Status: superseded
+
+  [06:25:59] CLAIM: professional
+    Amount: USD 4181.24
+
+
+📅 2025-03-07
+
+  [05:25:13] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Cira533 Hane680
+    Location: DANA FARBER CANCER INSTITUTE
+    Duration: 05:25:13 - 06:02:02
+
+  [05:25:13] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [05:25:13] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-03-07
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Yong583 Jina946 is a 43 year-old nonhispanic white female.
+      # Social History
+
+  [05:25:13] DOCUMENT: History and physical note
+    Status: superseded
+
+  [06:02:02] CLAIM: professional
+    Amount: USD 573.98
+
+  [06:02:02] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Cira533 Hane680
+    Location: DANA FARBER CANCER INSTITUTE
+    Duration: 06:02:02 - 06:20:28
+
+  [06:02:02] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [06:02:02] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-03-07
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Yong583 Jina946 is a 43 year-old nonhispanic white female.
+      # Social History
+
+  [06:02:02] DOCUMENT: History and physical note
+    Status: superseded
+
+  [06:20:28] CLAIM: professional
+    Amount: USD 264.74
+
+  [06:20:28] VISIT: Follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Cira533 Hane680
+    Location: DANA FARBER CANCER INSTITUTE
+    Duration: 06:20:28 - 06:35:28
+
+  [06:20:28] PROCEDURE: Bone density scan (procedure)
+    Status: completed
+
+  [06:20:28] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-03-07
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Yong583 Jina946 is a 43 year-old nonhispanic white female.
+      # Social History
+
+  [06:20:28] DOCUMENT: History and physical note
+    Status: superseded
+
+  [06:35:28] CLAIM: professional
+    Amount: USD 4181.24
+
+
+📅 2025-04-03
+
+  [13:47:41] VISIT: General examination of patient (procedure)
+    Provider: Dr. Karlene380 O'Keefe54
+    Location: MANET COMMUNITY HEALTH CENTER, INC.
+    Duration: 13:47:41 - 14:02:41
+
+  [13:47:41] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [13:47:41] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-04-03
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Yong583 Jina946 is a 44 year-old nonhispanic white female.
+      # Social History
+
+  [13:47:41] DOCUMENT: History and physical note
+    Status: current
+
+  [14:02:41] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2026-02-12
+
+  [12:47:41] PROVENANCE: Record activity
+    Agents: Dr. Karlene380 O'Keefe54, Dr. Karlene380 O'Keefe54
+
+================================================================================
+END OF TIMELINE (189 events)
+================================================================================

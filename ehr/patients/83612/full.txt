@@ -1,0 +1,217 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Mrs. Kirstin394 Deanna833 Hickle134
+  Patient ID: 83612
+  Date of Birth: 1975-10-04
+  Gender: Female
+  Race: White
+  Ethnicity: Not Hispanic or Latino
+  Marital Status: Married
+  Address: 674 Langosh Camp, Pittsfield, MA 01201
+  Phone: 555-819-6393
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2017-10-14
+
+  [21:32:29] VISIT: General examination of patient (procedure)
+    Provider: Dr. Waldo53 Hintz995
+    Location: BERKSHIRE MEDICAL CENTER INC - 1
+    Duration: 21:32:29 - 21:47:29
+
+  [21:32:29] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [21:32:29] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [21:32:29] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [21:32:29] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-10-14
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kirstin394 Deanna833 is a 42 year-old nonhispanic white female.
+      # Social History
+
+  [21:32:29] DOCUMENT: History and physical note
+    Status: superseded
+
+  [21:47:29] CLAIM: professional
+    Amount: USD 544.80
+
+
+📅 2019-10-19
+
+  [21:32:29] VISIT: General examination of patient (procedure)
+    Provider: Dr. Waldo53 Hintz995
+    Location: BERKSHIRE MEDICAL CENTER INC - 1
+    Duration: 21:32:29 - 21:47:29
+
+  [21:32:29] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [21:32:29] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-10-19
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kirstin394 Deanna833 is a 44 year-old nonhispanic white female.
+      # Social History
+
+  [21:32:29] DOCUMENT: History and physical note
+    Status: superseded
+
+  [21:47:29] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2021-04-17
+
+  [21:32:29] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Carroll471 Eichmann909
+    Location: BERKSHIRE MEDICAL CENTER INC
+    Duration: 21:32:29 - 21:47:29
+
+  [21:32:29] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 30 mcg/0.3 mL dose
+    Status: completed
+
+  [21:32:29] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-04-17
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kirstin394 Deanna833 is a 45 year-old nonhispanic white female.
+      # Social History
+
+  [21:32:29] DOCUMENT: History and physical note
+    Status: superseded
+
+  [21:47:29] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-05-08
+
+  [21:32:29] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Carroll471 Eichmann909
+    Location: BERKSHIRE MEDICAL CENTER INC
+    Duration: 21:32:29 - 21:47:29
+
+  [21:32:29] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 30 mcg/0.3 mL dose
+    Status: completed
+
+  [21:32:29] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-05-08
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kirstin394 Deanna833 is a 45 year-old nonhispanic white female.
+      # Social History
+
+  [21:32:29] DOCUMENT: History and physical note
+    Status: superseded
+
+  [21:47:29] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-10-23
+
+  [21:32:29] VISIT: General examination of patient (procedure)
+    Provider: Dr. Waldo53 Hintz995
+    Location: BERKSHIRE MEDICAL CENTER INC - 1
+    Duration: 21:32:29 - 21:47:29
+
+  [21:32:29] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [21:32:29] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-10-23
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kirstin394 Deanna833 is a 46 year-old nonhispanic white female.
+      # Social History
+
+  [21:32:29] DOCUMENT: History and physical note
+    Status: superseded
+
+  [21:47:29] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2023-10-28
+
+  [21:32:29] VISIT: General examination of patient (procedure)
+    Provider: Dr. Waldo53 Hintz995
+    Location: BERKSHIRE MEDICAL CENTER INC - 1
+    Duration: 21:32:29 - 21:47:29
+
+  [21:32:29] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [21:32:29] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-10-28
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kirstin394 Deanna833 is a 48 year-old nonhispanic white female.
+      # Social History
+
+  [21:32:29] DOCUMENT: History and physical note
+    Status: superseded
+
+  [21:47:29] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2025-10-04
+
+  [21:32:29] VISIT: General examination of patient (procedure)
+    Provider: Dr. Waldo53 Hintz995
+    Location: BERKSHIRE MEDICAL CENTER INC - 1
+    Duration: 21:32:29 - 21:47:29
+
+  [21:32:29] IMMUNIZATION: zoster vaccine, live
+    Status: completed
+
+  [21:32:29] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [21:32:29] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-10-04
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kirstin394 Deanna833 is a 50 year-old nonhispanic white female.
+      # Social History
+
+  [21:32:29] DOCUMENT: History and physical note
+    Status: current
+
+  [21:47:29] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2026-02-14
+
+  [20:32:29] PROVENANCE: Record activity
+    Agents: Dr. Waldo53 Hintz995, Dr. Waldo53 Hintz995
+
+================================================================================
+END OF TIMELINE (39 events)
+================================================================================

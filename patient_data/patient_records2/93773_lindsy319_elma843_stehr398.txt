@@ -1,0 +1,243 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Mrs. Lindsy319 Elma843 Stehr398
+  Patient ID: 93773
+  Date of Birth: 1973-10-04
+  Gender: Female
+  Race: White
+  Ethnicity: Not Hispanic or Latino
+  Marital Status: Married
+  Address: 174 Kemmer Light, Boston, MA 02126
+  Phone: 555-412-8311
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2017-10-19
+
+  [23:09:44] VISIT: General examination of patient (procedure)
+    Provider: Dr. Rubén780 Padrón382
+    Location: DAVIS SQUARE FAMILY PRACTICE
+    Duration: 23:09:44 - 23:24:44
+
+  [23:09:44] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [23:09:44] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-10-19
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lindsy319 Elma843 is a 44 year-old nonhispanic white female.
+      # Social History
+
+  [23:09:44] DOCUMENT: History and physical note
+    Status: superseded
+
+  [23:24:44] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2019-10-24
+
+  [23:09:44] VISIT: General examination of patient (procedure)
+    Provider: Dr. Rubén780 Padrón382
+    Location: DAVIS SQUARE FAMILY PRACTICE
+    Duration: 23:09:44 - 23:24:44
+
+  [23:09:44] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [23:09:44] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-10-24
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lindsy319 Elma843 is a 46 year-old nonhispanic white female.
+      # Social History
+
+  [23:09:44] DOCUMENT: History and physical note
+    Status: superseded
+
+  [23:24:44] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2021-07-15
+
+  [23:09:44] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Margarite168 Koepp521
+    Location: CAMBRIDGE PUBLIC HEALTH COMMISSION
+    Duration: 23:09:44 - 23:24:44
+
+  [23:09:44] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+    Status: completed
+
+  [23:09:44] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-07-15
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lindsy319 Elma843 is a 47 year-old nonhispanic white female.
+      # Social History
+
+  [23:09:44] DOCUMENT: History and physical note
+    Status: superseded
+
+  [23:24:44] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-08-12
+
+  [23:09:44] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Margarite168 Koepp521
+    Location: CAMBRIDGE PUBLIC HEALTH COMMISSION
+    Duration: 23:09:44 - 23:24:44
+
+  [23:09:44] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+    Status: completed
+
+  [23:09:44] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-08-12
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lindsy319 Elma843 is a 47 year-old nonhispanic white female.
+      # Social History
+
+  [23:09:44] DOCUMENT: History and physical note
+    Status: superseded
+
+  [23:24:44] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-10-28
+
+  [23:09:44] VISIT: General examination of patient (procedure)
+    Provider: Dr. Rubén780 Padrón382
+    Location: DAVIS SQUARE FAMILY PRACTICE
+    Duration: 23:09:44 - 23:24:44
+
+  [23:09:44] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [23:09:44] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-10-28
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lindsy319 Elma843 is a 48 year-old nonhispanic white female.
+      # Social History
+
+  [23:09:44] DOCUMENT: History and physical note
+    Status: superseded
+
+  [23:24:44] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2023-10-05
+
+  [23:09:44] VISIT: General examination of patient (procedure)
+    Provider: Dr. Rubén780 Padrón382
+    Location: DAVIS SQUARE FAMILY PRACTICE
+    Duration: 23:09:44 - 23:24:44
+
+  [23:09:44] IMMUNIZATION: zoster vaccine, live
+    Status: completed
+
+  [23:09:44] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [23:09:44] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-10-05
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lindsy319 Elma843 is a 50 year-old nonhispanic white female.
+      # Social History
+
+  [23:09:44] DOCUMENT: History and physical note
+    Status: superseded
+
+  [23:24:44] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2024-10-10
+
+  [23:09:44] VISIT: General examination of patient (procedure)
+    Provider: Dr. Rubén780 Padrón382
+    Location: DAVIS SQUARE FAMILY PRACTICE
+    Duration: 23:09:44 - 23:24:44
+
+  [23:09:44] IMMUNIZATION: zoster vaccine, live
+    Status: completed
+
+  [23:09:44] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [23:09:44] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [23:09:44] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-10-10
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lindsy319 Elma843 is a 51 year-old nonhispanic white female.
+      # Social History
+
+  [23:09:44] DOCUMENT: History and physical note
+    Status: superseded
+
+  [23:24:44] CLAIM: professional
+    Amount: USD 544.80
+
+
+📅 2025-10-16
+
+  [23:09:44] VISIT: General examination of patient (procedure)
+    Provider: Dr. Rubén780 Padrón382
+    Location: DAVIS SQUARE FAMILY PRACTICE
+    Duration: 23:09:44 - 23:24:44
+
+  [23:09:44] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [23:09:44] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-10-16
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lindsy319 Elma843 is a 52 year-old nonhispanic white female.
+      # Social History
+
+  [23:09:44] DOCUMENT: History and physical note
+    Status: current
+
+  [23:24:44] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2026-02-12
+
+  [22:09:44] PROVENANCE: Record activity
+    Agents: Dr. Rubén780 Padrón382, Dr. Rubén780 Padrón382
+
+================================================================================
+END OF TIMELINE (44 events)
+================================================================================

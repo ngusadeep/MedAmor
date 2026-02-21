@@ -1,0 +1,188 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Mrs. Sherice231 Stehr398
+  Patient ID: 137827
+  Date of Birth: 1985-12-31
+  Gender: Female
+  Race: Asian
+  Ethnicity: Not Hispanic or Latino
+  Marital Status: Married
+  Address: 307 Purdy Bypass Unit 32, Worcester, MA 01606
+  Phone: 555-115-3155
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2017-03-14
+
+  [11:45:27] VISIT: General examination of patient (procedure)
+    Provider: Dr. Florance664 Leannon79
+    Location: SUNRISE HEALTHCARE LLC
+    Duration: 11:45:27 - 12:00:27
+
+  [11:45:27] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [11:45:27] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [11:45:27] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-03-14
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Sherice231 is a 31 year-old nonhispanic asian female.
+      # Social History
+
+  [11:45:27] DOCUMENT: History and physical note
+    Status: superseded
+
+  [12:00:27] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2020-03-17
+
+  [11:45:27] VISIT: General examination of patient (procedure)
+    Provider: Dr. Florance664 Leannon79
+    Location: SUNRISE HEALTHCARE LLC
+    Duration: 11:45:27 - 12:00:27
+
+  [11:45:27] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [11:45:27] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-03-17
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Sherice231 is a 34 year-old nonhispanic asian female.
+      # Social History
+
+  [11:45:27] DOCUMENT: History and physical note
+    Status: superseded
+
+  [12:00:27] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2021-03-30
+
+  [11:45:27] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Theo630 Rohan584
+    Location: UMASS MEMORIAL MEDICAL CENTER INC
+    Duration: 11:45:27 - 12:00:27
+
+  [11:45:27] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 30 mcg/0.3 mL dose
+    Status: completed
+
+  [11:45:27] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-03-30
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Sherice231 is a 35 year-old nonhispanic asian female.
+      # Social History
+
+  [11:45:27] DOCUMENT: History and physical note
+    Status: superseded
+
+  [12:00:27] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-04-20
+
+  [11:45:27] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Theo630 Rohan584
+    Location: UMASS MEMORIAL MEDICAL CENTER INC
+    Duration: 11:45:27 - 12:00:27
+
+  [11:45:27] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 30 mcg/0.3 mL dose
+    Status: completed
+
+  [11:45:27] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-04-20
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Sherice231 is a 35 year-old nonhispanic asian female.
+      # Social History
+
+  [11:45:27] DOCUMENT: History and physical note
+    Status: superseded
+
+  [12:00:27] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2023-03-21
+
+  [11:45:27] VISIT: General examination of patient (procedure)
+    Provider: Dr. Florance664 Leannon79
+    Location: SUNRISE HEALTHCARE LLC
+    Duration: 11:45:27 - 12:00:27
+
+  [11:45:27] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [11:45:27] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-03-21
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Sherice231 is a 37 year-old nonhispanic asian female.
+      # Social History
+
+  [11:45:27] DOCUMENT: History and physical note
+    Status: superseded
+
+  [12:00:27] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2026-01-06
+
+  [10:45:27] VISIT: General examination of patient (procedure)
+    Provider: Dr. Florance664 Leannon79
+    Location: SUNRISE HEALTHCARE LLC
+    Duration: 10:45:27 - 11:00:27
+
+  [10:45:27] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [10:45:27] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [10:45:27] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2026-01-06
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Sherice231 is a 40 year-old nonhispanic asian female.
+      # Social History
+
+  [10:45:27] DOCUMENT: History and physical note
+    Status: current
+
+  [11:00:27] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2026-02-10
+
+  [10:45:27] PROVENANCE: Record activity
+    Agents: Dr. Florance664 Leannon79, Dr. Florance664 Leannon79
+
+================================================================================
+END OF TIMELINE (33 events)
+================================================================================

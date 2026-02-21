@@ -1,0 +1,191 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Mrs. Dagny669 Doreen575 Wolf938
+  Patient ID: 33334
+  Date of Birth: 1983-03-11
+  Gender: Female
+  Race: White
+  Ethnicity: Not Hispanic or Latino
+  Marital Status: Married
+  Address: 387 Barrows Rest Unit 2, Boston, MA 02151
+  Phone: 555-932-7290
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2017-05-26
+
+  [01:44:07] VISIT: General examination of patient (procedure)
+    Provider: Dr. Mathilde204 Wintheiser220
+    Location: FENWAY COMMUNITY HEALTH CENTER, INC
+    Duration: 01:44:07 - 01:59:07
+
+  [01:44:07] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [01:44:07] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-05-26
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Dagny669 Doreen575 is a 34 year-old nonhispanic white female.
+      # Social History
+
+  [01:44:07] DOCUMENT: History and physical note
+    Status: superseded
+
+  [01:59:07] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2020-05-29
+
+  [01:44:07] VISIT: General examination of patient (procedure)
+    Provider: Dr. Mathilde204 Wintheiser220
+    Location: FENWAY COMMUNITY HEALTH CENTER, INC
+    Duration: 01:44:07 - 01:59:07
+
+  [01:44:07] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [01:44:07] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-05-29
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Dagny669 Doreen575 is a 37 year-old nonhispanic white female.
+      # Social History
+
+  [01:44:07] DOCUMENT: History and physical note
+    Status: superseded
+
+  [01:59:07] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2021-09-03
+
+  [01:44:07] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Latoyia537 Lindgren255
+    Location: DR SOLOMON CARTER FULLER MENTAL HEALTH CENTER
+    Duration: 01:44:07 - 01:59:07
+
+  [01:44:07] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+    Status: completed
+
+  [01:44:07] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-09-03
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Dagny669 Doreen575 is a 38 year-old nonhispanic white female.
+      # Social History
+
+  [01:44:07] DOCUMENT: History and physical note
+    Status: superseded
+
+  [01:59:07] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-10-01
+
+  [01:44:07] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Latoyia537 Lindgren255
+    Location: DR SOLOMON CARTER FULLER MENTAL HEALTH CENTER
+    Duration: 01:44:07 - 01:59:07
+
+  [01:44:07] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+    Status: completed
+
+  [01:44:07] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-10-01
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Dagny669 Doreen575 is a 38 year-old nonhispanic white female.
+      # Social History
+
+  [01:44:07] DOCUMENT: History and physical note
+    Status: superseded
+
+  [01:59:07] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2023-03-17
+
+  [01:44:07] VISIT: General examination of patient (procedure)
+    Provider: Dr. Mathilde204 Wintheiser220
+    Location: FENWAY COMMUNITY HEALTH CENTER, INC
+    Duration: 01:44:07 - 01:59:07
+
+  [01:44:07] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [01:44:07] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [01:44:07] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-03-17
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Dagny669 Doreen575 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [01:44:07] DOCUMENT: History and physical note
+    Status: superseded
+
+  [01:59:07] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2025-03-21
+
+  [01:44:07] VISIT: General examination of patient (procedure)
+    Provider: Dr. Mathilde204 Wintheiser220
+    Location: FENWAY COMMUNITY HEALTH CENTER, INC
+    Duration: 01:44:07 - 01:59:07
+
+  [01:44:07] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [01:44:07] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [01:44:07] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [01:44:07] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-03-21
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Dagny669 Doreen575 is a 42 year-old nonhispanic white female.
+      # Social History
+
+  [01:44:07] DOCUMENT: History and physical note
+    Status: current
+
+  [01:59:07] CLAIM: professional
+    Amount: USD 544.80
+
+
+📅 2026-02-13
+
+  [00:44:07] PROVENANCE: Record activity
+    Agents: Dr. Mathilde204 Wintheiser220, Dr. Mathilde204 Wintheiser220
+
+================================================================================
+END OF TIMELINE (34 events)
+================================================================================

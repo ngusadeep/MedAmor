@@ -1,0 +1,269 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Ms. Jesica465 Jalisa590 Champlin946
+  Patient ID: 67686
+  Date of Birth: 1972-12-17
+  Gender: Female
+  Race: White
+  Ethnicity: Not Hispanic or Latino
+  Marital Status: Never Married
+  Address: 429 Sporer Promenade, New Salem, MA 00000
+  Phone: 555-125-2757
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2017-01-01
+
+  [09:43:02] VISIT: General examination of patient (procedure)
+    Provider: Dr. Jamison785 Davis923
+    Location: HILLTOWN COMMUNITY HEALTH CENTERS INC
+    Duration: 09:43:02 - 09:58:02
+
+  [09:43:02] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [09:43:02] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-01-01
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Jesica465 is a 44 year-old nonhispanic white female.
+      # Social History
+
+  [09:43:02] DOCUMENT: History and physical note
+    Status: superseded
+
+  [09:58:02] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2019-01-06
+
+  [09:43:02] VISIT: General examination of patient (procedure)
+    Provider: Dr. Jamison785 Davis923
+    Location: HILLTOWN COMMUNITY HEALTH CENTERS INC
+    Duration: 09:43:02 - 09:58:02
+
+  [09:43:02] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [09:43:02] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-01-06
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Jesica465 is a 46 year-old nonhispanic white female.
+      # Social History
+
+  [09:43:02] DOCUMENT: History and physical note
+    Status: superseded
+
+  [09:58:02] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2021-01-10
+
+  [09:43:02] VISIT: General examination of patient (procedure)
+    Provider: Dr. Jamison785 Davis923
+    Location: HILLTOWN COMMUNITY HEALTH CENTERS INC
+    Duration: 09:43:02 - 09:58:02
+
+  [09:43:02] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [09:43:02] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-01-10
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Jesica465 is a 48 year-old nonhispanic white female.
+      # Social History
+
+  [09:43:02] DOCUMENT: History and physical note
+    Status: superseded
+
+  [09:58:02] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2021-03-28
+
+  [10:43:02] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Rogelio17 Gibson10
+    Location: THE MCLEAN HOSPITAL CORPORATION
+    Duration: 10:43:02 - 10:58:02
+
+  [10:43:02] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 30 mcg/0.3 mL dose
+    Status: completed
+
+  [10:43:02] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-03-28
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Jesica465 is a 48 year-old nonhispanic white female.
+      # Social History
+
+  [10:43:02] DOCUMENT: History and physical note
+    Status: superseded
+
+  [10:58:02] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-04-18
+
+  [10:43:02] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Rogelio17 Gibson10
+    Location: THE MCLEAN HOSPITAL CORPORATION
+    Duration: 10:43:02 - 10:58:02
+
+  [10:43:02] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 30 mcg/0.3 mL dose
+    Status: completed
+
+  [10:43:02] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-04-18
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Jesica465 is a 48 year-old nonhispanic white female.
+      # Social History
+
+  [10:43:02] DOCUMENT: History and physical note
+    Status: superseded
+
+  [10:58:02] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2022-12-18
+
+  [09:43:02] VISIT: General examination of patient (procedure)
+    Provider: Dr. Jamison785 Davis923
+    Location: HILLTOWN COMMUNITY HEALTH CENTERS INC
+    Duration: 09:43:02 - 09:58:02
+
+  [09:43:02] IMMUNIZATION: zoster vaccine, live
+    Status: completed
+
+  [09:43:02] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [09:43:02] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-12-18
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Jesica465 is a 50 year-old nonhispanic white female.
+      # Social History
+
+  [09:43:02] DOCUMENT: History and physical note
+    Status: superseded
+
+  [09:58:02] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2023-12-24
+
+  [09:43:02] VISIT: General examination of patient (procedure)
+    Provider: Dr. Jamison785 Davis923
+    Location: HILLTOWN COMMUNITY HEALTH CENTERS INC
+    Duration: 09:43:02 - 09:58:02
+
+  [09:43:02] IMMUNIZATION: zoster vaccine, live
+    Status: completed
+
+  [09:43:02] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [09:43:02] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [09:43:02] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-12-24
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Jesica465 is a 51 year-old nonhispanic white female.
+      # Social History
+
+  [09:43:02] DOCUMENT: History and physical note
+    Status: superseded
+
+  [09:58:02] CLAIM: professional
+    Amount: USD 544.80
+
+
+📅 2024-12-29
+
+  [09:43:02] VISIT: General examination of patient (procedure)
+    Provider: Dr. Jamison785 Davis923
+    Location: HILLTOWN COMMUNITY HEALTH CENTERS INC
+    Duration: 09:43:02 - 09:58:02
+
+  [09:43:02] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [09:43:02] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-12-29
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Jesica465 is a 52 year-old nonhispanic white female.
+      # Social History
+
+  [09:43:02] DOCUMENT: History and physical note
+    Status: superseded
+
+  [09:58:02] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2026-01-04
+
+  [09:43:02] VISIT: General examination of patient (procedure)
+    Provider: Dr. Jamison785 Davis923
+    Location: HILLTOWN COMMUNITY HEALTH CENTERS INC
+    Duration: 09:43:02 - 09:58:02
+
+  [09:43:02] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [09:43:02] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2026-01-04
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Jesica465 is a 53 year-old nonhispanic white female.
+      # Social History
+
+  [09:43:02] DOCUMENT: History and physical note
+    Status: current
+
+  [09:58:02] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2026-02-15
+
+  [09:43:02] PROVENANCE: Record activity
+    Agents: Dr. Jamison785 Davis923, Dr. Jamison785 Davis923
+
+================================================================================
+END OF TIMELINE (49 events)
+================================================================================

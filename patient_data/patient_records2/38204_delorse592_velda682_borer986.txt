@@ -1,0 +1,629 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Ms. Delorse592 Velda682 Borer986
+  Patient ID: 38204
+  Date of Birth: 1956-10-31
+  Gender: Female
+  Race: White
+  Ethnicity: Not Hispanic or Latino
+  Marital Status: Never Married
+  Address: 803 Ziemann Neck, Taunton, MA 02767
+  Phone: 555-583-8794
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 1988-01-13
+
+  [20:57:42] VISIT: General examination of patient (procedure)
+    Provider: Dr. Jesusita936 O'Keefe54
+    Location: DOCTORS JAMES AND KELLY HOYE PARTNERS IN FAMILY CARE
+    Duration: 20:57:42 - 21:12:42
+
+  [20:57:42] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [20:57:42] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      1988-01-13
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Delorse592 is a 31 year-old nonhispanic white female.
+      # Social History
+
+  [20:57:42] DOCUMENT: History and physical note
+    Status: superseded
+
+  [21:12:42] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 1991-01-16
+
+  [20:57:42] VISIT: General examination of patient (procedure)
+    Provider: Dr. Jesusita936 O'Keefe54
+    Location: DOCTORS JAMES AND KELLY HOYE PARTNERS IN FAMILY CARE
+    Duration: 20:57:42 - 21:12:42
+
+  [20:57:42] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [20:57:42] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      1991-01-16
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Delorse592 is a 34 year-old nonhispanic white female.
+      # Social History
+
+  [20:57:42] DOCUMENT: History and physical note
+    Status: superseded
+
+  [21:12:42] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 1994-01-19
+
+  [20:57:42] VISIT: General examination of patient (procedure)
+    Provider: Dr. Jesusita936 O'Keefe54
+    Location: DOCTORS JAMES AND KELLY HOYE PARTNERS IN FAMILY CARE
+    Duration: 20:57:42 - 21:12:42
+
+  [20:57:42] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [20:57:42] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      1994-01-19
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Delorse592 is a 37 year-old nonhispanic white female.
+      # Social History
+
+  [20:57:42] DOCUMENT: History and physical note
+    Status: superseded
+
+  [21:12:42] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 1995-10-22
+
+  [21:57:42] VISIT: Periodic reevaluation and management of healthy individual (procedure)
+    Reason: Screening for malignant neoplasm of breast (procedure)
+    Provider: Dr. Randa356 Ritchie586
+    Location: MORTON HOSPITAL, A STEWARD FAMILY HOSPITAL, INC.
+    Duration: 21:57:42 - 14:18:26
+
+  [21:57:42] PROCEDURE: Screening mammography (procedure)
+    Status: completed
+
+  [21:57:42] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      1995-10-22
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Delorse592 is a 38 year-old nonhispanic white female.
+      # Social History
+
+  [21:57:42] DOCUMENT: History and physical note
+    Status: superseded
+
+  [22:18:07] PROCEDURE: Ultrasonography of bilateral breasts (procedure)
+    Status: completed
+
+  [22:39:49] PROCEDURE: Biopsy of breast (procedure)
+    Status: completed
+
+  [23:16:26] CONDITION: Malignant neoplasm of breast (disorder) (active)
+
+  [23:16:26] OBSERVATION: Distant metastases.clinical [Class] Cancer: American Joint Committee on Cancer cM1 (qualifier value)
+
+  [23:16:26] OBSERVATION: Size.maximum dimension in Tumor: 5.7639 cm
+
+  [23:16:26] OBSERVATION: Primary tumor.clinical [Class] Cancer: American Joint Committee on Cancer cT4 (qualifier value)
+
+  [23:16:26] OBSERVATION: Lymph nodes with macrometastases [#] in Cancer specimen by Light microscopy: 22.628 {#}
+
+  [23:16:26] OBSERVATION: Regional lymph nodes.clinical [Class] Cancer: American Joint Committee on Cancer cN3 (qualifier value)
+
+  [23:16:26] PROCEDURE: Human epidermal growth factor receptor 2 gene detection by fluorescence in situ hybridization (procedure)
+    Status: completed
+
+
+📅 1995-10-24
+
+  [11:16:26] PROCEDURE: Human epidermal growth factor receptor 2 gene detection by immunohistochemistry (procedure)
+    Status: completed
+
+  [14:18:26] OBSERVATION: HER2 [Presence] in Breast cancer specimen by Immune stain: Negative (qualifier value)
+
+  [14:18:26] OBSERVATION: ERBB2 gene duplication [Presence] in Breast cancer specimen by FISH: less than 1.8
+
+  [14:18:26] OBSERVATION: Estrogen receptor Ag [Presence] in Breast cancer specimen by Immune stain: Positive (qualifier value)
+
+  [14:18:26] OBSERVATION: Progesterone receptor Ag [Presence] in Breast cancer specimen by Immune stain: Positive (qualifier value)
+
+  [14:18:26] OBSERVATION: Estrogen+Progesterone receptor Ag [Presence] in Tissue by Immune stain: Positive (qualifier value)
+
+  [14:18:26] OBSERVATION: Stage group.clinical Cancer: Stage 4 (qualifier value)
+
+  [14:18:26] CLAIM: professional
+    Amount: USD 4190.25
+
+
+📅 1995-10-28
+
+  [18:18:26] VISIT: Discussion about treatment (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Randa356 Ritchie586
+    Location: MORTON HOSPITAL, A STEWARD FAMILY HOSPITAL, INC.
+    Duration: 18:18:26 - 19:11:29
+
+  [18:18:26] PROCEDURE: Discussion about options (procedure)
+    Status: completed
+
+  [18:18:26] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      1995-10-28
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Delorse592 is a 38 year-old nonhispanic white female.
+      # Social History
+
+  [18:18:26] DOCUMENT: History and physical note
+    Status: superseded
+
+  [19:11:29] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 1995-10-31
+
+  [10:11:29] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Randa356 Ritchie586
+    Location: MORTON HOSPITAL, A STEWARD FAMILY HOSPITAL, INC.
+    Duration: 10:11:29 - 13:13:36
+
+  [10:11:29] PROCEDURE: Chemotherapy (procedure)
+    Status: completed
+
+  [10:11:29] MEDICATION PRESCRIBED: Unknown medication
+    Status: completed
+    Prescribed by: Dr. Randa356 Ritchie586
+
+  [10:11:29] MEDICATION ADMINISTERED: Paclitaxel 100 MG Injection
+    Status: completed
+
+  [10:11:29] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      1995-10-31
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Delorse592 is a 38 year-old nonhispanic white female.
+      # Social History
+
+  [10:11:29] DOCUMENT: History and physical note
+    Status: superseded
+
+  [13:13:36] CLAIM: pharmacy
+    Amount: USD 1.28
+
+  [13:13:36] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 1995-11-22
+
+  [17:13:36] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Randa356 Ritchie586
+    Location: MORTON HOSPITAL, A STEWARD FAMILY HOSPITAL, INC.
+    Duration: 17:13:36 - 19:27:24
+
+  [17:13:36] PROCEDURE: Chemotherapy (procedure)
+    Status: completed
+
+  [17:13:36] MEDICATION PRESCRIBED: Unknown medication
+    Status: completed
+    Prescribed by: Dr. Randa356 Ritchie586
+
+  [17:13:36] MEDICATION ADMINISTERED: Paclitaxel 100 MG Injection
+    Status: completed
+
+  [17:13:36] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      1995-11-22
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Delorse592 is a 39 year-old nonhispanic white female.
+      # Social History
+
+  [17:13:36] DOCUMENT: History and physical note
+    Status: superseded
+
+  [19:27:24] CLAIM: pharmacy
+    Amount: USD 2.37
+
+  [19:27:24] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 1995-12-14
+
+  [02:27:24] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Randa356 Ritchie586
+    Location: MORTON HOSPITAL, A STEWARD FAMILY HOSPITAL, INC.
+    Duration: 02:27:24 - 03:36:13
+
+  [02:27:24] PROCEDURE: Chemotherapy (procedure)
+    Status: completed
+
+  [02:27:24] MEDICATION PRESCRIBED: Unknown medication
+    Status: completed
+    Prescribed by: Dr. Randa356 Ritchie586
+
+  [02:27:24] MEDICATION ADMINISTERED: Paclitaxel 100 MG Injection
+    Status: completed
+
+  [02:27:24] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      1995-12-14
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Delorse592 is a 39 year-old nonhispanic white female.
+      # Social History
+
+  [02:27:24] DOCUMENT: History and physical note
+    Status: superseded
+
+  [03:36:13] CLAIM: pharmacy
+    Amount: USD 2.86
+
+  [03:36:13] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 1996-01-05
+
+  [18:36:13] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Randa356 Ritchie586
+    Location: MORTON HOSPITAL, A STEWARD FAMILY HOSPITAL, INC.
+    Duration: 18:36:13 - 20:56:06
+
+  [18:36:13] PROCEDURE: Chemotherapy (procedure)
+    Status: completed
+
+  [18:36:13] MEDICATION PRESCRIBED: Unknown medication
+    Status: completed
+    Prescribed by: Dr. Randa356 Ritchie586
+
+  [18:36:13] MEDICATION ADMINISTERED: Paclitaxel 100 MG Injection
+    Status: completed
+
+  [18:36:13] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      1996-01-05
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Delorse592 is a 39 year-old nonhispanic white female.
+      # Social History
+
+  [18:36:13] DOCUMENT: History and physical note
+    Status: superseded
+
+  [20:56:06] CLAIM: pharmacy
+    Amount: USD 2.41
+
+  [20:56:06] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 1996-01-28
+
+  [09:56:06] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Randa356 Ritchie586
+    Location: MORTON HOSPITAL, A STEWARD FAMILY HOSPITAL, INC.
+    Duration: 09:56:06 - 12:51:35
+
+  [09:56:06] PROCEDURE: Chemotherapy (procedure)
+    Status: completed
+
+  [09:56:06] MEDICATION PRESCRIBED: Unknown medication
+    Status: completed
+    Prescribed by: Dr. Randa356 Ritchie586
+
+  [09:56:06] MEDICATION ADMINISTERED: Paclitaxel 100 MG Injection
+    Status: completed
+
+  [09:56:06] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      1996-01-28
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Delorse592 is a 39 year-old nonhispanic white female.
+      # Social History
+
+  [09:56:06] DOCUMENT: History and physical note
+    Status: superseded
+
+  [12:51:35] CLAIM: pharmacy
+    Amount: USD 0.91
+
+  [12:51:35] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 1996-02-17
+
+  [06:51:35] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Randa356 Ritchie586
+    Location: MORTON HOSPITAL, A STEWARD FAMILY HOSPITAL, INC.
+    Duration: 06:51:35 - 08:38:31
+
+  [06:51:35] PROCEDURE: Chemotherapy (procedure)
+    Status: completed
+
+  [06:51:35] MEDICATION PRESCRIBED: Unknown medication
+    Status: completed
+    Prescribed by: Dr. Randa356 Ritchie586
+
+  [06:51:35] MEDICATION ADMINISTERED: Paclitaxel 100 MG Injection
+    Status: completed
+
+  [06:51:35] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      1996-02-17
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Delorse592 is a 39 year-old nonhispanic white female.
+      # Social History
+
+  [06:51:35] DOCUMENT: History and physical note
+    Status: superseded
+
+  [08:38:31] CLAIM: pharmacy
+    Amount: USD 1.07
+
+  [08:38:31] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 1996-03-09
+
+  [04:38:31] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Randa356 Ritchie586
+    Location: MORTON HOSPITAL, A STEWARD FAMILY HOSPITAL, INC.
+    Duration: 04:38:31 - 08:03:13
+
+  [04:38:31] PROCEDURE: Chemotherapy (procedure)
+    Status: completed
+
+  [04:38:31] MEDICATION PRESCRIBED: Unknown medication
+    Status: completed
+    Prescribed by: Dr. Randa356 Ritchie586
+
+  [04:38:31] MEDICATION ADMINISTERED: Paclitaxel 100 MG Injection
+    Status: completed
+
+  [04:38:31] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      1996-03-09
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Delorse592 is a 39 year-old nonhispanic white female.
+      # Social History
+
+  [04:38:31] DOCUMENT: History and physical note
+    Status: superseded
+
+  [08:03:13] CLAIM: pharmacy
+    Amount: USD 3.65
+
+  [08:03:13] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 1996-03-28
+
+  [18:03:13] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Randa356 Ritchie586
+    Location: MORTON HOSPITAL, A STEWARD FAMILY HOSPITAL, INC.
+    Duration: 18:03:13 - 21:05:04
+
+  [18:03:13] PROCEDURE: Chemotherapy (procedure)
+    Status: completed
+
+  [18:03:13] MEDICATION PRESCRIBED: Unknown medication
+    Status: completed
+    Prescribed by: Dr. Randa356 Ritchie586
+
+  [18:03:13] MEDICATION ADMINISTERED: Paclitaxel 100 MG Injection
+    Status: completed
+
+  [18:03:13] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      1996-03-28
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Delorse592 is a 39 year-old nonhispanic white female.
+      # Social History
+
+  [18:03:13] DOCUMENT: History and physical note
+    Status: superseded
+
+  [21:05:04] CLAIM: pharmacy
+    Amount: USD 3.65
+
+  [21:05:04] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 1996-04-26
+
+  [22:05:04] OBSERVATION: Response to cancer treatment: Improving (qualifier value)
+
+  [22:05:04] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Allan198 Moore224
+    Location: MORTON HOSPITAL, A STEWARD FAMILY HOSPITAL, INC.
+    Duration: 22:05:04 - 01:34:29
+
+  [22:05:04] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      1996-04-26
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Delorse592 is a 39 year-old nonhispanic white female.
+      # Social History
+
+  [22:05:04] DOCUMENT: History and physical note
+    Status: superseded
+
+  [23:22:04] PROCEDURE: Excision of axillary lymph node (procedure)
+    Status: completed
+
+
+📅 1996-04-27
+
+  [00:58:28] PROCEDURE: Lumpectomy of breast (procedure)
+    Status: completed
+
+
+📅 1996-05-05
+
+  [01:34:29] CLAIM: institutional
+    Amount: USD 26188.18
+
+
+📅 1996-05-14
+
+  [22:34:29] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Randa356 Ritchie586
+    Location: MORTON HOSPITAL, A STEWARD FAMILY HOSPITAL, INC.
+    Duration: 22:34:29 - 23:27:29
+
+  [22:34:29] PROCEDURE: Chemotherapy (procedure)
+    Status: completed
+
+  [22:34:29] MEDICATION PRESCRIBED: Unknown medication
+    Status: completed
+    Prescribed by: Dr. Randa356 Ritchie586
+
+  [22:34:29] MEDICATION ADMINISTERED: Paclitaxel 100 MG Injection
+    Status: completed
+
+  [22:34:29] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      1996-05-14
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Delorse592 is a 39 year-old nonhispanic white female.
+      # Social History
+
+  [22:34:29] DOCUMENT: History and physical note
+    Status: superseded
+
+  [23:27:29] CLAIM: pharmacy
+    Amount: USD 1.79
+
+  [23:27:29] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 1996-06-05
+
+  [02:27:29] VISIT: Encounter for problem (procedure)
+    Provider: Dr. Randa356 Ritchie586
+    Location: MORTON HOSPITAL, A STEWARD FAMILY HOSPITAL, INC.
+    Duration: 02:27:29 - 04:01:29
+
+  [02:27:29] PROCEDURE: Chemotherapy (procedure)
+    Status: completed
+
+  [02:27:29] MEDICATION PRESCRIBED: Unknown medication
+    Status: completed
+    Prescribed by: Dr. Randa356 Ritchie586
+
+  [02:27:29] MEDICATION ADMINISTERED: Paclitaxel 100 MG Injection
+    Status: completed
+
+  [02:27:29] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      1996-06-05
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Delorse592 is a 39 year-old nonhispanic white female.
+      # Social History
+
+  [02:27:29] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:01:29] CLAIM: pharmacy
+    Amount: USD 3.65
+
+  [04:01:29] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 1996-06-19
+
+  [21:57:42] VISIT: Death Certification
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jesusita936 O'Keefe54
+    Location: DOCTORS JAMES AND KELLY HOYE PARTNERS IN FAMILY CARE
+    Duration: 21:57:42 - 22:12:42
+
+  [21:57:42] OBSERVATION: Cause of Death [US Standard Certificate of Death]: Malignant neoplasm of breast (disorder)
+
+  [21:57:42] DIAGNOSTIC REPORT: U.S. standard certificate of death - 2003 revision
+
+  [21:57:42] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      1996-06-19
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Delorse592 is a 39 year-old nonhispanic white female.
+      # Social History
+
+  [21:57:42] DOCUMENT: History and physical note
+    Status: current
+
+  [21:57:42] PROVENANCE: Record activity
+    Agents: Dr. Jesusita936 O'Keefe54, Dr. Jesusita936 O'Keefe54
+
+  [22:12:42] CLAIM: professional
+    Amount: USD 211.38
+
+================================================================================
+END OF TIMELINE (135 events)
+================================================================================

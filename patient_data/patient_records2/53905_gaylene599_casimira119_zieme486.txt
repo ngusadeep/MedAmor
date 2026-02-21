@@ -1,0 +1,1812 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Ms. Gaylene599 Casimira119 Zieme486
+  Patient ID: 53905
+  Date of Birth: 1972-12-22
+  Gender: Female
+  Race: White
+  Ethnicity: Not Hispanic or Latino
+  Marital Status: Never Married
+  Address: 881 Jaskolski Orchard, Boston, MA 02131
+  Phone: 555-522-5378
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2010-03-12
+
+  [21:09:01] VISIT: General examination of patient (procedure)
+    Provider: Dr. Norah104 Friesen796
+    Location: HIGUCHI MEDICAL CARE, PLLC
+    Duration: 21:09:01 - 21:24:01
+
+  [21:09:01] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [21:09:01] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2010-03-12
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Gaylene599 is a 37 year-old nonhispanic white female.
+      # Social History
+
+  [21:09:01] DOCUMENT: History and physical note
+    Status: superseded
+
+  [21:24:01] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2012-12-28
+
+  [21:09:01] VISIT: General examination of patient (procedure)
+    Provider: Dr. Norah104 Friesen796
+    Location: HIGUCHI MEDICAL CARE, PLLC
+    Duration: 21:09:01 - 21:24:01
+
+  [21:09:01] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [21:09:01] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [21:09:01] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2012-12-28
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Gaylene599 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [21:09:01] DOCUMENT: History and physical note
+    Status: superseded
+
+  [21:24:01] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2013-08-22
+
+  [22:09:01] VISIT: Periodic reevaluation and management of healthy individual (procedure)
+    Reason: Screening for malignant neoplasm of breast (procedure)
+    Provider: Dr. Jose871 Dicki44
+    Location: TUFTS MEDICAL CENTER, INC
+    Duration: 22:09:01 - 02:20:58
+
+  [22:09:01] PROCEDURE: Screening mammography (procedure)
+    Status: completed
+
+  [22:09:01] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2013-08-22
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Gaylene599 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [22:09:01] DOCUMENT: History and physical note
+    Status: superseded
+
+  [22:25:25] PROCEDURE: Ultrasonography of bilateral breasts (procedure)
+    Status: completed
+
+  [22:48:15] PROCEDURE: Biopsy of breast (procedure)
+    Status: completed
+
+  [23:14:58] CONDITION: Malignant neoplasm of breast (disorder) (active)
+
+  [23:14:58] OBSERVATION: Site of distant metastasis in Breast tumor: None (qualifier value)
+
+  [23:14:58] OBSERVATION: Distant metastases.clinical [Class] Cancer: American Joint Committee on Cancer cM0 (qualifier value)
+
+  [23:14:58] OBSERVATION: Size.maximum dimension in Tumor: 4.4467 cm
+
+  [23:14:58] OBSERVATION: Primary tumor.clinical [Class] Cancer: American Joint Committee on Cancer cT2 (qualifier value)
+
+  [23:14:58] OBSERVATION: Lymph nodes with isolated tumor cells [#] in Cancer specimen by Light microscopy: 0 {#}
+
+  [23:14:58] OBSERVATION: Regional lymph nodes.clinical [Class] Cancer: American Joint Committee on Cancer cN0 (qualifier value)
+
+  [23:14:58] PROCEDURE: Human epidermal growth factor receptor 2 gene detection by fluorescence in situ hybridization (procedure)
+    Status: completed
+
+
+📅 2013-08-24
+
+  [00:14:58] PROCEDURE: Human epidermal growth factor receptor 2 gene detection by immunohistochemistry (procedure)
+    Status: completed
+
+  [02:20:58] OBSERVATION: HER2 [Presence] in Breast cancer specimen by Immune stain: Negative (qualifier value)
+
+  [02:20:58] OBSERVATION: ERBB2 gene duplication [Presence] in Breast cancer specimen by FISH: less than 1.8
+
+  [02:20:58] OBSERVATION: Estrogen receptor Ag [Presence] in Breast cancer specimen by Immune stain: Positive (qualifier value)
+
+  [02:20:58] OBSERVATION: Progesterone receptor Ag [Presence] in Breast cancer specimen by Immune stain: Positive (qualifier value)
+
+  [02:20:58] OBSERVATION: Estrogen+Progesterone receptor Ag [Presence] in Tissue by Immune stain: Positive (qualifier value)
+
+  [02:20:58] OBSERVATION: Stage group.clinical Cancer: American Joint Committee on Cancer stage IIA (qualifier value)
+
+  [02:20:58] OBSERVATION: Stage group.clinical Cancer: Stage 2 (qualifier value)
+
+  [02:20:58] CLAIM: professional
+    Amount: USD 6150.61
+
+
+📅 2013-08-30
+
+  [03:20:58] VISIT: Discussion about treatment (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jose871 Dicki44
+    Location: TUFTS MEDICAL CENTER, INC
+    Duration: 03:20:58 - 04:20:38
+
+  [03:20:58] PROCEDURE: Discussion about options (procedure)
+    Status: completed
+
+  [03:20:58] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2013-08-30
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Gaylene599 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [03:20:58] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:20:38] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2013-08-31
+
+  [10:20:38] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jose871 Dicki44
+    Location: TUFTS MEDICAL CENTER, INC
+    Duration: 10:20:38 - 12:39:19
+
+  [10:20:38] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2013-08-31
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Gaylene599 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [10:20:38] DOCUMENT: History and physical note
+    Status: superseded
+
+  [12:07:38] PROCEDURE: Lumpectomy of breast (procedure)
+    Status: completed
+
+
+📅 2013-09-04
+
+  [12:39:19] CLAIM: institutional
+    Amount: USD 25325.38
+
+
+📅 2013-09-12
+
+  [15:39:19] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jose871 Dicki44
+    Location: TUFTS MEDICAL CENTER, INC
+    Duration: 15:39:19 - 15:59:43
+
+  [15:39:19] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [15:39:19] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2013-09-12
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Gaylene599 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [15:39:19] DOCUMENT: History and physical note
+    Status: superseded
+
+  [15:59:43] CLAIM: professional
+    Amount: USD 1359.90
+
+
+📅 2013-09-13
+
+  [18:29:43] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jose871 Dicki44
+    Location: TUFTS MEDICAL CENTER, INC
+    Duration: 18:29:43 - 18:54:52
+
+  [18:29:43] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [18:29:43] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2013-09-13
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Gaylene599 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [18:29:43] DOCUMENT: History and physical note
+    Status: superseded
+
+  [18:54:52] CLAIM: professional
+    Amount: USD 1359.90
+
+
+📅 2013-09-14
+
+  [20:26:52] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jose871 Dicki44
+    Location: TUFTS MEDICAL CENTER, INC
+    Duration: 20:26:52 - 20:56:30
+
+  [20:26:52] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [20:26:52] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2013-09-14
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Gaylene599 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [20:26:52] DOCUMENT: History and physical note
+    Status: superseded
+
+  [20:56:30] CLAIM: professional
+    Amount: USD 512.63
+
+
+📅 2013-09-16
+
+  [08:53:30] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jose871 Dicki44
+    Location: TUFTS MEDICAL CENTER, INC
+    Duration: 08:53:30 - 09:11:48
+
+  [08:53:30] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [08:53:30] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2013-09-16
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Gaylene599 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [08:53:30] DOCUMENT: History and physical note
+    Status: superseded
+
+  [09:11:48] CLAIM: professional
+    Amount: USD 1359.90
+
+
+📅 2013-09-17
+
+  [15:37:48] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jose871 Dicki44
+    Location: TUFTS MEDICAL CENTER, INC
+    Duration: 15:37:48 - 15:55:09
+
+  [15:37:48] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [15:37:48] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2013-09-17
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Gaylene599 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [15:37:48] DOCUMENT: History and physical note
+    Status: superseded
+
+  [15:55:09] CLAIM: professional
+    Amount: USD 512.63
+
+
+📅 2013-09-18
+
+  [17:26:09] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jose871 Dicki44
+    Location: TUFTS MEDICAL CENTER, INC
+    Duration: 17:26:09 - 17:50:24
+
+  [17:26:09] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [17:26:09] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2013-09-18
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Gaylene599 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [17:26:09] DOCUMENT: History and physical note
+    Status: superseded
+
+  [17:50:24] CLAIM: professional
+    Amount: USD 832.46
+
+
+📅 2013-09-19
+
+  [23:33:24] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jose871 Dicki44
+    Location: TUFTS MEDICAL CENTER, INC
+    Duration: 23:33:24 - 23:56:44
+
+  [23:33:24] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [23:33:24] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2013-09-19
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Gaylene599 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [23:33:24] DOCUMENT: History and physical note
+    Status: superseded
+
+  [23:56:44] CLAIM: professional
+    Amount: USD 1359.90
+
+
+📅 2013-09-21
+
+  [10:01:44] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jose871 Dicki44
+    Location: TUFTS MEDICAL CENTER, INC
+    Duration: 10:01:44 - 10:25:55
+
+  [10:01:44] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [10:01:44] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2013-09-21
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Gaylene599 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [10:01:44] DOCUMENT: History and physical note
+    Status: superseded
+
+  [10:25:55] CLAIM: professional
+    Amount: USD 780.00
+
+
+📅 2013-09-22
+
+  [20:03:55] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jose871 Dicki44
+    Location: TUFTS MEDICAL CENTER, INC
+    Duration: 20:03:55 - 20:19:28
+
+  [20:03:55] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [20:03:55] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2013-09-22
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Gaylene599 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [20:03:55] DOCUMENT: History and physical note
+    Status: superseded
+
+  [20:19:28] CLAIM: professional
+    Amount: USD 512.63
+
+
+📅 2013-09-24
+
+  [07:40:28] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jose871 Dicki44
+    Location: TUFTS MEDICAL CENTER, INC
+    Duration: 07:40:28 - 07:56:00
+
+  [07:40:28] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [07:40:28] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2013-09-24
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Gaylene599 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [07:40:28] DOCUMENT: History and physical note
+    Status: superseded
+
+  [07:56:00] CLAIM: professional
+    Amount: USD 1359.90
+
+
+📅 2013-09-25
+
+  [09:59:00] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jose871 Dicki44
+    Location: TUFTS MEDICAL CENTER, INC
+    Duration: 09:59:00 - 10:15:36
+
+  [09:59:00] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [09:59:00] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2013-09-25
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Gaylene599 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [09:59:00] DOCUMENT: History and physical note
+    Status: superseded
+
+  [10:15:36] CLAIM: professional
+    Amount: USD 1359.90
+
+
+📅 2013-09-26
+
+  [17:37:36] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jose871 Dicki44
+    Location: TUFTS MEDICAL CENTER, INC
+    Duration: 17:37:36 - 18:08:56
+
+  [17:37:36] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [17:37:36] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2013-09-26
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Gaylene599 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [17:37:36] DOCUMENT: History and physical note
+    Status: superseded
+
+  [18:08:56] CLAIM: professional
+    Amount: USD 512.63
+
+
+📅 2013-09-28
+
+  [02:46:56] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jose871 Dicki44
+    Location: TUFTS MEDICAL CENTER, INC
+    Duration: 02:46:56 - 03:26:28
+
+  [02:46:56] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [02:46:56] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2013-09-28
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Gaylene599 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [02:46:56] DOCUMENT: History and physical note
+    Status: superseded
+
+  [03:26:28] CLAIM: professional
+    Amount: USD 512.63
+
+
+📅 2013-09-29
+
+  [05:36:28] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jose871 Dicki44
+    Location: TUFTS MEDICAL CENTER, INC
+    Duration: 05:36:28 - 05:57:39
+
+  [05:36:28] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [05:36:28] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2013-09-29
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Gaylene599 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [05:36:28] DOCUMENT: History and physical note
+    Status: superseded
+
+  [05:57:39] CLAIM: professional
+    Amount: USD 697.41
+
+
+📅 2013-09-30
+
+  [07:51:39] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jose871 Dicki44
+    Location: TUFTS MEDICAL CENTER, INC
+    Duration: 07:51:39 - 08:15:51
+
+  [07:51:39] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [07:51:39] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2013-09-30
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Gaylene599 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [07:51:39] DOCUMENT: History and physical note
+    Status: superseded
+
+  [08:15:51] CLAIM: professional
+    Amount: USD 1045.15
+
+
+📅 2013-10-01
+
+  [09:09:51] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jose871 Dicki44
+    Location: TUFTS MEDICAL CENTER, INC
+    Duration: 09:09:51 - 09:25:42
+
+  [09:09:51] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [09:09:51] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2013-10-01
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Gaylene599 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [09:09:51] DOCUMENT: History and physical note
+    Status: superseded
+
+  [09:25:42] CLAIM: professional
+    Amount: USD 512.63
+
+
+📅 2013-10-02
+
+  [21:19:42] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jose871 Dicki44
+    Location: TUFTS MEDICAL CENTER, INC
+    Duration: 21:19:42 - 21:36:34
+
+  [21:19:42] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [21:19:42] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2013-10-02
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Gaylene599 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [21:19:42] DOCUMENT: History and physical note
+    Status: superseded
+
+  [21:36:34] CLAIM: professional
+    Amount: USD 512.63
+
+
+📅 2013-10-04
+
+  [08:24:34] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jose871 Dicki44
+    Location: TUFTS MEDICAL CENTER, INC
+    Duration: 08:24:34 - 08:54:45
+
+  [08:24:34] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [08:24:34] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2013-10-04
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Gaylene599 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [08:24:34] DOCUMENT: History and physical note
+    Status: superseded
+
+  [08:54:45] CLAIM: professional
+    Amount: USD 1359.90
+
+
+📅 2013-10-05
+
+  [11:45:45] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jose871 Dicki44
+    Location: TUFTS MEDICAL CENTER, INC
+    Duration: 11:45:45 - 12:01:53
+
+  [11:45:45] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [11:45:45] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2013-10-05
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Gaylene599 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [11:45:45] DOCUMENT: History and physical note
+    Status: superseded
+
+  [12:01:53] CLAIM: professional
+    Amount: USD 1359.90
+
+
+📅 2013-10-06
+
+  [16:17:53] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jose871 Dicki44
+    Location: TUFTS MEDICAL CENTER, INC
+    Duration: 16:17:53 - 16:38:24
+
+  [16:17:53] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [16:17:53] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2013-10-06
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Gaylene599 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [16:17:53] DOCUMENT: History and physical note
+    Status: superseded
+
+  [16:38:24] CLAIM: professional
+    Amount: USD 828.03
+
+
+📅 2013-10-07
+
+  [19:20:24] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jose871 Dicki44
+    Location: TUFTS MEDICAL CENTER, INC
+    Duration: 19:20:24 - 19:56:02
+
+  [19:20:24] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [19:20:24] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2013-10-07
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Gaylene599 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [19:20:24] DOCUMENT: History and physical note
+    Status: superseded
+
+  [19:56:02] CLAIM: professional
+    Amount: USD 1224.88
+
+
+📅 2013-10-08
+
+  [22:47:02] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jose871 Dicki44
+    Location: TUFTS MEDICAL CENTER, INC
+    Duration: 22:47:02 - 23:03:49
+
+  [22:47:02] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [22:47:02] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2013-10-08
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Gaylene599 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [22:47:02] DOCUMENT: History and physical note
+    Status: superseded
+
+  [23:03:49] CLAIM: professional
+    Amount: USD 512.63
+
+
+📅 2013-10-10
+
+  [07:32:49] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jose871 Dicki44
+    Location: TUFTS MEDICAL CENTER, INC
+    Duration: 07:32:49 - 08:11:53
+
+  [07:32:49] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [07:32:49] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2013-10-10
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Gaylene599 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [07:32:49] DOCUMENT: History and physical note
+    Status: superseded
+
+  [08:11:53] CLAIM: professional
+    Amount: USD 1139.96
+
+
+📅 2013-10-11
+
+  [17:54:53] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jose871 Dicki44
+    Location: TUFTS MEDICAL CENTER, INC
+    Duration: 17:54:53 - 18:21:28
+
+  [17:54:53] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [17:54:53] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2013-10-11
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Gaylene599 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [17:54:53] DOCUMENT: History and physical note
+    Status: superseded
+
+  [18:21:28] CLAIM: professional
+    Amount: USD 512.63
+
+
+📅 2013-10-13
+
+  [02:53:28] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jose871 Dicki44
+    Location: TUFTS MEDICAL CENTER, INC
+    Duration: 02:53:28 - 03:29:32
+
+  [02:53:28] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [02:53:28] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2013-10-13
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Gaylene599 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [02:53:28] DOCUMENT: History and physical note
+    Status: superseded
+
+  [03:29:32] CLAIM: professional
+    Amount: USD 552.14
+
+
+📅 2013-10-14
+
+  [04:07:32] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jose871 Dicki44
+    Location: TUFTS MEDICAL CENTER, INC
+    Duration: 04:07:32 - 04:25:46
+
+  [04:07:32] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [04:07:32] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2013-10-14
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Gaylene599 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [04:07:32] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:25:46] CLAIM: professional
+    Amount: USD 512.63
+
+
+📅 2013-10-15
+
+  [13:05:46] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jose871 Dicki44
+    Location: TUFTS MEDICAL CENTER, INC
+    Duration: 13:05:46 - 13:26:24
+
+  [13:05:46] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [13:05:46] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2013-10-15
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Gaylene599 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [13:05:46] DOCUMENT: History and physical note
+    Status: superseded
+
+  [13:26:24] CLAIM: professional
+    Amount: USD 512.63
+
+
+📅 2013-10-16
+
+  [13:29:24] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jose871 Dicki44
+    Location: TUFTS MEDICAL CENTER, INC
+    Duration: 13:29:24 - 14:01:39
+
+  [13:29:24] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [13:29:24] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2013-10-16
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Gaylene599 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [13:29:24] DOCUMENT: History and physical note
+    Status: superseded
+
+  [14:01:39] CLAIM: professional
+    Amount: USD 512.63
+
+
+📅 2013-10-17
+
+  [22:48:39] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jose871 Dicki44
+    Location: TUFTS MEDICAL CENTER, INC
+    Duration: 22:48:39 - 23:18:01
+
+  [22:48:39] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [22:48:39] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2013-10-17
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Gaylene599 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [22:48:39] DOCUMENT: History and physical note
+    Status: superseded
+
+  [23:18:01] CLAIM: professional
+    Amount: USD 666.12
+
+
+📅 2013-10-19
+
+  [07:49:01] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jose871 Dicki44
+    Location: TUFTS MEDICAL CENTER, INC
+    Duration: 07:49:01 - 08:12:56
+
+  [07:49:01] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [07:49:01] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2013-10-19
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Gaylene599 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [07:49:01] DOCUMENT: History and physical note
+    Status: superseded
+
+  [08:12:56] CLAIM: professional
+    Amount: USD 627.64
+
+
+📅 2013-10-20
+
+  [18:03:56] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jose871 Dicki44
+    Location: TUFTS MEDICAL CENTER, INC
+    Duration: 18:03:56 - 18:26:17
+
+  [18:03:56] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [18:03:56] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2013-10-20
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Gaylene599 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [18:03:56] DOCUMENT: History and physical note
+    Status: superseded
+
+  [18:26:17] CLAIM: professional
+    Amount: USD 890.80
+
+
+📅 2013-10-22
+
+  [03:50:17] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jose871 Dicki44
+    Location: TUFTS MEDICAL CENTER, INC
+    Duration: 03:50:17 - 04:27:12
+
+  [03:50:17] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [03:50:17] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2013-10-22
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Gaylene599 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [03:50:17] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:27:12] CLAIM: professional
+    Amount: USD 1359.90
+
+
+📅 2013-10-23
+
+  [14:01:12] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jose871 Dicki44
+    Location: TUFTS MEDICAL CENTER, INC
+    Duration: 14:01:12 - 14:19:50
+
+  [14:01:12] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [14:01:12] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2013-10-23
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Gaylene599 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [14:01:12] DOCUMENT: History and physical note
+    Status: superseded
+
+  [14:19:50] CLAIM: professional
+    Amount: USD 1359.90
+
+
+📅 2013-10-24
+
+  [19:14:50] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jose871 Dicki44
+    Location: TUFTS MEDICAL CENTER, INC
+    Duration: 19:14:50 - 19:50:08
+
+  [19:14:50] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [19:14:50] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2013-10-24
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Gaylene599 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [19:14:50] DOCUMENT: History and physical note
+    Status: superseded
+
+  [19:50:08] CLAIM: professional
+    Amount: USD 512.63
+
+
+📅 2013-10-27
+
+  [22:50:08] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jose871 Dicki44
+    Location: TUFTS MEDICAL CENTER, INC
+    Duration: 22:50:08 - 23:05:08
+
+  [22:50:08] OBSERVATION: Treatment status Cancer: Treatment changed (situation)
+
+  [22:50:08] OBSERVATION: Response to cancer treatment: Worsening (qualifier value)
+
+  [22:50:08] MEDICATION PRESCRIBED: Unknown medication
+    Status: completed
+    Prescribed by: Dr. Jose871 Dicki44
+
+  [22:50:08] MEDICATION ADMINISTERED: exemestane 25 MG Oral Tablet
+    Status: completed
+    Dosage: 1.0
+
+  [22:50:08] MEDICATION PRESCRIBED: Unknown medication
+    Status: completed
+    Prescribed by: Dr. Jose871 Dicki44
+
+  [22:50:08] MEDICATION ADMINISTERED: ribociclib 200 MG Oral Tablet
+    Status: completed
+
+  [22:50:08] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2013-10-27
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Gaylene599 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [22:50:08] DOCUMENT: History and physical note
+    Status: superseded
+
+  [23:05:08] CLAIM: pharmacy
+    Amount: USD 13306.72
+
+  [23:05:08] CLAIM: pharmacy
+    Amount: USD 111.91
+
+  [23:05:08] CLAIM: professional
+    Amount: USD 85.55
+
+
+📅 2014-02-26
+
+  [21:50:08] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jose871 Dicki44
+    Location: TUFTS MEDICAL CENTER, INC
+    Duration: 21:50:08 - 22:28:42
+
+  [21:50:08] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [21:50:08] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2014-02-26
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Gaylene599 is a 41 year-old nonhispanic white female.
+      # Social History
+
+  [21:50:08] DOCUMENT: History and physical note
+    Status: superseded
+
+  [22:28:42] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2014-07-01
+
+  [23:28:42] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jose871 Dicki44
+    Location: TUFTS MEDICAL CENTER, INC
+    Duration: 23:28:42 - 00:01:30
+
+  [23:28:42] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [23:28:42] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2014-07-01
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Gaylene599 is a 41 year-old nonhispanic white female.
+      # Social History
+
+  [23:28:42] DOCUMENT: History and physical note
+    Status: superseded
+
+
+📅 2014-07-02
+
+  [00:01:30] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2014-10-31
+
+  [00:01:30] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jose871 Dicki44
+    Location: TUFTS MEDICAL CENTER, INC
+    Duration: 00:01:30 - 00:41:13
+
+  [00:01:30] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [00:01:30] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2014-10-31
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Gaylene599 is a 41 year-old nonhispanic white female.
+      # Social History
+
+  [00:01:30] DOCUMENT: History and physical note
+    Status: superseded
+
+  [00:41:13] CLAIM: professional
+    Amount: USD 573.98
+
+  [00:41:13] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jose871 Dicki44
+    Location: TUFTS MEDICAL CENTER, INC
+    Duration: 00:41:13 - 01:03:55
+
+  [00:41:13] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [00:41:13] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2014-10-31
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Gaylene599 is a 41 year-old nonhispanic white female.
+      # Social History
+
+  [00:41:13] DOCUMENT: History and physical note
+    Status: superseded
+
+  [01:03:55] CLAIM: professional
+    Amount: USD 325.49
+
+  [01:03:55] VISIT: Follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jose871 Dicki44
+    Location: TUFTS MEDICAL CENTER, INC
+    Duration: 01:03:55 - 01:18:55
+
+  [01:03:55] PROCEDURE: Bone density scan (procedure)
+    Status: completed
+
+  [01:03:55] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2014-10-31
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Gaylene599 is a 41 year-old nonhispanic white female.
+      # Social History
+
+  [01:03:55] DOCUMENT: History and physical note
+    Status: superseded
+
+  [01:17:16] OBSERVATION: Response to cancer treatment: Worsening (qualifier value)
+
+  [01:18:55] CLAIM: professional
+    Amount: USD 4181.24
+
+
+📅 2015-01-02
+
+  [21:09:01] VISIT: General examination of patient (procedure)
+    Provider: Dr. Norah104 Friesen796
+    Location: HIGUCHI MEDICAL CARE, PLLC
+    Duration: 21:09:01 - 21:24:01
+
+  [21:09:01] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [21:09:01] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [21:09:01] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [21:09:01] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2015-01-02
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Gaylene599 is a 42 year-old nonhispanic white female.
+      # Social History
+
+  [21:09:01] DOCUMENT: History and physical note
+    Status: superseded
+
+  [21:24:01] CLAIM: professional
+    Amount: USD 544.80
+
+
+📅 2015-02-28
+
+  [00:17:16] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jose871 Dicki44
+    Location: TUFTS MEDICAL CENTER, INC
+    Duration: 00:17:16 - 00:56:27
+
+  [00:17:16] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [00:17:16] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2015-02-28
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Gaylene599 is a 42 year-old nonhispanic white female.
+      # Social History
+
+  [00:17:16] DOCUMENT: History and physical note
+    Status: superseded
+
+  [00:56:27] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2015-06-28
+
+  [01:56:27] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jose871 Dicki44
+    Location: TUFTS MEDICAL CENTER, INC
+    Duration: 01:56:27 - 02:34:28
+
+  [01:56:27] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [01:56:27] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2015-06-28
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Gaylene599 is a 42 year-old nonhispanic white female.
+      # Social History
+
+  [01:56:27] DOCUMENT: History and physical note
+    Status: superseded
+
+  [02:34:28] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2015-10-14
+
+  [02:34:28] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jose871 Dicki44
+    Location: TUFTS MEDICAL CENTER, INC
+    Duration: 02:34:28 - 03:11:39
+
+  [02:34:28] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [02:34:28] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2015-10-14
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Gaylene599 is a 42 year-old nonhispanic white female.
+      # Social History
+
+  [02:34:28] DOCUMENT: History and physical note
+    Status: superseded
+
+  [03:11:39] CLAIM: professional
+    Amount: USD 573.98
+
+  [03:11:39] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jose871 Dicki44
+    Location: TUFTS MEDICAL CENTER, INC
+    Duration: 03:11:39 - 03:31:13
+
+  [03:11:39] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [03:11:39] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2015-10-14
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Gaylene599 is a 42 year-old nonhispanic white female.
+      # Social History
+
+  [03:11:39] DOCUMENT: History and physical note
+    Status: superseded
+
+  [03:31:13] CLAIM: professional
+    Amount: USD 248.61
+
+  [03:31:13] VISIT: Follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jose871 Dicki44
+    Location: TUFTS MEDICAL CENTER, INC
+    Duration: 03:31:13 - 03:56:01
+
+  [03:31:13] PROCEDURE: Bone density scan (procedure)
+    Status: completed
+
+  [03:31:13] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2015-10-14
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Gaylene599 is a 42 year-old nonhispanic white female.
+      # Social History
+
+  [03:31:13] DOCUMENT: History and physical note
+    Status: superseded
+
+  [03:56:01] OBSERVATION: Response to cancer treatment: Worsening (qualifier value)
+
+  [03:56:01] CLAIM: professional
+    Amount: USD 4944.16
+
+
+📅 2016-02-06
+
+  [02:56:01] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jose871 Dicki44
+    Location: TUFTS MEDICAL CENTER, INC
+    Duration: 02:56:01 - 03:39:21
+
+  [02:56:01] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [02:56:01] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-02-06
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Gaylene599 is a 43 year-old nonhispanic white female.
+      # Social History
+
+  [02:56:01] DOCUMENT: History and physical note
+    Status: superseded
+
+  [03:39:21] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2016-05-19
+
+  [04:39:21] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jose871 Dicki44
+    Location: TUFTS MEDICAL CENTER, INC
+    Duration: 04:39:21 - 05:17:25
+
+  [04:39:21] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [04:39:21] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-05-19
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Gaylene599 is a 43 year-old nonhispanic white female.
+      # Social History
+
+  [04:39:21] DOCUMENT: History and physical note
+    Status: superseded
+
+  [05:17:25] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2016-08-27
+
+  [05:17:25] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jose871 Dicki44
+    Location: TUFTS MEDICAL CENTER, INC
+    Duration: 05:17:25 - 05:57:22
+
+  [05:17:25] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [05:17:25] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-08-27
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Gaylene599 is a 43 year-old nonhispanic white female.
+      # Social History
+
+  [05:17:25] DOCUMENT: History and physical note
+    Status: superseded
+
+  [05:57:22] CLAIM: professional
+    Amount: USD 573.98
+
+  [05:57:22] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jose871 Dicki44
+    Location: TUFTS MEDICAL CENTER, INC
+    Duration: 05:57:22 - 06:15:50
+
+  [05:57:22] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [05:57:22] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-08-27
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Gaylene599 is a 43 year-old nonhispanic white female.
+      # Social History
+
+  [05:57:22] DOCUMENT: History and physical note
+    Status: superseded
+
+  [06:15:50] CLAIM: professional
+    Amount: USD 211.60
+
+  [06:15:50] VISIT: Follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jose871 Dicki44
+    Location: TUFTS MEDICAL CENTER, INC
+    Duration: 06:15:50 - 06:30:50
+
+  [06:15:50] PROCEDURE: Bone density scan (procedure)
+    Status: completed
+
+  [06:15:50] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-08-27
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Gaylene599 is a 43 year-old nonhispanic white female.
+      # Social History
+
+  [06:15:50] DOCUMENT: History and physical note
+    Status: superseded
+
+  [06:30:40] OBSERVATION: Response to cancer treatment: Worsening (qualifier value)
+
+  [06:30:50] CLAIM: professional
+    Amount: USD 5003.34
+
+
+📅 2016-12-26
+
+  [05:30:40] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jose871 Dicki44
+    Location: TUFTS MEDICAL CENTER, INC
+    Duration: 05:30:40 - 06:03:14
+
+  [05:30:40] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [05:30:40] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-12-26
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Gaylene599 is a 44 year-old nonhispanic white female.
+      # Social History
+
+  [05:30:40] DOCUMENT: History and physical note
+    Status: superseded
+
+  [06:03:14] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2017-01-06
+
+  [21:09:01] VISIT: General examination of patient (procedure)
+    Provider: Dr. Norah104 Friesen796
+    Location: HIGUCHI MEDICAL CARE, PLLC
+    Duration: 21:09:01 - 21:24:01
+
+  [21:09:01] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [21:09:01] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-01-06
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Gaylene599 is a 44 year-old nonhispanic white female.
+      # Social History
+
+  [21:09:01] DOCUMENT: History and physical note
+    Status: superseded
+
+  [21:24:01] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2017-04-17
+
+  [07:03:14] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jose871 Dicki44
+    Location: TUFTS MEDICAL CENTER, INC
+    Duration: 07:03:14 - 07:36:56
+
+  [07:03:14] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [07:03:14] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-04-17
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Gaylene599 is a 44 year-old nonhispanic white female.
+      # Social History
+
+  [07:03:14] DOCUMENT: History and physical note
+    Status: superseded
+
+  [07:36:56] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2017-08-06
+
+  [07:36:56] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jose871 Dicki44
+    Location: TUFTS MEDICAL CENTER, INC
+    Duration: 07:36:56 - 08:17:47
+
+  [07:36:56] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [07:36:56] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-08-06
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Gaylene599 is a 44 year-old nonhispanic white female.
+      # Social History
+
+  [07:36:56] DOCUMENT: History and physical note
+    Status: superseded
+
+  [08:17:47] CLAIM: professional
+    Amount: USD 573.98
+
+  [08:17:47] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jose871 Dicki44
+    Location: TUFTS MEDICAL CENTER, INC
+    Duration: 08:17:47 - 08:37:23
+
+  [08:17:47] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [08:17:47] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-08-06
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Gaylene599 is a 44 year-old nonhispanic white female.
+      # Social History
+
+  [08:17:47] DOCUMENT: History and physical note
+    Status: superseded
+
+  [08:37:23] CLAIM: professional
+    Amount: USD 211.60
+
+  [08:37:23] VISIT: Follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jose871 Dicki44
+    Location: TUFTS MEDICAL CENTER, INC
+    Duration: 08:37:23 - 08:59:30
+
+  [08:37:23] PROCEDURE: Bone density scan (procedure)
+    Status: completed
+
+  [08:37:23] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-08-06
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Gaylene599 is a 44 year-old nonhispanic white female.
+      # Social History
+
+  [08:37:23] DOCUMENT: History and physical note
+    Status: superseded
+
+  [08:59:30] OBSERVATION: Response to cancer treatment: Worsening (qualifier value)
+
+  [08:59:30] CLAIM: professional
+    Amount: USD 9184.44
+
+
+📅 2017-12-06
+
+  [07:59:30] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jose871 Dicki44
+    Location: TUFTS MEDICAL CENTER, INC
+    Duration: 07:59:30 - 08:40:19
+
+  [07:59:30] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [07:59:30] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-12-06
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Gaylene599 is a 44 year-old nonhispanic white female.
+      # Social History
+
+  [07:59:30] DOCUMENT: History and physical note
+    Status: superseded
+
+  [08:40:19] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2018-03-23
+
+  [22:09:01] VISIT: Death Certification
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Norah104 Friesen796
+    Location: HIGUCHI MEDICAL CARE, PLLC
+    Duration: 22:09:01 - 22:24:01
+
+  [22:09:01] OBSERVATION: Cause of Death [US Standard Certificate of Death]: Malignant neoplasm of breast (disorder)
+
+  [22:09:01] DIAGNOSTIC REPORT: U.S. standard certificate of death - 2003 revision
+
+  [22:09:01] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-03-23
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Gaylene599 is a 45 year-old nonhispanic white female.
+      # Social History
+
+  [22:09:01] DOCUMENT: History and physical note
+    Status: current
+
+  [22:09:01] PROVENANCE: Record activity
+    Agents: Dr. Norah104 Friesen796, Dr. Norah104 Friesen796
+
+  [22:24:01] CLAIM: professional
+    Amount: USD 211.38
+
+================================================================================
+END OF TIMELINE (354 events)
+================================================================================

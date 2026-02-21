@@ -1,0 +1,139 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Mrs. Alene865 Angelyn934 Weber641
+  Patient ID: 5639
+  Date of Birth: 1982-02-18
+  Gender: Female
+  Race: American Indian or Alaska Native
+  Ethnicity: Not Hispanic or Latino
+  Marital Status: Married
+  Address: 836 Shields Lock Suite 69, Peabody, MA 01960
+  Phone: 555-612-6372
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2016-05-05
+
+  [14:14:51] VISIT: General examination of patient (procedure)
+    Provider: Dr. Gerardo48 Herzog843
+    Location: NORTH READING INTERNAL MEDICINE PC
+    Duration: 14:14:51 - 14:29:51
+
+  [14:14:51] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [14:14:51] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-05-05
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Alene865 Angelyn934 is a 34 year-old nonhispanic native female.
+      # Social History
+
+  [14:14:51] DOCUMENT: History and physical note
+    Status: superseded
+
+  [14:29:51] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2019-05-09
+
+  [14:14:51] VISIT: General examination of patient (procedure)
+    Provider: Dr. Gerardo48 Herzog843
+    Location: NORTH READING INTERNAL MEDICINE PC
+    Duration: 14:14:51 - 14:29:51
+
+  [14:14:51] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [14:14:51] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-05-09
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Alene865 Angelyn934 is a 37 year-old nonhispanic native female.
+      # Social History
+
+  [14:14:51] DOCUMENT: History and physical note
+    Status: superseded
+
+  [14:29:51] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2022-02-24
+
+  [13:14:51] VISIT: General examination of patient (procedure)
+    Provider: Dr. Gerardo48 Herzog843
+    Location: NORTH READING INTERNAL MEDICINE PC
+    Duration: 13:14:51 - 13:29:51
+
+  [13:14:51] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [13:14:51] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [13:14:51] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-02-24
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Alene865 Angelyn934 is a 40 year-old nonhispanic native female.
+      # Social History
+
+  [13:14:51] DOCUMENT: History and physical note
+    Status: superseded
+
+  [13:29:51] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2024-02-29
+
+  [13:14:51] VISIT: General examination of patient (procedure)
+    Provider: Dr. Gerardo48 Herzog843
+    Location: NORTH READING INTERNAL MEDICINE PC
+    Duration: 13:14:51 - 13:29:51
+
+  [13:14:51] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [13:14:51] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [13:14:51] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [13:14:51] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-02-29
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Alene865 Angelyn934 is a 42 year-old nonhispanic native female.
+      # Social History
+
+  [13:14:51] DOCUMENT: History and physical note
+    Status: current
+
+  [13:29:51] CLAIM: professional
+    Amount: USD 544.80
+
+
+📅 2026-02-12
+
+  [13:14:51] PROVENANCE: Record activity
+    Agents: Dr. Gerardo48 Herzog843, Dr. Gerardo48 Herzog843
+
+================================================================================
+END OF TIMELINE (24 events)
+================================================================================

@@ -1,0 +1,191 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Ms. Shannan727 Gilda31 Considine820
+  Patient ID: 135475
+  Date of Birth: 1981-11-30
+  Gender: Female
+  Race: Asian
+  Ethnicity: Not Hispanic or Latino
+  Marital Status: Never Married
+  Address: 382 Dach Branch, Lynn, MA 01906
+  Phone: 555-504-7244
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2019-02-18
+
+  [06:38:35] VISIT: General examination of patient (procedure)
+    Provider: Dr. Palmer257 Kuphal363
+    Location: NORTH SHORE MEDICAL CENTER INC
+    Duration: 06:38:35 - 06:53:35
+
+  [06:38:35] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [06:38:35] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-02-18
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Shannan727 is a 37 year-old nonhispanic asian female.
+      # Social History
+
+  [06:38:35] DOCUMENT: History and physical note
+    Status: superseded
+
+  [06:53:35] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2021-03-29
+
+  [07:38:35] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Palmer257 Kuphal363
+    Location: NORTH SHORE MEDICAL CENTER INC
+    Duration: 07:38:35 - 07:53:35
+
+  [07:38:35] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+    Status: completed
+
+  [07:38:35] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-03-29
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Shannan727 is a 39 year-old nonhispanic asian female.
+      # Social History
+
+  [07:38:35] DOCUMENT: History and physical note
+    Status: superseded
+
+  [07:53:35] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-04-26
+
+  [07:38:35] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Palmer257 Kuphal363
+    Location: NORTH SHORE MEDICAL CENTER INC
+    Duration: 07:38:35 - 07:53:35
+
+  [07:38:35] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+    Status: completed
+
+  [07:38:35] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-04-26
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Shannan727 is a 39 year-old nonhispanic asian female.
+      # Social History
+
+  [07:38:35] DOCUMENT: History and physical note
+    Status: superseded
+
+  [07:53:35] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-12-06
+
+  [06:38:35] VISIT: General examination of patient (procedure)
+    Provider: Dr. Palmer257 Kuphal363
+    Location: NORTH SHORE MEDICAL CENTER INC
+    Duration: 06:38:35 - 06:53:35
+
+  [06:38:35] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [06:38:35] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [06:38:35] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-12-06
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Shannan727 is a 40 year-old nonhispanic asian female.
+      # Social History
+
+  [06:38:35] DOCUMENT: History and physical note
+    Status: superseded
+
+  [06:53:35] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2023-12-11
+
+  [06:38:35] VISIT: General examination of patient (procedure)
+    Provider: Dr. Palmer257 Kuphal363
+    Location: NORTH SHORE MEDICAL CENTER INC
+    Duration: 06:38:35 - 06:53:35
+
+  [06:38:35] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [06:38:35] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [06:38:35] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [06:38:35] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-12-11
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Shannan727 is a 42 year-old nonhispanic asian female.
+      # Social History
+
+  [06:38:35] DOCUMENT: History and physical note
+    Status: superseded
+
+  [06:53:35] CLAIM: professional
+    Amount: USD 544.80
+
+
+📅 2025-12-15
+
+  [06:38:35] VISIT: General examination of patient (procedure)
+    Provider: Dr. Palmer257 Kuphal363
+    Location: NORTH SHORE MEDICAL CENTER INC
+    Duration: 06:38:35 - 06:53:35
+
+  [06:38:35] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [06:38:35] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-12-15
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Shannan727 is a 44 year-old nonhispanic asian female.
+      # Social History
+
+  [06:38:35] DOCUMENT: History and physical note
+    Status: current
+
+  [06:53:35] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2026-02-16
+
+  [06:38:35] PROVENANCE: Record activity
+    Agents: Dr. Palmer257 Kuphal363, Dr. Palmer257 Kuphal363
+
+================================================================================
+END OF TIMELINE (34 events)
+================================================================================

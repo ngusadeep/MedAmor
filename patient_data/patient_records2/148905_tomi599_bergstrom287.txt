@@ -1,0 +1,341 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Mrs. Tomi599 Bergstrom287
+  Patient ID: 148905
+  Date of Birth: 1963-10-18
+  Gender: Female
+  Race: Asian
+  Ethnicity: Not Hispanic or Latino
+  Marital Status: Married
+  Address: 423 McDermott Forge, Quincy, MA 02186
+  Phone: 555-484-7168
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2016-11-04
+
+  [20:26:59] VISIT: General examination of patient (procedure)
+    Provider: Dr. Edmundo94 Eichmann909
+    Location: FATHER BILL'S PLACE
+    Duration: 20:26:59 - 20:41:59
+
+  [20:26:59] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [20:26:59] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-11-04
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Tomi599 is a 53 year-old nonhispanic asian female.
+      # Social History
+
+  [20:26:59] DOCUMENT: History and physical note
+    Status: superseded
+
+  [20:41:59] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2017-11-10
+
+  [19:26:59] VISIT: General examination of patient (procedure)
+    Provider: Dr. Edmundo94 Eichmann909
+    Location: FATHER BILL'S PLACE
+    Duration: 19:26:59 - 19:41:59
+
+  [19:26:59] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [19:26:59] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-11-10
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Tomi599 is a 54 year-old nonhispanic asian female.
+      # Social History
+
+  [19:26:59] DOCUMENT: History and physical note
+    Status: superseded
+
+  [19:41:59] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2018-11-16
+
+  [19:26:59] VISIT: General examination of patient (procedure)
+    Provider: Dr. Edmundo94 Eichmann909
+    Location: FATHER BILL'S PLACE
+    Duration: 19:26:59 - 19:41:59
+
+  [19:26:59] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [19:26:59] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-11-16
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Tomi599 is a 55 year-old nonhispanic asian female.
+      # Social History
+
+  [19:26:59] DOCUMENT: History and physical note
+    Status: superseded
+
+  [19:41:59] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2019-11-22
+
+  [19:26:59] VISIT: General examination of patient (procedure)
+    Provider: Dr. Edmundo94 Eichmann909
+    Location: FATHER BILL'S PLACE
+    Duration: 19:26:59 - 19:41:59
+
+  [19:26:59] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [19:26:59] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-11-22
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Tomi599 is a 56 year-old nonhispanic asian female.
+      # Social History
+
+  [19:26:59] DOCUMENT: History and physical note
+    Status: superseded
+
+  [19:41:59] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2020-11-27
+
+  [19:26:59] VISIT: General examination of patient (procedure)
+    Provider: Dr. Edmundo94 Eichmann909
+    Location: FATHER BILL'S PLACE
+    Duration: 19:26:59 - 19:41:59
+
+  [19:26:59] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [19:26:59] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-11-27
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Tomi599 is a 57 year-old nonhispanic asian female.
+      # Social History
+
+  [19:26:59] DOCUMENT: History and physical note
+    Status: superseded
+
+  [19:41:59] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2021-05-21
+
+  [20:26:59] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Margaret865 Reinger292
+    Location: CARNEY HOSPITAL
+    Duration: 20:26:59 - 20:41:59
+
+  [20:26:59] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+    Status: completed
+
+  [20:26:59] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-05-21
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Tomi599 is a 57 year-old nonhispanic asian female.
+      # Social History
+
+  [20:26:59] DOCUMENT: History and physical note
+    Status: superseded
+
+  [20:41:59] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-06-18
+
+  [20:26:59] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Margaret865 Reinger292
+    Location: CARNEY HOSPITAL
+    Duration: 20:26:59 - 20:41:59
+
+  [20:26:59] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+    Status: completed
+
+  [20:26:59] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-06-18
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Tomi599 is a 57 year-old nonhispanic asian female.
+      # Social History
+
+  [20:26:59] DOCUMENT: History and physical note
+    Status: superseded
+
+  [20:41:59] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-12-03
+
+  [19:26:59] VISIT: General examination of patient (procedure)
+    Provider: Dr. Edmundo94 Eichmann909
+    Location: FATHER BILL'S PLACE
+    Duration: 19:26:59 - 19:41:59
+
+  [19:26:59] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [19:26:59] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-12-03
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Tomi599 is a 58 year-old nonhispanic asian female.
+      # Social History
+
+  [19:26:59] DOCUMENT: History and physical note
+    Status: superseded
+
+  [19:41:59] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2022-12-09
+
+  [19:26:59] VISIT: General examination of patient (procedure)
+    Provider: Dr. Edmundo94 Eichmann909
+    Location: FATHER BILL'S PLACE
+    Duration: 19:26:59 - 19:41:59
+
+  [19:26:59] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [19:26:59] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-12-09
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Tomi599 is a 59 year-old nonhispanic asian female.
+      # Social History
+
+  [19:26:59] DOCUMENT: History and physical note
+    Status: superseded
+
+  [19:41:59] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2023-12-15
+
+  [19:26:59] VISIT: General examination of patient (procedure)
+    Provider: Dr. Edmundo94 Eichmann909
+    Location: FATHER BILL'S PLACE
+    Duration: 19:26:59 - 19:41:59
+
+  [19:26:59] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [19:26:59] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-12-15
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Tomi599 is a 60 year-old nonhispanic asian female.
+      # Social History
+
+  [19:26:59] DOCUMENT: History and physical note
+    Status: superseded
+
+  [19:41:59] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2024-12-20
+
+  [19:26:59] VISIT: General examination of patient (procedure)
+    Provider: Dr. Edmundo94 Eichmann909
+    Location: FATHER BILL'S PLACE
+    Duration: 19:26:59 - 19:41:59
+
+  [19:26:59] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [19:26:59] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [19:26:59] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-12-20
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Tomi599 is a 61 year-old nonhispanic asian female.
+      # Social History
+
+  [19:26:59] DOCUMENT: History and physical note
+    Status: superseded
+
+  [19:41:59] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2025-12-26
+
+  [19:26:59] VISIT: General examination of patient (procedure)
+    Provider: Dr. Edmundo94 Eichmann909
+    Location: FATHER BILL'S PLACE
+    Duration: 19:26:59 - 19:41:59
+
+  [19:26:59] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [19:26:59] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-12-26
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Tomi599 is a 62 year-old nonhispanic asian female.
+      # Social History
+
+  [19:26:59] DOCUMENT: History and physical note
+    Status: current
+
+  [19:41:59] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2026-02-13
+
+  [19:26:59] PROVENANCE: Record activity
+    Agents: Dr. Edmundo94 Eichmann909, Dr. Edmundo94 Eichmann909
+
+================================================================================
+END OF TIMELINE (62 events)
+================================================================================

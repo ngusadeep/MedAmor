@@ -1,0 +1,133 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Ms. Niesha86 Corliss645 Bogan287
+  Patient ID: 119256
+  Date of Birth: 1984-05-29
+  Gender: Female
+  Race: White
+  Ethnicity: Not Hispanic or Latino
+  Marital Status: Never Married
+  Address: 984 Wisoky Trafficway Unit 88, Hampden, MA 00000
+  Phone: 555-576-1715
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2018-08-14
+
+  [06:08:01] VISIT: General examination of patient (procedure)
+    Provider: Dr. Fritz267 Farrell962
+    Location: CARING HEALTH CENTER, INC
+    Duration: 06:08:01 - 06:23:01
+
+  [06:08:01] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [06:08:01] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-08-14
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Niesha86 is a 34 year-old nonhispanic white female.
+      # Social History
+
+  [06:08:01] DOCUMENT: History and physical note
+    Status: superseded
+
+  [06:23:01] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2021-04-20
+
+  [06:08:01] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Miyoko154 Paucek755
+    Location: ENCOMPASS HEALTH REHAB HOSPITAL OF WESTERN MASS
+    Duration: 06:08:01 - 06:23:01
+
+  [06:08:01] IMMUNIZATION: COVID-19 vaccine, vector-nr, rS-Ad26, PF, 0.5 mL
+    Status: completed
+
+  [06:08:01] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-04-20
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Niesha86 is a 36 year-old nonhispanic white female.
+      # Social History
+
+  [06:08:01] DOCUMENT: History and physical note
+    Status: superseded
+
+  [06:23:01] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-08-17
+
+  [06:08:01] VISIT: General examination of patient (procedure)
+    Provider: Dr. Fritz267 Farrell962
+    Location: CARING HEALTH CENTER, INC
+    Duration: 06:08:01 - 06:23:01
+
+  [06:08:01] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [06:08:01] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-08-17
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Niesha86 is a 37 year-old nonhispanic white female.
+      # Social History
+
+  [06:08:01] DOCUMENT: History and physical note
+    Status: superseded
+
+  [06:23:01] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2024-06-04
+
+  [06:08:01] VISIT: General examination of patient (procedure)
+    Provider: Dr. Fritz267 Farrell962
+    Location: CARING HEALTH CENTER, INC
+    Duration: 06:08:01 - 06:23:01
+
+  [06:08:01] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [06:08:01] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [06:08:01] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-06-04
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Niesha86 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [06:08:01] DOCUMENT: History and physical note
+    Status: current
+
+  [06:23:01] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2026-02-10
+
+  [05:08:01] PROVENANCE: Record activity
+    Agents: Dr. Fritz267 Farrell962, Dr. Fritz267 Farrell962
+
+================================================================================
+END OF TIMELINE (22 events)
+================================================================================

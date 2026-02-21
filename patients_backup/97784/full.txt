@@ -1,0 +1,347 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Ms. Lucia634 Isabela97 Deleón21
+  Patient ID: 97784
+  Date of Birth: 1966-07-01
+  Gender: Female
+  Race: White
+  Ethnicity: Hispanic or Latino
+  Marital Status: Never Married
+  Address: 463 Cormier Frontage road Suite 87, Lowell, MA 01852
+  Phone: 555-273-3918
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2016-07-01
+
+  [00:39:58] VISIT: General examination of patient (procedure)
+    Provider: Dr. Erick204 Huel628
+    Location: LOWELL COMMUNITY HEALTH CENTER, INC.
+    Duration: 00:39:58 - 00:54:58
+
+  [00:39:58] IMMUNIZATION: zoster vaccine, live
+    Status: completed
+
+  [00:39:58] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [00:39:58] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-07-01
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lucia634 is a 50 year-old hispanic white female.
+      # Social History
+
+  [00:39:58] DOCUMENT: History and physical note
+    Status: superseded
+
+  [00:54:58] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2017-07-07
+
+  [00:39:58] VISIT: General examination of patient (procedure)
+    Provider: Dr. Erick204 Huel628
+    Location: LOWELL COMMUNITY HEALTH CENTER, INC.
+    Duration: 00:39:58 - 00:54:58
+
+  [00:39:58] IMMUNIZATION: zoster vaccine, live
+    Status: completed
+
+  [00:39:58] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [00:39:58] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [00:39:58] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-07-07
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lucia634 is a 51 year-old hispanic white female.
+      # Social History
+
+  [00:39:58] DOCUMENT: History and physical note
+    Status: superseded
+
+  [00:54:58] CLAIM: professional
+    Amount: USD 544.80
+
+
+📅 2018-07-13
+
+  [00:39:58] VISIT: General examination of patient (procedure)
+    Provider: Dr. Erick204 Huel628
+    Location: LOWELL COMMUNITY HEALTH CENTER, INC.
+    Duration: 00:39:58 - 00:54:58
+
+  [00:39:58] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [00:39:58] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-07-13
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lucia634 is a 52 year-old hispanic white female.
+      # Social History
+
+  [00:39:58] DOCUMENT: History and physical note
+    Status: superseded
+
+  [00:54:58] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2019-07-19
+
+  [00:39:58] VISIT: General examination of patient (procedure)
+    Provider: Dr. Erick204 Huel628
+    Location: LOWELL COMMUNITY HEALTH CENTER, INC.
+    Duration: 00:39:58 - 00:54:58
+
+  [00:39:58] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [00:39:58] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-07-19
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lucia634 is a 53 year-old hispanic white female.
+      # Social History
+
+  [00:39:58] DOCUMENT: History and physical note
+    Status: superseded
+
+  [00:54:58] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2020-07-24
+
+  [00:39:58] VISIT: General examination of patient (procedure)
+    Provider: Dr. Erick204 Huel628
+    Location: LOWELL COMMUNITY HEALTH CENTER, INC.
+    Duration: 00:39:58 - 00:54:58
+
+  [00:39:58] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [00:39:58] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-07-24
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lucia634 is a 54 year-old hispanic white female.
+      # Social History
+
+  [00:39:58] DOCUMENT: History and physical note
+    Status: superseded
+
+  [00:54:58] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2021-07-30
+
+  [00:39:58] VISIT: General examination of patient (procedure)
+    Provider: Dr. Erick204 Huel628
+    Location: LOWELL COMMUNITY HEALTH CENTER, INC.
+    Duration: 00:39:58 - 00:54:58
+
+  [00:39:58] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [00:39:58] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-07-30
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lucia634 is a 55 year-old hispanic white female.
+      # Social History
+
+  [00:39:58] DOCUMENT: History and physical note
+    Status: superseded
+
+  [00:54:58] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2021-09-10
+
+  [00:39:58] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Carlton317 Koch169
+    Location: TEWKSBURY HOSPITAL
+    Duration: 00:39:58 - 00:54:58
+
+  [00:39:58] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+    Status: completed
+
+  [00:39:58] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-09-10
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lucia634 is a 55 year-old hispanic white female.
+      # Social History
+
+  [00:39:58] DOCUMENT: History and physical note
+    Status: superseded
+
+  [00:54:58] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-10-08
+
+  [00:39:58] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Carlton317 Koch169
+    Location: TEWKSBURY HOSPITAL
+    Duration: 00:39:58 - 00:54:58
+
+  [00:39:58] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+    Status: completed
+
+  [00:39:58] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-10-08
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lucia634 is a 55 year-old hispanic white female.
+      # Social History
+
+  [00:39:58] DOCUMENT: History and physical note
+    Status: superseded
+
+  [00:54:58] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2022-08-05
+
+  [00:39:58] VISIT: General examination of patient (procedure)
+    Provider: Dr. Erick204 Huel628
+    Location: LOWELL COMMUNITY HEALTH CENTER, INC.
+    Duration: 00:39:58 - 00:54:58
+
+  [00:39:58] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [00:39:58] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-08-05
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lucia634 is a 56 year-old hispanic white female.
+      # Social History
+
+  [00:39:58] DOCUMENT: History and physical note
+    Status: superseded
+
+  [00:54:58] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2023-08-11
+
+  [00:39:58] VISIT: General examination of patient (procedure)
+    Provider: Dr. Erick204 Huel628
+    Location: LOWELL COMMUNITY HEALTH CENTER, INC.
+    Duration: 00:39:58 - 00:54:58
+
+  [00:39:58] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [00:39:58] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-08-11
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lucia634 is a 57 year-old hispanic white female.
+      # Social History
+
+  [00:39:58] DOCUMENT: History and physical note
+    Status: superseded
+
+  [00:54:58] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2024-08-16
+
+  [00:39:58] VISIT: General examination of patient (procedure)
+    Provider: Dr. Erick204 Huel628
+    Location: LOWELL COMMUNITY HEALTH CENTER, INC.
+    Duration: 00:39:58 - 00:54:58
+
+  [00:39:58] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [00:39:58] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-08-16
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lucia634 is a 58 year-old hispanic white female.
+      # Social History
+
+  [00:39:58] DOCUMENT: History and physical note
+    Status: superseded
+
+  [00:54:58] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2025-08-22
+
+  [00:39:58] VISIT: General examination of patient (procedure)
+    Provider: Dr. Erick204 Huel628
+    Location: LOWELL COMMUNITY HEALTH CENTER, INC.
+    Duration: 00:39:58 - 00:54:58
+
+  [00:39:58] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [00:39:58] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-08-22
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lucia634 is a 59 year-old hispanic white female.
+      # Social History
+
+  [00:39:58] DOCUMENT: History and physical note
+    Status: current
+
+  [00:54:58] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2026-02-12
+
+  [23:39:58] PROVENANCE: Record activity
+    Agents: Dr. Erick204 Huel628, Dr. Erick204 Huel628
+
+================================================================================
+END OF TIMELINE (64 events)
+================================================================================

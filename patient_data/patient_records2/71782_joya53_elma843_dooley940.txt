@@ -1,0 +1,318 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Ms. Joya53 Elma843 Dooley940
+  Patient ID: 71782
+  Date of Birth: 1959-12-14
+  Gender: Female
+  Race: White
+  Ethnicity: Not Hispanic or Latino
+  Marital Status: Never Married
+  Address: 997 Greenfelder Mill, Brockton, MA 02351
+  Phone: 555-789-7753
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2017-01-23
+
+  [07:40:27] VISIT: General examination of patient (procedure)
+    Provider: Dr. Marchelle563 Hettinger594
+    Location: TRINITY FAMILY MEDICINE
+    Duration: 07:40:27 - 07:55:27
+
+  [07:40:27] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [07:40:27] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-01-23
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Joya53 is a 57 year-old nonhispanic white female.
+      # Social History
+
+  [07:40:27] DOCUMENT: History and physical note
+    Status: superseded
+
+  [07:55:27] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2018-01-29
+
+  [07:40:27] VISIT: General examination of patient (procedure)
+    Provider: Dr. Marchelle563 Hettinger594
+    Location: TRINITY FAMILY MEDICINE
+    Duration: 07:40:27 - 07:55:27
+
+  [07:40:27] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [07:40:27] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-01-29
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Joya53 is a 58 year-old nonhispanic white female.
+      # Social History
+
+  [07:40:27] DOCUMENT: History and physical note
+    Status: superseded
+
+  [07:55:27] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2019-02-04
+
+  [07:40:27] VISIT: General examination of patient (procedure)
+    Provider: Dr. Marchelle563 Hettinger594
+    Location: TRINITY FAMILY MEDICINE
+    Duration: 07:40:27 - 07:55:27
+
+  [07:40:27] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [07:40:27] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-02-04
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Joya53 is a 59 year-old nonhispanic white female.
+      # Social History
+
+  [07:40:27] DOCUMENT: History and physical note
+    Status: superseded
+
+  [07:55:27] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2020-02-10
+
+  [07:40:27] VISIT: General examination of patient (procedure)
+    Provider: Dr. Marchelle563 Hettinger594
+    Location: TRINITY FAMILY MEDICINE
+    Duration: 07:40:27 - 07:55:27
+
+  [07:40:27] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [07:40:27] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-02-10
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Joya53 is a 60 year-old nonhispanic white female.
+      # Social History
+
+  [07:40:27] DOCUMENT: History and physical note
+    Status: superseded
+
+  [07:55:27] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2021-02-15
+
+  [07:40:27] VISIT: General examination of patient (procedure)
+    Provider: Dr. Marchelle563 Hettinger594
+    Location: TRINITY FAMILY MEDICINE
+    Duration: 07:40:27 - 07:55:27
+
+  [07:40:27] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [07:40:27] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [07:40:27] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-02-15
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Joya53 is a 61 year-old nonhispanic white female.
+      # Social History
+
+  [07:40:27] DOCUMENT: History and physical note
+    Status: superseded
+
+  [07:55:27] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2021-03-01
+
+  [07:40:27] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Victoria535 Delvalle807
+    Location: CURAHEALTH STOUGHTON LLC
+    Duration: 07:40:27 - 07:55:27
+
+  [07:40:27] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+    Status: completed
+
+  [07:40:27] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-03-01
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Joya53 is a 61 year-old nonhispanic white female.
+      # Social History
+
+  [07:40:27] DOCUMENT: History and physical note
+    Status: superseded
+
+  [07:55:27] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-03-29
+
+  [08:40:27] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Victoria535 Delvalle807
+    Location: CURAHEALTH STOUGHTON LLC
+    Duration: 08:40:27 - 08:55:27
+
+  [08:40:27] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+    Status: completed
+
+  [08:40:27] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-03-29
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Joya53 is a 61 year-old nonhispanic white female.
+      # Social History
+
+  [08:40:27] DOCUMENT: History and physical note
+    Status: superseded
+
+  [08:55:27] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2022-02-21
+
+  [07:40:27] VISIT: General examination of patient (procedure)
+    Provider: Dr. Marchelle563 Hettinger594
+    Location: TRINITY FAMILY MEDICINE
+    Duration: 07:40:27 - 07:55:27
+
+  [07:40:27] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [07:40:27] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-02-21
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Joya53 is a 62 year-old nonhispanic white female.
+      # Social History
+
+  [07:40:27] DOCUMENT: History and physical note
+    Status: superseded
+
+  [07:55:27] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2023-02-27
+
+  [07:40:27] VISIT: General examination of patient (procedure)
+    Provider: Dr. Marchelle563 Hettinger594
+    Location: TRINITY FAMILY MEDICINE
+    Duration: 07:40:27 - 07:55:27
+
+  [07:40:27] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [07:40:27] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-02-27
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Joya53 is a 63 year-old nonhispanic white female.
+      # Social History
+
+  [07:40:27] DOCUMENT: History and physical note
+    Status: superseded
+
+  [07:55:27] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2024-03-04
+
+  [07:40:27] VISIT: General examination of patient (procedure)
+    Provider: Dr. Marchelle563 Hettinger594
+    Location: TRINITY FAMILY MEDICINE
+    Duration: 07:40:27 - 07:55:27
+
+  [07:40:27] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [07:40:27] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-03-04
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Joya53 is a 64 year-old nonhispanic white female.
+      # Social History
+
+  [07:40:27] DOCUMENT: History and physical note
+    Status: superseded
+
+  [07:55:27] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2025-03-10
+
+  [08:40:27] VISIT: General examination of patient (procedure)
+    Provider: Dr. Marchelle563 Hettinger594
+    Location: TRINITY FAMILY MEDICINE
+    Duration: 08:40:27 - 08:55:27
+
+  [08:40:27] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [08:40:27] IMMUNIZATION: Pneumococcal conjugate PCV 13
+    Status: completed
+
+  [08:40:27] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-03-10
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Joya53 is a 65 year-old nonhispanic white female.
+      # Social History
+
+  [08:40:27] DOCUMENT: History and physical note
+    Status: current
+
+  [08:55:27] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2026-02-16
+
+  [07:40:27] PROVENANCE: Record activity
+    Agents: Dr. Marchelle563 Hettinger594, Dr. Marchelle563 Hettinger594
+
+================================================================================
+END OF TIMELINE (58 events)
+================================================================================

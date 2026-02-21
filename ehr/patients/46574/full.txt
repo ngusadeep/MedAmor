@@ -1,0 +1,243 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Ms. Emilia403 Antonia30 Pulido715
+  Patient ID: 46574
+  Date of Birth: 1971-12-28
+  Gender: Female
+  Race: Asian
+  Ethnicity: Hispanic or Latino
+  Marital Status: Never Married
+  Address: 670 Keebler Bay, West Springfield, MA 01089
+  Phone: 555-390-1869
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2018-01-16
+
+  [19:07:50] VISIT: General examination of patient (procedure)
+    Provider: Dr. Odilia72 Mraz590
+    Location: FAMILY MEDICINE ASSOCIATES
+    Duration: 19:07:50 - 19:22:50
+
+  [19:07:50] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [19:07:50] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-01-16
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Emilia403 is a 46 year-old hispanic asian female.
+      # Social History
+
+  [19:07:50] DOCUMENT: History and physical note
+    Status: superseded
+
+  [19:22:50] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2020-01-21
+
+  [19:07:50] VISIT: General examination of patient (procedure)
+    Provider: Dr. Odilia72 Mraz590
+    Location: FAMILY MEDICINE ASSOCIATES
+    Duration: 19:07:50 - 19:22:50
+
+  [19:07:50] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [19:07:50] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-01-21
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Emilia403 is a 48 year-old hispanic asian female.
+      # Social History
+
+  [19:07:50] DOCUMENT: History and physical note
+    Status: superseded
+
+  [19:22:50] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2021-03-16
+
+  [20:07:50] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Inés791 Ávila241
+    Location: WESTERN MASSACHUSETTS HOSPITAL
+    Duration: 20:07:50 - 20:22:50
+
+  [20:07:50] IMMUNIZATION: COVID-19 vaccine, vector-nr, rS-Ad26, PF, 0.5 mL
+    Status: completed
+
+  [20:07:50] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-03-16
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Emilia403 is a 49 year-old hispanic asian female.
+      # Social History
+
+  [20:07:50] DOCUMENT: History and physical note
+    Status: superseded
+
+  [20:22:50] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-12-28
+
+  [19:07:50] VISIT: General examination of patient (procedure)
+    Provider: Dr. Odilia72 Mraz590
+    Location: FAMILY MEDICINE ASSOCIATES
+    Duration: 19:07:50 - 19:22:50
+
+  [19:07:50] IMMUNIZATION: zoster vaccine, live
+    Status: completed
+
+  [19:07:50] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [19:07:50] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-12-28
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Emilia403 is a 50 year-old hispanic asian female.
+      # Social History
+
+  [19:07:50] DOCUMENT: History and physical note
+    Status: superseded
+
+  [19:22:50] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2023-01-03
+
+  [19:07:50] VISIT: General examination of patient (procedure)
+    Provider: Dr. Odilia72 Mraz590
+    Location: FAMILY MEDICINE ASSOCIATES
+    Duration: 19:07:50 - 19:22:50
+
+  [19:07:50] IMMUNIZATION: zoster vaccine, live
+    Status: completed
+
+  [19:07:50] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [19:07:50] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [19:07:50] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-01-03
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Emilia403 is a 51 year-old hispanic asian female.
+      # Social History
+
+  [19:07:50] DOCUMENT: History and physical note
+    Status: superseded
+
+  [19:22:50] CLAIM: professional
+    Amount: USD 544.80
+
+
+📅 2024-01-09
+
+  [19:07:50] VISIT: General examination of patient (procedure)
+    Provider: Dr. Odilia72 Mraz590
+    Location: FAMILY MEDICINE ASSOCIATES
+    Duration: 19:07:50 - 19:22:50
+
+  [19:07:50] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [19:07:50] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-01-09
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Emilia403 is a 52 year-old hispanic asian female.
+      # Social History
+
+  [19:07:50] DOCUMENT: History and physical note
+    Status: superseded
+
+  [19:22:50] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2025-01-14
+
+  [19:07:50] VISIT: General examination of patient (procedure)
+    Provider: Dr. Odilia72 Mraz590
+    Location: FAMILY MEDICINE ASSOCIATES
+    Duration: 19:07:50 - 19:22:50
+
+  [19:07:50] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [19:07:50] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-01-14
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Emilia403 is a 53 year-old hispanic asian female.
+      # Social History
+
+  [19:07:50] DOCUMENT: History and physical note
+    Status: superseded
+
+  [19:22:50] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2026-01-20
+
+  [19:07:50] VISIT: General examination of patient (procedure)
+    Provider: Dr. Odilia72 Mraz590
+    Location: FAMILY MEDICINE ASSOCIATES
+    Duration: 19:07:50 - 19:22:50
+
+  [19:07:50] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [19:07:50] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2026-01-20
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Emilia403 is a 54 year-old hispanic asian female.
+      # Social History
+
+  [19:07:50] DOCUMENT: History and physical note
+    Status: current
+
+  [19:22:50] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2026-02-10
+
+  [19:07:50] PROVENANCE: Record activity
+    Agents: Dr. Odilia72 Mraz590, Dr. Odilia72 Mraz590
+
+================================================================================
+END OF TIMELINE (44 events)
+================================================================================

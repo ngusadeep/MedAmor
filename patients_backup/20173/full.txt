@@ -1,0 +1,139 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Mrs. Bethanie176 Marylynn944 Cronin387
+  Patient ID: 20173
+  Date of Birth: 1983-09-13
+  Gender: Female
+  Race: Asian
+  Ethnicity: Not Hispanic or Latino
+  Marital Status: Married
+  Address: 913 Harvey Arcade, Wellesley, MA 02492
+  Phone: 555-570-6611
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2017-11-28
+
+  [15:20:50] VISIT: General examination of patient (procedure)
+    Provider: Dr. Irene779 Kirlin939
+    Location: NEEDHAM FAMILY PRACTICE ASSOC. P.C.
+    Duration: 15:20:50 - 15:35:50
+
+  [15:20:50] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [15:20:50] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-11-28
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Bethanie176 Marylynn944 is a 34 year-old nonhispanic asian female.
+      # Social History
+
+  [15:20:50] DOCUMENT: History and physical note
+    Status: superseded
+
+  [15:35:50] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2020-12-01
+
+  [15:20:50] VISIT: General examination of patient (procedure)
+    Provider: Dr. Irene779 Kirlin939
+    Location: NEEDHAM FAMILY PRACTICE ASSOC. P.C.
+    Duration: 15:20:50 - 15:35:50
+
+  [15:20:50] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [15:20:50] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-12-01
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Bethanie176 Marylynn944 is a 37 year-old nonhispanic asian female.
+      # Social History
+
+  [15:20:50] DOCUMENT: History and physical note
+    Status: superseded
+
+  [15:35:50] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2023-09-19
+
+  [16:20:50] VISIT: General examination of patient (procedure)
+    Provider: Dr. Irene779 Kirlin939
+    Location: NEEDHAM FAMILY PRACTICE ASSOC. P.C.
+    Duration: 16:20:50 - 16:35:50
+
+  [16:20:50] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [16:20:50] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [16:20:50] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-09-19
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Bethanie176 Marylynn944 is a 40 year-old nonhispanic asian female.
+      # Social History
+
+  [16:20:50] DOCUMENT: History and physical note
+    Status: superseded
+
+  [16:35:50] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2025-09-23
+
+  [16:20:50] VISIT: General examination of patient (procedure)
+    Provider: Dr. Irene779 Kirlin939
+    Location: NEEDHAM FAMILY PRACTICE ASSOC. P.C.
+    Duration: 16:20:50 - 16:35:50
+
+  [16:20:50] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [16:20:50] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [16:20:50] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [16:20:50] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-09-23
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Bethanie176 Marylynn944 is a 42 year-old nonhispanic asian female.
+      # Social History
+
+  [16:20:50] DOCUMENT: History and physical note
+    Status: current
+
+  [16:35:50] CLAIM: professional
+    Amount: USD 544.80
+
+
+📅 2026-02-10
+
+  [15:20:50] PROVENANCE: Record activity
+    Agents: Dr. Irene779 Kirlin939, Dr. Irene779 Kirlin939
+
+================================================================================
+END OF TIMELINE (24 events)
+================================================================================

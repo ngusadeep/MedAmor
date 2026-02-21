@@ -1,0 +1,217 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Mrs. Malinda718 Osinski784
+  Patient ID: 101912
+  Date of Birth: 1975-05-09
+  Gender: Female
+  Race: White
+  Ethnicity: Not Hispanic or Latino
+  Marital Status: Married
+  Address: 568 Heaney Parade, Braintree, MA 02184
+  Phone: 555-283-8239
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2017-05-19
+
+  [05:33:35] VISIT: General examination of patient (procedure)
+    Provider: Dr. Josephine273 Collier206
+    Location: BRAINTREE FAMILY PHYSICIAN INC
+    Duration: 05:33:35 - 05:48:35
+
+  [05:33:35] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [05:33:35] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [05:33:35] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [05:33:35] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-05-19
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Malinda718 is a 42 year-old nonhispanic white female.
+      # Social History
+
+  [05:33:35] DOCUMENT: History and physical note
+    Status: superseded
+
+  [05:48:35] CLAIM: professional
+    Amount: USD 544.80
+
+
+📅 2019-05-24
+
+  [05:33:35] VISIT: General examination of patient (procedure)
+    Provider: Dr. Josephine273 Collier206
+    Location: BRAINTREE FAMILY PHYSICIAN INC
+    Duration: 05:33:35 - 05:48:35
+
+  [05:33:35] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [05:33:35] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-05-24
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Malinda718 is a 44 year-old nonhispanic white female.
+      # Social History
+
+  [05:33:35] DOCUMENT: History and physical note
+    Status: superseded
+
+  [05:48:35] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2021-05-14
+
+  [05:33:35] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. January966 Roberts511
+    Location: SOUTH SHORE HOSPITAL INC.
+    Duration: 05:33:35 - 05:48:35
+
+  [05:33:35] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 30 mcg/0.3 mL dose
+    Status: completed
+
+  [05:33:35] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-05-14
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Malinda718 is a 46 year-old nonhispanic white female.
+      # Social History
+
+  [05:33:35] DOCUMENT: History and physical note
+    Status: superseded
+
+  [05:48:35] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-05-28
+
+  [05:33:35] VISIT: General examination of patient (procedure)
+    Provider: Dr. Josephine273 Collier206
+    Location: BRAINTREE FAMILY PHYSICIAN INC
+    Duration: 05:33:35 - 05:48:35
+
+  [05:33:35] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [05:33:35] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-05-28
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Malinda718 is a 46 year-old nonhispanic white female.
+      # Social History
+
+  [05:33:35] DOCUMENT: History and physical note
+    Status: superseded
+
+  [05:48:35] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2021-06-04
+
+  [05:33:35] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. January966 Roberts511
+    Location: SOUTH SHORE HOSPITAL INC.
+    Duration: 05:33:35 - 05:48:35
+
+  [05:33:35] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 30 mcg/0.3 mL dose
+    Status: completed
+
+  [05:33:35] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-06-04
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Malinda718 is a 46 year-old nonhispanic white female.
+      # Social History
+
+  [05:33:35] DOCUMENT: History and physical note
+    Status: superseded
+
+  [05:48:35] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2023-06-02
+
+  [05:33:35] VISIT: General examination of patient (procedure)
+    Provider: Dr. Josephine273 Collier206
+    Location: BRAINTREE FAMILY PHYSICIAN INC
+    Duration: 05:33:35 - 05:48:35
+
+  [05:33:35] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [05:33:35] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-06-02
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Malinda718 is a 48 year-old nonhispanic white female.
+      # Social History
+
+  [05:33:35] DOCUMENT: History and physical note
+    Status: superseded
+
+  [05:48:35] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2025-05-09
+
+  [05:33:35] VISIT: General examination of patient (procedure)
+    Provider: Dr. Josephine273 Collier206
+    Location: BRAINTREE FAMILY PHYSICIAN INC
+    Duration: 05:33:35 - 05:48:35
+
+  [05:33:35] IMMUNIZATION: zoster vaccine, live
+    Status: completed
+
+  [05:33:35] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [05:33:35] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-05-09
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Malinda718 is a 50 year-old nonhispanic white female.
+      # Social History
+
+  [05:33:35] DOCUMENT: History and physical note
+    Status: current
+
+  [05:48:35] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2026-02-13
+
+  [04:33:35] PROVENANCE: Record activity
+    Agents: Dr. Josephine273 Collier206, Dr. Josephine273 Collier206
+
+================================================================================
+END OF TIMELINE (39 events)
+================================================================================

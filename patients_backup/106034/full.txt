@@ -1,0 +1,1425 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Ms. Marivel862 Adrien235 Bailey598
+  Patient ID: 106034
+  Date of Birth: 1981-08-04
+  Gender: Female
+  Race: White
+  Ethnicity: Not Hispanic or Latino
+  Marital Status: Never Married
+  Address: 938 Hartmann Wall Apt 33, Leominster, MA 01453
+  Phone: 555-809-2393
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2018-10-23
+
+  [13:39:56] VISIT: General examination of patient (procedure)
+    Provider: Dr. Raleigh478 Hauck852
+    Location: COMMUNITY HEALTH CONNECTIONS, INC
+    Duration: 13:39:56 - 13:54:56
+
+  [13:39:56] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [13:39:56] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-10-23
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Marivel862 is a 37 year-old nonhispanic white female.
+      # Social History
+
+  [13:39:56] DOCUMENT: History and physical note
+    Status: superseded
+
+  [13:54:56] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2021-08-10
+
+  [13:39:56] VISIT: General examination of patient (procedure)
+    Provider: Dr. Raleigh478 Hauck852
+    Location: COMMUNITY HEALTH CONNECTIONS, INC
+    Duration: 13:39:56 - 13:54:56
+
+  [13:39:56] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [13:39:56] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [13:39:56] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-08-10
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Marivel862 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [13:39:56] DOCUMENT: History and physical note
+    Status: superseded
+
+  [13:54:56] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2021-10-12
+
+  [13:39:56] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Jules135 Emard19
+    Location: UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC
+    Duration: 13:39:56 - 13:54:56
+
+  [13:39:56] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+    Status: completed
+
+  [13:39:56] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-10-12
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Marivel862 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [13:39:56] DOCUMENT: History and physical note
+    Status: superseded
+
+  [13:54:56] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-11-09
+
+  [12:39:56] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Jules135 Emard19
+    Location: UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC
+    Duration: 12:39:56 - 12:54:56
+
+  [12:39:56] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+    Status: completed
+
+  [12:39:56] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-11-09
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Marivel862 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [12:39:56] DOCUMENT: History and physical note
+    Status: superseded
+
+  [12:54:56] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2023-08-15
+
+  [13:39:56] VISIT: General examination of patient (procedure)
+    Provider: Dr. Raleigh478 Hauck852
+    Location: COMMUNITY HEALTH CONNECTIONS, INC
+    Duration: 13:39:56 - 13:54:56
+
+  [13:39:56] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [13:39:56] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [13:39:56] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [13:39:56] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-08-15
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Marivel862 is a 42 year-old nonhispanic white female.
+      # Social History
+
+  [13:39:56] DOCUMENT: History and physical note
+    Status: superseded
+
+  [13:54:56] CLAIM: professional
+    Amount: USD 544.80
+
+
+📅 2024-12-05
+
+  [12:39:56] VISIT: Periodic reevaluation and management of healthy individual (procedure)
+    Reason: Screening for malignant neoplasm of breast (procedure)
+    Provider: Dr. Jules135 Emard19
+    Location: UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC
+    Duration: 12:39:56 - 19:07:29
+
+  [12:39:56] PROCEDURE: Screening mammography (procedure)
+    Status: completed
+
+  [12:39:56] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-12-05
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Marivel862 is a 43 year-old nonhispanic white female.
+      # Social History
+
+  [12:39:56] DOCUMENT: History and physical note
+    Status: superseded
+
+  [13:01:59] PROCEDURE: Ultrasonography of bilateral breasts (procedure)
+    Status: completed
+
+  [13:17:13] PROCEDURE: Biopsy of breast (procedure)
+    Status: completed
+
+  [14:14:29] CONDITION: Malignant neoplasm of breast (disorder) (active)
+
+  [14:14:29] OBSERVATION: Site of distant metastasis in Breast tumor: None (qualifier value)
+
+  [14:14:29] OBSERVATION: Distant metastases.clinical [Class] Cancer: American Joint Committee on Cancer cM0 (qualifier value)
+
+  [14:14:29] OBSERVATION: Size.maximum dimension in Tumor: 4.3274 cm
+
+  [14:14:29] OBSERVATION: Primary tumor.clinical [Class] Cancer: American Joint Committee on Cancer cT2 (qualifier value)
+
+  [14:14:29] OBSERVATION: Lymph nodes with isolated tumor cells [#] in Cancer specimen by Light microscopy: 0 {#}
+
+  [14:14:29] OBSERVATION: Regional lymph nodes.clinical [Class] Cancer: American Joint Committee on Cancer cN0 (qualifier value)
+
+  [14:14:29] PROCEDURE: Human epidermal growth factor receptor 2 gene detection by fluorescence in situ hybridization (procedure)
+    Status: completed
+
+
+📅 2024-12-06
+
+  [16:14:29] PROCEDURE: Human epidermal growth factor receptor 2 gene detection by immunohistochemistry (procedure)
+    Status: completed
+
+  [19:07:29] OBSERVATION: HER2 [Presence] in Breast cancer specimen by Immune stain: Negative (qualifier value)
+
+  [19:07:29] OBSERVATION: ERBB2 gene duplication [Presence] in Breast cancer specimen by FISH: less than 1.8
+
+  [19:07:29] OBSERVATION: Estrogen receptor Ag [Presence] in Breast cancer specimen by Immune stain: Positive (qualifier value)
+
+  [19:07:29] OBSERVATION: Progesterone receptor Ag [Presence] in Breast cancer specimen by Immune stain: Positive (qualifier value)
+
+  [19:07:29] OBSERVATION: Estrogen+Progesterone receptor Ag [Presence] in Tissue by Immune stain: Positive (qualifier value)
+
+  [19:07:29] OBSERVATION: Stage group.clinical Cancer: American Joint Committee on Cancer stage IIA (qualifier value)
+
+  [19:07:29] OBSERVATION: Stage group.clinical Cancer: Stage 2 (qualifier value)
+
+  [19:07:29] CLAIM: professional
+    Amount: USD 5658.60
+
+
+📅 2024-12-07
+
+  [19:07:29] VISIT: Discussion about treatment (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jules135 Emard19
+    Location: UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC
+    Duration: 19:07:29 - 20:00:26
+
+  [19:07:29] PROCEDURE: Discussion about options (procedure)
+    Status: completed
+
+  [19:07:29] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-12-07
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Marivel862 is a 43 year-old nonhispanic white female.
+      # Social History
+
+  [19:07:29] DOCUMENT: History and physical note
+    Status: superseded
+
+  [20:00:26] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2024-12-09
+
+  [02:00:26] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jules135 Emard19
+    Location: UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC
+    Duration: 02:00:26 - 03:02:09
+
+  [02:00:26] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-12-09
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Marivel862 is a 43 year-old nonhispanic white female.
+      # Social History
+
+  [02:00:26] DOCUMENT: History and physical note
+    Status: superseded
+
+  [02:35:26] PROCEDURE: Lumpectomy of breast (procedure)
+    Status: completed
+
+
+📅 2024-12-13
+
+  [03:02:09] CLAIM: institutional
+    Amount: USD 25325.38
+
+
+📅 2024-12-19
+
+  [23:02:09] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jules135 Emard19
+    Location: UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC
+    Duration: 23:02:09 - 23:26:46
+
+  [23:02:09] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [23:02:09] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-12-19
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Marivel862 is a 43 year-old nonhispanic white female.
+      # Social History
+
+  [23:02:09] DOCUMENT: History and physical note
+    Status: superseded
+
+  [23:26:46] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2024-12-21
+
+  [07:07:46] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jules135 Emard19
+    Location: UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC
+    Duration: 07:07:46 - 07:39:05
+
+  [07:07:46] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [07:07:46] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-12-21
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Marivel862 is a 43 year-old nonhispanic white female.
+      # Social History
+
+  [07:07:46] DOCUMENT: History and physical note
+    Status: superseded
+
+  [07:39:05] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2024-12-22
+
+  [15:15:05] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jules135 Emard19
+    Location: UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC
+    Duration: 15:15:05 - 15:42:29
+
+  [15:15:05] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [15:15:05] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-12-22
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Marivel862 is a 43 year-old nonhispanic white female.
+      # Social History
+
+  [15:15:05] DOCUMENT: History and physical note
+    Status: superseded
+
+  [15:42:29] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2024-12-23
+
+  [21:00:29] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jules135 Emard19
+    Location: UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC
+    Duration: 21:00:29 - 21:30:57
+
+  [21:00:29] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [21:00:29] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-12-23
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Marivel862 is a 43 year-old nonhispanic white female.
+      # Social History
+
+  [21:00:29] DOCUMENT: History and physical note
+    Status: superseded
+
+  [21:30:57] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2024-12-24
+
+  [23:08:57] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jules135 Emard19
+    Location: UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC
+    Duration: 23:08:57 - 23:24:49
+
+  [23:08:57] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [23:08:57] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-12-24
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Marivel862 is a 43 year-old nonhispanic white female.
+      # Social History
+
+  [23:08:57] DOCUMENT: History and physical note
+    Status: superseded
+
+  [23:24:49] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2024-12-26
+
+  [08:39:49] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jules135 Emard19
+    Location: UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC
+    Duration: 08:39:49 - 09:15:50
+
+  [08:39:49] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [08:39:49] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-12-26
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Marivel862 is a 43 year-old nonhispanic white female.
+      # Social History
+
+  [08:39:49] DOCUMENT: History and physical note
+    Status: superseded
+
+  [09:15:50] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2024-12-27
+
+  [11:07:50] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jules135 Emard19
+    Location: UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC
+    Duration: 11:07:50 - 11:47:07
+
+  [11:07:50] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [11:07:50] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-12-27
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Marivel862 is a 43 year-old nonhispanic white female.
+      # Social History
+
+  [11:07:50] DOCUMENT: History and physical note
+    Status: superseded
+
+  [11:47:07] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2024-12-28
+
+  [16:56:07] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jules135 Emard19
+    Location: UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC
+    Duration: 16:56:07 - 17:33:21
+
+  [16:56:07] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [16:56:07] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-12-28
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Marivel862 is a 43 year-old nonhispanic white female.
+      # Social History
+
+  [16:56:07] DOCUMENT: History and physical note
+    Status: superseded
+
+  [17:33:21] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2024-12-29
+
+  [19:27:21] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jules135 Emard19
+    Location: UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC
+    Duration: 19:27:21 - 19:55:21
+
+  [19:27:21] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [19:27:21] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-12-29
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Marivel862 is a 43 year-old nonhispanic white female.
+      # Social History
+
+  [19:27:21] DOCUMENT: History and physical note
+    Status: superseded
+
+  [19:55:21] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2024-12-30
+
+  [23:38:21] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jules135 Emard19
+    Location: UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC
+    Duration: 23:38:21 - 23:58:27
+
+  [23:38:21] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [23:38:21] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-12-30
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Marivel862 is a 43 year-old nonhispanic white female.
+      # Social History
+
+  [23:38:21] DOCUMENT: History and physical note
+    Status: superseded
+
+  [23:58:27] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2025-01-01
+
+  [02:03:27] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jules135 Emard19
+    Location: UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC
+    Duration: 02:03:27 - 02:32:37
+
+  [02:03:27] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [02:03:27] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-01-01
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Marivel862 is a 43 year-old nonhispanic white female.
+      # Social History
+
+  [02:03:27] DOCUMENT: History and physical note
+    Status: superseded
+
+  [02:32:37] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2025-01-02
+
+  [10:08:37] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jules135 Emard19
+    Location: UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC
+    Duration: 10:08:37 - 10:40:39
+
+  [10:08:37] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [10:08:37] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-01-02
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Marivel862 is a 43 year-old nonhispanic white female.
+      # Social History
+
+  [10:08:37] DOCUMENT: History and physical note
+    Status: superseded
+
+  [10:40:39] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2025-01-03
+
+  [12:07:39] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jules135 Emard19
+    Location: UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC
+    Duration: 12:07:39 - 12:26:31
+
+  [12:07:39] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [12:07:39] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-01-03
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Marivel862 is a 43 year-old nonhispanic white female.
+      # Social History
+
+  [12:07:39] DOCUMENT: History and physical note
+    Status: superseded
+
+  [12:26:31] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2025-01-04
+
+  [23:58:31] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jules135 Emard19
+    Location: UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC
+    Duration: 23:58:31 - 00:30:11
+
+  [23:58:31] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [23:58:31] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-01-04
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Marivel862 is a 43 year-old nonhispanic white female.
+      # Social History
+
+  [23:58:31] DOCUMENT: History and physical note
+    Status: superseded
+
+
+📅 2025-01-05
+
+  [00:30:11] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2025-01-06
+
+  [06:46:11] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jules135 Emard19
+    Location: UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC
+    Duration: 06:46:11 - 07:03:33
+
+  [06:46:11] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [06:46:11] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-01-06
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Marivel862 is a 43 year-old nonhispanic white female.
+      # Social History
+
+  [06:46:11] DOCUMENT: History and physical note
+    Status: superseded
+
+  [07:03:33] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2025-01-07
+
+  [07:04:33] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jules135 Emard19
+    Location: UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC
+    Duration: 07:04:33 - 07:44:25
+
+  [07:04:33] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [07:04:33] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-01-07
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Marivel862 is a 43 year-old nonhispanic white female.
+      # Social History
+
+  [07:04:33] DOCUMENT: History and physical note
+    Status: superseded
+
+  [07:44:25] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2025-01-08
+
+  [08:58:25] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jules135 Emard19
+    Location: UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC
+    Duration: 08:58:25 - 09:25:29
+
+  [08:58:25] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [08:58:25] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-01-08
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Marivel862 is a 43 year-old nonhispanic white female.
+      # Social History
+
+  [08:58:25] DOCUMENT: History and physical note
+    Status: superseded
+
+  [09:25:29] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2025-01-09
+
+  [13:17:29] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jules135 Emard19
+    Location: UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC
+    Duration: 13:17:29 - 13:46:19
+
+  [13:17:29] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [13:17:29] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-01-09
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Marivel862 is a 43 year-old nonhispanic white female.
+      # Social History
+
+  [13:17:29] DOCUMENT: History and physical note
+    Status: superseded
+
+  [13:46:19] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2025-01-10
+
+  [19:35:19] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jules135 Emard19
+    Location: UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC
+    Duration: 19:35:19 - 19:52:31
+
+  [19:35:19] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [19:35:19] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-01-10
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Marivel862 is a 43 year-old nonhispanic white female.
+      # Social History
+
+  [19:35:19] DOCUMENT: History and physical note
+    Status: superseded
+
+  [19:52:31] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2025-01-12
+
+  [05:01:31] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jules135 Emard19
+    Location: UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC
+    Duration: 05:01:31 - 05:27:37
+
+  [05:01:31] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [05:01:31] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-01-12
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Marivel862 is a 43 year-old nonhispanic white female.
+      # Social History
+
+  [05:01:31] DOCUMENT: History and physical note
+    Status: superseded
+
+  [05:27:37] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2025-01-13
+
+  [11:19:37] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jules135 Emard19
+    Location: UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC
+    Duration: 11:19:37 - 11:51:17
+
+  [11:19:37] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [11:19:37] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-01-13
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Marivel862 is a 43 year-old nonhispanic white female.
+      # Social History
+
+  [11:19:37] DOCUMENT: History and physical note
+    Status: superseded
+
+  [11:51:17] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2025-01-14
+
+  [14:47:17] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jules135 Emard19
+    Location: UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC
+    Duration: 14:47:17 - 15:19:07
+
+  [14:47:17] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [14:47:17] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-01-14
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Marivel862 is a 43 year-old nonhispanic white female.
+      # Social History
+
+  [14:47:17] DOCUMENT: History and physical note
+    Status: superseded
+
+  [15:19:07] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2025-01-16
+
+  [00:33:07] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jules135 Emard19
+    Location: UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC
+    Duration: 00:33:07 - 00:49:36
+
+  [00:33:07] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [00:33:07] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-01-16
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Marivel862 is a 43 year-old nonhispanic white female.
+      # Social History
+
+  [00:33:07] DOCUMENT: History and physical note
+    Status: superseded
+
+  [00:49:36] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2025-01-17
+
+  [05:18:36] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jules135 Emard19
+    Location: UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC
+    Duration: 05:18:36 - 05:50:49
+
+  [05:18:36] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [05:18:36] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-01-17
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Marivel862 is a 43 year-old nonhispanic white female.
+      # Social History
+
+  [05:18:36] DOCUMENT: History and physical note
+    Status: superseded
+
+  [05:50:49] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2025-01-18
+
+  [14:30:49] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jules135 Emard19
+    Location: UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC
+    Duration: 14:30:49 - 15:03:23
+
+  [14:30:49] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [14:30:49] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-01-18
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Marivel862 is a 43 year-old nonhispanic white female.
+      # Social History
+
+  [14:30:49] DOCUMENT: History and physical note
+    Status: superseded
+
+  [15:03:23] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2025-01-19
+
+  [18:56:23] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jules135 Emard19
+    Location: UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC
+    Duration: 18:56:23 - 19:16:05
+
+  [18:56:23] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [18:56:23] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-01-19
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Marivel862 is a 43 year-old nonhispanic white female.
+      # Social History
+
+  [18:56:23] DOCUMENT: History and physical note
+    Status: superseded
+
+  [19:16:05] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2025-01-21
+
+  [03:23:05] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jules135 Emard19
+    Location: UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC
+    Duration: 03:23:05 - 04:02:40
+
+  [03:23:05] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [03:23:05] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-01-21
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Marivel862 is a 43 year-old nonhispanic white female.
+      # Social History
+
+  [03:23:05] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:02:40] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2025-01-22
+
+  [14:45:40] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jules135 Emard19
+    Location: UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC
+    Duration: 14:45:40 - 15:21:09
+
+  [14:45:40] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [14:45:40] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-01-22
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Marivel862 is a 43 year-old nonhispanic white female.
+      # Social History
+
+  [14:45:40] DOCUMENT: History and physical note
+    Status: superseded
+
+  [15:21:09] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2025-01-23
+
+  [18:11:09] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jules135 Emard19
+    Location: UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC
+    Duration: 18:11:09 - 18:26:33
+
+  [18:11:09] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [18:11:09] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-01-23
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Marivel862 is a 43 year-old nonhispanic white female.
+      # Social History
+
+  [18:11:09] DOCUMENT: History and physical note
+    Status: superseded
+
+  [18:26:33] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2025-01-24
+
+  [23:43:33] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jules135 Emard19
+    Location: UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC
+    Duration: 23:43:33 - 00:17:43
+
+  [23:43:33] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [23:43:33] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-01-24
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Marivel862 is a 43 year-old nonhispanic white female.
+      # Social History
+
+  [23:43:33] DOCUMENT: History and physical note
+    Status: superseded
+
+
+📅 2025-01-25
+
+  [00:17:43] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2025-01-26
+
+  [02:35:43] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jules135 Emard19
+    Location: UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC
+    Duration: 02:35:43 - 02:57:09
+
+  [02:35:43] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [02:35:43] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-01-26
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Marivel862 is a 43 year-old nonhispanic white female.
+      # Social History
+
+  [02:35:43] DOCUMENT: History and physical note
+    Status: superseded
+
+  [02:57:09] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2025-01-27
+
+  [04:30:09] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jules135 Emard19
+    Location: UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC
+    Duration: 04:30:09 - 05:07:01
+
+  [04:30:09] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [04:30:09] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-01-27
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Marivel862 is a 43 year-old nonhispanic white female.
+      # Social History
+
+  [04:30:09] DOCUMENT: History and physical note
+    Status: superseded
+
+  [05:07:01] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2025-01-28
+
+  [16:20:01] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jules135 Emard19
+    Location: UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC
+    Duration: 16:20:01 - 16:46:43
+
+  [16:20:01] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [16:20:01] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-01-28
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Marivel862 is a 43 year-old nonhispanic white female.
+      # Social History
+
+  [16:20:01] DOCUMENT: History and physical note
+    Status: superseded
+
+  [16:46:43] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2025-01-30
+
+  [02:54:43] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jules135 Emard19
+    Location: UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC
+    Duration: 02:54:43 - 03:11:19
+
+  [02:54:43] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [02:54:43] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-01-30
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Marivel862 is a 43 year-old nonhispanic white female.
+      # Social History
+
+  [02:54:43] DOCUMENT: History and physical note
+    Status: superseded
+
+  [03:11:19] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2025-02-05
+
+  [21:11:19] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jules135 Emard19
+    Location: UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC
+    Duration: 21:11:19 - 21:26:19
+
+  [21:11:19] OBSERVATION: Treatment status Cancer: Treatment changed (situation)
+
+  [21:11:19] OBSERVATION: Response to cancer treatment: Improving (qualifier value)
+
+  [21:11:19] MEDICATION PRESCRIBED: Unknown medication
+    Status: completed
+    Prescribed by: Dr. Jules135 Emard19
+
+  [21:11:19] MEDICATION ADMINISTERED: Tamoxifen 10 MG Oral Tablet
+    Status: completed
+    Dosage: 1.0
+
+  [21:11:19] MEDICATION PRESCRIBED: Unknown medication
+    Status: completed
+    Prescribed by: Dr. Jules135 Emard19
+
+  [21:11:19] MEDICATION ADMINISTERED: abemaciclib 100 MG Oral Tablet [Verzenio]
+    Status: completed
+
+  [21:11:19] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-02-05
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Marivel862 is a 43 year-old nonhispanic white female.
+      # Social History
+
+  [21:11:19] DOCUMENT: History and physical note
+    Status: superseded
+
+  [21:26:19] CLAIM: pharmacy
+    Amount: USD 382.67
+
+  [21:26:19] CLAIM: pharmacy
+    Amount: USD 117.93
+
+  [21:26:19] CLAIM: professional
+    Amount: USD 85.55
+
+
+📅 2025-06-10
+
+  [22:11:19] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jules135 Emard19
+    Location: UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC
+    Duration: 22:11:19 - 22:51:49
+
+  [22:11:19] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [22:11:19] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-06-10
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Marivel862 is a 43 year-old nonhispanic white female.
+      # Social History
+
+  [22:11:19] DOCUMENT: History and physical note
+    Status: superseded
+
+  [22:51:49] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2025-08-19
+
+  [13:39:56] VISIT: General examination of patient (procedure)
+    Provider: Dr. Raleigh478 Hauck852
+    Location: COMMUNITY HEALTH CONNECTIONS, INC
+    Duration: 13:39:56 - 13:54:56
+
+  [13:39:56] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [13:39:56] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-08-19
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Marivel862 is a 44 year-old nonhispanic white female.
+      # Social History
+
+  [13:39:56] DOCUMENT: History and physical note
+    Status: superseded
+
+  [13:54:56] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2025-09-27
+
+  [22:51:49] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jules135 Emard19
+    Location: UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC
+    Duration: 22:51:49 - 23:22:01
+
+  [22:51:49] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [22:51:49] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-09-27
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Marivel862 is a 44 year-old nonhispanic white female.
+      # Social History
+
+  [22:51:49] DOCUMENT: History and physical note
+    Status: superseded
+
+  [23:22:01] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2026-01-21
+
+  [22:22:01] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jules135 Emard19
+    Location: UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC
+    Duration: 22:22:01 - 22:55:20
+
+  [22:22:01] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [22:22:01] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2026-01-21
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Marivel862 is a 44 year-old nonhispanic white female.
+      # Social History
+
+  [22:22:01] DOCUMENT: History and physical note
+    Status: superseded
+
+  [22:55:20] CLAIM: professional
+    Amount: USD 573.98
+
+  [22:55:20] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jules135 Emard19
+    Location: UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC
+    Duration: 22:55:20 - 23:17:07
+
+  [22:55:20] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [22:55:20] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2026-01-21
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Marivel862 is a 44 year-old nonhispanic white female.
+      # Social History
+
+  [22:55:20] DOCUMENT: History and physical note
+    Status: superseded
+
+  [23:17:07] CLAIM: professional
+    Amount: USD 211.60
+
+  [23:17:07] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jules135 Emard19
+    Location: UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC
+    Duration: 23:17:07 - 23:39:33
+
+  [23:17:07] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [23:17:07] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2026-01-21
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Marivel862 is a 44 year-old nonhispanic white female.
+      # Social History
+
+  [23:17:07] DOCUMENT: History and physical note
+    Status: current
+
+  [23:27:52] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [23:39:33] OBSERVATION: Response to cancer treatment: Improving (qualifier value)
+
+  [23:39:33] CLAIM: professional
+    Amount: USD 1221.08
+
+
+📅 2026-02-10
+
+  [12:39:56] PROVENANCE: Record activity
+    Agents: Dr. Jules135 Emard19, Dr. Jules135 Emard19
+
+================================================================================
+END OF TIMELINE (276 events)
+================================================================================

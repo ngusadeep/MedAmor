@@ -1,0 +1,159 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Mrs. Lael572 Ciara810 Gusikowski974
+  Patient ID: 86104
+  Date of Birth: 1984-10-18
+  Gender: Female
+  Race: White
+  Ethnicity: Not Hispanic or Latino
+  Marital Status: Married
+  Address: 1083 Reynolds Center, North Seekonk, MA 00000
+  Phone: 555-853-8222
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2019-01-03
+
+  [19:51:25] VISIT: General examination of patient (procedure)
+    Provider: Dr. Morgan564 Marvin195
+    Location: FAMILY MEDICINE ASSOCIATES OF SOUTH ATTLEBORO, P.C.
+    Duration: 19:51:25 - 20:06:25
+
+  [19:51:25] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [19:51:25] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-01-03
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lael572 Ciara810 is a 34 year-old nonhispanic white female.
+      # Social History
+
+  [19:51:25] DOCUMENT: History and physical note
+    Status: superseded
+
+  [20:06:25] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2021-10-14
+
+  [20:51:25] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Maricarmen445 Delafuente833
+    Location: ARBOUR-FULLER HOSPITAL
+    Duration: 20:51:25 - 21:06:25
+
+  [20:51:25] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+    Status: completed
+
+  [20:51:25] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-10-14
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lael572 Ciara810 is a 36 year-old nonhispanic white female.
+      # Social History
+
+  [20:51:25] DOCUMENT: History and physical note
+    Status: superseded
+
+  [21:06:25] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-11-11
+
+  [19:51:25] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Maricarmen445 Delafuente833
+    Location: ARBOUR-FULLER HOSPITAL
+    Duration: 19:51:25 - 20:06:25
+
+  [19:51:25] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+    Status: completed
+
+  [19:51:25] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-11-11
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lael572 Ciara810 is a 37 year-old nonhispanic white female.
+      # Social History
+
+  [19:51:25] DOCUMENT: History and physical note
+    Status: superseded
+
+  [20:06:25] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2022-01-06
+
+  [19:51:25] VISIT: General examination of patient (procedure)
+    Provider: Dr. Morgan564 Marvin195
+    Location: FAMILY MEDICINE ASSOCIATES OF SOUTH ATTLEBORO, P.C.
+    Duration: 19:51:25 - 20:06:25
+
+  [19:51:25] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [19:51:25] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-01-06
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lael572 Ciara810 is a 37 year-old nonhispanic white female.
+      # Social History
+
+  [19:51:25] DOCUMENT: History and physical note
+    Status: superseded
+
+  [20:06:25] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2024-10-24
+
+  [20:51:25] VISIT: General examination of patient (procedure)
+    Provider: Dr. Morgan564 Marvin195
+    Location: FAMILY MEDICINE ASSOCIATES OF SOUTH ATTLEBORO, P.C.
+    Duration: 20:51:25 - 21:06:25
+
+  [20:51:25] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [20:51:25] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [20:51:25] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-10-24
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lael572 Ciara810 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [20:51:25] DOCUMENT: History and physical note
+    Status: current
+
+  [21:06:25] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2026-02-12
+
+  [19:51:25] PROVENANCE: Record activity
+    Agents: Dr. Morgan564 Marvin195, Dr. Morgan564 Marvin195
+
+================================================================================
+END OF TIMELINE (27 events)
+================================================================================

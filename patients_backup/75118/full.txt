@@ -1,0 +1,197 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Mrs. Kacy732 Erin498 Streich926
+  Patient ID: 75118
+  Date of Birth: 1974-07-27
+  Gender: Female
+  Race: Asian
+  Ethnicity: Not Hispanic or Latino
+  Marital Status: Married
+  Address: 355 Donnelly Boulevard Unit 2, Boston, MA 02129
+  Phone: 555-485-1197
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2016-08-06
+
+  [04:42:29] VISIT: General examination of patient (procedure)
+    Provider: Dr. Elijah719 White193
+    Location: MELROSE FAMILY OPTICIANS LLC
+    Duration: 04:42:29 - 04:57:29
+
+  [04:42:29] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [04:42:29] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [04:42:29] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [04:42:29] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-08-06
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kacy732 Erin498 is a 42 year-old nonhispanic asian female.
+      # Social History
+
+  [04:42:29] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:57:29] CLAIM: professional
+    Amount: USD 544.80
+
+
+📅 2018-08-11
+
+  [04:42:29] VISIT: General examination of patient (procedure)
+    Provider: Dr. Elijah719 White193
+    Location: MELROSE FAMILY OPTICIANS LLC
+    Duration: 04:42:29 - 04:57:29
+
+  [04:42:29] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [04:42:29] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-08-11
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kacy732 Erin498 is a 44 year-old nonhispanic asian female.
+      # Social History
+
+  [04:42:29] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:57:29] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2020-08-15
+
+  [04:42:29] VISIT: General examination of patient (procedure)
+    Provider: Dr. Elijah719 White193
+    Location: MELROSE FAMILY OPTICIANS LLC
+    Duration: 04:42:29 - 04:57:29
+
+  [04:42:29] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [04:42:29] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-08-15
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kacy732 Erin498 is a 46 year-old nonhispanic asian female.
+      # Social History
+
+  [04:42:29] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:57:29] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2022-08-20
+
+  [04:42:29] VISIT: General examination of patient (procedure)
+    Provider: Dr. Elijah719 White193
+    Location: MELROSE FAMILY OPTICIANS LLC
+    Duration: 04:42:29 - 04:57:29
+
+  [04:42:29] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [04:42:29] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-08-20
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kacy732 Erin498 is a 48 year-old nonhispanic asian female.
+      # Social History
+
+  [04:42:29] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:57:29] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2024-07-27
+
+  [04:42:29] VISIT: General examination of patient (procedure)
+    Provider: Dr. Elijah719 White193
+    Location: MELROSE FAMILY OPTICIANS LLC
+    Duration: 04:42:29 - 04:57:29
+
+  [04:42:29] IMMUNIZATION: zoster vaccine, live
+    Status: completed
+
+  [04:42:29] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [04:42:29] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-07-27
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kacy732 Erin498 is a 50 year-old nonhispanic asian female.
+      # Social History
+
+  [04:42:29] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:57:29] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2025-08-02
+
+  [04:42:29] VISIT: General examination of patient (procedure)
+    Provider: Dr. Elijah719 White193
+    Location: MELROSE FAMILY OPTICIANS LLC
+    Duration: 04:42:29 - 04:57:29
+
+  [04:42:29] IMMUNIZATION: zoster vaccine, live
+    Status: completed
+
+  [04:42:29] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [04:42:29] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [04:42:29] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-08-02
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kacy732 Erin498 is a 51 year-old nonhispanic asian female.
+      # Social History
+
+  [04:42:29] DOCUMENT: History and physical note
+    Status: current
+
+  [04:57:29] CLAIM: professional
+    Amount: USD 544.80
+
+
+📅 2026-02-14
+
+  [03:42:29] PROVENANCE: Record activity
+    Agents: Dr. Elijah719 White193, Dr. Elijah719 White193
+
+================================================================================
+END OF TIMELINE (36 events)
+================================================================================

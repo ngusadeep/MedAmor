@@ -1,4 +1,4 @@
-import { useQuery } from '@tanstack/react-query'
+import { useQuery, useQueryClient } from '@tanstack/react-query'
 import { useState } from 'react'
 import {
   Dialog,
@@ -12,13 +12,46 @@ import { Button } from '@/components/ui/button'
 import { Input } from '@/components/ui/input'
 import { Label } from '@/components/ui/label'
 import { Checkbox } from '@/components/ui/checkbox'
+import { RadioGroup, RadioGroupItem } from '@/components/ui/radio-group'
+import {
+  Select,
+  SelectContent,
+  SelectItem,
+  SelectTrigger,
+  SelectValue,
+} from '@/components/ui/select'
 import { createJob, createJobsBatch, listEHRPatients } from '@/lib/jobs-api'
 import { useJobs } from './jobs-provider'
 
+const MODEL_OPTIONS = [
+  { value: 'default', label: 'Default (from server)' },
+  { value: 'medgemma_hf', label: 'MedGemma (Hugging Face)' },
+  { value: 'medgemma_vertex', label: 'MedGemma (Vertex AI)' },
+  { value: 'gemini', label: 'Gemini' },
+  { value: 'openai', label: 'OpenAI' },
+] as const
+
+const EXTRACTION_MODE_OPTIONS = [
+  { value: 'default', label: 'Default (from server)' },
+  { value: 'one_pass', label: 'One pass' },
+  { value: 'gemini_extract', label: 'Two pass (Gemini extract)' },
+  { value: 'medgemma_extract', label: 'Two pass (MedGemma extract)' },
+] as const
+
+const SENSITIVITY_PRESETS = [
+  { value: '0.2', label: 'Low', desc: 'Only high-confidence findings' },
+  { value: '0.5', label: 'Medium', desc: 'Balanced (default)' },
+  { value: '0.8', label: 'High', desc: 'Surface more findings' },
+] as const
+
 export function CreateJobDialog() {
+  const queryClient = useQueryClient()
   const { open, setOpen, onSuccess } = useJobs()
   const [patientId, setPatientId] = useState('')
   const [selectedIds, setSelectedIds] = useState<Set<string>>(new Set())
+  const [sensitivity, setSensitivity] = useState<string>('0.5')
+  const [model, setModel] = useState<string>('default')
+  const [extractionMode, setExtractionMode] = useState<string>('default')
   const [loading, setLoading] = useState(false)
   const [error, setError] = useState<string | null>(null)
 
@@ -45,10 +78,16 @@ export function CreateJobDialog() {
     if (batchIds.length > 0) {
       setLoading(true)
       try {
-        await createJobsBatch({ patient_ids: batchIds })
+        await createJobsBatch({
+          patient_ids: batchIds,
+          sensitivity: parseFloat(sensitivity),
+          model: model === 'default' ? undefined : model,
+          extraction_mode: extractionMode === 'default' ? undefined : extractionMode,
+        })
         setSelectedIds(new Set())
         setPatientId('')
         setOpen(false)
+        await queryClient.invalidateQueries({ queryKey: ['jobs'] })
         onSuccess?.()
       } catch (err) {
         setError(err instanceof Error ? err.message : 'Failed to create jobs')
@@ -63,9 +102,15 @@ export function CreateJobDialog() {
     }
     setLoading(true)
     try {
-      await createJob({ patient_id: singleId })
+      await createJob({
+        patient_id: singleId,
+        sensitivity: parseFloat(sensitivity),
+        model: model || undefined,
+        extraction_mode: extractionMode || undefined,
+      })
       setPatientId('')
       setOpen(false)
+      await queryClient.invalidateQueries({ queryKey: ['jobs'] })
       onSuccess?.()
     } catch (err) {
       setError(err instanceof Error ? err.message : 'Failed to create job')
@@ -76,7 +121,7 @@ export function CreateJobDialog() {
 
   return (
     <Dialog open={open} onOpenChange={(v) => setOpen(v)}>
-      <DialogContent className='sm:max-w-[500px]'>
+      <DialogContent className='sm:max-w-[520px]'>
         <DialogHeader>
           <DialogTitle>New breast cancer screening audit</DialogTitle>
           <DialogDescription>
@@ -94,6 +139,67 @@ export function CreateJobDialog() {
                 placeholder='e.g. 2f9df1ec-139f-b7ef-1e20-e0b5a1c3d39f'
                 disabled={loading}
               />
+            </div>
+            <div className='grid gap-2'>
+              <Label>Sensitivity</Label>
+              <RadioGroup
+                value={sensitivity}
+                onValueChange={setSensitivity}
+                className='grid grid-cols-3 gap-2'
+                aria-describedby='sensitivity-desc'
+              >
+                {SENSITIVITY_PRESETS.map((p) => (
+                  <div
+                    key={p.value}
+                    className='flex items-center space-x-2 rounded border px-3 py-2 has-[[data-state=checked]]:border-primary has-[[data-state=checked]]:bg-primary/5'
+                  >
+                    <RadioGroupItem value={p.value} id={`sens-${p.value}`} />
+                    <label
+                      htmlFor={`sens-${p.value}`}
+                      className='flex flex-col cursor-pointer text-sm'
+                    >
+                      <span className='font-medium'>{p.label}</span>
+                      <span className='text-muted-foreground text-xs'>{p.desc}</span>
+                    </label>
+                  </div>
+                ))}
+              </RadioGroup>
+              <p id='sensitivity-desc' className='text-muted-foreground text-xs'>
+                Lower = fewer findings (only high-confidence). Higher = more findings.
+              </p>
+            </div>
+            <div className='grid gap-2'>
+              <Label htmlFor='model'>Model</Label>
+              <Select value={model} onValueChange={setModel}>
+                <SelectTrigger id='model' className='w-full'>
+                  <SelectValue placeholder='Default (from server)' />
+                </SelectTrigger>
+                <SelectContent>
+                  {MODEL_OPTIONS.map((o) => (
+                    <SelectItem key={o.value} value={o.value}>
+                      {o.label}
+                    </SelectItem>
+                  ))}
+                </SelectContent>
+              </Select>
+            </div>
+            <div className='grid gap-2'>
+              <Label htmlFor='extraction_mode'>Extraction mode</Label>
+              <Select value={extractionMode} onValueChange={setExtractionMode}>
+                <SelectTrigger id='extraction_mode' className='w-full'>
+                  <SelectValue placeholder='Default (from server)' />
+                </SelectTrigger>
+                <SelectContent>
+                  {EXTRACTION_MODE_OPTIONS.map((o) => (
+                    <SelectItem key={o.value} value={o.value}>
+                      {o.label}
+                    </SelectItem>
+                  ))}
+                </SelectContent>
+              </Select>
+              <p className='text-muted-foreground text-xs'>
+                One pass = single audit step. Two pass = extract EHR summary first, then audit.
+              </p>
             </div>
             <div className='grid gap-2'>
               <Label>Or select patients (batch)</Label>

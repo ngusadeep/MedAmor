@@ -1,0 +1,191 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Mrs. Coralie787 Dibbert990
+  Patient ID: 31891
+  Date of Birth: 1983-12-01
+  Gender: Female
+  Race: White
+  Ethnicity: Not Hispanic or Latino
+  Marital Status: Married
+  Address: 789 Huels Corner Unit 82, Rutland, MA 01543
+  Phone: 555-983-1973
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2018-02-15
+
+  [19:26:44] VISIT: General examination of patient (procedure)
+    Provider: Dr. Eldridge510 Marquardt819
+    Location: JEWISH FAMILY & CHILDREN'S SERVICE
+    Duration: 19:26:44 - 19:41:44
+
+  [19:26:44] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [19:26:44] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-02-15
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Coralie787 is a 34 year-old nonhispanic white female.
+      # Social History
+
+  [19:26:44] DOCUMENT: History and physical note
+    Status: superseded
+
+  [19:41:44] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2021-01-21
+
+  [19:26:44] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Rogelio17 Gibson10
+    Location: THE MCLEAN HOSPITAL CORPORATION
+    Duration: 19:26:44 - 19:41:44
+
+  [19:26:44] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 30 mcg/0.3 mL dose
+    Status: completed
+
+  [19:26:44] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-01-21
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Coralie787 is a 37 year-old nonhispanic white female.
+      # Social History
+
+  [19:26:44] DOCUMENT: History and physical note
+    Status: superseded
+
+  [19:41:44] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-02-11
+
+  [19:26:44] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Rogelio17 Gibson10
+    Location: THE MCLEAN HOSPITAL CORPORATION
+    Duration: 19:26:44 - 19:41:44
+
+  [19:26:44] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 30 mcg/0.3 mL dose
+    Status: completed
+
+  [19:26:44] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-02-11
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Coralie787 is a 37 year-old nonhispanic white female.
+      # Social History
+
+  [19:26:44] DOCUMENT: History and physical note
+    Status: superseded
+
+  [19:41:44] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-02-18
+
+  [19:26:44] VISIT: General examination of patient (procedure)
+    Provider: Dr. Eldridge510 Marquardt819
+    Location: JEWISH FAMILY & CHILDREN'S SERVICE
+    Duration: 19:26:44 - 19:41:44
+
+  [19:26:44] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [19:26:44] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-02-18
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Coralie787 is a 37 year-old nonhispanic white female.
+      # Social History
+
+  [19:26:44] DOCUMENT: History and physical note
+    Status: superseded
+
+  [19:41:44] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2023-12-07
+
+  [19:26:44] VISIT: General examination of patient (procedure)
+    Provider: Dr. Eldridge510 Marquardt819
+    Location: JEWISH FAMILY & CHILDREN'S SERVICE
+    Duration: 19:26:44 - 19:41:44
+
+  [19:26:44] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [19:26:44] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [19:26:44] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-12-07
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Coralie787 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [19:26:44] DOCUMENT: History and physical note
+    Status: superseded
+
+  [19:41:44] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2025-12-11
+
+  [19:26:44] VISIT: General examination of patient (procedure)
+    Provider: Dr. Eldridge510 Marquardt819
+    Location: JEWISH FAMILY & CHILDREN'S SERVICE
+    Duration: 19:26:44 - 19:41:44
+
+  [19:26:44] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [19:26:44] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [19:26:44] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [19:26:44] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-12-11
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Coralie787 is a 42 year-old nonhispanic white female.
+      # Social History
+
+  [19:26:44] DOCUMENT: History and physical note
+    Status: current
+
+  [19:41:44] CLAIM: professional
+    Amount: USD 544.80
+
+
+📅 2026-02-12
+
+  [19:26:44] PROVENANCE: Record activity
+    Agents: Dr. Eldridge510 Marquardt819, Dr. Eldridge510 Marquardt819
+
+================================================================================
+END OF TIMELINE (34 events)
+================================================================================

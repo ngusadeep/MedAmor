@@ -78,9 +78,26 @@ class Settings(BaseSettings):
     # Audit AI provider (required)
     audit_ai_provider: Literal["medgemma", "gemini", "openai"]
 
-    # MedGemma (optional - required when audit_ai_provider=medgemma)
+    # Extraction mode: one_pass | gemini_extract | medgemma_extract
+    audit_extraction_mode: Literal["one_pass", "gemini_extract", "medgemma_extract"] = (
+        "one_pass"
+    )
+
+    # Sensitivity: 0.0 (only critical) to 1.0 (surface everything)
+    audit_sensitivity: float = 0.5
+
+    # Guidelines mode: rag (vector retrieval) | full (load entire KB file into prompt, no embeddings)
+    audit_guidelines_mode: Literal["rag", "full"] = "rag"
+
+    # MedGemma backend: hf (Hugging Face) | vertex (Vertex AI)
+    medgemma_backend: Literal["hf", "vertex"] = "hf"
+    # Hugging Face (when medgemma_backend=hf)
     hf_token: str | None = None
     hf_medgemma_endpoint: str | None = None
+    # Vertex AI (when medgemma_backend=vertex)
+    vertex_ai_project: str | None = None
+    vertex_ai_location: str | None = None
+    vertex_ai_medgemma_endpoint_id: str | None = None
 
     # Google Gemini (optional - required when audit_ai_provider=gemini)
     google_api_key: str | None = None

@@ -1,0 +1,188 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Mrs. Angle307 Kilback373
+  Patient ID: 11189
+  Date of Birth: 1985-10-23
+  Gender: Female
+  Race: White
+  Ethnicity: Not Hispanic or Latino
+  Marital Status: Married
+  Address: 117 Frami Well Unit 57, Holyoke, MA 01040
+  Phone: 555-612-7223
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2017-01-04
+
+  [19:11:56] VISIT: General examination of patient (procedure)
+    Provider: Dr. Kala987 Wolf938
+    Location: HOLYOKE MEDICAL CENTER INC
+    Duration: 19:11:56 - 19:26:56
+
+  [19:11:56] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [19:11:56] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [19:11:56] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-01-04
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Angle307 is a 31 year-old nonhispanic white female.
+      # Social History
+
+  [19:11:56] DOCUMENT: History and physical note
+    Status: superseded
+
+  [19:26:56] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2020-01-08
+
+  [19:11:56] VISIT: General examination of patient (procedure)
+    Provider: Dr. Kala987 Wolf938
+    Location: HOLYOKE MEDICAL CENTER INC
+    Duration: 19:11:56 - 19:26:56
+
+  [19:11:56] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [19:11:56] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-01-08
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Angle307 is a 34 year-old nonhispanic white female.
+      # Social History
+
+  [19:11:56] DOCUMENT: History and physical note
+    Status: superseded
+
+  [19:26:56] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2021-03-03
+
+  [19:11:56] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Kala987 Wolf938
+    Location: HOLYOKE MEDICAL CENTER INC
+    Duration: 19:11:56 - 19:26:56
+
+  [19:11:56] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 30 mcg/0.3 mL dose
+    Status: completed
+
+  [19:11:56] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-03-03
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Angle307 is a 35 year-old nonhispanic white female.
+      # Social History
+
+  [19:11:56] DOCUMENT: History and physical note
+    Status: superseded
+
+  [19:26:56] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-03-24
+
+  [20:11:56] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Kala987 Wolf938
+    Location: HOLYOKE MEDICAL CENTER INC
+    Duration: 20:11:56 - 20:26:56
+
+  [20:11:56] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 30 mcg/0.3 mL dose
+    Status: completed
+
+  [20:11:56] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-03-24
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Angle307 is a 35 year-old nonhispanic white female.
+      # Social History
+
+  [20:11:56] DOCUMENT: History and physical note
+    Status: superseded
+
+  [20:26:56] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2023-01-11
+
+  [19:11:56] VISIT: General examination of patient (procedure)
+    Provider: Dr. Kala987 Wolf938
+    Location: HOLYOKE MEDICAL CENTER INC
+    Duration: 19:11:56 - 19:26:56
+
+  [19:11:56] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [19:11:56] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-01-11
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Angle307 is a 37 year-old nonhispanic white female.
+      # Social History
+
+  [19:11:56] DOCUMENT: History and physical note
+    Status: superseded
+
+  [19:26:56] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2025-10-29
+
+  [20:11:56] VISIT: General examination of patient (procedure)
+    Provider: Dr. Kala987 Wolf938
+    Location: HOLYOKE MEDICAL CENTER INC
+    Duration: 20:11:56 - 20:26:56
+
+  [20:11:56] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [20:11:56] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [20:11:56] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-10-29
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Angle307 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [20:11:56] DOCUMENT: History and physical note
+    Status: current
+
+  [20:26:56] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2026-02-11
+
+  [19:11:56] PROVENANCE: Record activity
+    Agents: Dr. Kala987 Wolf938, Dr. Kala987 Wolf938
+
+================================================================================
+END OF TIMELINE (33 events)
+================================================================================

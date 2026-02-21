@@ -1,0 +1,191 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Mrs. Gretchen912 Jade952 Abbott774
+  Patient ID: 57968
+  Date of Birth: 1978-10-06
+  Gender: Female
+  Race: White
+  Ethnicity: Not Hispanic or Latino
+  Marital Status: Divorced
+  Address: 671 Bernhard Ville, Marlborough, MA 01752
+  Phone: 555-504-2043
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2018-10-12
+
+  [03:26:16] VISIT: General examination of patient (procedure)
+    Provider: Dr. Althea11 Ankunding277
+    Location: MIDDLESEX INTERNAL MEDICINE ASSOCIATES, INC
+    Duration: 03:26:16 - 03:41:16
+
+  [03:26:16] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [03:26:16] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [03:26:16] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-10-12
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Gretchen912 Jade952 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [03:26:16] DOCUMENT: History and physical note
+    Status: superseded
+
+  [03:41:16] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2020-10-16
+
+  [03:26:16] VISIT: General examination of patient (procedure)
+    Provider: Dr. Althea11 Ankunding277
+    Location: MIDDLESEX INTERNAL MEDICINE ASSOCIATES, INC
+    Duration: 03:26:16 - 03:41:16
+
+  [03:26:16] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [03:26:16] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [03:26:16] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [03:26:16] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-10-16
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Gretchen912 Jade952 is a 42 year-old nonhispanic white female.
+      # Social History
+
+  [03:26:16] DOCUMENT: History and physical note
+    Status: superseded
+
+  [03:41:16] CLAIM: professional
+    Amount: USD 544.80
+
+
+📅 2021-04-30
+
+  [03:26:16] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Jerrell6 Rippin620
+    Location: WESTBOROUGH BEHAVIORAL HEALTHCARE HOSPITAL, LLC
+    Duration: 03:26:16 - 03:41:16
+
+  [03:26:16] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 30 mcg/0.3 mL dose
+    Status: completed
+
+  [03:26:16] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-04-30
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Gretchen912 Jade952 is a 42 year-old nonhispanic white female.
+      # Social History
+
+  [03:26:16] DOCUMENT: History and physical note
+    Status: superseded
+
+  [03:41:16] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-05-21
+
+  [03:26:16] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Jerrell6 Rippin620
+    Location: WESTBOROUGH BEHAVIORAL HEALTHCARE HOSPITAL, LLC
+    Duration: 03:26:16 - 03:41:16
+
+  [03:26:16] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 30 mcg/0.3 mL dose
+    Status: completed
+
+  [03:26:16] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-05-21
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Gretchen912 Jade952 is a 42 year-old nonhispanic white female.
+      # Social History
+
+  [03:26:16] DOCUMENT: History and physical note
+    Status: superseded
+
+  [03:41:16] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2022-10-21
+
+  [03:26:16] VISIT: General examination of patient (procedure)
+    Provider: Dr. Althea11 Ankunding277
+    Location: MIDDLESEX INTERNAL MEDICINE ASSOCIATES, INC
+    Duration: 03:26:16 - 03:41:16
+
+  [03:26:16] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [03:26:16] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-10-21
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Gretchen912 Jade952 is a 44 year-old nonhispanic white female.
+      # Social History
+
+  [03:26:16] DOCUMENT: History and physical note
+    Status: superseded
+
+  [03:41:16] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2024-10-25
+
+  [03:26:16] VISIT: General examination of patient (procedure)
+    Provider: Dr. Althea11 Ankunding277
+    Location: MIDDLESEX INTERNAL MEDICINE ASSOCIATES, INC
+    Duration: 03:26:16 - 03:41:16
+
+  [03:26:16] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [03:26:16] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-10-25
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Gretchen912 Jade952 is a 46 year-old nonhispanic white female.
+      # Social History
+
+  [03:26:16] DOCUMENT: History and physical note
+    Status: current
+
+  [03:41:16] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2026-02-13
+
+  [02:26:16] PROVENANCE: Record activity
+    Agents: Dr. Althea11 Ankunding277, Dr. Althea11 Ankunding277
+
+================================================================================
+END OF TIMELINE (34 events)
+================================================================================

@@ -11,6 +11,9 @@ export interface JobResponse {
   status: string
   triggered_by: string | null
   export_type: string | null
+  sensitivity?: number | null
+  model?: string | null
+  extraction_mode?: string | null
   error_message: string | null
   created_at: string
   updated_at: string
@@ -35,6 +38,9 @@ export interface JobCreate {
   audit_type?: string | null // default: breast_cancer_screening
   export_type?: string | null
   triggered_by?: string | null
+  sensitivity?: number | null // 0.0–1.0; Low=0.2, Medium=0.5, High=0.8
+  model?: string | null // medgemma_hf | medgemma_vertex | gemini | openai
+  extraction_mode?: string | null // one_pass | gemini_extract | medgemma_extract
 }
 
 export function listJobs(params?: {
@@ -61,6 +67,9 @@ export interface JobCreateBatch {
   audit_type?: string | null
   export_type?: string | null
   triggered_by?: string | null
+  sensitivity?: number | null
+  model?: string | null
+  extraction_mode?: string | null
 }
 
 export function createJobsBatch(body: JobCreateBatch): Promise<JobResponse[]> {

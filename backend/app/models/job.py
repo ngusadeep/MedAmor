@@ -4,7 +4,7 @@ import uuid
 from datetime import datetime
 from typing import TYPE_CHECKING
 
-from sqlalchemy import DateTime, String, Text, ForeignKey
+from sqlalchemy import DateTime, Float, String, Text, ForeignKey
 from sqlalchemy.dialects.postgresql import UUID as PG_UUID
 from sqlalchemy.orm import Mapped, mapped_column, relationship
 
@@ -44,6 +44,9 @@ class Job(Base):
     )
     triggered_by: Mapped[str | None] = mapped_column(String(256), nullable=True)
     export_type: Mapped[str | None] = mapped_column(String(64), nullable=True)
+    sensitivity: Mapped[float | None] = mapped_column(Float, nullable=True)
+    model: Mapped[str | None] = mapped_column(String(64), nullable=True)
+    extraction_mode: Mapped[str | None] = mapped_column(String(64), nullable=True)
     error_message: Mapped[str | None] = mapped_column(Text, nullable=True)
     created_at: Mapped[datetime] = mapped_column(
         DateTime(timezone=True), default=datetime.utcnow

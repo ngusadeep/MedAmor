@@ -1,0 +1,1127 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Mrs. Aretha897 Gabriella773 Shanahan202
+  Patient ID: 14309
+  Date of Birth: 1960-12-08
+  Gender: Female
+  Race: White
+  Ethnicity: Not Hispanic or Latino
+  Marital Status: Divorced
+  Address: 645 Wilkinson Meadow, Boston, MA 02119
+  Phone: 555-220-6402
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2009-12-12
+
+  [09:49:56] VISIT: Periodic reevaluation and management of healthy individual (procedure)
+    Reason: Screening for malignant neoplasm of breast (procedure)
+    Provider: Dr. Margaret865 Reinger292
+    Location: CARNEY HOSPITAL
+    Duration: 09:49:56 - 15:43:59
+
+  [09:49:56] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2009-12-12
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Aretha897 Gabriella773 is a 49 year-old nonhispanic white female.
+      # Social History
+
+  [09:49:56] DOCUMENT: History and physical note
+    Status: superseded
+
+  [11:43:59] CONDITION: Malignant neoplasm of breast (disorder) (active)
+
+
+📅 2009-12-13
+
+  [15:43:59] CLAIM: professional
+    Amount: USD 7744.26
+
+
+📅 2016-11-10
+
+  [19:05:49] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Margaret865 Reinger292
+    Location: CARNEY HOSPITAL
+    Duration: 19:05:49 - 19:48:06
+
+  [19:05:49] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [19:05:49] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-11-10
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Aretha897 Gabriella773 is a 55 year-old nonhispanic white female.
+      # Social History
+
+  [19:05:49] DOCUMENT: History and physical note
+    Status: superseded
+
+  [19:48:06] CLAIM: professional
+    Amount: USD 573.98
+
+  [19:48:06] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Margaret865 Reinger292
+    Location: CARNEY HOSPITAL
+    Duration: 19:48:06 - 20:06:34
+
+  [19:48:06] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [19:48:06] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-11-10
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Aretha897 Gabriella773 is a 55 year-old nonhispanic white female.
+      # Social History
+
+  [19:48:06] DOCUMENT: History and physical note
+    Status: superseded
+
+  [20:06:34] CLAIM: professional
+    Amount: USD 211.60
+
+  [20:06:34] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Margaret865 Reinger292
+    Location: CARNEY HOSPITAL
+    Duration: 20:06:34 - 20:33:15
+
+  [20:06:34] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [20:06:34] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-11-10
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Aretha897 Gabriella773 is a 55 year-old nonhispanic white female.
+      # Social History
+
+  [20:06:34] DOCUMENT: History and physical note
+    Status: superseded
+
+  [20:17:44] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [20:33:15] CLAIM: professional
+    Amount: USD 2927.23
+
+
+📅 2017-01-12
+
+  [09:49:56] VISIT: General examination of patient (procedure)
+    Provider: Dr. Miguel815 Zamudio115
+    Location: MANET COMMUNITY HEALTH CENTER, INC.
+    Duration: 09:49:56 - 10:04:56
+
+  [09:49:56] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [09:49:56] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-01-12
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Aretha897 Gabriella773 is a 56 year-old nonhispanic white female.
+      # Social History
+
+  [09:49:56] DOCUMENT: History and physical note
+    Status: superseded
+
+  [10:04:56] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2017-11-02
+
+  [21:33:15] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Margaret865 Reinger292
+    Location: CARNEY HOSPITAL
+    Duration: 21:33:15 - 22:09:14
+
+  [21:33:15] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [21:33:15] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-11-02
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Aretha897 Gabriella773 is a 56 year-old nonhispanic white female.
+      # Social History
+
+  [21:33:15] DOCUMENT: History and physical note
+    Status: superseded
+
+  [22:09:14] CLAIM: professional
+    Amount: USD 573.98
+
+  [22:09:14] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Margaret865 Reinger292
+    Location: CARNEY HOSPITAL
+    Duration: 22:09:14 - 22:24:37
+
+  [22:09:14] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [22:09:14] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-11-02
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Aretha897 Gabriella773 is a 56 year-old nonhispanic white female.
+      # Social History
+
+  [22:09:14] DOCUMENT: History and physical note
+    Status: superseded
+
+  [22:24:37] CLAIM: professional
+    Amount: USD 211.60
+
+  [22:24:37] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Margaret865 Reinger292
+    Location: CARNEY HOSPITAL
+    Duration: 22:24:37 - 22:51:21
+
+  [22:24:37] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [22:24:37] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-11-02
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Aretha897 Gabriella773 is a 56 year-old nonhispanic white female.
+      # Social History
+
+  [22:24:37] DOCUMENT: History and physical note
+    Status: superseded
+
+  [22:35:35] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [22:51:21] CLAIM: professional
+    Amount: USD 1091.66
+
+
+📅 2018-01-18
+
+  [09:49:56] VISIT: General examination of patient (procedure)
+    Provider: Dr. Miguel815 Zamudio115
+    Location: MANET COMMUNITY HEALTH CENTER, INC.
+    Duration: 09:49:56 - 10:04:56
+
+  [09:49:56] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [09:49:56] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-01-18
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Aretha897 Gabriella773 is a 57 year-old nonhispanic white female.
+      # Social History
+
+  [09:49:56] DOCUMENT: History and physical note
+    Status: superseded
+
+  [10:04:56] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2018-11-17
+
+  [21:51:21] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Margaret865 Reinger292
+    Location: CARNEY HOSPITAL
+    Duration: 21:51:21 - 22:26:33
+
+  [21:51:21] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [21:51:21] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-11-17
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Aretha897 Gabriella773 is a 57 year-old nonhispanic white female.
+      # Social History
+
+  [21:51:21] DOCUMENT: History and physical note
+    Status: superseded
+
+  [22:26:33] CLAIM: professional
+    Amount: USD 573.98
+
+  [22:26:33] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Margaret865 Reinger292
+    Location: CARNEY HOSPITAL
+    Duration: 22:26:33 - 22:48:42
+
+  [22:26:33] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [22:26:33] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-11-17
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Aretha897 Gabriella773 is a 57 year-old nonhispanic white female.
+      # Social History
+
+  [22:26:33] DOCUMENT: History and physical note
+    Status: superseded
+
+  [22:48:42] CLAIM: professional
+    Amount: USD 325.49
+
+  [22:48:42] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Margaret865 Reinger292
+    Location: CARNEY HOSPITAL
+    Duration: 22:48:42 - 23:15:21
+
+  [22:48:42] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [22:48:42] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-11-17
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Aretha897 Gabriella773 is a 57 year-old nonhispanic white female.
+      # Social History
+
+  [22:48:42] DOCUMENT: History and physical note
+    Status: superseded
+
+  [22:59:18] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [23:15:21] CLAIM: professional
+    Amount: USD 1168.77
+
+
+📅 2019-01-24
+
+  [09:49:56] VISIT: General examination of patient (procedure)
+    Provider: Dr. Miguel815 Zamudio115
+    Location: MANET COMMUNITY HEALTH CENTER, INC.
+    Duration: 09:49:56 - 10:04:56
+
+  [09:49:56] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [09:49:56] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-01-24
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Aretha897 Gabriella773 is a 58 year-old nonhispanic white female.
+      # Social History
+
+  [09:49:56] DOCUMENT: History and physical note
+    Status: superseded
+
+  [10:04:56] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2019-11-30
+
+  [23:15:21] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Margaret865 Reinger292
+    Location: CARNEY HOSPITAL
+    Duration: 23:15:21 - 23:47:12
+
+  [23:15:21] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [23:15:21] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-11-30
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Aretha897 Gabriella773 is a 58 year-old nonhispanic white female.
+      # Social History
+
+  [23:15:21] DOCUMENT: History and physical note
+    Status: superseded
+
+  [23:47:12] CLAIM: professional
+    Amount: USD 573.98
+
+  [23:47:12] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Margaret865 Reinger292
+    Location: CARNEY HOSPITAL
+    Duration: 23:47:12 - 00:07:02
+
+  [23:47:12] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [23:47:12] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-11-30
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Aretha897 Gabriella773 is a 58 year-old nonhispanic white female.
+      # Social History
+
+  [23:47:12] DOCUMENT: History and physical note
+    Status: superseded
+
+
+📅 2019-12-01
+
+  [00:07:02] CLAIM: professional
+    Amount: USD 250.14
+
+  [00:07:02] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Margaret865 Reinger292
+    Location: CARNEY HOSPITAL
+    Duration: 00:07:02 - 00:38:45
+
+  [00:07:02] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [00:07:02] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-12-01
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Aretha897 Gabriella773 is a 58 year-old nonhispanic white female.
+      # Social History
+
+  [00:07:02] DOCUMENT: History and physical note
+    Status: superseded
+
+  [00:20:17] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [00:38:45] CLAIM: professional
+    Amount: USD 1221.08
+
+
+📅 2020-01-30
+
+  [09:49:56] VISIT: General examination of patient (procedure)
+    Provider: Dr. Miguel815 Zamudio115
+    Location: MANET COMMUNITY HEALTH CENTER, INC.
+    Duration: 09:49:56 - 10:04:56
+
+  [09:49:56] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [09:49:56] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-01-30
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Aretha897 Gabriella773 is a 59 year-old nonhispanic white female.
+      # Social History
+
+  [09:49:56] DOCUMENT: History and physical note
+    Status: superseded
+
+  [10:04:56] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2020-12-20
+
+  [00:38:45] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Xochitl483 Haley279
+    Location: Patient's Home
+    Duration: 00:38:45 - 01:12:21
+
+  [00:38:45] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [00:38:45] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-12-20
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Aretha897 Gabriella773 is a 60 year-old nonhispanic white female.
+      # Social History
+
+  [00:38:45] DOCUMENT: History and physical note
+    Status: superseded
+
+  [01:12:21] CLAIM: institutional
+    Amount: USD 556.40
+
+  [01:12:21] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Margaret865 Reinger292
+    Location: CARNEY HOSPITAL
+    Duration: 01:12:21 - 01:29:15
+
+  [01:12:21] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [01:12:21] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-12-20
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Aretha897 Gabriella773 is a 60 year-old nonhispanic white female.
+      # Social History
+
+  [01:12:21] DOCUMENT: History and physical note
+    Status: superseded
+
+  [01:29:15] CLAIM: professional
+    Amount: USD 325.49
+
+  [01:29:15] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Margaret865 Reinger292
+    Location: CARNEY HOSPITAL
+    Duration: 01:29:15 - 01:51:06
+
+  [01:29:15] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [01:29:15] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-12-20
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Aretha897 Gabriella773 is a 60 year-old nonhispanic white female.
+      # Social History
+
+  [01:29:15] DOCUMENT: History and physical note
+    Status: superseded
+
+  [01:39:24] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [01:51:06] CLAIM: professional
+    Amount: USD 1111.41
+
+
+📅 2021-02-04
+
+  [09:49:56] VISIT: General examination of patient (procedure)
+    Provider: Dr. Miguel815 Zamudio115
+    Location: MANET COMMUNITY HEALTH CENTER, INC.
+    Duration: 09:49:56 - 10:04:56
+
+  [09:49:56] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [09:49:56] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-02-04
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Aretha897 Gabriella773 is a 60 year-old nonhispanic white female.
+      # Social History
+
+  [09:49:56] DOCUMENT: History and physical note
+    Status: superseded
+
+  [10:04:56] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2021-06-24
+
+  [10:49:56] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Margaret865 Reinger292
+    Location: CARNEY HOSPITAL
+    Duration: 10:49:56 - 11:04:56
+
+  [10:49:56] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 30 mcg/0.3 mL dose
+    Status: completed
+
+  [10:49:56] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-06-24
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Aretha897 Gabriella773 is a 60 year-old nonhispanic white female.
+      # Social History
+
+  [10:49:56] DOCUMENT: History and physical note
+    Status: superseded
+
+  [11:04:56] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-07-15
+
+  [10:49:56] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Margaret865 Reinger292
+    Location: CARNEY HOSPITAL
+    Duration: 10:49:56 - 11:04:56
+
+  [10:49:56] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 30 mcg/0.3 mL dose
+    Status: completed
+
+  [10:49:56] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-07-15
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Aretha897 Gabriella773 is a 60 year-old nonhispanic white female.
+      # Social History
+
+  [10:49:56] DOCUMENT: History and physical note
+    Status: superseded
+
+  [11:04:56] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-11-15
+
+  [01:51:06] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Margaret865 Reinger292
+    Location: CARNEY HOSPITAL
+    Duration: 01:51:06 - 02:27:15
+
+  [01:51:06] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [01:51:06] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-11-15
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Aretha897 Gabriella773 is a 60 year-old nonhispanic white female.
+      # Social History
+
+  [01:51:06] DOCUMENT: History and physical note
+    Status: superseded
+
+  [02:27:15] CLAIM: professional
+    Amount: USD 573.98
+
+  [02:27:15] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Margaret865 Reinger292
+    Location: CARNEY HOSPITAL
+    Duration: 02:27:15 - 02:48:02
+
+  [02:27:15] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [02:27:15] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-11-15
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Aretha897 Gabriella773 is a 60 year-old nonhispanic white female.
+      # Social History
+
+  [02:27:15] DOCUMENT: History and physical note
+    Status: superseded
+
+  [02:48:02] CLAIM: professional
+    Amount: USD 211.60
+
+  [02:48:02] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Margaret865 Reinger292
+    Location: CARNEY HOSPITAL
+    Duration: 02:48:02 - 03:18:06
+
+  [02:48:02] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [02:48:02] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-11-15
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Aretha897 Gabriella773 is a 60 year-old nonhispanic white female.
+      # Social History
+
+  [02:48:02] DOCUMENT: History and physical note
+    Status: superseded
+
+  [02:59:07] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [03:18:06] CLAIM: professional
+    Amount: USD 3730.95
+
+
+📅 2022-02-10
+
+  [09:49:56] VISIT: General examination of patient (procedure)
+    Provider: Dr. Miguel815 Zamudio115
+    Location: MANET COMMUNITY HEALTH CENTER, INC.
+    Duration: 09:49:56 - 10:04:56
+
+  [09:49:56] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [09:49:56] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [09:49:56] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-02-10
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Aretha897 Gabriella773 is a 61 year-old nonhispanic white female.
+      # Social History
+
+  [09:49:56] DOCUMENT: History and physical note
+    Status: superseded
+
+  [10:04:56] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2022-11-07
+
+  [03:18:06] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Margaret865 Reinger292
+    Location: CARNEY HOSPITAL
+    Duration: 03:18:06 - 03:52:51
+
+  [03:18:06] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [03:18:06] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-11-07
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Aretha897 Gabriella773 is a 61 year-old nonhispanic white female.
+      # Social History
+
+  [03:18:06] DOCUMENT: History and physical note
+    Status: superseded
+
+  [03:52:51] CLAIM: professional
+    Amount: USD 573.98
+
+  [03:52:51] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Margaret865 Reinger292
+    Location: CARNEY HOSPITAL
+    Duration: 03:52:51 - 04:08:21
+
+  [03:52:51] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [03:52:51] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-11-07
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Aretha897 Gabriella773 is a 61 year-old nonhispanic white female.
+      # Social History
+
+  [03:52:51] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:08:21] CLAIM: professional
+    Amount: USD 211.60
+
+  [04:08:21] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Margaret865 Reinger292
+    Location: CARNEY HOSPITAL
+    Duration: 04:08:21 - 04:35:35
+
+  [04:08:21] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [04:08:21] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-11-07
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Aretha897 Gabriella773 is a 61 year-old nonhispanic white female.
+      # Social History
+
+  [04:08:21] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:20:35] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [04:35:35] CLAIM: professional
+    Amount: USD 1885.84
+
+
+📅 2023-02-16
+
+  [09:49:56] VISIT: General examination of patient (procedure)
+    Provider: Dr. Miguel815 Zamudio115
+    Location: MANET COMMUNITY HEALTH CENTER, INC.
+    Duration: 09:49:56 - 10:04:56
+
+  [09:49:56] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [09:49:56] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-02-16
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Aretha897 Gabriella773 is a 62 year-old nonhispanic white female.
+      # Social History
+
+  [09:49:56] DOCUMENT: History and physical note
+    Status: superseded
+
+  [10:04:56] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2023-11-10
+
+  [04:35:35] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Margaret865 Reinger292
+    Location: CARNEY HOSPITAL
+    Duration: 04:35:35 - 05:16:46
+
+  [04:35:35] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [04:35:35] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-11-10
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Aretha897 Gabriella773 is a 62 year-old nonhispanic white female.
+      # Social History
+
+  [04:35:35] DOCUMENT: History and physical note
+    Status: superseded
+
+  [05:16:46] CLAIM: professional
+    Amount: USD 573.98
+
+  [05:16:46] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Margaret865 Reinger292
+    Location: CARNEY HOSPITAL
+    Duration: 05:16:46 - 05:40:39
+
+  [05:16:46] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [05:16:46] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-11-10
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Aretha897 Gabriella773 is a 62 year-old nonhispanic white female.
+      # Social History
+
+  [05:16:46] DOCUMENT: History and physical note
+    Status: superseded
+
+  [05:40:39] CLAIM: professional
+    Amount: USD 211.60
+
+  [05:40:39] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Margaret865 Reinger292
+    Location: CARNEY HOSPITAL
+    Duration: 05:40:39 - 06:10:29
+
+  [05:40:39] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [05:40:39] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-11-10
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Aretha897 Gabriella773 is a 62 year-old nonhispanic white female.
+      # Social History
+
+  [05:40:39] DOCUMENT: History and physical note
+    Status: superseded
+
+  [05:53:59] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [06:10:29] CLAIM: professional
+    Amount: USD 1091.66
+
+
+📅 2024-02-22
+
+  [09:49:56] VISIT: General examination of patient (procedure)
+    Provider: Dr. Miguel815 Zamudio115
+    Location: MANET COMMUNITY HEALTH CENTER, INC.
+    Duration: 09:49:56 - 10:04:56
+
+  [09:49:56] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [09:49:56] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-02-22
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Aretha897 Gabriella773 is a 63 year-old nonhispanic white female.
+      # Social History
+
+  [09:49:56] DOCUMENT: History and physical note
+    Status: superseded
+
+  [10:04:56] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2024-10-12
+
+  [07:10:29] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Xochitl483 Haley279
+    Location: Patient's Home
+    Duration: 07:10:29 - 07:53:26
+
+  [07:10:29] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [07:10:29] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-10-12
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Aretha897 Gabriella773 is a 63 year-old nonhispanic white female.
+      # Social History
+
+  [07:10:29] DOCUMENT: History and physical note
+    Status: superseded
+
+  [07:53:26] CLAIM: institutional
+    Amount: USD 556.40
+
+  [07:53:26] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Margaret865 Reinger292
+    Location: CARNEY HOSPITAL
+    Duration: 07:53:26 - 08:15:45
+
+  [07:53:26] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [07:53:26] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-10-12
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Aretha897 Gabriella773 is a 63 year-old nonhispanic white female.
+      # Social History
+
+  [07:53:26] DOCUMENT: History and physical note
+    Status: superseded
+
+  [08:15:45] CLAIM: professional
+    Amount: USD 214.51
+
+  [08:15:45] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Margaret865 Reinger292
+    Location: CARNEY HOSPITAL
+    Duration: 08:15:45 - 08:48:17
+
+  [08:15:45] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [08:15:45] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-10-12
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Aretha897 Gabriella773 is a 63 year-old nonhispanic white female.
+      # Social History
+
+  [08:15:45] DOCUMENT: History and physical note
+    Status: superseded
+
+  [08:28:23] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [08:48:17] CLAIM: professional
+    Amount: USD 3133.56
+
+
+📅 2025-02-27
+
+  [09:49:56] VISIT: General examination of patient (procedure)
+    Provider: Dr. Miguel815 Zamudio115
+    Location: MANET COMMUNITY HEALTH CENTER, INC.
+    Duration: 09:49:56 - 10:04:56
+
+  [09:49:56] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [09:49:56] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-02-27
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Aretha897 Gabriella773 is a 64 year-old nonhispanic white female.
+      # Social History
+
+  [09:49:56] DOCUMENT: History and physical note
+    Status: superseded
+
+  [10:04:56] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2025-09-18
+
+  [08:48:17] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Xochitl483 Haley279
+    Location: Patient's Home
+    Duration: 08:48:17 - 09:32:23
+
+  [08:48:17] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [08:48:17] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-09-18
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Aretha897 Gabriella773 is a 64 year-old nonhispanic white female.
+      # Social History
+
+  [08:48:17] DOCUMENT: History and physical note
+    Status: superseded
+
+  [09:32:23] CLAIM: institutional
+    Amount: USD 556.40
+
+  [09:32:23] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Margaret865 Reinger292
+    Location: CARNEY HOSPITAL
+    Duration: 09:32:23 - 09:55:48
+
+  [09:32:23] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [09:32:23] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-09-18
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Aretha897 Gabriella773 is a 64 year-old nonhispanic white female.
+      # Social History
+
+  [09:32:23] DOCUMENT: History and physical note
+    Status: superseded
+
+  [09:55:48] CLAIM: professional
+    Amount: USD 243.35
+
+  [09:55:48] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Margaret865 Reinger292
+    Location: CARNEY HOSPITAL
+    Duration: 09:55:48 - 10:23:17
+
+  [09:55:48] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [09:55:48] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-09-18
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Aretha897 Gabriella773 is a 64 year-old nonhispanic white female.
+      # Social History
+
+  [09:55:48] DOCUMENT: History and physical note
+    Status: current
+
+  [10:06:10] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [10:23:17] CLAIM: professional
+    Amount: USD 1211.41
+
+
+📅 2026-02-12
+
+  [09:49:56] PROVENANCE: Record activity
+    Agents: Dr. Margaret865 Reinger292, Dr. Margaret865 Reinger292
+
+================================================================================
+END OF TIMELINE (222 events)
+================================================================================

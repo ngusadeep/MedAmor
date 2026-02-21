@@ -1,0 +1,165 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Mrs. Eunice461 Leilani136 Ryan260
+  Patient ID: 49145
+  Date of Birth: 1976-01-27
+  Gender: Female
+  Race: White
+  Ethnicity: Not Hispanic or Latino
+  Marital Status: Divorced
+  Address: 844 Wilderman Branch, Hampden, MA 00000
+  Phone: 555-420-2818
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2018-02-06
+
+  [01:32:03] VISIT: General examination of patient (procedure)
+    Provider: Dr. Fritz267 Farrell962
+    Location: CARING HEALTH CENTER, INC
+    Duration: 01:32:03 - 01:47:03
+
+  [01:32:03] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [01:32:03] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [01:32:03] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [01:32:03] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-02-06
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Eunice461 Leilani136 is a 42 year-old nonhispanic white female.
+      # Social History
+
+  [01:32:03] DOCUMENT: History and physical note
+    Status: superseded
+
+  [01:47:03] CLAIM: professional
+    Amount: USD 544.80
+
+
+📅 2020-02-11
+
+  [01:32:03] VISIT: General examination of patient (procedure)
+    Provider: Dr. Fritz267 Farrell962
+    Location: CARING HEALTH CENTER, INC
+    Duration: 01:32:03 - 01:47:03
+
+  [01:32:03] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [01:32:03] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-02-11
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Eunice461 Leilani136 is a 44 year-old nonhispanic white female.
+      # Social History
+
+  [01:32:03] DOCUMENT: History and physical note
+    Status: superseded
+
+  [01:47:03] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2022-02-15
+
+  [01:32:03] VISIT: General examination of patient (procedure)
+    Provider: Dr. Fritz267 Farrell962
+    Location: CARING HEALTH CENTER, INC
+    Duration: 01:32:03 - 01:47:03
+
+  [01:32:03] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [01:32:03] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-02-15
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Eunice461 Leilani136 is a 46 year-old nonhispanic white female.
+      # Social History
+
+  [01:32:03] DOCUMENT: History and physical note
+    Status: superseded
+
+  [01:47:03] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2024-02-20
+
+  [01:32:03] VISIT: General examination of patient (procedure)
+    Provider: Dr. Fritz267 Farrell962
+    Location: CARING HEALTH CENTER, INC
+    Duration: 01:32:03 - 01:47:03
+
+  [01:32:03] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [01:32:03] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-02-20
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Eunice461 Leilani136 is a 48 year-old nonhispanic white female.
+      # Social History
+
+  [01:32:03] DOCUMENT: History and physical note
+    Status: superseded
+
+  [01:47:03] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2026-01-27
+
+  [01:32:03] VISIT: General examination of patient (procedure)
+    Provider: Dr. Fritz267 Farrell962
+    Location: CARING HEALTH CENTER, INC
+    Duration: 01:32:03 - 01:47:03
+
+  [01:32:03] IMMUNIZATION: zoster vaccine, live
+    Status: completed
+
+  [01:32:03] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [01:32:03] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2026-01-27
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Eunice461 Leilani136 is a 50 year-old nonhispanic white female.
+      # Social History
+
+  [01:32:03] DOCUMENT: History and physical note
+    Status: current
+
+  [01:47:03] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2026-02-10
+
+  [01:32:03] PROVENANCE: Record activity
+    Agents: Dr. Fritz267 Farrell962, Dr. Fritz267 Farrell962
+
+================================================================================
+END OF TIMELINE (29 events)
+================================================================================

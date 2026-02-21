@@ -1,0 +1,191 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Mrs. Lise687 Kub800
+  Patient ID: 94227
+  Date of Birth: 1973-12-15
+  Gender: Female
+  Race: Asian
+  Ethnicity: Not Hispanic or Latino
+  Marital Status: Married
+  Address: 363 DuBuque Track, Boston, MA 02126
+  Phone: 555-585-3180
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2017-12-30
+
+  [14:53:38] VISIT: General examination of patient (procedure)
+    Provider: Dr. Felipe97 Tamayo777
+    Location: HARBOR HEALTH SERVICES INC
+    Duration: 14:53:38 - 15:08:38
+
+  [14:53:38] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [14:53:38] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-12-30
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lise687 is a 44 year-old nonhispanic asian female.
+      # Social History
+
+  [14:53:38] DOCUMENT: History and physical note
+    Status: superseded
+
+  [15:08:38] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2020-01-04
+
+  [14:53:38] VISIT: General examination of patient (procedure)
+    Provider: Dr. Felipe97 Tamayo777
+    Location: HARBOR HEALTH SERVICES INC
+    Duration: 14:53:38 - 15:08:38
+
+  [14:53:38] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [14:53:38] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-01-04
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lise687 is a 46 year-old nonhispanic asian female.
+      # Social History
+
+  [14:53:38] DOCUMENT: History and physical note
+    Status: superseded
+
+  [15:08:38] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2022-01-08
+
+  [14:53:38] VISIT: General examination of patient (procedure)
+    Provider: Dr. Felipe97 Tamayo777
+    Location: HARBOR HEALTH SERVICES INC
+    Duration: 14:53:38 - 15:08:38
+
+  [14:53:38] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [14:53:38] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-01-08
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lise687 is a 48 year-old nonhispanic asian female.
+      # Social History
+
+  [14:53:38] DOCUMENT: History and physical note
+    Status: superseded
+
+  [15:08:38] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2023-12-16
+
+  [14:53:38] VISIT: General examination of patient (procedure)
+    Provider: Dr. Felipe97 Tamayo777
+    Location: HARBOR HEALTH SERVICES INC
+    Duration: 14:53:38 - 15:08:38
+
+  [14:53:38] IMMUNIZATION: zoster vaccine, live
+    Status: completed
+
+  [14:53:38] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [14:53:38] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-12-16
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lise687 is a 50 year-old nonhispanic asian female.
+      # Social History
+
+  [14:53:38] DOCUMENT: History and physical note
+    Status: superseded
+
+  [15:08:38] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2024-12-21
+
+  [14:53:38] VISIT: General examination of patient (procedure)
+    Provider: Dr. Felipe97 Tamayo777
+    Location: HARBOR HEALTH SERVICES INC
+    Duration: 14:53:38 - 15:08:38
+
+  [14:53:38] IMMUNIZATION: zoster vaccine, live
+    Status: completed
+
+  [14:53:38] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [14:53:38] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [14:53:38] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-12-21
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lise687 is a 51 year-old nonhispanic asian female.
+      # Social History
+
+  [14:53:38] DOCUMENT: History and physical note
+    Status: superseded
+
+  [15:08:38] CLAIM: professional
+    Amount: USD 544.80
+
+
+📅 2025-12-27
+
+  [14:53:38] VISIT: General examination of patient (procedure)
+    Provider: Dr. Felipe97 Tamayo777
+    Location: HARBOR HEALTH SERVICES INC
+    Duration: 14:53:38 - 15:08:38
+
+  [14:53:38] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [14:53:38] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-12-27
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lise687 is a 52 year-old nonhispanic asian female.
+      # Social History
+
+  [14:53:38] DOCUMENT: History and physical note
+    Status: current
+
+  [15:08:38] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2026-02-14
+
+  [14:53:38] PROVENANCE: Record activity
+    Agents: Dr. Felipe97 Tamayo777, Dr. Felipe97 Tamayo777
+
+================================================================================
+END OF TIMELINE (34 events)
+================================================================================

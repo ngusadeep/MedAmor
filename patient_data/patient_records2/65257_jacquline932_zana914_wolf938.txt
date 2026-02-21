@@ -1,0 +1,165 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Mrs. Jacquline932 Zana914 Wolf938
+  Patient ID: 65257
+  Date of Birth: 1982-04-10
+  Gender: Female
+  Race: Black or African American
+  Ethnicity: Not Hispanic or Latino
+  Marital Status: Married
+  Address: 575 Little Brook Unit 55, Boston, MA 02115
+  Phone: 555-604-2754
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2016-06-25
+
+  [22:35:35] VISIT: General examination of patient (procedure)
+    Provider: Dr. Rob341 Cormier289
+    Location: BOSTON UNIVERSITY MEDICAL CENTER RADIOLOGISTS, INC.
+    Duration: 22:35:35 - 22:50:35
+
+  [22:35:35] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [22:35:35] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-06-25
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Jacquline932 Zana914 is a 34 year-old nonhispanic black female.
+      # Social History
+
+  [22:35:35] DOCUMENT: History and physical note
+    Status: superseded
+
+  [22:50:35] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2019-06-29
+
+  [22:35:35] VISIT: General examination of patient (procedure)
+    Provider: Dr. Rob341 Cormier289
+    Location: BOSTON UNIVERSITY MEDICAL CENTER RADIOLOGISTS, INC.
+    Duration: 22:35:35 - 22:50:35
+
+  [22:35:35] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [22:35:35] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-06-29
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Jacquline932 Zana914 is a 37 year-old nonhispanic black female.
+      # Social History
+
+  [22:35:35] DOCUMENT: History and physical note
+    Status: superseded
+
+  [22:50:35] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2021-07-10
+
+  [22:35:35] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Latoyia537 Lindgren255
+    Location: DR SOLOMON CARTER FULLER MENTAL HEALTH CENTER
+    Duration: 22:35:35 - 22:50:35
+
+  [22:35:35] IMMUNIZATION: COVID-19 vaccine, vector-nr, rS-Ad26, PF, 0.5 mL
+    Status: completed
+
+  [22:35:35] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-07-10
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Jacquline932 Zana914 is a 39 year-old nonhispanic black female.
+      # Social History
+
+  [22:35:35] DOCUMENT: History and physical note
+    Status: superseded
+
+  [22:50:35] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2022-04-16
+
+  [22:35:35] VISIT: General examination of patient (procedure)
+    Provider: Dr. Rob341 Cormier289
+    Location: BOSTON UNIVERSITY MEDICAL CENTER RADIOLOGISTS, INC.
+    Duration: 22:35:35 - 22:50:35
+
+  [22:35:35] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [22:35:35] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [22:35:35] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-04-16
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Jacquline932 Zana914 is a 40 year-old nonhispanic black female.
+      # Social History
+
+  [22:35:35] DOCUMENT: History and physical note
+    Status: superseded
+
+  [22:50:35] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2024-04-20
+
+  [22:35:35] VISIT: General examination of patient (procedure)
+    Provider: Dr. Rob341 Cormier289
+    Location: BOSTON UNIVERSITY MEDICAL CENTER RADIOLOGISTS, INC.
+    Duration: 22:35:35 - 22:50:35
+
+  [22:35:35] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [22:35:35] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [22:35:35] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [22:35:35] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-04-20
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Jacquline932 Zana914 is a 42 year-old nonhispanic black female.
+      # Social History
+
+  [22:35:35] DOCUMENT: History and physical note
+    Status: current
+
+  [22:50:35] CLAIM: professional
+    Amount: USD 544.80
+
+
+📅 2026-02-14
+
+  [21:35:35] PROVENANCE: Record activity
+    Agents: Dr. Rob341 Cormier289, Dr. Rob341 Cormier289
+
+================================================================================
+END OF TIMELINE (29 events)
+================================================================================

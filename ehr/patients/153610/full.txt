@@ -1,0 +1,295 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Mrs. Vicki422 Arcelia945 Luettgen772
+  Patient ID: 153610
+  Date of Birth: 1969-12-05
+  Gender: Female
+  Race: White
+  Ethnicity: Not Hispanic or Latino
+  Marital Status: Married
+  Address: 237 Hackett Gateway, Quincy, MA 02169
+  Phone: 555-945-4380
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2017-12-29
+
+  [14:48:19] VISIT: General examination of patient (procedure)
+    Provider: Dr. Rolland302 Lemke654
+    Location: QUINCY CENTER PRIMARY CARE PC
+    Duration: 14:48:19 - 15:03:19
+
+  [14:48:19] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [14:48:19] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-12-29
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Vicki422 Arcelia945 is a 48 year-old nonhispanic white female.
+      # Social History
+
+  [14:48:19] DOCUMENT: History and physical note
+    Status: superseded
+
+  [15:03:19] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2019-12-06
+
+  [14:48:19] VISIT: General examination of patient (procedure)
+    Provider: Dr. Rolland302 Lemke654
+    Location: QUINCY CENTER PRIMARY CARE PC
+    Duration: 14:48:19 - 15:03:19
+
+  [14:48:19] IMMUNIZATION: zoster vaccine, live
+    Status: completed
+
+  [14:48:19] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [14:48:19] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-12-06
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Vicki422 Arcelia945 is a 50 year-old nonhispanic white female.
+      # Social History
+
+  [14:48:19] DOCUMENT: History and physical note
+    Status: superseded
+
+  [15:03:19] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2020-12-11
+
+  [14:48:19] VISIT: General examination of patient (procedure)
+    Provider: Dr. Rolland302 Lemke654
+    Location: QUINCY CENTER PRIMARY CARE PC
+    Duration: 14:48:19 - 15:03:19
+
+  [14:48:19] IMMUNIZATION: zoster vaccine, live
+    Status: completed
+
+  [14:48:19] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [14:48:19] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [14:48:19] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-12-11
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Vicki422 Arcelia945 is a 51 year-old nonhispanic white female.
+      # Social History
+
+  [14:48:19] DOCUMENT: History and physical note
+    Status: superseded
+
+  [15:03:19] CLAIM: professional
+    Amount: USD 544.80
+
+
+📅 2021-04-02
+
+  [15:48:19] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Xochitl483 Haley279
+    Location: ARBOUR HOSPITAL, THE
+    Duration: 15:48:19 - 16:03:19
+
+  [15:48:19] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+    Status: completed
+
+  [15:48:19] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-04-02
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Vicki422 Arcelia945 is a 51 year-old nonhispanic white female.
+      # Social History
+
+  [15:48:19] DOCUMENT: History and physical note
+    Status: superseded
+
+  [16:03:19] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-04-30
+
+  [15:48:19] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Xochitl483 Haley279
+    Location: ARBOUR HOSPITAL, THE
+    Duration: 15:48:19 - 16:03:19
+
+  [15:48:19] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+    Status: completed
+
+  [15:48:19] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-04-30
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Vicki422 Arcelia945 is a 51 year-old nonhispanic white female.
+      # Social History
+
+  [15:48:19] DOCUMENT: History and physical note
+    Status: superseded
+
+  [16:03:19] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-12-17
+
+  [14:48:19] VISIT: General examination of patient (procedure)
+    Provider: Dr. Rolland302 Lemke654
+    Location: QUINCY CENTER PRIMARY CARE PC
+    Duration: 14:48:19 - 15:03:19
+
+  [14:48:19] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [14:48:19] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-12-17
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Vicki422 Arcelia945 is a 52 year-old nonhispanic white female.
+      # Social History
+
+  [14:48:19] DOCUMENT: History and physical note
+    Status: superseded
+
+  [15:03:19] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2022-12-23
+
+  [14:48:19] VISIT: General examination of patient (procedure)
+    Provider: Dr. Rolland302 Lemke654
+    Location: QUINCY CENTER PRIMARY CARE PC
+    Duration: 14:48:19 - 15:03:19
+
+  [14:48:19] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [14:48:19] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-12-23
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Vicki422 Arcelia945 is a 53 year-old nonhispanic white female.
+      # Social History
+
+  [14:48:19] DOCUMENT: History and physical note
+    Status: superseded
+
+  [15:03:19] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2023-12-29
+
+  [14:48:19] VISIT: General examination of patient (procedure)
+    Provider: Dr. Rolland302 Lemke654
+    Location: QUINCY CENTER PRIMARY CARE PC
+    Duration: 14:48:19 - 15:03:19
+
+  [14:48:19] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [14:48:19] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-12-29
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Vicki422 Arcelia945 is a 54 year-old nonhispanic white female.
+      # Social History
+
+  [14:48:19] DOCUMENT: History and physical note
+    Status: superseded
+
+  [15:03:19] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2025-01-03
+
+  [14:48:19] VISIT: General examination of patient (procedure)
+    Provider: Dr. Rolland302 Lemke654
+    Location: QUINCY CENTER PRIMARY CARE PC
+    Duration: 14:48:19 - 15:03:19
+
+  [14:48:19] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [14:48:19] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-01-03
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Vicki422 Arcelia945 is a 55 year-old nonhispanic white female.
+      # Social History
+
+  [14:48:19] DOCUMENT: History and physical note
+    Status: superseded
+
+  [15:03:19] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2026-01-09
+
+  [14:48:19] VISIT: General examination of patient (procedure)
+    Provider: Dr. Rolland302 Lemke654
+    Location: QUINCY CENTER PRIMARY CARE PC
+    Duration: 14:48:19 - 15:03:19
+
+  [14:48:19] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [14:48:19] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2026-01-09
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Vicki422 Arcelia945 is a 56 year-old nonhispanic white female.
+      # Social History
+
+  [14:48:19] DOCUMENT: History and physical note
+    Status: current
+
+  [15:03:19] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2026-02-13
+
+  [14:48:19] PROVENANCE: Record activity
+    Agents: Dr. Rolland302 Lemke654, Dr. Rolland302 Lemke654
+
+================================================================================
+END OF TIMELINE (54 events)
+================================================================================

@@ -1,0 +1,165 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Ms. Karena692 Sharilyn202 Lakin515
+  Patient ID: 76542
+  Date of Birth: 1979-03-17
+  Gender: Female
+  Race: White
+  Ethnicity: Not Hispanic or Latino
+  Marital Status: Never Married
+  Address: 355 Torp Ville Apt 26, Deerfield, MA 01342
+  Phone: 555-381-9794
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2016-06-04
+
+  [04:34:28] VISIT: General examination of patient (procedure)
+    Provider: Dr. Ellie521 Nicolas769
+    Location: COMMUNITY HEALTH CENTER OF FRANKLIN COUNTY INCORPORATED
+    Duration: 04:34:28 - 04:49:28
+
+  [04:34:28] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [04:34:28] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-06-04
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Karena692 is a 37 year-old nonhispanic white female.
+      # Social History
+
+  [04:34:28] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:49:28] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2019-03-23
+
+  [04:34:28] VISIT: General examination of patient (procedure)
+    Provider: Dr. Ellie521 Nicolas769
+    Location: COMMUNITY HEALTH CENTER OF FRANKLIN COUNTY INCORPORATED
+    Duration: 04:34:28 - 04:49:28
+
+  [04:34:28] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [04:34:28] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [04:34:28] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-03-23
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Karena692 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [04:34:28] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:49:28] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2021-03-27
+
+  [04:34:28] VISIT: General examination of patient (procedure)
+    Provider: Dr. Ellie521 Nicolas769
+    Location: COMMUNITY HEALTH CENTER OF FRANKLIN COUNTY INCORPORATED
+    Duration: 04:34:28 - 04:49:28
+
+  [04:34:28] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [04:34:28] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [04:34:28] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [04:34:28] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-03-27
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Karena692 is a 42 year-old nonhispanic white female.
+      # Social History
+
+  [04:34:28] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:49:28] CLAIM: professional
+    Amount: USD 544.80
+
+
+📅 2023-04-01
+
+  [04:34:28] VISIT: General examination of patient (procedure)
+    Provider: Dr. Ellie521 Nicolas769
+    Location: COMMUNITY HEALTH CENTER OF FRANKLIN COUNTY INCORPORATED
+    Duration: 04:34:28 - 04:49:28
+
+  [04:34:28] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [04:34:28] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-04-01
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Karena692 is a 44 year-old nonhispanic white female.
+      # Social History
+
+  [04:34:28] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:49:28] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2025-04-05
+
+  [04:34:28] VISIT: General examination of patient (procedure)
+    Provider: Dr. Ellie521 Nicolas769
+    Location: COMMUNITY HEALTH CENTER OF FRANKLIN COUNTY INCORPORATED
+    Duration: 04:34:28 - 04:49:28
+
+  [04:34:28] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [04:34:28] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-04-05
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Karena692 is a 46 year-old nonhispanic white female.
+      # Social History
+
+  [04:34:28] DOCUMENT: History and physical note
+    Status: current
+
+  [04:49:28] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2026-02-14
+
+  [03:34:28] PROVENANCE: Record activity
+    Agents: Dr. Ellie521 Nicolas769, Dr. Ellie521 Nicolas769
+
+================================================================================
+END OF TIMELINE (29 events)
+================================================================================

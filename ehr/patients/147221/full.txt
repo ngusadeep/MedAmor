@@ -1,0 +1,165 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Mrs. Thalia561 Niesha86 Mayert710
+  Patient ID: 147221
+  Date of Birth: 1975-09-21
+  Gender: Female
+  Race: White
+  Ethnicity: Not Hispanic or Latino
+  Marital Status: Divorced
+  Address: 211 Bergnaum Wynd, Worcester, MA 01607
+  Phone: 555-128-9022
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2017-10-01
+
+  [06:21:56] VISIT: General examination of patient (procedure)
+    Provider: Dr. Claudia969 Canales95
+    Location: EDWARD M KENNEDY COMMUNITY HEALTH CENTER INC
+    Duration: 06:21:56 - 06:36:56
+
+  [06:21:56] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [06:21:56] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [06:21:56] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [06:21:56] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-10-01
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Thalia561 Niesha86 is a 42 year-old nonhispanic white female.
+      # Social History
+
+  [06:21:56] DOCUMENT: History and physical note
+    Status: superseded
+
+  [06:36:56] CLAIM: professional
+    Amount: USD 544.80
+
+
+📅 2019-10-06
+
+  [06:21:56] VISIT: General examination of patient (procedure)
+    Provider: Dr. Claudia969 Canales95
+    Location: EDWARD M KENNEDY COMMUNITY HEALTH CENTER INC
+    Duration: 06:21:56 - 06:36:56
+
+  [06:21:56] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [06:21:56] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-10-06
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Thalia561 Niesha86 is a 44 year-old nonhispanic white female.
+      # Social History
+
+  [06:21:56] DOCUMENT: History and physical note
+    Status: superseded
+
+  [06:36:56] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2021-10-10
+
+  [06:21:56] VISIT: General examination of patient (procedure)
+    Provider: Dr. Claudia969 Canales95
+    Location: EDWARD M KENNEDY COMMUNITY HEALTH CENTER INC
+    Duration: 06:21:56 - 06:36:56
+
+  [06:21:56] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [06:21:56] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-10-10
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Thalia561 Niesha86 is a 46 year-old nonhispanic white female.
+      # Social History
+
+  [06:21:56] DOCUMENT: History and physical note
+    Status: superseded
+
+  [06:36:56] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2023-10-15
+
+  [06:21:56] VISIT: General examination of patient (procedure)
+    Provider: Dr. Claudia969 Canales95
+    Location: EDWARD M KENNEDY COMMUNITY HEALTH CENTER INC
+    Duration: 06:21:56 - 06:36:56
+
+  [06:21:56] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [06:21:56] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-10-15
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Thalia561 Niesha86 is a 48 year-old nonhispanic white female.
+      # Social History
+
+  [06:21:56] DOCUMENT: History and physical note
+    Status: superseded
+
+  [06:36:56] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2025-09-21
+
+  [06:21:56] VISIT: General examination of patient (procedure)
+    Provider: Dr. Claudia969 Canales95
+    Location: EDWARD M KENNEDY COMMUNITY HEALTH CENTER INC
+    Duration: 06:21:56 - 06:36:56
+
+  [06:21:56] IMMUNIZATION: zoster vaccine, live
+    Status: completed
+
+  [06:21:56] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [06:21:56] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-09-21
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Thalia561 Niesha86 is a 50 year-old nonhispanic white female.
+      # Social History
+
+  [06:21:56] DOCUMENT: History and physical note
+    Status: current
+
+  [06:36:56] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2026-02-15
+
+  [05:21:56] PROVENANCE: Record activity
+    Agents: Dr. Claudia969 Canales95, Dr. Claudia969 Canales95
+
+================================================================================
+END OF TIMELINE (29 events)
+================================================================================

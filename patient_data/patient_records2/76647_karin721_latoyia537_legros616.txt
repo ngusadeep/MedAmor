@@ -1,0 +1,217 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Mrs. Karin721 Latoyia537 Legros616
+  Patient ID: 76647
+  Date of Birth: 1975-12-23
+  Gender: Female
+  Race: American Indian or Alaska Native
+  Ethnicity: Not Hispanic or Latino
+  Marital Status: Divorced
+  Address: 1035 Koch Pathway, Somerville, MA 02145
+  Phone: 555-275-7544
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2018-01-02
+
+  [09:12:59] VISIT: General examination of patient (procedure)
+    Provider: Dr. Rocky100 Schmeler639
+    Location: LONGFELLOW PRIMARY CARE, PC
+    Duration: 09:12:59 - 09:27:59
+
+  [09:12:59] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [09:12:59] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [09:12:59] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [09:12:59] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-01-02
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Karin721 Latoyia537 is a 42 year-old nonhispanic native female.
+      # Social History
+
+  [09:12:59] DOCUMENT: History and physical note
+    Status: superseded
+
+  [09:27:59] CLAIM: professional
+    Amount: USD 544.80
+
+
+📅 2020-01-07
+
+  [09:12:59] VISIT: General examination of patient (procedure)
+    Provider: Dr. Rocky100 Schmeler639
+    Location: LONGFELLOW PRIMARY CARE, PC
+    Duration: 09:12:59 - 09:27:59
+
+  [09:12:59] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [09:12:59] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-01-07
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Karin721 Latoyia537 is a 44 year-old nonhispanic native female.
+      # Social History
+
+  [09:12:59] DOCUMENT: History and physical note
+    Status: superseded
+
+  [09:27:59] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2021-03-16
+
+  [10:12:59] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Leopoldo762 Keebler762
+    Location: MOUNT AUBURN HOSPITAL
+    Duration: 10:12:59 - 10:27:59
+
+  [10:12:59] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 30 mcg/0.3 mL dose
+    Status: completed
+
+  [10:12:59] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-03-16
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Karin721 Latoyia537 is a 45 year-old nonhispanic native female.
+      # Social History
+
+  [10:12:59] DOCUMENT: History and physical note
+    Status: superseded
+
+  [10:27:59] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-04-06
+
+  [10:12:59] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Leopoldo762 Keebler762
+    Location: MOUNT AUBURN HOSPITAL
+    Duration: 10:12:59 - 10:27:59
+
+  [10:12:59] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 30 mcg/0.3 mL dose
+    Status: completed
+
+  [10:12:59] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-04-06
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Karin721 Latoyia537 is a 45 year-old nonhispanic native female.
+      # Social History
+
+  [10:12:59] DOCUMENT: History and physical note
+    Status: superseded
+
+  [10:27:59] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2022-01-11
+
+  [09:12:59] VISIT: General examination of patient (procedure)
+    Provider: Dr. Rocky100 Schmeler639
+    Location: LONGFELLOW PRIMARY CARE, PC
+    Duration: 09:12:59 - 09:27:59
+
+  [09:12:59] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [09:12:59] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-01-11
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Karin721 Latoyia537 is a 46 year-old nonhispanic native female.
+      # Social History
+
+  [09:12:59] DOCUMENT: History and physical note
+    Status: superseded
+
+  [09:27:59] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2024-01-16
+
+  [09:12:59] VISIT: General examination of patient (procedure)
+    Provider: Dr. Rocky100 Schmeler639
+    Location: LONGFELLOW PRIMARY CARE, PC
+    Duration: 09:12:59 - 09:27:59
+
+  [09:12:59] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [09:12:59] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-01-16
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Karin721 Latoyia537 is a 48 year-old nonhispanic native female.
+      # Social History
+
+  [09:12:59] DOCUMENT: History and physical note
+    Status: superseded
+
+  [09:27:59] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2025-12-23
+
+  [09:12:59] VISIT: General examination of patient (procedure)
+    Provider: Dr. Rocky100 Schmeler639
+    Location: LONGFELLOW PRIMARY CARE, PC
+    Duration: 09:12:59 - 09:27:59
+
+  [09:12:59] IMMUNIZATION: zoster vaccine, live
+    Status: completed
+
+  [09:12:59] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [09:12:59] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-12-23
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Karin721 Latoyia537 is a 50 year-old nonhispanic native female.
+      # Social History
+
+  [09:12:59] DOCUMENT: History and physical note
+    Status: current
+
+  [09:27:59] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2026-02-10
+
+  [09:12:59] PROVENANCE: Record activity
+    Agents: Dr. Rocky100 Schmeler639, Dr. Rocky100 Schmeler639
+
+================================================================================
+END OF TIMELINE (39 events)
+================================================================================

@@ -1,0 +1,191 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Mrs. Dianne921 Yong583 Shields502
+  Patient ID: 39013
+  Date of Birth: 1982-02-22
+  Gender: Female
+  Race: Asian
+  Ethnicity: Not Hispanic or Latino
+  Marital Status: Married
+  Address: 988 Waters Run Unit 23, Barre, MA 01005
+  Phone: 555-421-7696
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2016-05-09
+
+  [15:35:26] VISIT: General examination of patient (procedure)
+    Provider: Dr. Teodoro374 Koss676
+    Location: COMMUNITY HEALTH CONNECTIONS, INC
+    Duration: 15:35:26 - 15:50:26
+
+  [15:35:26] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [15:35:26] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-05-09
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Dianne921 Yong583 is a 34 year-old nonhispanic asian female.
+      # Social History
+
+  [15:35:26] DOCUMENT: History and physical note
+    Status: superseded
+
+  [15:50:26] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2019-05-13
+
+  [15:35:26] VISIT: General examination of patient (procedure)
+    Provider: Dr. Teodoro374 Koss676
+    Location: COMMUNITY HEALTH CONNECTIONS, INC
+    Duration: 15:35:26 - 15:50:26
+
+  [15:35:26] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [15:35:26] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-05-13
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Dianne921 Yong583 is a 37 year-old nonhispanic asian female.
+      # Social History
+
+  [15:35:26] DOCUMENT: History and physical note
+    Status: superseded
+
+  [15:50:26] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2021-05-03
+
+  [15:35:26] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Rogelio17 Gibson10
+    Location: THE MCLEAN HOSPITAL CORPORATION
+    Duration: 15:35:26 - 15:50:26
+
+  [15:35:26] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+    Status: completed
+
+  [15:35:26] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-05-03
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Dianne921 Yong583 is a 39 year-old nonhispanic asian female.
+      # Social History
+
+  [15:35:26] DOCUMENT: History and physical note
+    Status: superseded
+
+  [15:50:26] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-05-31
+
+  [15:35:26] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Rogelio17 Gibson10
+    Location: THE MCLEAN HOSPITAL CORPORATION
+    Duration: 15:35:26 - 15:50:26
+
+  [15:35:26] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+    Status: completed
+
+  [15:35:26] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-05-31
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Dianne921 Yong583 is a 39 year-old nonhispanic asian female.
+      # Social History
+
+  [15:35:26] DOCUMENT: History and physical note
+    Status: superseded
+
+  [15:50:26] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2022-02-28
+
+  [14:35:26] VISIT: General examination of patient (procedure)
+    Provider: Dr. Teodoro374 Koss676
+    Location: COMMUNITY HEALTH CONNECTIONS, INC
+    Duration: 14:35:26 - 14:50:26
+
+  [14:35:26] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [14:35:26] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [14:35:26] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-02-28
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Dianne921 Yong583 is a 40 year-old nonhispanic asian female.
+      # Social History
+
+  [14:35:26] DOCUMENT: History and physical note
+    Status: superseded
+
+  [14:50:26] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2024-03-04
+
+  [14:35:26] VISIT: General examination of patient (procedure)
+    Provider: Dr. Teodoro374 Koss676
+    Location: COMMUNITY HEALTH CONNECTIONS, INC
+    Duration: 14:35:26 - 14:50:26
+
+  [14:35:26] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [14:35:26] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [14:35:26] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [14:35:26] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-03-04
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Dianne921 Yong583 is a 42 year-old nonhispanic asian female.
+      # Social History
+
+  [14:35:26] DOCUMENT: History and physical note
+    Status: current
+
+  [14:50:26] CLAIM: professional
+    Amount: USD 544.80
+
+
+📅 2026-02-09
+
+  [14:35:26] PROVENANCE: Record activity
+    Agents: Dr. Teodoro374 Koss676, Dr. Teodoro374 Koss676
+
+================================================================================
+END OF TIMELINE (34 events)
+================================================================================

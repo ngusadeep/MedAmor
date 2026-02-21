@@ -1,0 +1,191 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Mrs. Sunshine777 Vonda514 Haag279
+  Patient ID: 143774
+  Date of Birth: 1980-09-12
+  Gender: Female
+  Race: White
+  Ethnicity: Not Hispanic or Latino
+  Marital Status: Divorced
+  Address: 644 Leuschke Gateway, North Plymouth, MA 00000
+  Phone: 555-198-6659
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2017-12-01
+
+  [05:21:42] VISIT: General examination of patient (procedure)
+    Provider: Dr. Reinaldo138 Dach178
+    Location: BISSON WELLNESS INC
+    Duration: 05:21:42 - 05:36:42
+
+  [05:21:42] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [05:21:42] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-12-01
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Sunshine777 Vonda514 is a 37 year-old nonhispanic white female.
+      # Social History
+
+  [05:21:42] DOCUMENT: History and physical note
+    Status: superseded
+
+  [05:36:42] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2020-09-18
+
+  [06:21:42] VISIT: General examination of patient (procedure)
+    Provider: Dr. Reinaldo138 Dach178
+    Location: BISSON WELLNESS INC
+    Duration: 06:21:42 - 06:36:42
+
+  [06:21:42] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [06:21:42] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [06:21:42] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-09-18
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Sunshine777 Vonda514 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [06:21:42] DOCUMENT: History and physical note
+    Status: superseded
+
+  [06:36:42] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2021-08-20
+
+  [06:21:42] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Mozell819 Prohaska837
+    Location: BETH ISRAEL DEACONESS HOSPITAL PLYMOUTH INC
+    Duration: 06:21:42 - 06:36:42
+
+  [06:21:42] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 30 mcg/0.3 mL dose
+    Status: completed
+
+  [06:21:42] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-08-20
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Sunshine777 Vonda514 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [06:21:42] DOCUMENT: History and physical note
+    Status: superseded
+
+  [06:36:42] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-09-10
+
+  [06:21:42] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Mozell819 Prohaska837
+    Location: BETH ISRAEL DEACONESS HOSPITAL PLYMOUTH INC
+    Duration: 06:21:42 - 06:36:42
+
+  [06:21:42] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 30 mcg/0.3 mL dose
+    Status: completed
+
+  [06:21:42] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-09-10
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Sunshine777 Vonda514 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [06:21:42] DOCUMENT: History and physical note
+    Status: superseded
+
+  [06:36:42] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2022-09-23
+
+  [06:21:42] VISIT: General examination of patient (procedure)
+    Provider: Dr. Reinaldo138 Dach178
+    Location: BISSON WELLNESS INC
+    Duration: 06:21:42 - 06:36:42
+
+  [06:21:42] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [06:21:42] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [06:21:42] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [06:21:42] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-09-23
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Sunshine777 Vonda514 is a 42 year-old nonhispanic white female.
+      # Social History
+
+  [06:21:42] DOCUMENT: History and physical note
+    Status: superseded
+
+  [06:36:42] CLAIM: professional
+    Amount: USD 544.80
+
+
+📅 2024-09-27
+
+  [06:21:42] VISIT: General examination of patient (procedure)
+    Provider: Dr. Reinaldo138 Dach178
+    Location: BISSON WELLNESS INC
+    Duration: 06:21:42 - 06:36:42
+
+  [06:21:42] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [06:21:42] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-09-27
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Sunshine777 Vonda514 is a 44 year-old nonhispanic white female.
+      # Social History
+
+  [06:21:42] DOCUMENT: History and physical note
+    Status: current
+
+  [06:36:42] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2026-02-13
+
+  [05:21:42] PROVENANCE: Record activity
+    Agents: Dr. Reinaldo138 Dach178, Dr. Reinaldo138 Dach178
+
+================================================================================
+END OF TIMELINE (34 events)
+================================================================================

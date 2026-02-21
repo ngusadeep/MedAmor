@@ -1,0 +1,159 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Mrs. Jeanene972 Marquardt819
+  Patient ID: 66767
+  Date of Birth: 1984-08-26
+  Gender: Female
+  Race: White
+  Ethnicity: Not Hispanic or Latino
+  Marital Status: Married
+  Address: 183 Weimann Parade, New Bedford, MA 02748
+  Phone: 555-411-4333
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2018-11-11
+
+  [00:43:36] VISIT: General examination of patient (procedure)
+    Provider: Dr. Irina619 Stiedemann542
+    Location: NEW BEDFORD INTERNAL MEDICINE & GERIATRICS, LLC
+    Duration: 00:43:36 - 00:58:36
+
+  [00:43:36] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [00:43:36] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-11-11
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Jeanene972 is a 34 year-old nonhispanic white female.
+      # Social History
+
+  [00:43:36] DOCUMENT: History and physical note
+    Status: superseded
+
+  [00:58:36] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2021-07-25
+
+  [01:43:36] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Josef103 Klein929
+    Location: AP MEDICAL LLC
+    Duration: 01:43:36 - 01:58:36
+
+  [01:43:36] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+    Status: completed
+
+  [01:43:36] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-07-25
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Jeanene972 is a 36 year-old nonhispanic white female.
+      # Social History
+
+  [01:43:36] DOCUMENT: History and physical note
+    Status: superseded
+
+  [01:58:36] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-08-22
+
+  [01:43:36] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Josef103 Klein929
+    Location: AP MEDICAL LLC
+    Duration: 01:43:36 - 01:58:36
+
+  [01:43:36] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+    Status: completed
+
+  [01:43:36] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-08-22
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Jeanene972 is a 36 year-old nonhispanic white female.
+      # Social History
+
+  [01:43:36] DOCUMENT: History and physical note
+    Status: superseded
+
+  [01:58:36] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-11-14
+
+  [00:43:36] VISIT: General examination of patient (procedure)
+    Provider: Dr. Irina619 Stiedemann542
+    Location: NEW BEDFORD INTERNAL MEDICINE & GERIATRICS, LLC
+    Duration: 00:43:36 - 00:58:36
+
+  [00:43:36] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [00:43:36] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-11-14
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Jeanene972 is a 37 year-old nonhispanic white female.
+      # Social History
+
+  [00:43:36] DOCUMENT: History and physical note
+    Status: superseded
+
+  [00:58:36] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2024-09-01
+
+  [01:43:36] VISIT: General examination of patient (procedure)
+    Provider: Dr. Irina619 Stiedemann542
+    Location: NEW BEDFORD INTERNAL MEDICINE & GERIATRICS, LLC
+    Duration: 01:43:36 - 01:58:36
+
+  [01:43:36] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [01:43:36] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [01:43:36] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-09-01
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Jeanene972 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [01:43:36] DOCUMENT: History and physical note
+    Status: current
+
+  [01:58:36] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2026-02-15
+
+  [00:43:36] PROVENANCE: Record activity
+    Agents: Dr. Irina619 Stiedemann542, Dr. Irina619 Stiedemann542
+
+================================================================================
+END OF TIMELINE (27 events)
+================================================================================

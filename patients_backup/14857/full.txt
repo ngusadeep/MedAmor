@@ -1,0 +1,191 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Mrs. Ariane992 Funk324
+  Patient ID: 14857
+  Date of Birth: 1983-08-30
+  Gender: Female
+  Race: White
+  Ethnicity: Not Hispanic or Latino
+  Marital Status: Married
+  Address: 713 Lindgren Approach, Dover, MA 02030
+  Phone: 555-293-6586
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2017-11-14
+
+  [03:26:18] VISIT: General examination of patient (procedure)
+    Provider: Dr. Edwin773 Schultz619
+    Location: BOSTON HEALTH CARE INC
+    Duration: 03:26:18 - 03:41:18
+
+  [03:26:18] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [03:26:18] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-11-14
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Ariane992 is a 34 year-old nonhispanic white female.
+      # Social History
+
+  [03:26:18] DOCUMENT: History and physical note
+    Status: superseded
+
+  [03:41:18] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2020-11-17
+
+  [03:26:18] VISIT: General examination of patient (procedure)
+    Provider: Dr. Edwin773 Schultz619
+    Location: BOSTON HEALTH CARE INC
+    Duration: 03:26:18 - 03:41:18
+
+  [03:26:18] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [03:26:18] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-11-17
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Ariane992 is a 37 year-old nonhispanic white female.
+      # Social History
+
+  [03:26:18] DOCUMENT: History and physical note
+    Status: superseded
+
+  [03:41:18] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2021-02-09
+
+  [03:26:18] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Eleni953 Franecki195
+    Location: BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM, INC.
+    Duration: 03:26:18 - 03:41:18
+
+  [03:26:18] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+    Status: completed
+
+  [03:26:18] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-02-09
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Ariane992 is a 37 year-old nonhispanic white female.
+      # Social History
+
+  [03:26:18] DOCUMENT: History and physical note
+    Status: superseded
+
+  [03:41:18] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-03-09
+
+  [03:26:18] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Eleni953 Franecki195
+    Location: BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM, INC.
+    Duration: 03:26:18 - 03:41:18
+
+  [03:26:18] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+    Status: completed
+
+  [03:26:18] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-03-09
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Ariane992 is a 37 year-old nonhispanic white female.
+      # Social History
+
+  [03:26:18] DOCUMENT: History and physical note
+    Status: superseded
+
+  [03:41:18] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2023-09-05
+
+  [04:26:18] VISIT: General examination of patient (procedure)
+    Provider: Dr. Edwin773 Schultz619
+    Location: BOSTON HEALTH CARE INC
+    Duration: 04:26:18 - 04:41:18
+
+  [04:26:18] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [04:26:18] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [04:26:18] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-09-05
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Ariane992 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [04:26:18] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:41:18] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2025-09-09
+
+  [04:26:18] VISIT: General examination of patient (procedure)
+    Provider: Dr. Edwin773 Schultz619
+    Location: BOSTON HEALTH CARE INC
+    Duration: 04:26:18 - 04:41:18
+
+  [04:26:18] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [04:26:18] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [04:26:18] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [04:26:18] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-09-09
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Ariane992 is a 42 year-old nonhispanic white female.
+      # Social History
+
+  [04:26:18] DOCUMENT: History and physical note
+    Status: current
+
+  [04:41:18] CLAIM: professional
+    Amount: USD 544.80
+
+
+📅 2026-02-10
+
+  [03:26:18] PROVENANCE: Record activity
+    Agents: Dr. Edwin773 Schultz619, Dr. Edwin773 Schultz619
+
+================================================================================
+END OF TIMELINE (34 events)
+================================================================================

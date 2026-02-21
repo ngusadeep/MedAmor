@@ -1,0 +1,165 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Mrs. Sharolyn456 Noriko180 Kovacek682
+  Patient ID: 137047
+  Date of Birth: 1975-11-26
+  Gender: Female
+  Race: White
+  Ethnicity: Not Hispanic or Latino
+  Marital Status: Married
+  Address: 769 VonRueden Gardens, Plymouth, MA 02360
+  Phone: 555-460-3527
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2017-12-06
+
+  [00:41:47] VISIT: General examination of patient (procedure)
+    Provider: Dr. Isaac321 Kub800
+    Location: PLYMOUTH CARVER PRIMARY CARE, P.C.
+    Duration: 00:41:47 - 00:56:47
+
+  [00:41:47] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [00:41:47] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [00:41:47] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [00:41:47] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-12-06
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Sharolyn456 Noriko180 is a 42 year-old nonhispanic white female.
+      # Social History
+
+  [00:41:47] DOCUMENT: History and physical note
+    Status: superseded
+
+  [00:56:47] CLAIM: professional
+    Amount: USD 544.80
+
+
+📅 2019-12-11
+
+  [00:41:47] VISIT: General examination of patient (procedure)
+    Provider: Dr. Isaac321 Kub800
+    Location: PLYMOUTH CARVER PRIMARY CARE, P.C.
+    Duration: 00:41:47 - 00:56:47
+
+  [00:41:47] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [00:41:47] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-12-11
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Sharolyn456 Noriko180 is a 44 year-old nonhispanic white female.
+      # Social History
+
+  [00:41:47] DOCUMENT: History and physical note
+    Status: superseded
+
+  [00:56:47] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2021-12-15
+
+  [00:41:47] VISIT: General examination of patient (procedure)
+    Provider: Dr. Isaac321 Kub800
+    Location: PLYMOUTH CARVER PRIMARY CARE, P.C.
+    Duration: 00:41:47 - 00:56:47
+
+  [00:41:47] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [00:41:47] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-12-15
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Sharolyn456 Noriko180 is a 46 year-old nonhispanic white female.
+      # Social History
+
+  [00:41:47] DOCUMENT: History and physical note
+    Status: superseded
+
+  [00:56:47] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2023-12-20
+
+  [00:41:47] VISIT: General examination of patient (procedure)
+    Provider: Dr. Isaac321 Kub800
+    Location: PLYMOUTH CARVER PRIMARY CARE, P.C.
+    Duration: 00:41:47 - 00:56:47
+
+  [00:41:47] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [00:41:47] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-12-20
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Sharolyn456 Noriko180 is a 48 year-old nonhispanic white female.
+      # Social History
+
+  [00:41:47] DOCUMENT: History and physical note
+    Status: superseded
+
+  [00:56:47] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2025-11-26
+
+  [00:41:47] VISIT: General examination of patient (procedure)
+    Provider: Dr. Isaac321 Kub800
+    Location: PLYMOUTH CARVER PRIMARY CARE, P.C.
+    Duration: 00:41:47 - 00:56:47
+
+  [00:41:47] IMMUNIZATION: zoster vaccine, live
+    Status: completed
+
+  [00:41:47] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [00:41:47] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-11-26
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Sharolyn456 Noriko180 is a 50 year-old nonhispanic white female.
+      # Social History
+
+  [00:41:47] DOCUMENT: History and physical note
+    Status: current
+
+  [00:56:47] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2026-02-11
+
+  [00:41:47] PROVENANCE: Record activity
+    Agents: Dr. Isaac321 Kub800, Dr. Isaac321 Kub800
+
+================================================================================
+END OF TIMELINE (29 events)
+================================================================================

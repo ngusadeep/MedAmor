@@ -1,0 +1,1328 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Mrs. Adela471 Mariana775 Armendáriz135
+  Patient ID: 3663
+  Date of Birth: 1966-01-01
+  Gender: Female
+  Race: Asian
+  Ethnicity: Hispanic or Latino
+  Marital Status: Married
+  Address: 407 Brekke Center, Worcester, MA 01606
+  Phone: 555-950-8293
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2013-09-08
+
+  [21:47:54] VISIT: Periodic reevaluation and management of healthy individual (procedure)
+    Reason: Screening for malignant neoplasm of breast (procedure)
+    Provider: Dr. Otha286 Roberts511
+    Location: NEW ENGLAND REHABILITATION SERVICES OF CENTRAL MASSACHUSETTS INC
+    Duration: 21:47:54 - 18:09:57
+
+  [21:47:54] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2013-09-08
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Adela471 Mariana775 is a 47 year-old hispanic asian female.
+      # Social History
+
+  [21:47:54] DOCUMENT: History and physical note
+    Status: superseded
+
+  [23:04:57] CONDITION: Malignant neoplasm of breast (disorder) (active)
+
+
+📅 2013-09-10
+
+  [18:09:57] CLAIM: professional
+    Amount: USD 4251.39
+
+
+📅 2016-03-21
+
+  [03:29:35] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Otha286 Roberts511
+    Location: NEW ENGLAND REHABILITATION SERVICES OF CENTRAL MASSACHUSETTS INC
+    Duration: 03:29:35 - 04:08:24
+
+  [03:29:35] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [03:29:35] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-03-21
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Adela471 Mariana775 is a 50 year-old hispanic asian female.
+      # Social History
+
+  [03:29:35] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:08:24] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2016-07-22
+
+  [04:08:24] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Otha286 Roberts511
+    Location: NEW ENGLAND REHABILITATION SERVICES OF CENTRAL MASSACHUSETTS INC
+    Duration: 04:08:24 - 04:47:12
+
+  [04:08:24] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [04:08:24] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-07-22
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Adela471 Mariana775 is a 50 year-old hispanic asian female.
+      # Social History
+
+  [04:08:24] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:47:12] CLAIM: professional
+    Amount: USD 573.98
+
+  [04:47:12] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Otha286 Roberts511
+    Location: NEW ENGLAND REHABILITATION SERVICES OF CENTRAL MASSACHUSETTS INC
+    Duration: 04:47:12 - 05:11:05
+
+  [04:47:12] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [04:47:12] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-07-22
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Adela471 Mariana775 is a 50 year-old hispanic asian female.
+      # Social History
+
+  [04:47:12] DOCUMENT: History and physical note
+    Status: superseded
+
+  [05:11:05] CLAIM: professional
+    Amount: USD 211.60
+
+  [05:11:05] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Otha286 Roberts511
+    Location: NEW ENGLAND REHABILITATION SERVICES OF CENTRAL MASSACHUSETTS INC
+    Duration: 05:11:05 - 05:36:31
+
+  [05:11:05] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [05:11:05] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-07-22
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Adela471 Mariana775 is a 50 year-old hispanic asian female.
+      # Social History
+
+  [05:11:05] DOCUMENT: History and physical note
+    Status: superseded
+
+  [05:23:06] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [05:36:31] OBSERVATION: Response to cancer treatment: Improving (qualifier value)
+
+  [05:36:31] CLAIM: professional
+    Amount: USD 2098.23
+
+
+📅 2016-10-29
+
+  [05:36:31] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Otha286 Roberts511
+    Location: NEW ENGLAND REHABILITATION SERVICES OF CENTRAL MASSACHUSETTS INC
+    Duration: 05:36:31 - 06:15:00
+
+  [05:36:31] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [05:36:31] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-10-29
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Adela471 Mariana775 is a 50 year-old hispanic asian female.
+      # Social History
+
+  [05:36:31] DOCUMENT: History and physical note
+    Status: superseded
+
+  [06:15:00] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2017-01-07
+
+  [20:47:54] VISIT: General examination of patient (procedure)
+    Provider: Dr. Maurice742 Littel644
+    Location: WEBSTER SQUARE MEDICAL CENTER, INC
+    Duration: 20:47:54 - 21:02:54
+
+  [20:47:54] IMMUNIZATION: zoster vaccine, live
+    Status: completed
+
+  [20:47:54] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [20:47:54] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [20:47:54] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-01-07
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Adela471 Mariana775 is a 51 year-old hispanic asian female.
+      # Social History
+
+  [20:47:54] DOCUMENT: History and physical note
+    Status: superseded
+
+  [21:02:54] CLAIM: professional
+    Amount: USD 544.80
+
+
+📅 2017-03-02
+
+  [05:15:00] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Otha286 Roberts511
+    Location: NEW ENGLAND REHABILITATION SERVICES OF CENTRAL MASSACHUSETTS INC
+    Duration: 05:15:00 - 05:56:59
+
+  [05:15:00] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [05:15:00] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-03-02
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Adela471 Mariana775 is a 51 year-old hispanic asian female.
+      # Social History
+
+  [05:15:00] DOCUMENT: History and physical note
+    Status: superseded
+
+  [05:56:59] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2017-06-12
+
+  [06:56:59] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Otha286 Roberts511
+    Location: NEW ENGLAND REHABILITATION SERVICES OF CENTRAL MASSACHUSETTS INC
+    Duration: 06:56:59 - 07:40:19
+
+  [06:56:59] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [06:56:59] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-06-12
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Adela471 Mariana775 is a 51 year-old hispanic asian female.
+      # Social History
+
+  [06:56:59] DOCUMENT: History and physical note
+    Status: superseded
+
+  [07:40:19] CLAIM: professional
+    Amount: USD 573.98
+
+  [07:40:19] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Otha286 Roberts511
+    Location: NEW ENGLAND REHABILITATION SERVICES OF CENTRAL MASSACHUSETTS INC
+    Duration: 07:40:19 - 08:01:07
+
+  [07:40:19] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [07:40:19] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-06-12
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Adela471 Mariana775 is a 51 year-old hispanic asian female.
+      # Social History
+
+  [07:40:19] DOCUMENT: History and physical note
+    Status: superseded
+
+  [08:01:07] CLAIM: professional
+    Amount: USD 289.16
+
+  [08:01:07] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Otha286 Roberts511
+    Location: NEW ENGLAND REHABILITATION SERVICES OF CENTRAL MASSACHUSETTS INC
+    Duration: 08:01:07 - 08:29:17
+
+  [08:01:07] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [08:01:07] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-06-12
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Adela471 Mariana775 is a 51 year-old hispanic asian female.
+      # Social History
+
+  [08:01:07] DOCUMENT: History and physical note
+    Status: superseded
+
+  [08:14:09] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [08:29:17] OBSERVATION: Response to cancer treatment: Improving (qualifier value)
+
+  [08:29:17] CLAIM: professional
+    Amount: USD 1853.67
+
+
+📅 2017-09-28
+
+  [08:29:17] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Otha286 Roberts511
+    Location: NEW ENGLAND REHABILITATION SERVICES OF CENTRAL MASSACHUSETTS INC
+    Duration: 08:29:17 - 09:12:07
+
+  [08:29:17] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [08:29:17] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-09-28
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Adela471 Mariana775 is a 51 year-old hispanic asian female.
+      # Social History
+
+  [08:29:17] DOCUMENT: History and physical note
+    Status: superseded
+
+  [09:12:07] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2018-01-13
+
+  [20:47:54] VISIT: General examination of patient (procedure)
+    Provider: Dr. Maurice742 Littel644
+    Location: WEBSTER SQUARE MEDICAL CENTER, INC
+    Duration: 20:47:54 - 21:02:54
+
+  [20:47:54] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [20:47:54] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-01-13
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Adela471 Mariana775 is a 52 year-old hispanic asian female.
+      # Social History
+
+  [20:47:54] DOCUMENT: History and physical note
+    Status: superseded
+
+  [21:02:54] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2018-01-20
+
+  [20:47:54] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Otha286 Roberts511
+    Location: NEW ENGLAND REHABILITATION SERVICES OF CENTRAL MASSACHUSETTS INC
+    Duration: 20:47:54 - 21:22:20
+
+  [20:47:54] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [20:47:54] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-01-20
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Adela471 Mariana775 is a 52 year-old hispanic asian female.
+      # Social History
+
+  [20:47:54] DOCUMENT: History and physical note
+    Status: superseded
+
+  [21:22:20] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2018-05-18
+
+  [22:22:20] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Otha286 Roberts511
+    Location: NEW ENGLAND REHABILITATION SERVICES OF CENTRAL MASSACHUSETTS INC
+    Duration: 22:22:20 - 23:05:49
+
+  [22:22:20] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [22:22:20] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-05-18
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Adela471 Mariana775 is a 52 year-old hispanic asian female.
+      # Social History
+
+  [22:22:20] DOCUMENT: History and physical note
+    Status: superseded
+
+  [23:05:49] CLAIM: professional
+    Amount: USD 573.98
+
+  [23:05:49] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Otha286 Roberts511
+    Location: NEW ENGLAND REHABILITATION SERVICES OF CENTRAL MASSACHUSETTS INC
+    Duration: 23:05:49 - 23:28:11
+
+  [23:05:49] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [23:05:49] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-05-18
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Adela471 Mariana775 is a 52 year-old hispanic asian female.
+      # Social History
+
+  [23:05:49] DOCUMENT: History and physical note
+    Status: superseded
+
+  [23:28:11] CLAIM: professional
+    Amount: USD 211.60
+
+  [23:28:11] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Otha286 Roberts511
+    Location: NEW ENGLAND REHABILITATION SERVICES OF CENTRAL MASSACHUSETTS INC
+    Duration: 23:28:11 - 23:59:33
+
+  [23:28:11] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [23:28:11] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-05-18
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Adela471 Mariana775 is a 52 year-old hispanic asian female.
+      # Social History
+
+  [23:28:11] DOCUMENT: History and physical note
+    Status: superseded
+
+  [23:39:59] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [23:59:33] OBSERVATION: Response to cancer treatment: Improving (qualifier value)
+
+  [23:59:33] CLAIM: professional
+    Amount: USD 2220.42
+
+
+📅 2018-08-26
+
+  [23:59:33] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Otha286 Roberts511
+    Location: NEW ENGLAND REHABILITATION SERVICES OF CENTRAL MASSACHUSETTS INC
+    Duration: 23:59:33 - 00:38:08
+
+  [23:59:33] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [23:59:33] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-08-26
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Adela471 Mariana775 is a 52 year-old hispanic asian female.
+      # Social History
+
+  [23:59:33] DOCUMENT: History and physical note
+    Status: superseded
+
+
+📅 2018-08-27
+
+  [00:38:08] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2018-12-03
+
+  [23:38:08] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Otha286 Roberts511
+    Location: NEW ENGLAND REHABILITATION SERVICES OF CENTRAL MASSACHUSETTS INC
+    Duration: 23:38:08 - 00:08:57
+
+  [23:38:08] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [23:38:08] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-12-03
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Adela471 Mariana775 is a 52 year-old hispanic asian female.
+      # Social History
+
+  [23:38:08] DOCUMENT: History and physical note
+    Status: superseded
+
+
+📅 2018-12-04
+
+  [00:08:57] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2019-01-19
+
+  [20:47:54] VISIT: General examination of patient (procedure)
+    Provider: Dr. Maurice742 Littel644
+    Location: WEBSTER SQUARE MEDICAL CENTER, INC
+    Duration: 20:47:54 - 21:02:54
+
+  [20:47:54] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [20:47:54] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-01-19
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Adela471 Mariana775 is a 53 year-old hispanic asian female.
+      # Social History
+
+  [20:47:54] DOCUMENT: History and physical note
+    Status: superseded
+
+  [21:02:54] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2019-04-04
+
+  [01:08:57] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Otha286 Roberts511
+    Location: NEW ENGLAND REHABILITATION SERVICES OF CENTRAL MASSACHUSETTS INC
+    Duration: 01:08:57 - 01:50:07
+
+  [01:08:57] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [01:08:57] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-04-04
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Adela471 Mariana775 is a 53 year-old hispanic asian female.
+      # Social History
+
+  [01:08:57] DOCUMENT: History and physical note
+    Status: superseded
+
+  [01:50:07] CLAIM: professional
+    Amount: USD 573.98
+
+  [01:50:07] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Otha286 Roberts511
+    Location: NEW ENGLAND REHABILITATION SERVICES OF CENTRAL MASSACHUSETTS INC
+    Duration: 01:50:07 - 02:06:37
+
+  [01:50:07] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [01:50:07] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-04-04
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Adela471 Mariana775 is a 53 year-old hispanic asian female.
+      # Social History
+
+  [01:50:07] DOCUMENT: History and physical note
+    Status: superseded
+
+  [02:06:37] CLAIM: professional
+    Amount: USD 325.49
+
+  [02:06:37] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Otha286 Roberts511
+    Location: NEW ENGLAND REHABILITATION SERVICES OF CENTRAL MASSACHUSETTS INC
+    Duration: 02:06:37 - 02:30:13
+
+  [02:06:37] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [02:06:37] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-04-04
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Adela471 Mariana775 is a 53 year-old hispanic asian female.
+      # Social History
+
+  [02:06:37] DOCUMENT: History and physical note
+    Status: superseded
+
+  [02:20:11] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [02:30:13] CLAIM: professional
+    Amount: USD 1199.60
+
+
+📅 2020-01-25
+
+  [20:47:54] VISIT: General examination of patient (procedure)
+    Provider: Dr. Maurice742 Littel644
+    Location: WEBSTER SQUARE MEDICAL CENTER, INC
+    Duration: 20:47:54 - 21:02:54
+
+  [20:47:54] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [20:47:54] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-01-25
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Adela471 Mariana775 is a 54 year-old hispanic asian female.
+      # Social History
+
+  [20:47:54] DOCUMENT: History and physical note
+    Status: superseded
+
+  [21:02:54] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2020-03-26
+
+  [02:30:13] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Otha286 Roberts511
+    Location: NEW ENGLAND REHABILITATION SERVICES OF CENTRAL MASSACHUSETTS INC
+    Duration: 02:30:13 - 03:01:42
+
+  [02:30:13] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [02:30:13] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-03-26
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Adela471 Mariana775 is a 54 year-old hispanic asian female.
+      # Social History
+
+  [02:30:13] DOCUMENT: History and physical note
+    Status: superseded
+
+  [03:01:42] CLAIM: professional
+    Amount: USD 573.98
+
+  [03:01:42] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Otha286 Roberts511
+    Location: NEW ENGLAND REHABILITATION SERVICES OF CENTRAL MASSACHUSETTS INC
+    Duration: 03:01:42 - 03:26:00
+
+  [03:01:42] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [03:01:42] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-03-26
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Adela471 Mariana775 is a 54 year-old hispanic asian female.
+      # Social History
+
+  [03:01:42] DOCUMENT: History and physical note
+    Status: superseded
+
+  [03:26:00] CLAIM: professional
+    Amount: USD 211.60
+
+  [03:26:00] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Otha286 Roberts511
+    Location: NEW ENGLAND REHABILITATION SERVICES OF CENTRAL MASSACHUSETTS INC
+    Duration: 03:26:00 - 03:56:58
+
+  [03:26:00] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [03:26:00] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-03-26
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Adela471 Mariana775 is a 54 year-old hispanic asian female.
+      # Social History
+
+  [03:26:00] DOCUMENT: History and physical note
+    Status: superseded
+
+  [03:37:45] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [03:56:58] CLAIM: professional
+    Amount: USD 2274.45
+
+
+📅 2021-01-23
+
+  [20:47:54] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Otha286 Roberts511
+    Location: NEW ENGLAND REHABILITATION SERVICES OF CENTRAL MASSACHUSETTS INC
+    Duration: 20:47:54 - 21:02:54
+
+  [20:47:54] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+    Status: completed
+
+  [20:47:54] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-01-23
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Adela471 Mariana775 is a 55 year-old hispanic asian female.
+      # Social History
+
+  [20:47:54] DOCUMENT: History and physical note
+    Status: superseded
+
+  [21:02:54] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-01-30
+
+  [20:47:54] VISIT: General examination of patient (procedure)
+    Provider: Dr. Maurice742 Littel644
+    Location: WEBSTER SQUARE MEDICAL CENTER, INC
+    Duration: 20:47:54 - 21:02:54
+
+  [20:47:54] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [20:47:54] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-01-30
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Adela471 Mariana775 is a 55 year-old hispanic asian female.
+      # Social History
+
+  [20:47:54] DOCUMENT: History and physical note
+    Status: superseded
+
+  [21:02:54] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2021-02-20
+
+  [20:47:54] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Otha286 Roberts511
+    Location: NEW ENGLAND REHABILITATION SERVICES OF CENTRAL MASSACHUSETTS INC
+    Duration: 20:47:54 - 21:02:54
+
+  [20:47:54] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+    Status: completed
+
+  [20:47:54] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-02-20
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Adela471 Mariana775 is a 55 year-old hispanic asian female.
+      # Social History
+
+  [20:47:54] DOCUMENT: History and physical note
+    Status: superseded
+
+  [21:02:54] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-03-31
+
+  [03:56:58] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Otha286 Roberts511
+    Location: NEW ENGLAND REHABILITATION SERVICES OF CENTRAL MASSACHUSETTS INC
+    Duration: 03:56:58 - 04:38:54
+
+  [03:56:58] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [03:56:58] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-03-31
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Adela471 Mariana775 is a 55 year-old hispanic asian female.
+      # Social History
+
+  [03:56:58] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:38:54] CLAIM: professional
+    Amount: USD 573.98
+
+  [04:38:54] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Otha286 Roberts511
+    Location: NEW ENGLAND REHABILITATION SERVICES OF CENTRAL MASSACHUSETTS INC
+    Duration: 04:38:54 - 04:54:23
+
+  [04:38:54] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [04:38:54] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-03-31
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Adela471 Mariana775 is a 55 year-old hispanic asian female.
+      # Social History
+
+  [04:38:54] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:54:23] CLAIM: professional
+    Amount: USD 251.70
+
+  [04:54:23] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Otha286 Roberts511
+    Location: NEW ENGLAND REHABILITATION SERVICES OF CENTRAL MASSACHUSETTS INC
+    Duration: 04:54:23 - 05:16:18
+
+  [04:54:23] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [04:54:23] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-03-31
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Adela471 Mariana775 is a 55 year-old hispanic asian female.
+      # Social History
+
+  [04:54:23] DOCUMENT: History and physical note
+    Status: superseded
+
+  [05:05:43] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [05:16:18] CLAIM: professional
+    Amount: USD 3583.57
+
+
+📅 2022-02-05
+
+  [20:47:54] VISIT: General examination of patient (procedure)
+    Provider: Dr. Maurice742 Littel644
+    Location: WEBSTER SQUARE MEDICAL CENTER, INC
+    Duration: 20:47:54 - 21:02:54
+
+  [20:47:54] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [20:47:54] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-02-05
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Adela471 Mariana775 is a 56 year-old hispanic asian female.
+      # Social History
+
+  [20:47:54] DOCUMENT: History and physical note
+    Status: superseded
+
+  [21:02:54] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2022-04-20
+
+  [05:16:18] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Otha286 Roberts511
+    Location: NEW ENGLAND REHABILITATION SERVICES OF CENTRAL MASSACHUSETTS INC
+    Duration: 05:16:18 - 05:57:19
+
+  [05:16:18] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [05:16:18] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-04-20
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Adela471 Mariana775 is a 56 year-old hispanic asian female.
+      # Social History
+
+  [05:16:18] DOCUMENT: History and physical note
+    Status: superseded
+
+  [05:57:19] CLAIM: professional
+    Amount: USD 573.98
+
+  [05:57:19] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Otha286 Roberts511
+    Location: NEW ENGLAND REHABILITATION SERVICES OF CENTRAL MASSACHUSETTS INC
+    Duration: 05:57:19 - 06:15:27
+
+  [05:57:19] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [05:57:19] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-04-20
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Adela471 Mariana775 is a 56 year-old hispanic asian female.
+      # Social History
+
+  [05:57:19] DOCUMENT: History and physical note
+    Status: superseded
+
+  [06:15:27] CLAIM: professional
+    Amount: USD 211.60
+
+  [06:15:27] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Otha286 Roberts511
+    Location: NEW ENGLAND REHABILITATION SERVICES OF CENTRAL MASSACHUSETTS INC
+    Duration: 06:15:27 - 06:46:54
+
+  [06:15:27] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [06:15:27] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-04-20
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Adela471 Mariana775 is a 56 year-old hispanic asian female.
+      # Social History
+
+  [06:15:27] DOCUMENT: History and physical note
+    Status: superseded
+
+  [06:28:15] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [06:46:54] CLAIM: professional
+    Amount: USD 1091.66
+
+
+📅 2023-02-11
+
+  [20:47:54] VISIT: General examination of patient (procedure)
+    Provider: Dr. Maurice742 Littel644
+    Location: WEBSTER SQUARE MEDICAL CENTER, INC
+    Duration: 20:47:54 - 21:02:54
+
+  [20:47:54] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [20:47:54] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-02-11
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Adela471 Mariana775 is a 57 year-old hispanic asian female.
+      # Social History
+
+  [20:47:54] DOCUMENT: History and physical note
+    Status: superseded
+
+  [21:02:54] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2023-04-05
+
+  [06:46:54] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Otha286 Roberts511
+    Location: NEW ENGLAND REHABILITATION SERVICES OF CENTRAL MASSACHUSETTS INC
+    Duration: 06:46:54 - 07:30:03
+
+  [06:46:54] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [06:46:54] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-04-05
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Adela471 Mariana775 is a 57 year-old hispanic asian female.
+      # Social History
+
+  [06:46:54] DOCUMENT: History and physical note
+    Status: superseded
+
+  [07:30:03] CLAIM: professional
+    Amount: USD 573.98
+
+  [07:30:03] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Otha286 Roberts511
+    Location: NEW ENGLAND REHABILITATION SERVICES OF CENTRAL MASSACHUSETTS INC
+    Duration: 07:30:03 - 07:51:11
+
+  [07:30:03] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [07:30:03] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-04-05
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Adela471 Mariana775 is a 57 year-old hispanic asian female.
+      # Social History
+
+  [07:30:03] DOCUMENT: History and physical note
+    Status: superseded
+
+  [07:51:11] CLAIM: professional
+    Amount: USD 277.41
+
+  [07:51:11] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Otha286 Roberts511
+    Location: NEW ENGLAND REHABILITATION SERVICES OF CENTRAL MASSACHUSETTS INC
+    Duration: 07:51:11 - 08:16:22
+
+  [07:51:11] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [07:51:11] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-04-05
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Adela471 Mariana775 is a 57 year-old hispanic asian female.
+      # Social History
+
+  [07:51:11] DOCUMENT: History and physical note
+    Status: superseded
+
+  [08:01:59] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [08:16:22] CLAIM: professional
+    Amount: USD 1195.15
+
+
+📅 2024-02-17
+
+  [20:47:54] VISIT: General examination of patient (procedure)
+    Provider: Dr. Maurice742 Littel644
+    Location: WEBSTER SQUARE MEDICAL CENTER, INC
+    Duration: 20:47:54 - 21:02:54
+
+  [20:47:54] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [20:47:54] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-02-17
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Adela471 Mariana775 is a 58 year-old hispanic asian female.
+      # Social History
+
+  [20:47:54] DOCUMENT: History and physical note
+    Status: superseded
+
+  [21:02:54] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2024-03-19
+
+  [08:16:22] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Otha286 Roberts511
+    Location: Patient's Home
+    Duration: 08:16:22 - 08:57:30
+
+  [08:16:22] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [08:16:22] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-03-19
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Adela471 Mariana775 is a 58 year-old hispanic asian female.
+      # Social History
+
+  [08:16:22] DOCUMENT: History and physical note
+    Status: superseded
+
+  [08:57:30] CLAIM: institutional
+    Amount: USD 556.40
+
+  [08:57:30] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Otha286 Roberts511
+    Location: NEW ENGLAND REHABILITATION SERVICES OF CENTRAL MASSACHUSETTS INC
+    Duration: 08:57:30 - 09:21:11
+
+  [08:57:30] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [08:57:30] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-03-19
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Adela471 Mariana775 is a 58 year-old hispanic asian female.
+      # Social History
+
+  [08:57:30] DOCUMENT: History and physical note
+    Status: superseded
+
+  [09:21:11] CLAIM: professional
+    Amount: USD 325.49
+
+  [09:21:11] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Otha286 Roberts511
+    Location: NEW ENGLAND REHABILITATION SERVICES OF CENTRAL MASSACHUSETTS INC
+    Duration: 09:21:11 - 09:43:25
+
+  [09:21:11] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [09:21:11] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-03-19
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Adela471 Mariana775 is a 58 year-old hispanic asian female.
+      # Social History
+
+  [09:21:11] DOCUMENT: History and physical note
+    Status: superseded
+
+  [09:31:21] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [09:43:25] CLAIM: professional
+    Amount: USD 1184.80
+
+
+📅 2025-02-22
+
+  [20:47:54] VISIT: General examination of patient (procedure)
+    Provider: Dr. Maurice742 Littel644
+    Location: WEBSTER SQUARE MEDICAL CENTER, INC
+    Duration: 20:47:54 - 21:02:54
+
+  [20:47:54] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [20:47:54] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-02-22
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Adela471 Mariana775 is a 59 year-old hispanic asian female.
+      # Social History
+
+  [20:47:54] DOCUMENT: History and physical note
+    Status: superseded
+
+  [21:02:54] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2025-04-12
+
+  [09:43:25] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Otha286 Roberts511
+    Location: NEW ENGLAND REHABILITATION SERVICES OF CENTRAL MASSACHUSETTS INC
+    Duration: 09:43:25 - 10:22:40
+
+  [09:43:25] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [09:43:25] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-04-12
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Adela471 Mariana775 is a 59 year-old hispanic asian female.
+      # Social History
+
+  [09:43:25] DOCUMENT: History and physical note
+    Status: superseded
+
+  [10:22:40] CLAIM: professional
+    Amount: USD 573.98
+
+  [10:22:40] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Otha286 Roberts511
+    Location: NEW ENGLAND REHABILITATION SERVICES OF CENTRAL MASSACHUSETTS INC
+    Duration: 10:22:40 - 10:46:13
+
+  [10:22:40] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [10:22:40] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-04-12
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Adela471 Mariana775 is a 59 year-old hispanic asian female.
+      # Social History
+
+  [10:22:40] DOCUMENT: History and physical note
+    Status: superseded
+
+  [10:46:13] CLAIM: professional
+    Amount: USD 214.20
+
+  [10:46:13] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Otha286 Roberts511
+    Location: NEW ENGLAND REHABILITATION SERVICES OF CENTRAL MASSACHUSETTS INC
+    Duration: 10:46:13 - 11:17:34
+
+  [10:46:13] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [10:46:13] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-04-12
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Adela471 Mariana775 is a 59 year-old hispanic asian female.
+      # Social History
+
+  [10:46:13] DOCUMENT: History and physical note
+    Status: current
+
+  [10:57:38] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [11:17:34] CLAIM: professional
+    Amount: USD 1221.08
+
+
+📅 2026-02-14
+
+  [20:47:54] PROVENANCE: Record activity
+    Agents: Dr. Otha286 Roberts511, Dr. Otha286 Roberts511
+
+================================================================================
+END OF TIMELINE (261 events)
+================================================================================

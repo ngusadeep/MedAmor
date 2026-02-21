@@ -1,0 +1,191 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Mrs. Minta575 Danyell947 Schaefer657
+  Patient ID: 114897
+  Date of Birth: 1983-05-24
+  Gender: Female
+  Race: White
+  Ethnicity: Not Hispanic or Latino
+  Marital Status: Married
+  Address: 1034 Lynch Corner Apt 11, Wayland, MA 00000
+  Phone: 555-581-3955
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2017-08-08
+
+  [18:24:32] VISIT: General examination of patient (procedure)
+    Provider: Dr. Kamilah729 Schimmel440
+    Location: BOSTON PELVIC HEALTH AND WELLNESS PC
+    Duration: 18:24:32 - 18:39:32
+
+  [18:24:32] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [18:24:32] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-08-08
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Minta575 Danyell947 is a 34 year-old nonhispanic white female.
+      # Social History
+
+  [18:24:32] DOCUMENT: History and physical note
+    Status: superseded
+
+  [18:39:32] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2020-08-11
+
+  [18:24:32] VISIT: General examination of patient (procedure)
+    Provider: Dr. Kamilah729 Schimmel440
+    Location: BOSTON PELVIC HEALTH AND WELLNESS PC
+    Duration: 18:24:32 - 18:39:32
+
+  [18:24:32] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [18:24:32] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-08-11
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Minta575 Danyell947 is a 37 year-old nonhispanic white female.
+      # Social History
+
+  [18:24:32] DOCUMENT: History and physical note
+    Status: superseded
+
+  [18:39:32] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2021-08-24
+
+  [18:24:32] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Gerry91 Block661
+    Location: VHS ACQUISITION SUBSIDIARY NUMBER 9, INC.
+    Duration: 18:24:32 - 18:39:32
+
+  [18:24:32] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 30 mcg/0.3 mL dose
+    Status: completed
+
+  [18:24:32] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-08-24
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Minta575 Danyell947 is a 38 year-old nonhispanic white female.
+      # Social History
+
+  [18:24:32] DOCUMENT: History and physical note
+    Status: superseded
+
+  [18:39:32] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-09-14
+
+  [18:24:32] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Gerry91 Block661
+    Location: VHS ACQUISITION SUBSIDIARY NUMBER 9, INC.
+    Duration: 18:24:32 - 18:39:32
+
+  [18:24:32] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 30 mcg/0.3 mL dose
+    Status: completed
+
+  [18:24:32] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-09-14
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Minta575 Danyell947 is a 38 year-old nonhispanic white female.
+      # Social History
+
+  [18:24:32] DOCUMENT: History and physical note
+    Status: superseded
+
+  [18:39:32] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2023-05-30
+
+  [18:24:32] VISIT: General examination of patient (procedure)
+    Provider: Dr. Kamilah729 Schimmel440
+    Location: BOSTON PELVIC HEALTH AND WELLNESS PC
+    Duration: 18:24:32 - 18:39:32
+
+  [18:24:32] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [18:24:32] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [18:24:32] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-05-30
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Minta575 Danyell947 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [18:24:32] DOCUMENT: History and physical note
+    Status: superseded
+
+  [18:39:32] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2025-06-03
+
+  [18:24:32] VISIT: General examination of patient (procedure)
+    Provider: Dr. Kamilah729 Schimmel440
+    Location: BOSTON PELVIC HEALTH AND WELLNESS PC
+    Duration: 18:24:32 - 18:39:32
+
+  [18:24:32] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [18:24:32] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [18:24:32] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [18:24:32] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-06-03
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Minta575 Danyell947 is a 42 year-old nonhispanic white female.
+      # Social History
+
+  [18:24:32] DOCUMENT: History and physical note
+    Status: current
+
+  [18:39:32] CLAIM: professional
+    Amount: USD 544.80
+
+
+📅 2026-02-10
+
+  [17:24:32] PROVENANCE: Record activity
+    Agents: Dr. Kamilah729 Schimmel440, Dr. Kamilah729 Schimmel440
+
+================================================================================
+END OF TIMELINE (34 events)
+================================================================================

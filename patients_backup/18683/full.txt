@@ -1,0 +1,139 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Mrs. Bennie663 Mayer370
+  Patient ID: 18683
+  Date of Birth: 1978-03-11
+  Gender: Female
+  Race: White
+  Ethnicity: Hispanic or Latino
+  Marital Status: Married
+  Address: 636 Jacobson Loaf, Marlborough, MA 01752
+  Phone: 555-756-4604
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2018-03-17
+
+  [13:47:12] VISIT: General examination of patient (procedure)
+    Provider: Dr. Lizeth852 Ernser583
+    Location: ASSABET FAMILY PODIATRY, INC
+    Duration: 13:47:12 - 14:02:12
+
+  [13:47:12] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [13:47:12] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [13:47:12] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-03-17
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Bennie663 is a 40 year-old hispanic white female.
+      # Social History
+
+  [13:47:12] DOCUMENT: History and physical note
+    Status: superseded
+
+  [14:02:12] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2020-03-21
+
+  [13:47:12] VISIT: General examination of patient (procedure)
+    Provider: Dr. Lizeth852 Ernser583
+    Location: ASSABET FAMILY PODIATRY, INC
+    Duration: 13:47:12 - 14:02:12
+
+  [13:47:12] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [13:47:12] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [13:47:12] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [13:47:12] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-03-21
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Bennie663 is a 42 year-old hispanic white female.
+      # Social History
+
+  [13:47:12] DOCUMENT: History and physical note
+    Status: superseded
+
+  [14:02:12] CLAIM: professional
+    Amount: USD 544.80
+
+
+📅 2022-03-26
+
+  [13:47:12] VISIT: General examination of patient (procedure)
+    Provider: Dr. Lizeth852 Ernser583
+    Location: ASSABET FAMILY PODIATRY, INC
+    Duration: 13:47:12 - 14:02:12
+
+  [13:47:12] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [13:47:12] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-03-26
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Bennie663 is a 44 year-old hispanic white female.
+      # Social History
+
+  [13:47:12] DOCUMENT: History and physical note
+    Status: superseded
+
+  [14:02:12] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2024-03-30
+
+  [13:47:12] VISIT: General examination of patient (procedure)
+    Provider: Dr. Lizeth852 Ernser583
+    Location: ASSABET FAMILY PODIATRY, INC
+    Duration: 13:47:12 - 14:02:12
+
+  [13:47:12] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [13:47:12] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-03-30
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Bennie663 is a 46 year-old hispanic white female.
+      # Social History
+
+  [13:47:12] DOCUMENT: History and physical note
+    Status: current
+
+  [14:02:12] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2026-02-14
+
+  [12:47:12] PROVENANCE: Record activity
+    Agents: Dr. Lizeth852 Ernser583, Dr. Lizeth852 Ernser583
+
+================================================================================
+END OF TIMELINE (24 events)
+================================================================================

@@ -1,0 +1,197 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Mrs. Margrett284 Drew592 Shields502
+  Patient ID: 103822
+  Date of Birth: 1974-02-21
+  Gender: Female
+  Race: White
+  Ethnicity: Not Hispanic or Latino
+  Marital Status: Married
+  Address: 442 Wiza Grove Suite 59, Westwood, MA 00000
+  Phone: 555-911-9454
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2016-03-03
+
+  [15:16:30] VISIT: General examination of patient (procedure)
+    Provider: Dr. Sung603 Schuster709
+    Location: BOSTON UNIVERSITY MEDICAL CENTER UROLOGISTS, INC.
+    Duration: 15:16:30 - 15:31:30
+
+  [15:16:30] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [15:16:30] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [15:16:30] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [15:16:30] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-03-03
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Margrett284 Drew592 is a 42 year-old nonhispanic white female.
+      # Social History
+
+  [15:16:30] DOCUMENT: History and physical note
+    Status: superseded
+
+  [15:31:30] CLAIM: professional
+    Amount: USD 544.80
+
+
+📅 2018-03-08
+
+  [15:16:30] VISIT: General examination of patient (procedure)
+    Provider: Dr. Sung603 Schuster709
+    Location: BOSTON UNIVERSITY MEDICAL CENTER UROLOGISTS, INC.
+    Duration: 15:16:30 - 15:31:30
+
+  [15:16:30] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [15:16:30] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-03-08
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Margrett284 Drew592 is a 44 year-old nonhispanic white female.
+      # Social History
+
+  [15:16:30] DOCUMENT: History and physical note
+    Status: superseded
+
+  [15:31:30] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2020-03-12
+
+  [16:16:30] VISIT: General examination of patient (procedure)
+    Provider: Dr. Sung603 Schuster709
+    Location: BOSTON UNIVERSITY MEDICAL CENTER UROLOGISTS, INC.
+    Duration: 16:16:30 - 16:31:30
+
+  [16:16:30] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [16:16:30] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-03-12
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Margrett284 Drew592 is a 46 year-old nonhispanic white female.
+      # Social History
+
+  [16:16:30] DOCUMENT: History and physical note
+    Status: superseded
+
+  [16:31:30] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2022-03-17
+
+  [16:16:30] VISIT: General examination of patient (procedure)
+    Provider: Dr. Sung603 Schuster709
+    Location: BOSTON UNIVERSITY MEDICAL CENTER UROLOGISTS, INC.
+    Duration: 16:16:30 - 16:31:30
+
+  [16:16:30] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [16:16:30] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-03-17
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Margrett284 Drew592 is a 48 year-old nonhispanic white female.
+      # Social History
+
+  [16:16:30] DOCUMENT: History and physical note
+    Status: superseded
+
+  [16:31:30] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2024-02-22
+
+  [15:16:30] VISIT: General examination of patient (procedure)
+    Provider: Dr. Sung603 Schuster709
+    Location: BOSTON UNIVERSITY MEDICAL CENTER UROLOGISTS, INC.
+    Duration: 15:16:30 - 15:31:30
+
+  [15:16:30] IMMUNIZATION: zoster vaccine, live
+    Status: completed
+
+  [15:16:30] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [15:16:30] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-02-22
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Margrett284 Drew592 is a 50 year-old nonhispanic white female.
+      # Social History
+
+  [15:16:30] DOCUMENT: History and physical note
+    Status: superseded
+
+  [15:31:30] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2025-02-27
+
+  [15:16:30] VISIT: General examination of patient (procedure)
+    Provider: Dr. Sung603 Schuster709
+    Location: BOSTON UNIVERSITY MEDICAL CENTER UROLOGISTS, INC.
+    Duration: 15:16:30 - 15:31:30
+
+  [15:16:30] IMMUNIZATION: zoster vaccine, live
+    Status: completed
+
+  [15:16:30] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [15:16:30] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [15:16:30] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-02-27
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Margrett284 Drew592 is a 51 year-old nonhispanic white female.
+      # Social History
+
+  [15:16:30] DOCUMENT: History and physical note
+    Status: current
+
+  [15:31:30] CLAIM: professional
+    Amount: USD 544.80
+
+
+📅 2026-02-12
+
+  [15:16:30] PROVENANCE: Record activity
+    Agents: Dr. Sung603 Schuster709, Dr. Sung603 Schuster709
+
+================================================================================
+END OF TIMELINE (36 events)
+================================================================================

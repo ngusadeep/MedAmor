@@ -1,0 +1,295 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Mrs. Barbara209 Rebeca548 Archuleta517
+  Patient ID: 16831
+  Date of Birth: 1970-04-02
+  Gender: Female
+  Race: White
+  Ethnicity: Hispanic or Latino
+  Marital Status: Married
+  Address: 145 Smith Well Suite 67, Lynn, MA 01901
+  Phone: 555-301-7006
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2016-04-22
+
+  [00:37:07] VISIT: General examination of patient (procedure)
+    Provider: Dr. Alan320 Keeling57
+    Location: PRIMARY CARE NORTH PC
+    Duration: 00:37:07 - 00:52:07
+
+  [00:37:07] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [00:37:07] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-04-22
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Barbara209 Rebeca548 is a 46 year-old hispanic white female.
+      # Social History
+
+  [00:37:07] DOCUMENT: History and physical note
+    Status: superseded
+
+  [00:52:07] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2018-04-27
+
+  [00:37:07] VISIT: General examination of patient (procedure)
+    Provider: Dr. Alan320 Keeling57
+    Location: PRIMARY CARE NORTH PC
+    Duration: 00:37:07 - 00:52:07
+
+  [00:37:07] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [00:37:07] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-04-27
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Barbara209 Rebeca548 is a 48 year-old hispanic white female.
+      # Social History
+
+  [00:37:07] DOCUMENT: History and physical note
+    Status: superseded
+
+  [00:52:07] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2020-04-03
+
+  [00:37:07] VISIT: General examination of patient (procedure)
+    Provider: Dr. Alan320 Keeling57
+    Location: PRIMARY CARE NORTH PC
+    Duration: 00:37:07 - 00:52:07
+
+  [00:37:07] IMMUNIZATION: zoster vaccine, live
+    Status: completed
+
+  [00:37:07] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [00:37:07] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-04-03
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Barbara209 Rebeca548 is a 50 year-old hispanic white female.
+      # Social History
+
+  [00:37:07] DOCUMENT: History and physical note
+    Status: superseded
+
+  [00:52:07] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2020-12-24
+
+  [23:37:07] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Sharron285 Batz141
+    Location: BOSTON MEDICAL CENTER CORPORATION-
+    Duration: 23:37:07 - 23:52:07
+
+  [23:37:07] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+    Status: completed
+
+  [23:37:07] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-12-24
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Barbara209 Rebeca548 is a 50 year-old hispanic white female.
+      # Social History
+
+  [23:37:07] DOCUMENT: History and physical note
+    Status: superseded
+
+  [23:52:07] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-01-21
+
+  [23:37:07] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Sharron285 Batz141
+    Location: BOSTON MEDICAL CENTER CORPORATION-
+    Duration: 23:37:07 - 23:52:07
+
+  [23:37:07] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+    Status: completed
+
+  [23:37:07] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-01-21
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Barbara209 Rebeca548 is a 50 year-old hispanic white female.
+      # Social History
+
+  [23:37:07] DOCUMENT: History and physical note
+    Status: superseded
+
+  [23:52:07] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-04-09
+
+  [00:37:07] VISIT: General examination of patient (procedure)
+    Provider: Dr. Alan320 Keeling57
+    Location: PRIMARY CARE NORTH PC
+    Duration: 00:37:07 - 00:52:07
+
+  [00:37:07] IMMUNIZATION: zoster vaccine, live
+    Status: completed
+
+  [00:37:07] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [00:37:07] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [00:37:07] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-04-09
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Barbara209 Rebeca548 is a 51 year-old hispanic white female.
+      # Social History
+
+  [00:37:07] DOCUMENT: History and physical note
+    Status: superseded
+
+  [00:52:07] CLAIM: professional
+    Amount: USD 544.80
+
+
+📅 2022-04-15
+
+  [00:37:07] VISIT: General examination of patient (procedure)
+    Provider: Dr. Alan320 Keeling57
+    Location: PRIMARY CARE NORTH PC
+    Duration: 00:37:07 - 00:52:07
+
+  [00:37:07] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [00:37:07] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-04-15
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Barbara209 Rebeca548 is a 52 year-old hispanic white female.
+      # Social History
+
+  [00:37:07] DOCUMENT: History and physical note
+    Status: superseded
+
+  [00:52:07] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2023-04-21
+
+  [00:37:07] VISIT: General examination of patient (procedure)
+    Provider: Dr. Alan320 Keeling57
+    Location: PRIMARY CARE NORTH PC
+    Duration: 00:37:07 - 00:52:07
+
+  [00:37:07] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [00:37:07] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-04-21
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Barbara209 Rebeca548 is a 53 year-old hispanic white female.
+      # Social History
+
+  [00:37:07] DOCUMENT: History and physical note
+    Status: superseded
+
+  [00:52:07] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2024-04-26
+
+  [00:37:07] VISIT: General examination of patient (procedure)
+    Provider: Dr. Alan320 Keeling57
+    Location: PRIMARY CARE NORTH PC
+    Duration: 00:37:07 - 00:52:07
+
+  [00:37:07] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [00:37:07] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-04-26
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Barbara209 Rebeca548 is a 54 year-old hispanic white female.
+      # Social History
+
+  [00:37:07] DOCUMENT: History and physical note
+    Status: superseded
+
+  [00:52:07] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2025-05-02
+
+  [00:37:07] VISIT: General examination of patient (procedure)
+    Provider: Dr. Alan320 Keeling57
+    Location: PRIMARY CARE NORTH PC
+    Duration: 00:37:07 - 00:52:07
+
+  [00:37:07] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [00:37:07] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-05-02
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Barbara209 Rebeca548 is a 55 year-old hispanic white female.
+      # Social History
+
+  [00:37:07] DOCUMENT: History and physical note
+    Status: current
+
+  [00:52:07] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2026-02-12
+
+  [23:37:07] PROVENANCE: Record activity
+    Agents: Dr. Alan320 Keeling57, Dr. Alan320 Keeling57
+
+================================================================================
+END OF TIMELINE (54 events)
+================================================================================

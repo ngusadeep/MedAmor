@@ -1,0 +1,249 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Mrs. Zana914 Debbie941 Bayer639
+  Patient ID: 155921
+  Date of Birth: 1975-01-15
+  Gender: Female
+  Race: White
+  Ethnicity: Not Hispanic or Latino
+  Marital Status: Married
+  Address: 756 Hills Walk, Worcester, MA 01606
+  Phone: 555-604-7007
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2017-01-25
+
+  [13:10:58] VISIT: General examination of patient (procedure)
+    Provider: Dr. Margarita164 Abbott774
+    Location: TREE OF LIFE HEALTHCARE ASSOCIATES
+    Duration: 13:10:58 - 13:25:58
+
+  [13:10:58] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [13:10:58] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [13:10:58] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [13:10:58] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-01-25
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Zana914 Debbie941 is a 42 year-old nonhispanic white female.
+      # Social History
+
+  [13:10:58] DOCUMENT: History and physical note
+    Status: superseded
+
+  [13:25:58] CLAIM: professional
+    Amount: USD 544.80
+
+
+📅 2019-01-30
+
+  [13:10:58] VISIT: General examination of patient (procedure)
+    Provider: Dr. Margarita164 Abbott774
+    Location: TREE OF LIFE HEALTHCARE ASSOCIATES
+    Duration: 13:10:58 - 13:25:58
+
+  [13:10:58] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [13:10:58] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-01-30
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Zana914 Debbie941 is a 44 year-old nonhispanic white female.
+      # Social History
+
+  [13:10:58] DOCUMENT: History and physical note
+    Status: superseded
+
+  [13:25:58] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2021-01-13
+
+  [13:10:58] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Otha286 Roberts511
+    Location: NEW ENGLAND REHABILITATION SERVICES OF CENTRAL MASSACHUSETTS INC
+    Duration: 13:10:58 - 13:25:58
+
+  [13:10:58] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+    Status: completed
+
+  [13:10:58] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-01-13
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Zana914 Debbie941 is a 45 year-old nonhispanic white female.
+      # Social History
+
+  [13:10:58] DOCUMENT: History and physical note
+    Status: superseded
+
+  [13:25:58] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-02-03
+
+  [13:10:58] VISIT: General examination of patient (procedure)
+    Provider: Dr. Margarita164 Abbott774
+    Location: TREE OF LIFE HEALTHCARE ASSOCIATES
+    Duration: 13:10:58 - 13:25:58
+
+  [13:10:58] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [13:10:58] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-02-03
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Zana914 Debbie941 is a 46 year-old nonhispanic white female.
+      # Social History
+
+  [13:10:58] DOCUMENT: History and physical note
+    Status: superseded
+
+  [13:25:58] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2021-02-10
+
+  [13:10:58] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Otha286 Roberts511
+    Location: NEW ENGLAND REHABILITATION SERVICES OF CENTRAL MASSACHUSETTS INC
+    Duration: 13:10:58 - 13:25:58
+
+  [13:10:58] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+    Status: completed
+
+  [13:10:58] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-02-10
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Zana914 Debbie941 is a 46 year-old nonhispanic white female.
+      # Social History
+
+  [13:10:58] DOCUMENT: History and physical note
+    Status: superseded
+
+  [13:25:58] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2023-02-08
+
+  [13:10:58] VISIT: General examination of patient (procedure)
+    Provider: Dr. Margarita164 Abbott774
+    Location: TREE OF LIFE HEALTHCARE ASSOCIATES
+    Duration: 13:10:58 - 13:25:58
+
+  [13:10:58] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [13:10:58] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-02-08
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Zana914 Debbie941 is a 48 year-old nonhispanic white female.
+      # Social History
+
+  [13:10:58] DOCUMENT: History and physical note
+    Status: superseded
+
+  [13:25:58] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2025-01-15
+
+  [13:10:58] VISIT: General examination of patient (procedure)
+    Provider: Dr. Margarita164 Abbott774
+    Location: TREE OF LIFE HEALTHCARE ASSOCIATES
+    Duration: 13:10:58 - 13:25:58
+
+  [13:10:58] IMMUNIZATION: zoster vaccine, live
+    Status: completed
+
+  [13:10:58] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [13:10:58] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-01-15
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Zana914 Debbie941 is a 50 year-old nonhispanic white female.
+      # Social History
+
+  [13:10:58] DOCUMENT: History and physical note
+    Status: superseded
+
+  [13:25:58] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2026-01-21
+
+  [13:10:58] VISIT: General examination of patient (procedure)
+    Provider: Dr. Margarita164 Abbott774
+    Location: TREE OF LIFE HEALTHCARE ASSOCIATES
+    Duration: 13:10:58 - 13:25:58
+
+  [13:10:58] IMMUNIZATION: zoster vaccine, live
+    Status: completed
+
+  [13:10:58] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [13:10:58] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [13:10:58] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2026-01-21
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Zana914 Debbie941 is a 51 year-old nonhispanic white female.
+      # Social History
+
+  [13:10:58] DOCUMENT: History and physical note
+    Status: current
+
+  [13:25:58] CLAIM: professional
+    Amount: USD 544.80
+
+
+📅 2026-02-11
+
+  [13:10:58] PROVENANCE: Record activity
+    Agents: Dr. Margarita164 Abbott774, Dr. Margarita164 Abbott774
+
+================================================================================
+END OF TIMELINE (46 events)
+================================================================================

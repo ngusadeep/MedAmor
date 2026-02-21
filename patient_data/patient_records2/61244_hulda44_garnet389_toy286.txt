@@ -1,0 +1,1231 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Mrs. Hulda44 Garnet389 Toy286
+  Patient ID: 61244
+  Date of Birth: 1961-08-04
+  Gender: Female
+  Race: White
+  Ethnicity: Not Hispanic or Latino
+  Marital Status: Divorced
+  Address: 991 Stehr Run Unit 28, Boston, MA 02119
+  Phone: 555-584-6296
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2008-08-29
+
+  [10:56:48] VISIT: Periodic reevaluation and management of healthy individual (procedure)
+    Reason: Screening for malignant neoplasm of breast (procedure)
+    Provider: Dr. Jose871 Dicki44
+    Location: TUFTS MEDICAL CENTER, INC
+    Duration: 10:56:48 - 21:44:02
+
+  [10:56:48] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2008-08-29
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Hulda44 Garnet389 is a 47 year-old nonhispanic white female.
+      # Social History
+
+  [10:56:48] DOCUMENT: History and physical note
+    Status: superseded
+
+  [13:01:02] CONDITION: Malignant neoplasm of breast (disorder) (active)
+
+
+📅 2008-08-30
+
+  [21:44:02] CLAIM: professional
+    Amount: USD 4623.66
+
+
+📅 2016-03-21
+
+  [20:34:32] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jose871 Dicki44
+    Location: TUFTS MEDICAL CENTER, INC
+    Duration: 20:34:32 - 21:10:40
+
+  [20:34:32] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [20:34:32] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-03-21
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Hulda44 Garnet389 is a 54 year-old nonhispanic white female.
+      # Social History
+
+  [20:34:32] DOCUMENT: History and physical note
+    Status: superseded
+
+  [21:10:40] CLAIM: professional
+    Amount: USD 573.98
+
+  [21:10:40] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jose871 Dicki44
+    Location: TUFTS MEDICAL CENTER, INC
+    Duration: 21:10:40 - 21:28:36
+
+  [21:10:40] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [21:10:40] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-03-21
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Hulda44 Garnet389 is a 54 year-old nonhispanic white female.
+      # Social History
+
+  [21:10:40] DOCUMENT: History and physical note
+    Status: superseded
+
+  [21:28:36] CLAIM: professional
+    Amount: USD 211.60
+
+  [21:28:36] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jose871 Dicki44
+    Location: TUFTS MEDICAL CENTER, INC
+    Duration: 21:28:36 - 21:52:45
+
+  [21:28:36] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [21:28:36] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-03-21
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Hulda44 Garnet389 is a 54 year-old nonhispanic white female.
+      # Social History
+
+  [21:28:36] DOCUMENT: History and physical note
+    Status: superseded
+
+  [21:41:09] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [21:52:45] CLAIM: professional
+    Amount: USD 2345.18
+
+
+📅 2016-09-02
+
+  [10:56:48] VISIT: General examination of patient (procedure)
+    Provider: Dr. Sherita708 Hudson301
+    Location: SOUTH BOSTON COMMUNITY HEALTH CENTER INC
+    Duration: 10:56:48 - 11:11:48
+
+  [10:56:48] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [10:56:48] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-09-02
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Hulda44 Garnet389 is a 55 year-old nonhispanic white female.
+      # Social History
+
+  [10:56:48] DOCUMENT: History and physical note
+    Status: superseded
+
+  [11:11:48] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2017-03-13
+
+  [21:52:45] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jose871 Dicki44
+    Location: TUFTS MEDICAL CENTER, INC
+    Duration: 21:52:45 - 22:37:42
+
+  [21:52:45] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [21:52:45] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-03-13
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Hulda44 Garnet389 is a 55 year-old nonhispanic white female.
+      # Social History
+
+  [21:52:45] DOCUMENT: History and physical note
+    Status: superseded
+
+  [22:37:42] CLAIM: professional
+    Amount: USD 573.98
+
+  [22:37:42] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jose871 Dicki44
+    Location: TUFTS MEDICAL CENTER, INC
+    Duration: 22:37:42 - 22:52:42
+
+  [22:37:42] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [22:37:42] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-03-13
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Hulda44 Garnet389 is a 55 year-old nonhispanic white female.
+      # Social History
+
+  [22:37:42] DOCUMENT: History and physical note
+    Status: superseded
+
+  [22:52:42] CLAIM: professional
+    Amount: USD 211.60
+
+  [22:52:42] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jose871 Dicki44
+    Location: TUFTS MEDICAL CENTER, INC
+    Duration: 22:52:42 - 23:24:51
+
+  [22:52:42] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [22:52:42] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-03-13
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Hulda44 Garnet389 is a 55 year-old nonhispanic white female.
+      # Social History
+
+  [22:52:42] DOCUMENT: History and physical note
+    Status: superseded
+
+  [23:05:25] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [23:24:51] CLAIM: professional
+    Amount: USD 1111.06
+
+
+📅 2017-09-08
+
+  [10:56:48] VISIT: General examination of patient (procedure)
+    Provider: Dr. Sherita708 Hudson301
+    Location: SOUTH BOSTON COMMUNITY HEALTH CENTER INC
+    Duration: 10:56:48 - 11:11:48
+
+  [10:56:48] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [10:56:48] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-09-08
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Hulda44 Garnet389 is a 56 year-old nonhispanic white female.
+      # Social History
+
+  [10:56:48] DOCUMENT: History and physical note
+    Status: superseded
+
+  [11:11:48] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2018-02-13
+
+  [22:24:51] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jose871 Dicki44
+    Location: TUFTS MEDICAL CENTER, INC
+    Duration: 22:24:51 - 22:56:54
+
+  [22:24:51] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [22:24:51] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-02-13
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Hulda44 Garnet389 is a 56 year-old nonhispanic white female.
+      # Social History
+
+  [22:24:51] DOCUMENT: History and physical note
+    Status: superseded
+
+  [22:56:54] CLAIM: professional
+    Amount: USD 573.98
+
+  [22:56:54] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jose871 Dicki44
+    Location: TUFTS MEDICAL CENTER, INC
+    Duration: 22:56:54 - 23:16:26
+
+  [22:56:54] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [22:56:54] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-02-13
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Hulda44 Garnet389 is a 56 year-old nonhispanic white female.
+      # Social History
+
+  [22:56:54] DOCUMENT: History and physical note
+    Status: superseded
+
+  [23:16:26] CLAIM: professional
+    Amount: USD 211.60
+
+  [23:16:26] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jose871 Dicki44
+    Location: TUFTS MEDICAL CENTER, INC
+    Duration: 23:16:26 - 23:44:38
+
+  [23:16:26] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [23:16:26] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-02-13
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Hulda44 Garnet389 is a 56 year-old nonhispanic white female.
+      # Social History
+
+  [23:16:26] DOCUMENT: History and physical note
+    Status: superseded
+
+  [23:26:31] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [23:44:38] CLAIM: professional
+    Amount: USD 1091.66
+
+
+📅 2018-09-14
+
+  [10:56:48] VISIT: General examination of patient (procedure)
+    Provider: Dr. Sherita708 Hudson301
+    Location: SOUTH BOSTON COMMUNITY HEALTH CENTER INC
+    Duration: 10:56:48 - 11:11:48
+
+  [10:56:48] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [10:56:48] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-09-14
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Hulda44 Garnet389 is a 57 year-old nonhispanic white female.
+      # Social History
+
+  [10:56:48] DOCUMENT: History and physical note
+    Status: superseded
+
+  [11:11:48] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2019-01-12
+
+  [23:44:38] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jose871 Dicki44
+    Location: TUFTS MEDICAL CENTER, INC
+    Duration: 23:44:38 - 00:26:53
+
+  [23:44:38] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [23:44:38] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-01-12
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Hulda44 Garnet389 is a 57 year-old nonhispanic white female.
+      # Social History
+
+  [23:44:38] DOCUMENT: History and physical note
+    Status: superseded
+
+
+📅 2019-01-13
+
+  [00:26:53] CLAIM: professional
+    Amount: USD 573.98
+
+  [00:26:53] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jose871 Dicki44
+    Location: TUFTS MEDICAL CENTER, INC
+    Duration: 00:26:53 - 00:50:05
+
+  [00:26:53] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [00:26:53] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-01-13
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Hulda44 Garnet389 is a 57 year-old nonhispanic white female.
+      # Social History
+
+  [00:26:53] DOCUMENT: History and physical note
+    Status: superseded
+
+  [00:50:05] CLAIM: professional
+    Amount: USD 325.49
+
+  [00:50:05] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jose871 Dicki44
+    Location: TUFTS MEDICAL CENTER, INC
+    Duration: 00:50:05 - 01:22:04
+
+  [00:50:05] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [00:50:05] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-01-13
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Hulda44 Garnet389 is a 57 year-old nonhispanic white female.
+      # Social History
+
+  [00:50:05] DOCUMENT: History and physical note
+    Status: superseded
+
+  [01:04:23] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [01:22:04] CLAIM: professional
+    Amount: USD 1187.58
+
+
+📅 2019-09-20
+
+  [10:56:48] VISIT: General examination of patient (procedure)
+    Provider: Dr. Sherita708 Hudson301
+    Location: SOUTH BOSTON COMMUNITY HEALTH CENTER INC
+    Duration: 10:56:48 - 11:11:48
+
+  [10:56:48] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [10:56:48] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-09-20
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Hulda44 Garnet389 is a 58 year-old nonhispanic white female.
+      # Social History
+
+  [10:56:48] DOCUMENT: History and physical note
+    Status: superseded
+
+  [11:11:48] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2020-02-03
+
+  [01:22:04] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jose871 Dicki44
+    Location: TUFTS MEDICAL CENTER, INC
+    Duration: 01:22:04 - 02:03:35
+
+  [01:22:04] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [01:22:04] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-02-03
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Hulda44 Garnet389 is a 58 year-old nonhispanic white female.
+      # Social History
+
+  [01:22:04] DOCUMENT: History and physical note
+    Status: superseded
+
+  [02:03:35] CLAIM: professional
+    Amount: USD 573.98
+
+  [02:03:35] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jose871 Dicki44
+    Location: TUFTS MEDICAL CENTER, INC
+    Duration: 02:03:35 - 02:24:44
+
+  [02:03:35] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [02:03:35] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-02-03
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Hulda44 Garnet389 is a 58 year-old nonhispanic white female.
+      # Social History
+
+  [02:03:35] DOCUMENT: History and physical note
+    Status: superseded
+
+  [02:24:44] CLAIM: professional
+    Amount: USD 289.82
+
+  [02:24:44] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jose871 Dicki44
+    Location: TUFTS MEDICAL CENTER, INC
+    Duration: 02:24:44 - 02:54:06
+
+  [02:24:44] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [02:24:44] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-02-03
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Hulda44 Garnet389 is a 58 year-old nonhispanic white female.
+      # Social History
+
+  [02:24:44] DOCUMENT: History and physical note
+    Status: superseded
+
+  [02:37:20] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [02:54:06] CLAIM: professional
+    Amount: USD 1091.66
+
+
+📅 2020-09-25
+
+  [10:56:48] VISIT: General examination of patient (procedure)
+    Provider: Dr. Sherita708 Hudson301
+    Location: SOUTH BOSTON COMMUNITY HEALTH CENTER INC
+    Duration: 10:56:48 - 11:11:48
+
+  [10:56:48] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [10:56:48] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-09-25
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Hulda44 Garnet389 is a 59 year-old nonhispanic white female.
+      # Social History
+
+  [10:56:48] DOCUMENT: History and physical note
+    Status: superseded
+
+  [11:11:48] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2021-01-29
+
+  [02:54:06] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jose871 Dicki44
+    Location: TUFTS MEDICAL CENTER, INC
+    Duration: 02:54:06 - 03:25:19
+
+  [02:54:06] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [02:54:06] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-01-29
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Hulda44 Garnet389 is a 59 year-old nonhispanic white female.
+      # Social History
+
+  [02:54:06] DOCUMENT: History and physical note
+    Status: superseded
+
+  [03:25:19] CLAIM: professional
+    Amount: USD 573.98
+
+  [03:25:19] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jose871 Dicki44
+    Location: TUFTS MEDICAL CENTER, INC
+    Duration: 03:25:19 - 03:43:32
+
+  [03:25:19] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [03:25:19] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-01-29
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Hulda44 Garnet389 is a 59 year-old nonhispanic white female.
+      # Social History
+
+  [03:25:19] DOCUMENT: History and physical note
+    Status: superseded
+
+  [03:43:32] CLAIM: professional
+    Amount: USD 211.60
+
+  [03:43:32] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jose871 Dicki44
+    Location: TUFTS MEDICAL CENTER, INC
+    Duration: 03:43:32 - 04:08:05
+
+  [03:43:32] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [03:43:32] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-01-29
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Hulda44 Garnet389 is a 59 year-old nonhispanic white female.
+      # Social History
+
+  [03:43:32] DOCUMENT: History and physical note
+    Status: superseded
+
+  [03:54:27] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [04:08:05] CLAIM: professional
+    Amount: USD 1221.08
+
+
+📅 2021-10-01
+
+  [10:56:48] VISIT: General examination of patient (procedure)
+    Provider: Dr. Sherita708 Hudson301
+    Location: SOUTH BOSTON COMMUNITY HEALTH CENTER INC
+    Duration: 10:56:48 - 11:11:48
+
+  [10:56:48] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [10:56:48] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-10-01
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Hulda44 Garnet389 is a 60 year-old nonhispanic white female.
+      # Social History
+
+  [10:56:48] DOCUMENT: History and physical note
+    Status: superseded
+
+  [11:11:48] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2021-11-26
+
+  [09:56:48] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Jose871 Dicki44
+    Location: TUFTS MEDICAL CENTER, INC
+    Duration: 09:56:48 - 10:11:48
+
+  [09:56:48] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+    Status: completed
+
+  [09:56:48] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-11-26
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Hulda44 Garnet389 is a 60 year-old nonhispanic white female.
+      # Social History
+
+  [09:56:48] DOCUMENT: History and physical note
+    Status: superseded
+
+  [10:11:48] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-12-24
+
+  [09:56:48] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Jose871 Dicki44
+    Location: TUFTS MEDICAL CENTER, INC
+    Duration: 09:56:48 - 10:11:48
+
+  [09:56:48] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+    Status: completed
+
+  [09:56:48] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-12-24
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Hulda44 Garnet389 is a 60 year-old nonhispanic white female.
+      # Social History
+
+  [09:56:48] DOCUMENT: History and physical note
+    Status: superseded
+
+  [10:11:48] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2022-02-11
+
+  [04:08:05] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jose871 Dicki44
+    Location: TUFTS MEDICAL CENTER, INC
+    Duration: 04:08:05 - 04:38:14
+
+  [04:08:05] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [04:08:05] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-02-11
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Hulda44 Garnet389 is a 60 year-old nonhispanic white female.
+      # Social History
+
+  [04:08:05] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:38:14] CLAIM: professional
+    Amount: USD 573.98
+
+  [04:38:14] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jose871 Dicki44
+    Location: TUFTS MEDICAL CENTER, INC
+    Duration: 04:38:14 - 04:55:23
+
+  [04:38:14] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [04:38:14] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-02-11
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Hulda44 Garnet389 is a 60 year-old nonhispanic white female.
+      # Social History
+
+  [04:38:14] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:55:23] CLAIM: professional
+    Amount: USD 226.92
+
+  [04:55:23] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jose871 Dicki44
+    Location: TUFTS MEDICAL CENTER, INC
+    Duration: 04:55:23 - 05:27:59
+
+  [04:55:23] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [04:55:23] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-02-11
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Hulda44 Garnet389 is a 60 year-old nonhispanic white female.
+      # Social History
+
+  [04:55:23] DOCUMENT: History and physical note
+    Status: superseded
+
+  [05:09:44] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [05:27:59] CLAIM: professional
+    Amount: USD 3680.06
+
+
+📅 2022-10-07
+
+  [10:56:48] VISIT: General examination of patient (procedure)
+    Provider: Dr. Sherita708 Hudson301
+    Location: SOUTH BOSTON COMMUNITY HEALTH CENTER INC
+    Duration: 10:56:48 - 11:11:48
+
+  [10:56:48] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [10:56:48] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [10:56:48] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-10-07
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Hulda44 Garnet389 is a 61 year-old nonhispanic white female.
+      # Social History
+
+  [10:56:48] DOCUMENT: History and physical note
+    Status: superseded
+
+  [11:11:48] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2023-01-23
+
+  [05:27:59] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jose871 Dicki44
+    Location: Patient's Home
+    Duration: 05:27:59 - 06:01:28
+
+  [05:27:59] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [05:27:59] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-01-23
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Hulda44 Garnet389 is a 61 year-old nonhispanic white female.
+      # Social History
+
+  [05:27:59] DOCUMENT: History and physical note
+    Status: superseded
+
+  [06:01:28] CLAIM: institutional
+    Amount: USD 556.40
+
+  [06:01:28] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jose871 Dicki44
+    Location: TUFTS MEDICAL CENTER, INC
+    Duration: 06:01:28 - 06:25:01
+
+  [06:01:28] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [06:01:28] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-01-23
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Hulda44 Garnet389 is a 61 year-old nonhispanic white female.
+      # Social History
+
+  [06:01:28] DOCUMENT: History and physical note
+    Status: superseded
+
+  [06:25:01] CLAIM: professional
+    Amount: USD 211.60
+
+  [06:25:01] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jose871 Dicki44
+    Location: TUFTS MEDICAL CENTER, INC
+    Duration: 06:25:01 - 06:53:24
+
+  [06:25:01] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [06:25:01] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-01-23
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Hulda44 Garnet389 is a 61 year-old nonhispanic white female.
+      # Social History
+
+  [06:25:01] DOCUMENT: History and physical note
+    Status: superseded
+
+  [06:39:49] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [06:53:24] CLAIM: professional
+    Amount: USD 1091.66
+
+
+📅 2023-10-13
+
+  [10:56:48] VISIT: General examination of patient (procedure)
+    Provider: Dr. Sherita708 Hudson301
+    Location: SOUTH BOSTON COMMUNITY HEALTH CENTER INC
+    Duration: 10:56:48 - 11:11:48
+
+  [10:56:48] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [10:56:48] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-10-13
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Hulda44 Garnet389 is a 62 year-old nonhispanic white female.
+      # Social History
+
+  [10:56:48] DOCUMENT: History and physical note
+    Status: superseded
+
+  [11:11:48] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2024-01-17
+
+  [06:53:24] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jose871 Dicki44
+    Location: TUFTS MEDICAL CENTER, INC
+    Duration: 06:53:24 - 07:35:21
+
+  [06:53:24] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [06:53:24] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-01-17
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Hulda44 Garnet389 is a 62 year-old nonhispanic white female.
+      # Social History
+
+  [06:53:24] DOCUMENT: History and physical note
+    Status: superseded
+
+  [07:35:21] CLAIM: professional
+    Amount: USD 573.98
+
+  [07:35:21] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jose871 Dicki44
+    Location: TUFTS MEDICAL CENTER, INC
+    Duration: 07:35:21 - 07:56:55
+
+  [07:35:21] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [07:35:21] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-01-17
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Hulda44 Garnet389 is a 62 year-old nonhispanic white female.
+      # Social History
+
+  [07:35:21] DOCUMENT: History and physical note
+    Status: superseded
+
+  [07:56:55] CLAIM: professional
+    Amount: USD 211.60
+
+  [07:56:55] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jose871 Dicki44
+    Location: TUFTS MEDICAL CENTER, INC
+    Duration: 07:56:55 - 08:22:39
+
+  [07:56:55] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [07:56:55] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-01-17
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Hulda44 Garnet389 is a 62 year-old nonhispanic white female.
+      # Social History
+
+  [07:56:55] DOCUMENT: History and physical note
+    Status: superseded
+
+  [08:09:26] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [08:22:39] CLAIM: professional
+    Amount: USD 1182.81
+
+
+📅 2024-10-18
+
+  [10:56:48] VISIT: General examination of patient (procedure)
+    Provider: Dr. Sherita708 Hudson301
+    Location: SOUTH BOSTON COMMUNITY HEALTH CENTER INC
+    Duration: 10:56:48 - 11:11:48
+
+  [10:56:48] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [10:56:48] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-10-18
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Hulda44 Garnet389 is a 63 year-old nonhispanic white female.
+      # Social History
+
+  [10:56:48] DOCUMENT: History and physical note
+    Status: superseded
+
+  [11:11:48] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2024-12-25
+
+  [08:22:39] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jose871 Dicki44
+    Location: TUFTS MEDICAL CENTER, INC
+    Duration: 08:22:39 - 08:59:03
+
+  [08:22:39] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [08:22:39] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-12-25
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Hulda44 Garnet389 is a 63 year-old nonhispanic white female.
+      # Social History
+
+  [08:22:39] DOCUMENT: History and physical note
+    Status: superseded
+
+  [08:59:03] CLAIM: professional
+    Amount: USD 573.98
+
+  [08:59:03] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jose871 Dicki44
+    Location: TUFTS MEDICAL CENTER, INC
+    Duration: 08:59:03 - 09:16:54
+
+  [08:59:03] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [08:59:03] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-12-25
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Hulda44 Garnet389 is a 63 year-old nonhispanic white female.
+      # Social History
+
+  [08:59:03] DOCUMENT: History and physical note
+    Status: superseded
+
+  [09:16:54] CLAIM: professional
+    Amount: USD 211.60
+
+  [09:16:54] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jose871 Dicki44
+    Location: TUFTS MEDICAL CENTER, INC
+    Duration: 09:16:54 - 09:42:39
+
+  [09:16:54] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [09:16:54] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-12-25
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Hulda44 Garnet389 is a 63 year-old nonhispanic white female.
+      # Social History
+
+  [09:16:54] DOCUMENT: History and physical note
+    Status: superseded
+
+  [09:29:24] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [09:42:39] CLAIM: professional
+    Amount: USD 3680.06
+
+
+📅 2025-10-24
+
+  [10:56:48] VISIT: General examination of patient (procedure)
+    Provider: Dr. Sherita708 Hudson301
+    Location: SOUTH BOSTON COMMUNITY HEALTH CENTER INC
+    Duration: 10:56:48 - 11:11:48
+
+  [10:56:48] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [10:56:48] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-10-24
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Hulda44 Garnet389 is a 64 year-old nonhispanic white female.
+      # Social History
+
+  [10:56:48] DOCUMENT: History and physical note
+    Status: superseded
+
+  [11:11:48] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2025-12-01
+
+  [09:42:39] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jose871 Dicki44
+    Location: TUFTS MEDICAL CENTER, INC
+    Duration: 09:42:39 - 10:15:17
+
+  [09:42:39] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [09:42:39] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-12-01
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Hulda44 Garnet389 is a 64 year-old nonhispanic white female.
+      # Social History
+
+  [09:42:39] DOCUMENT: History and physical note
+    Status: superseded
+
+  [10:15:17] CLAIM: professional
+    Amount: USD 573.98
+
+  [10:15:17] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jose871 Dicki44
+    Location: TUFTS MEDICAL CENTER, INC
+    Duration: 10:15:17 - 10:36:53
+
+  [10:15:17] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [10:15:17] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-12-01
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Hulda44 Garnet389 is a 64 year-old nonhispanic white female.
+      # Social History
+
+  [10:15:17] DOCUMENT: History and physical note
+    Status: superseded
+
+  [10:36:53] CLAIM: professional
+    Amount: USD 325.49
+
+  [10:36:53] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jose871 Dicki44
+    Location: TUFTS MEDICAL CENTER, INC
+    Duration: 10:36:53 - 11:00:19
+
+  [10:36:53] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [10:36:53] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-12-01
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Hulda44 Garnet389 is a 64 year-old nonhispanic white female.
+      # Social History
+
+  [10:36:53] DOCUMENT: History and physical note
+    Status: current
+
+  [10:48:28] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [11:00:19] CLAIM: professional
+    Amount: USD 1221.08
+
+
+📅 2026-02-13
+
+  [09:56:48] PROVENANCE: Record activity
+    Agents: Dr. Jose871 Dicki44, Dr. Jose871 Dicki44
+
+================================================================================
+END OF TIMELINE (243 events)
+================================================================================

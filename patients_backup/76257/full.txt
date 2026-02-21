@@ -1,0 +1,1213 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Ms. Karan473 Buckridge80
+  Patient ID: 76257
+  Date of Birth: 1966-02-17
+  Gender: Female
+  Race: White
+  Ethnicity: Not Hispanic or Latino
+  Marital Status: Never Married
+  Address: 575 Pouros Passage, Dudley, MA 00000
+  Phone: 555-194-9581
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2012-01-01
+
+  [11:29:14] VISIT: Periodic reevaluation and management of healthy individual (procedure)
+    Reason: Screening for malignant neoplasm of breast (procedure)
+    Provider: Dr. Rhett759 Padberg411
+    Location: VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+    Duration: 11:29:14 - 19:14:27
+
+  [11:29:14] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2012-01-01
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Karan473 is a 45 year-old nonhispanic white female.
+      # Social History
+
+  [11:29:14] DOCUMENT: History and physical note
+    Status: superseded
+
+  [12:46:27] CONDITION: Malignant neoplasm of breast (disorder) (active)
+
+
+📅 2012-01-02
+
+  [19:14:27] CLAIM: professional
+    Amount: USD 4474.98
+
+
+📅 2016-02-18
+
+  [11:29:14] VISIT: General examination of patient (procedure)
+    Provider: Dr. Monte325 Parisian75
+    Location: RENAISSANCE PRIMARY CARE LLC
+    Duration: 11:29:14 - 11:44:14
+
+  [11:29:14] IMMUNIZATION: zoster vaccine, live
+    Status: completed
+
+  [11:29:14] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [11:29:14] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-02-18
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Karan473 is a 50 year-old nonhispanic white female.
+      # Social History
+
+  [11:29:14] DOCUMENT: History and physical note
+    Status: superseded
+
+  [11:44:14] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2016-02-25
+
+  [11:29:14] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Rhett759 Padberg411
+    Location: VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+    Duration: 11:29:14 - 12:01:33
+
+  [11:29:14] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [11:29:14] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-02-25
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Karan473 is a 50 year-old nonhispanic white female.
+      # Social History
+
+  [11:29:14] DOCUMENT: History and physical note
+    Status: superseded
+
+  [12:01:33] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2016-06-08
+
+  [13:01:33] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Rhett759 Padberg411
+    Location: VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+    Duration: 13:01:33 - 13:37:48
+
+  [13:01:33] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [13:01:33] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-06-08
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Karan473 is a 50 year-old nonhispanic white female.
+      # Social History
+
+  [13:01:33] DOCUMENT: History and physical note
+    Status: superseded
+
+  [13:37:48] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2016-10-02
+
+  [13:37:48] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Rhett759 Padberg411
+    Location: VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+    Duration: 13:37:48 - 14:13:57
+
+  [13:37:48] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [13:37:48] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-10-02
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Karan473 is a 50 year-old nonhispanic white female.
+      # Social History
+
+  [13:37:48] DOCUMENT: History and physical note
+    Status: superseded
+
+  [14:13:57] CLAIM: professional
+    Amount: USD 573.98
+
+  [14:13:57] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Rhett759 Padberg411
+    Location: VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+    Duration: 14:13:57 - 14:29:20
+
+  [14:13:57] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [14:13:57] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-10-02
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Karan473 is a 50 year-old nonhispanic white female.
+      # Social History
+
+  [14:13:57] DOCUMENT: History and physical note
+    Status: superseded
+
+  [14:29:20] CLAIM: professional
+    Amount: USD 218.52
+
+  [14:29:20] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Rhett759 Padberg411
+    Location: VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+    Duration: 14:29:20 - 14:58:35
+
+  [14:29:20] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [14:29:20] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-10-02
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Karan473 is a 50 year-old nonhispanic white female.
+      # Social History
+
+  [14:29:20] DOCUMENT: History and physical note
+    Status: superseded
+
+  [14:43:30] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [14:58:35] CLAIM: professional
+    Amount: USD 1191.14
+
+
+📅 2017-02-23
+
+  [11:29:14] VISIT: General examination of patient (procedure)
+    Provider: Dr. Monte325 Parisian75
+    Location: RENAISSANCE PRIMARY CARE LLC
+    Duration: 11:29:14 - 11:44:14
+
+  [11:29:14] IMMUNIZATION: zoster vaccine, live
+    Status: completed
+
+  [11:29:14] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [11:29:14] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [11:29:14] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-02-23
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Karan473 is a 51 year-old nonhispanic white female.
+      # Social History
+
+  [11:29:14] DOCUMENT: History and physical note
+    Status: superseded
+
+  [11:44:14] CLAIM: professional
+    Amount: USD 544.80
+
+
+📅 2017-09-16
+
+  [14:58:35] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Rhett759 Padberg411
+    Location: VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+    Duration: 14:58:35 - 15:34:06
+
+  [14:58:35] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [14:58:35] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-09-16
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Karan473 is a 51 year-old nonhispanic white female.
+      # Social History
+
+  [14:58:35] DOCUMENT: History and physical note
+    Status: superseded
+
+  [15:34:06] CLAIM: professional
+    Amount: USD 573.98
+
+  [15:34:06] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Rhett759 Padberg411
+    Location: VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+    Duration: 15:34:06 - 15:52:33
+
+  [15:34:06] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [15:34:06] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-09-16
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Karan473 is a 51 year-old nonhispanic white female.
+      # Social History
+
+  [15:34:06] DOCUMENT: History and physical note
+    Status: superseded
+
+  [15:52:33] CLAIM: professional
+    Amount: USD 211.60
+
+  [15:52:33] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Rhett759 Padberg411
+    Location: VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+    Duration: 15:52:33 - 16:16:33
+
+  [15:52:33] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [15:52:33] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-09-16
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Karan473 is a 51 year-old nonhispanic white female.
+      # Social History
+
+  [15:52:33] DOCUMENT: History and physical note
+    Status: superseded
+
+  [16:05:11] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [16:16:33] CLAIM: professional
+    Amount: USD 3680.06
+
+
+📅 2018-03-01
+
+  [11:29:14] VISIT: General examination of patient (procedure)
+    Provider: Dr. Monte325 Parisian75
+    Location: RENAISSANCE PRIMARY CARE LLC
+    Duration: 11:29:14 - 11:44:14
+
+  [11:29:14] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [11:29:14] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-03-01
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Karan473 is a 52 year-old nonhispanic white female.
+      # Social History
+
+  [11:29:14] DOCUMENT: History and physical note
+    Status: superseded
+
+  [11:44:14] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2018-09-08
+
+  [16:16:33] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Rhett759 Padberg411
+    Location: VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+    Duration: 16:16:33 - 16:59:00
+
+  [16:16:33] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [16:16:33] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-09-08
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Karan473 is a 52 year-old nonhispanic white female.
+      # Social History
+
+  [16:16:33] DOCUMENT: History and physical note
+    Status: superseded
+
+  [16:59:00] CLAIM: professional
+    Amount: USD 573.98
+
+  [16:59:00] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Rhett759 Padberg411
+    Location: VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+    Duration: 16:59:00 - 17:20:13
+
+  [16:59:00] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [16:59:00] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-09-08
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Karan473 is a 52 year-old nonhispanic white female.
+      # Social History
+
+  [16:59:00] DOCUMENT: History and physical note
+    Status: superseded
+
+  [17:20:13] CLAIM: professional
+    Amount: USD 224.17
+
+  [17:20:13] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Rhett759 Padberg411
+    Location: VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+    Duration: 17:20:13 - 17:50:31
+
+  [17:20:13] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [17:20:13] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-09-08
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Karan473 is a 52 year-old nonhispanic white female.
+      # Social History
+
+  [17:20:13] DOCUMENT: History and physical note
+    Status: superseded
+
+  [17:32:16] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [17:50:31] CLAIM: professional
+    Amount: USD 3014.93
+
+
+📅 2019-03-07
+
+  [11:29:14] VISIT: General examination of patient (procedure)
+    Provider: Dr. Monte325 Parisian75
+    Location: RENAISSANCE PRIMARY CARE LLC
+    Duration: 11:29:14 - 11:44:14
+
+  [11:29:14] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [11:29:14] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-03-07
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Karan473 is a 53 year-old nonhispanic white female.
+      # Social History
+
+  [11:29:14] DOCUMENT: History and physical note
+    Status: superseded
+
+  [11:44:14] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2019-09-27
+
+  [17:50:31] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Rhett759 Padberg411
+    Location: VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+    Duration: 17:50:31 - 18:28:59
+
+  [17:50:31] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [17:50:31] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-09-27
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Karan473 is a 53 year-old nonhispanic white female.
+      # Social History
+
+  [17:50:31] DOCUMENT: History and physical note
+    Status: superseded
+
+  [18:28:59] CLAIM: professional
+    Amount: USD 573.98
+
+  [18:28:59] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Rhett759 Padberg411
+    Location: VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+    Duration: 18:28:59 - 18:52:44
+
+  [18:28:59] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [18:28:59] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-09-27
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Karan473 is a 53 year-old nonhispanic white female.
+      # Social History
+
+  [18:28:59] DOCUMENT: History and physical note
+    Status: superseded
+
+  [18:52:44] CLAIM: professional
+    Amount: USD 211.60
+
+  [18:52:44] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Rhett759 Padberg411
+    Location: VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+    Duration: 18:52:44 - 19:23:55
+
+  [18:52:44] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [18:52:44] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-09-27
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Karan473 is a 53 year-old nonhispanic white female.
+      # Social History
+
+  [18:52:44] DOCUMENT: History and physical note
+    Status: superseded
+
+  [19:06:11] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [19:23:55] CLAIM: professional
+    Amount: USD 3801.93
+
+
+📅 2020-03-12
+
+  [12:29:14] VISIT: General examination of patient (procedure)
+    Provider: Dr. Monte325 Parisian75
+    Location: RENAISSANCE PRIMARY CARE LLC
+    Duration: 12:29:14 - 12:44:14
+
+  [12:29:14] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [12:29:14] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-03-12
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Karan473 is a 54 year-old nonhispanic white female.
+      # Social History
+
+  [12:29:14] DOCUMENT: History and physical note
+    Status: superseded
+
+  [12:44:14] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2020-08-24
+
+  [19:23:55] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Rhett759 Padberg411
+    Location: Patient's Home
+    Duration: 19:23:55 - 20:04:10
+
+  [19:23:55] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [19:23:55] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-08-24
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Karan473 is a 54 year-old nonhispanic white female.
+      # Social History
+
+  [19:23:55] DOCUMENT: History and physical note
+    Status: superseded
+
+  [20:04:10] CLAIM: institutional
+    Amount: USD 556.40
+
+  [20:04:10] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Rhett759 Padberg411
+    Location: VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+    Duration: 20:04:10 - 20:25:03
+
+  [20:04:10] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [20:04:10] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-08-24
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Karan473 is a 54 year-old nonhispanic white female.
+      # Social History
+
+  [20:04:10] DOCUMENT: History and physical note
+    Status: superseded
+
+  [20:25:03] CLAIM: professional
+    Amount: USD 325.49
+
+  [20:25:03] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Rhett759 Padberg411
+    Location: VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+    Duration: 20:25:03 - 20:50:15
+
+  [20:25:03] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [20:25:03] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-08-24
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Karan473 is a 54 year-old nonhispanic white female.
+      # Social History
+
+  [20:25:03] DOCUMENT: History and physical note
+    Status: superseded
+
+  [20:36:54] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [20:50:15] CLAIM: professional
+    Amount: USD 3680.06
+
+
+📅 2021-03-18
+
+  [12:29:14] VISIT: General examination of patient (procedure)
+    Provider: Dr. Monte325 Parisian75
+    Location: RENAISSANCE PRIMARY CARE LLC
+    Duration: 12:29:14 - 12:44:14
+
+  [12:29:14] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [12:29:14] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-03-18
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Karan473 is a 55 year-old nonhispanic white female.
+      # Social History
+
+  [12:29:14] DOCUMENT: History and physical note
+    Status: superseded
+
+  [12:44:14] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2021-04-08
+
+  [12:29:14] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Rhett759 Padberg411
+    Location: VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+    Duration: 12:29:14 - 12:44:14
+
+  [12:29:14] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 30 mcg/0.3 mL dose
+    Status: completed
+
+  [12:29:14] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-04-08
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Karan473 is a 55 year-old nonhispanic white female.
+      # Social History
+
+  [12:29:14] DOCUMENT: History and physical note
+    Status: superseded
+
+  [12:44:14] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-04-29
+
+  [12:29:14] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Rhett759 Padberg411
+    Location: VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+    Duration: 12:29:14 - 12:44:14
+
+  [12:29:14] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 30 mcg/0.3 mL dose
+    Status: completed
+
+  [12:29:14] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-04-29
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Karan473 is a 55 year-old nonhispanic white female.
+      # Social History
+
+  [12:29:14] DOCUMENT: History and physical note
+    Status: superseded
+
+  [12:44:14] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-08-09
+
+  [20:50:15] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Rhett759 Padberg411
+    Location: Patient's Home
+    Duration: 20:50:15 - 21:22:22
+
+  [20:50:15] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [20:50:15] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-08-09
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Karan473 is a 55 year-old nonhispanic white female.
+      # Social History
+
+  [20:50:15] DOCUMENT: History and physical note
+    Status: superseded
+
+  [21:22:22] CLAIM: institutional
+    Amount: USD 556.40
+
+  [21:22:22] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Rhett759 Padberg411
+    Location: VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+    Duration: 21:22:22 - 21:46:13
+
+  [21:22:22] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [21:22:22] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-08-09
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Karan473 is a 55 year-old nonhispanic white female.
+      # Social History
+
+  [21:22:22] DOCUMENT: History and physical note
+    Status: superseded
+
+  [21:46:13] CLAIM: professional
+    Amount: USD 224.14
+
+  [21:46:13] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Rhett759 Padberg411
+    Location: VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+    Duration: 21:46:13 - 22:15:08
+
+  [21:46:13] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [21:46:13] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-08-09
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Karan473 is a 55 year-old nonhispanic white female.
+      # Social History
+
+  [21:46:13] DOCUMENT: History and physical note
+    Status: superseded
+
+  [22:00:45] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [22:15:08] CLAIM: professional
+    Amount: USD 1890.88
+
+
+📅 2022-03-24
+
+  [12:29:14] VISIT: General examination of patient (procedure)
+    Provider: Dr. Monte325 Parisian75
+    Location: RENAISSANCE PRIMARY CARE LLC
+    Duration: 12:29:14 - 12:44:14
+
+  [12:29:14] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [12:29:14] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-03-24
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Karan473 is a 56 year-old nonhispanic white female.
+      # Social History
+
+  [12:29:14] DOCUMENT: History and physical note
+    Status: superseded
+
+  [12:44:14] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2022-08-03
+
+  [22:15:08] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Rhett759 Padberg411
+    Location: VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+    Duration: 22:15:08 - 22:54:53
+
+  [22:15:08] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [22:15:08] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-08-03
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Karan473 is a 56 year-old nonhispanic white female.
+      # Social History
+
+  [22:15:08] DOCUMENT: History and physical note
+    Status: superseded
+
+  [22:54:53] CLAIM: professional
+    Amount: USD 573.98
+
+  [22:54:53] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Rhett759 Padberg411
+    Location: VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+    Duration: 22:54:53 - 23:18:09
+
+  [22:54:53] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [22:54:53] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-08-03
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Karan473 is a 56 year-old nonhispanic white female.
+      # Social History
+
+  [22:54:53] DOCUMENT: History and physical note
+    Status: superseded
+
+  [23:18:09] CLAIM: professional
+    Amount: USD 211.60
+
+  [23:18:09] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Rhett759 Padberg411
+    Location: VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+    Duration: 23:18:09 - 23:47:42
+
+  [23:18:09] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [23:18:09] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-08-03
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Karan473 is a 56 year-old nonhispanic white female.
+      # Social History
+
+  [23:18:09] DOCUMENT: History and physical note
+    Status: superseded
+
+  [23:30:27] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [23:47:42] CLAIM: professional
+    Amount: USD 1187.60
+
+
+📅 2023-03-30
+
+  [12:29:14] VISIT: General examination of patient (procedure)
+    Provider: Dr. Monte325 Parisian75
+    Location: RENAISSANCE PRIMARY CARE LLC
+    Duration: 12:29:14 - 12:44:14
+
+  [12:29:14] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [12:29:14] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-03-30
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Karan473 is a 57 year-old nonhispanic white female.
+      # Social History
+
+  [12:29:14] DOCUMENT: History and physical note
+    Status: superseded
+
+  [12:44:14] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2023-07-20
+
+  [23:47:42] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Rhett759 Padberg411
+    Location: VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+    Duration: 23:47:42 - 00:24:26
+
+  [23:47:42] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [23:47:42] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-07-20
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Karan473 is a 57 year-old nonhispanic white female.
+      # Social History
+
+  [23:47:42] DOCUMENT: History and physical note
+    Status: superseded
+
+
+📅 2023-07-21
+
+  [00:24:26] CLAIM: professional
+    Amount: USD 573.98
+
+  [00:24:26] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Rhett759 Padberg411
+    Location: VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+    Duration: 00:24:26 - 00:48:11
+
+  [00:24:26] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [00:24:26] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-07-21
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Karan473 is a 57 year-old nonhispanic white female.
+      # Social History
+
+  [00:24:26] DOCUMENT: History and physical note
+    Status: superseded
+
+  [00:48:11] CLAIM: professional
+    Amount: USD 211.60
+
+  [00:48:11] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Rhett759 Padberg411
+    Location: VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+    Duration: 00:48:11 - 01:13:59
+
+  [00:48:11] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [00:48:11] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-07-21
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Karan473 is a 57 year-old nonhispanic white female.
+      # Social History
+
+  [00:48:11] DOCUMENT: History and physical note
+    Status: superseded
+
+  [01:01:15] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [01:13:59] CLAIM: professional
+    Amount: USD 2960.20
+
+
+📅 2024-04-04
+
+  [12:29:14] VISIT: General examination of patient (procedure)
+    Provider: Dr. Monte325 Parisian75
+    Location: RENAISSANCE PRIMARY CARE LLC
+    Duration: 12:29:14 - 12:44:14
+
+  [12:29:14] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [12:29:14] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-04-04
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Karan473 is a 58 year-old nonhispanic white female.
+      # Social History
+
+  [12:29:14] DOCUMENT: History and physical note
+    Status: superseded
+
+  [12:44:14] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2024-07-21
+
+  [01:13:59] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Rhett759 Padberg411
+    Location: VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+    Duration: 01:13:59 - 01:50:16
+
+  [01:13:59] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [01:13:59] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-07-21
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Karan473 is a 58 year-old nonhispanic white female.
+      # Social History
+
+  [01:13:59] DOCUMENT: History and physical note
+    Status: superseded
+
+  [01:50:16] CLAIM: professional
+    Amount: USD 573.98
+
+  [01:50:16] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Rhett759 Padberg411
+    Location: VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+    Duration: 01:50:16 - 02:13:09
+
+  [01:50:16] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [01:50:16] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-07-21
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Karan473 is a 58 year-old nonhispanic white female.
+      # Social History
+
+  [01:50:16] DOCUMENT: History and physical note
+    Status: superseded
+
+  [02:13:09] CLAIM: professional
+    Amount: USD 211.60
+
+  [02:13:09] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Rhett759 Padberg411
+    Location: VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+    Duration: 02:13:09 - 02:40:24
+
+  [02:13:09] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [02:13:09] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-07-21
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Karan473 is a 58 year-old nonhispanic white female.
+      # Social History
+
+  [02:13:09] DOCUMENT: History and physical note
+    Status: superseded
+
+  [02:27:47] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [02:40:24] CLAIM: professional
+    Amount: USD 3250.38
+
+
+📅 2025-04-10
+
+  [12:29:14] VISIT: General examination of patient (procedure)
+    Provider: Dr. Monte325 Parisian75
+    Location: RENAISSANCE PRIMARY CARE LLC
+    Duration: 12:29:14 - 12:44:14
+
+  [12:29:14] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [12:29:14] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-04-10
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Karan473 is a 59 year-old nonhispanic white female.
+      # Social History
+
+  [12:29:14] DOCUMENT: History and physical note
+    Status: superseded
+
+  [12:44:14] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2025-08-03
+
+  [02:40:24] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Rhett759 Padberg411
+    Location: VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+    Duration: 02:40:24 - 03:22:15
+
+  [02:40:24] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [02:40:24] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-08-03
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Karan473 is a 59 year-old nonhispanic white female.
+      # Social History
+
+  [02:40:24] DOCUMENT: History and physical note
+    Status: superseded
+
+  [03:22:15] CLAIM: professional
+    Amount: USD 573.98
+
+  [03:22:15] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Rhett759 Padberg411
+    Location: VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+    Duration: 03:22:15 - 03:38:51
+
+  [03:22:15] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [03:22:15] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-08-03
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Karan473 is a 59 year-old nonhispanic white female.
+      # Social History
+
+  [03:22:15] DOCUMENT: History and physical note
+    Status: superseded
+
+  [03:38:51] CLAIM: professional
+    Amount: USD 325.49
+
+  [03:38:51] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Rhett759 Padberg411
+    Location: VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+    Duration: 03:38:51 - 04:07:47
+
+  [03:38:51] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [03:38:51] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-08-03
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Karan473 is a 59 year-old nonhispanic white female.
+      # Social History
+
+  [03:38:51] DOCUMENT: History and physical note
+    Status: current
+
+  [03:53:22] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [04:07:47] CLAIM: professional
+    Amount: USD 2509.59
+
+
+📅 2026-02-12
+
+  [11:29:14] PROVENANCE: Record activity
+    Agents: Dr. Rhett759 Padberg411, Dr. Rhett759 Padberg411
+
+================================================================================
+END OF TIMELINE (239 events)
+================================================================================

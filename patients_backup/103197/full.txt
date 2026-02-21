@@ -1,0 +1,107 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Mrs. Margery365 Jeanene972 Ankunding277
+  Patient ID: 103197
+  Date of Birth: 1984-11-27
+  Gender: Female
+  Race: White
+  Ethnicity: Not Hispanic or Latino
+  Marital Status: Married
+  Address: 500 Baumbach Harbor, Falmouth, MA 02540
+  Phone: 555-382-6104
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2019-02-12
+
+  [16:46:38] VISIT: General examination of patient (procedure)
+    Provider: Dr. Damian46 Hansen121
+    Location: COMMUNITY HEALTH CENTER OF CAPE COD, INC.
+    Duration: 16:46:38 - 17:01:38
+
+  [16:46:38] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [16:46:38] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-02-12
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Margery365 Jeanene972 is a 34 year-old nonhispanic white female.
+      # Social History
+
+  [16:46:38] DOCUMENT: History and physical note
+    Status: superseded
+
+  [17:01:38] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2022-02-15
+
+  [16:46:38] VISIT: General examination of patient (procedure)
+    Provider: Dr. Damian46 Hansen121
+    Location: COMMUNITY HEALTH CENTER OF CAPE COD, INC.
+    Duration: 16:46:38 - 17:01:38
+
+  [16:46:38] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [16:46:38] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-02-15
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Margery365 Jeanene972 is a 37 year-old nonhispanic white female.
+      # Social History
+
+  [16:46:38] DOCUMENT: History and physical note
+    Status: superseded
+
+  [17:01:38] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2024-12-03
+
+  [16:46:38] VISIT: General examination of patient (procedure)
+    Provider: Dr. Damian46 Hansen121
+    Location: COMMUNITY HEALTH CENTER OF CAPE COD, INC.
+    Duration: 16:46:38 - 17:01:38
+
+  [16:46:38] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [16:46:38] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [16:46:38] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-12-03
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Margery365 Jeanene972 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [16:46:38] DOCUMENT: History and physical note
+    Status: current
+
+  [17:01:38] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2026-02-10
+
+  [16:46:38] PROVENANCE: Record activity
+    Agents: Dr. Damian46 Hansen121, Dr. Damian46 Hansen121
+
+================================================================================
+END OF TIMELINE (17 events)
+================================================================================

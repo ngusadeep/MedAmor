@@ -1,0 +1,210 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Mrs. Richelle340 Wiegand701
+  Patient ID: 116197
+  Date of Birth: 1977-08-13
+  Gender: Female
+  Race: White
+  Ethnicity: Not Hispanic or Latino
+  Marital Status: Married
+  Address: 489 Leuschke Flat, West Bridgewater, MA 00000
+  Phone: 555-843-1870
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2017-08-19
+
+  [22:10:42] VISIT: General examination of patient (procedure)
+    Provider: Dr. Ernest565 Runte676
+    Location: SIGNATURE HEALTHCARE MEDICAL GROUP INC
+    Duration: 22:10:42 - 22:25:42
+
+  [22:10:42] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [22:10:42] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [22:10:42] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-12-15
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Richelle340 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [22:10:42] DOCUMENT: History and physical note
+    Status: superseded
+
+  [22:25:42] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2019-08-24
+
+  [22:10:42] VISIT: General examination of patient (procedure)
+    Provider: Dr. Ernest565 Runte676
+    Location: SIGNATURE HEALTHCARE MEDICAL GROUP INC
+    Duration: 22:10:42 - 22:25:42
+
+  [22:10:42] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [22:10:42] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [22:10:42] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [22:10:42] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-12-20
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Richelle340 is a 42 year-old nonhispanic white female.
+      # Social History
+
+  [22:10:42] DOCUMENT: History and physical note
+    Status: superseded
+
+  [22:25:42] CLAIM: professional
+    Amount: USD 544.80
+
+
+📅 2021-08-28
+
+  [22:10:42] VISIT: General examination of patient (procedure)
+    Provider: Dr. Ernest565 Runte676
+    Location: SIGNATURE HEALTHCARE MEDICAL GROUP INC
+    Duration: 22:10:42 - 22:25:42
+
+  [22:10:42] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [22:10:42] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-12-24
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Richelle340 is a 44 year-old nonhispanic white female.
+      # Social History
+
+  [22:10:42] DOCUMENT: History and physical note
+    Status: superseded
+
+  [22:25:42] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2023-09-02
+
+  [22:10:42] VISIT: General examination of patient (procedure)
+    Provider: Dr. Ernest565 Runte676
+    Location: SIGNATURE HEALTHCARE MEDICAL GROUP INC
+    Duration: 22:10:42 - 22:25:42
+
+  [22:10:42] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [22:10:42] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-12-29
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Richelle340 is a 46 year-old nonhispanic white female.
+      # Social History
+
+  [22:10:42] DOCUMENT: History and physical note
+    Status: superseded
+
+  [22:25:42] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2025-09-06
+
+  [22:10:42] VISIT: General examination of patient (procedure)
+    Provider: Dr. Ernest565 Runte676
+    Location: SIGNATURE HEALTHCARE MEDICAL GROUP INC
+    Duration: 22:10:42 - 22:25:42
+
+  [22:10:42] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [22:10:42] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-01-02
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Richelle340 is a 48 year-old nonhispanic white female.
+      # Social History
+
+  [22:10:42] DOCUMENT: History and physical note
+    Status: superseded
+
+  [22:25:42] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2026-01-27
+
+  [23:10:42] VISIT: Periodic reevaluation and management of healthy individual (procedure)
+    Reason: Screening for malignant neoplasm of breast (procedure)
+    Provider: Dr. Almeda560 Okuneva707
+    Location: BRIGHAM & WOMENS HOSPITAL INC
+    Duration: 23:10:42 - 09:08:51
+
+  [23:10:42] PROCEDURE: Screening mammography (procedure)
+    Status: completed
+
+  [23:27:24] PROCEDURE: Ultrasonography of bilateral breasts (procedure)
+    Status: completed
+
+  [23:27:24] DIAGNOSTIC REPORT: MG Breast Screening
+    Content Preview:
+      SCREENING MAMMOGRAPHY REPORT
+      Patient: Richelle340 Wiegand701
+      Date: 2026-01-27
+      Facility: Brigham & Women's Hospital
+      CLINICAL HISTORY:
+      49-year-old female presenting for routine screening mammography. No prior breast complaints. No family history of breast cancer documented.
+      TECHNIQUE:
+
+  [23:27:24] OBSERVATION: Breast Imaging Reporting and Data System: BI-RADS Category 4 - Suspicious Abnormality
+
+  [23:27:24] OBSERVATION: Mammographic mass (finding): Mammographic mass identified in left breast
+
+  [23:27:24] DIAGNOSTIC REPORT: US Breast
+    Content Preview:
+      TARGETED BREAST ULTRASOUND REPORT
+      Patient: Richelle340 Wiegand701
+      Date: 2026-01-27
+      Facility: Brigham & Women's Hospital
+      CLINICAL INDICATION:
+      Targeted ultrasound evaluation of mammographically detected 1.2 cm irregular mass in the left breast upper outer quadrant.
+      TECHNIQUE:
+
+  [23:27:24] OBSERVATION: Breast ultrasound finding: Hypoechoic solid mass, left breast
+
+  [23:27:24] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2026-01-27
+      # Chief Complaint
+      No complaints. Patient presents for routine breast cancer screening.
+      # History of Present Illness
+      Richelle340 is a 49 year-old nonhispanic white female presenting for periodic health evaluation including breast cancer screening mammography.
+      # Social History
+      Patient is married. Patient has never smoked.
+
+================================================================================
+END OF TIMELINE (37 events)
+================================================================================

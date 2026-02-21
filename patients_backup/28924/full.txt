@@ -1,0 +1,315 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Mrs. Chun678 Hilpert278
+  Patient ID: 28924
+  Date of Birth: 1960-11-28
+  Gender: Female
+  Race: White
+  Ethnicity: Not Hispanic or Latino
+  Marital Status: Married
+  Address: 487 McClure Esplanade Suite 69, Cambridge, MA 02138
+  Phone: 555-995-4757
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2017-01-02
+
+  [22:10:30] VISIT: General examination of patient (procedure)
+    Provider: Dr. Rocky100 Schmeler639
+    Location: LONGFELLOW PRIMARY CARE, PC
+    Duration: 22:10:30 - 22:25:30
+
+  [22:10:30] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [22:10:30] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-01-02
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Chun678 is a 56 year-old nonhispanic white female.
+      # Social History
+
+  [22:10:30] DOCUMENT: History and physical note
+    Status: superseded
+
+  [22:25:30] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2018-01-08
+
+  [22:10:30] VISIT: General examination of patient (procedure)
+    Provider: Dr. Rocky100 Schmeler639
+    Location: LONGFELLOW PRIMARY CARE, PC
+    Duration: 22:10:30 - 22:25:30
+
+  [22:10:30] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [22:10:30] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-01-08
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Chun678 is a 57 year-old nonhispanic white female.
+      # Social History
+
+  [22:10:30] DOCUMENT: History and physical note
+    Status: superseded
+
+  [22:25:30] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2019-01-14
+
+  [22:10:30] VISIT: General examination of patient (procedure)
+    Provider: Dr. Rocky100 Schmeler639
+    Location: LONGFELLOW PRIMARY CARE, PC
+    Duration: 22:10:30 - 22:25:30
+
+  [22:10:30] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [22:10:30] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-01-14
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Chun678 is a 58 year-old nonhispanic white female.
+      # Social History
+
+  [22:10:30] DOCUMENT: History and physical note
+    Status: superseded
+
+  [22:25:30] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2020-01-20
+
+  [22:10:30] VISIT: General examination of patient (procedure)
+    Provider: Dr. Rocky100 Schmeler639
+    Location: LONGFELLOW PRIMARY CARE, PC
+    Duration: 22:10:30 - 22:25:30
+
+  [22:10:30] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [22:10:30] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-01-20
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Chun678 is a 59 year-old nonhispanic white female.
+      # Social History
+
+  [22:10:30] DOCUMENT: History and physical note
+    Status: superseded
+
+  [22:25:30] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2021-01-25
+
+  [22:10:30] VISIT: General examination of patient (procedure)
+    Provider: Dr. Rocky100 Schmeler639
+    Location: LONGFELLOW PRIMARY CARE, PC
+    Duration: 22:10:30 - 22:25:30
+
+  [22:10:30] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [22:10:30] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-01-25
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Chun678 is a 60 year-old nonhispanic white female.
+      # Social History
+
+  [22:10:30] DOCUMENT: History and physical note
+    Status: superseded
+
+  [22:25:30] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2021-03-01
+
+  [22:10:30] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Leopoldo762 Keebler762
+    Location: MOUNT AUBURN HOSPITAL
+    Duration: 22:10:30 - 22:25:30
+
+  [22:10:30] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+    Status: completed
+
+  [22:10:30] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-03-01
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Chun678 is a 60 year-old nonhispanic white female.
+      # Social History
+
+  [22:10:30] DOCUMENT: History and physical note
+    Status: superseded
+
+  [22:25:30] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-03-29
+
+  [23:10:30] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Leopoldo762 Keebler762
+    Location: MOUNT AUBURN HOSPITAL
+    Duration: 23:10:30 - 23:25:30
+
+  [23:10:30] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+    Status: completed
+
+  [23:10:30] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-03-29
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Chun678 is a 60 year-old nonhispanic white female.
+      # Social History
+
+  [23:10:30] DOCUMENT: History and physical note
+    Status: superseded
+
+  [23:25:30] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2022-01-31
+
+  [22:10:30] VISIT: General examination of patient (procedure)
+    Provider: Dr. Rocky100 Schmeler639
+    Location: LONGFELLOW PRIMARY CARE, PC
+    Duration: 22:10:30 - 22:25:30
+
+  [22:10:30] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [22:10:30] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [22:10:30] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-01-31
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Chun678 is a 61 year-old nonhispanic white female.
+      # Social History
+
+  [22:10:30] DOCUMENT: History and physical note
+    Status: superseded
+
+  [22:25:30] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2023-02-06
+
+  [22:10:30] VISIT: General examination of patient (procedure)
+    Provider: Dr. Rocky100 Schmeler639
+    Location: LONGFELLOW PRIMARY CARE, PC
+    Duration: 22:10:30 - 22:25:30
+
+  [22:10:30] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [22:10:30] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-02-06
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Chun678 is a 62 year-old nonhispanic white female.
+      # Social History
+
+  [22:10:30] DOCUMENT: History and physical note
+    Status: superseded
+
+  [22:25:30] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2024-02-12
+
+  [22:10:30] VISIT: General examination of patient (procedure)
+    Provider: Dr. Rocky100 Schmeler639
+    Location: LONGFELLOW PRIMARY CARE, PC
+    Duration: 22:10:30 - 22:25:30
+
+  [22:10:30] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [22:10:30] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-02-12
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Chun678 is a 63 year-old nonhispanic white female.
+      # Social History
+
+  [22:10:30] DOCUMENT: History and physical note
+    Status: superseded
+
+  [22:25:30] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2025-02-17
+
+  [22:10:30] VISIT: General examination of patient (procedure)
+    Provider: Dr. Rocky100 Schmeler639
+    Location: LONGFELLOW PRIMARY CARE, PC
+    Duration: 22:10:30 - 22:25:30
+
+  [22:10:30] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [22:10:30] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-02-17
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Chun678 is a 64 year-old nonhispanic white female.
+      # Social History
+
+  [22:10:30] DOCUMENT: History and physical note
+    Status: current
+
+  [22:25:30] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2026-02-09
+
+  [22:10:30] PROVENANCE: Record activity
+    Agents: Dr. Rocky100 Schmeler639, Dr. Rocky100 Schmeler639
+
+================================================================================
+END OF TIMELINE (57 events)
+================================================================================

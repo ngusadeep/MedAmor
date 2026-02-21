@@ -30,13 +30,14 @@ DOCUMENT_TYPES = (
 
 
 def _get_embeddings() -> Embeddings:
-    """Return embedding model: OpenAI text-embedding-3-small if configured, else FastEmbed bge-small."""
+    """Return embedding model: OpenAI if configured, else FastEmbed. Uses all-MiniLM-L6-v2 to avoid BGE ONNX download issues."""
     if settings.embedding_provider == "openai" and settings.openai_api_key:
         return OpenAIEmbeddings(
             model=settings.openai_embedding_model,
             openai_api_key=settings.openai_api_key,
         )
-    return FastEmbedEmbeddings(model_name="BAAI/bge-small-en-v1.5")
+    # Use all-MiniLM-L6-v2 — BAAI/bge-small-en-v1.5 can fail with missing model_optimized.onnx (Qdrant ONNX variant)
+    return FastEmbedEmbeddings(model_name="sentence-transformers/all-MiniLM-L6-v2")
 
 
 def _get_chroma_persist_dir() -> Path:
@@ -250,7 +251,7 @@ def retrieve_with_patient_context(
 
         bundle = get_patient_bundle(patient_id, export_type)
         if bundle and bundle.ehr_text:
-            patient_ehr_excerpt = bundle.ehr_text[:20000]
+            patient_ehr_excerpt = bundle.ehr_text
     return {
         "query": query,
         "kb_chunks": kb_chunks,

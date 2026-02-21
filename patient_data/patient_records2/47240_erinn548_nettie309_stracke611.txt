@@ -1,0 +1,321 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Ms. Erinn548 Nettie309 Stracke611
+  Patient ID: 47240
+  Date of Birth: 1967-07-28
+  Gender: Female
+  Race: Asian
+  Ethnicity: Not Hispanic or Latino
+  Marital Status: Never Married
+  Address: 317 Schmidt Port Unit 58, Medfield, MA 02052
+  Phone: 555-589-2683
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2017-07-28
+
+  [04:30:24] VISIT: General examination of patient (procedure)
+    Provider: Dr. Zachery872 Rau926
+    Location: WALPOLE MEDICAL CENTER, PC
+    Duration: 04:30:24 - 04:45:24
+
+  [04:30:24] IMMUNIZATION: zoster vaccine, live
+    Status: completed
+
+  [04:30:24] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [04:30:24] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-07-28
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Erinn548 is a 50 year-old nonhispanic asian female.
+      # Social History
+
+  [04:30:24] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:45:24] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2018-08-03
+
+  [04:30:24] VISIT: General examination of patient (procedure)
+    Provider: Dr. Zachery872 Rau926
+    Location: WALPOLE MEDICAL CENTER, PC
+    Duration: 04:30:24 - 04:45:24
+
+  [04:30:24] IMMUNIZATION: zoster vaccine, live
+    Status: completed
+
+  [04:30:24] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [04:30:24] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [04:30:24] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-08-03
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Erinn548 is a 51 year-old nonhispanic asian female.
+      # Social History
+
+  [04:30:24] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:45:24] CLAIM: professional
+    Amount: USD 544.80
+
+
+📅 2019-08-09
+
+  [04:30:24] VISIT: General examination of patient (procedure)
+    Provider: Dr. Zachery872 Rau926
+    Location: WALPOLE MEDICAL CENTER, PC
+    Duration: 04:30:24 - 04:45:24
+
+  [04:30:24] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [04:30:24] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-08-09
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Erinn548 is a 52 year-old nonhispanic asian female.
+      # Social History
+
+  [04:30:24] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:45:24] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2020-08-14
+
+  [04:30:24] VISIT: General examination of patient (procedure)
+    Provider: Dr. Zachery872 Rau926
+    Location: WALPOLE MEDICAL CENTER, PC
+    Duration: 04:30:24 - 04:45:24
+
+  [04:30:24] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [04:30:24] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-08-14
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Erinn548 is a 53 year-old nonhispanic asian female.
+      # Social History
+
+  [04:30:24] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:45:24] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2021-04-30
+
+  [04:30:24] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Gerry91 Block661
+    Location: VHS ACQUISITION SUBSIDIARY NUMBER 9, INC.
+    Duration: 04:30:24 - 04:45:24
+
+  [04:30:24] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 30 mcg/0.3 mL dose
+    Status: completed
+
+  [04:30:24] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-04-30
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Erinn548 is a 53 year-old nonhispanic asian female.
+      # Social History
+
+  [04:30:24] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:45:24] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-05-21
+
+  [04:30:24] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Gerry91 Block661
+    Location: VHS ACQUISITION SUBSIDIARY NUMBER 9, INC.
+    Duration: 04:30:24 - 04:45:24
+
+  [04:30:24] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 30 mcg/0.3 mL dose
+    Status: completed
+
+  [04:30:24] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-05-21
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Erinn548 is a 53 year-old nonhispanic asian female.
+      # Social History
+
+  [04:30:24] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:45:24] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-08-20
+
+  [04:30:24] VISIT: General examination of patient (procedure)
+    Provider: Dr. Zachery872 Rau926
+    Location: WALPOLE MEDICAL CENTER, PC
+    Duration: 04:30:24 - 04:45:24
+
+  [04:30:24] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [04:30:24] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-08-20
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Erinn548 is a 54 year-old nonhispanic asian female.
+      # Social History
+
+  [04:30:24] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:45:24] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2022-08-26
+
+  [04:30:24] VISIT: General examination of patient (procedure)
+    Provider: Dr. Zachery872 Rau926
+    Location: WALPOLE MEDICAL CENTER, PC
+    Duration: 04:30:24 - 04:45:24
+
+  [04:30:24] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [04:30:24] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-08-26
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Erinn548 is a 55 year-old nonhispanic asian female.
+      # Social History
+
+  [04:30:24] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:45:24] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2023-09-01
+
+  [04:30:24] VISIT: General examination of patient (procedure)
+    Provider: Dr. Zachery872 Rau926
+    Location: WALPOLE MEDICAL CENTER, PC
+    Duration: 04:30:24 - 04:45:24
+
+  [04:30:24] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [04:30:24] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-09-01
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Erinn548 is a 56 year-old nonhispanic asian female.
+      # Social History
+
+  [04:30:24] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:45:24] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2024-09-06
+
+  [04:30:24] VISIT: General examination of patient (procedure)
+    Provider: Dr. Zachery872 Rau926
+    Location: WALPOLE MEDICAL CENTER, PC
+    Duration: 04:30:24 - 04:45:24
+
+  [04:30:24] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [04:30:24] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-09-06
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Erinn548 is a 57 year-old nonhispanic asian female.
+      # Social History
+
+  [04:30:24] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:45:24] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2025-09-12
+
+  [04:30:24] VISIT: General examination of patient (procedure)
+    Provider: Dr. Zachery872 Rau926
+    Location: WALPOLE MEDICAL CENTER, PC
+    Duration: 04:30:24 - 04:45:24
+
+  [04:30:24] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [04:30:24] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-09-12
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Erinn548 is a 58 year-old nonhispanic asian female.
+      # Social History
+
+  [04:30:24] DOCUMENT: History and physical note
+    Status: current
+
+  [04:45:24] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2026-02-13
+
+  [03:30:24] PROVENANCE: Record activity
+    Agents: Dr. Zachery872 Rau926, Dr. Zachery872 Rau926
+
+================================================================================
+END OF TIMELINE (59 events)
+================================================================================

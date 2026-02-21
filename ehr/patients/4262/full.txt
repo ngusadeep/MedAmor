@@ -1,0 +1,191 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Mrs. Agustina460 Victoria535 Wehner319
+  Patient ID: 4262
+  Date of Birth: 1982-10-16
+  Gender: Female
+  Race: Black or African American
+  Ethnicity: Not Hispanic or Latino
+  Marital Status: Divorced
+  Address: 351 Emmerich View, Easton, MA 00000
+  Phone: 555-216-7446
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2016-12-31
+
+  [18:50:56] VISIT: General examination of patient (procedure)
+    Provider: Dr. Marchelle563 Hettinger594
+    Location: TRINITY FAMILY MEDICINE
+    Duration: 18:50:56 - 19:05:56
+
+  [18:50:56] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [18:50:56] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-12-31
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Agustina460 Victoria535 is a 34 year-old nonhispanic black female.
+      # Social History
+
+  [18:50:56] DOCUMENT: History and physical note
+    Status: superseded
+
+  [19:05:56] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2020-01-04
+
+  [18:50:56] VISIT: General examination of patient (procedure)
+    Provider: Dr. Marchelle563 Hettinger594
+    Location: TRINITY FAMILY MEDICINE
+    Duration: 18:50:56 - 19:05:56
+
+  [18:50:56] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [18:50:56] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-01-04
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Agustina460 Victoria535 is a 37 year-old nonhispanic black female.
+      # Social History
+
+  [18:50:56] DOCUMENT: History and physical note
+    Status: superseded
+
+  [19:05:56] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2021-04-17
+
+  [19:50:56] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Victoria535 Delvalle807
+    Location: CURAHEALTH STOUGHTON LLC
+    Duration: 19:50:56 - 20:05:56
+
+  [19:50:56] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+    Status: completed
+
+  [19:50:56] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-04-17
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Agustina460 Victoria535 is a 38 year-old nonhispanic black female.
+      # Social History
+
+  [19:50:56] DOCUMENT: History and physical note
+    Status: superseded
+
+  [20:05:56] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-05-15
+
+  [19:50:56] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Victoria535 Delvalle807
+    Location: CURAHEALTH STOUGHTON LLC
+    Duration: 19:50:56 - 20:05:56
+
+  [19:50:56] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+    Status: completed
+
+  [19:50:56] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-05-15
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Agustina460 Victoria535 is a 38 year-old nonhispanic black female.
+      # Social History
+
+  [19:50:56] DOCUMENT: History and physical note
+    Status: superseded
+
+  [20:05:56] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2022-10-22
+
+  [19:50:56] VISIT: General examination of patient (procedure)
+    Provider: Dr. Marchelle563 Hettinger594
+    Location: TRINITY FAMILY MEDICINE
+    Duration: 19:50:56 - 20:05:56
+
+  [19:50:56] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [19:50:56] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [19:50:56] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-10-22
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Agustina460 Victoria535 is a 40 year-old nonhispanic black female.
+      # Social History
+
+  [19:50:56] DOCUMENT: History and physical note
+    Status: superseded
+
+  [20:05:56] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2024-10-26
+
+  [19:50:56] VISIT: General examination of patient (procedure)
+    Provider: Dr. Marchelle563 Hettinger594
+    Location: TRINITY FAMILY MEDICINE
+    Duration: 19:50:56 - 20:05:56
+
+  [19:50:56] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [19:50:56] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [19:50:56] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [19:50:56] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-10-26
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Agustina460 Victoria535 is a 42 year-old nonhispanic black female.
+      # Social History
+
+  [19:50:56] DOCUMENT: History and physical note
+    Status: current
+
+  [20:05:56] CLAIM: professional
+    Amount: USD 544.80
+
+
+📅 2026-02-14
+
+  [18:50:56] PROVENANCE: Record activity
+    Agents: Dr. Marchelle563 Hettinger594, Dr. Marchelle563 Hettinger594
+
+================================================================================
+END OF TIMELINE (34 events)
+================================================================================

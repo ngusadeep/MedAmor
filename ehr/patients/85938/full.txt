@@ -1,0 +1,272 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Mrs. Lacie818 Anh979 Dickinson688
+  Patient ID: 85938
+  Date of Birth: 1969-02-22
+  Gender: Female
+  Race: White
+  Ethnicity: Not Hispanic or Latino
+  Marital Status: Married
+  Address: 229 Wilkinson Green Apt 97, Braintree, MA 02184
+  Phone: 555-191-3687
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2017-03-18
+
+  [16:26:21] VISIT: General examination of patient (procedure)
+    Provider: Dr. Josh874 Feil794
+    Location: ENRICH WELLNESS HEALTH CENTER LLC
+    Duration: 16:26:21 - 16:41:21
+
+  [16:26:21] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [16:26:21] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-03-18
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lacie818 Anh979 is a 48 year-old nonhispanic white female.
+      # Social History
+
+  [16:26:21] DOCUMENT: History and physical note
+    Status: superseded
+
+  [16:41:21] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2019-02-23
+
+  [15:26:21] VISIT: General examination of patient (procedure)
+    Provider: Dr. Josh874 Feil794
+    Location: ENRICH WELLNESS HEALTH CENTER LLC
+    Duration: 15:26:21 - 15:41:21
+
+  [15:26:21] IMMUNIZATION: zoster vaccine, live
+    Status: completed
+
+  [15:26:21] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [15:26:21] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-02-23
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lacie818 Anh979 is a 50 year-old nonhispanic white female.
+      # Social History
+
+  [15:26:21] DOCUMENT: History and physical note
+    Status: superseded
+
+  [15:41:21] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2020-02-29
+
+  [15:26:21] VISIT: General examination of patient (procedure)
+    Provider: Dr. Josh874 Feil794
+    Location: ENRICH WELLNESS HEALTH CENTER LLC
+    Duration: 15:26:21 - 15:41:21
+
+  [15:26:21] IMMUNIZATION: zoster vaccine, live
+    Status: completed
+
+  [15:26:21] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [15:26:21] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [15:26:21] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-02-29
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lacie818 Anh979 is a 51 year-old nonhispanic white female.
+      # Social History
+
+  [15:26:21] DOCUMENT: History and physical note
+    Status: superseded
+
+  [15:41:21] CLAIM: professional
+    Amount: USD 544.80
+
+
+📅 2021-03-06
+
+  [15:26:21] VISIT: General examination of patient (procedure)
+    Provider: Dr. Josh874 Feil794
+    Location: ENRICH WELLNESS HEALTH CENTER LLC
+    Duration: 15:26:21 - 15:41:21
+
+  [15:26:21] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [15:26:21] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 30 mcg/0.3 mL dose
+    Status: completed
+
+  [15:26:21] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-03-06
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lacie818 Anh979 is a 52 year-old nonhispanic white female.
+      # Social History
+
+  [15:26:21] DOCUMENT: History and physical note
+    Status: superseded
+
+  [15:41:21] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2021-03-27
+
+  [16:26:21] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Andrés117 Nájera755
+    Location: NEW ENGLAND SINAI HOSPITAL
+    Duration: 16:26:21 - 16:41:21
+
+  [16:26:21] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 30 mcg/0.3 mL dose
+    Status: completed
+
+  [16:26:21] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-03-27
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lacie818 Anh979 is a 52 year-old nonhispanic white female.
+      # Social History
+
+  [16:26:21] DOCUMENT: History and physical note
+    Status: superseded
+
+  [16:41:21] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2022-03-12
+
+  [15:26:21] VISIT: General examination of patient (procedure)
+    Provider: Dr. Josh874 Feil794
+    Location: ENRICH WELLNESS HEALTH CENTER LLC
+    Duration: 15:26:21 - 15:41:21
+
+  [15:26:21] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [15:26:21] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-03-12
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lacie818 Anh979 is a 53 year-old nonhispanic white female.
+      # Social History
+
+  [15:26:21] DOCUMENT: History and physical note
+    Status: superseded
+
+  [15:41:21] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2023-03-18
+
+  [16:26:21] VISIT: General examination of patient (procedure)
+    Provider: Dr. Josh874 Feil794
+    Location: ENRICH WELLNESS HEALTH CENTER LLC
+    Duration: 16:26:21 - 16:41:21
+
+  [16:26:21] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [16:26:21] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-03-18
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lacie818 Anh979 is a 54 year-old nonhispanic white female.
+      # Social History
+
+  [16:26:21] DOCUMENT: History and physical note
+    Status: superseded
+
+  [16:41:21] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2024-03-23
+
+  [16:26:21] VISIT: General examination of patient (procedure)
+    Provider: Dr. Josh874 Feil794
+    Location: ENRICH WELLNESS HEALTH CENTER LLC
+    Duration: 16:26:21 - 16:41:21
+
+  [16:26:21] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [16:26:21] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-03-23
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lacie818 Anh979 is a 55 year-old nonhispanic white female.
+      # Social History
+
+  [16:26:21] DOCUMENT: History and physical note
+    Status: superseded
+
+  [16:41:21] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2025-03-29
+
+  [16:26:21] VISIT: General examination of patient (procedure)
+    Provider: Dr. Josh874 Feil794
+    Location: ENRICH WELLNESS HEALTH CENTER LLC
+    Duration: 16:26:21 - 16:41:21
+
+  [16:26:21] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [16:26:21] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-03-29
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lacie818 Anh979 is a 56 year-old nonhispanic white female.
+      # Social History
+
+  [16:26:21] DOCUMENT: History and physical note
+    Status: current
+
+  [16:41:21] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2026-02-14
+
+  [15:26:21] PROVENANCE: Record activity
+    Agents: Dr. Josh874 Feil794, Dr. Josh874 Feil794
+
+================================================================================
+END OF TIMELINE (50 events)
+================================================================================

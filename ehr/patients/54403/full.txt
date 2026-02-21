@@ -1,0 +1,1237 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Ms. Gene733 Kassandra256 Wuckert783
+  Patient ID: 54403
+  Date of Birth: 1958-09-12
+  Gender: Female
+  Race: White
+  Ethnicity: Not Hispanic or Latino
+  Marital Status: Never Married
+  Address: 512 Grimes Key, Blackstone, MA 00000
+  Phone: 555-949-4215
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 1977-05-30
+
+  [07:31:44] VISIT: Periodic reevaluation and management of healthy individual (procedure)
+    Reason: Screening for malignant neoplasm of breast (procedure)
+    Provider: Dr. Bennett146 Rippin620
+    Location: MILFORD REGIONAL MEDICAL CENTER
+    Duration: 07:31:44 - 08:40:32
+
+  [07:31:44] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      1977-05-30
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Gene733 is a 18 year-old nonhispanic white female.
+      # Social History
+
+  [07:31:44] DOCUMENT: History and physical note
+    Status: superseded
+
+  [08:48:32] CONDITION: Malignant neoplasm of breast (disorder) (active)
+
+
+📅 1977-06-01
+
+  [08:40:32] CLAIM: professional
+    Amount: USD 6564.16
+
+
+📅 2016-03-03
+
+  [20:38:35] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Bennett146 Rippin620
+    Location: MILFORD REGIONAL MEDICAL CENTER
+    Duration: 20:38:35 - 21:18:10
+
+  [20:38:35] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [20:38:35] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-03-03
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Gene733 is a 57 year-old nonhispanic white female.
+      # Social History
+
+  [20:38:35] DOCUMENT: History and physical note
+    Status: superseded
+
+  [21:18:10] CLAIM: professional
+    Amount: USD 573.98
+
+  [21:18:10] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Bennett146 Rippin620
+    Location: MILFORD REGIONAL MEDICAL CENTER
+    Duration: 21:18:10 - 21:38:58
+
+  [21:18:10] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [21:18:10] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-03-03
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Gene733 is a 57 year-old nonhispanic white female.
+      # Social History
+
+  [21:18:10] DOCUMENT: History and physical note
+    Status: superseded
+
+  [21:38:58] CLAIM: professional
+    Amount: USD 288.27
+
+  [21:38:58] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Bennett146 Rippin620
+    Location: MILFORD REGIONAL MEDICAL CENTER
+    Duration: 21:38:58 - 22:13:25
+
+  [21:38:58] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [21:38:58] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-03-03
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Gene733 is a 57 year-old nonhispanic white female.
+      # Social History
+
+  [21:38:58] DOCUMENT: History and physical note
+    Status: superseded
+
+  [21:53:40] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [22:13:25] CLAIM: professional
+    Amount: USD 2325.32
+
+
+📅 2016-10-28
+
+  [07:31:44] VISIT: General examination of patient (procedure)
+    Provider: Dr. Phillip440 Kunze215
+    Location: EDWARD M KENNEDY COMMUNITY HEALTH CENTER INC
+    Duration: 07:31:44 - 07:46:44
+
+  [07:31:44] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [07:31:44] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-10-28
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Gene733 is a 58 year-old nonhispanic white female.
+      # Social History
+
+  [07:31:44] DOCUMENT: History and physical note
+    Status: superseded
+
+  [07:46:44] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2017-02-12
+
+  [22:13:25] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Bennett146 Rippin620
+    Location: MILFORD REGIONAL MEDICAL CENTER
+    Duration: 22:13:25 - 22:43:28
+
+  [22:13:25] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [22:13:25] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-02-12
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Gene733 is a 58 year-old nonhispanic white female.
+      # Social History
+
+  [22:13:25] DOCUMENT: History and physical note
+    Status: superseded
+
+  [22:43:28] CLAIM: professional
+    Amount: USD 573.98
+
+  [22:43:28] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Bennett146 Rippin620
+    Location: MILFORD REGIONAL MEDICAL CENTER
+    Duration: 22:43:28 - 23:04:26
+
+  [22:43:28] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [22:43:28] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-02-12
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Gene733 is a 58 year-old nonhispanic white female.
+      # Social History
+
+  [22:43:28] DOCUMENT: History and physical note
+    Status: superseded
+
+  [23:04:26] CLAIM: professional
+    Amount: USD 224.22
+
+  [23:04:26] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Bennett146 Rippin620
+    Location: MILFORD REGIONAL MEDICAL CENTER
+    Duration: 23:04:26 - 23:31:43
+
+  [23:04:26] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [23:04:26] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-02-12
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Gene733 is a 58 year-old nonhispanic white female.
+      # Social History
+
+  [23:04:26] DOCUMENT: History and physical note
+    Status: superseded
+
+  [23:14:46] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [23:31:43] CLAIM: professional
+    Amount: USD 1289.65
+
+
+📅 2017-11-03
+
+  [07:31:44] VISIT: General examination of patient (procedure)
+    Provider: Dr. Phillip440 Kunze215
+    Location: EDWARD M KENNEDY COMMUNITY HEALTH CENTER INC
+    Duration: 07:31:44 - 07:46:44
+
+  [07:31:44] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [07:31:44] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-11-03
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Gene733 is a 59 year-old nonhispanic white female.
+      # Social History
+
+  [07:31:44] DOCUMENT: History and physical note
+    Status: superseded
+
+  [07:46:44] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2018-01-08
+
+  [23:31:43] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Bennett146 Rippin620
+    Location: MILFORD REGIONAL MEDICAL CENTER
+    Duration: 23:31:43 - 00:05:03
+
+  [23:31:43] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [23:31:43] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-01-08
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Gene733 is a 59 year-old nonhispanic white female.
+      # Social History
+
+  [23:31:43] DOCUMENT: History and physical note
+    Status: superseded
+
+
+📅 2018-01-09
+
+  [00:05:03] CLAIM: professional
+    Amount: USD 573.98
+
+  [00:05:03] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Bennett146 Rippin620
+    Location: MILFORD REGIONAL MEDICAL CENTER
+    Duration: 00:05:03 - 00:23:29
+
+  [00:05:03] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [00:05:03] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-01-09
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Gene733 is a 59 year-old nonhispanic white female.
+      # Social History
+
+  [00:05:03] DOCUMENT: History and physical note
+    Status: superseded
+
+  [00:23:29] CLAIM: professional
+    Amount: USD 325.49
+
+  [00:23:29] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Bennett146 Rippin620
+    Location: MILFORD REGIONAL MEDICAL CENTER
+    Duration: 00:23:29 - 00:50:56
+
+  [00:23:29] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [00:23:29] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-01-09
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Gene733 is a 59 year-old nonhispanic white female.
+      # Social History
+
+  [00:23:29] DOCUMENT: History and physical note
+    Status: superseded
+
+  [00:37:40] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [00:50:56] CLAIM: professional
+    Amount: USD 3680.06
+
+
+📅 2018-11-09
+
+  [06:31:44] VISIT: General examination of patient (procedure)
+    Provider: Dr. Phillip440 Kunze215
+    Location: EDWARD M KENNEDY COMMUNITY HEALTH CENTER INC
+    Duration: 06:31:44 - 06:46:44
+
+  [06:31:44] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [06:31:44] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-11-09
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Gene733 is a 60 year-old nonhispanic white female.
+      # Social History
+
+  [06:31:44] DOCUMENT: History and physical note
+    Status: superseded
+
+  [06:46:44] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2018-12-17
+
+  [00:50:56] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Bennett146 Rippin620
+    Location: MILFORD REGIONAL MEDICAL CENTER
+    Duration: 00:50:56 - 01:23:39
+
+  [00:50:56] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [00:50:56] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-12-17
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Gene733 is a 60 year-old nonhispanic white female.
+      # Social History
+
+  [00:50:56] DOCUMENT: History and physical note
+    Status: superseded
+
+  [01:23:39] CLAIM: professional
+    Amount: USD 573.98
+
+  [01:23:39] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Bennett146 Rippin620
+    Location: MILFORD REGIONAL MEDICAL CENTER
+    Duration: 01:23:39 - 01:40:34
+
+  [01:23:39] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [01:23:39] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-12-17
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Gene733 is a 60 year-old nonhispanic white female.
+      # Social History
+
+  [01:23:39] DOCUMENT: History and physical note
+    Status: superseded
+
+  [01:40:34] CLAIM: professional
+    Amount: USD 211.60
+
+  [01:40:34] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Bennett146 Rippin620
+    Location: MILFORD REGIONAL MEDICAL CENTER
+    Duration: 01:40:34 - 02:11:36
+
+  [01:40:34] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [01:40:34] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-12-17
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Gene733 is a 60 year-old nonhispanic white female.
+      # Social History
+
+  [01:40:34] DOCUMENT: History and physical note
+    Status: superseded
+
+  [01:54:12] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [02:11:36] CLAIM: professional
+    Amount: USD 3004.16
+
+
+📅 2019-11-15
+
+  [06:31:44] VISIT: General examination of patient (procedure)
+    Provider: Dr. Phillip440 Kunze215
+    Location: EDWARD M KENNEDY COMMUNITY HEALTH CENTER INC
+    Duration: 06:31:44 - 06:46:44
+
+  [06:31:44] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [06:31:44] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [06:31:44] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-11-15
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Gene733 is a 61 year-old nonhispanic white female.
+      # Social History
+
+  [06:31:44] DOCUMENT: History and physical note
+    Status: superseded
+
+  [06:46:44] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2019-11-20
+
+  [02:11:36] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Bennett146 Rippin620
+    Location: MILFORD REGIONAL MEDICAL CENTER
+    Duration: 02:11:36 - 02:41:50
+
+  [02:11:36] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [02:11:36] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-11-20
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Gene733 is a 61 year-old nonhispanic white female.
+      # Social History
+
+  [02:11:36] DOCUMENT: History and physical note
+    Status: superseded
+
+  [02:41:50] CLAIM: professional
+    Amount: USD 573.98
+
+  [02:41:50] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Bennett146 Rippin620
+    Location: MILFORD REGIONAL MEDICAL CENTER
+    Duration: 02:41:50 - 02:57:36
+
+  [02:41:50] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [02:41:50] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-11-20
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Gene733 is a 61 year-old nonhispanic white female.
+      # Social History
+
+  [02:41:50] DOCUMENT: History and physical note
+    Status: superseded
+
+  [02:57:36] CLAIM: professional
+    Amount: USD 252.89
+
+  [02:57:36] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Bennett146 Rippin620
+    Location: MILFORD REGIONAL MEDICAL CENTER
+    Duration: 02:57:36 - 03:21:54
+
+  [02:57:36] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [02:57:36] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-11-20
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Gene733 is a 61 year-old nonhispanic white female.
+      # Social History
+
+  [02:57:36] DOCUMENT: History and physical note
+    Status: superseded
+
+  [03:08:58] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [03:21:54] CLAIM: professional
+    Amount: USD 1105.98
+
+
+📅 2020-11-01
+
+  [03:21:54] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Bennett146 Rippin620
+    Location: MILFORD REGIONAL MEDICAL CENTER
+    Duration: 03:21:54 - 04:02:18
+
+  [03:21:54] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [03:21:54] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-11-01
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Gene733 is a 62 year-old nonhispanic white female.
+      # Social History
+
+  [03:21:54] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:02:18] CLAIM: professional
+    Amount: USD 573.98
+
+  [04:02:18] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Bennett146 Rippin620
+    Location: MILFORD REGIONAL MEDICAL CENTER
+    Duration: 04:02:18 - 04:19:21
+
+  [04:02:18] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [04:02:18] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-11-01
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Gene733 is a 62 year-old nonhispanic white female.
+      # Social History
+
+  [04:02:18] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:19:21] CLAIM: professional
+    Amount: USD 216.99
+
+  [04:19:21] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Bennett146 Rippin620
+    Location: MILFORD REGIONAL MEDICAL CENTER
+    Duration: 04:19:21 - 04:42:07
+
+  [04:19:21] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [04:19:21] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-11-01
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Gene733 is a 62 year-old nonhispanic white female.
+      # Social History
+
+  [04:19:21] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:30:20] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [04:42:07] CLAIM: professional
+    Amount: USD 2748.75
+
+
+📅 2020-11-20
+
+  [06:31:44] VISIT: General examination of patient (procedure)
+    Provider: Dr. Phillip440 Kunze215
+    Location: EDWARD M KENNEDY COMMUNITY HEALTH CENTER INC
+    Duration: 06:31:44 - 06:46:44
+
+  [06:31:44] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [06:31:44] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-11-20
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Gene733 is a 62 year-old nonhispanic white female.
+      # Social History
+
+  [06:31:44] DOCUMENT: History and physical note
+    Status: superseded
+
+  [06:46:44] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2021-04-23
+
+  [07:31:44] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Bennett146 Rippin620
+    Location: MILFORD REGIONAL MEDICAL CENTER
+    Duration: 07:31:44 - 07:46:44
+
+  [07:31:44] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+    Status: completed
+
+  [07:31:44] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-04-23
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Gene733 is a 62 year-old nonhispanic white female.
+      # Social History
+
+  [07:31:44] DOCUMENT: History and physical note
+    Status: superseded
+
+  [07:46:44] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-05-21
+
+  [07:31:44] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Bennett146 Rippin620
+    Location: MILFORD REGIONAL MEDICAL CENTER
+    Duration: 07:31:44 - 07:46:44
+
+  [07:31:44] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+    Status: completed
+
+  [07:31:44] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-05-21
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Gene733 is a 62 year-old nonhispanic white female.
+      # Social History
+
+  [07:31:44] DOCUMENT: History and physical note
+    Status: superseded
+
+  [07:46:44] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-11-26
+
+  [06:31:44] VISIT: General examination of patient (procedure)
+    Provider: Dr. Phillip440 Kunze215
+    Location: EDWARD M KENNEDY COMMUNITY HEALTH CENTER INC
+    Duration: 06:31:44 - 06:46:44
+
+  [06:31:44] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [06:31:44] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-11-26
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Gene733 is a 63 year-old nonhispanic white female.
+      # Social History
+
+  [06:31:44] DOCUMENT: History and physical note
+    Status: superseded
+
+  [06:46:44] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2021-12-03
+
+  [06:31:44] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Bennett146 Rippin620
+    Location: MILFORD REGIONAL MEDICAL CENTER
+    Duration: 06:31:44 - 07:11:31
+
+  [06:31:44] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [06:31:44] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-12-03
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Gene733 is a 63 year-old nonhispanic white female.
+      # Social History
+
+  [06:31:44] DOCUMENT: History and physical note
+    Status: superseded
+
+  [07:11:31] CLAIM: professional
+    Amount: USD 573.98
+
+  [07:11:31] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Bennett146 Rippin620
+    Location: MILFORD REGIONAL MEDICAL CENTER
+    Duration: 07:11:31 - 07:32:24
+
+  [07:11:31] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [07:11:31] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-12-03
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Gene733 is a 63 year-old nonhispanic white female.
+      # Social History
+
+  [07:11:31] DOCUMENT: History and physical note
+    Status: superseded
+
+  [07:32:24] CLAIM: professional
+    Amount: USD 325.49
+
+  [07:32:24] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Bennett146 Rippin620
+    Location: MILFORD REGIONAL MEDICAL CENTER
+    Duration: 07:32:24 - 07:57:26
+
+  [07:32:24] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [07:32:24] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-12-03
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Gene733 is a 63 year-old nonhispanic white female.
+      # Social History
+
+  [07:32:24] DOCUMENT: History and physical note
+    Status: superseded
+
+  [07:43:41] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [07:57:26] CLAIM: professional
+    Amount: USD 3712.44
+
+
+📅 2022-12-02
+
+  [06:31:44] VISIT: General examination of patient (procedure)
+    Provider: Dr. Phillip440 Kunze215
+    Location: EDWARD M KENNEDY COMMUNITY HEALTH CENTER INC
+    Duration: 06:31:44 - 06:46:44
+
+  [06:31:44] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [06:31:44] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-12-02
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Gene733 is a 64 year-old nonhispanic white female.
+      # Social History
+
+  [06:31:44] DOCUMENT: History and physical note
+    Status: superseded
+
+  [06:46:44] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2022-12-15
+
+  [07:57:26] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Bennett146 Rippin620
+    Location: MILFORD REGIONAL MEDICAL CENTER
+    Duration: 07:57:26 - 08:38:19
+
+  [07:57:26] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [07:57:26] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-12-15
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Gene733 is a 64 year-old nonhispanic white female.
+      # Social History
+
+  [07:57:26] DOCUMENT: History and physical note
+    Status: superseded
+
+  [08:38:19] CLAIM: professional
+    Amount: USD 573.98
+
+  [08:38:19] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Bennett146 Rippin620
+    Location: MILFORD REGIONAL MEDICAL CENTER
+    Duration: 08:38:19 - 08:55:42
+
+  [08:38:19] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [08:38:19] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-12-15
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Gene733 is a 64 year-old nonhispanic white female.
+      # Social History
+
+  [08:38:19] DOCUMENT: History and physical note
+    Status: superseded
+
+  [08:55:42] CLAIM: professional
+    Amount: USD 264.27
+
+  [08:55:42] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Bennett146 Rippin620
+    Location: MILFORD REGIONAL MEDICAL CENTER
+    Duration: 08:55:42 - 09:23:55
+
+  [08:55:42] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [08:55:42] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-12-15
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Gene733 is a 64 year-old nonhispanic white female.
+      # Social History
+
+  [08:55:42] DOCUMENT: History and physical note
+    Status: superseded
+
+  [09:10:05] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [09:23:55] CLAIM: professional
+    Amount: USD 1091.66
+
+
+📅 2023-12-08
+
+  [06:31:44] VISIT: General examination of patient (procedure)
+    Provider: Dr. Phillip440 Kunze215
+    Location: EDWARD M KENNEDY COMMUNITY HEALTH CENTER INC
+    Duration: 06:31:44 - 06:46:44
+
+  [06:31:44] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [06:31:44] IMMUNIZATION: Pneumococcal conjugate PCV 13
+    Status: completed
+
+  [06:31:44] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-12-08
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Gene733 is a 65 year-old nonhispanic white female.
+      # Social History
+
+  [06:31:44] DOCUMENT: History and physical note
+    Status: superseded
+
+  [06:46:44] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2023-12-20
+
+  [09:23:55] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Bennett146 Rippin620
+    Location: MILFORD REGIONAL MEDICAL CENTER
+    Duration: 09:23:55 - 10:02:52
+
+  [09:23:55] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [09:23:55] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-12-20
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Gene733 is a 65 year-old nonhispanic white female.
+      # Social History
+
+  [09:23:55] DOCUMENT: History and physical note
+    Status: superseded
+
+  [10:02:52] CLAIM: professional
+    Amount: USD 573.98
+
+  [10:02:52] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Bennett146 Rippin620
+    Location: MILFORD REGIONAL MEDICAL CENTER
+    Duration: 10:02:52 - 10:18:03
+
+  [10:02:52] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [10:02:52] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-12-20
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Gene733 is a 65 year-old nonhispanic white female.
+      # Social History
+
+  [10:02:52] DOCUMENT: History and physical note
+    Status: superseded
+
+  [10:18:03] CLAIM: professional
+    Amount: USD 220.05
+
+  [10:18:03] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Bennett146 Rippin620
+    Location: MILFORD REGIONAL MEDICAL CENTER
+    Duration: 10:18:03 - 10:44:03
+
+  [10:18:03] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [10:18:03] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-12-20
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Gene733 is a 65 year-old nonhispanic white female.
+      # Social History
+
+  [10:18:03] DOCUMENT: History and physical note
+    Status: superseded
+
+  [10:30:41] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [10:44:03] CLAIM: professional
+    Amount: USD 1138.76
+
+
+📅 2024-12-13
+
+  [06:31:44] VISIT: General examination of patient (procedure)
+    Provider: Dr. Phillip440 Kunze215
+    Location: EDWARD M KENNEDY COMMUNITY HEALTH CENTER INC
+    Duration: 06:31:44 - 06:46:44
+
+  [06:31:44] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [06:31:44] IMMUNIZATION: pneumococcal polysaccharide vaccine, 23 valent
+    Status: completed
+
+  [06:31:44] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-12-13
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Gene733 is a 66 year-old nonhispanic white female.
+      # Social History
+
+  [06:31:44] DOCUMENT: History and physical note
+    Status: superseded
+
+  [06:46:44] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2024-12-28
+
+  [10:44:03] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Bennett146 Rippin620
+    Location: MILFORD REGIONAL MEDICAL CENTER
+    Duration: 10:44:03 - 11:19:10
+
+  [10:44:03] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [10:44:03] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-12-28
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Gene733 is a 66 year-old nonhispanic white female.
+      # Social History
+
+  [10:44:03] DOCUMENT: History and physical note
+    Status: superseded
+
+  [11:19:10] CLAIM: professional
+    Amount: USD 573.98
+
+  [11:19:10] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Bennett146 Rippin620
+    Location: MILFORD REGIONAL MEDICAL CENTER
+    Duration: 11:19:10 - 11:42:10
+
+  [11:19:10] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [11:19:10] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-12-28
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Gene733 is a 66 year-old nonhispanic white female.
+      # Social History
+
+  [11:19:10] DOCUMENT: History and physical note
+    Status: superseded
+
+  [11:42:10] CLAIM: professional
+    Amount: USD 325.49
+
+  [11:42:10] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Bennett146 Rippin620
+    Location: MILFORD REGIONAL MEDICAL CENTER
+    Duration: 11:42:10 - 12:07:42
+
+  [11:42:10] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [11:42:10] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-12-28
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Gene733 is a 66 year-old nonhispanic white female.
+      # Social History
+
+  [11:42:10] DOCUMENT: History and physical note
+    Status: superseded
+
+  [11:53:26] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [12:07:42] CLAIM: professional
+    Amount: USD 2524.20
+
+
+📅 2025-12-19
+
+  [06:31:44] VISIT: General examination of patient (procedure)
+    Provider: Dr. Phillip440 Kunze215
+    Location: EDWARD M KENNEDY COMMUNITY HEALTH CENTER INC
+    Duration: 06:31:44 - 06:46:44
+
+  [06:31:44] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [06:31:44] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-12-19
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Gene733 is a 67 year-old nonhispanic white female.
+      # Social History
+
+  [06:31:44] DOCUMENT: History and physical note
+    Status: superseded
+
+  [06:46:44] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2025-12-26
+
+  [06:31:44] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Bennett146 Rippin620
+    Location: MILFORD REGIONAL MEDICAL CENTER
+    Duration: 06:31:44 - 07:07:40
+
+  [06:31:44] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [06:31:44] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-12-26
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Gene733 is a 67 year-old nonhispanic white female.
+      # Social History
+
+  [06:31:44] DOCUMENT: History and physical note
+    Status: superseded
+
+  [07:07:40] CLAIM: professional
+    Amount: USD 573.98
+
+  [07:07:40] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Bennett146 Rippin620
+    Location: MILFORD REGIONAL MEDICAL CENTER
+    Duration: 07:07:40 - 07:30:50
+
+  [07:07:40] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [07:07:40] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-12-26
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Gene733 is a 67 year-old nonhispanic white female.
+      # Social History
+
+  [07:07:40] DOCUMENT: History and physical note
+    Status: superseded
+
+  [07:30:50] CLAIM: professional
+    Amount: USD 325.49
+
+  [07:30:50] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Bennett146 Rippin620
+    Location: MILFORD REGIONAL MEDICAL CENTER
+    Duration: 07:30:50 - 08:04:14
+
+  [07:30:50] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [07:30:50] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-12-26
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Gene733 is a 67 year-old nonhispanic white female.
+      # Social History
+
+  [07:30:50] DOCUMENT: History and physical note
+    Status: current
+
+  [07:44:24] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [08:04:14] CLAIM: professional
+    Amount: USD 2282.74
+
+
+📅 2026-02-13
+
+  [06:31:44] PROVENANCE: Record activity
+    Agents: Dr. Bennett146 Rippin620, Dr. Bennett146 Rippin620
+
+================================================================================
+END OF TIMELINE (245 events)
+================================================================================

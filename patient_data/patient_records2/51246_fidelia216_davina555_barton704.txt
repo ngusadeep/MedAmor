@@ -1,0 +1,1236 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Mrs. Fidelia216 Davina555 Barton704
+  Patient ID: 51246
+  Date of Birth: 1960-08-09
+  Gender: Female
+  Race: White
+  Ethnicity: Not Hispanic or Latino
+  Marital Status: Married
+  Address: 407 Mueller Junction Unit 89, Melrose, MA 02176
+  Phone: 555-909-5702
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2012-03-30
+
+  [05:47:48] VISIT: Periodic reevaluation and management of healthy individual (procedure)
+    Reason: Screening for malignant neoplasm of breast (procedure)
+    Provider: Dr. Margarite168 Koepp521
+    Location: CAMBRIDGE PUBLIC HEALTH COMMISSION
+    Duration: 05:47:48 - 14:06:36
+
+  [05:47:48] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2012-03-30
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Fidelia216 Davina555 is a 51 year-old nonhispanic white female.
+      # Social History
+
+  [05:47:48] DOCUMENT: History and physical note
+    Status: superseded
+
+  [07:46:36] CONDITION: Malignant neoplasm of breast (disorder) (active)
+
+
+📅 2012-03-31
+
+  [14:06:36] CLAIM: professional
+    Amount: USD 4340.09
+
+
+📅 2016-03-16
+
+  [20:56:24] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Margarite168 Koepp521
+    Location: CAMBRIDGE PUBLIC HEALTH COMMISSION
+    Duration: 20:56:24 - 21:31:27
+
+  [20:56:24] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [20:56:24] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-03-16
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Fidelia216 Davina555 is a 55 year-old nonhispanic white female.
+      # Social History
+
+  [20:56:24] DOCUMENT: History and physical note
+    Status: superseded
+
+  [21:31:27] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2016-07-02
+
+  [21:31:27] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Margarite168 Koepp521
+    Location: CAMBRIDGE PUBLIC HEALTH COMMISSION
+    Duration: 21:31:27 - 22:02:09
+
+  [21:31:27] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [21:31:27] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-07-02
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Fidelia216 Davina555 is a 55 year-old nonhispanic white female.
+      # Social History
+
+  [21:31:27] DOCUMENT: History and physical note
+    Status: superseded
+
+  [22:02:09] CLAIM: professional
+    Amount: USD 573.98
+
+  [22:02:09] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Margarite168 Koepp521
+    Location: CAMBRIDGE PUBLIC HEALTH COMMISSION
+    Duration: 22:02:09 - 22:25:01
+
+  [22:02:09] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [22:02:09] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-07-02
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Fidelia216 Davina555 is a 55 year-old nonhispanic white female.
+      # Social History
+
+  [22:02:09] DOCUMENT: History and physical note
+    Status: superseded
+
+  [22:25:01] CLAIM: professional
+    Amount: USD 211.60
+
+  [22:25:01] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Margarite168 Koepp521
+    Location: CAMBRIDGE PUBLIC HEALTH COMMISSION
+    Duration: 22:25:01 - 22:52:36
+
+  [22:25:01] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [22:25:01] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-07-02
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Fidelia216 Davina555 is a 55 year-old nonhispanic white female.
+      # Social History
+
+  [22:25:01] DOCUMENT: History and physical note
+    Status: superseded
+
+  [22:38:29] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [22:52:36] OBSERVATION: Response to cancer treatment: Improving (qualifier value)
+
+  [22:52:36] CLAIM: professional
+    Amount: USD 3387.47
+
+
+📅 2016-09-13
+
+  [05:47:48] VISIT: General examination of patient (procedure)
+    Provider: Dr. Elmer371 Gusikowski974
+    Location: WHITLEY WELLNESS LLC
+    Duration: 05:47:48 - 06:02:48
+
+  [05:47:48] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [05:47:48] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-09-13
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Fidelia216 Davina555 is a 56 year-old nonhispanic white female.
+      # Social History
+
+  [05:47:48] DOCUMENT: History and physical note
+    Status: superseded
+
+  [06:02:48] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2016-11-02
+
+  [22:52:36] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Margarite168 Koepp521
+    Location: CAMBRIDGE PUBLIC HEALTH COMMISSION
+    Duration: 22:52:36 - 23:26:57
+
+  [22:52:36] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [22:52:36] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-11-02
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Fidelia216 Davina555 is a 56 year-old nonhispanic white female.
+      # Social History
+
+  [22:52:36] DOCUMENT: History and physical note
+    Status: superseded
+
+  [23:26:57] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2017-03-06
+
+  [22:26:57] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Margarite168 Koepp521
+    Location: CAMBRIDGE PUBLIC HEALTH COMMISSION
+    Duration: 22:26:57 - 23:00:31
+
+  [22:26:57] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [22:26:57] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-03-06
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Fidelia216 Davina555 is a 56 year-old nonhispanic white female.
+      # Social History
+
+  [22:26:57] DOCUMENT: History and physical note
+    Status: superseded
+
+  [23:00:31] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2017-06-13
+
+  [00:00:31] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Margarite168 Koepp521
+    Location: CAMBRIDGE PUBLIC HEALTH COMMISSION
+    Duration: 00:00:31 - 00:33:01
+
+  [00:00:31] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [00:00:31] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-06-13
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Fidelia216 Davina555 is a 56 year-old nonhispanic white female.
+      # Social History
+
+  [00:00:31] DOCUMENT: History and physical note
+    Status: superseded
+
+  [00:33:01] CLAIM: professional
+    Amount: USD 573.98
+
+  [00:33:01] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Margarite168 Koepp521
+    Location: CAMBRIDGE PUBLIC HEALTH COMMISSION
+    Duration: 00:33:01 - 00:54:01
+
+  [00:33:01] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [00:33:01] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-06-13
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Fidelia216 Davina555 is a 56 year-old nonhispanic white female.
+      # Social History
+
+  [00:33:01] DOCUMENT: History and physical note
+    Status: superseded
+
+  [00:54:01] CLAIM: professional
+    Amount: USD 211.60
+
+  [00:54:01] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Margarite168 Koepp521
+    Location: CAMBRIDGE PUBLIC HEALTH COMMISSION
+    Duration: 00:54:01 - 01:18:51
+
+  [00:54:01] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [00:54:01] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-06-13
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Fidelia216 Davina555 is a 56 year-old nonhispanic white female.
+      # Social History
+
+  [00:54:01] DOCUMENT: History and physical note
+    Status: superseded
+
+  [01:08:30] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [01:18:51] CLAIM: professional
+    Amount: USD 1091.66
+
+
+📅 2017-09-19
+
+  [05:47:48] VISIT: General examination of patient (procedure)
+    Provider: Dr. Elmer371 Gusikowski974
+    Location: WHITLEY WELLNESS LLC
+    Duration: 05:47:48 - 06:02:48
+
+  [05:47:48] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [05:47:48] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-09-19
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Fidelia216 Davina555 is a 57 year-old nonhispanic white female.
+      # Social History
+
+  [05:47:48] DOCUMENT: History and physical note
+    Status: superseded
+
+  [06:02:48] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2018-06-26
+
+  [01:18:51] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Margarite168 Koepp521
+    Location: CAMBRIDGE PUBLIC HEALTH COMMISSION
+    Duration: 01:18:51 - 01:54:15
+
+  [01:18:51] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [01:18:51] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-06-26
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Fidelia216 Davina555 is a 57 year-old nonhispanic white female.
+      # Social History
+
+  [01:18:51] DOCUMENT: History and physical note
+    Status: superseded
+
+  [01:54:15] CLAIM: professional
+    Amount: USD 573.98
+
+  [01:54:15] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Margarite168 Koepp521
+    Location: CAMBRIDGE PUBLIC HEALTH COMMISSION
+    Duration: 01:54:15 - 02:12:03
+
+  [01:54:15] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [01:54:15] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-06-26
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Fidelia216 Davina555 is a 57 year-old nonhispanic white female.
+      # Social History
+
+  [01:54:15] DOCUMENT: History and physical note
+    Status: superseded
+
+  [02:12:03] CLAIM: professional
+    Amount: USD 213.61
+
+  [02:12:03] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Margarite168 Koepp521
+    Location: CAMBRIDGE PUBLIC HEALTH COMMISSION
+    Duration: 02:12:03 - 02:38:51
+
+  [02:12:03] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [02:12:03] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-06-26
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Fidelia216 Davina555 is a 57 year-old nonhispanic white female.
+      # Social History
+
+  [02:12:03] DOCUMENT: History and physical note
+    Status: superseded
+
+  [02:24:39] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [02:38:51] CLAIM: professional
+    Amount: USD 1221.08
+
+
+📅 2018-09-25
+
+  [05:47:48] VISIT: General examination of patient (procedure)
+    Provider: Dr. Elmer371 Gusikowski974
+    Location: WHITLEY WELLNESS LLC
+    Duration: 05:47:48 - 06:02:48
+
+  [05:47:48] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [05:47:48] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-09-25
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Fidelia216 Davina555 is a 58 year-old nonhispanic white female.
+      # Social History
+
+  [05:47:48] DOCUMENT: History and physical note
+    Status: superseded
+
+  [06:02:48] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2019-06-07
+
+  [02:38:51] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Margarite168 Koepp521
+    Location: CAMBRIDGE PUBLIC HEALTH COMMISSION
+    Duration: 02:38:51 - 03:14:19
+
+  [02:38:51] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [02:38:51] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-06-07
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Fidelia216 Davina555 is a 58 year-old nonhispanic white female.
+      # Social History
+
+  [02:38:51] DOCUMENT: History and physical note
+    Status: superseded
+
+  [03:14:19] CLAIM: professional
+    Amount: USD 573.98
+
+  [03:14:19] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Margarite168 Koepp521
+    Location: CAMBRIDGE PUBLIC HEALTH COMMISSION
+    Duration: 03:14:19 - 03:35:36
+
+  [03:14:19] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [03:14:19] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-06-07
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Fidelia216 Davina555 is a 58 year-old nonhispanic white female.
+      # Social History
+
+  [03:14:19] DOCUMENT: History and physical note
+    Status: superseded
+
+  [03:35:36] CLAIM: professional
+    Amount: USD 325.49
+
+  [03:35:36] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Margarite168 Koepp521
+    Location: CAMBRIDGE PUBLIC HEALTH COMMISSION
+    Duration: 03:35:36 - 04:05:26
+
+  [03:35:36] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [03:35:36] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-06-07
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Fidelia216 Davina555 is a 58 year-old nonhispanic white female.
+      # Social History
+
+  [03:35:36] DOCUMENT: History and physical note
+    Status: superseded
+
+  [03:48:39] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [04:05:26] CLAIM: professional
+    Amount: USD 1220.19
+
+
+📅 2019-10-01
+
+  [05:47:48] VISIT: General examination of patient (procedure)
+    Provider: Dr. Elmer371 Gusikowski974
+    Location: WHITLEY WELLNESS LLC
+    Duration: 05:47:48 - 06:02:48
+
+  [05:47:48] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [05:47:48] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-10-01
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Fidelia216 Davina555 is a 59 year-old nonhispanic white female.
+      # Social History
+
+  [05:47:48] DOCUMENT: History and physical note
+    Status: superseded
+
+  [06:02:48] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2020-06-30
+
+  [04:05:26] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Margarite168 Koepp521
+    Location: CAMBRIDGE PUBLIC HEALTH COMMISSION
+    Duration: 04:05:26 - 04:38:18
+
+  [04:05:26] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [04:05:26] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-06-30
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Fidelia216 Davina555 is a 59 year-old nonhispanic white female.
+      # Social History
+
+  [04:05:26] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:38:18] CLAIM: professional
+    Amount: USD 573.98
+
+  [04:38:18] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Margarite168 Koepp521
+    Location: CAMBRIDGE PUBLIC HEALTH COMMISSION
+    Duration: 04:38:18 - 04:57:42
+
+  [04:38:18] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [04:38:18] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-06-30
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Fidelia216 Davina555 is a 59 year-old nonhispanic white female.
+      # Social History
+
+  [04:38:18] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:57:42] CLAIM: professional
+    Amount: USD 286.11
+
+  [04:57:42] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Margarite168 Koepp521
+    Location: CAMBRIDGE PUBLIC HEALTH COMMISSION
+    Duration: 04:57:42 - 05:22:11
+
+  [04:57:42] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [04:57:42] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-06-30
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Fidelia216 Davina555 is a 59 year-old nonhispanic white female.
+      # Social History
+
+  [04:57:42] DOCUMENT: History and physical note
+    Status: superseded
+
+  [05:11:42] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [05:22:11] CLAIM: professional
+    Amount: USD 2191.26
+
+
+📅 2020-10-06
+
+  [05:47:48] VISIT: General examination of patient (procedure)
+    Provider: Dr. Elmer371 Gusikowski974
+    Location: WHITLEY WELLNESS LLC
+    Duration: 05:47:48 - 06:02:48
+
+  [05:47:48] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [05:47:48] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-10-06
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Fidelia216 Davina555 is a 60 year-old nonhispanic white female.
+      # Social History
+
+  [05:47:48] DOCUMENT: History and physical note
+    Status: superseded
+
+  [06:02:48] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2021-02-16
+
+  [04:47:48] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Nicholas495 Greenfelder433
+    Location: CAMBRIDGE PUBLIC HEALTH COMMISSION
+    Duration: 04:47:48 - 05:02:48
+
+  [04:47:48] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 30 mcg/0.3 mL dose
+    Status: completed
+
+  [04:47:48] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-02-16
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Fidelia216 Davina555 is a 60 year-old nonhispanic white female.
+      # Social History
+
+  [04:47:48] DOCUMENT: History and physical note
+    Status: superseded
+
+  [05:02:48] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-03-09
+
+  [04:47:48] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Nicholas495 Greenfelder433
+    Location: CAMBRIDGE PUBLIC HEALTH COMMISSION
+    Duration: 04:47:48 - 05:02:48
+
+  [04:47:48] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 30 mcg/0.3 mL dose
+    Status: completed
+
+  [04:47:48] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-03-09
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Fidelia216 Davina555 is a 60 year-old nonhispanic white female.
+      # Social History
+
+  [04:47:48] DOCUMENT: History and physical note
+    Status: superseded
+
+  [05:02:48] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-06-15
+
+  [05:22:11] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Margarite168 Koepp521
+    Location: CAMBRIDGE PUBLIC HEALTH COMMISSION
+    Duration: 05:22:11 - 06:05:19
+
+  [05:22:11] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [05:22:11] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-06-15
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Fidelia216 Davina555 is a 60 year-old nonhispanic white female.
+      # Social History
+
+  [05:22:11] DOCUMENT: History and physical note
+    Status: superseded
+
+  [06:05:19] CLAIM: professional
+    Amount: USD 573.98
+
+  [06:05:19] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Margarite168 Koepp521
+    Location: CAMBRIDGE PUBLIC HEALTH COMMISSION
+    Duration: 06:05:19 - 06:28:15
+
+  [06:05:19] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [06:05:19] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-06-15
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Fidelia216 Davina555 is a 60 year-old nonhispanic white female.
+      # Social History
+
+  [06:05:19] DOCUMENT: History and physical note
+    Status: superseded
+
+  [06:28:15] CLAIM: professional
+    Amount: USD 211.60
+
+  [06:28:15] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Margarite168 Koepp521
+    Location: CAMBRIDGE PUBLIC HEALTH COMMISSION
+    Duration: 06:28:15 - 06:52:39
+
+  [06:28:15] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [06:28:15] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-06-15
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Fidelia216 Davina555 is a 60 year-old nonhispanic white female.
+      # Social History
+
+  [06:28:15] DOCUMENT: History and physical note
+    Status: superseded
+
+  [06:40:28] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [06:52:39] CLAIM: professional
+    Amount: USD 1769.00
+
+
+📅 2021-10-12
+
+  [05:47:48] VISIT: General examination of patient (procedure)
+    Provider: Dr. Elmer371 Gusikowski974
+    Location: WHITLEY WELLNESS LLC
+    Duration: 05:47:48 - 06:02:48
+
+  [05:47:48] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [05:47:48] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [05:47:48] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-10-12
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Fidelia216 Davina555 is a 61 year-old nonhispanic white female.
+      # Social History
+
+  [05:47:48] DOCUMENT: History and physical note
+    Status: superseded
+
+  [06:02:48] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2022-05-13
+
+  [06:52:39] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Nicholas495 Greenfelder433
+    Location: Patient's Home
+    Duration: 06:52:39 - 07:34:03
+
+  [06:52:39] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [06:52:39] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-05-13
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Fidelia216 Davina555 is a 61 year-old nonhispanic white female.
+      # Social History
+
+  [06:52:39] DOCUMENT: History and physical note
+    Status: superseded
+
+  [07:34:03] CLAIM: institutional
+    Amount: USD 556.40
+
+  [07:34:03] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Margarite168 Koepp521
+    Location: CAMBRIDGE PUBLIC HEALTH COMMISSION
+    Duration: 07:34:03 - 07:50:33
+
+  [07:34:03] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [07:34:03] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-05-13
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Fidelia216 Davina555 is a 61 year-old nonhispanic white female.
+      # Social History
+
+  [07:34:03] DOCUMENT: History and physical note
+    Status: superseded
+
+  [07:50:33] CLAIM: professional
+    Amount: USD 211.60
+
+  [07:50:33] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Margarite168 Koepp521
+    Location: CAMBRIDGE PUBLIC HEALTH COMMISSION
+    Duration: 07:50:33 - 08:13:51
+
+  [07:50:33] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [07:50:33] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-05-13
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Fidelia216 Davina555 is a 61 year-old nonhispanic white female.
+      # Social History
+
+  [07:50:33] DOCUMENT: History and physical note
+    Status: superseded
+
+  [08:02:48] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [08:13:51] CLAIM: professional
+    Amount: USD 1552.64
+
+
+📅 2022-10-18
+
+  [05:47:48] VISIT: General examination of patient (procedure)
+    Provider: Dr. Elmer371 Gusikowski974
+    Location: WHITLEY WELLNESS LLC
+    Duration: 05:47:48 - 06:02:48
+
+  [05:47:48] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [05:47:48] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-10-18
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Fidelia216 Davina555 is a 62 year-old nonhispanic white female.
+      # Social History
+
+  [05:47:48] DOCUMENT: History and physical note
+    Status: superseded
+
+  [06:02:48] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2023-05-16
+
+  [08:13:51] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Margarite168 Koepp521
+    Location: CAMBRIDGE PUBLIC HEALTH COMMISSION
+    Duration: 08:13:51 - 08:48:49
+
+  [08:13:51] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [08:13:51] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-05-16
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Fidelia216 Davina555 is a 62 year-old nonhispanic white female.
+      # Social History
+
+  [08:13:51] DOCUMENT: History and physical note
+    Status: superseded
+
+  [08:48:49] CLAIM: professional
+    Amount: USD 573.98
+
+  [08:48:49] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Margarite168 Koepp521
+    Location: CAMBRIDGE PUBLIC HEALTH COMMISSION
+    Duration: 08:48:49 - 09:09:16
+
+  [08:48:49] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [08:48:49] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-05-16
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Fidelia216 Davina555 is a 62 year-old nonhispanic white female.
+      # Social History
+
+  [08:48:49] DOCUMENT: History and physical note
+    Status: superseded
+
+  [09:09:16] CLAIM: professional
+    Amount: USD 211.60
+
+  [09:09:16] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Margarite168 Koepp521
+    Location: CAMBRIDGE PUBLIC HEALTH COMMISSION
+    Duration: 09:09:16 - 09:34:03
+
+  [09:09:16] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [09:09:16] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-05-16
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Fidelia216 Davina555 is a 62 year-old nonhispanic white female.
+      # Social History
+
+  [09:09:16] DOCUMENT: History and physical note
+    Status: superseded
+
+  [09:23:47] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [09:34:03] CLAIM: professional
+    Amount: USD 2570.42
+
+
+📅 2023-10-24
+
+  [05:47:48] VISIT: General examination of patient (procedure)
+    Provider: Dr. Elmer371 Gusikowski974
+    Location: WHITLEY WELLNESS LLC
+    Duration: 05:47:48 - 06:02:48
+
+  [05:47:48] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [05:47:48] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-10-24
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Fidelia216 Davina555 is a 63 year-old nonhispanic white female.
+      # Social History
+
+  [05:47:48] DOCUMENT: History and physical note
+    Status: superseded
+
+  [06:02:48] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2024-05-25
+
+  [09:34:03] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Margarite168 Koepp521
+    Location: CAMBRIDGE PUBLIC HEALTH COMMISSION
+    Duration: 09:34:03 - 10:16:55
+
+  [09:34:03] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [09:34:03] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-05-25
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Fidelia216 Davina555 is a 63 year-old nonhispanic white female.
+      # Social History
+
+  [09:34:03] DOCUMENT: History and physical note
+    Status: superseded
+
+  [10:16:55] CLAIM: professional
+    Amount: USD 573.98
+
+  [10:16:55] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Margarite168 Koepp521
+    Location: CAMBRIDGE PUBLIC HEALTH COMMISSION
+    Duration: 10:16:55 - 10:40:00
+
+  [10:16:55] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [10:16:55] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-05-25
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Fidelia216 Davina555 is a 63 year-old nonhispanic white female.
+      # Social History
+
+  [10:16:55] DOCUMENT: History and physical note
+    Status: superseded
+
+  [10:40:00] CLAIM: professional
+    Amount: USD 228.42
+
+  [10:40:00] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Margarite168 Koepp521
+    Location: CAMBRIDGE PUBLIC HEALTH COMMISSION
+    Duration: 10:40:00 - 11:09:18
+
+  [10:40:00] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [10:40:00] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-05-25
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Fidelia216 Davina555 is a 63 year-old nonhispanic white female.
+      # Social History
+
+  [10:40:00] DOCUMENT: History and physical note
+    Status: superseded
+
+  [10:50:18] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [11:09:18] CLAIM: professional
+    Amount: USD 1254.76
+
+
+📅 2024-10-29
+
+  [05:47:48] VISIT: General examination of patient (procedure)
+    Provider: Dr. Elmer371 Gusikowski974
+    Location: WHITLEY WELLNESS LLC
+    Duration: 05:47:48 - 06:02:48
+
+  [05:47:48] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [05:47:48] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-10-29
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Fidelia216 Davina555 is a 64 year-old nonhispanic white female.
+      # Social History
+
+  [05:47:48] DOCUMENT: History and physical note
+    Status: superseded
+
+  [06:02:48] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2025-04-22
+
+  [11:09:18] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Nicholas495 Greenfelder433
+    Location: Patient's Home
+    Duration: 11:09:18 - 11:48:07
+
+  [11:09:18] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [11:09:18] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-04-22
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Fidelia216 Davina555 is a 64 year-old nonhispanic white female.
+      # Social History
+
+  [11:09:18] DOCUMENT: History and physical note
+    Status: superseded
+
+  [11:48:07] CLAIM: institutional
+    Amount: USD 556.40
+
+  [11:48:07] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Margarite168 Koepp521
+    Location: CAMBRIDGE PUBLIC HEALTH COMMISSION
+    Duration: 11:48:07 - 12:07:51
+
+  [11:48:07] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [11:48:07] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-04-22
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Fidelia216 Davina555 is a 64 year-old nonhispanic white female.
+      # Social History
+
+  [11:48:07] DOCUMENT: History and physical note
+    Status: superseded
+
+  [12:07:51] CLAIM: professional
+    Amount: USD 211.60
+
+  [12:07:51] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Margarite168 Koepp521
+    Location: CAMBRIDGE PUBLIC HEALTH COMMISSION
+    Duration: 12:07:51 - 12:31:46
+
+  [12:07:51] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [12:07:51] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-04-22
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Fidelia216 Davina555 is a 64 year-old nonhispanic white female.
+      # Social History
+
+  [12:07:51] DOCUMENT: History and physical note
+    Status: superseded
+
+  [12:20:47] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [12:31:46] CLAIM: professional
+    Amount: USD 1102.63
+
+
+📅 2025-11-04
+
+  [04:47:48] VISIT: General examination of patient (procedure)
+    Provider: Dr. Elmer371 Gusikowski974
+    Location: WHITLEY WELLNESS LLC
+    Duration: 04:47:48 - 05:02:48
+
+  [04:47:48] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [04:47:48] IMMUNIZATION: Pneumococcal conjugate PCV 13
+    Status: completed
+
+  [04:47:48] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-11-04
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Fidelia216 Davina555 is a 65 year-old nonhispanic white female.
+      # Social History
+
+  [04:47:48] DOCUMENT: History and physical note
+    Status: current
+
+  [05:02:48] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2026-02-10
+
+  [04:47:48] PROVENANCE: Record activity
+    Agents: Dr. Elmer371 Gusikowski974, Dr. Elmer371 Gusikowski974
+
+================================================================================
+END OF TIMELINE (244 events)
+================================================================================

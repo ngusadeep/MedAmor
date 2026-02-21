@@ -1,0 +1,159 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Ms. Denyse846 Hermann103
+  Patient ID: 38980
+  Date of Birth: 1984-06-15
+  Gender: Female
+  Race: White
+  Ethnicity: Not Hispanic or Latino
+  Marital Status: Never Married
+  Address: 389 Heaney Stravenue Suite 11, Boston, MA 02163
+  Phone: 555-795-5900
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2018-08-31
+
+  [02:55:25] VISIT: General examination of patient (procedure)
+    Provider: Dr. Terence292 Brakus656
+    Location: BOSTON HEALTH CARE FOR THE HOMELESS PROGRAM INC
+    Duration: 02:55:25 - 03:10:25
+
+  [02:55:25] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [02:55:25] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-08-31
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Denyse846 is a 34 year-old nonhispanic white female.
+      # Social History
+
+  [02:55:25] DOCUMENT: History and physical note
+    Status: superseded
+
+  [03:10:25] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2021-04-02
+
+  [02:55:25] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Daniela614 Hinojosa147
+    Location: LEMUEL SHATTUCK HOSPITAL
+    Duration: 02:55:25 - 03:10:25
+
+  [02:55:25] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+    Status: completed
+
+  [02:55:25] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-04-02
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Denyse846 is a 36 year-old nonhispanic white female.
+      # Social History
+
+  [02:55:25] DOCUMENT: History and physical note
+    Status: superseded
+
+  [03:10:25] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-04-30
+
+  [02:55:25] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Daniela614 Hinojosa147
+    Location: LEMUEL SHATTUCK HOSPITAL
+    Duration: 02:55:25 - 03:10:25
+
+  [02:55:25] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+    Status: completed
+
+  [02:55:25] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-04-30
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Denyse846 is a 36 year-old nonhispanic white female.
+      # Social History
+
+  [02:55:25] DOCUMENT: History and physical note
+    Status: superseded
+
+  [03:10:25] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-09-03
+
+  [02:55:25] VISIT: General examination of patient (procedure)
+    Provider: Dr. Terence292 Brakus656
+    Location: BOSTON HEALTH CARE FOR THE HOMELESS PROGRAM INC
+    Duration: 02:55:25 - 03:10:25
+
+  [02:55:25] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [02:55:25] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-09-03
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Denyse846 is a 37 year-old nonhispanic white female.
+      # Social History
+
+  [02:55:25] DOCUMENT: History and physical note
+    Status: superseded
+
+  [03:10:25] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2024-06-21
+
+  [02:55:25] VISIT: General examination of patient (procedure)
+    Provider: Dr. Terence292 Brakus656
+    Location: BOSTON HEALTH CARE FOR THE HOMELESS PROGRAM INC
+    Duration: 02:55:25 - 03:10:25
+
+  [02:55:25] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [02:55:25] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [02:55:25] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-06-21
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Denyse846 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [02:55:25] DOCUMENT: History and physical note
+    Status: current
+
+  [03:10:25] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2026-02-13
+
+  [01:55:25] PROVENANCE: Record activity
+    Agents: Dr. Terence292 Brakus656, Dr. Terence292 Brakus656
+
+================================================================================
+END OF TIMELINE (27 events)
+================================================================================

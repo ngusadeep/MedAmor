@@ -1,0 +1,139 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Mrs. Jazmine498 Carmela47 Hoppe518
+  Patient ID: 66738
+  Date of Birth: 1978-05-27
+  Gender: Female
+  Race: White
+  Ethnicity: Not Hispanic or Latino
+  Marital Status: Married
+  Address: 478 McClure Dale Apt 91, Fitchburg, MA 01420
+  Phone: 555-900-6131
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2018-06-02
+
+  [22:09:20] VISIT: General examination of patient (procedure)
+    Provider: Dr. Raleigh478 Hauck852
+    Location: COMMUNITY HEALTH CONNECTIONS, INC
+    Duration: 22:09:20 - 22:24:20
+
+  [22:09:20] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [22:09:20] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [22:09:20] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-06-02
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Jazmine498 Carmela47 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [22:09:20] DOCUMENT: History and physical note
+    Status: superseded
+
+  [22:24:20] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2020-06-06
+
+  [22:09:20] VISIT: General examination of patient (procedure)
+    Provider: Dr. Raleigh478 Hauck852
+    Location: COMMUNITY HEALTH CONNECTIONS, INC
+    Duration: 22:09:20 - 22:24:20
+
+  [22:09:20] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [22:09:20] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [22:09:20] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [22:09:20] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-06-06
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Jazmine498 Carmela47 is a 42 year-old nonhispanic white female.
+      # Social History
+
+  [22:09:20] DOCUMENT: History and physical note
+    Status: superseded
+
+  [22:24:20] CLAIM: professional
+    Amount: USD 544.80
+
+
+📅 2022-06-11
+
+  [22:09:20] VISIT: General examination of patient (procedure)
+    Provider: Dr. Raleigh478 Hauck852
+    Location: COMMUNITY HEALTH CONNECTIONS, INC
+    Duration: 22:09:20 - 22:24:20
+
+  [22:09:20] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [22:09:20] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-06-11
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Jazmine498 Carmela47 is a 44 year-old nonhispanic white female.
+      # Social History
+
+  [22:09:20] DOCUMENT: History and physical note
+    Status: superseded
+
+  [22:24:20] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2024-06-15
+
+  [22:09:20] VISIT: General examination of patient (procedure)
+    Provider: Dr. Raleigh478 Hauck852
+    Location: COMMUNITY HEALTH CONNECTIONS, INC
+    Duration: 22:09:20 - 22:24:20
+
+  [22:09:20] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [22:09:20] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-06-15
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Jazmine498 Carmela47 is a 46 year-old nonhispanic white female.
+      # Social History
+
+  [22:09:20] DOCUMENT: History and physical note
+    Status: current
+
+  [22:24:20] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2026-02-14
+
+  [21:09:20] PROVENANCE: Record activity
+    Agents: Dr. Raleigh478 Hauck852, Dr. Raleigh478 Hauck852
+
+================================================================================
+END OF TIMELINE (24 events)
+================================================================================

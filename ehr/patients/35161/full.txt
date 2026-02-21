@@ -1,0 +1,188 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Mrs. Danna372 Batz141
+  Patient ID: 35161
+  Date of Birth: 1985-03-28
+  Gender: Female
+  Race: Black or African American
+  Ethnicity: Not Hispanic or Latino
+  Marital Status: Married
+  Address: 837 Hahn Club, Hanover, MA 00000
+  Phone: 555-646-2396
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2016-06-09
+
+  [18:16:01] VISIT: General examination of patient (procedure)
+    Provider: Dr. Luvenia178 Breitenberg711
+    Location: CIRCLE OF LIFE FAMILY MEDICINE PC
+    Duration: 18:16:01 - 18:31:01
+
+  [18:16:01] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [18:16:01] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [18:16:01] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-06-09
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Danna372 is a 31 year-old nonhispanic black female.
+      # Social History
+
+  [18:16:01] DOCUMENT: History and physical note
+    Status: superseded
+
+  [18:31:01] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2019-06-13
+
+  [18:16:01] VISIT: General examination of patient (procedure)
+    Provider: Dr. Luvenia178 Breitenberg711
+    Location: CIRCLE OF LIFE FAMILY MEDICINE PC
+    Duration: 18:16:01 - 18:31:01
+
+  [18:16:01] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [18:16:01] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-06-13
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Danna372 is a 34 year-old nonhispanic black female.
+      # Social History
+
+  [18:16:01] DOCUMENT: History and physical note
+    Status: superseded
+
+  [18:31:01] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2021-07-29
+
+  [18:16:01] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Cira533 Hane680
+    Location: DANA FARBER CANCER INSTITUTE
+    Duration: 18:16:01 - 18:31:01
+
+  [18:16:01] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+    Status: completed
+
+  [18:16:01] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-07-29
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Danna372 is a 36 year-old nonhispanic black female.
+      # Social History
+
+  [18:16:01] DOCUMENT: History and physical note
+    Status: superseded
+
+  [18:31:01] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-08-26
+
+  [18:16:01] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Cira533 Hane680
+    Location: DANA FARBER CANCER INSTITUTE
+    Duration: 18:16:01 - 18:31:01
+
+  [18:16:01] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+    Status: completed
+
+  [18:16:01] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-08-26
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Danna372 is a 36 year-old nonhispanic black female.
+      # Social History
+
+  [18:16:01] DOCUMENT: History and physical note
+    Status: superseded
+
+  [18:31:01] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2022-06-16
+
+  [18:16:01] VISIT: General examination of patient (procedure)
+    Provider: Dr. Luvenia178 Breitenberg711
+    Location: CIRCLE OF LIFE FAMILY MEDICINE PC
+    Duration: 18:16:01 - 18:31:01
+
+  [18:16:01] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [18:16:01] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-06-16
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Danna372 is a 37 year-old nonhispanic black female.
+      # Social History
+
+  [18:16:01] DOCUMENT: History and physical note
+    Status: superseded
+
+  [18:31:01] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2025-04-03
+
+  [18:16:01] VISIT: General examination of patient (procedure)
+    Provider: Dr. Luvenia178 Breitenberg711
+    Location: CIRCLE OF LIFE FAMILY MEDICINE PC
+    Duration: 18:16:01 - 18:31:01
+
+  [18:16:01] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [18:16:01] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [18:16:01] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-04-03
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Danna372 is a 40 year-old nonhispanic black female.
+      # Social History
+
+  [18:16:01] DOCUMENT: History and physical note
+    Status: current
+
+  [18:31:01] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2026-02-12
+
+  [17:16:01] PROVENANCE: Record activity
+    Agents: Dr. Luvenia178 Breitenberg711, Dr. Luvenia178 Breitenberg711
+
+================================================================================
+END OF TIMELINE (33 events)
+================================================================================

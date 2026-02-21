@@ -1,0 +1,165 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Mrs. Mei233 Hilaria948 Kling921
+  Patient ID: 109631
+  Date of Birth: 1977-01-31
+  Gender: Female
+  Race: White
+  Ethnicity: Not Hispanic or Latino
+  Marital Status: Married
+  Address: 693 Yost Knoll, Spencer, MA 01562
+  Phone: 555-597-3844
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2017-02-06
+
+  [06:59:17] VISIT: General examination of patient (procedure)
+    Provider: Dr. Eldridge510 Marquardt819
+    Location: JEWISH FAMILY & CHILDREN'S SERVICE
+    Duration: 06:59:17 - 07:14:17
+
+  [06:59:17] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [06:59:17] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [06:59:17] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-02-06
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Mei233 Hilaria948 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [06:59:17] DOCUMENT: History and physical note
+    Status: superseded
+
+  [07:14:17] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2019-02-11
+
+  [06:59:17] VISIT: General examination of patient (procedure)
+    Provider: Dr. Eldridge510 Marquardt819
+    Location: JEWISH FAMILY & CHILDREN'S SERVICE
+    Duration: 06:59:17 - 07:14:17
+
+  [06:59:17] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [06:59:17] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [06:59:17] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [06:59:17] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-02-11
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Mei233 Hilaria948 is a 42 year-old nonhispanic white female.
+      # Social History
+
+  [06:59:17] DOCUMENT: History and physical note
+    Status: superseded
+
+  [07:14:17] CLAIM: professional
+    Amount: USD 544.80
+
+
+📅 2021-02-15
+
+  [06:59:17] VISIT: General examination of patient (procedure)
+    Provider: Dr. Eldridge510 Marquardt819
+    Location: JEWISH FAMILY & CHILDREN'S SERVICE
+    Duration: 06:59:17 - 07:14:17
+
+  [06:59:17] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [06:59:17] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-02-15
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Mei233 Hilaria948 is a 44 year-old nonhispanic white female.
+      # Social History
+
+  [06:59:17] DOCUMENT: History and physical note
+    Status: superseded
+
+  [07:14:17] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2023-02-20
+
+  [06:59:17] VISIT: General examination of patient (procedure)
+    Provider: Dr. Eldridge510 Marquardt819
+    Location: JEWISH FAMILY & CHILDREN'S SERVICE
+    Duration: 06:59:17 - 07:14:17
+
+  [06:59:17] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [06:59:17] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-02-20
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Mei233 Hilaria948 is a 46 year-old nonhispanic white female.
+      # Social History
+
+  [06:59:17] DOCUMENT: History and physical note
+    Status: superseded
+
+  [07:14:17] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2025-02-24
+
+  [06:59:17] VISIT: General examination of patient (procedure)
+    Provider: Dr. Eldridge510 Marquardt819
+    Location: JEWISH FAMILY & CHILDREN'S SERVICE
+    Duration: 06:59:17 - 07:14:17
+
+  [06:59:17] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [06:59:17] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-02-24
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Mei233 Hilaria948 is a 48 year-old nonhispanic white female.
+      # Social History
+
+  [06:59:17] DOCUMENT: History and physical note
+    Status: current
+
+  [07:14:17] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2026-02-16
+
+  [06:59:17] PROVENANCE: Record activity
+    Agents: Dr. Eldridge510 Marquardt819, Dr. Eldridge510 Marquardt819
+
+================================================================================
+END OF TIMELINE (29 events)
+================================================================================

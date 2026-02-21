@@ -1,0 +1,217 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Ms. Quiana329 Grisel924 Kutch271
+  Patient ID: 125000
+  Date of Birth: 1976-04-24
+  Gender: Female
+  Race: White
+  Ethnicity: Not Hispanic or Latino
+  Marital Status: Never Married
+  Address: 1018 Goodwin Promenade Apt 11, Easton, MA 00000
+  Phone: 555-390-5513
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2016-04-30
+
+  [07:11:58] VISIT: General examination of patient (procedure)
+    Provider: Dr. Marchelle563 Hettinger594
+    Location: TRINITY FAMILY MEDICINE
+    Duration: 07:11:58 - 07:26:58
+
+  [07:11:58] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [07:11:58] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [07:11:58] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-04-30
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Quiana329 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [07:11:58] DOCUMENT: History and physical note
+    Status: superseded
+
+  [07:26:58] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2018-05-05
+
+  [07:11:58] VISIT: General examination of patient (procedure)
+    Provider: Dr. Marchelle563 Hettinger594
+    Location: TRINITY FAMILY MEDICINE
+    Duration: 07:11:58 - 07:26:58
+
+  [07:11:58] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [07:11:58] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [07:11:58] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [07:11:58] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-05-05
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Quiana329 is a 42 year-old nonhispanic white female.
+      # Social History
+
+  [07:11:58] DOCUMENT: History and physical note
+    Status: superseded
+
+  [07:26:58] CLAIM: professional
+    Amount: USD 544.80
+
+
+📅 2020-05-09
+
+  [07:11:58] VISIT: General examination of patient (procedure)
+    Provider: Dr. Marchelle563 Hettinger594
+    Location: TRINITY FAMILY MEDICINE
+    Duration: 07:11:58 - 07:26:58
+
+  [07:11:58] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [07:11:58] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-05-09
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Quiana329 is a 44 year-old nonhispanic white female.
+      # Social History
+
+  [07:11:58] DOCUMENT: History and physical note
+    Status: superseded
+
+  [07:26:58] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2021-02-13
+
+  [06:11:58] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Victoria535 Delvalle807
+    Location: CURAHEALTH STOUGHTON LLC
+    Duration: 06:11:58 - 06:26:58
+
+  [06:11:58] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+    Status: completed
+
+  [06:11:58] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-02-13
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Quiana329 is a 44 year-old nonhispanic white female.
+      # Social History
+
+  [06:11:58] DOCUMENT: History and physical note
+    Status: superseded
+
+  [06:26:58] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-03-13
+
+  [06:11:58] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Victoria535 Delvalle807
+    Location: CURAHEALTH STOUGHTON LLC
+    Duration: 06:11:58 - 06:26:58
+
+  [06:11:58] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+    Status: completed
+
+  [06:11:58] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-03-13
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Quiana329 is a 44 year-old nonhispanic white female.
+      # Social History
+
+  [06:11:58] DOCUMENT: History and physical note
+    Status: superseded
+
+  [06:26:58] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2022-05-14
+
+  [07:11:58] VISIT: General examination of patient (procedure)
+    Provider: Dr. Marchelle563 Hettinger594
+    Location: TRINITY FAMILY MEDICINE
+    Duration: 07:11:58 - 07:26:58
+
+  [07:11:58] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [07:11:58] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-05-14
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Quiana329 is a 46 year-old nonhispanic white female.
+      # Social History
+
+  [07:11:58] DOCUMENT: History and physical note
+    Status: superseded
+
+  [07:26:58] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2024-05-18
+
+  [07:11:58] VISIT: General examination of patient (procedure)
+    Provider: Dr. Marchelle563 Hettinger594
+    Location: TRINITY FAMILY MEDICINE
+    Duration: 07:11:58 - 07:26:58
+
+  [07:11:58] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [07:11:58] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-05-18
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Quiana329 is a 48 year-old nonhispanic white female.
+      # Social History
+
+  [07:11:58] DOCUMENT: History and physical note
+    Status: current
+
+  [07:26:58] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2026-02-14
+
+  [06:11:58] PROVENANCE: Record activity
+    Agents: Dr. Marchelle563 Hettinger594, Dr. Marchelle563 Hettinger594
+
+================================================================================
+END OF TIMELINE (39 events)
+================================================================================

@@ -1,0 +1,191 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Mrs. Renate369 Hansen121
+  Patient ID: 127403
+  Date of Birth: 1982-03-14
+  Gender: Female
+  Race: White
+  Ethnicity: Not Hispanic or Latino
+  Marital Status: Married
+  Address: 863 Jerde Village Suite 96, Norwood, MA 02090
+  Phone: 555-809-6216
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2016-05-29
+
+  [11:52:10] VISIT: General examination of patient (procedure)
+    Provider: Dr. Solomon675 Buckridge80
+    Location: PRIMARY CARE FOR MUSCULOSKELETAL INJURIES PLLC
+    Duration: 11:52:10 - 12:07:10
+
+  [11:52:10] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [11:52:10] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-05-29
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Renate369 is a 34 year-old nonhispanic white female.
+      # Social History
+
+  [11:52:10] DOCUMENT: History and physical note
+    Status: superseded
+
+  [12:07:10] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2019-06-02
+
+  [11:52:10] VISIT: General examination of patient (procedure)
+    Provider: Dr. Solomon675 Buckridge80
+    Location: PRIMARY CARE FOR MUSCULOSKELETAL INJURIES PLLC
+    Duration: 11:52:10 - 12:07:10
+
+  [11:52:10] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [11:52:10] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-06-02
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Renate369 is a 37 year-old nonhispanic white female.
+      # Social History
+
+  [11:52:10] DOCUMENT: History and physical note
+    Status: superseded
+
+  [12:07:10] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2021-01-03
+
+  [10:52:10] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Trinidad33 King743
+    Location: STEWARD NORWOOD HOSPITAL INC
+    Duration: 10:52:10 - 11:07:10
+
+  [10:52:10] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 30 mcg/0.3 mL dose
+    Status: completed
+
+  [10:52:10] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-01-03
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Renate369 is a 38 year-old nonhispanic white female.
+      # Social History
+
+  [10:52:10] DOCUMENT: History and physical note
+    Status: superseded
+
+  [11:07:10] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-01-24
+
+  [10:52:10] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Trinidad33 King743
+    Location: STEWARD NORWOOD HOSPITAL INC
+    Duration: 10:52:10 - 11:07:10
+
+  [10:52:10] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 30 mcg/0.3 mL dose
+    Status: completed
+
+  [10:52:10] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-01-24
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Renate369 is a 38 year-old nonhispanic white female.
+      # Social History
+
+  [10:52:10] DOCUMENT: History and physical note
+    Status: superseded
+
+  [11:07:10] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2022-03-20
+
+  [11:52:10] VISIT: General examination of patient (procedure)
+    Provider: Dr. Solomon675 Buckridge80
+    Location: PRIMARY CARE FOR MUSCULOSKELETAL INJURIES PLLC
+    Duration: 11:52:10 - 12:07:10
+
+  [11:52:10] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [11:52:10] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [11:52:10] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-03-20
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Renate369 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [11:52:10] DOCUMENT: History and physical note
+    Status: superseded
+
+  [12:07:10] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2024-03-24
+
+  [11:52:10] VISIT: General examination of patient (procedure)
+    Provider: Dr. Solomon675 Buckridge80
+    Location: PRIMARY CARE FOR MUSCULOSKELETAL INJURIES PLLC
+    Duration: 11:52:10 - 12:07:10
+
+  [11:52:10] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [11:52:10] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [11:52:10] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [11:52:10] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-03-24
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Renate369 is a 42 year-old nonhispanic white female.
+      # Social History
+
+  [11:52:10] DOCUMENT: History and physical note
+    Status: current
+
+  [12:07:10] CLAIM: professional
+    Amount: USD 544.80
+
+
+📅 2026-02-15
+
+  [10:52:10] PROVENANCE: Record activity
+    Agents: Dr. Solomon675 Buckridge80, Dr. Solomon675 Buckridge80
+
+================================================================================
+END OF TIMELINE (34 events)
+================================================================================

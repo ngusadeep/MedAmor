@@ -1,0 +1,191 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Ms. Sang383 Anastasia959 Denesik803
+  Patient ID: 133405
+  Date of Birth: 1982-03-01
+  Gender: Female
+  Race: White
+  Ethnicity: Not Hispanic or Latino
+  Marital Status: Never Married
+  Address: 501 Kshlerin Dale Unit 55, Weymouth, MA 02189
+  Phone: 555-686-9849
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2016-05-16
+
+  [10:49:20] VISIT: General examination of patient (procedure)
+    Provider: Dr. Clifton91 Terry864
+    Location: SOUTH SHORE MEDICAL CENTER, INC.
+    Duration: 10:49:20 - 11:04:20
+
+  [10:49:20] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [10:49:20] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-05-16
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Sang383 is a 34 year-old nonhispanic white female.
+      # Social History
+
+  [10:49:20] DOCUMENT: History and physical note
+    Status: superseded
+
+  [11:04:20] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2019-05-20
+
+  [10:49:20] VISIT: General examination of patient (procedure)
+    Provider: Dr. Clifton91 Terry864
+    Location: SOUTH SHORE MEDICAL CENTER, INC.
+    Duration: 10:49:20 - 11:04:20
+
+  [10:49:20] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [10:49:20] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-05-20
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Sang383 is a 37 year-old nonhispanic white female.
+      # Social History
+
+  [10:49:20] DOCUMENT: History and physical note
+    Status: superseded
+
+  [11:04:20] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2021-01-25
+
+  [09:49:20] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Cira533 Hane680
+    Location: DANA FARBER CANCER INSTITUTE
+    Duration: 09:49:20 - 10:04:20
+
+  [09:49:20] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+    Status: completed
+
+  [09:49:20] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-01-25
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Sang383 is a 38 year-old nonhispanic white female.
+      # Social History
+
+  [09:49:20] DOCUMENT: History and physical note
+    Status: superseded
+
+  [10:04:20] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-02-22
+
+  [09:49:20] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Cira533 Hane680
+    Location: DANA FARBER CANCER INSTITUTE
+    Duration: 09:49:20 - 10:04:20
+
+  [09:49:20] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+    Status: completed
+
+  [09:49:20] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-02-22
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Sang383 is a 38 year-old nonhispanic white female.
+      # Social History
+
+  [09:49:20] DOCUMENT: History and physical note
+    Status: superseded
+
+  [10:04:20] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2022-03-07
+
+  [09:49:20] VISIT: General examination of patient (procedure)
+    Provider: Dr. Clifton91 Terry864
+    Location: SOUTH SHORE MEDICAL CENTER, INC.
+    Duration: 09:49:20 - 10:04:20
+
+  [09:49:20] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [09:49:20] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [09:49:20] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-03-07
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Sang383 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [09:49:20] DOCUMENT: History and physical note
+    Status: superseded
+
+  [10:04:20] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2024-03-11
+
+  [10:49:20] VISIT: General examination of patient (procedure)
+    Provider: Dr. Clifton91 Terry864
+    Location: SOUTH SHORE MEDICAL CENTER, INC.
+    Duration: 10:49:20 - 11:04:20
+
+  [10:49:20] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [10:49:20] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [10:49:20] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [10:49:20] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-03-11
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Sang383 is a 42 year-old nonhispanic white female.
+      # Social History
+
+  [10:49:20] DOCUMENT: History and physical note
+    Status: current
+
+  [11:04:20] CLAIM: professional
+    Amount: USD 544.80
+
+
+📅 2026-02-16
+
+  [09:49:20] PROVENANCE: Record activity
+    Agents: Dr. Clifton91 Terry864, Dr. Clifton91 Terry864
+
+================================================================================
+END OF TIMELINE (34 events)
+================================================================================

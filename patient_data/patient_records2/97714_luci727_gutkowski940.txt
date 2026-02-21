@@ -1,0 +1,139 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Mrs. Luci727 Gutkowski940
+  Patient ID: 97714
+  Date of Birth: 1983-06-11
+  Gender: Female
+  Race: White
+  Ethnicity: Not Hispanic or Latino
+  Marital Status: Married
+  Address: 119 Kessler Boulevard, Saugus, MA 01906
+  Phone: 555-456-2348
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2017-08-26
+
+  [07:04:24] VISIT: General examination of patient (procedure)
+    Provider: Dr. Alan320 Keeling57
+    Location: PRIMARY CARE NORTH PC
+    Duration: 07:04:24 - 07:19:24
+
+  [07:04:24] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [07:04:24] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-08-26
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Luci727 is a 34 year-old nonhispanic white female.
+      # Social History
+
+  [07:04:24] DOCUMENT: History and physical note
+    Status: superseded
+
+  [07:19:24] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2020-08-29
+
+  [07:04:24] VISIT: General examination of patient (procedure)
+    Provider: Dr. Alan320 Keeling57
+    Location: PRIMARY CARE NORTH PC
+    Duration: 07:04:24 - 07:19:24
+
+  [07:04:24] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [07:04:24] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-08-29
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Luci727 is a 37 year-old nonhispanic white female.
+      # Social History
+
+  [07:04:24] DOCUMENT: History and physical note
+    Status: superseded
+
+  [07:19:24] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2023-06-17
+
+  [07:04:24] VISIT: General examination of patient (procedure)
+    Provider: Dr. Alan320 Keeling57
+    Location: PRIMARY CARE NORTH PC
+    Duration: 07:04:24 - 07:19:24
+
+  [07:04:24] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [07:04:24] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [07:04:24] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-06-17
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Luci727 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [07:04:24] DOCUMENT: History and physical note
+    Status: superseded
+
+  [07:19:24] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2025-06-21
+
+  [07:04:24] VISIT: General examination of patient (procedure)
+    Provider: Dr. Alan320 Keeling57
+    Location: PRIMARY CARE NORTH PC
+    Duration: 07:04:24 - 07:19:24
+
+  [07:04:24] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [07:04:24] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [07:04:24] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [07:04:24] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-06-21
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Luci727 is a 42 year-old nonhispanic white female.
+      # Social History
+
+  [07:04:24] DOCUMENT: History and physical note
+    Status: current
+
+  [07:19:24] CLAIM: professional
+    Amount: USD 544.80
+
+
+📅 2026-02-14
+
+  [06:04:24] PROVENANCE: Record activity
+    Agents: Dr. Alan320 Keeling57, Dr. Alan320 Keeling57
+
+================================================================================
+END OF TIMELINE (24 events)
+================================================================================

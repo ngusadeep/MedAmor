@@ -53,6 +53,24 @@ export const jobsColumns: ColumnDef<Job>[] = [
     enableSorting: true,
   },
   {
+    accessorKey: 'sensitivity',
+    header: ({ column }) => (
+      <DataTableColumnHeader column={column} title='Sensitivity' />
+    ),
+    cell: ({ row }) => {
+      const val = row.getValue('sensitivity') as number | null | undefined
+      if (val == null) return <span className='text-muted-foreground text-xs'>—</span>
+      const preset =
+        val <= 0.3 ? 'Low' : val <= 0.6 ? 'Medium' : val <= 1 ? 'High' : String(val)
+      return (
+        <span className='text-muted-foreground text-xs'>
+          {preset} ({val})
+        </span>
+      )
+    },
+    enableSorting: true,
+  },
+  {
     accessorKey: 'status',
     header: ({ column }) => (
       <DataTableColumnHeader column={column} title='Status' />

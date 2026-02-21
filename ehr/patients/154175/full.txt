@@ -1,0 +1,165 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Mrs. Wenona350 Kenneth671 Ebert178
+  Patient ID: 154175
+  Date of Birth: 1976-06-17
+  Gender: Female
+  Race: Asian
+  Ethnicity: Not Hispanic or Latino
+  Marital Status: Married
+  Address: 923 Jacobs Street Suite 27, Medway, MA 00000
+  Phone: 555-219-1779
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2016-06-23
+
+  [13:24:19] VISIT: General examination of patient (procedure)
+    Provider: Dr. Sharron285 Okuneva707
+    Location: A&A HEALTHCARE LLC
+    Duration: 13:24:19 - 13:39:19
+
+  [13:24:19] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [13:24:19] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [13:24:19] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-06-23
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Wenona350 Kenneth671 is a 40 year-old nonhispanic asian female.
+      # Social History
+
+  [13:24:19] DOCUMENT: History and physical note
+    Status: superseded
+
+  [13:39:19] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2018-06-28
+
+  [13:24:19] VISIT: General examination of patient (procedure)
+    Provider: Dr. Sharron285 Okuneva707
+    Location: A&A HEALTHCARE LLC
+    Duration: 13:24:19 - 13:39:19
+
+  [13:24:19] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [13:24:19] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [13:24:19] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [13:24:19] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-06-28
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Wenona350 Kenneth671 is a 42 year-old nonhispanic asian female.
+      # Social History
+
+  [13:24:19] DOCUMENT: History and physical note
+    Status: superseded
+
+  [13:39:19] CLAIM: professional
+    Amount: USD 544.80
+
+
+📅 2020-07-02
+
+  [13:24:19] VISIT: General examination of patient (procedure)
+    Provider: Dr. Sharron285 Okuneva707
+    Location: A&A HEALTHCARE LLC
+    Duration: 13:24:19 - 13:39:19
+
+  [13:24:19] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [13:24:19] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-07-02
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Wenona350 Kenneth671 is a 44 year-old nonhispanic asian female.
+      # Social History
+
+  [13:24:19] DOCUMENT: History and physical note
+    Status: superseded
+
+  [13:39:19] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2022-07-07
+
+  [13:24:19] VISIT: General examination of patient (procedure)
+    Provider: Dr. Sharron285 Okuneva707
+    Location: A&A HEALTHCARE LLC
+    Duration: 13:24:19 - 13:39:19
+
+  [13:24:19] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [13:24:19] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-07-07
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Wenona350 Kenneth671 is a 46 year-old nonhispanic asian female.
+      # Social History
+
+  [13:24:19] DOCUMENT: History and physical note
+    Status: superseded
+
+  [13:39:19] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2024-07-11
+
+  [13:24:19] VISIT: General examination of patient (procedure)
+    Provider: Dr. Sharron285 Okuneva707
+    Location: A&A HEALTHCARE LLC
+    Duration: 13:24:19 - 13:39:19
+
+  [13:24:19] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [13:24:19] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-07-11
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Wenona350 Kenneth671 is a 48 year-old nonhispanic asian female.
+      # Social History
+
+  [13:24:19] DOCUMENT: History and physical note
+    Status: current
+
+  [13:39:19] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2026-02-12
+
+  [12:24:19] PROVENANCE: Record activity
+    Agents: Dr. Sharron285 Okuneva707, Dr. Sharron285 Okuneva707
+
+================================================================================
+END OF TIMELINE (29 events)
+================================================================================

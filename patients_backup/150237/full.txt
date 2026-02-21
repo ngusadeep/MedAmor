@@ -1,0 +1,1119 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Mrs. Tresa661 Cameron381 Zemlak964
+  Patient ID: 150237
+  Date of Birth: 1966-10-03
+  Gender: Female
+  Race: White
+  Ethnicity: Not Hispanic or Latino
+  Marital Status: Married
+  Address: 673 Luettgen Row, Southbridge, MA 01550
+  Phone: 555-881-9846
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2010-10-18
+
+  [11:37:58] VISIT: General examination of patient (procedure)
+    Provider: Dr. Millicent213 Mertz280
+    Location: FAMILY HEALTH CENTER OF WORCESTER, INC.
+    Duration: 11:37:58 - 11:52:58
+
+  [11:37:58] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [11:37:58] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2010-10-18
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Tresa661 Cameron381 is a 44 year-old nonhispanic white female.
+      # Social History
+
+  [11:37:58] DOCUMENT: History and physical note
+    Status: superseded
+
+  [11:52:58] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2012-10-22
+
+  [11:37:58] VISIT: General examination of patient (procedure)
+    Provider: Dr. Millicent213 Mertz280
+    Location: FAMILY HEALTH CENTER OF WORCESTER, INC.
+    Duration: 11:37:58 - 11:52:58
+
+  [11:37:58] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [11:37:58] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2012-10-22
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Tresa661 Cameron381 is a 46 year-old nonhispanic white female.
+      # Social History
+
+  [11:37:58] DOCUMENT: History and physical note
+    Status: superseded
+
+  [11:52:58] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2014-10-27
+
+  [11:37:58] VISIT: General examination of patient (procedure)
+    Provider: Dr. Millicent213 Mertz280
+    Location: FAMILY HEALTH CENTER OF WORCESTER, INC.
+    Duration: 11:37:58 - 11:52:58
+
+  [11:37:58] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [11:37:58] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2014-10-27
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Tresa661 Cameron381 is a 48 year-old nonhispanic white female.
+      # Social History
+
+  [11:37:58] DOCUMENT: History and physical note
+    Status: superseded
+
+  [11:52:58] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2016-09-02
+
+  [11:37:58] VISIT: Periodic reevaluation and management of healthy individual (procedure)
+    Reason: Screening for malignant neoplasm of breast (procedure)
+    Provider: Dr. Rhett759 Padberg411
+    Location: VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+    Duration: 11:37:58 - 02:33:00
+
+  [11:37:58] PROCEDURE: Screening mammography (procedure)
+    Status: completed
+
+  [11:37:58] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-09-02
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Tresa661 Cameron381 is a 49 year-old nonhispanic white female.
+      # Social History
+
+  [11:37:58] DOCUMENT: History and physical note
+    Status: superseded
+
+  [11:55:02] PROCEDURE: Ultrasonography of bilateral breasts (procedure)
+    Status: completed
+
+  [12:15:55] PROCEDURE: Biopsy of breast (procedure)
+    Status: completed
+
+  [13:08:00] CONDITION: Malignant neoplasm of breast (disorder) (active)
+
+  [13:08:00] OBSERVATION: Site of distant metastasis in Breast tumor: None (qualifier value)
+
+  [13:08:00] OBSERVATION: Distant metastases.clinical [Class] Cancer: American Joint Committee on Cancer cM0 (qualifier value)
+
+  [13:08:00] OBSERVATION: Size.maximum dimension in Tumor: 1.7222 cm
+
+  [13:08:00] OBSERVATION: Primary tumor.clinical [Class] Cancer: American Joint Committee on Cancer cT1 (qualifier value)
+
+  [13:08:00] OBSERVATION: Lymph nodes with micrometastases [#] in Cancer specimen by Light microscopy: 2.819 {#}
+
+  [13:08:00] OBSERVATION: Regional lymph nodes.clinical [Class] Cancer: American Joint Committee on Cancer cN1 (qualifier value)
+
+  [13:08:00] PROCEDURE: Human epidermal growth factor receptor 2 gene detection by fluorescence in situ hybridization (procedure)
+    Status: completed
+
+
+📅 2016-09-03
+
+  [23:08:00] PROCEDURE: Human epidermal growth factor receptor 2 gene detection by immunohistochemistry (procedure)
+    Status: completed
+
+
+📅 2016-09-04
+
+  [02:33:00] OBSERVATION: HER2 [Presence] in Breast cancer specimen by Immune stain: Positive (qualifier value)
+
+  [02:33:00] OBSERVATION: ERBB2 gene duplication [Presence] in Breast cancer specimen by FISH: greater than 2.2
+
+  [02:33:00] OBSERVATION: Estrogen receptor Ag [Presence] in Breast cancer specimen by Immune stain: Negative (qualifier value)
+
+  [02:33:00] OBSERVATION: Progesterone receptor Ag [Presence] in Breast cancer specimen by Immune stain: Positive (qualifier value)
+
+  [02:33:00] OBSERVATION: Stage group.clinical Cancer: American Joint Committee on Cancer stage IIA (qualifier value)
+
+  [02:33:00] OBSERVATION: Stage group.clinical Cancer: Stage 2 (qualifier value)
+
+  [02:33:00] CLAIM: professional
+    Amount: USD 4933.00
+
+
+📅 2016-09-08
+
+  [16:33:00] VISIT: Discussion about treatment (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Rhett759 Padberg411
+    Location: VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+    Duration: 16:33:00 - 17:18:24
+
+  [16:33:00] PROCEDURE: Discussion about options (procedure)
+    Status: completed
+
+  [16:33:00] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-09-08
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Tresa661 Cameron381 is a 49 year-old nonhispanic white female.
+      # Social History
+
+  [16:33:00] DOCUMENT: History and physical note
+    Status: superseded
+
+  [17:18:24] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2016-09-12
+
+  [07:18:24] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Rhett759 Padberg411
+    Location: VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+    Duration: 07:18:24 - 14:04:41
+
+  [07:18:24] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-09-12
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Tresa661 Cameron381 is a 49 year-old nonhispanic white female.
+      # Social History
+
+  [07:18:24] DOCUMENT: History and physical note
+    Status: superseded
+
+  [09:40:24] PROCEDURE: Sentinel lymph node biopsy (procedure)
+    Status: completed
+
+  [10:23:21] PROCEDURE: Excision of sentinel lymph node (procedure)
+    Status: completed
+
+  [12:02:41] PROCEDURE: Excision of lesion of breast (procedure)
+    Status: completed
+
+
+📅 2016-09-13
+
+  [14:04:41] CLAIM: institutional
+    Amount: USD 17940.75
+
+
+📅 2016-10-03
+
+  [11:37:58] VISIT: General examination of patient (procedure)
+    Provider: Dr. Millicent213 Mertz280
+    Location: FAMILY HEALTH CENTER OF WORCESTER, INC.
+    Duration: 11:37:58 - 11:52:58
+
+  [11:37:58] IMMUNIZATION: zoster vaccine, live
+    Status: completed
+
+  [11:37:58] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [11:37:58] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-10-03
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Tresa661 Cameron381 is a 50 year-old nonhispanic white female.
+      # Social History
+
+  [11:37:58] DOCUMENT: History and physical note
+    Status: superseded
+
+  [11:52:58] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2016-10-10
+
+  [11:37:58] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Rhett759 Padberg411
+    Location: VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+    Duration: 11:37:58 - 12:03:58
+
+  [11:37:58] PROCEDURE: Chemotherapy (procedure)
+    Status: completed
+
+  [11:37:58] MEDICATION PRESCRIBED: Unknown medication
+    Status: completed
+    Prescribed by: Dr. Rhett759 Padberg411
+
+  [11:37:58] MEDICATION ADMINISTERED: Cyclophosphamide 1000 MG Injection
+    Status: completed
+
+  [11:37:58] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-10-10
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Tresa661 Cameron381 is a 50 year-old nonhispanic white female.
+      # Social History
+
+  [11:37:58] DOCUMENT: History and physical note
+    Status: superseded
+
+  [12:03:58] CLAIM: pharmacy
+    Amount: USD 231.35
+
+  [12:03:58] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2016-10-29
+
+  [12:03:58] VISIT: Encounter for problem (procedure)
+    Provider: Dr. Rhett759 Padberg411
+    Location: VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+    Duration: 12:03:58 - 13:28:58
+
+  [12:03:58] PROCEDURE: Chemotherapy (procedure)
+    Status: completed
+
+  [12:03:58] MEDICATION PRESCRIBED: Unknown medication
+    Status: completed
+    Prescribed by: Dr. Rhett759 Padberg411
+
+  [12:03:58] MEDICATION ADMINISTERED: Cyclophosphamide 1000 MG Injection
+    Status: completed
+
+  [12:03:58] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-10-29
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Tresa661 Cameron381 is a 50 year-old nonhispanic white female.
+      # Social History
+
+  [12:03:58] DOCUMENT: History and physical note
+    Status: superseded
+
+  [13:28:58] CLAIM: pharmacy
+    Amount: USD 231.35
+
+  [13:28:58] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2016-11-21
+
+  [10:28:58] VISIT: Encounter for problem (procedure)
+    Provider: Dr. Rhett759 Padberg411
+    Location: VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+    Duration: 10:28:58 - 12:16:58
+
+  [10:28:58] PROCEDURE: Chemotherapy (procedure)
+    Status: completed
+
+  [10:28:58] MEDICATION PRESCRIBED: Unknown medication
+    Status: completed
+    Prescribed by: Dr. Rhett759 Padberg411
+
+  [10:28:58] MEDICATION ADMINISTERED: Cyclophosphamide 1000 MG Injection
+    Status: completed
+
+  [10:28:58] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-11-21
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Tresa661 Cameron381 is a 50 year-old nonhispanic white female.
+      # Social History
+
+  [10:28:58] DOCUMENT: History and physical note
+    Status: superseded
+
+  [12:16:58] CLAIM: pharmacy
+    Amount: USD 231.35
+
+  [12:16:58] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2016-12-12
+
+  [00:16:58] VISIT: Encounter for problem (procedure)
+    Provider: Dr. Rhett759 Padberg411
+    Location: VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+    Duration: 00:16:58 - 01:52:58
+
+  [00:16:58] PROCEDURE: Chemotherapy (procedure)
+    Status: completed
+
+  [00:16:58] MEDICATION PRESCRIBED: Unknown medication
+    Status: completed
+    Prescribed by: Dr. Rhett759 Padberg411
+
+  [00:16:58] MEDICATION ADMINISTERED: Cyclophosphamide 1000 MG Injection
+    Status: completed
+
+  [00:16:58] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-12-12
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Tresa661 Cameron381 is a 50 year-old nonhispanic white female.
+      # Social History
+
+  [00:16:58] DOCUMENT: History and physical note
+    Status: superseded
+
+  [01:52:58] CLAIM: pharmacy
+    Amount: USD 231.35
+
+  [01:52:58] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2017-01-02
+
+  [16:52:58] VISIT: Encounter for problem (procedure)
+    Provider: Dr. Rhett759 Padberg411
+    Location: VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+    Duration: 16:52:58 - 17:07:58
+
+  [16:52:58] PROCEDURE: Chemotherapy (procedure)
+    Status: completed
+
+  [16:52:58] MEDICATION PRESCRIBED: Unknown medication
+    Status: completed
+    Prescribed by: Dr. Rhett759 Padberg411
+
+  [16:52:58] MEDICATION ADMINISTERED: Cyclophosphamide 1000 MG Injection
+    Status: completed
+
+  [16:52:58] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-01-02
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Tresa661 Cameron381 is a 50 year-old nonhispanic white female.
+      # Social History
+
+  [16:52:58] DOCUMENT: History and physical note
+    Status: superseded
+
+  [17:07:58] CLAIM: pharmacy
+    Amount: USD 231.35
+
+  [17:07:58] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2017-01-22
+
+  [10:54:58] VISIT: Encounter for problem (procedure)
+    Provider: Dr. Rhett759 Padberg411
+    Location: VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+    Duration: 10:54:58 - 12:01:58
+
+  [10:54:58] PROCEDURE: Chemotherapy (procedure)
+    Status: completed
+
+  [10:54:58] MEDICATION PRESCRIBED: Unknown medication
+    Status: completed
+    Prescribed by: Dr. Rhett759 Padberg411
+
+  [10:54:58] MEDICATION ADMINISTERED: Cyclophosphamide 1000 MG Injection
+    Status: completed
+
+  [10:54:58] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-01-22
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Tresa661 Cameron381 is a 50 year-old nonhispanic white female.
+      # Social History
+
+  [10:54:58] DOCUMENT: History and physical note
+    Status: superseded
+
+  [12:01:58] CLAIM: pharmacy
+    Amount: USD 231.35
+
+  [12:01:58] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2017-02-10
+
+  [23:01:58] VISIT: Encounter for problem (procedure)
+    Provider: Dr. Rhett759 Padberg411
+    Location: VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+    Duration: 23:01:58 - 23:52:58
+
+  [23:01:58] PROCEDURE: Chemotherapy (procedure)
+    Status: completed
+
+  [23:01:58] MEDICATION PRESCRIBED: Unknown medication
+    Status: completed
+    Prescribed by: Dr. Rhett759 Padberg411
+
+  [23:01:58] MEDICATION ADMINISTERED: Cyclophosphamide 1000 MG Injection
+    Status: completed
+
+  [23:01:58] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-02-10
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Tresa661 Cameron381 is a 50 year-old nonhispanic white female.
+      # Social History
+
+  [23:01:58] DOCUMENT: History and physical note
+    Status: superseded
+
+  [23:52:58] CLAIM: pharmacy
+    Amount: USD 231.35
+
+  [23:52:58] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2017-03-05
+
+  [05:52:58] VISIT: Encounter for problem (procedure)
+    Provider: Dr. Rhett759 Padberg411
+    Location: VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+    Duration: 05:52:58 - 06:31:58
+
+  [05:52:58] PROCEDURE: Chemotherapy (procedure)
+    Status: completed
+
+  [05:52:58] MEDICATION PRESCRIBED: Unknown medication
+    Status: completed
+    Prescribed by: Dr. Rhett759 Padberg411
+
+  [05:52:58] MEDICATION ADMINISTERED: Cyclophosphamide 1000 MG Injection
+    Status: completed
+
+  [05:52:58] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-03-05
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Tresa661 Cameron381 is a 50 year-old nonhispanic white female.
+      # Social History
+
+  [05:52:58] DOCUMENT: History and physical note
+    Status: superseded
+
+  [06:31:58] CLAIM: pharmacy
+    Amount: USD 231.35
+
+  [06:31:58] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2017-03-07
+
+  [21:31:58] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Rhett759 Padberg411
+    Location: VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+    Duration: 21:31:58 - 21:46:58
+
+  [21:31:58] OBSERVATION: Treatment status Cancer: Treatment changed (situation)
+
+  [21:31:58] OBSERVATION: Response to cancer treatment: Worsening (qualifier value)
+
+  [21:31:58] MEDICATION PRESCRIBED: Unknown medication
+    Status: completed
+    Prescribed by: Dr. Rhett759 Padberg411
+
+  [21:31:58] MEDICATION ADMINISTERED: Tamoxifen 10 MG Oral Tablet
+    Status: completed
+    Dosage: 1.0
+
+  [21:31:58] MEDICATION PRESCRIBED: Unknown medication
+    Status: completed
+    Prescribed by: Dr. Rhett759 Padberg411
+
+  [21:31:58] MEDICATION ADMINISTERED: 5 ML hyaluronidase-oysk 2000 UNT/ML / trastuzumab-oysk 120 MG/ML Injection
+    Status: completed
+
+  [21:31:58] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-03-07
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Tresa661 Cameron381 is a 50 year-old nonhispanic white female.
+      # Social History
+
+  [21:31:58] DOCUMENT: History and physical note
+    Status: superseded
+
+  [21:46:58] CLAIM: pharmacy
+    Amount: USD 353.40
+
+  [21:46:58] CLAIM: pharmacy
+    Amount: USD 498.43
+
+  [21:46:58] CLAIM: professional
+    Amount: USD 85.55
+
+
+📅 2017-06-24
+
+  [22:31:58] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Rhett759 Padberg411
+    Location: VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+    Duration: 22:31:58 - 23:08:52
+
+  [22:31:58] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [22:31:58] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-06-24
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Tresa661 Cameron381 is a 50 year-old nonhispanic white female.
+      # Social History
+
+  [22:31:58] DOCUMENT: History and physical note
+    Status: superseded
+
+  [23:08:52] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2017-10-09
+
+  [11:37:58] VISIT: General examination of patient (procedure)
+    Provider: Dr. Millicent213 Mertz280
+    Location: FAMILY HEALTH CENTER OF WORCESTER, INC.
+    Duration: 11:37:58 - 11:52:58
+
+  [11:37:58] IMMUNIZATION: zoster vaccine, live
+    Status: completed
+
+  [11:37:58] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [11:37:58] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [11:37:58] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-10-09
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Tresa661 Cameron381 is a 51 year-old nonhispanic white female.
+      # Social History
+
+  [11:37:58] DOCUMENT: History and physical note
+    Status: superseded
+
+  [11:52:58] CLAIM: professional
+    Amount: USD 544.80
+
+
+📅 2017-10-21
+
+  [23:08:52] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Rhett759 Padberg411
+    Location: VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+    Duration: 23:08:52 - 23:41:38
+
+  [23:08:52] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [23:08:52] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-10-21
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Tresa661 Cameron381 is a 51 year-old nonhispanic white female.
+      # Social History
+
+  [23:08:52] DOCUMENT: History and physical note
+    Status: superseded
+
+  [23:41:38] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2018-02-12
+
+  [22:41:38] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Rhett759 Padberg411
+    Location: VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+    Duration: 22:41:38 - 23:14:15
+
+  [22:41:38] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [22:41:38] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-02-12
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Tresa661 Cameron381 is a 51 year-old nonhispanic white female.
+      # Social History
+
+  [22:41:38] DOCUMENT: History and physical note
+    Status: superseded
+
+  [23:14:15] CLAIM: professional
+    Amount: USD 573.98
+
+  [23:14:15] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Rhett759 Padberg411
+    Location: VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+    Duration: 23:14:15 - 23:36:14
+
+  [23:14:15] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [23:14:15] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-02-12
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Tresa661 Cameron381 is a 51 year-old nonhispanic white female.
+      # Social History
+
+  [23:14:15] DOCUMENT: History and physical note
+    Status: superseded
+
+  [23:36:14] CLAIM: professional
+    Amount: USD 211.60
+
+  [23:36:14] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Rhett759 Padberg411
+    Location: VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+    Duration: 23:36:14 - 00:00:57
+
+  [23:36:14] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [23:36:14] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-02-12
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Tresa661 Cameron381 is a 51 year-old nonhispanic white female.
+      # Social History
+
+  [23:36:14] DOCUMENT: History and physical note
+    Status: superseded
+
+  [23:49:44] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+
+📅 2018-02-13
+
+  [00:00:57] OBSERVATION: Response to cancer treatment: Worsening (qualifier value)
+
+  [00:00:57] CLAIM: professional
+    Amount: USD 3680.06
+
+
+📅 2018-06-08
+
+  [01:00:57] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Rhett759 Padberg411
+    Location: VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+    Duration: 01:00:57 - 01:40:30
+
+  [01:00:57] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [01:00:57] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-06-08
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Tresa661 Cameron381 is a 51 year-old nonhispanic white female.
+      # Social History
+
+  [01:00:57] DOCUMENT: History and physical note
+    Status: superseded
+
+  [01:40:30] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2018-09-22
+
+  [01:40:30] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Rhett759 Padberg411
+    Location: VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+    Duration: 01:40:30 - 02:12:45
+
+  [01:40:30] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [01:40:30] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-09-22
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Tresa661 Cameron381 is a 51 year-old nonhispanic white female.
+      # Social History
+
+  [01:40:30] DOCUMENT: History and physical note
+    Status: superseded
+
+  [02:12:45] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2018-10-15
+
+  [11:37:58] VISIT: General examination of patient (procedure)
+    Provider: Dr. Millicent213 Mertz280
+    Location: FAMILY HEALTH CENTER OF WORCESTER, INC.
+    Duration: 11:37:58 - 11:52:58
+
+  [11:37:58] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [11:37:58] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-10-15
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Tresa661 Cameron381 is a 52 year-old nonhispanic white female.
+      # Social History
+
+  [11:37:58] DOCUMENT: History and physical note
+    Status: superseded
+
+  [11:52:58] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2019-01-13
+
+  [01:12:45] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Rhett759 Padberg411
+    Location: VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+    Duration: 01:12:45 - 01:44:31
+
+  [01:12:45] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [01:12:45] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-01-13
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Tresa661 Cameron381 is a 52 year-old nonhispanic white female.
+      # Social History
+
+  [01:12:45] DOCUMENT: History and physical note
+    Status: superseded
+
+  [01:44:31] CLAIM: professional
+    Amount: USD 573.98
+
+  [01:44:31] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Rhett759 Padberg411
+    Location: VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+    Duration: 01:44:31 - 02:09:13
+
+  [01:44:31] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [01:44:31] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-01-13
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Tresa661 Cameron381 is a 52 year-old nonhispanic white female.
+      # Social History
+
+  [01:44:31] DOCUMENT: History and physical note
+    Status: superseded
+
+  [02:09:13] CLAIM: professional
+    Amount: USD 211.60
+
+  [02:09:13] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Rhett759 Padberg411
+    Location: VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+    Duration: 02:09:13 - 02:41:10
+
+  [02:09:13] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [02:09:13] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-01-13
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Tresa661 Cameron381 is a 52 year-old nonhispanic white female.
+      # Social History
+
+  [02:09:13] DOCUMENT: History and physical note
+    Status: superseded
+
+  [02:23:24] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [02:41:10] OBSERVATION: Response to cancer treatment: Worsening (qualifier value)
+
+  [02:41:10] CLAIM: professional
+    Amount: USD 2183.84
+
+
+📅 2019-05-04
+
+  [03:41:10] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Rhett759 Padberg411
+    Location: VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+    Duration: 03:41:10 - 04:18:41
+
+  [03:41:10] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [03:41:10] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-05-04
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Tresa661 Cameron381 is a 52 year-old nonhispanic white female.
+      # Social History
+
+  [03:41:10] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:18:41] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2019-08-24
+
+  [04:18:41] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Rhett759 Padberg411
+    Location: VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+    Duration: 04:18:41 - 04:58:42
+
+  [04:18:41] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [04:18:41] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-08-24
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Tresa661 Cameron381 is a 52 year-old nonhispanic white female.
+      # Social History
+
+  [04:18:41] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:58:42] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2019-10-21
+
+  [11:37:58] VISIT: General examination of patient (procedure)
+    Provider: Dr. Millicent213 Mertz280
+    Location: FAMILY HEALTH CENTER OF WORCESTER, INC.
+    Duration: 11:37:58 - 11:52:58
+
+  [11:37:58] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [11:37:58] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-10-21
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Tresa661 Cameron381 is a 53 year-old nonhispanic white female.
+      # Social History
+
+  [11:37:58] DOCUMENT: History and physical note
+    Status: superseded
+
+  [11:52:58] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2019-12-26
+
+  [03:58:42] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Rhett759 Padberg411
+    Location: VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+    Duration: 03:58:42 - 04:40:11
+
+  [03:58:42] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [03:58:42] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-12-26
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Tresa661 Cameron381 is a 53 year-old nonhispanic white female.
+      # Social History
+
+  [03:58:42] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:40:11] CLAIM: professional
+    Amount: USD 573.98
+
+  [04:40:11] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Rhett759 Padberg411
+    Location: VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+    Duration: 04:40:11 - 05:02:02
+
+  [04:40:11] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [04:40:11] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-12-26
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Tresa661 Cameron381 is a 53 year-old nonhispanic white female.
+      # Social History
+
+  [04:40:11] DOCUMENT: History and physical note
+    Status: superseded
+
+  [05:02:02] CLAIM: professional
+    Amount: USD 311.79
+
+  [05:02:02] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Rhett759 Padberg411
+    Location: VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+    Duration: 05:02:02 - 05:32:45
+
+  [05:02:02] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [05:02:02] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-12-26
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Tresa661 Cameron381 is a 53 year-old nonhispanic white female.
+      # Social History
+
+  [05:02:02] DOCUMENT: History and physical note
+    Status: superseded
+
+  [05:13:52] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [05:32:45] OBSERVATION: Response to cancer treatment: Worsening (qualifier value)
+
+  [05:32:45] CLAIM: professional
+    Amount: USD 3680.06
+
+
+📅 2020-04-06
+
+  [11:37:58] VISIT: Death Certification
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Millicent213 Mertz280
+    Location: FAMILY HEALTH CENTER OF WORCESTER, INC.
+    Duration: 11:37:58 - 11:52:58
+
+  [11:37:58] OBSERVATION: Cause of Death [US Standard Certificate of Death]: Malignant neoplasm of breast (disorder)
+
+  [11:37:58] DIAGNOSTIC REPORT: U.S. standard certificate of death - 2003 revision
+
+  [11:37:58] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-04-06
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Tresa661 Cameron381 is a 53 year-old nonhispanic white female.
+      # Social History
+
+  [11:37:58] DOCUMENT: History and physical note
+    Status: current
+
+  [11:37:58] PROVENANCE: Record activity
+    Agents: Dr. Millicent213 Mertz280, Dr. Millicent213 Mertz280
+
+  [11:52:58] CLAIM: professional
+    Amount: USD 211.38
+
+================================================================================
+END OF TIMELINE (236 events)
+================================================================================

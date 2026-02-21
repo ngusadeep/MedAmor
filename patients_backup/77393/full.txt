@@ -1,0 +1,1595 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Mrs. Kasie673 Echo53 Berge125
+  Patient ID: 77393
+  Date of Birth: 1973-12-11
+  Gender: Female
+  Race: White
+  Ethnicity: Not Hispanic or Latino
+  Marital Status: Married
+  Address: 415 Corwin Forge, Milton, MA 02186
+  Phone: 555-413-5891
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2017-12-26
+
+  [08:24:57] VISIT: General examination of patient (procedure)
+    Provider: Dr. Delinda651 Krajcik437
+    Location: QUINCY PRIMARY HEALTHCARE PC
+    Duration: 08:24:57 - 08:39:57
+
+  [08:24:57] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [08:24:57] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-12-26
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kasie673 Echo53 is a 44 year-old nonhispanic white female.
+      # Social History
+
+  [08:24:57] DOCUMENT: History and physical note
+    Status: superseded
+
+  [08:39:57] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2019-12-31
+
+  [08:24:57] VISIT: General examination of patient (procedure)
+    Provider: Dr. Delinda651 Krajcik437
+    Location: QUINCY PRIMARY HEALTHCARE PC
+    Duration: 08:24:57 - 08:39:57
+
+  [08:24:57] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [08:24:57] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-12-31
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kasie673 Echo53 is a 46 year-old nonhispanic white female.
+      # Social History
+
+  [08:24:57] DOCUMENT: History and physical note
+    Status: superseded
+
+  [08:39:57] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2022-01-04
+
+  [08:24:57] VISIT: General examination of patient (procedure)
+    Provider: Dr. Delinda651 Krajcik437
+    Location: QUINCY PRIMARY HEALTHCARE PC
+    Duration: 08:24:57 - 08:39:57
+
+  [08:24:57] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [08:24:57] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-01-04
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kasie673 Echo53 is a 48 year-old nonhispanic white female.
+      # Social History
+
+  [08:24:57] DOCUMENT: History and physical note
+    Status: superseded
+
+  [08:39:57] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2023-05-23
+
+  [09:24:57] VISIT: Periodic reevaluation and management of healthy individual (procedure)
+    Reason: Screening for malignant neoplasm of breast (procedure)
+    Provider: Dr. Xochitl483 Haley279
+    Location: ARBOUR HOSPITAL, THE
+    Duration: 09:24:57 - 07:35:08
+
+  [09:24:57] PROCEDURE: Screening mammography (procedure)
+    Status: completed
+
+  [09:24:57] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-05-23
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kasie673 Echo53 is a 49 year-old nonhispanic white female.
+      # Social History
+
+  [09:24:57] DOCUMENT: History and physical note
+    Status: superseded
+
+  [09:44:30] PROCEDURE: Magnetic resonance imaging of breast (procedure)
+    Status: completed
+
+  [11:02:51] PROCEDURE: Biopsy of breast (procedure)
+    Status: completed
+
+  [11:29:08] CONDITION: Malignant neoplasm of breast (disorder) (active)
+
+  [11:29:08] OBSERVATION: Site of distant metastasis in Breast tumor: None (qualifier value)
+
+  [11:29:08] OBSERVATION: Distant metastases.clinical [Class] Cancer: American Joint Committee on Cancer cM0 (qualifier value)
+
+  [11:29:08] OBSERVATION: Size.maximum dimension in Tumor: 0.41307 cm
+
+  [11:29:08] OBSERVATION: Primary tumor.clinical [Class] Cancer: American Joint Committee on Cancer cT1 (qualifier value)
+
+  [11:29:08] OBSERVATION: Lymph nodes with isolated tumor cells [#] in Cancer specimen by Light microscopy: 0 {#}
+
+  [11:29:08] OBSERVATION: Regional lymph nodes.clinical [Class] Cancer: American Joint Committee on Cancer cN0 (qualifier value)
+
+  [11:29:08] PROCEDURE: Human epidermal growth factor receptor 2 gene detection by fluorescence in situ hybridization (procedure)
+    Status: completed
+
+
+📅 2023-05-25
+
+  [05:29:08] PROCEDURE: Human epidermal growth factor receptor 2 gene detection by immunohistochemistry (procedure)
+    Status: completed
+
+  [07:35:08] OBSERVATION: HER2 [Presence] in Breast cancer specimen by Immune stain: Negative (qualifier value)
+
+  [07:35:08] OBSERVATION: ERBB2 gene duplication [Presence] in Breast cancer specimen by FISH: less than 1.8
+
+  [07:35:08] OBSERVATION: Estrogen receptor Ag [Presence] in Breast cancer specimen by Immune stain: Positive (qualifier value)
+
+  [07:35:08] OBSERVATION: Progesterone receptor Ag [Presence] in Breast cancer specimen by Immune stain: Negative (qualifier value)
+
+  [07:35:08] OBSERVATION: Stage group.clinical Cancer: American Joint Committee on Cancer stage IA (qualifier value)
+
+  [07:35:08] OBSERVATION: Stage group.clinical Cancer: Stage 1 (qualifier value)
+
+  [07:35:08] CLAIM: professional
+    Amount: USD 6040.91
+
+
+📅 2023-05-30
+
+  [12:35:08] VISIT: Discussion about treatment (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Xochitl483 Haley279
+    Location: ARBOUR HOSPITAL, THE
+    Duration: 12:35:08 - 13:31:32
+
+  [12:35:08] PROCEDURE: Discussion about options (procedure)
+    Status: completed
+
+  [12:35:08] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-05-30
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kasie673 Echo53 is a 49 year-old nonhispanic white female.
+      # Social History
+
+  [12:35:08] DOCUMENT: History and physical note
+    Status: superseded
+
+  [13:31:32] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2023-06-01
+
+  [13:31:32] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Margaret865 Reinger292
+    Location: CARNEY HOSPITAL
+    Duration: 13:31:32 - 14:00:26
+
+  [13:31:32] PROCEDURE: Lumpectomy of breast (procedure)
+    Status: completed
+
+  [13:31:32] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-06-01
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kasie673 Echo53 is a 49 year-old nonhispanic white female.
+      # Social History
+
+  [13:31:32] DOCUMENT: History and physical note
+    Status: superseded
+
+
+📅 2023-06-02
+
+  [14:00:26] CLAIM: institutional
+    Amount: USD 25325.38
+
+
+📅 2023-06-08
+
+  [14:00:26] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Xochitl483 Haley279
+    Location: ARBOUR HOSPITAL, THE
+    Duration: 14:00:26 - 14:16:34
+
+  [14:00:26] PROCEDURE: Radiotherapy (procedure)
+    Status: completed
+
+  [14:00:26] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-06-08
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kasie673 Echo53 is a 49 year-old nonhispanic white female.
+      # Social History
+
+  [14:00:26] DOCUMENT: History and physical note
+    Status: superseded
+
+  [14:16:34] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2023-06-09
+
+  [17:53:34] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Xochitl483 Haley279
+    Location: ARBOUR HOSPITAL, THE
+    Duration: 17:53:34 - 18:16:46
+
+  [17:53:34] PROCEDURE: Radiotherapy (procedure)
+    Status: completed
+
+  [17:53:34] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-06-09
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kasie673 Echo53 is a 49 year-old nonhispanic white female.
+      # Social History
+
+  [17:53:34] DOCUMENT: History and physical note
+    Status: superseded
+
+  [18:16:46] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2023-06-11
+
+  [00:20:46] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Xochitl483 Haley279
+    Location: ARBOUR HOSPITAL, THE
+    Duration: 00:20:46 - 00:41:20
+
+  [00:20:46] PROCEDURE: Radiotherapy (procedure)
+    Status: completed
+
+  [00:20:46] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-06-11
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kasie673 Echo53 is a 49 year-old nonhispanic white female.
+      # Social History
+
+  [00:20:46] DOCUMENT: History and physical note
+    Status: superseded
+
+  [00:41:20] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2023-06-12
+
+  [03:17:20] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Xochitl483 Haley279
+    Location: ARBOUR HOSPITAL, THE
+    Duration: 03:17:20 - 03:39:33
+
+  [03:17:20] PROCEDURE: Radiotherapy (procedure)
+    Status: completed
+
+  [03:17:20] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-06-12
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kasie673 Echo53 is a 49 year-old nonhispanic white female.
+      # Social History
+
+  [03:17:20] DOCUMENT: History and physical note
+    Status: superseded
+
+  [03:39:33] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2023-06-13
+
+  [14:38:33] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Xochitl483 Haley279
+    Location: ARBOUR HOSPITAL, THE
+    Duration: 14:38:33 - 15:10:14
+
+  [14:38:33] PROCEDURE: Radiotherapy (procedure)
+    Status: completed
+
+  [14:38:33] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-06-13
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kasie673 Echo53 is a 49 year-old nonhispanic white female.
+      # Social History
+
+  [14:38:33] DOCUMENT: History and physical note
+    Status: superseded
+
+  [15:10:14] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2023-06-14
+
+  [16:44:14] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Xochitl483 Haley279
+    Location: ARBOUR HOSPITAL, THE
+    Duration: 16:44:14 - 17:09:41
+
+  [16:44:14] PROCEDURE: Radiotherapy (procedure)
+    Status: completed
+
+  [16:44:14] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-06-14
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kasie673 Echo53 is a 49 year-old nonhispanic white female.
+      # Social History
+
+  [16:44:14] DOCUMENT: History and physical note
+    Status: superseded
+
+  [17:09:41] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2023-06-15
+
+  [22:18:41] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Xochitl483 Haley279
+    Location: ARBOUR HOSPITAL, THE
+    Duration: 22:18:41 - 22:53:51
+
+  [22:18:41] PROCEDURE: Radiotherapy (procedure)
+    Status: completed
+
+  [22:18:41] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-06-15
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kasie673 Echo53 is a 49 year-old nonhispanic white female.
+      # Social History
+
+  [22:18:41] DOCUMENT: History and physical note
+    Status: superseded
+
+  [22:53:51] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2023-06-17
+
+  [03:38:51] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Xochitl483 Haley279
+    Location: ARBOUR HOSPITAL, THE
+    Duration: 03:38:51 - 04:11:24
+
+  [03:38:51] PROCEDURE: Radiotherapy (procedure)
+    Status: completed
+
+  [03:38:51] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-06-17
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kasie673 Echo53 is a 49 year-old nonhispanic white female.
+      # Social History
+
+  [03:38:51] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:11:24] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2023-06-18
+
+  [16:06:24] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Xochitl483 Haley279
+    Location: ARBOUR HOSPITAL, THE
+    Duration: 16:06:24 - 16:22:20
+
+  [16:06:24] PROCEDURE: Radiotherapy (procedure)
+    Status: completed
+
+  [16:06:24] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-06-18
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kasie673 Echo53 is a 49 year-old nonhispanic white female.
+      # Social History
+
+  [16:06:24] DOCUMENT: History and physical note
+    Status: superseded
+
+  [16:22:20] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2023-06-20
+
+  [01:00:20] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Xochitl483 Haley279
+    Location: ARBOUR HOSPITAL, THE
+    Duration: 01:00:20 - 01:18:39
+
+  [01:00:20] PROCEDURE: Radiotherapy (procedure)
+    Status: completed
+
+  [01:00:20] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-06-20
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kasie673 Echo53 is a 49 year-old nonhispanic white female.
+      # Social History
+
+  [01:00:20] DOCUMENT: History and physical note
+    Status: superseded
+
+  [01:18:39] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2023-06-21
+
+  [10:20:39] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Xochitl483 Haley279
+    Location: ARBOUR HOSPITAL, THE
+    Duration: 10:20:39 - 10:58:47
+
+  [10:20:39] PROCEDURE: Radiotherapy (procedure)
+    Status: completed
+
+  [10:20:39] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-06-21
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kasie673 Echo53 is a 49 year-old nonhispanic white female.
+      # Social History
+
+  [10:20:39] DOCUMENT: History and physical note
+    Status: superseded
+
+  [10:58:47] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2023-06-22
+
+  [12:03:47] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Xochitl483 Haley279
+    Location: ARBOUR HOSPITAL, THE
+    Duration: 12:03:47 - 12:39:28
+
+  [12:03:47] PROCEDURE: Radiotherapy (procedure)
+    Status: completed
+
+  [12:03:47] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-06-22
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kasie673 Echo53 is a 49 year-old nonhispanic white female.
+      # Social History
+
+  [12:03:47] DOCUMENT: History and physical note
+    Status: superseded
+
+  [12:39:28] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2023-06-23
+
+  [22:53:28] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Xochitl483 Haley279
+    Location: ARBOUR HOSPITAL, THE
+    Duration: 22:53:28 - 23:18:49
+
+  [22:53:28] PROCEDURE: Radiotherapy (procedure)
+    Status: completed
+
+  [22:53:28] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-06-23
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kasie673 Echo53 is a 49 year-old nonhispanic white female.
+      # Social History
+
+  [22:53:28] DOCUMENT: History and physical note
+    Status: superseded
+
+  [23:18:49] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2023-06-25
+
+  [06:52:49] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Xochitl483 Haley279
+    Location: ARBOUR HOSPITAL, THE
+    Duration: 06:52:49 - 07:25:54
+
+  [06:52:49] PROCEDURE: Radiotherapy (procedure)
+    Status: completed
+
+  [06:52:49] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-06-25
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kasie673 Echo53 is a 49 year-old nonhispanic white female.
+      # Social History
+
+  [06:52:49] DOCUMENT: History and physical note
+    Status: superseded
+
+  [07:25:54] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2023-06-26
+
+  [16:18:54] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Xochitl483 Haley279
+    Location: ARBOUR HOSPITAL, THE
+    Duration: 16:18:54 - 16:50:32
+
+  [16:18:54] PROCEDURE: Radiotherapy (procedure)
+    Status: completed
+
+  [16:18:54] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-06-26
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kasie673 Echo53 is a 49 year-old nonhispanic white female.
+      # Social History
+
+  [16:18:54] DOCUMENT: History and physical note
+    Status: superseded
+
+  [16:50:32] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2023-06-27
+
+  [18:52:32] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Xochitl483 Haley279
+    Location: ARBOUR HOSPITAL, THE
+    Duration: 18:52:32 - 19:13:59
+
+  [18:52:32] PROCEDURE: Radiotherapy (procedure)
+    Status: completed
+
+  [18:52:32] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-06-27
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kasie673 Echo53 is a 49 year-old nonhispanic white female.
+      # Social History
+
+  [18:52:32] DOCUMENT: History and physical note
+    Status: superseded
+
+  [19:13:59] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2023-06-29
+
+  [00:17:59] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Xochitl483 Haley279
+    Location: ARBOUR HOSPITAL, THE
+    Duration: 00:17:59 - 00:57:53
+
+  [00:17:59] PROCEDURE: Radiotherapy (procedure)
+    Status: completed
+
+  [00:17:59] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-06-29
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kasie673 Echo53 is a 49 year-old nonhispanic white female.
+      # Social History
+
+  [00:17:59] DOCUMENT: History and physical note
+    Status: superseded
+
+  [00:57:53] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2023-06-30
+
+  [12:01:53] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Xochitl483 Haley279
+    Location: ARBOUR HOSPITAL, THE
+    Duration: 12:01:53 - 12:27:51
+
+  [12:01:53] PROCEDURE: Radiotherapy (procedure)
+    Status: completed
+
+  [12:01:53] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-06-30
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kasie673 Echo53 is a 49 year-old nonhispanic white female.
+      # Social History
+
+  [12:01:53] DOCUMENT: History and physical note
+    Status: superseded
+
+  [12:27:51] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2023-07-01
+
+  [20:24:51] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Xochitl483 Haley279
+    Location: ARBOUR HOSPITAL, THE
+    Duration: 20:24:51 - 20:57:07
+
+  [20:24:51] PROCEDURE: Radiotherapy (procedure)
+    Status: completed
+
+  [20:24:51] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-07-01
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kasie673 Echo53 is a 49 year-old nonhispanic white female.
+      # Social History
+
+  [20:24:51] DOCUMENT: History and physical note
+    Status: superseded
+
+  [20:57:07] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2023-07-03
+
+  [03:05:07] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Xochitl483 Haley279
+    Location: ARBOUR HOSPITAL, THE
+    Duration: 03:05:07 - 03:24:44
+
+  [03:05:07] PROCEDURE: Radiotherapy (procedure)
+    Status: completed
+
+  [03:05:07] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-07-03
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kasie673 Echo53 is a 49 year-old nonhispanic white female.
+      # Social History
+
+  [03:05:07] DOCUMENT: History and physical note
+    Status: superseded
+
+  [03:24:44] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2023-07-04
+
+  [10:22:44] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Xochitl483 Haley279
+    Location: ARBOUR HOSPITAL, THE
+    Duration: 10:22:44 - 10:47:11
+
+  [10:22:44] PROCEDURE: Radiotherapy (procedure)
+    Status: completed
+
+  [10:22:44] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-07-04
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kasie673 Echo53 is a 49 year-old nonhispanic white female.
+      # Social History
+
+  [10:22:44] DOCUMENT: History and physical note
+    Status: superseded
+
+  [10:47:11] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2023-07-05
+
+  [10:57:11] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Xochitl483 Haley279
+    Location: ARBOUR HOSPITAL, THE
+    Duration: 10:57:11 - 11:36:49
+
+  [10:57:11] PROCEDURE: Radiotherapy (procedure)
+    Status: completed
+
+  [10:57:11] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-07-05
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kasie673 Echo53 is a 49 year-old nonhispanic white female.
+      # Social History
+
+  [10:57:11] DOCUMENT: History and physical note
+    Status: superseded
+
+  [11:36:49] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2023-07-06
+
+  [16:04:49] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Xochitl483 Haley279
+    Location: ARBOUR HOSPITAL, THE
+    Duration: 16:04:49 - 16:32:26
+
+  [16:04:49] PROCEDURE: Radiotherapy (procedure)
+    Status: completed
+
+  [16:04:49] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-07-06
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kasie673 Echo53 is a 49 year-old nonhispanic white female.
+      # Social History
+
+  [16:04:49] DOCUMENT: History and physical note
+    Status: superseded
+
+  [16:32:26] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2023-07-07
+
+  [20:32:26] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Xochitl483 Haley279
+    Location: ARBOUR HOSPITAL, THE
+    Duration: 20:32:26 - 20:47:56
+
+  [20:32:26] PROCEDURE: Radiotherapy (procedure)
+    Status: completed
+
+  [20:32:26] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-07-07
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kasie673 Echo53 is a 49 year-old nonhispanic white female.
+      # Social History
+
+  [20:32:26] DOCUMENT: History and physical note
+    Status: superseded
+
+  [20:47:56] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2023-07-09
+
+  [01:37:56] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Xochitl483 Haley279
+    Location: ARBOUR HOSPITAL, THE
+    Duration: 01:37:56 - 02:04:36
+
+  [01:37:56] PROCEDURE: Radiotherapy (procedure)
+    Status: completed
+
+  [01:37:56] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-07-09
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kasie673 Echo53 is a 49 year-old nonhispanic white female.
+      # Social History
+
+  [01:37:56] DOCUMENT: History and physical note
+    Status: superseded
+
+  [02:04:36] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2023-07-10
+
+  [13:01:36] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Xochitl483 Haley279
+    Location: ARBOUR HOSPITAL, THE
+    Duration: 13:01:36 - 13:31:36
+
+  [13:01:36] PROCEDURE: Radiotherapy (procedure)
+    Status: completed
+
+  [13:01:36] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-07-10
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kasie673 Echo53 is a 49 year-old nonhispanic white female.
+      # Social History
+
+  [13:01:36] DOCUMENT: History and physical note
+    Status: superseded
+
+  [13:31:36] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2023-07-11
+
+  [22:13:36] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Xochitl483 Haley279
+    Location: ARBOUR HOSPITAL, THE
+    Duration: 22:13:36 - 22:38:43
+
+  [22:13:36] PROCEDURE: Radiotherapy (procedure)
+    Status: completed
+
+  [22:13:36] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-07-11
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kasie673 Echo53 is a 49 year-old nonhispanic white female.
+      # Social History
+
+  [22:13:36] DOCUMENT: History and physical note
+    Status: superseded
+
+  [22:38:43] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2023-07-13
+
+  [07:37:43] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Xochitl483 Haley279
+    Location: ARBOUR HOSPITAL, THE
+    Duration: 07:37:43 - 07:53:35
+
+  [07:37:43] PROCEDURE: Radiotherapy (procedure)
+    Status: completed
+
+  [07:37:43] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-07-13
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kasie673 Echo53 is a 49 year-old nonhispanic white female.
+      # Social History
+
+  [07:37:43] DOCUMENT: History and physical note
+    Status: superseded
+
+  [07:53:35] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2023-07-14
+
+  [10:52:35] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Xochitl483 Haley279
+    Location: ARBOUR HOSPITAL, THE
+    Duration: 10:52:35 - 11:31:34
+
+  [10:52:35] PROCEDURE: Radiotherapy (procedure)
+    Status: completed
+
+  [10:52:35] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-07-14
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kasie673 Echo53 is a 49 year-old nonhispanic white female.
+      # Social History
+
+  [10:52:35] DOCUMENT: History and physical note
+    Status: superseded
+
+  [11:31:34] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2023-07-15
+
+  [17:39:34] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Xochitl483 Haley279
+    Location: ARBOUR HOSPITAL, THE
+    Duration: 17:39:34 - 17:54:41
+
+  [17:39:34] PROCEDURE: Radiotherapy (procedure)
+    Status: completed
+
+  [17:39:34] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-07-15
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kasie673 Echo53 is a 49 year-old nonhispanic white female.
+      # Social History
+
+  [17:39:34] DOCUMENT: History and physical note
+    Status: superseded
+
+  [17:54:41] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2023-07-17
+
+  [04:36:41] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Xochitl483 Haley279
+    Location: ARBOUR HOSPITAL, THE
+    Duration: 04:36:41 - 05:09:34
+
+  [04:36:41] PROCEDURE: Radiotherapy (procedure)
+    Status: completed
+
+  [04:36:41] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-07-17
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kasie673 Echo53 is a 49 year-old nonhispanic white female.
+      # Social History
+
+  [04:36:41] DOCUMENT: History and physical note
+    Status: superseded
+
+  [05:09:34] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2023-07-18
+
+  [05:58:34] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Xochitl483 Haley279
+    Location: ARBOUR HOSPITAL, THE
+    Duration: 05:58:34 - 06:14:47
+
+  [05:58:34] PROCEDURE: Radiotherapy (procedure)
+    Status: completed
+
+  [05:58:34] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-07-18
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kasie673 Echo53 is a 49 year-old nonhispanic white female.
+      # Social History
+
+  [05:58:34] DOCUMENT: History and physical note
+    Status: superseded
+
+  [06:14:47] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2023-07-19
+
+  [14:21:47] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Xochitl483 Haley279
+    Location: ARBOUR HOSPITAL, THE
+    Duration: 14:21:47 - 14:58:53
+
+  [14:21:47] PROCEDURE: Radiotherapy (procedure)
+    Status: completed
+
+  [14:21:47] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-07-19
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kasie673 Echo53 is a 49 year-old nonhispanic white female.
+      # Social History
+
+  [14:21:47] DOCUMENT: History and physical note
+    Status: superseded
+
+  [14:58:53] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2023-07-20
+
+  [15:16:53] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Xochitl483 Haley279
+    Location: ARBOUR HOSPITAL, THE
+    Duration: 15:16:53 - 15:50:55
+
+  [15:16:53] PROCEDURE: Radiotherapy (procedure)
+    Status: completed
+
+  [15:16:53] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-07-20
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kasie673 Echo53 is a 49 year-old nonhispanic white female.
+      # Social History
+
+  [15:16:53] DOCUMENT: History and physical note
+    Status: superseded
+
+  [15:50:55] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2023-07-26
+
+  [05:50:55] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Xochitl483 Haley279
+    Location: ARBOUR HOSPITAL, THE
+    Duration: 05:50:55 - 06:05:55
+
+  [05:50:55] OBSERVATION: Treatment status Cancer: Treatment changed (situation)
+
+  [05:50:55] OBSERVATION: Response to cancer treatment: Improving (qualifier value)
+
+  [05:50:55] MEDICATION PRESCRIBED: Unknown medication
+    Status: completed
+    Prescribed by: Dr. Xochitl483 Haley279
+
+  [05:50:55] MEDICATION ADMINISTERED: Tamoxifen 10 MG Oral Tablet
+    Status: completed
+    Dosage: 1.0
+
+  [05:50:55] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-07-26
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kasie673 Echo53 is a 49 year-old nonhispanic white female.
+      # Social History
+
+  [05:50:55] DOCUMENT: History and physical note
+    Status: superseded
+
+  [06:05:55] CLAIM: pharmacy
+    Amount: USD 409.20
+
+  [06:05:55] CLAIM: professional
+    Amount: USD 85.55
+
+
+📅 2023-11-11
+
+  [04:50:55] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Xochitl483 Haley279
+    Location: ARBOUR HOSPITAL, THE
+    Duration: 04:50:55 - 05:35:24
+
+  [04:50:55] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [04:50:55] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-11-11
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kasie673 Echo53 is a 49 year-old nonhispanic white female.
+      # Social History
+
+  [04:50:55] DOCUMENT: History and physical note
+    Status: superseded
+
+  [05:35:24] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2023-12-12
+
+  [08:24:57] VISIT: General examination of patient (procedure)
+    Provider: Dr. Delinda651 Krajcik437
+    Location: QUINCY PRIMARY HEALTHCARE PC
+    Duration: 08:24:57 - 08:39:57
+
+  [08:24:57] IMMUNIZATION: zoster vaccine, live
+    Status: completed
+
+  [08:24:57] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [08:24:57] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-12-12
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kasie673 Echo53 is a 50 year-old nonhispanic white female.
+      # Social History
+
+  [08:24:57] DOCUMENT: History and physical note
+    Status: superseded
+
+  [08:39:57] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2024-03-04
+
+  [05:35:24] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Xochitl483 Haley279
+    Location: ARBOUR HOSPITAL, THE
+    Duration: 05:35:24 - 06:06:41
+
+  [05:35:24] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [05:35:24] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-03-04
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kasie673 Echo53 is a 50 year-old nonhispanic white female.
+      # Social History
+
+  [05:35:24] DOCUMENT: History and physical note
+    Status: superseded
+
+  [06:06:41] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2024-07-04
+
+  [07:06:41] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Xochitl483 Haley279
+    Location: ARBOUR HOSPITAL, THE
+    Duration: 07:06:41 - 07:43:00
+
+  [07:06:41] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [07:06:41] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-07-04
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kasie673 Echo53 is a 50 year-old nonhispanic white female.
+      # Social History
+
+  [07:06:41] DOCUMENT: History and physical note
+    Status: superseded
+
+  [07:43:00] CLAIM: professional
+    Amount: USD 573.98
+
+  [07:43:00] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Xochitl483 Haley279
+    Location: ARBOUR HOSPITAL, THE
+    Duration: 07:43:00 - 08:03:25
+
+  [07:43:00] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [07:43:00] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-07-04
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kasie673 Echo53 is a 50 year-old nonhispanic white female.
+      # Social History
+
+  [07:43:00] DOCUMENT: History and physical note
+    Status: superseded
+
+  [08:03:25] CLAIM: professional
+    Amount: USD 325.49
+
+  [08:03:25] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Xochitl483 Haley279
+    Location: ARBOUR HOSPITAL, THE
+    Duration: 08:03:25 - 08:25:43
+
+  [08:03:25] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [08:03:25] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-07-04
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kasie673 Echo53 is a 50 year-old nonhispanic white female.
+      # Social History
+
+  [08:03:25] DOCUMENT: History and physical note
+    Status: superseded
+
+  [08:14:06] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [08:25:43] OBSERVATION: Response to cancer treatment: Improving (qualifier value)
+
+  [08:25:43] CLAIM: professional
+    Amount: USD 1623.30
+
+
+📅 2024-10-30
+
+  [08:25:43] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Xochitl483 Haley279
+    Location: Patient's Home
+    Duration: 08:25:43 - 08:58:38
+
+  [08:25:43] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [08:25:43] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-10-30
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kasie673 Echo53 is a 50 year-old nonhispanic white female.
+      # Social History
+
+  [08:25:43] DOCUMENT: History and physical note
+    Status: superseded
+
+  [08:58:38] CLAIM: institutional
+    Amount: USD 556.40
+
+
+📅 2024-12-17
+
+  [08:24:57] VISIT: General examination of patient (procedure)
+    Provider: Dr. Delinda651 Krajcik437
+    Location: QUINCY PRIMARY HEALTHCARE PC
+    Duration: 08:24:57 - 08:39:57
+
+  [08:24:57] IMMUNIZATION: zoster vaccine, live
+    Status: completed
+
+  [08:24:57] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [08:24:57] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [08:24:57] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-12-17
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kasie673 Echo53 is a 51 year-old nonhispanic white female.
+      # Social History
+
+  [08:24:57] DOCUMENT: History and physical note
+    Status: superseded
+
+  [08:39:57] CLAIM: professional
+    Amount: USD 544.80
+
+
+📅 2025-03-03
+
+  [07:58:38] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Xochitl483 Haley279
+    Location: ARBOUR HOSPITAL, THE
+    Duration: 07:58:38 - 08:36:11
+
+  [07:58:38] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [07:58:38] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-03-03
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kasie673 Echo53 is a 51 year-old nonhispanic white female.
+      # Social History
+
+  [07:58:38] DOCUMENT: History and physical note
+    Status: superseded
+
+  [08:36:11] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2025-06-13
+
+  [09:36:11] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Xochitl483 Haley279
+    Location: ARBOUR HOSPITAL, THE
+    Duration: 09:36:11 - 10:14:34
+
+  [09:36:11] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [09:36:11] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-06-13
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kasie673 Echo53 is a 51 year-old nonhispanic white female.
+      # Social History
+
+  [09:36:11] DOCUMENT: History and physical note
+    Status: superseded
+
+  [10:14:34] CLAIM: professional
+    Amount: USD 573.98
+
+  [10:14:34] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Xochitl483 Haley279
+    Location: ARBOUR HOSPITAL, THE
+    Duration: 10:14:34 - 10:29:45
+
+  [10:14:34] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [10:14:34] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-06-13
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kasie673 Echo53 is a 51 year-old nonhispanic white female.
+      # Social History
+
+  [10:14:34] DOCUMENT: History and physical note
+    Status: superseded
+
+  [10:29:45] CLAIM: professional
+    Amount: USD 211.60
+
+  [10:29:45] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Xochitl483 Haley279
+    Location: ARBOUR HOSPITAL, THE
+    Duration: 10:29:45 - 10:53:57
+
+  [10:29:45] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [10:29:45] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-06-13
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kasie673 Echo53 is a 51 year-old nonhispanic white female.
+      # Social History
+
+  [10:29:45] DOCUMENT: History and physical note
+    Status: superseded
+
+  [10:40:22] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [10:53:57] OBSERVATION: Response to cancer treatment: Improving (qualifier value)
+
+  [10:53:57] CLAIM: professional
+    Amount: USD 1091.66
+
+
+📅 2025-10-02
+
+  [10:53:57] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Xochitl483 Haley279
+    Location: ARBOUR HOSPITAL, THE
+    Duration: 10:53:57 - 11:36:39
+
+  [10:53:57] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [10:53:57] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-10-02
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kasie673 Echo53 is a 51 year-old nonhispanic white female.
+      # Social History
+
+  [10:53:57] DOCUMENT: History and physical note
+    Status: superseded
+
+  [11:36:39] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2025-12-23
+
+  [08:24:57] VISIT: General examination of patient (procedure)
+    Provider: Dr. Delinda651 Krajcik437
+    Location: QUINCY PRIMARY HEALTHCARE PC
+    Duration: 08:24:57 - 08:39:57
+
+  [08:24:57] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [08:24:57] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-12-23
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kasie673 Echo53 is a 52 year-old nonhispanic white female.
+      # Social History
+
+  [08:24:57] DOCUMENT: History and physical note
+    Status: superseded
+
+  [08:39:57] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2026-01-15
+
+  [10:36:39] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Xochitl483 Haley279
+    Location: Patient's Home
+    Duration: 10:36:39 - 11:20:23
+
+  [10:36:39] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [10:36:39] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2026-01-15
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kasie673 Echo53 is a 52 year-old nonhispanic white female.
+      # Social History
+
+  [10:36:39] DOCUMENT: History and physical note
+    Status: current
+
+  [11:20:23] CLAIM: institutional
+    Amount: USD 556.40
+
+
+📅 2026-02-10
+
+  [08:24:57] PROVENANCE: Record activity
+    Agents: Dr. Xochitl483 Haley279, Dr. Xochitl483 Haley279
+
+================================================================================
+END OF TIMELINE (309 events)
+================================================================================

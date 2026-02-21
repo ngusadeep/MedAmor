@@ -1,0 +1,159 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Ms. Latanya388 Lyn897 Gutkowski940
+  Patient ID: 87872
+  Date of Birth: 1984-10-10
+  Gender: Female
+  Race: White
+  Ethnicity: Not Hispanic or Latino
+  Marital Status: Never Married
+  Address: 477 Lynch Spur, East Pepperell, MA 00000
+  Phone: 555-279-7954
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2018-12-26
+
+  [14:54:41] VISIT: General examination of patient (procedure)
+    Provider: Dr. Antonette454 Tromp100
+    Location: NASHOBA VALLEY MEDICAL CENTER
+    Duration: 14:54:41 - 15:09:41
+
+  [14:54:41] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [14:54:41] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-12-26
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Latanya388 is a 34 year-old nonhispanic white female.
+      # Social History
+
+  [14:54:41] DOCUMENT: History and physical note
+    Status: superseded
+
+  [15:09:41] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2021-10-13
+
+  [15:54:41] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Sasha806 D'Amore443
+    Location: NASHOBA VALLEY MEDICAL CENTER, A STEWARD FAMILY HOSPITAL INC
+    Duration: 15:54:41 - 16:09:41
+
+  [15:54:41] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+    Status: completed
+
+  [15:54:41] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-10-13
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Latanya388 is a 37 year-old nonhispanic white female.
+      # Social History
+
+  [15:54:41] DOCUMENT: History and physical note
+    Status: superseded
+
+  [16:09:41] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-11-10
+
+  [14:54:41] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Sasha806 D'Amore443
+    Location: NASHOBA VALLEY MEDICAL CENTER, A STEWARD FAMILY HOSPITAL INC
+    Duration: 14:54:41 - 15:09:41
+
+  [14:54:41] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+    Status: completed
+
+  [14:54:41] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-11-10
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Latanya388 is a 37 year-old nonhispanic white female.
+      # Social History
+
+  [14:54:41] DOCUMENT: History and physical note
+    Status: superseded
+
+  [15:09:41] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-12-29
+
+  [14:54:41] VISIT: General examination of patient (procedure)
+    Provider: Dr. Antonette454 Tromp100
+    Location: NASHOBA VALLEY MEDICAL CENTER
+    Duration: 14:54:41 - 15:09:41
+
+  [14:54:41] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [14:54:41] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-12-29
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Latanya388 is a 37 year-old nonhispanic white female.
+      # Social History
+
+  [14:54:41] DOCUMENT: History and physical note
+    Status: superseded
+
+  [15:09:41] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2024-10-16
+
+  [15:54:41] VISIT: General examination of patient (procedure)
+    Provider: Dr. Antonette454 Tromp100
+    Location: NASHOBA VALLEY MEDICAL CENTER
+    Duration: 15:54:41 - 16:09:41
+
+  [15:54:41] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [15:54:41] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [15:54:41] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-10-16
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Latanya388 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [15:54:41] DOCUMENT: History and physical note
+    Status: current
+
+  [16:09:41] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2026-02-11
+
+  [14:54:41] PROVENANCE: Record activity
+    Agents: Dr. Antonette454 Tromp100, Dr. Antonette454 Tromp100
+
+================================================================================
+END OF TIMELINE (27 events)
+================================================================================

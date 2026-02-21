@@ -1,0 +1,191 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Mrs. Leila837 Dani520 Dach178
+  Patient ID: 90190
+  Date of Birth: 1980-04-15
+  Gender: Female
+  Race: White
+  Ethnicity: Not Hispanic or Latino
+  Marital Status: Married
+  Address: 100 Rice Gardens Apt 79, Pittsfield, MA 01201
+  Phone: 555-143-3677
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2017-07-04
+
+  [15:10:27] VISIT: General examination of patient (procedure)
+    Provider: Dr. Maricarmen445 Rascón630
+    Location: COMMUNITY HEALTH PROGRAMS INC
+    Duration: 15:10:27 - 15:25:27
+
+  [15:10:27] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [15:10:27] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-07-04
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Leila837 Dani520 is a 37 year-old nonhispanic white female.
+      # Social History
+
+  [15:10:27] DOCUMENT: History and physical note
+    Status: superseded
+
+  [15:25:27] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2020-04-21
+
+  [15:10:27] VISIT: General examination of patient (procedure)
+    Provider: Dr. Maricarmen445 Rascón630
+    Location: COMMUNITY HEALTH PROGRAMS INC
+    Duration: 15:10:27 - 15:25:27
+
+  [15:10:27] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [15:10:27] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [15:10:27] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-04-21
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Leila837 Dani520 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [15:10:27] DOCUMENT: History and physical note
+    Status: superseded
+
+  [15:25:27] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2021-03-02
+
+  [14:10:27] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Jacques50 Quigley282
+    Location: BERKSHIRE MEDICAL CENTER INC
+    Duration: 14:10:27 - 14:25:27
+
+  [14:10:27] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+    Status: completed
+
+  [14:10:27] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-03-02
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Leila837 Dani520 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [14:10:27] DOCUMENT: History and physical note
+    Status: superseded
+
+  [14:25:27] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-03-30
+
+  [15:10:27] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Jacques50 Quigley282
+    Location: BERKSHIRE MEDICAL CENTER INC
+    Duration: 15:10:27 - 15:25:27
+
+  [15:10:27] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+    Status: completed
+
+  [15:10:27] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-03-30
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Leila837 Dani520 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [15:10:27] DOCUMENT: History and physical note
+    Status: superseded
+
+  [15:25:27] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2022-04-26
+
+  [15:10:27] VISIT: General examination of patient (procedure)
+    Provider: Dr. Maricarmen445 Rascón630
+    Location: COMMUNITY HEALTH PROGRAMS INC
+    Duration: 15:10:27 - 15:25:27
+
+  [15:10:27] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [15:10:27] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [15:10:27] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [15:10:27] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-04-26
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Leila837 Dani520 is a 42 year-old nonhispanic white female.
+      # Social History
+
+  [15:10:27] DOCUMENT: History and physical note
+    Status: superseded
+
+  [15:25:27] CLAIM: professional
+    Amount: USD 544.80
+
+
+📅 2024-04-30
+
+  [15:10:27] VISIT: General examination of patient (procedure)
+    Provider: Dr. Maricarmen445 Rascón630
+    Location: COMMUNITY HEALTH PROGRAMS INC
+    Duration: 15:10:27 - 15:25:27
+
+  [15:10:27] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [15:10:27] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-04-30
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Leila837 Dani520 is a 44 year-old nonhispanic white female.
+      # Social History
+
+  [15:10:27] DOCUMENT: History and physical note
+    Status: current
+
+  [15:25:27] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2026-02-10
+
+  [14:10:27] PROVENANCE: Record activity
+    Agents: Dr. Maricarmen445 Rascón630, Dr. Maricarmen445 Rascón630
+
+================================================================================
+END OF TIMELINE (34 events)
+================================================================================

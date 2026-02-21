@@ -1,0 +1,1046 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Mrs. Alma679 Lenora887 Schaden604
+  Patient ID: 7549
+  Date of Birth: 1964-03-23
+  Gender: Female
+  Race: White
+  Ethnicity: Not Hispanic or Latino
+  Marital Status: Divorced
+  Address: 709 Johns Vista Apt 43, Boston, MA 02113
+  Phone: 555-778-7715
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2013-02-19
+
+  [10:48:19] VISIT: Periodic reevaluation and management of healthy individual (procedure)
+    Reason: Screening for malignant neoplasm of breast (procedure)
+    Provider: Dr. Rudolf736 Vandervort697
+    Location: BETH ISRAEL DEACONESS HOSPITAL MILTON INC
+    Duration: 10:48:19 - 14:01:51
+
+  [10:48:19] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2013-02-19
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Alma679 Lenora887 is a 48 year-old nonhispanic white female.
+      # Social History
+
+  [10:48:19] DOCUMENT: History and physical note
+    Status: superseded
+
+  [11:46:51] CONDITION: Malignant neoplasm of breast (disorder) (active)
+
+
+📅 2013-02-21
+
+  [14:01:51] CLAIM: professional
+    Amount: USD 4046.73
+
+
+📅 2016-04-04
+
+  [11:48:19] VISIT: General examination of patient (procedure)
+    Provider: Dr. Waylon572 Hammes673
+    Location: TOTAL HEALTH CARE, INC.
+    Duration: 11:48:19 - 12:03:19
+
+  [11:48:19] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [11:48:19] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-04-04
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Alma679 Lenora887 is a 52 year-old nonhispanic white female.
+      # Social History
+
+  [11:48:19] DOCUMENT: History and physical note
+    Status: superseded
+
+  [12:03:19] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2016-04-10
+
+  [04:01:49] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Rudolf736 Vandervort697
+    Location: BETH ISRAEL DEACONESS HOSPITAL MILTON INC
+    Duration: 04:01:49 - 04:36:08
+
+  [04:01:49] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [04:01:49] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-04-10
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Alma679 Lenora887 is a 52 year-old nonhispanic white female.
+      # Social History
+
+  [04:01:49] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:36:08] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2016-08-11
+
+  [04:36:08] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Rudolf736 Vandervort697
+    Location: BETH ISRAEL DEACONESS HOSPITAL MILTON INC
+    Duration: 04:36:08 - 05:19:32
+
+  [04:36:08] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [04:36:08] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-08-11
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Alma679 Lenora887 is a 52 year-old nonhispanic white female.
+      # Social History
+
+  [04:36:08] DOCUMENT: History and physical note
+    Status: superseded
+
+  [05:19:32] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2016-11-22
+
+  [04:19:32] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Rudolf736 Vandervort697
+    Location: BETH ISRAEL DEACONESS HOSPITAL MILTON INC
+    Duration: 04:19:32 - 04:52:59
+
+  [04:19:32] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [04:19:32] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-11-22
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Alma679 Lenora887 is a 52 year-old nonhispanic white female.
+      # Social History
+
+  [04:19:32] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:52:59] CLAIM: professional
+    Amount: USD 573.98
+
+  [04:52:59] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Rudolf736 Vandervort697
+    Location: BETH ISRAEL DEACONESS HOSPITAL MILTON INC
+    Duration: 04:52:59 - 05:13:01
+
+  [04:52:59] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [04:52:59] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-11-22
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Alma679 Lenora887 is a 52 year-old nonhispanic white female.
+      # Social History
+
+  [04:52:59] DOCUMENT: History and physical note
+    Status: superseded
+
+  [05:13:01] OBSERVATION: Response to cancer treatment: Improving (qualifier value)
+
+  [05:13:01] CLAIM: professional
+    Amount: USD 288.20
+
+
+📅 2017-03-26
+
+  [06:13:01] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Rudolf736 Vandervort697
+    Location: BETH ISRAEL DEACONESS HOSPITAL MILTON INC
+    Duration: 06:13:01 - 06:48:10
+
+  [06:13:01] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [06:13:01] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-03-26
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Alma679 Lenora887 is a 53 year-old nonhispanic white female.
+      # Social History
+
+  [06:13:01] DOCUMENT: History and physical note
+    Status: superseded
+
+  [06:48:10] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2017-04-10
+
+  [11:48:19] VISIT: General examination of patient (procedure)
+    Provider: Dr. Waylon572 Hammes673
+    Location: TOTAL HEALTH CARE, INC.
+    Duration: 11:48:19 - 12:03:19
+
+  [11:48:19] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [11:48:19] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-04-10
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Alma679 Lenora887 is a 53 year-old nonhispanic white female.
+      # Social History
+
+  [11:48:19] DOCUMENT: History and physical note
+    Status: superseded
+
+  [12:03:19] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2017-07-24
+
+  [06:48:10] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Rudolf736 Vandervort697
+    Location: BETH ISRAEL DEACONESS HOSPITAL MILTON INC
+    Duration: 06:48:10 - 07:25:13
+
+  [06:48:10] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [06:48:10] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-07-24
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Alma679 Lenora887 is a 53 year-old nonhispanic white female.
+      # Social History
+
+  [06:48:10] DOCUMENT: History and physical note
+    Status: superseded
+
+  [07:25:13] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2017-11-08
+
+  [06:25:13] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Rudolf736 Vandervort697
+    Location: BETH ISRAEL DEACONESS HOSPITAL MILTON INC
+    Duration: 06:25:13 - 06:55:48
+
+  [06:25:13] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [06:25:13] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-11-08
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Alma679 Lenora887 is a 53 year-old nonhispanic white female.
+      # Social History
+
+  [06:25:13] DOCUMENT: History and physical note
+    Status: superseded
+
+  [06:55:48] CLAIM: professional
+    Amount: USD 573.98
+
+  [06:55:48] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Rudolf736 Vandervort697
+    Location: BETH ISRAEL DEACONESS HOSPITAL MILTON INC
+    Duration: 06:55:48 - 07:15:51
+
+  [06:55:48] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [06:55:48] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-11-08
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Alma679 Lenora887 is a 53 year-old nonhispanic white female.
+      # Social History
+
+  [06:55:48] DOCUMENT: History and physical note
+    Status: superseded
+
+  [07:15:51] OBSERVATION: Response to cancer treatment: Improving (qualifier value)
+
+  [07:15:51] CLAIM: professional
+    Amount: USD 236.62
+
+
+📅 2018-02-26
+
+  [07:15:51] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Rudolf736 Vandervort697
+    Location: BETH ISRAEL DEACONESS HOSPITAL MILTON INC
+    Duration: 07:15:51 - 07:55:47
+
+  [07:15:51] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [07:15:51] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-02-26
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Alma679 Lenora887 is a 53 year-old nonhispanic white female.
+      # Social History
+
+  [07:15:51] DOCUMENT: History and physical note
+    Status: superseded
+
+  [07:55:47] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2018-04-16
+
+  [11:48:19] VISIT: General examination of patient (procedure)
+    Provider: Dr. Waylon572 Hammes673
+    Location: TOTAL HEALTH CARE, INC.
+    Duration: 11:48:19 - 12:03:19
+
+  [11:48:19] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [11:48:19] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-04-16
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Alma679 Lenora887 is a 54 year-old nonhispanic white female.
+      # Social History
+
+  [11:48:19] DOCUMENT: History and physical note
+    Status: superseded
+
+  [12:03:19] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2018-06-30
+
+  [08:55:47] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Rudolf736 Vandervort697
+    Location: BETH ISRAEL DEACONESS HOSPITAL MILTON INC
+    Duration: 08:55:47 - 09:34:22
+
+  [08:55:47] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [08:55:47] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-06-30
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Alma679 Lenora887 is a 54 year-old nonhispanic white female.
+      # Social History
+
+  [08:55:47] DOCUMENT: History and physical note
+    Status: superseded
+
+  [09:34:22] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2018-10-17
+
+  [09:34:22] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Rudolf736 Vandervort697
+    Location: BETH ISRAEL DEACONESS HOSPITAL MILTON INC
+    Duration: 09:34:22 - 10:05:16
+
+  [09:34:22] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [09:34:22] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-10-17
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Alma679 Lenora887 is a 54 year-old nonhispanic white female.
+      # Social History
+
+  [09:34:22] DOCUMENT: History and physical note
+    Status: superseded
+
+  [10:05:16] CLAIM: professional
+    Amount: USD 573.98
+
+  [10:05:16] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Rudolf736 Vandervort697
+    Location: BETH ISRAEL DEACONESS HOSPITAL MILTON INC
+    Duration: 10:05:16 - 10:28:28
+
+  [10:05:16] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [10:05:16] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-10-17
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Alma679 Lenora887 is a 54 year-old nonhispanic white female.
+      # Social History
+
+  [10:05:16] DOCUMENT: History and physical note
+    Status: superseded
+
+  [10:28:28] CLAIM: professional
+    Amount: USD 211.60
+
+
+📅 2019-04-22
+
+  [11:48:19] VISIT: General examination of patient (procedure)
+    Provider: Dr. Waylon572 Hammes673
+    Location: TOTAL HEALTH CARE, INC.
+    Duration: 11:48:19 - 12:03:19
+
+  [11:48:19] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [11:48:19] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-04-22
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Alma679 Lenora887 is a 55 year-old nonhispanic white female.
+      # Social History
+
+  [11:48:19] DOCUMENT: History and physical note
+    Status: superseded
+
+  [12:03:19] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2019-10-23
+
+  [10:28:28] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Rudolf736 Vandervort697
+    Location: BETH ISRAEL DEACONESS HOSPITAL MILTON INC
+    Duration: 10:28:28 - 11:05:13
+
+  [10:28:28] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [10:28:28] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-10-23
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Alma679 Lenora887 is a 55 year-old nonhispanic white female.
+      # Social History
+
+  [10:28:28] DOCUMENT: History and physical note
+    Status: superseded
+
+  [11:05:13] CLAIM: professional
+    Amount: USD 573.98
+
+  [11:05:13] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Rudolf736 Vandervort697
+    Location: BETH ISRAEL DEACONESS HOSPITAL MILTON INC
+    Duration: 11:05:13 - 11:29:19
+
+  [11:05:13] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [11:05:13] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-10-23
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Alma679 Lenora887 is a 55 year-old nonhispanic white female.
+      # Social History
+
+  [11:05:13] DOCUMENT: History and physical note
+    Status: superseded
+
+  [11:29:19] CLAIM: professional
+    Amount: USD 211.60
+
+
+📅 2020-04-27
+
+  [11:48:19] VISIT: General examination of patient (procedure)
+    Provider: Dr. Waylon572 Hammes673
+    Location: TOTAL HEALTH CARE, INC.
+    Duration: 11:48:19 - 12:03:19
+
+  [11:48:19] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [11:48:19] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-04-27
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Alma679 Lenora887 is a 56 year-old nonhispanic white female.
+      # Social History
+
+  [11:48:19] DOCUMENT: History and physical note
+    Status: superseded
+
+  [12:03:19] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2020-09-19
+
+  [11:29:19] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Rudolf736 Vandervort697
+    Location: BETH ISRAEL DEACONESS HOSPITAL MILTON INC
+    Duration: 11:29:19 - 12:06:10
+
+  [11:29:19] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [11:29:19] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-09-19
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Alma679 Lenora887 is a 56 year-old nonhispanic white female.
+      # Social History
+
+  [11:29:19] DOCUMENT: History and physical note
+    Status: superseded
+
+  [12:06:10] CLAIM: professional
+    Amount: USD 573.98
+
+  [12:06:10] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Rudolf736 Vandervort697
+    Location: BETH ISRAEL DEACONESS HOSPITAL MILTON INC
+    Duration: 12:06:10 - 12:27:42
+
+  [12:06:10] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [12:06:10] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-09-19
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Alma679 Lenora887 is a 56 year-old nonhispanic white female.
+      # Social History
+
+  [12:06:10] DOCUMENT: History and physical note
+    Status: superseded
+
+  [12:27:42] CLAIM: professional
+    Amount: USD 211.60
+
+
+📅 2021-02-22
+
+  [10:48:19] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Rudolf736 Vandervort697
+    Location: BETH ISRAEL DEACONESS HOSPITAL MILTON INC
+    Duration: 10:48:19 - 11:03:19
+
+  [10:48:19] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 30 mcg/0.3 mL dose
+    Status: completed
+
+  [10:48:19] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-02-22
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Alma679 Lenora887 is a 56 year-old nonhispanic white female.
+      # Social History
+
+  [10:48:19] DOCUMENT: History and physical note
+    Status: superseded
+
+  [11:03:19] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-03-15
+
+  [11:48:19] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Rudolf736 Vandervort697
+    Location: BETH ISRAEL DEACONESS HOSPITAL MILTON INC
+    Duration: 11:48:19 - 12:03:19
+
+  [11:48:19] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 30 mcg/0.3 mL dose
+    Status: completed
+
+  [11:48:19] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-03-15
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Alma679 Lenora887 is a 56 year-old nonhispanic white female.
+      # Social History
+
+  [11:48:19] DOCUMENT: History and physical note
+    Status: superseded
+
+  [12:03:19] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-05-03
+
+  [11:48:19] VISIT: General examination of patient (procedure)
+    Provider: Dr. Waylon572 Hammes673
+    Location: TOTAL HEALTH CARE, INC.
+    Duration: 11:48:19 - 12:03:19
+
+  [11:48:19] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [11:48:19] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-05-03
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Alma679 Lenora887 is a 57 year-old nonhispanic white female.
+      # Social History
+
+  [11:48:19] DOCUMENT: History and physical note
+    Status: superseded
+
+  [12:03:19] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2021-10-13
+
+  [12:27:42] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Rudolf736 Vandervort697
+    Location: BETH ISRAEL DEACONESS HOSPITAL MILTON INC
+    Duration: 12:27:42 - 13:09:30
+
+  [12:27:42] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [12:27:42] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-10-13
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Alma679 Lenora887 is a 57 year-old nonhispanic white female.
+      # Social History
+
+  [12:27:42] DOCUMENT: History and physical note
+    Status: superseded
+
+  [13:09:30] CLAIM: professional
+    Amount: USD 573.98
+
+  [13:09:30] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Rudolf736 Vandervort697
+    Location: BETH ISRAEL DEACONESS HOSPITAL MILTON INC
+    Duration: 13:09:30 - 13:32:55
+
+  [13:09:30] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [13:09:30] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-10-13
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Alma679 Lenora887 is a 57 year-old nonhispanic white female.
+      # Social History
+
+  [13:09:30] DOCUMENT: History and physical note
+    Status: superseded
+
+  [13:32:55] CLAIM: professional
+    Amount: USD 295.97
+
+
+📅 2022-05-09
+
+  [11:48:19] VISIT: General examination of patient (procedure)
+    Provider: Dr. Waylon572 Hammes673
+    Location: TOTAL HEALTH CARE, INC.
+    Duration: 11:48:19 - 12:03:19
+
+  [11:48:19] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [11:48:19] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-05-09
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Alma679 Lenora887 is a 58 year-old nonhispanic white female.
+      # Social History
+
+  [11:48:19] DOCUMENT: History and physical note
+    Status: superseded
+
+  [12:03:19] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2022-11-03
+
+  [13:32:55] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Rudolf736 Vandervort697
+    Location: Patient's Home
+    Duration: 13:32:55 - 14:14:52
+
+  [13:32:55] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [13:32:55] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-11-03
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Alma679 Lenora887 is a 58 year-old nonhispanic white female.
+      # Social History
+
+  [13:32:55] DOCUMENT: History and physical note
+    Status: superseded
+
+  [14:14:52] CLAIM: institutional
+    Amount: USD 556.40
+
+  [14:14:52] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Rudolf736 Vandervort697
+    Location: BETH ISRAEL DEACONESS HOSPITAL MILTON INC
+    Duration: 14:14:52 - 14:37:25
+
+  [14:14:52] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [14:14:52] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-11-03
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Alma679 Lenora887 is a 58 year-old nonhispanic white female.
+      # Social History
+
+  [14:14:52] DOCUMENT: History and physical note
+    Status: superseded
+
+  [14:37:25] CLAIM: professional
+    Amount: USD 252.22
+
+
+📅 2023-05-15
+
+  [11:48:19] VISIT: General examination of patient (procedure)
+    Provider: Dr. Waylon572 Hammes673
+    Location: TOTAL HEALTH CARE, INC.
+    Duration: 11:48:19 - 12:03:19
+
+  [11:48:19] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [11:48:19] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-05-15
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Alma679 Lenora887 is a 59 year-old nonhispanic white female.
+      # Social History
+
+  [11:48:19] DOCUMENT: History and physical note
+    Status: superseded
+
+  [12:03:19] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2023-11-05
+
+  [13:37:25] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Rudolf736 Vandervort697
+    Location: BETH ISRAEL DEACONESS HOSPITAL MILTON INC
+    Duration: 13:37:25 - 14:13:41
+
+  [13:37:25] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [13:37:25] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-11-05
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Alma679 Lenora887 is a 59 year-old nonhispanic white female.
+      # Social History
+
+  [13:37:25] DOCUMENT: History and physical note
+    Status: superseded
+
+  [14:13:41] CLAIM: professional
+    Amount: USD 573.98
+
+  [14:13:41] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Rudolf736 Vandervort697
+    Location: BETH ISRAEL DEACONESS HOSPITAL MILTON INC
+    Duration: 14:13:41 - 14:37:51
+
+  [14:13:41] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [14:13:41] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-11-05
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Alma679 Lenora887 is a 59 year-old nonhispanic white female.
+      # Social History
+
+  [14:13:41] DOCUMENT: History and physical note
+    Status: superseded
+
+  [14:37:51] CLAIM: professional
+    Amount: USD 250.99
+
+
+📅 2024-05-20
+
+  [11:48:19] VISIT: General examination of patient (procedure)
+    Provider: Dr. Waylon572 Hammes673
+    Location: TOTAL HEALTH CARE, INC.
+    Duration: 11:48:19 - 12:03:19
+
+  [11:48:19] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [11:48:19] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-05-20
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Alma679 Lenora887 is a 60 year-old nonhispanic white female.
+      # Social History
+
+  [11:48:19] DOCUMENT: History and physical note
+    Status: superseded
+
+  [12:03:19] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2024-11-03
+
+  [14:37:51] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Rudolf736 Vandervort697
+    Location: BETH ISRAEL DEACONESS HOSPITAL MILTON INC
+    Duration: 14:37:51 - 15:09:34
+
+  [14:37:51] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [14:37:51] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-11-03
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Alma679 Lenora887 is a 60 year-old nonhispanic white female.
+      # Social History
+
+  [14:37:51] DOCUMENT: History and physical note
+    Status: superseded
+
+  [15:09:34] CLAIM: professional
+    Amount: USD 573.98
+
+  [15:09:34] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Rudolf736 Vandervort697
+    Location: BETH ISRAEL DEACONESS HOSPITAL MILTON INC
+    Duration: 15:09:34 - 15:30:08
+
+  [15:09:34] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [15:09:34] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-11-03
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Alma679 Lenora887 is a 60 year-old nonhispanic white female.
+      # Social History
+
+  [15:09:34] DOCUMENT: History and physical note
+    Status: superseded
+
+  [15:30:08] CLAIM: professional
+    Amount: USD 211.60
+
+
+📅 2025-05-26
+
+  [11:48:19] VISIT: General examination of patient (procedure)
+    Provider: Dr. Waylon572 Hammes673
+    Location: TOTAL HEALTH CARE, INC.
+    Duration: 11:48:19 - 12:03:19
+
+  [11:48:19] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [11:48:19] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [11:48:19] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-05-26
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Alma679 Lenora887 is a 61 year-old nonhispanic white female.
+      # Social History
+
+  [11:48:19] DOCUMENT: History and physical note
+    Status: superseded
+
+  [12:03:19] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2025-11-23
+
+  [15:30:08] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Rudolf736 Vandervort697
+    Location: BETH ISRAEL DEACONESS HOSPITAL MILTON INC
+    Duration: 15:30:08 - 16:04:05
+
+  [15:30:08] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [15:30:08] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-11-23
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Alma679 Lenora887 is a 61 year-old nonhispanic white female.
+      # Social History
+
+  [15:30:08] DOCUMENT: History and physical note
+    Status: superseded
+
+  [16:04:05] CLAIM: professional
+    Amount: USD 573.98
+
+  [16:04:05] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Rudolf736 Vandervort697
+    Location: BETH ISRAEL DEACONESS HOSPITAL MILTON INC
+    Duration: 16:04:05 - 16:25:29
+
+  [16:04:05] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [16:04:05] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-11-23
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Alma679 Lenora887 is a 61 year-old nonhispanic white female.
+      # Social History
+
+  [16:04:05] DOCUMENT: History and physical note
+    Status: current
+
+  [16:25:29] CLAIM: professional
+    Amount: USD 211.60
+
+
+📅 2026-02-09
+
+  [10:48:19] PROVENANCE: Record activity
+    Agents: Dr. Rudolf736 Vandervort697, Dr. Rudolf736 Vandervort697
+
+================================================================================
+END OF TIMELINE (199 events)
+================================================================================

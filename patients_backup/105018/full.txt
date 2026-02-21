@@ -1,0 +1,243 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Mrs. Mariah942 Verlie371 Schaden604
+  Patient ID: 105018
+  Date of Birth: 1973-12-26
+  Gender: Female
+  Race: White
+  Ethnicity: Not Hispanic or Latino
+  Marital Status: Married
+  Address: 1081 Corkery Mall, Newburyport, MA 01950
+  Phone: 555-582-2128
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2018-01-10
+
+  [10:56:14] VISIT: General examination of patient (procedure)
+    Provider: Dr. Dane516 Tromp100
+    Location: NEWBURYPORT FAMILY PRACTICE,P.C.
+    Duration: 10:56:14 - 11:11:14
+
+  [10:56:14] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [10:56:14] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-01-10
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Mariah942 Verlie371 is a 44 year-old nonhispanic white female.
+      # Social History
+
+  [10:56:14] DOCUMENT: History and physical note
+    Status: superseded
+
+  [11:11:14] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2020-01-15
+
+  [10:56:14] VISIT: General examination of patient (procedure)
+    Provider: Dr. Dane516 Tromp100
+    Location: NEWBURYPORT FAMILY PRACTICE,P.C.
+    Duration: 10:56:14 - 11:11:14
+
+  [10:56:14] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [10:56:14] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-01-15
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Mariah942 Verlie371 is a 46 year-old nonhispanic white female.
+      # Social History
+
+  [10:56:14] DOCUMENT: History and physical note
+    Status: superseded
+
+  [11:11:14] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2021-07-07
+
+  [11:56:14] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Tracie996 Lesch175
+    Location: ANNA JAQUES HOSPITAL SUBACUTE UNIT
+    Duration: 11:56:14 - 12:11:14
+
+  [11:56:14] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 30 mcg/0.3 mL dose
+    Status: completed
+
+  [11:56:14] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-07-07
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Mariah942 Verlie371 is a 47 year-old nonhispanic white female.
+      # Social History
+
+  [11:56:14] DOCUMENT: History and physical note
+    Status: superseded
+
+  [12:11:14] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-07-28
+
+  [11:56:14] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Tracie996 Lesch175
+    Location: ANNA JAQUES HOSPITAL SUBACUTE UNIT
+    Duration: 11:56:14 - 12:11:14
+
+  [11:56:14] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 30 mcg/0.3 mL dose
+    Status: completed
+
+  [11:56:14] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-07-28
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Mariah942 Verlie371 is a 47 year-old nonhispanic white female.
+      # Social History
+
+  [11:56:14] DOCUMENT: History and physical note
+    Status: superseded
+
+  [12:11:14] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2022-01-19
+
+  [10:56:14] VISIT: General examination of patient (procedure)
+    Provider: Dr. Dane516 Tromp100
+    Location: NEWBURYPORT FAMILY PRACTICE,P.C.
+    Duration: 10:56:14 - 11:11:14
+
+  [10:56:14] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [10:56:14] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-01-19
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Mariah942 Verlie371 is a 48 year-old nonhispanic white female.
+      # Social History
+
+  [10:56:14] DOCUMENT: History and physical note
+    Status: superseded
+
+  [11:11:14] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2023-12-27
+
+  [10:56:14] VISIT: General examination of patient (procedure)
+    Provider: Dr. Dane516 Tromp100
+    Location: NEWBURYPORT FAMILY PRACTICE,P.C.
+    Duration: 10:56:14 - 11:11:14
+
+  [10:56:14] IMMUNIZATION: zoster vaccine, live
+    Status: completed
+
+  [10:56:14] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [10:56:14] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-12-27
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Mariah942 Verlie371 is a 50 year-old nonhispanic white female.
+      # Social History
+
+  [10:56:14] DOCUMENT: History and physical note
+    Status: superseded
+
+  [11:11:14] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2025-01-01
+
+  [10:56:14] VISIT: General examination of patient (procedure)
+    Provider: Dr. Dane516 Tromp100
+    Location: NEWBURYPORT FAMILY PRACTICE,P.C.
+    Duration: 10:56:14 - 11:11:14
+
+  [10:56:14] IMMUNIZATION: zoster vaccine, live
+    Status: completed
+
+  [10:56:14] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [10:56:14] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [10:56:14] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-01-01
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Mariah942 Verlie371 is a 51 year-old nonhispanic white female.
+      # Social History
+
+  [10:56:14] DOCUMENT: History and physical note
+    Status: superseded
+
+  [11:11:14] CLAIM: professional
+    Amount: USD 544.80
+
+
+📅 2026-01-07
+
+  [10:56:14] VISIT: General examination of patient (procedure)
+    Provider: Dr. Dane516 Tromp100
+    Location: NEWBURYPORT FAMILY PRACTICE,P.C.
+    Duration: 10:56:14 - 11:11:14
+
+  [10:56:14] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [10:56:14] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2026-01-07
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Mariah942 Verlie371 is a 52 year-old nonhispanic white female.
+      # Social History
+
+  [10:56:14] DOCUMENT: History and physical note
+    Status: current
+
+  [11:11:14] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2026-02-11
+
+  [10:56:14] PROVENANCE: Record activity
+    Agents: Dr. Dane516 Tromp100, Dr. Dane516 Tromp100
+
+================================================================================
+END OF TIMELINE (44 events)
+================================================================================

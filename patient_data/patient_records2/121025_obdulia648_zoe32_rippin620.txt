@@ -1,0 +1,133 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Mrs. Obdulia648 Zoe32 Rippin620
+  Patient ID: 121025
+  Date of Birth: 1984-07-02
+  Gender: Female
+  Race: White
+  Ethnicity: Not Hispanic or Latino
+  Marital Status: Married
+  Address: 939 Keeling Drive Suite 83, Boston, MA 02203
+  Phone: 555-926-7456
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2018-09-17
+
+  [18:59:10] VISIT: General examination of patient (procedure)
+    Provider: Dr. Sid118 Daniel959
+    Location: AMERICAN CHINESE MEDICAL CENTER PC
+    Duration: 18:59:10 - 19:14:10
+
+  [18:59:10] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [18:59:10] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-09-17
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Obdulia648 Zoe32 is a 34 year-old nonhispanic white female.
+      # Social History
+
+  [18:59:10] DOCUMENT: History and physical note
+    Status: superseded
+
+  [19:14:10] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2021-03-15
+
+  [18:59:10] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Iva908 O'Keefe54
+    Location: BRIGHAM AND WOMEN'S FAULKNER HOSPITAL, INC.
+    Duration: 18:59:10 - 19:14:10
+
+  [18:59:10] IMMUNIZATION: COVID-19 vaccine, vector-nr, rS-Ad26, PF, 0.5 mL
+    Status: completed
+
+  [18:59:10] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-03-15
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Obdulia648 Zoe32 is a 36 year-old nonhispanic white female.
+      # Social History
+
+  [18:59:10] DOCUMENT: History and physical note
+    Status: superseded
+
+  [19:14:10] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-09-20
+
+  [18:59:10] VISIT: General examination of patient (procedure)
+    Provider: Dr. Sid118 Daniel959
+    Location: AMERICAN CHINESE MEDICAL CENTER PC
+    Duration: 18:59:10 - 19:14:10
+
+  [18:59:10] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [18:59:10] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-09-20
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Obdulia648 Zoe32 is a 37 year-old nonhispanic white female.
+      # Social History
+
+  [18:59:10] DOCUMENT: History and physical note
+    Status: superseded
+
+  [19:14:10] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2024-07-08
+
+  [18:59:10] VISIT: General examination of patient (procedure)
+    Provider: Dr. Sid118 Daniel959
+    Location: AMERICAN CHINESE MEDICAL CENTER PC
+    Duration: 18:59:10 - 19:14:10
+
+  [18:59:10] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [18:59:10] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [18:59:10] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-07-08
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Obdulia648 Zoe32 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [18:59:10] DOCUMENT: History and physical note
+    Status: current
+
+  [19:14:10] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2026-02-09
+
+  [17:59:10] PROVENANCE: Record activity
+    Agents: Dr. Sid118 Daniel959, Dr. Sid118 Daniel959
+
+================================================================================
+END OF TIMELINE (22 events)
+================================================================================

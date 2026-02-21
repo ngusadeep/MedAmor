@@ -1,0 +1,321 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Mrs. Allena79 Brenda158 Deckow585
+  Patient ID: 7042
+  Date of Birth: 1967-07-12
+  Gender: Female
+  Race: White
+  Ethnicity: Not Hispanic or Latino
+  Marital Status: Married
+  Address: 837 Bayer Bypass Apt 36, Cochituate, MA 00000
+  Phone: 555-712-8154
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2017-07-12
+
+  [17:28:38] VISIT: General examination of patient (procedure)
+    Provider: Dr. Jack927 Rippin620
+    Location: VANTAGE HEALTHCARE LLC
+    Duration: 17:28:38 - 17:43:38
+
+  [17:28:38] IMMUNIZATION: zoster vaccine, live
+    Status: completed
+
+  [17:28:38] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [17:28:38] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-07-12
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Allena79 Brenda158 is a 50 year-old nonhispanic white female.
+      # Social History
+
+  [17:28:38] DOCUMENT: History and physical note
+    Status: superseded
+
+  [17:43:38] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2018-07-18
+
+  [17:28:38] VISIT: General examination of patient (procedure)
+    Provider: Dr. Jack927 Rippin620
+    Location: VANTAGE HEALTHCARE LLC
+    Duration: 17:28:38 - 17:43:38
+
+  [17:28:38] IMMUNIZATION: zoster vaccine, live
+    Status: completed
+
+  [17:28:38] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [17:28:38] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [17:28:38] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-07-18
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Allena79 Brenda158 is a 51 year-old nonhispanic white female.
+      # Social History
+
+  [17:28:38] DOCUMENT: History and physical note
+    Status: superseded
+
+  [17:43:38] CLAIM: professional
+    Amount: USD 544.80
+
+
+📅 2019-07-24
+
+  [17:28:38] VISIT: General examination of patient (procedure)
+    Provider: Dr. Jack927 Rippin620
+    Location: VANTAGE HEALTHCARE LLC
+    Duration: 17:28:38 - 17:43:38
+
+  [17:28:38] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [17:28:38] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-07-24
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Allena79 Brenda158 is a 52 year-old nonhispanic white female.
+      # Social History
+
+  [17:28:38] DOCUMENT: History and physical note
+    Status: superseded
+
+  [17:43:38] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2020-07-29
+
+  [17:28:38] VISIT: General examination of patient (procedure)
+    Provider: Dr. Jack927 Rippin620
+    Location: VANTAGE HEALTHCARE LLC
+    Duration: 17:28:38 - 17:43:38
+
+  [17:28:38] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [17:28:38] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-07-29
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Allena79 Brenda158 is a 53 year-old nonhispanic white female.
+      # Social History
+
+  [17:28:38] DOCUMENT: History and physical note
+    Status: superseded
+
+  [17:43:38] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2021-02-10
+
+  [16:28:38] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Gerry91 Block661
+    Location: VHS ACQUISITION SUBSIDIARY NUMBER 9, INC.
+    Duration: 16:28:38 - 16:43:38
+
+  [16:28:38] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+    Status: completed
+
+  [16:28:38] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-02-10
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Allena79 Brenda158 is a 53 year-old nonhispanic white female.
+      # Social History
+
+  [16:28:38] DOCUMENT: History and physical note
+    Status: superseded
+
+  [16:43:38] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-03-10
+
+  [16:28:38] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Gerry91 Block661
+    Location: VHS ACQUISITION SUBSIDIARY NUMBER 9, INC.
+    Duration: 16:28:38 - 16:43:38
+
+  [16:28:38] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+    Status: completed
+
+  [16:28:38] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-03-10
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Allena79 Brenda158 is a 53 year-old nonhispanic white female.
+      # Social History
+
+  [16:28:38] DOCUMENT: History and physical note
+    Status: superseded
+
+  [16:43:38] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-08-04
+
+  [17:28:38] VISIT: General examination of patient (procedure)
+    Provider: Dr. Jack927 Rippin620
+    Location: VANTAGE HEALTHCARE LLC
+    Duration: 17:28:38 - 17:43:38
+
+  [17:28:38] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [17:28:38] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-08-04
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Allena79 Brenda158 is a 54 year-old nonhispanic white female.
+      # Social History
+
+  [17:28:38] DOCUMENT: History and physical note
+    Status: superseded
+
+  [17:43:38] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2022-08-10
+
+  [17:28:38] VISIT: General examination of patient (procedure)
+    Provider: Dr. Jack927 Rippin620
+    Location: VANTAGE HEALTHCARE LLC
+    Duration: 17:28:38 - 17:43:38
+
+  [17:28:38] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [17:28:38] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-08-10
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Allena79 Brenda158 is a 55 year-old nonhispanic white female.
+      # Social History
+
+  [17:28:38] DOCUMENT: History and physical note
+    Status: superseded
+
+  [17:43:38] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2023-08-16
+
+  [17:28:38] VISIT: General examination of patient (procedure)
+    Provider: Dr. Jack927 Rippin620
+    Location: VANTAGE HEALTHCARE LLC
+    Duration: 17:28:38 - 17:43:38
+
+  [17:28:38] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [17:28:38] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-08-16
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Allena79 Brenda158 is a 56 year-old nonhispanic white female.
+      # Social History
+
+  [17:28:38] DOCUMENT: History and physical note
+    Status: superseded
+
+  [17:43:38] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2024-08-21
+
+  [17:28:38] VISIT: General examination of patient (procedure)
+    Provider: Dr. Jack927 Rippin620
+    Location: VANTAGE HEALTHCARE LLC
+    Duration: 17:28:38 - 17:43:38
+
+  [17:28:38] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [17:28:38] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-08-21
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Allena79 Brenda158 is a 57 year-old nonhispanic white female.
+      # Social History
+
+  [17:28:38] DOCUMENT: History and physical note
+    Status: superseded
+
+  [17:43:38] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2025-08-27
+
+  [17:28:38] VISIT: General examination of patient (procedure)
+    Provider: Dr. Jack927 Rippin620
+    Location: VANTAGE HEALTHCARE LLC
+    Duration: 17:28:38 - 17:43:38
+
+  [17:28:38] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [17:28:38] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-08-27
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Allena79 Brenda158 is a 58 year-old nonhispanic white female.
+      # Social History
+
+  [17:28:38] DOCUMENT: History and physical note
+    Status: current
+
+  [17:43:38] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2026-02-11
+
+  [16:28:38] PROVENANCE: Record activity
+    Agents: Dr. Jack927 Rippin620, Dr. Jack927 Rippin620
+
+================================================================================
+END OF TIMELINE (59 events)
+================================================================================

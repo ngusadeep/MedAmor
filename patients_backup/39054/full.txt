@@ -1,0 +1,1213 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Mrs. Dimple273 Maxine796 Lueilwitz711
+  Patient ID: 39054
+  Date of Birth: 1966-06-08
+  Gender: Female
+  Race: White
+  Ethnicity: Not Hispanic or Latino
+  Marital Status: Widowed
+  Address: 446 Dibbert Passage Unit 38, Franklin, MA 02038
+  Phone: 555-663-3348
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2011-11-03
+
+  [12:42:32] VISIT: Periodic reevaluation and management of healthy individual (procedure)
+    Reason: Screening for malignant neoplasm of breast (procedure)
+    Provider: Dr. Maricarmen445 Delafuente833
+    Location: ARBOUR-FULLER HOSPITAL
+    Duration: 12:42:32 - 10:40:17
+
+  [12:42:32] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2011-11-03
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Dimple273 Maxine796 is a 45 year-old nonhispanic white female.
+      # Social History
+
+  [12:42:32] DOCUMENT: History and physical note
+    Status: superseded
+
+  [13:53:17] CONDITION: Malignant neoplasm of breast (disorder) (active)
+
+
+📅 2011-11-05
+
+  [10:40:17] CLAIM: professional
+    Amount: USD 5706.52
+
+
+📅 2016-05-21
+
+  [18:05:17] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Maricarmen445 Delafuente833
+    Location: ARBOUR-FULLER HOSPITAL
+    Duration: 18:05:17 - 18:37:47
+
+  [18:05:17] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [18:05:17] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-05-21
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Dimple273 Maxine796 is a 49 year-old nonhispanic white female.
+      # Social History
+
+  [18:05:17] DOCUMENT: History and physical note
+    Status: superseded
+
+  [18:37:47] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2016-06-08
+
+  [12:42:32] VISIT: General examination of patient (procedure)
+    Provider: Dr. Wynell591 Mayert710
+    Location: WELLNESS ON WHEELS,PC
+    Duration: 12:42:32 - 12:57:32
+
+  [12:42:32] IMMUNIZATION: zoster vaccine, live
+    Status: completed
+
+  [12:42:32] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [12:42:32] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-06-08
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Dimple273 Maxine796 is a 50 year-old nonhispanic white female.
+      # Social History
+
+  [12:42:32] DOCUMENT: History and physical note
+    Status: superseded
+
+  [12:57:32] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2016-09-04
+
+  [18:37:47] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Maricarmen445 Delafuente833
+    Location: ARBOUR-FULLER HOSPITAL
+    Duration: 18:37:47 - 19:19:17
+
+  [18:37:47] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [18:37:47] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-09-04
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Dimple273 Maxine796 is a 50 year-old nonhispanic white female.
+      # Social History
+
+  [18:37:47] DOCUMENT: History and physical note
+    Status: superseded
+
+  [19:19:17] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2016-12-22
+
+  [18:19:17] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Maricarmen445 Delafuente833
+    Location: ARBOUR-FULLER HOSPITAL
+    Duration: 18:19:17 - 19:03:28
+
+  [18:19:17] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [18:19:17] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-12-22
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Dimple273 Maxine796 is a 50 year-old nonhispanic white female.
+      # Social History
+
+  [18:19:17] DOCUMENT: History and physical note
+    Status: superseded
+
+  [19:03:28] CLAIM: professional
+    Amount: USD 573.98
+
+  [19:03:28] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Maricarmen445 Delafuente833
+    Location: ARBOUR-FULLER HOSPITAL
+    Duration: 19:03:28 - 19:21:55
+
+  [19:03:28] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [19:03:28] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-12-22
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Dimple273 Maxine796 is a 50 year-old nonhispanic white female.
+      # Social History
+
+  [19:03:28] DOCUMENT: History and physical note
+    Status: superseded
+
+  [19:21:55] CLAIM: professional
+    Amount: USD 211.60
+
+  [19:21:55] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Maricarmen445 Delafuente833
+    Location: ARBOUR-FULLER HOSPITAL
+    Duration: 19:21:55 - 19:46:44
+
+  [19:21:55] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [19:21:55] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-12-22
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Dimple273 Maxine796 is a 50 year-old nonhispanic white female.
+      # Social History
+
+  [19:21:55] DOCUMENT: History and physical note
+    Status: superseded
+
+  [19:36:01] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [19:46:44] CLAIM: professional
+    Amount: USD 1138.20
+
+
+📅 2017-06-14
+
+  [12:42:32] VISIT: General examination of patient (procedure)
+    Provider: Dr. Wynell591 Mayert710
+    Location: WELLNESS ON WHEELS,PC
+    Duration: 12:42:32 - 12:57:32
+
+  [12:42:32] IMMUNIZATION: zoster vaccine, live
+    Status: completed
+
+  [12:42:32] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [12:42:32] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [12:42:32] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-06-14
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Dimple273 Maxine796 is a 51 year-old nonhispanic white female.
+      # Social History
+
+  [12:42:32] DOCUMENT: History and physical note
+    Status: superseded
+
+  [12:57:32] CLAIM: professional
+    Amount: USD 544.80
+
+
+📅 2017-11-28
+
+  [19:46:44] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Maricarmen445 Delafuente833
+    Location: ARBOUR-FULLER HOSPITAL
+    Duration: 19:46:44 - 20:21:53
+
+  [19:46:44] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [19:46:44] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-11-28
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Dimple273 Maxine796 is a 51 year-old nonhispanic white female.
+      # Social History
+
+  [19:46:44] DOCUMENT: History and physical note
+    Status: superseded
+
+  [20:21:53] CLAIM: professional
+    Amount: USD 573.98
+
+  [20:21:53] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Maricarmen445 Delafuente833
+    Location: ARBOUR-FULLER HOSPITAL
+    Duration: 20:21:53 - 20:45:26
+
+  [20:21:53] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [20:21:53] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-11-28
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Dimple273 Maxine796 is a 51 year-old nonhispanic white female.
+      # Social History
+
+  [20:21:53] DOCUMENT: History and physical note
+    Status: superseded
+
+  [20:45:26] CLAIM: professional
+    Amount: USD 211.60
+
+  [20:45:26] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Maricarmen445 Delafuente833
+    Location: ARBOUR-FULLER HOSPITAL
+    Duration: 20:45:26 - 21:11:20
+
+  [20:45:26] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [20:45:26] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-11-28
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Dimple273 Maxine796 is a 51 year-old nonhispanic white female.
+      # Social History
+
+  [20:45:26] DOCUMENT: History and physical note
+    Status: superseded
+
+  [20:57:47] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [21:11:20] CLAIM: professional
+    Amount: USD 3686.32
+
+
+📅 2018-06-20
+
+  [12:42:32] VISIT: General examination of patient (procedure)
+    Provider: Dr. Wynell591 Mayert710
+    Location: WELLNESS ON WHEELS,PC
+    Duration: 12:42:32 - 12:57:32
+
+  [12:42:32] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [12:42:32] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-06-20
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Dimple273 Maxine796 is a 52 year-old nonhispanic white female.
+      # Social History
+
+  [12:42:32] DOCUMENT: History and physical note
+    Status: superseded
+
+  [12:57:32] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2018-11-18
+
+  [21:11:20] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Maricarmen445 Delafuente833
+    Location: ARBOUR-FULLER HOSPITAL
+    Duration: 21:11:20 - 21:55:49
+
+  [21:11:20] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [21:11:20] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-11-18
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Dimple273 Maxine796 is a 52 year-old nonhispanic white female.
+      # Social History
+
+  [21:11:20] DOCUMENT: History and physical note
+    Status: superseded
+
+  [21:55:49] CLAIM: professional
+    Amount: USD 573.98
+
+  [21:55:49] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Maricarmen445 Delafuente833
+    Location: ARBOUR-FULLER HOSPITAL
+    Duration: 21:55:49 - 22:14:09
+
+  [21:55:49] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [21:55:49] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-11-18
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Dimple273 Maxine796 is a 52 year-old nonhispanic white female.
+      # Social History
+
+  [21:55:49] DOCUMENT: History and physical note
+    Status: superseded
+
+  [22:14:09] CLAIM: professional
+    Amount: USD 325.49
+
+  [22:14:09] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Maricarmen445 Delafuente833
+    Location: ARBOUR-FULLER HOSPITAL
+    Duration: 22:14:09 - 22:36:09
+
+  [22:14:09] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [22:14:09] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-11-18
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Dimple273 Maxine796 is a 52 year-old nonhispanic white female.
+      # Social History
+
+  [22:14:09] DOCUMENT: History and physical note
+    Status: superseded
+
+  [22:25:44] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [22:36:09] CLAIM: professional
+    Amount: USD 1674.43
+
+
+📅 2019-06-26
+
+  [12:42:32] VISIT: General examination of patient (procedure)
+    Provider: Dr. Wynell591 Mayert710
+    Location: WELLNESS ON WHEELS,PC
+    Duration: 12:42:32 - 12:57:32
+
+  [12:42:32] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [12:42:32] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-06-26
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Dimple273 Maxine796 is a 53 year-old nonhispanic white female.
+      # Social History
+
+  [12:42:32] DOCUMENT: History and physical note
+    Status: superseded
+
+  [12:57:32] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2019-10-17
+
+  [23:36:09] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Maricarmen445 Delafuente833
+    Location: ARBOUR-FULLER HOSPITAL
+    Duration: 23:36:09 - 00:19:25
+
+  [23:36:09] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [23:36:09] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-10-17
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Dimple273 Maxine796 is a 53 year-old nonhispanic white female.
+      # Social History
+
+  [23:36:09] DOCUMENT: History and physical note
+    Status: superseded
+
+
+📅 2019-10-18
+
+  [00:19:25] CLAIM: professional
+    Amount: USD 573.98
+
+  [00:19:25] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Maricarmen445 Delafuente833
+    Location: ARBOUR-FULLER HOSPITAL
+    Duration: 00:19:25 - 00:35:48
+
+  [00:19:25] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [00:19:25] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-10-18
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Dimple273 Maxine796 is a 53 year-old nonhispanic white female.
+      # Social History
+
+  [00:19:25] DOCUMENT: History and physical note
+    Status: superseded
+
+  [00:35:48] CLAIM: professional
+    Amount: USD 211.60
+
+  [00:35:48] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Maricarmen445 Delafuente833
+    Location: ARBOUR-FULLER HOSPITAL
+    Duration: 00:35:48 - 00:59:42
+
+  [00:35:48] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [00:35:48] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-10-18
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Dimple273 Maxine796 is a 53 year-old nonhispanic white female.
+      # Social History
+
+  [00:35:48] DOCUMENT: History and physical note
+    Status: superseded
+
+  [00:48:52] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [00:59:42] CLAIM: professional
+    Amount: USD 1363.38
+
+
+📅 2020-07-01
+
+  [12:42:32] VISIT: General examination of patient (procedure)
+    Provider: Dr. Wynell591 Mayert710
+    Location: WELLNESS ON WHEELS,PC
+    Duration: 12:42:32 - 12:57:32
+
+  [12:42:32] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [12:42:32] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-07-01
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Dimple273 Maxine796 is a 54 year-old nonhispanic white female.
+      # Social History
+
+  [12:42:32] DOCUMENT: History and physical note
+    Status: superseded
+
+  [12:57:32] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2020-09-16
+
+  [00:59:42] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Maricarmen445 Delafuente833
+    Location: ARBOUR-FULLER HOSPITAL
+    Duration: 00:59:42 - 01:30:37
+
+  [00:59:42] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [00:59:42] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-09-16
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Dimple273 Maxine796 is a 54 year-old nonhispanic white female.
+      # Social History
+
+  [00:59:42] DOCUMENT: History and physical note
+    Status: superseded
+
+  [01:30:37] CLAIM: professional
+    Amount: USD 573.98
+
+  [01:30:37] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Maricarmen445 Delafuente833
+    Location: ARBOUR-FULLER HOSPITAL
+    Duration: 01:30:37 - 01:49:06
+
+  [01:30:37] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [01:30:37] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-09-16
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Dimple273 Maxine796 is a 54 year-old nonhispanic white female.
+      # Social History
+
+  [01:30:37] DOCUMENT: History and physical note
+    Status: superseded
+
+  [01:49:06] CLAIM: professional
+    Amount: USD 216.98
+
+  [01:49:06] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Maricarmen445 Delafuente833
+    Location: ARBOUR-FULLER HOSPITAL
+    Duration: 01:49:06 - 02:17:13
+
+  [01:49:06] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [01:49:06] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-09-16
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Dimple273 Maxine796 is a 54 year-old nonhispanic white female.
+      # Social History
+
+  [01:49:06] DOCUMENT: History and physical note
+    Status: superseded
+
+  [02:03:47] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [02:17:13] CLAIM: professional
+    Amount: USD 3680.06
+
+
+📅 2021-04-14
+
+  [12:42:32] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Maricarmen445 Delafuente833
+    Location: ARBOUR-FULLER HOSPITAL
+    Duration: 12:42:32 - 12:57:32
+
+  [12:42:32] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+    Status: completed
+
+  [12:42:32] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-04-14
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Dimple273 Maxine796 is a 54 year-old nonhispanic white female.
+      # Social History
+
+  [12:42:32] DOCUMENT: History and physical note
+    Status: superseded
+
+  [12:57:32] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-05-12
+
+  [12:42:32] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Maricarmen445 Delafuente833
+    Location: ARBOUR-FULLER HOSPITAL
+    Duration: 12:42:32 - 12:57:32
+
+  [12:42:32] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+    Status: completed
+
+  [12:42:32] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-05-12
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Dimple273 Maxine796 is a 54 year-old nonhispanic white female.
+      # Social History
+
+  [12:42:32] DOCUMENT: History and physical note
+    Status: superseded
+
+  [12:57:32] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-07-07
+
+  [12:42:32] VISIT: General examination of patient (procedure)
+    Provider: Dr. Wynell591 Mayert710
+    Location: WELLNESS ON WHEELS,PC
+    Duration: 12:42:32 - 12:57:32
+
+  [12:42:32] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [12:42:32] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-07-07
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Dimple273 Maxine796 is a 55 year-old nonhispanic white female.
+      # Social History
+
+  [12:42:32] DOCUMENT: History and physical note
+    Status: superseded
+
+  [12:57:32] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2021-10-10
+
+  [02:17:13] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Maricarmen445 Delafuente833
+    Location: ARBOUR-FULLER HOSPITAL
+    Duration: 02:17:13 - 02:57:14
+
+  [02:17:13] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [02:17:13] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-10-10
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Dimple273 Maxine796 is a 55 year-old nonhispanic white female.
+      # Social History
+
+  [02:17:13] DOCUMENT: History and physical note
+    Status: superseded
+
+  [02:57:14] CLAIM: professional
+    Amount: USD 573.98
+
+  [02:57:14] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Maricarmen445 Delafuente833
+    Location: ARBOUR-FULLER HOSPITAL
+    Duration: 02:57:14 - 03:19:44
+
+  [02:57:14] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [02:57:14] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-10-10
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Dimple273 Maxine796 is a 55 year-old nonhispanic white female.
+      # Social History
+
+  [02:57:14] DOCUMENT: History and physical note
+    Status: superseded
+
+  [03:19:44] CLAIM: professional
+    Amount: USD 272.90
+
+  [03:19:44] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Maricarmen445 Delafuente833
+    Location: ARBOUR-FULLER HOSPITAL
+    Duration: 03:19:44 - 03:41:39
+
+  [03:19:44] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [03:19:44] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-10-10
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Dimple273 Maxine796 is a 55 year-old nonhispanic white female.
+      # Social History
+
+  [03:19:44] DOCUMENT: History and physical note
+    Status: superseded
+
+  [03:30:06] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [03:41:39] CLAIM: professional
+    Amount: USD 1777.97
+
+
+📅 2022-07-13
+
+  [12:42:32] VISIT: General examination of patient (procedure)
+    Provider: Dr. Wynell591 Mayert710
+    Location: WELLNESS ON WHEELS,PC
+    Duration: 12:42:32 - 12:57:32
+
+  [12:42:32] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [12:42:32] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-07-13
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Dimple273 Maxine796 is a 56 year-old nonhispanic white female.
+      # Social History
+
+  [12:42:32] DOCUMENT: History and physical note
+    Status: superseded
+
+  [12:57:32] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2022-10-01
+
+  [03:41:39] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Maricarmen445 Delafuente833
+    Location: ARBOUR-FULLER HOSPITAL
+    Duration: 03:41:39 - 04:17:33
+
+  [03:41:39] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [03:41:39] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-10-01
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Dimple273 Maxine796 is a 56 year-old nonhispanic white female.
+      # Social History
+
+  [03:41:39] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:17:33] CLAIM: professional
+    Amount: USD 573.98
+
+  [04:17:33] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Maricarmen445 Delafuente833
+    Location: ARBOUR-FULLER HOSPITAL
+    Duration: 04:17:33 - 04:37:06
+
+  [04:17:33] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [04:17:33] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-10-01
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Dimple273 Maxine796 is a 56 year-old nonhispanic white female.
+      # Social History
+
+  [04:17:33] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:37:06] CLAIM: professional
+    Amount: USD 211.60
+
+  [04:37:06] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Maricarmen445 Delafuente833
+    Location: ARBOUR-FULLER HOSPITAL
+    Duration: 04:37:06 - 05:01:33
+
+  [04:37:06] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [04:37:06] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-10-01
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Dimple273 Maxine796 is a 56 year-old nonhispanic white female.
+      # Social History
+
+  [04:37:06] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:49:26] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [05:01:33] CLAIM: professional
+    Amount: USD 1221.08
+
+
+📅 2023-07-19
+
+  [12:42:32] VISIT: General examination of patient (procedure)
+    Provider: Dr. Wynell591 Mayert710
+    Location: WELLNESS ON WHEELS,PC
+    Duration: 12:42:32 - 12:57:32
+
+  [12:42:32] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [12:42:32] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-07-19
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Dimple273 Maxine796 is a 57 year-old nonhispanic white female.
+      # Social History
+
+  [12:42:32] DOCUMENT: History and physical note
+    Status: superseded
+
+  [12:57:32] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2023-09-06
+
+  [05:01:33] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Maricarmen445 Delafuente833
+    Location: ARBOUR-FULLER HOSPITAL
+    Duration: 05:01:33 - 05:44:45
+
+  [05:01:33] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [05:01:33] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-09-06
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Dimple273 Maxine796 is a 57 year-old nonhispanic white female.
+      # Social History
+
+  [05:01:33] DOCUMENT: History and physical note
+    Status: superseded
+
+  [05:44:45] CLAIM: professional
+    Amount: USD 573.98
+
+  [05:44:45] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Maricarmen445 Delafuente833
+    Location: ARBOUR-FULLER HOSPITAL
+    Duration: 05:44:45 - 06:04:54
+
+  [05:44:45] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [05:44:45] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-09-06
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Dimple273 Maxine796 is a 57 year-old nonhispanic white female.
+      # Social History
+
+  [05:44:45] DOCUMENT: History and physical note
+    Status: superseded
+
+  [06:04:54] CLAIM: professional
+    Amount: USD 275.39
+
+  [06:04:54] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Maricarmen445 Delafuente833
+    Location: ARBOUR-FULLER HOSPITAL
+    Duration: 06:04:54 - 06:30:55
+
+  [06:04:54] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [06:04:54] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-09-06
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Dimple273 Maxine796 is a 57 year-old nonhispanic white female.
+      # Social History
+
+  [06:04:54] DOCUMENT: History and physical note
+    Status: superseded
+
+  [06:15:09] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [06:30:55] CLAIM: professional
+    Amount: USD 1387.53
+
+
+📅 2024-07-24
+
+  [12:42:32] VISIT: General examination of patient (procedure)
+    Provider: Dr. Wynell591 Mayert710
+    Location: WELLNESS ON WHEELS,PC
+    Duration: 12:42:32 - 12:57:32
+
+  [12:42:32] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [12:42:32] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-07-24
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Dimple273 Maxine796 is a 58 year-old nonhispanic white female.
+      # Social History
+
+  [12:42:32] DOCUMENT: History and physical note
+    Status: superseded
+
+  [12:57:32] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2024-09-15
+
+  [06:30:55] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Maricarmen445 Delafuente833
+    Location: ARBOUR-FULLER HOSPITAL
+    Duration: 06:30:55 - 07:06:06
+
+  [06:30:55] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [06:30:55] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-09-15
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Dimple273 Maxine796 is a 58 year-old nonhispanic white female.
+      # Social History
+
+  [06:30:55] DOCUMENT: History and physical note
+    Status: superseded
+
+  [07:06:06] CLAIM: professional
+    Amount: USD 573.98
+
+  [07:06:06] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Maricarmen445 Delafuente833
+    Location: ARBOUR-FULLER HOSPITAL
+    Duration: 07:06:06 - 07:25:31
+
+  [07:06:06] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [07:06:06] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-09-15
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Dimple273 Maxine796 is a 58 year-old nonhispanic white female.
+      # Social History
+
+  [07:06:06] DOCUMENT: History and physical note
+    Status: superseded
+
+  [07:25:31] CLAIM: professional
+    Amount: USD 211.60
+
+  [07:25:31] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Maricarmen445 Delafuente833
+    Location: ARBOUR-FULLER HOSPITAL
+    Duration: 07:25:31 - 07:52:42
+
+  [07:25:31] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [07:25:31] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-09-15
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Dimple273 Maxine796 is a 58 year-old nonhispanic white female.
+      # Social History
+
+  [07:25:31] DOCUMENT: History and physical note
+    Status: superseded
+
+  [07:38:04] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [07:52:42] CLAIM: professional
+    Amount: USD 1480.65
+
+
+📅 2025-07-30
+
+  [12:42:32] VISIT: General examination of patient (procedure)
+    Provider: Dr. Wynell591 Mayert710
+    Location: WELLNESS ON WHEELS,PC
+    Duration: 12:42:32 - 12:57:32
+
+  [12:42:32] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [12:42:32] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-07-30
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Dimple273 Maxine796 is a 59 year-old nonhispanic white female.
+      # Social History
+
+  [12:42:32] DOCUMENT: History and physical note
+    Status: superseded
+
+  [12:57:32] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2025-10-06
+
+  [07:52:42] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Maricarmen445 Delafuente833
+    Location: Patient's Home
+    Duration: 07:52:42 - 08:31:15
+
+  [07:52:42] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [07:52:42] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-10-06
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Dimple273 Maxine796 is a 59 year-old nonhispanic white female.
+      # Social History
+
+  [07:52:42] DOCUMENT: History and physical note
+    Status: superseded
+
+  [08:31:15] CLAIM: institutional
+    Amount: USD 556.40
+
+  [08:31:15] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Maricarmen445 Delafuente833
+    Location: ARBOUR-FULLER HOSPITAL
+    Duration: 08:31:15 - 08:51:45
+
+  [08:31:15] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [08:31:15] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-10-06
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Dimple273 Maxine796 is a 59 year-old nonhispanic white female.
+      # Social History
+
+  [08:31:15] DOCUMENT: History and physical note
+    Status: superseded
+
+  [08:51:45] CLAIM: professional
+    Amount: USD 211.60
+
+  [08:51:45] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Maricarmen445 Delafuente833
+    Location: ARBOUR-FULLER HOSPITAL
+    Duration: 08:51:45 - 09:15:36
+
+  [08:51:45] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [08:51:45] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-10-06
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Dimple273 Maxine796 is a 59 year-old nonhispanic white female.
+      # Social History
+
+  [08:51:45] DOCUMENT: History and physical note
+    Status: current
+
+  [09:03:01] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [09:15:36] CLAIM: professional
+    Amount: USD 1221.08
+
+
+📅 2026-02-11
+
+  [11:42:32] PROVENANCE: Record activity
+    Agents: Dr. Maricarmen445 Delafuente833, Dr. Maricarmen445 Delafuente833
+
+================================================================================
+END OF TIMELINE (239 events)
+================================================================================

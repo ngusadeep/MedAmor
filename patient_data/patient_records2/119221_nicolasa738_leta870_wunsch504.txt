@@ -1,0 +1,165 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Mrs. Nicolasa738 Leta870 Wunsch504
+  Patient ID: 119221
+  Date of Birth: 1976-02-11
+  Gender: Female
+  Race: White
+  Ethnicity: Not Hispanic or Latino
+  Marital Status: Married
+  Address: 954 Crist Knoll, Plymouth, MA 02360
+  Phone: 555-739-5347
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2016-02-17
+
+  [23:24:16] VISIT: General examination of patient (procedure)
+    Provider: Dr. Isaac321 Kub800
+    Location: PLYMOUTH CARVER PRIMARY CARE, P.C.
+    Duration: 23:24:16 - 23:39:16
+
+  [23:24:16] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [23:24:16] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [23:24:16] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-02-17
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Nicolasa738 Leta870 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [23:24:16] DOCUMENT: History and physical note
+    Status: superseded
+
+  [23:39:16] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2018-02-21
+
+  [23:24:16] VISIT: General examination of patient (procedure)
+    Provider: Dr. Isaac321 Kub800
+    Location: PLYMOUTH CARVER PRIMARY CARE, P.C.
+    Duration: 23:24:16 - 23:39:16
+
+  [23:24:16] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [23:24:16] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [23:24:16] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [23:24:16] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-02-21
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Nicolasa738 Leta870 is a 42 year-old nonhispanic white female.
+      # Social History
+
+  [23:24:16] DOCUMENT: History and physical note
+    Status: superseded
+
+  [23:39:16] CLAIM: professional
+    Amount: USD 544.80
+
+
+📅 2020-02-26
+
+  [23:24:16] VISIT: General examination of patient (procedure)
+    Provider: Dr. Isaac321 Kub800
+    Location: PLYMOUTH CARVER PRIMARY CARE, P.C.
+    Duration: 23:24:16 - 23:39:16
+
+  [23:24:16] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [23:24:16] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-02-26
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Nicolasa738 Leta870 is a 44 year-old nonhispanic white female.
+      # Social History
+
+  [23:24:16] DOCUMENT: History and physical note
+    Status: superseded
+
+  [23:39:16] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2022-03-02
+
+  [23:24:16] VISIT: General examination of patient (procedure)
+    Provider: Dr. Isaac321 Kub800
+    Location: PLYMOUTH CARVER PRIMARY CARE, P.C.
+    Duration: 23:24:16 - 23:39:16
+
+  [23:24:16] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [23:24:16] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-03-02
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Nicolasa738 Leta870 is a 46 year-old nonhispanic white female.
+      # Social History
+
+  [23:24:16] DOCUMENT: History and physical note
+    Status: superseded
+
+  [23:39:16] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2024-03-06
+
+  [23:24:16] VISIT: General examination of patient (procedure)
+    Provider: Dr. Isaac321 Kub800
+    Location: PLYMOUTH CARVER PRIMARY CARE, P.C.
+    Duration: 23:24:16 - 23:39:16
+
+  [23:24:16] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [23:24:16] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-03-06
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Nicolasa738 Leta870 is a 48 year-old nonhispanic white female.
+      # Social History
+
+  [23:24:16] DOCUMENT: History and physical note
+    Status: current
+
+  [23:39:16] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2026-02-11
+
+  [23:24:16] PROVENANCE: Record activity
+    Agents: Dr. Isaac321 Kub800, Dr. Isaac321 Kub800
+
+================================================================================
+END OF TIMELINE (29 events)
+================================================================================

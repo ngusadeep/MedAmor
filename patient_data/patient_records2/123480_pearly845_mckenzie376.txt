@@ -1,0 +1,2287 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Mrs. Pearly845 McKenzie376
+  Patient ID: 123480
+  Date of Birth: 1978-10-04
+  Gender: Female
+  Race: White
+  Ethnicity: Not Hispanic or Latino
+  Marital Status: Married
+  Address: 464 Swift Stravenue Suite 20, Medford, MA 02145
+  Phone: 555-344-2196
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2018-10-10
+
+  [17:25:18] VISIT: General examination of patient (procedure)
+    Provider: Dr. Armida530 Nitzsche158
+    Location: BOSTON HEALTH CARE FOR THE HOMELESS PROGRAM INC
+    Duration: 17:25:18 - 17:40:18
+
+  [17:25:18] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [17:25:18] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [17:25:18] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-10-10
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Pearly845 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [17:25:18] DOCUMENT: History and physical note
+    Status: superseded
+
+  [17:40:18] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2020-10-14
+
+  [17:25:18] VISIT: General examination of patient (procedure)
+    Provider: Dr. Armida530 Nitzsche158
+    Location: BOSTON HEALTH CARE FOR THE HOMELESS PROGRAM INC
+    Duration: 17:25:18 - 17:40:18
+
+  [17:25:18] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [17:25:18] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [17:25:18] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [17:25:18] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-10-14
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Pearly845 is a 42 year-old nonhispanic white female.
+      # Social History
+
+  [17:25:18] DOCUMENT: History and physical note
+    Status: superseded
+
+  [17:40:18] CLAIM: professional
+    Amount: USD 544.80
+
+
+📅 2020-10-26
+
+  [17:25:18] VISIT: Periodic reevaluation and management of healthy individual (procedure)
+    Reason: Screening for malignant neoplasm of breast (procedure)
+    Provider: Dr. Sharilyn202 Wolff180
+    Location: THE SHRINERS HOSPITAL FOR CHILDREN
+    Duration: 17:25:18 - 13:04:14
+
+  [17:25:18] PROCEDURE: Screening mammography (procedure)
+    Status: completed
+
+  [17:25:18] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-10-26
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Pearly845 is a 42 year-old nonhispanic white female.
+      # Social History
+
+  [17:25:18] DOCUMENT: History and physical note
+    Status: superseded
+
+  [17:44:45] PROCEDURE: Ultrasonography of bilateral breasts (procedure)
+    Status: completed
+
+  [18:10:01] PROCEDURE: Biopsy of breast (procedure)
+    Status: completed
+
+  [18:43:14] CONDITION: Malignant neoplasm of breast (disorder) (active)
+
+  [18:43:14] OBSERVATION: Site of distant metastasis in Breast tumor: None (qualifier value)
+
+  [18:43:14] OBSERVATION: Distant metastases.clinical [Class] Cancer: American Joint Committee on Cancer cM0 (qualifier value)
+
+  [18:43:14] OBSERVATION: Size.maximum dimension in Tumor: 0.31732 cm
+
+  [18:43:14] OBSERVATION: Primary tumor.clinical [Class] Cancer: American Joint Committee on Cancer cT1 (qualifier value)
+
+  [18:43:14] OBSERVATION: Lymph nodes with isolated tumor cells [#] in Cancer specimen by Light microscopy: 0 {#}
+
+  [18:43:14] OBSERVATION: Regional lymph nodes.clinical [Class] Cancer: American Joint Committee on Cancer cN0 (qualifier value)
+
+  [18:43:14] PROCEDURE: Human epidermal growth factor receptor 2 gene detection by fluorescence in situ hybridization (procedure)
+    Status: completed
+
+
+📅 2020-10-28
+
+  [09:43:14] PROCEDURE: Human epidermal growth factor receptor 2 gene detection by immunohistochemistry (procedure)
+    Status: completed
+
+  [13:04:14] OBSERVATION: HER2 [Presence] in Breast cancer specimen by Immune stain: Negative (qualifier value)
+
+  [13:04:14] OBSERVATION: ERBB2 gene duplication [Presence] in Breast cancer specimen by FISH: less than 1.8
+
+  [13:04:14] OBSERVATION: Estrogen receptor Ag [Presence] in Breast cancer specimen by Immune stain: Negative (qualifier value)
+
+  [13:04:14] OBSERVATION: Progesterone receptor Ag [Presence] in Breast cancer specimen by Immune stain: Negative (qualifier value)
+
+  [13:04:14] OBSERVATION: Estrogen+Progesterone receptor Ag [Presence] in Tissue by Immune stain: Negative (qualifier value)
+
+  [13:04:14] OBSERVATION: Tumor marker Cancer: Negative (qualifier value)
+
+  [13:04:14] OBSERVATION: Stage group.clinical Cancer: American Joint Committee on Cancer stage IA (qualifier value)
+
+  [13:04:14] OBSERVATION: Stage group.clinical Cancer: Stage 1 (qualifier value)
+
+  [13:04:14] CLAIM: professional
+    Amount: USD 4441.62
+
+
+📅 2020-11-02
+
+  [13:04:14] VISIT: Discussion about treatment (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Sharilyn202 Wolff180
+    Location: THE SHRINERS HOSPITAL FOR CHILDREN
+    Duration: 13:04:14 - 13:49:52
+
+  [13:04:14] PROCEDURE: Discussion about options (procedure)
+    Status: completed
+
+  [13:04:14] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-11-02
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Pearly845 is a 42 year-old nonhispanic white female.
+      # Social History
+
+  [13:04:14] DOCUMENT: History and physical note
+    Status: superseded
+
+  [13:49:52] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2020-11-07
+
+  [07:49:52] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Sharilyn202 Wolff180
+    Location: THE SHRINERS HOSPITAL FOR CHILDREN
+    Duration: 07:49:52 - 11:19:39
+
+  [07:49:52] PROCEDURE: Chemotherapy (procedure)
+    Status: completed
+
+  [07:49:52] MEDICATION PRESCRIBED: Unknown medication
+    Status: completed
+    Prescribed by: Dr. Sharilyn202 Wolff180
+
+  [07:49:52] MEDICATION ADMINISTERED: Paclitaxel 100 MG Injection
+    Status: completed
+
+  [07:49:52] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-11-07
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Pearly845 is a 42 year-old nonhispanic white female.
+      # Social History
+
+  [07:49:52] DOCUMENT: History and physical note
+    Status: superseded
+
+  [11:19:39] CLAIM: pharmacy
+    Amount: USD 0.91
+
+  [11:19:39] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2020-11-30
+
+  [05:19:39] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Sharilyn202 Wolff180
+    Location: THE SHRINERS HOSPITAL FOR CHILDREN
+    Duration: 05:19:39 - 08:51:49
+
+  [05:19:39] PROCEDURE: Chemotherapy (procedure)
+    Status: completed
+
+  [05:19:39] MEDICATION PRESCRIBED: Unknown medication
+    Status: completed
+    Prescribed by: Dr. Sharilyn202 Wolff180
+
+  [05:19:39] MEDICATION ADMINISTERED: Paclitaxel 100 MG Injection
+    Status: completed
+
+  [05:19:39] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-11-30
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Pearly845 is a 42 year-old nonhispanic white female.
+      # Social History
+
+  [05:19:39] DOCUMENT: History and physical note
+    Status: superseded
+
+  [08:51:49] CLAIM: pharmacy
+    Amount: USD 3.65
+
+  [08:51:49] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2020-12-19
+
+  [11:51:49] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Sharilyn202 Wolff180
+    Location: THE SHRINERS HOSPITAL FOR CHILDREN
+    Duration: 11:51:49 - 15:00:40
+
+  [11:51:49] PROCEDURE: Chemotherapy (procedure)
+    Status: completed
+
+  [11:51:49] MEDICATION PRESCRIBED: Unknown medication
+    Status: completed
+    Prescribed by: Dr. Sharilyn202 Wolff180
+
+  [11:51:49] MEDICATION ADMINISTERED: Paclitaxel 100 MG Injection
+    Status: completed
+
+  [11:51:49] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-12-19
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Pearly845 is a 42 year-old nonhispanic white female.
+      # Social History
+
+  [11:51:49] DOCUMENT: History and physical note
+    Status: superseded
+
+  [15:00:40] CLAIM: pharmacy
+    Amount: USD 0.91
+
+  [15:00:40] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2021-01-10
+
+  [15:00:40] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Sharilyn202 Wolff180
+    Location: THE SHRINERS HOSPITAL FOR CHILDREN
+    Duration: 15:00:40 - 18:36:25
+
+  [15:00:40] PROCEDURE: Chemotherapy (procedure)
+    Status: completed
+
+  [15:00:40] MEDICATION PRESCRIBED: Unknown medication
+    Status: completed
+    Prescribed by: Dr. Sharilyn202 Wolff180
+
+  [15:00:40] MEDICATION ADMINISTERED: Paclitaxel 100 MG Injection
+    Status: completed
+
+  [15:00:40] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-01-10
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Pearly845 is a 42 year-old nonhispanic white female.
+      # Social History
+
+  [15:00:40] DOCUMENT: History and physical note
+    Status: superseded
+
+  [18:36:25] CLAIM: pharmacy
+    Amount: USD 1.73
+
+  [18:36:25] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2021-02-01
+
+  [12:36:25] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Sharilyn202 Wolff180
+    Location: THE SHRINERS HOSPITAL FOR CHILDREN
+    Duration: 12:36:25 - 15:18:12
+
+  [12:36:25] PROCEDURE: Chemotherapy (procedure)
+    Status: completed
+
+  [12:36:25] MEDICATION PRESCRIBED: Unknown medication
+    Status: completed
+    Prescribed by: Dr. Sharilyn202 Wolff180
+
+  [12:36:25] MEDICATION ADMINISTERED: Paclitaxel 100 MG Injection
+    Status: completed
+
+  [12:36:25] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-02-01
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Pearly845 is a 42 year-old nonhispanic white female.
+      # Social History
+
+  [12:36:25] DOCUMENT: History and physical note
+    Status: superseded
+
+  [15:18:12] CLAIM: pharmacy
+    Amount: USD 3.65
+
+  [15:18:12] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2021-02-22
+
+  [21:18:12] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Sharilyn202 Wolff180
+    Location: THE SHRINERS HOSPITAL FOR CHILDREN
+    Duration: 21:18:12 - 23:03:39
+
+  [21:18:12] PROCEDURE: Chemotherapy (procedure)
+    Status: completed
+
+  [21:18:12] MEDICATION PRESCRIBED: Unknown medication
+    Status: completed
+    Prescribed by: Dr. Sharilyn202 Wolff180
+
+  [21:18:12] MEDICATION ADMINISTERED: Paclitaxel 100 MG Injection
+    Status: completed
+
+  [21:18:12] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-02-22
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Pearly845 is a 42 year-old nonhispanic white female.
+      # Social History
+
+  [21:18:12] DOCUMENT: History and physical note
+    Status: superseded
+
+  [23:03:39] CLAIM: pharmacy
+    Amount: USD 2.32
+
+  [23:03:39] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2021-03-16
+
+  [08:03:39] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Sharilyn202 Wolff180
+    Location: THE SHRINERS HOSPITAL FOR CHILDREN
+    Duration: 08:03:39 - 11:02:07
+
+  [08:03:39] PROCEDURE: Chemotherapy (procedure)
+    Status: completed
+
+  [08:03:39] MEDICATION PRESCRIBED: Unknown medication
+    Status: completed
+    Prescribed by: Dr. Sharilyn202 Wolff180
+
+  [08:03:39] MEDICATION ADMINISTERED: Paclitaxel 100 MG Injection
+    Status: completed
+
+  [08:03:39] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-03-16
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Pearly845 is a 42 year-old nonhispanic white female.
+      # Social History
+
+  [08:03:39] DOCUMENT: History and physical note
+    Status: superseded
+
+  [11:02:07] CLAIM: pharmacy
+    Amount: USD 0.91
+
+  [11:02:07] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2021-03-24
+
+  [17:25:18] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Sharilyn202 Wolff180
+    Location: THE SHRINERS HOSPITAL FOR CHILDREN
+    Duration: 17:25:18 - 17:40:18
+
+  [17:25:18] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 30 mcg/0.3 mL dose
+    Status: completed
+
+  [17:25:18] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-03-24
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Pearly845 is a 42 year-old nonhispanic white female.
+      # Social History
+
+  [17:25:18] DOCUMENT: History and physical note
+    Status: superseded
+
+  [17:40:18] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-04-05
+
+  [04:02:07] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Sharilyn202 Wolff180
+    Location: THE SHRINERS HOSPITAL FOR CHILDREN
+    Duration: 04:02:07 - 06:12:08
+
+  [04:02:07] PROCEDURE: Chemotherapy (procedure)
+    Status: completed
+
+  [04:02:07] MEDICATION PRESCRIBED: Unknown medication
+    Status: completed
+    Prescribed by: Dr. Sharilyn202 Wolff180
+
+  [04:02:07] MEDICATION ADMINISTERED: Paclitaxel 100 MG Injection
+    Status: completed
+
+  [04:02:07] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-04-05
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Pearly845 is a 42 year-old nonhispanic white female.
+      # Social History
+
+  [04:02:07] DOCUMENT: History and physical note
+    Status: superseded
+
+  [06:12:08] CLAIM: pharmacy
+    Amount: USD 2.76
+
+  [06:12:08] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2021-04-14
+
+  [17:25:18] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Sharilyn202 Wolff180
+    Location: THE SHRINERS HOSPITAL FOR CHILDREN
+    Duration: 17:25:18 - 17:40:18
+
+  [17:25:18] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 30 mcg/0.3 mL dose
+    Status: completed
+
+  [17:25:18] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-04-14
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Pearly845 is a 42 year-old nonhispanic white female.
+      # Social History
+
+  [17:25:18] DOCUMENT: History and physical note
+    Status: superseded
+
+  [17:40:18] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-05-09
+
+  [06:12:08] OBSERVATION: Response to cancer treatment: Improving (qualifier value)
+
+  [06:12:08] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Sharilyn202 Wolff180
+    Location: THE SHRINERS HOSPITAL FOR CHILDREN
+    Duration: 06:12:08 - 08:41:10
+
+  [06:12:08] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-05-09
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Pearly845 is a 42 year-old nonhispanic white female.
+      # Social History
+
+  [06:12:08] DOCUMENT: History and physical note
+    Status: superseded
+
+  [08:22:08] PROCEDURE: Lumpectomy of breast (procedure)
+    Status: completed
+
+
+📅 2021-05-10
+
+  [08:41:10] CLAIM: institutional
+    Amount: USD 32679.89
+
+
+📅 2021-05-19
+
+  [13:41:10] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Sharilyn202 Wolff180
+    Location: THE SHRINERS HOSPITAL FOR CHILDREN
+    Duration: 13:41:10 - 14:08:10
+
+  [13:41:10] PROCEDURE: Chemotherapy (procedure)
+    Status: completed
+
+  [13:41:10] MEDICATION PRESCRIBED: Unknown medication
+    Status: completed
+    Prescribed by: Dr. Sharilyn202 Wolff180
+
+  [13:41:10] MEDICATION ADMINISTERED: 100 ML Epirubicin Hydrochloride 2 MG/ML Injection
+    Status: completed
+
+  [13:41:10] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-05-19
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Pearly845 is a 42 year-old nonhispanic white female.
+      # Social History
+
+  [13:41:10] DOCUMENT: History and physical note
+    Status: superseded
+
+  [14:08:10] CLAIM: pharmacy
+    Amount: USD 1.19
+
+  [14:08:10] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2021-06-11
+
+  [09:08:10] VISIT: Encounter for problem (procedure)
+    Provider: Dr. Sharilyn202 Wolff180
+    Location: THE SHRINERS HOSPITAL FOR CHILDREN
+    Duration: 09:08:10 - 10:38:10
+
+  [09:08:10] PROCEDURE: Chemotherapy (procedure)
+    Status: completed
+
+  [09:08:10] MEDICATION PRESCRIBED: Unknown medication
+    Status: completed
+    Prescribed by: Dr. Sharilyn202 Wolff180
+
+  [09:08:10] MEDICATION ADMINISTERED: 100 ML Epirubicin Hydrochloride 2 MG/ML Injection
+    Status: completed
+
+  [09:08:10] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-06-11
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Pearly845 is a 42 year-old nonhispanic white female.
+      # Social History
+
+  [09:08:10] DOCUMENT: History and physical note
+    Status: superseded
+
+  [10:38:10] CLAIM: pharmacy
+    Amount: USD 0.87
+
+  [10:38:10] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2021-07-03
+
+  [13:38:10] VISIT: Encounter for problem (procedure)
+    Provider: Dr. Sharilyn202 Wolff180
+    Location: THE SHRINERS HOSPITAL FOR CHILDREN
+    Duration: 13:38:10 - 14:42:10
+
+  [13:38:10] PROCEDURE: Chemotherapy (procedure)
+    Status: completed
+
+  [13:38:10] MEDICATION PRESCRIBED: Unknown medication
+    Status: completed
+    Prescribed by: Dr. Sharilyn202 Wolff180
+
+  [13:38:10] MEDICATION ADMINISTERED: 100 ML Epirubicin Hydrochloride 2 MG/ML Injection
+    Status: completed
+
+  [13:38:10] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-07-03
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Pearly845 is a 42 year-old nonhispanic white female.
+      # Social History
+
+  [13:38:10] DOCUMENT: History and physical note
+    Status: superseded
+
+  [14:42:10] CLAIM: pharmacy
+    Amount: USD 1.19
+
+  [14:42:10] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2021-07-24
+
+  [13:42:10] VISIT: Encounter for problem (procedure)
+    Provider: Dr. Sharilyn202 Wolff180
+    Location: THE SHRINERS HOSPITAL FOR CHILDREN
+    Duration: 13:42:10 - 15:09:10
+
+  [13:42:10] PROCEDURE: Chemotherapy (procedure)
+    Status: completed
+
+  [13:42:10] MEDICATION PRESCRIBED: Unknown medication
+    Status: completed
+    Prescribed by: Dr. Sharilyn202 Wolff180
+
+  [13:42:10] MEDICATION ADMINISTERED: 100 ML Epirubicin Hydrochloride 2 MG/ML Injection
+    Status: completed
+
+  [13:42:10] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-07-24
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Pearly845 is a 42 year-old nonhispanic white female.
+      # Social History
+
+  [13:42:10] DOCUMENT: History and physical note
+    Status: superseded
+
+  [15:09:10] CLAIM: pharmacy
+    Amount: USD 0.87
+
+  [15:09:10] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2021-08-15
+
+  [13:09:10] VISIT: Encounter for problem (procedure)
+    Provider: Dr. Sharilyn202 Wolff180
+    Location: THE SHRINERS HOSPITAL FOR CHILDREN
+    Duration: 13:09:10 - 13:43:10
+
+  [13:09:10] PROCEDURE: Chemotherapy (procedure)
+    Status: completed
+
+  [13:09:10] MEDICATION PRESCRIBED: Unknown medication
+    Status: completed
+    Prescribed by: Dr. Sharilyn202 Wolff180
+
+  [13:09:10] MEDICATION ADMINISTERED: 100 ML Epirubicin Hydrochloride 2 MG/ML Injection
+    Status: completed
+
+  [13:09:10] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-08-15
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Pearly845 is a 42 year-old nonhispanic white female.
+      # Social History
+
+  [13:09:10] DOCUMENT: History and physical note
+    Status: superseded
+
+  [13:43:10] CLAIM: pharmacy
+    Amount: USD 0.87
+
+  [13:43:10] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2021-09-05
+
+  [15:43:10] VISIT: Encounter for problem (procedure)
+    Provider: Dr. Sharilyn202 Wolff180
+    Location: THE SHRINERS HOSPITAL FOR CHILDREN
+    Duration: 15:43:10 - 16:06:10
+
+  [15:43:10] PROCEDURE: Chemotherapy (procedure)
+    Status: completed
+
+  [15:43:10] MEDICATION PRESCRIBED: Unknown medication
+    Status: completed
+    Prescribed by: Dr. Sharilyn202 Wolff180
+
+  [15:43:10] MEDICATION ADMINISTERED: 100 ML Epirubicin Hydrochloride 2 MG/ML Injection
+    Status: completed
+
+  [15:43:10] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-09-05
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Pearly845 is a 42 year-old nonhispanic white female.
+      # Social History
+
+  [15:43:10] DOCUMENT: History and physical note
+    Status: superseded
+
+  [16:06:10] CLAIM: pharmacy
+    Amount: USD 0.87
+
+  [16:06:10] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2021-09-26
+
+  [07:06:10] VISIT: Encounter for problem (procedure)
+    Provider: Dr. Sharilyn202 Wolff180
+    Location: THE SHRINERS HOSPITAL FOR CHILDREN
+    Duration: 07:06:10 - 07:21:10
+
+  [07:06:10] PROCEDURE: Chemotherapy (procedure)
+    Status: completed
+
+  [07:06:10] MEDICATION PRESCRIBED: Unknown medication
+    Status: completed
+    Prescribed by: Dr. Sharilyn202 Wolff180
+
+  [07:06:10] MEDICATION ADMINISTERED: 100 ML Epirubicin Hydrochloride 2 MG/ML Injection
+    Status: completed
+
+  [07:06:10] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-09-26
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Pearly845 is a 42 year-old nonhispanic white female.
+      # Social History
+
+  [07:06:10] DOCUMENT: History and physical note
+    Status: superseded
+
+  [07:21:10] CLAIM: pharmacy
+    Amount: USD 0.87
+
+  [07:21:10] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2021-10-15
+
+  [16:19:10] VISIT: Encounter for problem (procedure)
+    Provider: Dr. Sharilyn202 Wolff180
+    Location: THE SHRINERS HOSPITAL FOR CHILDREN
+    Duration: 16:19:10 - 16:34:10
+
+  [16:19:10] PROCEDURE: Chemotherapy (procedure)
+    Status: completed
+
+  [16:19:10] MEDICATION PRESCRIBED: Unknown medication
+    Status: completed
+    Prescribed by: Dr. Sharilyn202 Wolff180
+
+  [16:19:10] MEDICATION ADMINISTERED: 100 ML Epirubicin Hydrochloride 2 MG/ML Injection
+    Status: completed
+
+  [16:19:10] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-10-15
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Pearly845 is a 43 year-old nonhispanic white female.
+      # Social History
+
+  [16:19:10] DOCUMENT: History and physical note
+    Status: superseded
+
+  [16:25:10] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [16:34:10] CLAIM: pharmacy
+    Amount: USD 0.87
+
+  [16:34:10] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2021-10-16
+
+  [23:58:44] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Sharilyn202 Wolff180
+    Location: THE SHRINERS HOSPITAL FOR CHILDREN
+    Duration: 23:58:44 - 00:37:58
+
+  [23:58:44] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [23:58:44] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-10-16
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Pearly845 is a 43 year-old nonhispanic white female.
+      # Social History
+
+  [23:58:44] DOCUMENT: History and physical note
+    Status: superseded
+
+
+📅 2021-10-17
+
+  [00:37:58] CLAIM: professional
+    Amount: USD 512.63
+
+
+📅 2021-10-18
+
+  [11:53:58] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Sharilyn202 Wolff180
+    Location: THE SHRINERS HOSPITAL FOR CHILDREN
+    Duration: 11:53:58 - 12:14:00
+
+  [11:53:58] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [11:53:58] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-10-18
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Pearly845 is a 43 year-old nonhispanic white female.
+      # Social History
+
+  [11:53:58] DOCUMENT: History and physical note
+    Status: superseded
+
+  [12:14:00] CLAIM: professional
+    Amount: USD 1359.90
+
+
+📅 2021-10-19
+
+  [17:17:00] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Sharilyn202 Wolff180
+    Location: THE SHRINERS HOSPITAL FOR CHILDREN
+    Duration: 17:17:00 - 17:36:41
+
+  [17:17:00] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [17:17:00] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-10-19
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Pearly845 is a 43 year-old nonhispanic white female.
+      # Social History
+
+  [17:17:00] DOCUMENT: History and physical note
+    Status: superseded
+
+  [17:36:41] CLAIM: professional
+    Amount: USD 631.31
+
+
+📅 2021-10-21
+
+  [00:50:41] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Sharilyn202 Wolff180
+    Location: THE SHRINERS HOSPITAL FOR CHILDREN
+    Duration: 00:50:41 - 01:08:24
+
+  [00:50:41] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [00:50:41] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-10-21
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Pearly845 is a 43 year-old nonhispanic white female.
+      # Social History
+
+  [00:50:41] DOCUMENT: History and physical note
+    Status: superseded
+
+  [01:08:24] CLAIM: professional
+    Amount: USD 1359.90
+
+
+📅 2021-10-22
+
+  [11:50:24] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Sharilyn202 Wolff180
+    Location: THE SHRINERS HOSPITAL FOR CHILDREN
+    Duration: 11:50:24 - 12:28:00
+
+  [11:50:24] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [11:50:24] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-10-22
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Pearly845 is a 43 year-old nonhispanic white female.
+      # Social History
+
+  [11:50:24] DOCUMENT: History and physical note
+    Status: superseded
+
+  [12:28:00] CLAIM: professional
+    Amount: USD 1193.83
+
+
+📅 2021-10-23
+
+  [17:26:00] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Sharilyn202 Wolff180
+    Location: THE SHRINERS HOSPITAL FOR CHILDREN
+    Duration: 17:26:00 - 17:42:37
+
+  [17:26:00] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [17:26:00] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-10-23
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Pearly845 is a 43 year-old nonhispanic white female.
+      # Social History
+
+  [17:26:00] DOCUMENT: History and physical note
+    Status: superseded
+
+  [17:42:37] CLAIM: professional
+    Amount: USD 512.63
+
+
+📅 2021-10-25
+
+  [01:58:37] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Sharilyn202 Wolff180
+    Location: THE SHRINERS HOSPITAL FOR CHILDREN
+    Duration: 01:58:37 - 02:26:56
+
+  [01:58:37] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [01:58:37] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-10-25
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Pearly845 is a 43 year-old nonhispanic white female.
+      # Social History
+
+  [01:58:37] DOCUMENT: History and physical note
+    Status: superseded
+
+  [02:26:56] CLAIM: professional
+    Amount: USD 561.99
+
+
+📅 2021-10-26
+
+  [05:37:56] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Sharilyn202 Wolff180
+    Location: THE SHRINERS HOSPITAL FOR CHILDREN
+    Duration: 05:37:56 - 05:55:56
+
+  [05:37:56] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [05:37:56] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-10-26
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Pearly845 is a 43 year-old nonhispanic white female.
+      # Social History
+
+  [05:37:56] DOCUMENT: History and physical note
+    Status: superseded
+
+  [05:55:56] CLAIM: professional
+    Amount: USD 1354.89
+
+
+📅 2021-10-27
+
+  [10:24:56] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Sharilyn202 Wolff180
+    Location: THE SHRINERS HOSPITAL FOR CHILDREN
+    Duration: 10:24:56 - 11:02:14
+
+  [10:24:56] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [10:24:56] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-10-27
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Pearly845 is a 43 year-old nonhispanic white female.
+      # Social History
+
+  [10:24:56] DOCUMENT: History and physical note
+    Status: superseded
+
+  [11:02:14] CLAIM: professional
+    Amount: USD 1359.90
+
+
+📅 2021-10-28
+
+  [15:47:14] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Sharilyn202 Wolff180
+    Location: THE SHRINERS HOSPITAL FOR CHILDREN
+    Duration: 15:47:14 - 16:24:21
+
+  [15:47:14] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [15:47:14] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-10-28
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Pearly845 is a 43 year-old nonhispanic white female.
+      # Social History
+
+  [15:47:14] DOCUMENT: History and physical note
+    Status: superseded
+
+  [16:24:21] CLAIM: professional
+    Amount: USD 512.63
+
+
+📅 2021-10-29
+
+  [21:16:21] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Sharilyn202 Wolff180
+    Location: THE SHRINERS HOSPITAL FOR CHILDREN
+    Duration: 21:16:21 - 21:36:49
+
+  [21:16:21] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [21:16:21] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-10-29
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Pearly845 is a 43 year-old nonhispanic white female.
+      # Social History
+
+  [21:16:21] DOCUMENT: History and physical note
+    Status: superseded
+
+  [21:36:49] CLAIM: professional
+    Amount: USD 512.63
+
+
+📅 2021-10-30
+
+  [21:43:49] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Sharilyn202 Wolff180
+    Location: THE SHRINERS HOSPITAL FOR CHILDREN
+    Duration: 21:43:49 - 22:21:16
+
+  [21:43:49] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [21:43:49] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-10-30
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Pearly845 is a 43 year-old nonhispanic white female.
+      # Social History
+
+  [21:43:49] DOCUMENT: History and physical note
+    Status: superseded
+
+  [22:21:16] CLAIM: professional
+    Amount: USD 995.56
+
+
+📅 2021-11-01
+
+  [03:12:16] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Sharilyn202 Wolff180
+    Location: THE SHRINERS HOSPITAL FOR CHILDREN
+    Duration: 03:12:16 - 03:30:32
+
+  [03:12:16] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [03:12:16] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-11-01
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Pearly845 is a 43 year-old nonhispanic white female.
+      # Social History
+
+  [03:12:16] DOCUMENT: History and physical note
+    Status: superseded
+
+  [03:30:32] CLAIM: professional
+    Amount: USD 1359.90
+
+
+📅 2021-11-02
+
+  [14:20:32] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Sharilyn202 Wolff180
+    Location: THE SHRINERS HOSPITAL FOR CHILDREN
+    Duration: 14:20:32 - 14:53:27
+
+  [14:20:32] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [14:20:32] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-11-02
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Pearly845 is a 43 year-old nonhispanic white female.
+      # Social History
+
+  [14:20:32] DOCUMENT: History and physical note
+    Status: superseded
+
+  [14:53:27] CLAIM: professional
+    Amount: USD 1359.90
+
+
+📅 2021-11-04
+
+  [00:17:27] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Sharilyn202 Wolff180
+    Location: THE SHRINERS HOSPITAL FOR CHILDREN
+    Duration: 00:17:27 - 00:39:57
+
+  [00:17:27] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [00:17:27] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-11-04
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Pearly845 is a 43 year-old nonhispanic white female.
+      # Social History
+
+  [00:17:27] DOCUMENT: History and physical note
+    Status: superseded
+
+  [00:39:57] CLAIM: professional
+    Amount: USD 817.45
+
+
+📅 2021-11-05
+
+  [12:19:57] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Sharilyn202 Wolff180
+    Location: THE SHRINERS HOSPITAL FOR CHILDREN
+    Duration: 12:19:57 - 12:38:10
+
+  [12:19:57] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [12:19:57] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-11-05
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Pearly845 is a 43 year-old nonhispanic white female.
+      # Social History
+
+  [12:19:57] DOCUMENT: History and physical note
+    Status: superseded
+
+  [12:38:10] CLAIM: professional
+    Amount: USD 549.74
+
+
+📅 2021-11-06
+
+  [16:01:10] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Sharilyn202 Wolff180
+    Location: THE SHRINERS HOSPITAL FOR CHILDREN
+    Duration: 16:01:10 - 16:29:59
+
+  [16:01:10] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [16:01:10] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-11-06
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Pearly845 is a 43 year-old nonhispanic white female.
+      # Social History
+
+  [16:01:10] DOCUMENT: History and physical note
+    Status: superseded
+
+  [16:29:59] CLAIM: professional
+    Amount: USD 735.04
+
+
+📅 2021-11-07
+
+  [21:54:59] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Sharilyn202 Wolff180
+    Location: THE SHRINERS HOSPITAL FOR CHILDREN
+    Duration: 21:54:59 - 22:13:59
+
+  [21:54:59] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [21:54:59] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-11-07
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Pearly845 is a 43 year-old nonhispanic white female.
+      # Social History
+
+  [21:54:59] DOCUMENT: History and physical note
+    Status: superseded
+
+  [22:13:59] CLAIM: professional
+    Amount: USD 587.62
+
+
+📅 2021-11-09
+
+  [03:20:59] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Sharilyn202 Wolff180
+    Location: THE SHRINERS HOSPITAL FOR CHILDREN
+    Duration: 03:20:59 - 03:59:55
+
+  [03:20:59] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [03:20:59] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-11-09
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Pearly845 is a 43 year-old nonhispanic white female.
+      # Social History
+
+  [03:20:59] DOCUMENT: History and physical note
+    Status: superseded
+
+  [03:59:55] CLAIM: professional
+    Amount: USD 1359.90
+
+
+📅 2021-11-10
+
+  [12:42:55] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Sharilyn202 Wolff180
+    Location: THE SHRINERS HOSPITAL FOR CHILDREN
+    Duration: 12:42:55 - 12:58:22
+
+  [12:42:55] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [12:42:55] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-11-10
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Pearly845 is a 43 year-old nonhispanic white female.
+      # Social History
+
+  [12:42:55] DOCUMENT: History and physical note
+    Status: superseded
+
+  [12:58:22] CLAIM: professional
+    Amount: USD 1359.90
+
+
+📅 2021-11-12
+
+  [00:49:22] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Sharilyn202 Wolff180
+    Location: THE SHRINERS HOSPITAL FOR CHILDREN
+    Duration: 00:49:22 - 01:11:07
+
+  [00:49:22] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [00:49:22] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-11-12
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Pearly845 is a 43 year-old nonhispanic white female.
+      # Social History
+
+  [00:49:22] DOCUMENT: History and physical note
+    Status: superseded
+
+  [01:11:07] CLAIM: professional
+    Amount: USD 1357.41
+
+
+📅 2021-11-13
+
+  [12:45:07] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Sharilyn202 Wolff180
+    Location: THE SHRINERS HOSPITAL FOR CHILDREN
+    Duration: 12:45:07 - 13:08:08
+
+  [12:45:07] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [12:45:07] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-11-13
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Pearly845 is a 43 year-old nonhispanic white female.
+      # Social History
+
+  [12:45:07] DOCUMENT: History and physical note
+    Status: superseded
+
+  [13:08:08] CLAIM: professional
+    Amount: USD 512.63
+
+
+📅 2021-11-14
+
+  [20:47:08] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Sharilyn202 Wolff180
+    Location: THE SHRINERS HOSPITAL FOR CHILDREN
+    Duration: 20:47:08 - 21:09:58
+
+  [20:47:08] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [20:47:08] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-11-14
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Pearly845 is a 43 year-old nonhispanic white female.
+      # Social History
+
+  [20:47:08] DOCUMENT: History and physical note
+    Status: superseded
+
+  [21:09:58] CLAIM: professional
+    Amount: USD 1133.00
+
+
+📅 2021-11-16
+
+  [05:27:58] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Sharilyn202 Wolff180
+    Location: THE SHRINERS HOSPITAL FOR CHILDREN
+    Duration: 05:27:58 - 05:45:02
+
+  [05:27:58] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [05:27:58] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-11-16
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Pearly845 is a 43 year-old nonhispanic white female.
+      # Social History
+
+  [05:27:58] DOCUMENT: History and physical note
+    Status: superseded
+
+  [05:45:02] CLAIM: professional
+    Amount: USD 1359.90
+
+
+📅 2021-11-17
+
+  [12:50:02] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Sharilyn202 Wolff180
+    Location: THE SHRINERS HOSPITAL FOR CHILDREN
+    Duration: 12:50:02 - 13:19:11
+
+  [12:50:02] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [12:50:02] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-11-17
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Pearly845 is a 43 year-old nonhispanic white female.
+      # Social History
+
+  [12:50:02] DOCUMENT: History and physical note
+    Status: superseded
+
+  [13:19:11] CLAIM: professional
+    Amount: USD 1359.90
+
+
+📅 2021-11-18
+
+  [17:01:11] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Sharilyn202 Wolff180
+    Location: THE SHRINERS HOSPITAL FOR CHILDREN
+    Duration: 17:01:11 - 17:26:15
+
+  [17:01:11] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [17:01:11] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-11-18
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Pearly845 is a 43 year-old nonhispanic white female.
+      # Social History
+
+  [17:01:11] DOCUMENT: History and physical note
+    Status: superseded
+
+  [17:26:15] CLAIM: professional
+    Amount: USD 661.78
+
+
+📅 2021-11-20
+
+  [04:19:15] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Sharilyn202 Wolff180
+    Location: THE SHRINERS HOSPITAL FOR CHILDREN
+    Duration: 04:19:15 - 04:58:50
+
+  [04:19:15] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [04:19:15] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-11-20
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Pearly845 is a 43 year-old nonhispanic white female.
+      # Social History
+
+  [04:19:15] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:58:50] CLAIM: professional
+    Amount: USD 1359.90
+
+
+📅 2021-11-21
+
+  [13:22:50] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Sharilyn202 Wolff180
+    Location: THE SHRINERS HOSPITAL FOR CHILDREN
+    Duration: 13:22:50 - 13:56:17
+
+  [13:22:50] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [13:22:50] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-11-21
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Pearly845 is a 43 year-old nonhispanic white female.
+      # Social History
+
+  [13:22:50] DOCUMENT: History and physical note
+    Status: superseded
+
+  [13:56:17] CLAIM: professional
+    Amount: USD 1359.90
+
+
+📅 2021-11-22
+
+  [17:25:17] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Sharilyn202 Wolff180
+    Location: THE SHRINERS HOSPITAL FOR CHILDREN
+    Duration: 17:25:17 - 18:02:00
+
+  [17:25:17] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [17:25:17] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-11-22
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Pearly845 is a 43 year-old nonhispanic white female.
+      # Social History
+
+  [17:25:17] DOCUMENT: History and physical note
+    Status: superseded
+
+  [18:02:00] CLAIM: professional
+    Amount: USD 1123.67
+
+
+📅 2021-11-24
+
+  [00:50:00] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Sharilyn202 Wolff180
+    Location: THE SHRINERS HOSPITAL FOR CHILDREN
+    Duration: 00:50:00 - 01:24:08
+
+  [00:50:00] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [00:50:00] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-11-24
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Pearly845 is a 43 year-old nonhispanic white female.
+      # Social History
+
+  [00:50:00] DOCUMENT: History and physical note
+    Status: superseded
+
+  [01:24:08] CLAIM: professional
+    Amount: USD 731.44
+
+
+📅 2021-11-25
+
+  [05:21:08] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Sharilyn202 Wolff180
+    Location: THE SHRINERS HOSPITAL FOR CHILDREN
+    Duration: 05:21:08 - 05:41:11
+
+  [05:21:08] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [05:21:08] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-11-25
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Pearly845 is a 43 year-old nonhispanic white female.
+      # Social History
+
+  [05:21:08] DOCUMENT: History and physical note
+    Status: superseded
+
+  [05:41:11] CLAIM: professional
+    Amount: USD 1359.90
+
+
+📅 2021-11-26
+
+  [11:37:11] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Sharilyn202 Wolff180
+    Location: THE SHRINERS HOSPITAL FOR CHILDREN
+    Duration: 11:37:11 - 12:14:01
+
+  [11:37:11] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [11:37:11] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-11-26
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Pearly845 is a 43 year-old nonhispanic white female.
+      # Social History
+
+  [11:37:11] DOCUMENT: History and physical note
+    Status: superseded
+
+  [12:14:01] CLAIM: professional
+    Amount: USD 921.95
+
+
+📅 2021-11-27
+
+  [18:50:01] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Sharilyn202 Wolff180
+    Location: THE SHRINERS HOSPITAL FOR CHILDREN
+    Duration: 18:50:01 - 19:29:33
+
+  [18:50:01] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [18:50:01] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-11-27
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Pearly845 is a 43 year-old nonhispanic white female.
+      # Social History
+
+  [18:50:01] DOCUMENT: History and physical note
+    Status: superseded
+
+  [19:29:33] CLAIM: professional
+    Amount: USD 1359.90
+
+
+📅 2021-12-03
+
+  [13:29:33] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Sharilyn202 Wolff180
+    Location: THE SHRINERS HOSPITAL FOR CHILDREN
+    Duration: 13:29:33 - 13:44:33
+
+  [13:29:33] OBSERVATION: Treatment status Cancer: Treatment changed (situation)
+
+  [13:29:33] OBSERVATION: Response to cancer treatment: Improving (qualifier value)
+
+  [13:29:33] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-12-03
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Pearly845 is a 43 year-old nonhispanic white female.
+      # Social History
+
+  [13:29:33] DOCUMENT: History and physical note
+    Status: superseded
+
+  [13:44:33] CLAIM: professional
+    Amount: USD 85.55
+
+
+📅 2022-03-20
+
+  [14:29:33] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Sharilyn202 Wolff180
+    Location: Patient's Home
+    Duration: 14:29:33 - 15:08:24
+
+  [14:29:33] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [14:29:33] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-03-20
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Pearly845 is a 43 year-old nonhispanic white female.
+      # Social History
+
+  [14:29:33] DOCUMENT: History and physical note
+    Status: superseded
+
+  [15:08:24] CLAIM: institutional
+    Amount: USD 556.40
+
+
+📅 2022-07-21
+
+  [15:08:24] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Sharilyn202 Wolff180
+    Location: THE SHRINERS HOSPITAL FOR CHILDREN
+    Duration: 15:08:24 - 15:46:06
+
+  [15:08:24] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [15:08:24] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-07-21
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Pearly845 is a 43 year-old nonhispanic white female.
+      # Social History
+
+  [15:08:24] DOCUMENT: History and physical note
+    Status: superseded
+
+  [15:46:06] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2022-10-19
+
+  [17:25:18] VISIT: General examination of patient (procedure)
+    Provider: Dr. Armida530 Nitzsche158
+    Location: BOSTON HEALTH CARE FOR THE HOMELESS PROGRAM INC
+    Duration: 17:25:18 - 17:40:18
+
+  [17:25:18] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [17:25:18] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-10-19
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Pearly845 is a 44 year-old nonhispanic white female.
+      # Social History
+
+  [17:25:18] DOCUMENT: History and physical note
+    Status: superseded
+
+  [17:40:18] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2022-11-21
+
+  [14:46:06] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Sharilyn202 Wolff180
+    Location: Patient's Home
+    Duration: 14:46:06 - 15:23:41
+
+  [14:46:06] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [14:46:06] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-11-21
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Pearly845 is a 44 year-old nonhispanic white female.
+      # Social History
+
+  [14:46:06] DOCUMENT: History and physical note
+    Status: superseded
+
+  [15:23:41] CLAIM: institutional
+    Amount: USD 556.40
+
+  [15:23:41] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Sharilyn202 Wolff180
+    Location: THE SHRINERS HOSPITAL FOR CHILDREN
+    Duration: 15:23:41 - 15:41:17
+
+  [15:23:41] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [15:23:41] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-11-21
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Pearly845 is a 44 year-old nonhispanic white female.
+      # Social History
+
+  [15:23:41] DOCUMENT: History and physical note
+    Status: superseded
+
+  [15:41:17] OBSERVATION: Response to cancer treatment: Improving (qualifier value)
+
+  [15:41:17] CLAIM: professional
+    Amount: USD 325.49
+
+
+📅 2023-03-17
+
+  [16:41:17] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Sharilyn202 Wolff180
+    Location: THE SHRINERS HOSPITAL FOR CHILDREN
+    Duration: 16:41:17 - 17:25:19
+
+  [16:41:17] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [16:41:17] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-03-17
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Pearly845 is a 44 year-old nonhispanic white female.
+      # Social History
+
+  [16:41:17] DOCUMENT: History and physical note
+    Status: superseded
+
+  [17:25:19] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2023-06-24
+
+  [17:25:19] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Sharilyn202 Wolff180
+    Location: THE SHRINERS HOSPITAL FOR CHILDREN
+    Duration: 17:25:19 - 18:01:36
+
+  [17:25:19] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [17:25:19] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-06-24
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Pearly845 is a 44 year-old nonhispanic white female.
+      # Social History
+
+  [17:25:19] DOCUMENT: History and physical note
+    Status: superseded
+
+  [18:01:36] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2023-10-22
+
+  [18:01:36] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Sharilyn202 Wolff180
+    Location: THE SHRINERS HOSPITAL FOR CHILDREN
+    Duration: 18:01:36 - 18:38:58
+
+  [18:01:36] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [18:01:36] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-10-22
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Pearly845 is a 45 year-old nonhispanic white female.
+      # Social History
+
+  [18:01:36] DOCUMENT: History and physical note
+    Status: superseded
+
+  [18:38:58] CLAIM: professional
+    Amount: USD 573.98
+
+  [18:38:58] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Sharilyn202 Wolff180
+    Location: THE SHRINERS HOSPITAL FOR CHILDREN
+    Duration: 18:38:58 - 18:58:04
+
+  [18:38:58] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [18:38:58] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-10-22
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Pearly845 is a 45 year-old nonhispanic white female.
+      # Social History
+
+  [18:38:58] DOCUMENT: History and physical note
+    Status: superseded
+
+  [18:58:04] OBSERVATION: Response to cancer treatment: Improving (qualifier value)
+
+  [18:58:04] CLAIM: professional
+    Amount: USD 211.60
+
+
+📅 2024-02-06
+
+  [17:58:04] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Sharilyn202 Wolff180
+    Location: THE SHRINERS HOSPITAL FOR CHILDREN
+    Duration: 17:58:04 - 18:38:28
+
+  [17:58:04] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [17:58:04] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-02-06
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Pearly845 is a 45 year-old nonhispanic white female.
+      # Social History
+
+  [17:58:04] DOCUMENT: History and physical note
+    Status: superseded
+
+  [18:38:28] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2024-05-15
+
+  [19:38:28] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Sharilyn202 Wolff180
+    Location: THE SHRINERS HOSPITAL FOR CHILDREN
+    Duration: 19:38:28 - 20:15:11
+
+  [19:38:28] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [19:38:28] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-05-15
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Pearly845 is a 45 year-old nonhispanic white female.
+      # Social History
+
+  [19:38:28] DOCUMENT: History and physical note
+    Status: superseded
+
+  [20:15:11] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2024-09-01
+
+  [20:15:11] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Sharilyn202 Wolff180
+    Location: THE SHRINERS HOSPITAL FOR CHILDREN
+    Duration: 20:15:11 - 20:46:17
+
+  [20:15:11] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [20:15:11] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-09-01
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Pearly845 is a 45 year-old nonhispanic white female.
+      # Social History
+
+  [20:15:11] DOCUMENT: History and physical note
+    Status: superseded
+
+  [20:46:17] CLAIM: professional
+    Amount: USD 573.98
+
+  [20:46:17] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Sharilyn202 Wolff180
+    Location: THE SHRINERS HOSPITAL FOR CHILDREN
+    Duration: 20:46:17 - 21:09:37
+
+  [20:46:17] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [20:46:17] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-09-01
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Pearly845 is a 45 year-old nonhispanic white female.
+      # Social History
+
+  [20:46:17] DOCUMENT: History and physical note
+    Status: superseded
+
+  [21:09:37] OBSERVATION: Response to cancer treatment: Improving (qualifier value)
+
+  [21:09:37] CLAIM: professional
+    Amount: USD 211.60
+
+
+📅 2024-10-23
+
+  [17:25:18] VISIT: General examination of patient (procedure)
+    Provider: Dr. Armida530 Nitzsche158
+    Location: BOSTON HEALTH CARE FOR THE HOMELESS PROGRAM INC
+    Duration: 17:25:18 - 17:40:18
+
+  [17:25:18] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [17:25:18] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-10-23
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Pearly845 is a 46 year-old nonhispanic white female.
+      # Social History
+
+  [17:25:18] DOCUMENT: History and physical note
+    Status: superseded
+
+  [17:40:18] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2024-12-08
+
+  [20:09:37] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Sharilyn202 Wolff180
+    Location: THE SHRINERS HOSPITAL FOR CHILDREN
+    Duration: 20:09:37 - 20:46:23
+
+  [20:09:37] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [20:09:37] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-12-08
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Pearly845 is a 46 year-old nonhispanic white female.
+      # Social History
+
+  [20:09:37] DOCUMENT: History and physical note
+    Status: superseded
+
+  [20:46:23] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2025-03-20
+
+  [21:46:23] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Sharilyn202 Wolff180
+    Location: THE SHRINERS HOSPITAL FOR CHILDREN
+    Duration: 21:46:23 - 22:19:01
+
+  [21:46:23] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [21:46:23] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-03-20
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Pearly845 is a 46 year-old nonhispanic white female.
+      # Social History
+
+  [21:46:23] DOCUMENT: History and physical note
+    Status: superseded
+
+  [22:19:01] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2025-07-20
+
+  [22:19:01] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Sharilyn202 Wolff180
+    Location: THE SHRINERS HOSPITAL FOR CHILDREN
+    Duration: 22:19:01 - 22:52:11
+
+  [22:19:01] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [22:19:01] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-07-20
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Pearly845 is a 46 year-old nonhispanic white female.
+      # Social History
+
+  [22:19:01] DOCUMENT: History and physical note
+    Status: superseded
+
+  [22:52:11] CLAIM: professional
+    Amount: USD 573.98
+
+  [22:52:11] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Sharilyn202 Wolff180
+    Location: THE SHRINERS HOSPITAL FOR CHILDREN
+    Duration: 22:52:11 - 23:15:33
+
+  [22:52:11] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [22:52:11] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-07-20
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Pearly845 is a 46 year-old nonhispanic white female.
+      # Social History
+
+  [22:52:11] DOCUMENT: History and physical note
+    Status: superseded
+
+  [23:15:33] OBSERVATION: Response to cancer treatment: Improving (qualifier value)
+
+  [23:15:33] CLAIM: professional
+    Amount: USD 211.60
+
+
+📅 2025-11-17
+
+  [22:15:33] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Sharilyn202 Wolff180
+    Location: THE SHRINERS HOSPITAL FOR CHILDREN
+    Duration: 22:15:33 - 22:47:58
+
+  [22:15:33] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [22:15:33] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-11-17
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Pearly845 is a 47 year-old nonhispanic white female.
+      # Social History
+
+  [22:15:33] DOCUMENT: History and physical note
+    Status: current
+
+  [22:47:58] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2026-02-11
+
+  [16:25:18] PROVENANCE: Record activity
+    Agents: Dr. Sharilyn202 Wolff180, Dr. Sharilyn202 Wolff180
+
+================================================================================
+END OF TIMELINE (458 events)
+================================================================================

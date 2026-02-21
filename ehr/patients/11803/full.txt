@@ -1,0 +1,1080 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Mrs. Ann985 Jenny686 McCullough561
+  Patient ID: 11803
+  Date of Birth: 1972-09-10
+  Gender: Female
+  Race: White
+  Ethnicity: Not Hispanic or Latino
+  Marital Status: Married
+  Address: 699 Nolan Lane, Needham, MA 02492
+  Phone: 555-489-2972
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2012-02-15
+
+  [01:48:54] VISIT: Periodic reevaluation and management of healthy individual (procedure)
+    Reason: Screening for malignant neoplasm of breast (procedure)
+    Provider: Dr. Rolande819 Gerlach374
+    Location: NEW ENGLAND BAPTIST HOSPITAL
+    Duration: 01:48:54 - 11:38:19
+
+  [01:48:54] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2012-02-15
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Ann985 Jenny686 is a 39 year-old nonhispanic white female.
+      # Social History
+
+  [01:48:54] DOCUMENT: History and physical note
+    Status: superseded
+
+  [02:57:19] CONDITION: Malignant neoplasm of breast (disorder) (active)
+
+
+📅 2012-02-16
+
+  [11:38:19] CLAIM: professional
+    Amount: USD 5661.89
+
+
+📅 2016-03-26
+
+  [07:26:55] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Rolande819 Gerlach374
+    Location: NEW ENGLAND BAPTIST HOSPITAL
+    Duration: 07:26:55 - 08:03:30
+
+  [07:26:55] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [07:26:55] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-03-26
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Ann985 Jenny686 is a 43 year-old nonhispanic white female.
+      # Social History
+
+  [07:26:55] DOCUMENT: History and physical note
+    Status: superseded
+
+  [08:03:30] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2016-07-08
+
+  [08:03:30] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Rolande819 Gerlach374
+    Location: NEW ENGLAND BAPTIST HOSPITAL
+    Duration: 08:03:30 - 08:43:08
+
+  [08:03:30] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [08:03:30] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-07-08
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Ann985 Jenny686 is a 43 year-old nonhispanic white female.
+      # Social History
+
+  [08:03:30] DOCUMENT: History and physical note
+    Status: superseded
+
+  [08:43:08] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2016-09-25
+
+  [02:48:54] VISIT: General examination of patient (procedure)
+    Provider: Dr. Eugenio846 Streich926
+    Location: GREATER BOSTON INTERNAL MEDICINE PC
+    Duration: 02:48:54 - 03:03:54
+
+  [02:48:54] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [02:48:54] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-09-25
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Ann985 Jenny686 is a 44 year-old nonhispanic white female.
+      # Social History
+
+  [02:48:54] DOCUMENT: History and physical note
+    Status: superseded
+
+  [03:03:54] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2016-10-29
+
+  [08:43:08] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Rolande819 Gerlach374
+    Location: NEW ENGLAND BAPTIST HOSPITAL
+    Duration: 08:43:08 - 09:16:36
+
+  [08:43:08] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [08:43:08] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-10-29
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Ann985 Jenny686 is a 44 year-old nonhispanic white female.
+      # Social History
+
+  [08:43:08] DOCUMENT: History and physical note
+    Status: superseded
+
+  [09:16:36] CLAIM: professional
+    Amount: USD 573.98
+
+  [09:16:36] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Rolande819 Gerlach374
+    Location: NEW ENGLAND BAPTIST HOSPITAL
+    Duration: 09:16:36 - 09:38:52
+
+  [09:16:36] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [09:16:36] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-10-29
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Ann985 Jenny686 is a 44 year-old nonhispanic white female.
+      # Social History
+
+  [09:16:36] DOCUMENT: History and physical note
+    Status: superseded
+
+  [09:38:52] CLAIM: professional
+    Amount: USD 211.60
+
+  [09:38:52] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Rolande819 Gerlach374
+    Location: NEW ENGLAND BAPTIST HOSPITAL
+    Duration: 09:38:52 - 10:01:32
+
+  [09:38:52] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [09:38:52] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-10-29
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Ann985 Jenny686 is a 44 year-old nonhispanic white female.
+      # Social History
+
+  [09:38:52] DOCUMENT: History and physical note
+    Status: superseded
+
+  [09:49:24] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [10:01:32] CLAIM: professional
+    Amount: USD 1104.93
+
+
+📅 2017-11-21
+
+  [09:01:32] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Rolande819 Gerlach374
+    Location: NEW ENGLAND BAPTIST HOSPITAL
+    Duration: 09:01:32 - 09:39:32
+
+  [09:01:32] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [09:01:32] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-11-21
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Ann985 Jenny686 is a 45 year-old nonhispanic white female.
+      # Social History
+
+  [09:01:32] DOCUMENT: History and physical note
+    Status: superseded
+
+  [09:39:32] CLAIM: professional
+    Amount: USD 573.98
+
+  [09:39:32] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Rolande819 Gerlach374
+    Location: NEW ENGLAND BAPTIST HOSPITAL
+    Duration: 09:39:32 - 10:01:09
+
+  [09:39:32] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [09:39:32] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-11-21
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Ann985 Jenny686 is a 45 year-old nonhispanic white female.
+      # Social History
+
+  [09:39:32] DOCUMENT: History and physical note
+    Status: superseded
+
+  [10:01:09] CLAIM: professional
+    Amount: USD 211.60
+
+  [10:01:09] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Rolande819 Gerlach374
+    Location: NEW ENGLAND BAPTIST HOSPITAL
+    Duration: 10:01:09 - 10:31:25
+
+  [10:01:09] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [10:01:09] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-11-21
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Ann985 Jenny686 is a 45 year-old nonhispanic white female.
+      # Social History
+
+  [10:01:09] DOCUMENT: History and physical note
+    Status: superseded
+
+  [10:13:23] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [10:31:25] CLAIM: professional
+    Amount: USD 1197.82
+
+
+📅 2018-09-30
+
+  [02:48:54] VISIT: General examination of patient (procedure)
+    Provider: Dr. Eugenio846 Streich926
+    Location: GREATER BOSTON INTERNAL MEDICINE PC
+    Duration: 02:48:54 - 03:03:54
+
+  [02:48:54] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [02:48:54] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-09-30
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Ann985 Jenny686 is a 46 year-old nonhispanic white female.
+      # Social History
+
+  [02:48:54] DOCUMENT: History and physical note
+    Status: superseded
+
+  [03:03:54] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2018-11-06
+
+  [10:31:25] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Rolande819 Gerlach374
+    Location: NEW ENGLAND BAPTIST HOSPITAL
+    Duration: 10:31:25 - 11:08:35
+
+  [10:31:25] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [10:31:25] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-11-06
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Ann985 Jenny686 is a 46 year-old nonhispanic white female.
+      # Social History
+
+  [10:31:25] DOCUMENT: History and physical note
+    Status: superseded
+
+  [11:08:35] CLAIM: professional
+    Amount: USD 573.98
+
+  [11:08:35] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Rolande819 Gerlach374
+    Location: NEW ENGLAND BAPTIST HOSPITAL
+    Duration: 11:08:35 - 11:25:56
+
+  [11:08:35] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [11:08:35] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-11-06
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Ann985 Jenny686 is a 46 year-old nonhispanic white female.
+      # Social History
+
+  [11:08:35] DOCUMENT: History and physical note
+    Status: superseded
+
+  [11:25:56] CLAIM: professional
+    Amount: USD 211.60
+
+  [11:25:56] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Rolande819 Gerlach374
+    Location: NEW ENGLAND BAPTIST HOSPITAL
+    Duration: 11:25:56 - 11:51:19
+
+  [11:25:56] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [11:25:56] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-11-06
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Ann985 Jenny686 is a 46 year-old nonhispanic white female.
+      # Social History
+
+  [11:25:56] DOCUMENT: History and physical note
+    Status: superseded
+
+  [11:38:43] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [11:51:19] CLAIM: professional
+    Amount: USD 1154.33
+
+
+📅 2019-11-20
+
+  [11:51:19] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Rolande819 Gerlach374
+    Location: NEW ENGLAND BAPTIST HOSPITAL
+    Duration: 11:51:19 - 12:35:31
+
+  [11:51:19] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [11:51:19] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-11-20
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Ann985 Jenny686 is a 47 year-old nonhispanic white female.
+      # Social History
+
+  [11:51:19] DOCUMENT: History and physical note
+    Status: superseded
+
+  [12:35:31] CLAIM: professional
+    Amount: USD 573.98
+
+  [12:35:31] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Rolande819 Gerlach374
+    Location: NEW ENGLAND BAPTIST HOSPITAL
+    Duration: 12:35:31 - 12:59:30
+
+  [12:35:31] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [12:35:31] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-11-20
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Ann985 Jenny686 is a 47 year-old nonhispanic white female.
+      # Social History
+
+  [12:35:31] DOCUMENT: History and physical note
+    Status: superseded
+
+  [12:59:30] CLAIM: professional
+    Amount: USD 211.60
+
+  [12:59:30] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Rolande819 Gerlach374
+    Location: NEW ENGLAND BAPTIST HOSPITAL
+    Duration: 12:59:30 - 13:31:27
+
+  [12:59:30] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [12:59:30] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-11-20
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Ann985 Jenny686 is a 47 year-old nonhispanic white female.
+      # Social History
+
+  [12:59:30] DOCUMENT: History and physical note
+    Status: superseded
+
+  [13:13:30] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [13:31:27] CLAIM: professional
+    Amount: USD 1098.77
+
+
+📅 2020-10-04
+
+  [02:48:54] VISIT: General examination of patient (procedure)
+    Provider: Dr. Eugenio846 Streich926
+    Location: GREATER BOSTON INTERNAL MEDICINE PC
+    Duration: 02:48:54 - 03:03:54
+
+  [02:48:54] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [02:48:54] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-10-04
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Ann985 Jenny686 is a 48 year-old nonhispanic white female.
+      # Social History
+
+  [02:48:54] DOCUMENT: History and physical note
+    Status: superseded
+
+  [03:03:54] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2020-11-07
+
+  [13:31:27] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Rolande819 Gerlach374
+    Location: NEW ENGLAND BAPTIST HOSPITAL
+    Duration: 13:31:27 - 14:10:50
+
+  [13:31:27] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [13:31:27] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-11-07
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Ann985 Jenny686 is a 48 year-old nonhispanic white female.
+      # Social History
+
+  [13:31:27] DOCUMENT: History and physical note
+    Status: superseded
+
+  [14:10:50] CLAIM: professional
+    Amount: USD 573.98
+
+  [14:10:50] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Rolande819 Gerlach374
+    Location: NEW ENGLAND BAPTIST HOSPITAL
+    Duration: 14:10:50 - 14:29:43
+
+  [14:10:50] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [14:10:50] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-11-07
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Ann985 Jenny686 is a 48 year-old nonhispanic white female.
+      # Social History
+
+  [14:10:50] DOCUMENT: History and physical note
+    Status: superseded
+
+  [14:29:43] CLAIM: professional
+    Amount: USD 211.60
+
+  [14:29:43] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Rolande819 Gerlach374
+    Location: NEW ENGLAND BAPTIST HOSPITAL
+    Duration: 14:29:43 - 15:02:30
+
+  [14:29:43] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [14:29:43] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-11-07
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Ann985 Jenny686 is a 48 year-old nonhispanic white female.
+      # Social History
+
+  [14:29:43] DOCUMENT: History and physical note
+    Status: superseded
+
+  [14:43:08] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [15:02:30] CLAIM: professional
+    Amount: USD 2344.09
+
+
+📅 2021-11-12
+
+  [15:02:30] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Rolande819 Gerlach374
+    Location: NEW ENGLAND BAPTIST HOSPITAL
+    Duration: 15:02:30 - 15:39:32
+
+  [15:02:30] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [15:02:30] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-11-12
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Ann985 Jenny686 is a 49 year-old nonhispanic white female.
+      # Social History
+
+  [15:02:30] DOCUMENT: History and physical note
+    Status: superseded
+
+  [15:39:32] CLAIM: professional
+    Amount: USD 573.98
+
+  [15:39:32] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Rolande819 Gerlach374
+    Location: NEW ENGLAND BAPTIST HOSPITAL
+    Duration: 15:39:32 - 15:58:42
+
+  [15:39:32] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [15:39:32] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-11-12
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Ann985 Jenny686 is a 49 year-old nonhispanic white female.
+      # Social History
+
+  [15:39:32] DOCUMENT: History and physical note
+    Status: superseded
+
+  [15:58:42] CLAIM: professional
+    Amount: USD 245.45
+
+  [15:58:42] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Rolande819 Gerlach374
+    Location: NEW ENGLAND BAPTIST HOSPITAL
+    Duration: 15:58:42 - 16:26:32
+
+  [15:58:42] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [15:58:42] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-11-12
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Ann985 Jenny686 is a 49 year-old nonhispanic white female.
+      # Social History
+
+  [15:58:42] DOCUMENT: History and physical note
+    Status: superseded
+
+  [16:13:07] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [16:26:32] CLAIM: professional
+    Amount: USD 3680.06
+
+
+📅 2022-09-11
+
+  [02:48:54] VISIT: General examination of patient (procedure)
+    Provider: Dr. Eugenio846 Streich926
+    Location: GREATER BOSTON INTERNAL MEDICINE PC
+    Duration: 02:48:54 - 03:03:54
+
+  [02:48:54] IMMUNIZATION: zoster vaccine, live
+    Status: completed
+
+  [02:48:54] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [02:48:54] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-09-11
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Ann985 Jenny686 is a 50 year-old nonhispanic white female.
+      # Social History
+
+  [02:48:54] DOCUMENT: History and physical note
+    Status: superseded
+
+  [03:03:54] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2022-10-28
+
+  [17:26:32] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Rolande819 Gerlach374
+    Location: NEW ENGLAND BAPTIST HOSPITAL
+    Duration: 17:26:32 - 17:57:55
+
+  [17:26:32] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [17:26:32] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-10-28
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Ann985 Jenny686 is a 50 year-old nonhispanic white female.
+      # Social History
+
+  [17:26:32] DOCUMENT: History and physical note
+    Status: superseded
+
+  [17:57:55] CLAIM: professional
+    Amount: USD 573.98
+
+  [17:57:55] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Rolande819 Gerlach374
+    Location: NEW ENGLAND BAPTIST HOSPITAL
+    Duration: 17:57:55 - 18:15:12
+
+  [17:57:55] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [17:57:55] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-10-28
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Ann985 Jenny686 is a 50 year-old nonhispanic white female.
+      # Social History
+
+  [17:57:55] DOCUMENT: History and physical note
+    Status: superseded
+
+  [18:15:12] CLAIM: professional
+    Amount: USD 211.60
+
+  [18:15:12] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Rolande819 Gerlach374
+    Location: NEW ENGLAND BAPTIST HOSPITAL
+    Duration: 18:15:12 - 18:43:00
+
+  [18:15:12] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [18:15:12] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-10-28
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Ann985 Jenny686 is a 50 year-old nonhispanic white female.
+      # Social History
+
+  [18:15:12] DOCUMENT: History and physical note
+    Status: superseded
+
+  [18:25:44] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [18:43:00] CLAIM: professional
+    Amount: USD 1956.26
+
+
+📅 2023-09-17
+
+  [02:48:54] VISIT: General examination of patient (procedure)
+    Provider: Dr. Eugenio846 Streich926
+    Location: GREATER BOSTON INTERNAL MEDICINE PC
+    Duration: 02:48:54 - 03:03:54
+
+  [02:48:54] IMMUNIZATION: zoster vaccine, live
+    Status: completed
+
+  [02:48:54] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [02:48:54] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [02:48:54] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-09-17
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Ann985 Jenny686 is a 51 year-old nonhispanic white female.
+      # Social History
+
+  [02:48:54] DOCUMENT: History and physical note
+    Status: superseded
+
+  [03:03:54] CLAIM: professional
+    Amount: USD 544.80
+
+
+📅 2023-09-25
+
+  [18:43:00] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Rolande819 Gerlach374
+    Location: NEW ENGLAND BAPTIST HOSPITAL
+    Duration: 18:43:00 - 19:25:46
+
+  [18:43:00] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [18:43:00] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-09-25
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Ann985 Jenny686 is a 51 year-old nonhispanic white female.
+      # Social History
+
+  [18:43:00] DOCUMENT: History and physical note
+    Status: superseded
+
+  [19:25:46] CLAIM: professional
+    Amount: USD 573.98
+
+  [19:25:46] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Rolande819 Gerlach374
+    Location: NEW ENGLAND BAPTIST HOSPITAL
+    Duration: 19:25:46 - 19:49:36
+
+  [19:25:46] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [19:25:46] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-09-25
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Ann985 Jenny686 is a 51 year-old nonhispanic white female.
+      # Social History
+
+  [19:25:46] DOCUMENT: History and physical note
+    Status: superseded
+
+  [19:49:36] CLAIM: professional
+    Amount: USD 211.60
+
+  [19:49:36] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Rolande819 Gerlach374
+    Location: NEW ENGLAND BAPTIST HOSPITAL
+    Duration: 19:49:36 - 20:22:56
+
+  [19:49:36] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [19:49:36] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-09-25
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Ann985 Jenny686 is a 51 year-old nonhispanic white female.
+      # Social History
+
+  [19:49:36] DOCUMENT: History and physical note
+    Status: superseded
+
+  [20:02:59] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [20:22:56] CLAIM: professional
+    Amount: USD 2703.36
+
+
+📅 2024-09-22
+
+  [02:48:54] VISIT: General examination of patient (procedure)
+    Provider: Dr. Eugenio846 Streich926
+    Location: GREATER BOSTON INTERNAL MEDICINE PC
+    Duration: 02:48:54 - 03:03:54
+
+  [02:48:54] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [02:48:54] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-09-22
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Ann985 Jenny686 is a 52 year-old nonhispanic white female.
+      # Social History
+
+  [02:48:54] DOCUMENT: History and physical note
+    Status: superseded
+
+  [03:03:54] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2024-09-29
+
+  [02:48:54] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Rolande819 Gerlach374
+    Location: NEW ENGLAND BAPTIST HOSPITAL
+    Duration: 02:48:54 - 03:30:02
+
+  [02:48:54] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [02:48:54] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-09-29
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Ann985 Jenny686 is a 52 year-old nonhispanic white female.
+      # Social History
+
+  [02:48:54] DOCUMENT: History and physical note
+    Status: superseded
+
+  [03:30:02] CLAIM: professional
+    Amount: USD 573.98
+
+  [03:30:02] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Rolande819 Gerlach374
+    Location: NEW ENGLAND BAPTIST HOSPITAL
+    Duration: 03:30:02 - 03:50:52
+
+  [03:30:02] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [03:30:02] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-09-29
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Ann985 Jenny686 is a 52 year-old nonhispanic white female.
+      # Social History
+
+  [03:30:02] DOCUMENT: History and physical note
+    Status: superseded
+
+  [03:50:52] CLAIM: professional
+    Amount: USD 325.49
+
+  [03:50:52] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Rolande819 Gerlach374
+    Location: NEW ENGLAND BAPTIST HOSPITAL
+    Duration: 03:50:52 - 04:23:18
+
+  [03:50:52] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [03:50:52] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-09-29
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Ann985 Jenny686 is a 52 year-old nonhispanic white female.
+      # Social History
+
+  [03:50:52] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:03:23] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [04:23:18] CLAIM: professional
+    Amount: USD 1287.11
+
+
+📅 2025-09-15
+
+  [04:23:18] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Rolande819 Gerlach374
+    Location: NEW ENGLAND BAPTIST HOSPITAL
+    Duration: 04:23:18 - 05:03:05
+
+  [04:23:18] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [04:23:18] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-09-15
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Ann985 Jenny686 is a 53 year-old nonhispanic white female.
+      # Social History
+
+  [04:23:18] DOCUMENT: History and physical note
+    Status: superseded
+
+  [05:03:05] CLAIM: professional
+    Amount: USD 573.98
+
+  [05:03:05] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Rolande819 Gerlach374
+    Location: NEW ENGLAND BAPTIST HOSPITAL
+    Duration: 05:03:05 - 05:26:11
+
+  [05:03:05] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [05:03:05] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-09-15
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Ann985 Jenny686 is a 53 year-old nonhispanic white female.
+      # Social History
+
+  [05:03:05] DOCUMENT: History and physical note
+    Status: superseded
+
+  [05:26:11] CLAIM: professional
+    Amount: USD 211.60
+
+  [05:26:11] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Rolande819 Gerlach374
+    Location: NEW ENGLAND BAPTIST HOSPITAL
+    Duration: 05:26:11 - 05:53:39
+
+  [05:26:11] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [05:26:11] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-09-15
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Ann985 Jenny686 is a 53 year-old nonhispanic white female.
+      # Social History
+
+  [05:26:11] DOCUMENT: History and physical note
+    Status: superseded
+
+  [05:36:51] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [05:53:39] CLAIM: professional
+    Amount: USD 3683.52
+
+
+📅 2025-09-28
+
+  [02:48:54] VISIT: General examination of patient (procedure)
+    Provider: Dr. Eugenio846 Streich926
+    Location: GREATER BOSTON INTERNAL MEDICINE PC
+    Duration: 02:48:54 - 03:03:54
+
+  [02:48:54] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [02:48:54] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-09-28
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Ann985 Jenny686 is a 53 year-old nonhispanic white female.
+      # Social History
+
+  [02:48:54] DOCUMENT: History and physical note
+    Status: current
+
+  [03:03:54] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2026-02-15
+
+  [01:48:54] PROVENANCE: Record activity
+    Agents: Dr. Eugenio846 Streich926, Dr. Eugenio846 Streich926
+
+================================================================================
+END OF TIMELINE (214 events)
+================================================================================

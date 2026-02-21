@@ -1,0 +1,226 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Mrs. Cassie490 Lavelle273 Pfannerstill264
+  Patient ID: 25514
+  Date of Birth: 1982-01-15
+  Gender: Female
+  Race: White
+  Ethnicity: Not Hispanic or Latino
+  Marital Status: Married
+  Address: 1026 Marquardt Approach, Quincy, MA 02170
+  Phone: 555-438-6173
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2016-04-02
+
+  [00:57:20] VISIT: General examination of patient (procedure)
+    Provider: Dr. Moshe758 Stamm704
+    Location: BOSTON PAIN CLINIC & PRIMARY CARE PC
+    Duration: 00:57:20 - 01:12:20
+
+  [00:57:20] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [00:57:20] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-04-02
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Cassie490 Lavelle273 is a 34 year-old nonhispanic white female.
+      # Social History
+
+  [00:57:20] DOCUMENT: History and physical note
+    Status: superseded
+
+  [01:12:20] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2019-04-06
+
+  [00:57:20] VISIT: General examination of patient (procedure)
+    Provider: Dr. Moshe758 Stamm704
+    Location: BOSTON PAIN CLINIC & PRIMARY CARE PC
+    Duration: 00:57:20 - 01:12:20
+
+  [00:57:20] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [00:57:20] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-04-06
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Cassie490 Lavelle273 is a 37 year-old nonhispanic white female.
+      # Social History
+
+  [00:57:20] DOCUMENT: History and physical note
+    Status: superseded
+
+  [01:12:20] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2021-04-10
+
+  [00:57:20] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Daniela614 Hinojosa147
+    Location: LEMUEL SHATTUCK HOSPITAL
+    Duration: 00:57:20 - 01:12:20
+
+  [00:57:20] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+    Status: completed
+
+  [00:57:20] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-04-10
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Cassie490 Lavelle273 is a 39 year-old nonhispanic white female.
+      # Social History
+
+  [00:57:20] DOCUMENT: History and physical note
+    Status: superseded
+
+  [01:12:20] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-05-08
+
+  [00:57:20] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Daniela614 Hinojosa147
+    Location: LEMUEL SHATTUCK HOSPITAL
+    Duration: 00:57:20 - 01:12:20
+
+  [00:57:20] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+    Status: completed
+
+  [00:57:20] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-05-08
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Cassie490 Lavelle273 is a 39 year-old nonhispanic white female.
+      # Social History
+
+  [00:57:20] DOCUMENT: History and physical note
+    Status: superseded
+
+  [01:12:20] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2022-01-21
+
+  [23:57:20] VISIT: General examination of patient (procedure)
+    Provider: Dr. Moshe758 Stamm704
+    Location: BOSTON PAIN CLINIC & PRIMARY CARE PC
+    Duration: 23:57:20 - 00:12:20
+
+  [23:57:20] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [23:57:20] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [23:57:20] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-01-21
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Cassie490 Lavelle273 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [23:57:20] DOCUMENT: History and physical note
+    Status: superseded
+
+
+📅 2022-01-22
+
+  [00:12:20] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2024-01-26
+
+  [23:57:20] VISIT: General examination of patient (procedure)
+    Provider: Dr. Moshe758 Stamm704
+    Location: BOSTON PAIN CLINIC & PRIMARY CARE PC
+    Duration: 23:57:20 - 00:12:20
+
+  [23:57:20] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [23:57:20] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [23:57:20] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [23:57:20] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-01-26
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Cassie490 Lavelle273 is a 42 year-old nonhispanic white female.
+      # Social History
+
+  [23:57:20] DOCUMENT: History and physical note
+    Status: superseded
+
+
+📅 2024-01-27
+
+  [00:12:20] CLAIM: professional
+    Amount: USD 544.80
+
+
+📅 2026-01-30
+
+  [23:57:20] VISIT: General examination of patient (procedure)
+    Provider: Dr. Moshe758 Stamm704
+    Location: BOSTON PAIN CLINIC & PRIMARY CARE PC
+    Duration: 23:57:20 - 00:12:20
+
+  [23:57:20] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [23:57:20] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2026-01-30
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Cassie490 Lavelle273 is a 44 year-old nonhispanic white female.
+      # Social History
+
+  [23:57:20] DOCUMENT: History and physical note
+    Status: current
+
+
+📅 2026-01-31
+
+  [00:12:20] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2026-02-13
+
+  [23:57:20] PROVENANCE: Record activity
+    Agents: Dr. Moshe758 Stamm704, Dr. Moshe758 Stamm704
+
+================================================================================
+END OF TIMELINE (39 events)
+================================================================================

@@ -1,0 +1,159 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Mrs. Bulah832 Farrah946 Aufderhar910
+  Patient ID: 22105
+  Date of Birth: 1984-11-30
+  Gender: Female
+  Race: White
+  Ethnicity: Not Hispanic or Latino
+  Marital Status: Married
+  Address: 637 Feest Stravenue, East Sandwich, MA 02537
+  Phone: 555-374-7027
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2019-02-15
+
+  [09:04:53] VISIT: General examination of patient (procedure)
+    Provider: Dr. Rachele486 Nikolaus26
+    Location: LEAP INTO WELLNESS,LLC
+    Duration: 09:04:53 - 09:19:53
+
+  [09:04:53] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [09:04:53] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-02-15
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Bulah832 Farrah946 is a 34 year-old nonhispanic white female.
+      # Social History
+
+  [09:04:53] DOCUMENT: History and physical note
+    Status: superseded
+
+  [09:19:53] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2021-05-07
+
+  [10:04:53] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Cristi782 Miller503
+    Location: FALMOUTH HOSPITAL ASSOCIATION INC
+    Duration: 10:04:53 - 10:19:53
+
+  [10:04:53] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+    Status: completed
+
+  [10:04:53] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-05-07
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Bulah832 Farrah946 is a 36 year-old nonhispanic white female.
+      # Social History
+
+  [10:04:53] DOCUMENT: History and physical note
+    Status: superseded
+
+  [10:19:53] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-06-04
+
+  [10:04:53] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Cristi782 Miller503
+    Location: FALMOUTH HOSPITAL ASSOCIATION INC
+    Duration: 10:04:53 - 10:19:53
+
+  [10:04:53] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+    Status: completed
+
+  [10:04:53] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-06-04
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Bulah832 Farrah946 is a 36 year-old nonhispanic white female.
+      # Social History
+
+  [10:04:53] DOCUMENT: History and physical note
+    Status: superseded
+
+  [10:19:53] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2022-02-18
+
+  [09:04:53] VISIT: General examination of patient (procedure)
+    Provider: Dr. Rachele486 Nikolaus26
+    Location: LEAP INTO WELLNESS,LLC
+    Duration: 09:04:53 - 09:19:53
+
+  [09:04:53] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [09:04:53] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-02-18
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Bulah832 Farrah946 is a 37 year-old nonhispanic white female.
+      # Social History
+
+  [09:04:53] DOCUMENT: History and physical note
+    Status: superseded
+
+  [09:19:53] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2024-12-06
+
+  [09:04:53] VISIT: General examination of patient (procedure)
+    Provider: Dr. Rachele486 Nikolaus26
+    Location: LEAP INTO WELLNESS,LLC
+    Duration: 09:04:53 - 09:19:53
+
+  [09:04:53] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [09:04:53] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [09:04:53] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-12-06
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Bulah832 Farrah946 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [09:04:53] DOCUMENT: History and physical note
+    Status: current
+
+  [09:19:53] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2026-02-13
+
+  [09:04:53] PROVENANCE: Record activity
+    Agents: Dr. Rachele486 Nikolaus26, Dr. Rachele486 Nikolaus26
+
+================================================================================
+END OF TIMELINE (27 events)
+================================================================================

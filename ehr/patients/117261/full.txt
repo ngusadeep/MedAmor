@@ -1,0 +1,139 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Ms. Myrta75 Sheron583 Schaden604
+  Patient ID: 117261
+  Date of Birth: 1978-02-28
+  Gender: Female
+  Race: White
+  Ethnicity: Not Hispanic or Latino
+  Marital Status: Never Married
+  Address: 524 Thiel Haven Unit 0, Baldwinville, MA 01436
+  Phone: 555-506-5653
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2018-03-06
+
+  [19:09:33] VISIT: General examination of patient (procedure)
+    Provider: Dr. Kizzie166 Lehner980
+    Location: MOUNTAIN VIEW FAMILY PRACTICE PC
+    Duration: 19:09:33 - 19:24:33
+
+  [19:09:33] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [19:09:33] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [19:09:33] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-03-06
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Myrta75 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [19:09:33] DOCUMENT: History and physical note
+    Status: superseded
+
+  [19:24:33] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2020-03-10
+
+  [20:09:33] VISIT: General examination of patient (procedure)
+    Provider: Dr. Kizzie166 Lehner980
+    Location: MOUNTAIN VIEW FAMILY PRACTICE PC
+    Duration: 20:09:33 - 20:24:33
+
+  [20:09:33] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [20:09:33] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [20:09:33] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [20:09:33] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-03-10
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Myrta75 is a 42 year-old nonhispanic white female.
+      # Social History
+
+  [20:09:33] DOCUMENT: History and physical note
+    Status: superseded
+
+  [20:24:33] CLAIM: professional
+    Amount: USD 544.80
+
+
+📅 2022-03-15
+
+  [20:09:33] VISIT: General examination of patient (procedure)
+    Provider: Dr. Kizzie166 Lehner980
+    Location: MOUNTAIN VIEW FAMILY PRACTICE PC
+    Duration: 20:09:33 - 20:24:33
+
+  [20:09:33] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [20:09:33] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-03-15
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Myrta75 is a 44 year-old nonhispanic white female.
+      # Social History
+
+  [20:09:33] DOCUMENT: History and physical note
+    Status: superseded
+
+  [20:24:33] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2024-03-19
+
+  [20:09:33] VISIT: General examination of patient (procedure)
+    Provider: Dr. Kizzie166 Lehner980
+    Location: MOUNTAIN VIEW FAMILY PRACTICE PC
+    Duration: 20:09:33 - 20:24:33
+
+  [20:09:33] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [20:09:33] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-03-19
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Myrta75 is a 46 year-old nonhispanic white female.
+      # Social History
+
+  [20:09:33] DOCUMENT: History and physical note
+    Status: current
+
+  [20:24:33] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2026-02-10
+
+  [19:09:33] PROVENANCE: Record activity
+    Agents: Dr. Kizzie166 Lehner980, Dr. Kizzie166 Lehner980
+
+================================================================================
+END OF TIMELINE (24 events)
+================================================================================

@@ -1,0 +1,188 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Mrs. Jenna662 Allene83 Jacobson885
+  Patient ID: 67464
+  Date of Birth: 1985-12-05
+  Gender: Female
+  Race: White
+  Ethnicity: Not Hispanic or Latino
+  Marital Status: Divorced
+  Address: 254 Prosacco Row, Williamstown, MA 01267
+  Phone: 555-693-5306
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2017-02-16
+
+  [08:39:20] VISIT: General examination of patient (procedure)
+    Provider: Dr. Roxanna261 Gleichner915
+    Location: FAIRVIEW HOSPITAL
+    Duration: 08:39:20 - 08:54:20
+
+  [08:39:20] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [08:39:20] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [08:39:20] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-02-16
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Jenna662 Allene83 is a 31 year-old nonhispanic white female.
+      # Social History
+
+  [08:39:20] DOCUMENT: History and physical note
+    Status: superseded
+
+  [08:54:20] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2020-02-20
+
+  [08:39:20] VISIT: General examination of patient (procedure)
+    Provider: Dr. Roxanna261 Gleichner915
+    Location: FAIRVIEW HOSPITAL
+    Duration: 08:39:20 - 08:54:20
+
+  [08:39:20] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [08:39:20] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-02-20
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Jenna662 Allene83 is a 34 year-old nonhispanic white female.
+      # Social History
+
+  [08:39:20] DOCUMENT: History and physical note
+    Status: superseded
+
+  [08:54:20] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2021-07-08
+
+  [09:39:20] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Carroll471 Eichmann909
+    Location: BERKSHIRE MEDICAL CENTER INC
+    Duration: 09:39:20 - 09:54:20
+
+  [09:39:20] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 30 mcg/0.3 mL dose
+    Status: completed
+
+  [09:39:20] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-07-08
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Jenna662 Allene83 is a 35 year-old nonhispanic white female.
+      # Social History
+
+  [09:39:20] DOCUMENT: History and physical note
+    Status: superseded
+
+  [09:54:20] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-07-29
+
+  [09:39:20] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Carroll471 Eichmann909
+    Location: BERKSHIRE MEDICAL CENTER INC
+    Duration: 09:39:20 - 09:54:20
+
+  [09:39:20] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 30 mcg/0.3 mL dose
+    Status: completed
+
+  [09:39:20] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-07-29
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Jenna662 Allene83 is a 35 year-old nonhispanic white female.
+      # Social History
+
+  [09:39:20] DOCUMENT: History and physical note
+    Status: superseded
+
+  [09:54:20] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2023-02-23
+
+  [08:39:20] VISIT: General examination of patient (procedure)
+    Provider: Dr. Roxanna261 Gleichner915
+    Location: FAIRVIEW HOSPITAL
+    Duration: 08:39:20 - 08:54:20
+
+  [08:39:20] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [08:39:20] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-02-23
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Jenna662 Allene83 is a 37 year-old nonhispanic white female.
+      # Social History
+
+  [08:39:20] DOCUMENT: History and physical note
+    Status: superseded
+
+  [08:54:20] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2025-12-11
+
+  [08:39:20] VISIT: General examination of patient (procedure)
+    Provider: Dr. Roxanna261 Gleichner915
+    Location: FAIRVIEW HOSPITAL
+    Duration: 08:39:20 - 08:54:20
+
+  [08:39:20] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [08:39:20] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [08:39:20] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-12-11
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Jenna662 Allene83 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [08:39:20] DOCUMENT: History and physical note
+    Status: current
+
+  [08:54:20] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2026-02-12
+
+  [08:39:20] PROVENANCE: Record activity
+    Agents: Dr. Roxanna261 Gleichner915, Dr. Roxanna261 Gleichner915
+
+================================================================================
+END OF TIMELINE (33 events)
+================================================================================

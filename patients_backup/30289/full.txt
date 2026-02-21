@@ -1,0 +1,139 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Ms. Clyde817 Stehr398
+  Patient ID: 30289
+  Date of Birth: 1982-05-17
+  Gender: Female
+  Race: White
+  Ethnicity: Not Hispanic or Latino
+  Marital Status: Never Married
+  Address: 890 Farrell Stravenue, Weston, MA 00000
+  Phone: 555-458-9759
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2016-08-01
+
+  [01:07:43] VISIT: General examination of patient (procedure)
+    Provider: Dr. Jung484 Lowe577
+    Location: COMMUNICATIVE HEALTH CARE ASSOCIATES INC.
+    Duration: 01:07:43 - 01:22:43
+
+  [01:07:43] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [01:07:43] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-08-01
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Clyde817 is a 34 year-old nonhispanic white female.
+      # Social History
+
+  [01:07:43] DOCUMENT: History and physical note
+    Status: superseded
+
+  [01:22:43] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2019-08-05
+
+  [01:07:43] VISIT: General examination of patient (procedure)
+    Provider: Dr. Jung484 Lowe577
+    Location: COMMUNICATIVE HEALTH CARE ASSOCIATES INC.
+    Duration: 01:07:43 - 01:22:43
+
+  [01:07:43] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [01:07:43] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-08-05
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Clyde817 is a 37 year-old nonhispanic white female.
+      # Social History
+
+  [01:07:43] DOCUMENT: History and physical note
+    Status: superseded
+
+  [01:22:43] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2022-05-23
+
+  [01:07:43] VISIT: General examination of patient (procedure)
+    Provider: Dr. Jung484 Lowe577
+    Location: COMMUNICATIVE HEALTH CARE ASSOCIATES INC.
+    Duration: 01:07:43 - 01:22:43
+
+  [01:07:43] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [01:07:43] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [01:07:43] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-05-23
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Clyde817 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [01:07:43] DOCUMENT: History and physical note
+    Status: superseded
+
+  [01:22:43] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2024-05-27
+
+  [01:07:43] VISIT: General examination of patient (procedure)
+    Provider: Dr. Jung484 Lowe577
+    Location: COMMUNICATIVE HEALTH CARE ASSOCIATES INC.
+    Duration: 01:07:43 - 01:22:43
+
+  [01:07:43] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [01:07:43] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [01:07:43] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [01:07:43] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-05-27
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Clyde817 is a 42 year-old nonhispanic white female.
+      # Social History
+
+  [01:07:43] DOCUMENT: History and physical note
+    Status: current
+
+  [01:22:43] CLAIM: professional
+    Amount: USD 544.80
+
+
+📅 2026-02-16
+
+  [00:07:43] PROVENANCE: Record activity
+    Agents: Dr. Jung484 Lowe577, Dr. Jung484 Lowe577
+
+================================================================================
+END OF TIMELINE (24 events)
+================================================================================

@@ -23,6 +23,15 @@ def init_db() -> None:
 
     Base.metadata.create_all(bind=engine)
 
+    # Add new columns to jobs if they don't exist (schema evolution without Alembic)
+    with engine.connect() as conn:
+        try:
+            for col, typ in [("model", "VARCHAR(64)"), ("extraction_mode", "VARCHAR(64)")]:
+                conn.execute(text(f"ALTER TABLE jobs ADD COLUMN IF NOT EXISTS {col} {typ}"))
+            conn.commit()
+        except Exception:
+            conn.rollback()
+
     # Create default users and migrate existing ones
     db = SessionLocal()
     try:

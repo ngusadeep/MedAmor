@@ -1,0 +1,139 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Mrs. Tora746 Digna973 Turner526
+  Patient ID: 149149
+  Date of Birth: 1982-07-11
+  Gender: Female
+  Race: Native Hawaiian or Other Pacific Islander
+  Ethnicity: Hispanic or Latino
+  Marital Status: Married
+  Address: 138 Rutherford Glen Apt 24, Boston, MA 02109
+  Phone: 555-799-8367
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2016-09-25
+
+  [03:26:42] VISIT: General examination of patient (procedure)
+    Provider: Dr. Rubén780 Padrón382
+    Location: DAVIS SQUARE FAMILY PRACTICE
+    Duration: 03:26:42 - 03:41:42
+
+  [03:26:42] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [03:26:42] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-09-25
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Tora746 Digna973 is a 34 year-old hispanic hawaiian female.
+      # Social History
+
+  [03:26:42] DOCUMENT: History and physical note
+    Status: superseded
+
+  [03:41:42] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2019-09-29
+
+  [03:26:42] VISIT: General examination of patient (procedure)
+    Provider: Dr. Rubén780 Padrón382
+    Location: DAVIS SQUARE FAMILY PRACTICE
+    Duration: 03:26:42 - 03:41:42
+
+  [03:26:42] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [03:26:42] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-09-29
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Tora746 Digna973 is a 37 year-old hispanic hawaiian female.
+      # Social History
+
+  [03:26:42] DOCUMENT: History and physical note
+    Status: superseded
+
+  [03:41:42] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2022-07-17
+
+  [03:26:42] VISIT: General examination of patient (procedure)
+    Provider: Dr. Rubén780 Padrón382
+    Location: DAVIS SQUARE FAMILY PRACTICE
+    Duration: 03:26:42 - 03:41:42
+
+  [03:26:42] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [03:26:42] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [03:26:42] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-07-17
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Tora746 Digna973 is a 40 year-old hispanic hawaiian female.
+      # Social History
+
+  [03:26:42] DOCUMENT: History and physical note
+    Status: superseded
+
+  [03:41:42] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2024-07-21
+
+  [03:26:42] VISIT: General examination of patient (procedure)
+    Provider: Dr. Rubén780 Padrón382
+    Location: DAVIS SQUARE FAMILY PRACTICE
+    Duration: 03:26:42 - 03:41:42
+
+  [03:26:42] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [03:26:42] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [03:26:42] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [03:26:42] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-07-21
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Tora746 Digna973 is a 42 year-old hispanic hawaiian female.
+      # Social History
+
+  [03:26:42] DOCUMENT: History and physical note
+    Status: current
+
+  [03:41:42] CLAIM: professional
+    Amount: USD 544.80
+
+
+📅 2026-02-15
+
+  [02:26:42] PROVENANCE: Record activity
+    Agents: Dr. Rubén780 Padrón382, Dr. Rubén780 Padrón382
+
+================================================================================
+END OF TIMELINE (24 events)
+================================================================================

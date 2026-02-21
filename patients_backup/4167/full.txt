@@ -1,0 +1,399 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Mrs. Agueda283 Pansy803 Jones311
+  Patient ID: 4167
+  Date of Birth: 1971-05-20
+  Gender: Female
+  Race: White
+  Ethnicity: Not Hispanic or Latino
+  Marital Status: Divorced
+  Address: 1077 Sauer Lodge Suite 82, West Brookfield, MA 01585
+  Phone: 555-611-7113
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2017-06-08
+
+  [22:48:30] VISIT: General examination of patient (procedure)
+    Provider: Dr. Debra128 Predovic534
+    Location: WEST BROOKFIELD FAMILY PRACTICE
+    Duration: 22:48:30 - 23:03:30
+
+  [22:48:30] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [22:48:30] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-06-08
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Agueda283 Pansy803 is a 46 year-old nonhispanic white female.
+      # Social History
+
+  [22:48:30] DOCUMENT: History and physical note
+    Status: superseded
+
+  [23:03:30] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2019-06-13
+
+  [22:48:30] VISIT: General examination of patient (procedure)
+    Provider: Dr. Debra128 Predovic534
+    Location: WEST BROOKFIELD FAMILY PRACTICE
+    Duration: 22:48:30 - 23:03:30
+
+  [22:48:30] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [22:48:30] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-06-13
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Agueda283 Pansy803 is a 48 year-old nonhispanic white female.
+      # Social History
+
+  [22:48:30] DOCUMENT: History and physical note
+    Status: superseded
+
+  [23:03:30] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2021-04-15
+
+  [22:48:30] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Pedro316 Echevarría842
+    Location: BAYSTATE MEDICAL CENTER
+    Duration: 22:48:30 - 23:03:30
+
+  [22:48:30] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 30 mcg/0.3 mL dose
+    Status: completed
+
+  [22:48:30] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-04-15
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Agueda283 Pansy803 is a 49 year-old nonhispanic white female.
+      # Social History
+
+  [22:48:30] DOCUMENT: History and physical note
+    Status: superseded
+
+  [23:03:30] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-05-06
+
+  [22:48:30] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Pedro316 Echevarría842
+    Location: BAYSTATE MEDICAL CENTER
+    Duration: 22:48:30 - 23:03:30
+
+  [22:48:30] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 30 mcg/0.3 mL dose
+    Status: completed
+
+  [22:48:30] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-05-06
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Agueda283 Pansy803 is a 49 year-old nonhispanic white female.
+      # Social History
+
+  [22:48:30] DOCUMENT: History and physical note
+    Status: superseded
+
+  [23:03:30] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-05-20
+
+  [22:48:30] VISIT: General examination of patient (procedure)
+    Provider: Dr. Debra128 Predovic534
+    Location: WEST BROOKFIELD FAMILY PRACTICE
+    Duration: 22:48:30 - 23:03:30
+
+  [22:48:30] IMMUNIZATION: zoster vaccine, live
+    Status: completed
+
+  [22:48:30] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [22:48:30] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-05-20
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Agueda283 Pansy803 is a 50 year-old nonhispanic white female.
+      # Social History
+
+  [22:48:30] DOCUMENT: History and physical note
+    Status: superseded
+
+  [23:03:30] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2022-05-26
+
+  [22:48:30] VISIT: General examination of patient (procedure)
+    Provider: Dr. Debra128 Predovic534
+    Location: WEST BROOKFIELD FAMILY PRACTICE
+    Duration: 22:48:30 - 23:03:30
+
+  [22:48:30] IMMUNIZATION: zoster vaccine, live
+    Status: completed
+
+  [22:48:30] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [22:48:30] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [22:48:30] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-05-26
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Agueda283 Pansy803 is a 51 year-old nonhispanic white female.
+      # Social History
+
+  [22:48:30] DOCUMENT: History and physical note
+    Status: superseded
+
+  [23:03:30] CLAIM: professional
+    Amount: USD 544.80
+
+
+📅 2023-06-01
+
+  [22:48:30] VISIT: General examination of patient (procedure)
+    Provider: Dr. Debra128 Predovic534
+    Location: WEST BROOKFIELD FAMILY PRACTICE
+    Duration: 22:48:30 - 23:03:30
+
+  [22:48:30] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [22:48:30] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-06-01
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Agueda283 Pansy803 is a 52 year-old nonhispanic white female.
+      # Social History
+
+  [22:48:30] DOCUMENT: History and physical note
+    Status: superseded
+
+  [23:03:30] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2024-06-06
+
+  [22:48:30] VISIT: General examination of patient (procedure)
+    Provider: Dr. Debra128 Predovic534
+    Location: WEST BROOKFIELD FAMILY PRACTICE
+    Duration: 22:48:30 - 23:03:30
+
+  [22:48:30] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [22:48:30] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-06-06
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Agueda283 Pansy803 is a 53 year-old nonhispanic white female.
+      # Social History
+
+  [22:48:30] DOCUMENT: History and physical note
+    Status: superseded
+
+  [23:03:30] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2025-06-12
+
+  [22:48:30] VISIT: General examination of patient (procedure)
+    Provider: Dr. Debra128 Predovic534
+    Location: WEST BROOKFIELD FAMILY PRACTICE
+    Duration: 22:48:30 - 23:03:30
+
+  [22:48:30] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [22:48:30] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-06-12
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Agueda283 Pansy803 is a 54 year-old nonhispanic white female.
+      # Social History
+
+  [22:48:30] DOCUMENT: History and physical note
+    Status: superseded
+
+  [23:03:30] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2026-01-26
+
+  [21:48:30] VISIT: Periodic reevaluation and management of healthy individual (procedure)
+    Reason: Screening for malignant neoplasm of breast (procedure)
+    Provider: Dr. Pedro316 Echevarría842
+    Location: BAYSTATE MEDICAL CENTER
+    Duration: 21:48:30 - 01:05:21
+
+  [21:48:30] PROCEDURE: Screening mammography (procedure)
+    Status: completed
+
+  [21:48:30] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2026-01-26
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Agueda283 Pansy803 is a 54 year-old nonhispanic white female.
+      # Social History
+
+  [21:48:30] DOCUMENT: History and physical note
+    Status: superseded
+
+  [22:10:22] PROCEDURE: Ultrasonography of bilateral breasts (procedure)
+    Status: completed
+
+  [22:31:50] PROCEDURE: Biopsy of breast (procedure)
+    Status: completed
+
+  [23:28:21] CONDITION: Malignant neoplasm of breast (disorder) (active)
+
+  [23:28:21] OBSERVATION: Site of distant metastasis in Breast tumor: None (qualifier value)
+
+  [23:28:21] OBSERVATION: Distant metastases.clinical [Class] Cancer: American Joint Committee on Cancer cM0 (qualifier value)
+
+  [23:28:21] OBSERVATION: Size.maximum dimension in Tumor: 1.2263 cm
+
+  [23:28:21] OBSERVATION: Primary tumor.clinical [Class] Cancer: American Joint Committee on Cancer cT1 (qualifier value)
+
+  [23:28:21] OBSERVATION: Lymph nodes with isolated tumor cells [#] in Cancer specimen by Light microscopy: 0 {#}
+
+  [23:28:21] OBSERVATION: Regional lymph nodes.clinical [Class] Cancer: American Joint Committee on Cancer cN0 (qualifier value)
+
+  [23:28:21] PROCEDURE: Human epidermal growth factor receptor 2 gene detection by fluorescence in situ hybridization (procedure)
+    Status: completed
+
+
+📅 2026-01-28
+
+  [22:28:21] PROCEDURE: Human epidermal growth factor receptor 2 gene detection by immunohistochemistry (procedure)
+    Status: completed
+
+
+📅 2026-01-29
+
+  [01:05:21] OBSERVATION: HER2 [Presence] in Breast cancer specimen by Immune stain: Negative (qualifier value)
+
+  [01:05:21] OBSERVATION: ERBB2 gene duplication [Presence] in Breast cancer specimen by FISH: less than 1.8
+
+  [01:05:21] OBSERVATION: Estrogen receptor Ag [Presence] in Breast cancer specimen by Immune stain: Positive (qualifier value)
+
+  [01:05:21] OBSERVATION: Progesterone receptor Ag [Presence] in Breast cancer specimen by Immune stain: Positive (qualifier value)
+
+  [01:05:21] OBSERVATION: Estrogen+Progesterone receptor Ag [Presence] in Tissue by Immune stain: Positive (qualifier value)
+
+  [01:05:21] OBSERVATION: Stage group.clinical Cancer: American Joint Committee on Cancer stage IA (qualifier value)
+
+  [01:05:21] OBSERVATION: Stage group.clinical Cancer: Stage 1 (qualifier value)
+
+  [01:05:21] CLAIM: professional
+    Amount: USD 7923.06
+
+
+📅 2026-01-31
+
+  [04:05:21] VISIT: Discussion about treatment (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Pedro316 Echevarría842
+    Location: BAYSTATE MEDICAL CENTER
+    Duration: 04:05:21 - 05:04:46
+
+  [04:05:21] PROCEDURE: Discussion about options (procedure)
+    Status: completed
+
+  [04:05:21] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2026-01-31
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Agueda283 Pansy803 is a 54 year-old nonhispanic white female.
+      # Social History
+
+  [04:05:21] DOCUMENT: History and physical note
+    Status: superseded
+
+  [05:04:46] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2026-02-05
+
+  [01:04:46] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Pedro316 Echevarría842
+    Location: BAYSTATE MEDICAL CENTER
+    Duration: 01:04:46 - 09:55:45
+
+  [01:04:46] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2026-02-05
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Agueda283 Pansy803 is a 54 year-old nonhispanic white female.
+      # Social History
+
+  [01:04:46] DOCUMENT: History and physical note
+    Status: current
+
+  [02:42:46] PROCEDURE: Excision of lesion of breast (procedure)
+    Status: completed
+
+
+📅 2026-02-09
+
+  [09:55:45] CLAIM: institutional
+    Amount: USD 519.11
+
+
+📅 2026-02-12
+
+  [21:48:30] PROVENANCE: Record activity
+    Agents: Dr. Pedro316 Echevarría842, Dr. Pedro316 Echevarría842
+
+================================================================================
+END OF TIMELINE (82 events)
+================================================================================

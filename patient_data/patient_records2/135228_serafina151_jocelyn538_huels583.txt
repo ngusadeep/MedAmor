@@ -1,0 +1,217 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Mrs. Serafina151 Jocelyn538 Huels583
+  Patient ID: 135228
+  Date of Birth: 1975-05-06
+  Gender: Female
+  Race: Black or African American
+  Ethnicity: Not Hispanic or Latino
+  Marital Status: Married
+  Address: 798 Larkin Flat Unit 71, Boston, MA 02125
+  Phone: 555-156-6790
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2017-05-16
+
+  [00:52:09] VISIT: General examination of patient (procedure)
+    Provider: Dr. Sherita708 Hudson301
+    Location: SOUTH BOSTON COMMUNITY HEALTH CENTER INC
+    Duration: 00:52:09 - 01:07:09
+
+  [00:52:09] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [00:52:09] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [00:52:09] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [00:52:09] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-05-16
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Serafina151 Jocelyn538 is a 42 year-old nonhispanic black female.
+      # Social History
+
+  [00:52:09] DOCUMENT: History and physical note
+    Status: superseded
+
+  [01:07:09] CLAIM: professional
+    Amount: USD 544.80
+
+
+📅 2019-05-21
+
+  [00:52:09] VISIT: General examination of patient (procedure)
+    Provider: Dr. Sherita708 Hudson301
+    Location: SOUTH BOSTON COMMUNITY HEALTH CENTER INC
+    Duration: 00:52:09 - 01:07:09
+
+  [00:52:09] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [00:52:09] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-05-21
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Serafina151 Jocelyn538 is a 44 year-old nonhispanic black female.
+      # Social History
+
+  [00:52:09] DOCUMENT: History and physical note
+    Status: superseded
+
+  [01:07:09] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2021-04-13
+
+  [00:52:09] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Jose871 Dicki44
+    Location: TUFTS MEDICAL CENTER, INC
+    Duration: 00:52:09 - 01:07:09
+
+  [00:52:09] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+    Status: completed
+
+  [00:52:09] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-04-13
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Serafina151 Jocelyn538 is a 45 year-old nonhispanic black female.
+      # Social History
+
+  [00:52:09] DOCUMENT: History and physical note
+    Status: superseded
+
+  [01:07:09] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-05-11
+
+  [00:52:09] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Jose871 Dicki44
+    Location: TUFTS MEDICAL CENTER, INC
+    Duration: 00:52:09 - 01:07:09
+
+  [00:52:09] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+    Status: completed
+
+  [00:52:09] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-05-11
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Serafina151 Jocelyn538 is a 46 year-old nonhispanic black female.
+      # Social History
+
+  [00:52:09] DOCUMENT: History and physical note
+    Status: superseded
+
+  [01:07:09] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-05-25
+
+  [00:52:09] VISIT: General examination of patient (procedure)
+    Provider: Dr. Sherita708 Hudson301
+    Location: SOUTH BOSTON COMMUNITY HEALTH CENTER INC
+    Duration: 00:52:09 - 01:07:09
+
+  [00:52:09] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [00:52:09] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-05-25
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Serafina151 Jocelyn538 is a 46 year-old nonhispanic black female.
+      # Social History
+
+  [00:52:09] DOCUMENT: History and physical note
+    Status: superseded
+
+  [01:07:09] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2023-05-30
+
+  [00:52:09] VISIT: General examination of patient (procedure)
+    Provider: Dr. Sherita708 Hudson301
+    Location: SOUTH BOSTON COMMUNITY HEALTH CENTER INC
+    Duration: 00:52:09 - 01:07:09
+
+  [00:52:09] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [00:52:09] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-05-30
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Serafina151 Jocelyn538 is a 48 year-old nonhispanic black female.
+      # Social History
+
+  [00:52:09] DOCUMENT: History and physical note
+    Status: superseded
+
+  [01:07:09] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2025-05-06
+
+  [00:52:09] VISIT: General examination of patient (procedure)
+    Provider: Dr. Sherita708 Hudson301
+    Location: SOUTH BOSTON COMMUNITY HEALTH CENTER INC
+    Duration: 00:52:09 - 01:07:09
+
+  [00:52:09] IMMUNIZATION: zoster vaccine, live
+    Status: completed
+
+  [00:52:09] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [00:52:09] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-05-06
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Serafina151 Jocelyn538 is a 50 year-old nonhispanic black female.
+      # Social History
+
+  [00:52:09] DOCUMENT: History and physical note
+    Status: current
+
+  [01:07:09] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2026-02-09
+
+  [23:52:09] PROVENANCE: Record activity
+    Agents: Dr. Sherita708 Hudson301, Dr. Sherita708 Hudson301
+
+================================================================================
+END OF TIMELINE (39 events)
+================================================================================

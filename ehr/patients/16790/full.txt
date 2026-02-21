@@ -1,0 +1,191 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Mrs. Barb55 Gabriel934 Stracke611
+  Patient ID: 16790
+  Date of Birth: 1978-09-29
+  Gender: Female
+  Race: White
+  Ethnicity: Not Hispanic or Latino
+  Marital Status: Married
+  Address: 352 Miller Light, Natick, MA 00000
+  Phone: 555-452-4132
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2018-10-05
+
+  [17:07:24] VISIT: General examination of patient (procedure)
+    Provider: Dr. Heath320 Leuschke194
+    Location: WESTON PRIMARY CARE, PC
+    Duration: 17:07:24 - 17:22:24
+
+  [17:07:24] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [17:07:24] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [17:07:24] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-10-05
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Barb55 Gabriel934 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [17:07:24] DOCUMENT: History and physical note
+    Status: superseded
+
+  [17:22:24] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2020-10-09
+
+  [17:07:24] VISIT: General examination of patient (procedure)
+    Provider: Dr. Heath320 Leuschke194
+    Location: WESTON PRIMARY CARE, PC
+    Duration: 17:07:24 - 17:22:24
+
+  [17:07:24] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [17:07:24] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [17:07:24] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [17:07:24] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-10-09
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Barb55 Gabriel934 is a 42 year-old nonhispanic white female.
+      # Social History
+
+  [17:07:24] DOCUMENT: History and physical note
+    Status: superseded
+
+  [17:22:24] CLAIM: professional
+    Amount: USD 544.80
+
+
+📅 2022-01-07
+
+  [16:07:24] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Gerry91 Block661
+    Location: VHS ACQUISITION SUBSIDIARY NUMBER 9, INC.
+    Duration: 16:07:24 - 16:22:24
+
+  [16:07:24] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+    Status: completed
+
+  [16:07:24] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-01-07
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Barb55 Gabriel934 is a 43 year-old nonhispanic white female.
+      # Social History
+
+  [16:07:24] DOCUMENT: History and physical note
+    Status: superseded
+
+  [16:22:24] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2022-02-04
+
+  [16:07:24] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Gerry91 Block661
+    Location: VHS ACQUISITION SUBSIDIARY NUMBER 9, INC.
+    Duration: 16:07:24 - 16:22:24
+
+  [16:07:24] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+    Status: completed
+
+  [16:07:24] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-02-04
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Barb55 Gabriel934 is a 43 year-old nonhispanic white female.
+      # Social History
+
+  [16:07:24] DOCUMENT: History and physical note
+    Status: superseded
+
+  [16:22:24] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2022-10-14
+
+  [17:07:24] VISIT: General examination of patient (procedure)
+    Provider: Dr. Heath320 Leuschke194
+    Location: WESTON PRIMARY CARE, PC
+    Duration: 17:07:24 - 17:22:24
+
+  [17:07:24] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [17:07:24] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-10-14
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Barb55 Gabriel934 is a 44 year-old nonhispanic white female.
+      # Social History
+
+  [17:07:24] DOCUMENT: History and physical note
+    Status: superseded
+
+  [17:22:24] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2024-10-18
+
+  [17:07:24] VISIT: General examination of patient (procedure)
+    Provider: Dr. Heath320 Leuschke194
+    Location: WESTON PRIMARY CARE, PC
+    Duration: 17:07:24 - 17:22:24
+
+  [17:07:24] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [17:07:24] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-10-18
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Barb55 Gabriel934 is a 46 year-old nonhispanic white female.
+      # Social History
+
+  [17:07:24] DOCUMENT: History and physical note
+    Status: current
+
+  [17:22:24] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2026-02-13
+
+  [16:07:24] PROVENANCE: Record activity
+    Agents: Dr. Heath320 Leuschke194, Dr. Heath320 Leuschke194
+
+================================================================================
+END OF TIMELINE (34 events)
+================================================================================

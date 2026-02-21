@@ -1,0 +1,136 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Mrs. Aide521 Toy286
+  Patient ID: 4350
+  Date of Birth: 1986-01-03
+  Gender: Female
+  Race: White
+  Ethnicity: Not Hispanic or Latino
+  Marital Status: Divorced
+  Address: 841 Hane Promenade, Millbury, MA 00000
+  Phone: 555-824-3675
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2017-03-17
+
+  [14:00:07] VISIT: General examination of patient (procedure)
+    Provider: Dr. Barb55 Renner328
+    Location: AUBURN PRIMARY CARE AND AESTHETICS
+    Duration: 14:00:07 - 14:15:07
+
+  [14:00:07] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [14:00:07] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [14:00:07] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-03-17
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Aide521 is a 31 year-old nonhispanic white female.
+      # Social History
+
+  [14:00:07] DOCUMENT: History and physical note
+    Status: superseded
+
+  [14:15:07] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2020-03-20
+
+  [14:00:07] VISIT: General examination of patient (procedure)
+    Provider: Dr. Barb55 Renner328
+    Location: AUBURN PRIMARY CARE AND AESTHETICS
+    Duration: 14:00:07 - 14:15:07
+
+  [14:00:07] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [14:00:07] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-03-20
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Aide521 is a 34 year-old nonhispanic white female.
+      # Social History
+
+  [14:00:07] DOCUMENT: History and physical note
+    Status: superseded
+
+  [14:15:07] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2023-03-24
+
+  [14:00:07] VISIT: General examination of patient (procedure)
+    Provider: Dr. Barb55 Renner328
+    Location: AUBURN PRIMARY CARE AND AESTHETICS
+    Duration: 14:00:07 - 14:15:07
+
+  [14:00:07] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [14:00:07] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-03-24
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Aide521 is a 37 year-old nonhispanic white female.
+      # Social History
+
+  [14:00:07] DOCUMENT: History and physical note
+    Status: superseded
+
+  [14:15:07] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2026-01-09
+
+  [13:00:07] VISIT: General examination of patient (procedure)
+    Provider: Dr. Barb55 Renner328
+    Location: AUBURN PRIMARY CARE AND AESTHETICS
+    Duration: 13:00:07 - 13:15:07
+
+  [13:00:07] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [13:00:07] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [13:00:07] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2026-01-09
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Aide521 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [13:00:07] DOCUMENT: History and physical note
+    Status: current
+
+  [13:15:07] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2026-02-13
+
+  [13:00:07] PROVENANCE: Record activity
+    Agents: Dr. Barb55 Renner328, Dr. Barb55 Renner328
+
+================================================================================
+END OF TIMELINE (23 events)
+================================================================================

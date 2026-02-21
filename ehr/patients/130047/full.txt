@@ -1,0 +1,2189 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Mrs. Rosario163 Barbara209 Delgadillo349
+  Patient ID: 130047
+  Date of Birth: 1971-12-28
+  Gender: Female
+  Race: Asian
+  Ethnicity: Hispanic or Latino
+  Marital Status: Married
+  Address: 834 Abbott Overpass, West Springfield, MA 01089
+  Phone: 555-212-5293
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2009-03-17
+
+  [20:07:50] VISIT: General examination of patient (procedure)
+    Provider: Dr. Odilia72 Mraz590
+    Location: FAMILY MEDICINE ASSOCIATES
+    Duration: 20:07:50 - 20:22:50
+
+  [20:07:50] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [20:07:50] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2009-03-17
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Rosario163 Barbara209 is a 37 year-old hispanic asian female.
+      # Social History
+
+  [20:07:50] DOCUMENT: History and physical note
+    Status: superseded
+
+  [20:22:50] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2012-01-03
+
+  [19:07:50] VISIT: General examination of patient (procedure)
+    Provider: Dr. Odilia72 Mraz590
+    Location: FAMILY MEDICINE ASSOCIATES
+    Duration: 19:07:50 - 19:22:50
+
+  [19:07:50] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [19:07:50] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [19:07:50] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2012-01-03
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Rosario163 Barbara209 is a 40 year-old hispanic asian female.
+      # Social History
+
+  [19:07:50] DOCUMENT: History and physical note
+    Status: superseded
+
+  [19:22:50] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2013-07-26
+
+  [20:07:50] VISIT: Periodic reevaluation and management of healthy individual (procedure)
+    Reason: Screening for malignant neoplasm of breast (procedure)
+    Provider: Dr. Inés791 Ávila241
+    Location: WESTERN MASSACHUSETTS HOSPITAL
+    Duration: 20:07:50 - 13:42:00
+
+  [20:07:50] PROCEDURE: Screening mammography (procedure)
+    Status: completed
+
+  [20:07:50] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2013-07-26
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Rosario163 Barbara209 is a 41 year-old hispanic asian female.
+      # Social History
+
+  [20:07:50] DOCUMENT: History and physical note
+    Status: superseded
+
+  [20:23:06] PROCEDURE: Ultrasonography of bilateral breasts (procedure)
+    Status: completed
+
+  [20:49:54] PROCEDURE: Biopsy of breast (procedure)
+    Status: completed
+
+  [21:14:00] CONDITION: Malignant neoplasm of breast (disorder) (active)
+
+  [21:14:00] OBSERVATION: Site of distant metastasis in Breast tumor: None (qualifier value)
+
+  [21:14:00] OBSERVATION: Distant metastases.clinical [Class] Cancer: American Joint Committee on Cancer cM0 (qualifier value)
+
+  [21:14:00] OBSERVATION: Size.maximum dimension in Tumor: 1.5834 cm
+
+  [21:14:00] OBSERVATION: Primary tumor.clinical [Class] Cancer: American Joint Committee on Cancer cT1 (qualifier value)
+
+  [21:14:00] OBSERVATION: Lymph nodes with macrometastases [#] in Cancer specimen by Light microscopy: 11.111 {#}
+
+  [21:14:00] OBSERVATION: Regional lymph nodes.clinical [Class] Cancer: American Joint Committee on Cancer cN3 (qualifier value)
+
+  [21:14:00] PROCEDURE: Human epidermal growth factor receptor 2 gene detection by fluorescence in situ hybridization (procedure)
+    Status: completed
+
+
+📅 2013-07-28
+
+  [11:14:00] PROCEDURE: Human epidermal growth factor receptor 2 gene detection by immunohistochemistry (procedure)
+    Status: completed
+
+  [13:42:00] OBSERVATION: HER2 [Presence] in Breast cancer specimen by Immune stain: Negative (qualifier value)
+
+  [13:42:00] OBSERVATION: ERBB2 gene duplication [Presence] in Breast cancer specimen by FISH: less than 1.8
+
+  [13:42:00] OBSERVATION: Estrogen receptor Ag [Presence] in Breast cancer specimen by Immune stain: Negative (qualifier value)
+
+  [13:42:00] OBSERVATION: Progesterone receptor Ag [Presence] in Breast cancer specimen by Immune stain: Negative (qualifier value)
+
+  [13:42:00] OBSERVATION: Estrogen+Progesterone receptor Ag [Presence] in Tissue by Immune stain: Negative (qualifier value)
+
+  [13:42:00] OBSERVATION: Tumor marker Cancer: Negative (qualifier value)
+
+  [13:42:00] OBSERVATION: Stage group.clinical Cancer: American Joint Committee on Cancer stage IIIC (qualifier value)
+
+  [13:42:00] OBSERVATION: Stage group.clinical Cancer: Stage 3 (qualifier value)
+
+  [13:42:00] CLAIM: professional
+    Amount: USD 4499.88
+
+
+📅 2013-07-31
+
+  [23:42:00] VISIT: Discussion about treatment (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Inés791 Ávila241
+    Location: WESTERN MASSACHUSETTS HOSPITAL
+    Duration: 23:42:00 - 00:37:55
+
+  [23:42:00] PROCEDURE: Discussion about options (procedure)
+    Status: completed
+
+  [23:42:00] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2013-07-31
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Rosario163 Barbara209 is a 41 year-old hispanic asian female.
+      # Social History
+
+  [23:42:00] DOCUMENT: History and physical note
+    Status: superseded
+
+
+📅 2013-08-01
+
+  [00:37:55] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2013-08-03
+
+  [09:37:55] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Inés791 Ávila241
+    Location: WESTERN MASSACHUSETTS HOSPITAL
+    Duration: 09:37:55 - 11:33:40
+
+  [09:37:55] PROCEDURE: Chemotherapy (procedure)
+    Status: completed
+
+  [09:37:55] MEDICATION PRESCRIBED: Unknown medication
+    Status: completed
+    Prescribed by: Dr. Inés791 Ávila241
+
+  [09:37:55] MEDICATION ADMINISTERED: 100 ML Epirubicin Hydrochloride 2 MG/ML Injection
+    Status: completed
+
+  [09:37:55] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2013-08-03
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Rosario163 Barbara209 is a 41 year-old hispanic asian female.
+      # Social History
+
+  [09:37:55] DOCUMENT: History and physical note
+    Status: superseded
+
+  [11:33:40] CLAIM: pharmacy
+    Amount: USD 0.87
+
+  [11:33:40] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2013-08-23
+
+  [05:33:40] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Inés791 Ávila241
+    Location: WESTERN MASSACHUSETTS HOSPITAL
+    Duration: 05:33:40 - 09:16:14
+
+  [05:33:40] PROCEDURE: Chemotherapy (procedure)
+    Status: completed
+
+  [05:33:40] MEDICATION PRESCRIBED: Unknown medication
+    Status: completed
+    Prescribed by: Dr. Inés791 Ávila241
+
+  [05:33:40] MEDICATION ADMINISTERED: 100 ML Epirubicin Hydrochloride 2 MG/ML Injection
+    Status: completed
+
+  [05:33:40] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2013-08-23
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Rosario163 Barbara209 is a 41 year-old hispanic asian female.
+      # Social History
+
+  [05:33:40] DOCUMENT: History and physical note
+    Status: superseded
+
+  [09:16:14] CLAIM: pharmacy
+    Amount: USD 0.87
+
+  [09:16:14] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2013-09-11
+
+  [14:16:14] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Inés791 Ávila241
+    Location: WESTERN MASSACHUSETTS HOSPITAL
+    Duration: 14:16:14 - 15:41:39
+
+  [14:16:14] PROCEDURE: Chemotherapy (procedure)
+    Status: completed
+
+  [14:16:14] MEDICATION PRESCRIBED: Unknown medication
+    Status: completed
+    Prescribed by: Dr. Inés791 Ávila241
+
+  [14:16:14] MEDICATION ADMINISTERED: 100 ML Epirubicin Hydrochloride 2 MG/ML Injection
+    Status: completed
+
+  [14:16:14] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2013-09-11
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Rosario163 Barbara209 is a 41 year-old hispanic asian female.
+      # Social History
+
+  [14:16:14] DOCUMENT: History and physical note
+    Status: superseded
+
+  [15:41:39] CLAIM: pharmacy
+    Amount: USD 0.87
+
+  [15:41:39] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2013-10-04
+
+  [11:41:39] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Inés791 Ávila241
+    Location: WESTERN MASSACHUSETTS HOSPITAL
+    Duration: 11:41:39 - 12:51:05
+
+  [11:41:39] PROCEDURE: Chemotherapy (procedure)
+    Status: completed
+
+  [11:41:39] MEDICATION PRESCRIBED: Unknown medication
+    Status: completed
+    Prescribed by: Dr. Inés791 Ávila241
+
+  [11:41:39] MEDICATION ADMINISTERED: 100 ML Epirubicin Hydrochloride 2 MG/ML Injection
+    Status: completed
+
+  [11:41:39] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2013-10-04
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Rosario163 Barbara209 is a 41 year-old hispanic asian female.
+      # Social History
+
+  [11:41:39] DOCUMENT: History and physical note
+    Status: superseded
+
+  [12:51:05] CLAIM: pharmacy
+    Amount: USD 0.87
+
+  [12:51:05] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2013-10-23
+
+  [18:51:05] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Inés791 Ávila241
+    Location: WESTERN MASSACHUSETTS HOSPITAL
+    Duration: 18:51:05 - 20:25:57
+
+  [18:51:05] PROCEDURE: Chemotherapy (procedure)
+    Status: completed
+
+  [18:51:05] MEDICATION PRESCRIBED: Unknown medication
+    Status: completed
+    Prescribed by: Dr. Inés791 Ávila241
+
+  [18:51:05] MEDICATION ADMINISTERED: 100 ML Epirubicin Hydrochloride 2 MG/ML Injection
+    Status: completed
+
+  [18:51:05] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2013-10-23
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Rosario163 Barbara209 is a 41 year-old hispanic asian female.
+      # Social History
+
+  [18:51:05] DOCUMENT: History and physical note
+    Status: superseded
+
+  [20:25:57] CLAIM: pharmacy
+    Amount: USD 0.87
+
+  [20:25:57] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2013-11-13
+
+  [22:25:57] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Inés791 Ávila241
+    Location: WESTERN MASSACHUSETTS HOSPITAL
+    Duration: 22:25:57 - 01:33:33
+
+  [22:25:57] PROCEDURE: Chemotherapy (procedure)
+    Status: completed
+
+  [22:25:57] MEDICATION PRESCRIBED: Unknown medication
+    Status: completed
+    Prescribed by: Dr. Inés791 Ávila241
+
+  [22:25:57] MEDICATION ADMINISTERED: 100 ML Epirubicin Hydrochloride 2 MG/ML Injection
+    Status: completed
+
+  [22:25:57] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2013-11-13
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Rosario163 Barbara209 is a 41 year-old hispanic asian female.
+      # Social History
+
+  [22:25:57] DOCUMENT: History and physical note
+    Status: superseded
+
+
+📅 2013-11-14
+
+  [01:33:33] CLAIM: pharmacy
+    Amount: USD 0.87
+
+  [01:33:33] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2013-12-05
+
+  [17:33:33] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Inés791 Ávila241
+    Location: WESTERN MASSACHUSETTS HOSPITAL
+    Duration: 17:33:33 - 20:28:17
+
+  [17:33:33] PROCEDURE: Chemotherapy (procedure)
+    Status: completed
+
+  [17:33:33] MEDICATION PRESCRIBED: Unknown medication
+    Status: completed
+    Prescribed by: Dr. Inés791 Ávila241
+
+  [17:33:33] MEDICATION ADMINISTERED: 100 ML Epirubicin Hydrochloride 2 MG/ML Injection
+    Status: completed
+
+  [17:33:33] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2013-12-05
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Rosario163 Barbara209 is a 41 year-old hispanic asian female.
+      # Social History
+
+  [17:33:33] DOCUMENT: History and physical note
+    Status: superseded
+
+  [20:28:17] CLAIM: pharmacy
+    Amount: USD 0.87
+
+  [20:28:17] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2013-12-27
+
+  [04:28:17] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Inés791 Ávila241
+    Location: WESTERN MASSACHUSETTS HOSPITAL
+    Duration: 04:28:17 - 06:53:52
+
+  [04:28:17] PROCEDURE: Chemotherapy (procedure)
+    Status: completed
+
+  [04:28:17] MEDICATION PRESCRIBED: Unknown medication
+    Status: completed
+    Prescribed by: Dr. Inés791 Ávila241
+
+  [04:28:17] MEDICATION ADMINISTERED: 100 ML Epirubicin Hydrochloride 2 MG/ML Injection
+    Status: completed
+
+  [04:28:17] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2013-12-27
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Rosario163 Barbara209 is a 41 year-old hispanic asian female.
+      # Social History
+
+  [04:28:17] DOCUMENT: History and physical note
+    Status: superseded
+
+  [06:53:52] CLAIM: pharmacy
+    Amount: USD 0.87
+
+  [06:53:52] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2014-01-07
+
+  [19:07:50] VISIT: General examination of patient (procedure)
+    Provider: Dr. Odilia72 Mraz590
+    Location: FAMILY MEDICINE ASSOCIATES
+    Duration: 19:07:50 - 19:22:50
+
+  [19:07:50] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [19:07:50] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [19:07:50] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [19:07:50] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2014-01-07
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Rosario163 Barbara209 is a 42 year-old hispanic asian female.
+      # Social History
+
+  [19:07:50] DOCUMENT: History and physical note
+    Status: superseded
+
+  [19:22:50] CLAIM: professional
+    Amount: USD 544.80
+
+
+📅 2014-01-23
+
+  [06:53:52] OBSERVATION: Response to cancer treatment: Improving (qualifier value)
+
+  [06:53:52] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Inés791 Ávila241
+    Location: WESTERN MASSACHUSETTS HOSPITAL
+    Duration: 06:53:52 - 11:44:51
+
+  [06:53:52] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2014-01-23
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Rosario163 Barbara209 is a 42 year-old hispanic asian female.
+      # Social History
+
+  [06:53:52] DOCUMENT: History and physical note
+    Status: superseded
+
+  [08:27:52] PROCEDURE: Sentinel lymph node biopsy (procedure)
+    Status: completed
+
+  [09:17:47] PROCEDURE: Excision of sentinel lymph node (procedure)
+    Status: completed
+
+  [11:15:19] PROCEDURE: Lumpectomy of breast (procedure)
+    Status: completed
+
+
+📅 2014-01-27
+
+  [11:44:51] CLAIM: institutional
+    Amount: USD 48718.69
+
+
+📅 2014-02-02
+
+  [09:44:51] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Inés791 Ávila241
+    Location: WESTERN MASSACHUSETTS HOSPITAL
+    Duration: 09:44:51 - 10:50:51
+
+  [09:44:51] PROCEDURE: Chemotherapy (procedure)
+    Status: completed
+
+  [09:44:51] MEDICATION PRESCRIBED: Unknown medication
+    Status: completed
+    Prescribed by: Dr. Inés791 Ávila241
+
+  [09:44:51] MEDICATION ADMINISTERED: 100 ML Epirubicin Hydrochloride 2 MG/ML Injection
+    Status: completed
+
+  [09:44:51] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2014-02-02
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Rosario163 Barbara209 is a 42 year-old hispanic asian female.
+      # Social History
+
+  [09:44:51] DOCUMENT: History and physical note
+    Status: superseded
+
+  [10:50:51] CLAIM: pharmacy
+    Amount: USD 1.19
+
+  [10:50:51] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2014-02-22
+
+  [05:50:51] VISIT: Encounter for problem (procedure)
+    Provider: Dr. Inés791 Ávila241
+    Location: WESTERN MASSACHUSETTS HOSPITAL
+    Duration: 05:50:51 - 07:11:51
+
+  [05:50:51] PROCEDURE: Chemotherapy (procedure)
+    Status: completed
+
+  [05:50:51] MEDICATION PRESCRIBED: Unknown medication
+    Status: completed
+    Prescribed by: Dr. Inés791 Ávila241
+
+  [05:50:51] MEDICATION ADMINISTERED: 100 ML Epirubicin Hydrochloride 2 MG/ML Injection
+    Status: completed
+
+  [05:50:51] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2014-02-22
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Rosario163 Barbara209 is a 42 year-old hispanic asian female.
+      # Social History
+
+  [05:50:51] DOCUMENT: History and physical note
+    Status: superseded
+
+  [07:11:51] CLAIM: pharmacy
+    Amount: USD 1.19
+
+  [07:11:51] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2014-03-14
+
+  [10:11:51] VISIT: Encounter for problem (procedure)
+    Provider: Dr. Inés791 Ávila241
+    Location: WESTERN MASSACHUSETTS HOSPITAL
+    Duration: 10:11:51 - 10:36:51
+
+  [10:11:51] PROCEDURE: Chemotherapy (procedure)
+    Status: completed
+
+  [10:11:51] MEDICATION PRESCRIBED: Unknown medication
+    Status: completed
+    Prescribed by: Dr. Inés791 Ávila241
+
+  [10:11:51] MEDICATION ADMINISTERED: 100 ML Epirubicin Hydrochloride 2 MG/ML Injection
+    Status: completed
+
+  [10:11:51] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2014-03-14
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Rosario163 Barbara209 is a 42 year-old hispanic asian female.
+      # Social History
+
+  [10:11:51] DOCUMENT: History and physical note
+    Status: superseded
+
+  [10:36:51] CLAIM: pharmacy
+    Amount: USD 1.19
+
+  [10:36:51] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2014-04-04
+
+  [08:36:51] VISIT: Encounter for problem (procedure)
+    Provider: Dr. Inés791 Ávila241
+    Location: WESTERN MASSACHUSETTS HOSPITAL
+    Duration: 08:36:51 - 08:58:51
+
+  [08:36:51] PROCEDURE: Chemotherapy (procedure)
+    Status: completed
+
+  [08:36:51] MEDICATION PRESCRIBED: Unknown medication
+    Status: completed
+    Prescribed by: Dr. Inés791 Ávila241
+
+  [08:36:51] MEDICATION ADMINISTERED: 100 ML Epirubicin Hydrochloride 2 MG/ML Injection
+    Status: completed
+
+  [08:36:51] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2014-04-04
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Rosario163 Barbara209 is a 42 year-old hispanic asian female.
+      # Social History
+
+  [08:36:51] DOCUMENT: History and physical note
+    Status: superseded
+
+  [08:58:51] CLAIM: pharmacy
+    Amount: USD 0.87
+
+  [08:58:51] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2014-04-25
+
+  [17:58:51] VISIT: Encounter for problem (procedure)
+    Provider: Dr. Inés791 Ávila241
+    Location: WESTERN MASSACHUSETTS HOSPITAL
+    Duration: 17:58:51 - 18:45:51
+
+  [17:58:51] PROCEDURE: Chemotherapy (procedure)
+    Status: completed
+
+  [17:58:51] MEDICATION PRESCRIBED: Unknown medication
+    Status: completed
+    Prescribed by: Dr. Inés791 Ávila241
+
+  [17:58:51] MEDICATION ADMINISTERED: 100 ML Epirubicin Hydrochloride 2 MG/ML Injection
+    Status: completed
+
+  [17:58:51] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2014-04-25
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Rosario163 Barbara209 is a 42 year-old hispanic asian female.
+      # Social History
+
+  [17:58:51] DOCUMENT: History and physical note
+    Status: superseded
+
+  [18:45:51] CLAIM: pharmacy
+    Amount: USD 0.87
+
+  [18:45:51] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2014-05-15
+
+  [04:45:51] VISIT: Encounter for problem (procedure)
+    Provider: Dr. Inés791 Ávila241
+    Location: WESTERN MASSACHUSETTS HOSPITAL
+    Duration: 04:45:51 - 05:18:51
+
+  [04:45:51] PROCEDURE: Chemotherapy (procedure)
+    Status: completed
+
+  [04:45:51] MEDICATION PRESCRIBED: Unknown medication
+    Status: completed
+    Prescribed by: Dr. Inés791 Ávila241
+
+  [04:45:51] MEDICATION ADMINISTERED: 100 ML Epirubicin Hydrochloride 2 MG/ML Injection
+    Status: completed
+
+  [04:45:51] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2014-05-15
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Rosario163 Barbara209 is a 42 year-old hispanic asian female.
+      # Social History
+
+  [04:45:51] DOCUMENT: History and physical note
+    Status: superseded
+
+  [05:18:51] CLAIM: pharmacy
+    Amount: USD 1.19
+
+  [05:18:51] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2014-06-04
+
+  [06:18:51] VISIT: Encounter for problem (procedure)
+    Provider: Dr. Inés791 Ávila241
+    Location: WESTERN MASSACHUSETTS HOSPITAL
+    Duration: 06:18:51 - 06:37:51
+
+  [06:18:51] PROCEDURE: Chemotherapy (procedure)
+    Status: completed
+
+  [06:18:51] MEDICATION PRESCRIBED: Unknown medication
+    Status: completed
+    Prescribed by: Dr. Inés791 Ávila241
+
+  [06:18:51] MEDICATION ADMINISTERED: 100 ML Epirubicin Hydrochloride 2 MG/ML Injection
+    Status: completed
+
+  [06:18:51] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2014-06-04
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Rosario163 Barbara209 is a 42 year-old hispanic asian female.
+      # Social History
+
+  [06:18:51] DOCUMENT: History and physical note
+    Status: superseded
+
+  [06:37:51] CLAIM: pharmacy
+    Amount: USD 1.19
+
+  [06:37:51] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2014-06-25
+
+  [05:37:51] VISIT: Encounter for problem (procedure)
+    Provider: Dr. Inés791 Ávila241
+    Location: WESTERN MASSACHUSETTS HOSPITAL
+    Duration: 05:37:51 - 06:22:51
+
+  [05:37:51] PROCEDURE: Chemotherapy (procedure)
+    Status: completed
+
+  [05:37:51] MEDICATION PRESCRIBED: Unknown medication
+    Status: completed
+    Prescribed by: Dr. Inés791 Ávila241
+
+  [05:37:51] MEDICATION ADMINISTERED: 100 ML Epirubicin Hydrochloride 2 MG/ML Injection
+    Status: completed
+
+  [05:37:51] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2014-06-25
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Rosario163 Barbara209 is a 42 year-old hispanic asian female.
+      # Social History
+
+  [05:37:51] DOCUMENT: History and physical note
+    Status: superseded
+
+  [06:22:51] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [06:22:51] CLAIM: pharmacy
+    Amount: USD 0.87
+
+  [06:22:51] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2014-06-26
+
+  [16:07:40] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Inés791 Ávila241
+    Location: WESTERN MASSACHUSETTS HOSPITAL
+    Duration: 16:07:40 - 16:39:53
+
+  [16:07:40] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [16:07:40] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2014-06-26
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Rosario163 Barbara209 is a 42 year-old hispanic asian female.
+      # Social History
+
+  [16:07:40] DOCUMENT: History and physical note
+    Status: superseded
+
+  [16:39:53] CLAIM: professional
+    Amount: USD 512.63
+
+
+📅 2014-06-27
+
+  [18:53:53] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Inés791 Ávila241
+    Location: WESTERN MASSACHUSETTS HOSPITAL
+    Duration: 18:53:53 - 19:21:55
+
+  [18:53:53] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [18:53:53] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2014-06-27
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Rosario163 Barbara209 is a 42 year-old hispanic asian female.
+      # Social History
+
+  [18:53:53] DOCUMENT: History and physical note
+    Status: superseded
+
+  [19:21:55] CLAIM: professional
+    Amount: USD 512.63
+
+
+📅 2014-06-28
+
+  [22:31:55] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Inés791 Ávila241
+    Location: WESTERN MASSACHUSETTS HOSPITAL
+    Duration: 22:31:55 - 23:01:04
+
+  [22:31:55] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [22:31:55] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2014-06-28
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Rosario163 Barbara209 is a 42 year-old hispanic asian female.
+      # Social History
+
+  [22:31:55] DOCUMENT: History and physical note
+    Status: superseded
+
+  [23:01:04] CLAIM: professional
+    Amount: USD 583.95
+
+
+📅 2014-06-30
+
+  [06:42:04] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Inés791 Ávila241
+    Location: WESTERN MASSACHUSETTS HOSPITAL
+    Duration: 06:42:04 - 06:58:57
+
+  [06:42:04] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [06:42:04] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2014-06-30
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Rosario163 Barbara209 is a 42 year-old hispanic asian female.
+      # Social History
+
+  [06:42:04] DOCUMENT: History and physical note
+    Status: superseded
+
+  [06:58:57] CLAIM: professional
+    Amount: USD 1359.90
+
+
+📅 2014-07-01
+
+  [09:16:57] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Inés791 Ávila241
+    Location: WESTERN MASSACHUSETTS HOSPITAL
+    Duration: 09:16:57 - 09:38:59
+
+  [09:16:57] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [09:16:57] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2014-07-01
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Rosario163 Barbara209 is a 42 year-old hispanic asian female.
+      # Social History
+
+  [09:16:57] DOCUMENT: History and physical note
+    Status: superseded
+
+  [09:38:59] CLAIM: professional
+    Amount: USD 1070.38
+
+
+📅 2014-07-02
+
+  [15:22:59] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Inés791 Ávila241
+    Location: WESTERN MASSACHUSETTS HOSPITAL
+    Duration: 15:22:59 - 15:51:14
+
+  [15:22:59] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [15:22:59] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2014-07-02
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Rosario163 Barbara209 is a 42 year-old hispanic asian female.
+      # Social History
+
+  [15:22:59] DOCUMENT: History and physical note
+    Status: superseded
+
+  [15:51:14] CLAIM: professional
+    Amount: USD 980.05
+
+
+📅 2014-07-04
+
+  [02:37:14] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Inés791 Ávila241
+    Location: WESTERN MASSACHUSETTS HOSPITAL
+    Duration: 02:37:14 - 03:04:15
+
+  [02:37:14] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [02:37:14] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2014-07-04
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Rosario163 Barbara209 is a 42 year-old hispanic asian female.
+      # Social History
+
+  [02:37:14] DOCUMENT: History and physical note
+    Status: superseded
+
+  [03:04:15] CLAIM: professional
+    Amount: USD 1359.90
+
+
+📅 2014-07-05
+
+  [08:38:15] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Inés791 Ávila241
+    Location: WESTERN MASSACHUSETTS HOSPITAL
+    Duration: 08:38:15 - 09:00:32
+
+  [08:38:15] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [08:38:15] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2014-07-05
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Rosario163 Barbara209 is a 42 year-old hispanic asian female.
+      # Social History
+
+  [08:38:15] DOCUMENT: History and physical note
+    Status: superseded
+
+  [09:00:32] CLAIM: professional
+    Amount: USD 512.63
+
+
+📅 2014-07-06
+
+  [11:29:32] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Inés791 Ávila241
+    Location: WESTERN MASSACHUSETTS HOSPITAL
+    Duration: 11:29:32 - 11:55:19
+
+  [11:29:32] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [11:29:32] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2014-07-06
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Rosario163 Barbara209 is a 42 year-old hispanic asian female.
+      # Social History
+
+  [11:29:32] DOCUMENT: History and physical note
+    Status: superseded
+
+  [11:55:19] CLAIM: professional
+    Amount: USD 1359.90
+
+
+📅 2014-07-07
+
+  [13:12:19] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Inés791 Ávila241
+    Location: WESTERN MASSACHUSETTS HOSPITAL
+    Duration: 13:12:19 - 13:41:06
+
+  [13:12:19] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [13:12:19] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2014-07-07
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Rosario163 Barbara209 is a 42 year-old hispanic asian female.
+      # Social History
+
+  [13:12:19] DOCUMENT: History and physical note
+    Status: superseded
+
+  [13:41:06] CLAIM: professional
+    Amount: USD 703.26
+
+
+📅 2014-07-09
+
+  [01:17:06] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Inés791 Ávila241
+    Location: WESTERN MASSACHUSETTS HOSPITAL
+    Duration: 01:17:06 - 01:40:27
+
+  [01:17:06] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [01:17:06] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2014-07-09
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Rosario163 Barbara209 is a 42 year-old hispanic asian female.
+      # Social History
+
+  [01:17:06] DOCUMENT: History and physical note
+    Status: superseded
+
+  [01:40:27] CLAIM: professional
+    Amount: USD 512.63
+
+
+📅 2014-07-10
+
+  [10:41:27] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Inés791 Ávila241
+    Location: WESTERN MASSACHUSETTS HOSPITAL
+    Duration: 10:41:27 - 11:20:59
+
+  [10:41:27] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [10:41:27] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2014-07-10
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Rosario163 Barbara209 is a 42 year-old hispanic asian female.
+      # Social History
+
+  [10:41:27] DOCUMENT: History and physical note
+    Status: superseded
+
+  [11:20:59] CLAIM: professional
+    Amount: USD 512.63
+
+
+📅 2014-07-11
+
+  [16:55:59] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Inés791 Ávila241
+    Location: WESTERN MASSACHUSETTS HOSPITAL
+    Duration: 16:55:59 - 17:28:40
+
+  [16:55:59] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [16:55:59] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2014-07-11
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Rosario163 Barbara209 is a 42 year-old hispanic asian female.
+      # Social History
+
+  [16:55:59] DOCUMENT: History and physical note
+    Status: superseded
+
+  [17:28:40] CLAIM: professional
+    Amount: USD 914.33
+
+
+📅 2014-07-13
+
+  [04:19:40] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Inés791 Ávila241
+    Location: WESTERN MASSACHUSETTS HOSPITAL
+    Duration: 04:19:40 - 04:59:38
+
+  [04:19:40] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [04:19:40] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2014-07-13
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Rosario163 Barbara209 is a 42 year-old hispanic asian female.
+      # Social History
+
+  [04:19:40] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:59:38] CLAIM: professional
+    Amount: USD 512.63
+
+
+📅 2014-07-14
+
+  [08:27:38] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Inés791 Ávila241
+    Location: WESTERN MASSACHUSETTS HOSPITAL
+    Duration: 08:27:38 - 08:52:05
+
+  [08:27:38] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [08:27:38] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2014-07-14
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Rosario163 Barbara209 is a 42 year-old hispanic asian female.
+      # Social History
+
+  [08:27:38] DOCUMENT: History and physical note
+    Status: superseded
+
+  [08:52:05] CLAIM: professional
+    Amount: USD 1359.90
+
+
+📅 2014-07-15
+
+  [10:46:05] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Inés791 Ávila241
+    Location: WESTERN MASSACHUSETTS HOSPITAL
+    Duration: 10:46:05 - 11:09:46
+
+  [10:46:05] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [10:46:05] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2014-07-15
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Rosario163 Barbara209 is a 42 year-old hispanic asian female.
+      # Social History
+
+  [10:46:05] DOCUMENT: History and physical note
+    Status: superseded
+
+  [11:09:46] CLAIM: professional
+    Amount: USD 512.63
+
+
+📅 2014-07-16
+
+  [16:47:46] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Inés791 Ávila241
+    Location: WESTERN MASSACHUSETTS HOSPITAL
+    Duration: 16:47:46 - 17:04:04
+
+  [16:47:46] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [16:47:46] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2014-07-16
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Rosario163 Barbara209 is a 42 year-old hispanic asian female.
+      # Social History
+
+  [16:47:46] DOCUMENT: History and physical note
+    Status: superseded
+
+  [17:04:04] CLAIM: professional
+    Amount: USD 578.83
+
+
+📅 2014-07-17
+
+  [21:24:04] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Inés791 Ávila241
+    Location: WESTERN MASSACHUSETTS HOSPITAL
+    Duration: 21:24:04 - 22:02:10
+
+  [21:24:04] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [21:24:04] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2014-07-17
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Rosario163 Barbara209 is a 42 year-old hispanic asian female.
+      # Social History
+
+  [21:24:04] DOCUMENT: History and physical note
+    Status: superseded
+
+  [22:02:10] CLAIM: professional
+    Amount: USD 1359.90
+
+
+📅 2014-07-19
+
+  [07:22:10] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Inés791 Ávila241
+    Location: WESTERN MASSACHUSETTS HOSPITAL
+    Duration: 07:22:10 - 07:55:16
+
+  [07:22:10] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [07:22:10] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2014-07-19
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Rosario163 Barbara209 is a 42 year-old hispanic asian female.
+      # Social History
+
+  [07:22:10] DOCUMENT: History and physical note
+    Status: superseded
+
+  [07:55:16] CLAIM: professional
+    Amount: USD 1359.90
+
+
+📅 2014-07-20
+
+  [17:10:16] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Inés791 Ávila241
+    Location: WESTERN MASSACHUSETTS HOSPITAL
+    Duration: 17:10:16 - 17:48:39
+
+  [17:10:16] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [17:10:16] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2014-07-20
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Rosario163 Barbara209 is a 42 year-old hispanic asian female.
+      # Social History
+
+  [17:10:16] DOCUMENT: History and physical note
+    Status: superseded
+
+  [17:48:39] CLAIM: professional
+    Amount: USD 512.63
+
+
+📅 2014-07-22
+
+  [00:34:39] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Inés791 Ávila241
+    Location: WESTERN MASSACHUSETTS HOSPITAL
+    Duration: 00:34:39 - 00:55:28
+
+  [00:34:39] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [00:34:39] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2014-07-22
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Rosario163 Barbara209 is a 42 year-old hispanic asian female.
+      # Social History
+
+  [00:34:39] DOCUMENT: History and physical note
+    Status: superseded
+
+  [00:55:28] CLAIM: professional
+    Amount: USD 577.71
+
+
+📅 2014-07-23
+
+  [10:28:28] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Inés791 Ávila241
+    Location: WESTERN MASSACHUSETTS HOSPITAL
+    Duration: 10:28:28 - 10:47:31
+
+  [10:28:28] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [10:28:28] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2014-07-23
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Rosario163 Barbara209 is a 42 year-old hispanic asian female.
+      # Social History
+
+  [10:28:28] DOCUMENT: History and physical note
+    Status: superseded
+
+  [10:47:31] CLAIM: professional
+    Amount: USD 1333.45
+
+
+📅 2014-07-24
+
+  [14:04:31] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Inés791 Ávila241
+    Location: WESTERN MASSACHUSETTS HOSPITAL
+    Duration: 14:04:31 - 14:33:32
+
+  [14:04:31] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [14:04:31] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2014-07-24
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Rosario163 Barbara209 is a 42 year-old hispanic asian female.
+      # Social History
+
+  [14:04:31] DOCUMENT: History and physical note
+    Status: superseded
+
+  [14:33:32] CLAIM: professional
+    Amount: USD 1359.90
+
+
+📅 2014-07-25
+
+  [21:45:32] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Inés791 Ávila241
+    Location: WESTERN MASSACHUSETTS HOSPITAL
+    Duration: 21:45:32 - 22:09:01
+
+  [21:45:32] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [21:45:32] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2014-07-25
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Rosario163 Barbara209 is a 42 year-old hispanic asian female.
+      # Social History
+
+  [21:45:32] DOCUMENT: History and physical note
+    Status: superseded
+
+  [22:09:01] CLAIM: professional
+    Amount: USD 965.12
+
+
+📅 2014-07-27
+
+  [06:04:01] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Inés791 Ávila241
+    Location: WESTERN MASSACHUSETTS HOSPITAL
+    Duration: 06:04:01 - 06:28:23
+
+  [06:04:01] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [06:04:01] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2014-07-27
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Rosario163 Barbara209 is a 42 year-old hispanic asian female.
+      # Social History
+
+  [06:04:01] DOCUMENT: History and physical note
+    Status: superseded
+
+  [06:28:23] CLAIM: professional
+    Amount: USD 512.63
+
+
+📅 2014-07-28
+
+  [11:46:23] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Inés791 Ávila241
+    Location: WESTERN MASSACHUSETTS HOSPITAL
+    Duration: 11:46:23 - 12:25:13
+
+  [11:46:23] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [11:46:23] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2014-07-28
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Rosario163 Barbara209 is a 42 year-old hispanic asian female.
+      # Social History
+
+  [11:46:23] DOCUMENT: History and physical note
+    Status: superseded
+
+  [12:25:13] CLAIM: professional
+    Amount: USD 1359.90
+
+
+📅 2014-07-29
+
+  [16:40:13] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Inés791 Ávila241
+    Location: WESTERN MASSACHUSETTS HOSPITAL
+    Duration: 16:40:13 - 16:58:14
+
+  [16:40:13] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [16:40:13] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2014-07-29
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Rosario163 Barbara209 is a 42 year-old hispanic asian female.
+      # Social History
+
+  [16:40:13] DOCUMENT: History and physical note
+    Status: superseded
+
+  [16:58:14] CLAIM: professional
+    Amount: USD 512.63
+
+
+📅 2014-07-31
+
+  [04:45:14] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Inés791 Ávila241
+    Location: WESTERN MASSACHUSETTS HOSPITAL
+    Duration: 04:45:14 - 05:17:56
+
+  [04:45:14] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [04:45:14] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2014-07-31
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Rosario163 Barbara209 is a 42 year-old hispanic asian female.
+      # Social History
+
+  [04:45:14] DOCUMENT: History and physical note
+    Status: superseded
+
+  [05:17:56] CLAIM: professional
+    Amount: USD 547.12
+
+
+📅 2014-08-01
+
+  [16:15:56] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Inés791 Ávila241
+    Location: WESTERN MASSACHUSETTS HOSPITAL
+    Duration: 16:15:56 - 16:52:49
+
+  [16:15:56] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [16:15:56] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2014-08-01
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Rosario163 Barbara209 is a 42 year-old hispanic asian female.
+      # Social History
+
+  [16:15:56] DOCUMENT: History and physical note
+    Status: superseded
+
+  [16:52:49] CLAIM: professional
+    Amount: USD 512.63
+
+
+📅 2014-08-03
+
+  [01:10:49] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Inés791 Ávila241
+    Location: WESTERN MASSACHUSETTS HOSPITAL
+    Duration: 01:10:49 - 01:27:32
+
+  [01:10:49] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [01:10:49] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2014-08-03
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Rosario163 Barbara209 is a 42 year-old hispanic asian female.
+      # Social History
+
+  [01:10:49] DOCUMENT: History and physical note
+    Status: superseded
+
+  [01:27:32] CLAIM: professional
+    Amount: USD 512.63
+
+
+📅 2014-08-04
+
+  [07:40:32] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Inés791 Ávila241
+    Location: WESTERN MASSACHUSETTS HOSPITAL
+    Duration: 07:40:32 - 08:15:41
+
+  [07:40:32] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [07:40:32] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2014-08-04
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Rosario163 Barbara209 is a 42 year-old hispanic asian female.
+      # Social History
+
+  [07:40:32] DOCUMENT: History and physical note
+    Status: superseded
+
+  [08:15:41] CLAIM: professional
+    Amount: USD 1359.90
+
+
+📅 2014-08-05
+
+  [14:43:41] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Inés791 Ávila241
+    Location: WESTERN MASSACHUSETTS HOSPITAL
+    Duration: 14:43:41 - 15:04:14
+
+  [14:43:41] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [14:43:41] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2014-08-05
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Rosario163 Barbara209 is a 42 year-old hispanic asian female.
+      # Social History
+
+  [14:43:41] DOCUMENT: History and physical note
+    Status: superseded
+
+  [15:04:14] CLAIM: professional
+    Amount: USD 692.47
+
+
+📅 2014-08-06
+
+  [20:12:14] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Inés791 Ávila241
+    Location: WESTERN MASSACHUSETTS HOSPITAL
+    Duration: 20:12:14 - 20:46:51
+
+  [20:12:14] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [20:12:14] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2014-08-06
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Rosario163 Barbara209 is a 42 year-old hispanic asian female.
+      # Social History
+
+  [20:12:14] DOCUMENT: History and physical note
+    Status: superseded
+
+  [20:46:51] CLAIM: professional
+    Amount: USD 1212.15
+
+
+📅 2014-08-10
+
+  [06:46:51] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Inés791 Ávila241
+    Location: WESTERN MASSACHUSETTS HOSPITAL
+    Duration: 06:46:51 - 07:01:51
+
+  [06:46:51] OBSERVATION: Treatment status Cancer: Treatment changed (situation)
+
+  [06:46:51] OBSERVATION: Response to cancer treatment: Worsening (qualifier value)
+
+  [06:46:51] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2014-08-10
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Rosario163 Barbara209 is a 42 year-old hispanic asian female.
+      # Social History
+
+  [06:46:51] DOCUMENT: History and physical note
+    Status: superseded
+
+  [07:01:51] CLAIM: professional
+    Amount: USD 85.55
+
+
+📅 2014-11-16
+
+  [05:46:51] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Inés791 Ávila241
+    Location: WESTERN MASSACHUSETTS HOSPITAL
+    Duration: 05:46:51 - 06:20:48
+
+  [05:46:51] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [05:46:51] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2014-11-16
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Rosario163 Barbara209 is a 42 year-old hispanic asian female.
+      # Social History
+
+  [05:46:51] DOCUMENT: History and physical note
+    Status: superseded
+
+  [06:20:48] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2015-02-26
+
+  [06:20:48] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Inés791 Ávila241
+    Location: WESTERN MASSACHUSETTS HOSPITAL
+    Duration: 06:20:48 - 07:05:38
+
+  [06:20:48] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [06:20:48] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2015-02-26
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Rosario163 Barbara209 is a 43 year-old hispanic asian female.
+      # Social History
+
+  [06:20:48] DOCUMENT: History and physical note
+    Status: superseded
+
+  [07:05:38] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2015-06-13
+
+  [08:05:38] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Inés791 Ávila241
+    Location: WESTERN MASSACHUSETTS HOSPITAL
+    Duration: 08:05:38 - 08:38:00
+
+  [08:05:38] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [08:05:38] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2015-06-13
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Rosario163 Barbara209 is a 43 year-old hispanic asian female.
+      # Social History
+
+  [08:05:38] DOCUMENT: History and physical note
+    Status: superseded
+
+  [08:38:00] CLAIM: professional
+    Amount: USD 573.98
+
+  [08:38:00] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Inés791 Ávila241
+    Location: WESTERN MASSACHUSETTS HOSPITAL
+    Duration: 08:38:00 - 08:55:58
+
+  [08:38:00] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [08:38:00] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2015-06-13
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Rosario163 Barbara209 is a 43 year-old hispanic asian female.
+      # Social History
+
+  [08:38:00] DOCUMENT: History and physical note
+    Status: superseded
+
+  [08:55:58] OBSERVATION: Response to cancer treatment: Worsening (qualifier value)
+
+  [08:55:58] CLAIM: professional
+    Amount: USD 325.49
+
+
+📅 2015-09-24
+
+  [08:55:58] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Inés791 Ávila241
+    Location: WESTERN MASSACHUSETTS HOSPITAL
+    Duration: 08:55:58 - 09:27:44
+
+  [08:55:58] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [08:55:58] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2015-09-24
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Rosario163 Barbara209 is a 43 year-old hispanic asian female.
+      # Social History
+
+  [08:55:58] DOCUMENT: History and physical note
+    Status: superseded
+
+  [09:27:44] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2016-01-12
+
+  [19:07:50] VISIT: General examination of patient (procedure)
+    Provider: Dr. Odilia72 Mraz590
+    Location: FAMILY MEDICINE ASSOCIATES
+    Duration: 19:07:50 - 19:22:50
+
+  [19:07:50] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [19:07:50] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-01-12
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Rosario163 Barbara209 is a 44 year-old hispanic asian female.
+      # Social History
+
+  [19:07:50] DOCUMENT: History and physical note
+    Status: superseded
+
+  [19:22:50] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2016-01-15
+
+  [08:27:44] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Inés791 Ávila241
+    Location: WESTERN MASSACHUSETTS HOSPITAL
+    Duration: 08:27:44 - 09:03:36
+
+  [08:27:44] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [08:27:44] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-01-15
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Rosario163 Barbara209 is a 44 year-old hispanic asian female.
+      # Social History
+
+  [08:27:44] DOCUMENT: History and physical note
+    Status: superseded
+
+  [09:03:36] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2016-05-05
+
+  [10:03:36] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Inés791 Ávila241
+    Location: WESTERN MASSACHUSETTS HOSPITAL
+    Duration: 10:03:36 - 10:39:43
+
+  [10:03:36] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [10:03:36] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-05-05
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Rosario163 Barbara209 is a 44 year-old hispanic asian female.
+      # Social History
+
+  [10:03:36] DOCUMENT: History and physical note
+    Status: superseded
+
+  [10:39:43] CLAIM: professional
+    Amount: USD 573.98
+
+  [10:39:43] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Inés791 Ávila241
+    Location: WESTERN MASSACHUSETTS HOSPITAL
+    Duration: 10:39:43 - 11:01:23
+
+  [10:39:43] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [10:39:43] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-05-05
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Rosario163 Barbara209 is a 44 year-old hispanic asian female.
+      # Social History
+
+  [10:39:43] DOCUMENT: History and physical note
+    Status: superseded
+
+  [11:01:23] OBSERVATION: Response to cancer treatment: Worsening (qualifier value)
+
+  [11:01:23] CLAIM: professional
+    Amount: USD 293.92
+
+
+📅 2016-08-31
+
+  [11:01:23] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Inés791 Ávila241
+    Location: WESTERN MASSACHUSETTS HOSPITAL
+    Duration: 11:01:23 - 11:35:28
+
+  [11:01:23] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [11:01:23] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-08-31
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Rosario163 Barbara209 is a 44 year-old hispanic asian female.
+      # Social History
+
+  [11:01:23] DOCUMENT: History and physical note
+    Status: superseded
+
+  [11:35:28] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2016-12-14
+
+  [10:35:28] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Inés791 Ávila241
+    Location: WESTERN MASSACHUSETTS HOSPITAL
+    Duration: 10:35:28 - 11:08:29
+
+  [10:35:28] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [10:35:28] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-12-14
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Rosario163 Barbara209 is a 44 year-old hispanic asian female.
+      # Social History
+
+  [10:35:28] DOCUMENT: History and physical note
+    Status: superseded
+
+  [11:08:29] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2017-04-11
+
+  [12:08:29] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Inés791 Ávila241
+    Location: WESTERN MASSACHUSETTS HOSPITAL
+    Duration: 12:08:29 - 12:44:21
+
+  [12:08:29] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [12:08:29] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-04-11
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Rosario163 Barbara209 is a 45 year-old hispanic asian female.
+      # Social History
+
+  [12:08:29] DOCUMENT: History and physical note
+    Status: superseded
+
+  [12:44:21] CLAIM: professional
+    Amount: USD 573.98
+
+  [12:44:21] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Inés791 Ávila241
+    Location: WESTERN MASSACHUSETTS HOSPITAL
+    Duration: 12:44:21 - 13:01:54
+
+  [12:44:21] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [12:44:21] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-04-11
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Rosario163 Barbara209 is a 45 year-old hispanic asian female.
+      # Social History
+
+  [12:44:21] DOCUMENT: History and physical note
+    Status: superseded
+
+  [13:01:54] OBSERVATION: Response to cancer treatment: Worsening (qualifier value)
+
+  [13:01:54] CLAIM: professional
+    Amount: USD 243.71
+
+
+📅 2017-07-31
+
+  [13:01:54] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Inés791 Ávila241
+    Location: WESTERN MASSACHUSETTS HOSPITAL
+    Duration: 13:01:54 - 13:46:26
+
+  [13:01:54] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [13:01:54] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-07-31
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Rosario163 Barbara209 is a 45 year-old hispanic asian female.
+      # Social History
+
+  [13:01:54] DOCUMENT: History and physical note
+    Status: superseded
+
+  [13:46:26] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2017-11-16
+
+  [12:46:26] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Inés791 Ávila241
+    Location: WESTERN MASSACHUSETTS HOSPITAL
+    Duration: 12:46:26 - 13:25:51
+
+  [12:46:26] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [12:46:26] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-11-16
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Rosario163 Barbara209 is a 45 year-old hispanic asian female.
+      # Social History
+
+  [12:46:26] DOCUMENT: History and physical note
+    Status: superseded
+
+  [13:25:51] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2018-01-09
+
+  [19:07:50] VISIT: Death Certification
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Odilia72 Mraz590
+    Location: FAMILY MEDICINE ASSOCIATES
+    Duration: 19:07:50 - 19:22:50
+
+  [19:07:50] OBSERVATION: Cause of Death [US Standard Certificate of Death]: Malignant neoplasm of breast (disorder)
+
+  [19:07:50] DIAGNOSTIC REPORT: U.S. standard certificate of death - 2003 revision
+
+  [19:07:50] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-01-09
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Rosario163 Barbara209 is a 46 year-old hispanic asian female.
+      # Social History
+
+  [19:07:50] DOCUMENT: History and physical note
+    Status: current
+
+  [19:07:50] PROVENANCE: Record activity
+    Agents: Dr. Odilia72 Mraz590, Dr. Odilia72 Mraz590
+
+  [19:22:50] CLAIM: professional
+    Amount: USD 211.38
+
+================================================================================
+END OF TIMELINE (440 events)
+================================================================================

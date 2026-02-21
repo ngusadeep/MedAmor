@@ -1,0 +1,139 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Mrs. Shana231 Catherine271 Ernser583
+  Patient ID: 135369
+  Date of Birth: 1981-11-26
+  Gender: Female
+  Race: White
+  Ethnicity: Not Hispanic or Latino
+  Marital Status: Married
+  Address: 1020 Cole Promenade, Framingham, MA 01701
+  Phone: 555-801-6935
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2019-02-14
+
+  [05:25:16] VISIT: General examination of patient (procedure)
+    Provider: Dr. Bea654 Schiller186
+    Location: PRIMARY CARE FOR ADULTS PLLC
+    Duration: 05:25:16 - 05:40:16
+
+  [05:25:16] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [05:25:16] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-02-14
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Shana231 Catherine271 is a 37 year-old nonhispanic white female.
+      # Social History
+
+  [05:25:16] DOCUMENT: History and physical note
+    Status: superseded
+
+  [05:40:16] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2021-12-02
+
+  [05:25:16] VISIT: General examination of patient (procedure)
+    Provider: Dr. Bea654 Schiller186
+    Location: PRIMARY CARE FOR ADULTS PLLC
+    Duration: 05:25:16 - 05:40:16
+
+  [05:25:16] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [05:25:16] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [05:25:16] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-12-02
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Shana231 Catherine271 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [05:25:16] DOCUMENT: History and physical note
+    Status: superseded
+
+  [05:40:16] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2023-12-07
+
+  [05:25:16] VISIT: General examination of patient (procedure)
+    Provider: Dr. Bea654 Schiller186
+    Location: PRIMARY CARE FOR ADULTS PLLC
+    Duration: 05:25:16 - 05:40:16
+
+  [05:25:16] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [05:25:16] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [05:25:16] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [05:25:16] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-12-07
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Shana231 Catherine271 is a 42 year-old nonhispanic white female.
+      # Social History
+
+  [05:25:16] DOCUMENT: History and physical note
+    Status: superseded
+
+  [05:40:16] CLAIM: professional
+    Amount: USD 544.80
+
+
+📅 2025-12-11
+
+  [05:25:16] VISIT: General examination of patient (procedure)
+    Provider: Dr. Bea654 Schiller186
+    Location: PRIMARY CARE FOR ADULTS PLLC
+    Duration: 05:25:16 - 05:40:16
+
+  [05:25:16] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [05:25:16] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-12-11
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Shana231 Catherine271 is a 44 year-old nonhispanic white female.
+      # Social History
+
+  [05:25:16] DOCUMENT: History and physical note
+    Status: current
+
+  [05:40:16] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2026-02-12
+
+  [05:25:16] PROVENANCE: Record activity
+    Agents: Dr. Bea654 Schiller186, Dr. Bea654 Schiller186
+
+================================================================================
+END OF TIMELINE (24 events)
+================================================================================

@@ -1,0 +1,1632 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Mrs. Yadira684 Ona426 Bruen238
+  Patient ID: 154271
+  Date of Birth: 1974-02-25
+  Gender: Female
+  Race: White
+  Ethnicity: Not Hispanic or Latino
+  Marital Status: Married
+  Address: 386 Bergstrom Viaduct Apt 88, Methuen, MA 01841
+  Phone: 555-442-7031
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2016-03-07
+
+  [15:47:43] VISIT: General examination of patient (procedure)
+    Provider: Dr. Elisa944 Rojo930
+    Location: BLUESKIES WELLNESS INC
+    Duration: 15:47:43 - 16:02:43
+
+  [15:47:43] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [15:47:43] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [15:47:43] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [15:47:43] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-03-07
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Yadira684 Ona426 is a 42 year-old nonhispanic white female.
+      # Social History
+
+  [15:47:43] DOCUMENT: History and physical note
+    Status: superseded
+
+  [16:02:43] CLAIM: professional
+    Amount: USD 544.80
+
+
+📅 2018-03-12
+
+  [16:47:43] VISIT: General examination of patient (procedure)
+    Provider: Dr. Elisa944 Rojo930
+    Location: BLUESKIES WELLNESS INC
+    Duration: 16:47:43 - 17:02:43
+
+  [16:47:43] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [16:47:43] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-03-12
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Yadira684 Ona426 is a 44 year-old nonhispanic white female.
+      # Social History
+
+  [16:47:43] DOCUMENT: History and physical note
+    Status: superseded
+
+  [17:02:43] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2020-03-16
+
+  [16:47:43] VISIT: General examination of patient (procedure)
+    Provider: Dr. Elisa944 Rojo930
+    Location: BLUESKIES WELLNESS INC
+    Duration: 16:47:43 - 17:02:43
+
+  [16:47:43] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [16:47:43] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-03-16
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Yadira684 Ona426 is a 46 year-old nonhispanic white female.
+      # Social History
+
+  [16:47:43] DOCUMENT: History and physical note
+    Status: superseded
+
+  [17:02:43] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2021-06-21
+
+  [16:47:43] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Azucena377 Crona259
+    Location: HOLY FAMILY HOSPITAL
+    Duration: 16:47:43 - 17:02:43
+
+  [16:47:43] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 30 mcg/0.3 mL dose
+    Status: completed
+
+  [16:47:43] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-06-21
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Yadira684 Ona426 is a 47 year-old nonhispanic white female.
+      # Social History
+
+  [16:47:43] DOCUMENT: History and physical note
+    Status: superseded
+
+  [17:02:43] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-07-12
+
+  [16:47:43] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Azucena377 Crona259
+    Location: HOLY FAMILY HOSPITAL
+    Duration: 16:47:43 - 17:02:43
+
+  [16:47:43] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 30 mcg/0.3 mL dose
+    Status: completed
+
+  [16:47:43] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-07-12
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Yadira684 Ona426 is a 47 year-old nonhispanic white female.
+      # Social History
+
+  [16:47:43] DOCUMENT: History and physical note
+    Status: superseded
+
+  [17:02:43] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2022-03-21
+
+  [16:47:43] VISIT: General examination of patient (procedure)
+    Provider: Dr. Elisa944 Rojo930
+    Location: BLUESKIES WELLNESS INC
+    Duration: 16:47:43 - 17:02:43
+
+  [16:47:43] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [16:47:43] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-03-21
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Yadira684 Ona426 is a 48 year-old nonhispanic white female.
+      # Social History
+
+  [16:47:43] DOCUMENT: History and physical note
+    Status: superseded
+
+  [17:02:43] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2023-09-02
+
+  [16:47:43] VISIT: Periodic reevaluation and management of healthy individual (procedure)
+    Reason: Screening for malignant neoplasm of breast (procedure)
+    Provider: Dr. Azucena377 Crona259
+    Location: HOLY FAMILY HOSPITAL
+    Duration: 16:47:43 - 17:05:41
+
+  [16:47:43] PROCEDURE: Screening mammography (procedure)
+    Status: completed
+
+  [16:47:43] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-09-02
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Yadira684 Ona426 is a 49 year-old nonhispanic white female.
+      # Social History
+
+  [16:47:43] DOCUMENT: History and physical note
+    Status: superseded
+
+  [17:04:56] PROCEDURE: Ultrasonography of bilateral breasts (procedure)
+    Status: completed
+
+  [17:28:28] PROCEDURE: Biopsy of breast (procedure)
+    Status: completed
+
+  [17:59:41] CONDITION: Malignant neoplasm of breast (disorder) (active)
+
+  [17:59:41] OBSERVATION: Site of distant metastasis in Breast tumor: None (qualifier value)
+
+  [17:59:41] OBSERVATION: Distant metastases.clinical [Class] Cancer: American Joint Committee on Cancer cM0 (qualifier value)
+
+  [17:59:41] OBSERVATION: Size.maximum dimension in Tumor: 1.8123 cm
+
+  [17:59:41] OBSERVATION: Primary tumor.clinical [Class] Cancer: American Joint Committee on Cancer cT1 (qualifier value)
+
+  [17:59:41] OBSERVATION: Lymph nodes with isolated tumor cells [#] in Cancer specimen by Light microscopy: 0 {#}
+
+  [17:59:41] OBSERVATION: Regional lymph nodes.clinical [Class] Cancer: American Joint Committee on Cancer cN0 (qualifier value)
+
+  [17:59:41] PROCEDURE: Human epidermal growth factor receptor 2 gene detection by fluorescence in situ hybridization (procedure)
+    Status: completed
+
+
+📅 2023-09-04
+
+  [14:59:41] PROCEDURE: Human epidermal growth factor receptor 2 gene detection by immunohistochemistry (procedure)
+    Status: completed
+
+  [17:05:41] OBSERVATION: HER2 [Presence] in Breast cancer specimen by Immune stain: Negative (qualifier value)
+
+  [17:05:41] OBSERVATION: ERBB2 gene duplication [Presence] in Breast cancer specimen by FISH: less than 1.8
+
+  [17:05:41] OBSERVATION: Estrogen receptor Ag [Presence] in Breast cancer specimen by Immune stain: Positive (qualifier value)
+
+  [17:05:41] OBSERVATION: Progesterone receptor Ag [Presence] in Breast cancer specimen by Immune stain: Positive (qualifier value)
+
+  [17:05:41] OBSERVATION: Estrogen+Progesterone receptor Ag [Presence] in Tissue by Immune stain: Positive (qualifier value)
+
+  [17:05:41] OBSERVATION: Stage group.clinical Cancer: American Joint Committee on Cancer stage IA (qualifier value)
+
+  [17:05:41] OBSERVATION: Stage group.clinical Cancer: Stage 1 (qualifier value)
+
+  [17:05:41] CLAIM: professional
+    Amount: USD 4930.78
+
+
+📅 2023-09-11
+
+  [10:05:41] VISIT: Discussion about treatment (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Azucena377 Crona259
+    Location: HOLY FAMILY HOSPITAL
+    Duration: 10:05:41 - 10:56:36
+
+  [10:05:41] PROCEDURE: Discussion about options (procedure)
+    Status: completed
+
+  [10:05:41] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-09-11
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Yadira684 Ona426 is a 49 year-old nonhispanic white female.
+      # Social History
+
+  [10:05:41] DOCUMENT: History and physical note
+    Status: superseded
+
+  [10:56:36] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2023-09-15
+
+  [06:56:36] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Azucena377 Crona259
+    Location: HOLY FAMILY HOSPITAL
+    Duration: 06:56:36 - 09:35:35
+
+  [06:56:36] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-09-15
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Yadira684 Ona426 is a 49 year-old nonhispanic white female.
+      # Social History
+
+  [06:56:36] DOCUMENT: History and physical note
+    Status: superseded
+
+  [09:12:36] PROCEDURE: Lumpectomy of breast (procedure)
+    Status: completed
+
+
+📅 2023-09-17
+
+  [09:35:35] CLAIM: institutional
+    Amount: USD 25325.38
+
+
+📅 2023-09-22
+
+  [12:35:35] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Azucena377 Crona259
+    Location: HOLY FAMILY HOSPITAL
+    Duration: 12:35:35 - 13:09:40
+
+  [12:35:35] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [12:35:35] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-09-22
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Yadira684 Ona426 is a 49 year-old nonhispanic white female.
+      # Social History
+
+  [12:35:35] DOCUMENT: History and physical note
+    Status: superseded
+
+  [13:09:40] CLAIM: professional
+    Amount: USD 881.62
+
+
+📅 2023-09-23
+
+  [18:35:40] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Azucena377 Crona259
+    Location: HOLY FAMILY HOSPITAL
+    Duration: 18:35:40 - 19:02:08
+
+  [18:35:40] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [18:35:40] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-09-23
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Yadira684 Ona426 is a 49 year-old nonhispanic white female.
+      # Social History
+
+  [18:35:40] DOCUMENT: History and physical note
+    Status: superseded
+
+  [19:02:08] CLAIM: professional
+    Amount: USD 512.63
+
+
+📅 2023-09-25
+
+  [06:37:08] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Azucena377 Crona259
+    Location: HOLY FAMILY HOSPITAL
+    Duration: 06:37:08 - 06:57:03
+
+  [06:37:08] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [06:37:08] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-09-25
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Yadira684 Ona426 is a 49 year-old nonhispanic white female.
+      # Social History
+
+  [06:37:08] DOCUMENT: History and physical note
+    Status: superseded
+
+  [06:57:03] CLAIM: professional
+    Amount: USD 512.63
+
+
+📅 2023-09-26
+
+  [08:23:03] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Azucena377 Crona259
+    Location: HOLY FAMILY HOSPITAL
+    Duration: 08:23:03 - 08:54:34
+
+  [08:23:03] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [08:23:03] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-09-26
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Yadira684 Ona426 is a 49 year-old nonhispanic white female.
+      # Social History
+
+  [08:23:03] DOCUMENT: History and physical note
+    Status: superseded
+
+  [08:54:34] CLAIM: professional
+    Amount: USD 1359.90
+
+
+📅 2023-09-27
+
+  [20:50:34] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Azucena377 Crona259
+    Location: HOLY FAMILY HOSPITAL
+    Duration: 20:50:34 - 21:12:12
+
+  [20:50:34] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [20:50:34] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-09-27
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Yadira684 Ona426 is a 49 year-old nonhispanic white female.
+      # Social History
+
+  [20:50:34] DOCUMENT: History and physical note
+    Status: superseded
+
+  [21:12:12] CLAIM: professional
+    Amount: USD 512.63
+
+
+📅 2023-09-29
+
+  [05:05:12] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Azucena377 Crona259
+    Location: HOLY FAMILY HOSPITAL
+    Duration: 05:05:12 - 05:22:50
+
+  [05:05:12] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [05:05:12] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-09-29
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Yadira684 Ona426 is a 49 year-old nonhispanic white female.
+      # Social History
+
+  [05:05:12] DOCUMENT: History and physical note
+    Status: superseded
+
+  [05:22:50] CLAIM: professional
+    Amount: USD 1359.90
+
+
+📅 2023-09-30
+
+  [09:42:50] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Azucena377 Crona259
+    Location: HOLY FAMILY HOSPITAL
+    Duration: 09:42:50 - 10:20:24
+
+  [09:42:50] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [09:42:50] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-09-30
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Yadira684 Ona426 is a 49 year-old nonhispanic white female.
+      # Social History
+
+  [09:42:50] DOCUMENT: History and physical note
+    Status: superseded
+
+  [10:20:24] CLAIM: professional
+    Amount: USD 1359.90
+
+
+📅 2023-10-01
+
+  [14:01:24] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Azucena377 Crona259
+    Location: HOLY FAMILY HOSPITAL
+    Duration: 14:01:24 - 14:41:16
+
+  [14:01:24] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [14:01:24] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-10-01
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Yadira684 Ona426 is a 49 year-old nonhispanic white female.
+      # Social History
+
+  [14:01:24] DOCUMENT: History and physical note
+    Status: superseded
+
+  [14:41:16] CLAIM: professional
+    Amount: USD 1359.90
+
+
+📅 2023-10-02
+
+  [19:15:16] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Azucena377 Crona259
+    Location: HOLY FAMILY HOSPITAL
+    Duration: 19:15:16 - 19:35:59
+
+  [19:15:16] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [19:15:16] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-10-02
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Yadira684 Ona426 is a 49 year-old nonhispanic white female.
+      # Social History
+
+  [19:15:16] DOCUMENT: History and physical note
+    Status: superseded
+
+  [19:35:59] CLAIM: professional
+    Amount: USD 1359.90
+
+
+📅 2023-10-04
+
+  [02:00:59] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Azucena377 Crona259
+    Location: HOLY FAMILY HOSPITAL
+    Duration: 02:00:59 - 02:30:44
+
+  [02:00:59] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [02:00:59] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-10-04
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Yadira684 Ona426 is a 49 year-old nonhispanic white female.
+      # Social History
+
+  [02:00:59] DOCUMENT: History and physical note
+    Status: superseded
+
+  [02:30:44] CLAIM: professional
+    Amount: USD 1233.19
+
+
+📅 2023-10-05
+
+  [12:31:44] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Azucena377 Crona259
+    Location: HOLY FAMILY HOSPITAL
+    Duration: 12:31:44 - 12:47:22
+
+  [12:31:44] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [12:31:44] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-10-05
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Yadira684 Ona426 is a 49 year-old nonhispanic white female.
+      # Social History
+
+  [12:31:44] DOCUMENT: History and physical note
+    Status: superseded
+
+  [12:47:22] CLAIM: professional
+    Amount: USD 512.63
+
+
+📅 2023-10-06
+
+  [15:29:22] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Azucena377 Crona259
+    Location: HOLY FAMILY HOSPITAL
+    Duration: 15:29:22 - 16:00:41
+
+  [15:29:22] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [15:29:22] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-10-06
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Yadira684 Ona426 is a 49 year-old nonhispanic white female.
+      # Social History
+
+  [15:29:22] DOCUMENT: History and physical note
+    Status: superseded
+
+  [16:00:41] CLAIM: professional
+    Amount: USD 1359.90
+
+
+📅 2023-10-07
+
+  [18:41:41] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Azucena377 Crona259
+    Location: HOLY FAMILY HOSPITAL
+    Duration: 18:41:41 - 19:15:47
+
+  [18:41:41] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [18:41:41] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-10-07
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Yadira684 Ona426 is a 49 year-old nonhispanic white female.
+      # Social History
+
+  [18:41:41] DOCUMENT: History and physical note
+    Status: superseded
+
+  [19:15:47] CLAIM: professional
+    Amount: USD 1359.90
+
+
+📅 2023-10-09
+
+  [05:13:47] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Azucena377 Crona259
+    Location: HOLY FAMILY HOSPITAL
+    Duration: 05:13:47 - 05:33:30
+
+  [05:13:47] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [05:13:47] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-10-09
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Yadira684 Ona426 is a 49 year-old nonhispanic white female.
+      # Social History
+
+  [05:13:47] DOCUMENT: History and physical note
+    Status: superseded
+
+  [05:33:30] CLAIM: professional
+    Amount: USD 1359.90
+
+
+📅 2023-10-10
+
+  [08:11:30] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Azucena377 Crona259
+    Location: HOLY FAMILY HOSPITAL
+    Duration: 08:11:30 - 08:34:00
+
+  [08:11:30] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [08:11:30] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-10-10
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Yadira684 Ona426 is a 49 year-old nonhispanic white female.
+      # Social History
+
+  [08:11:30] DOCUMENT: History and physical note
+    Status: superseded
+
+  [08:34:00] CLAIM: professional
+    Amount: USD 512.63
+
+
+📅 2023-10-11
+
+  [18:26:00] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Azucena377 Crona259
+    Location: HOLY FAMILY HOSPITAL
+    Duration: 18:26:00 - 18:41:03
+
+  [18:26:00] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [18:26:00] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-10-11
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Yadira684 Ona426 is a 49 year-old nonhispanic white female.
+      # Social History
+
+  [18:26:00] DOCUMENT: History and physical note
+    Status: superseded
+
+  [18:41:03] CLAIM: professional
+    Amount: USD 837.23
+
+
+📅 2023-10-13
+
+  [04:40:03] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Azucena377 Crona259
+    Location: HOLY FAMILY HOSPITAL
+    Duration: 04:40:03 - 05:03:17
+
+  [04:40:03] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [04:40:03] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-10-13
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Yadira684 Ona426 is a 49 year-old nonhispanic white female.
+      # Social History
+
+  [04:40:03] DOCUMENT: History and physical note
+    Status: superseded
+
+  [05:03:17] CLAIM: professional
+    Amount: USD 1359.90
+
+
+📅 2023-10-14
+
+  [07:00:17] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Azucena377 Crona259
+    Location: HOLY FAMILY HOSPITAL
+    Duration: 07:00:17 - 07:39:04
+
+  [07:00:17] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [07:00:17] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-10-14
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Yadira684 Ona426 is a 49 year-old nonhispanic white female.
+      # Social History
+
+  [07:00:17] DOCUMENT: History and physical note
+    Status: superseded
+
+  [07:39:04] CLAIM: professional
+    Amount: USD 1098.46
+
+
+📅 2023-10-15
+
+  [11:24:04] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Azucena377 Crona259
+    Location: HOLY FAMILY HOSPITAL
+    Duration: 11:24:04 - 12:03:59
+
+  [11:24:04] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [11:24:04] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-10-15
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Yadira684 Ona426 is a 49 year-old nonhispanic white female.
+      # Social History
+
+  [11:24:04] DOCUMENT: History and physical note
+    Status: superseded
+
+  [12:03:59] CLAIM: professional
+    Amount: USD 1359.90
+
+
+📅 2023-10-16
+
+  [20:19:59] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Azucena377 Crona259
+    Location: HOLY FAMILY HOSPITAL
+    Duration: 20:19:59 - 20:53:51
+
+  [20:19:59] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [20:19:59] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-10-16
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Yadira684 Ona426 is a 49 year-old nonhispanic white female.
+      # Social History
+
+  [20:19:59] DOCUMENT: History and physical note
+    Status: superseded
+
+  [20:53:51] CLAIM: professional
+    Amount: USD 1359.90
+
+
+📅 2023-10-18
+
+  [03:12:51] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Azucena377 Crona259
+    Location: HOLY FAMILY HOSPITAL
+    Duration: 03:12:51 - 03:30:43
+
+  [03:12:51] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [03:12:51] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-10-18
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Yadira684 Ona426 is a 49 year-old nonhispanic white female.
+      # Social History
+
+  [03:12:51] DOCUMENT: History and physical note
+    Status: superseded
+
+  [03:30:43] CLAIM: professional
+    Amount: USD 1359.90
+
+
+📅 2023-10-19
+
+  [10:12:43] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Azucena377 Crona259
+    Location: HOLY FAMILY HOSPITAL
+    Duration: 10:12:43 - 10:29:17
+
+  [10:12:43] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [10:12:43] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-10-19
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Yadira684 Ona426 is a 49 year-old nonhispanic white female.
+      # Social History
+
+  [10:12:43] DOCUMENT: History and physical note
+    Status: superseded
+
+  [10:29:17] CLAIM: professional
+    Amount: USD 512.63
+
+
+📅 2023-10-20
+
+  [20:58:17] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Azucena377 Crona259
+    Location: HOLY FAMILY HOSPITAL
+    Duration: 20:58:17 - 21:36:45
+
+  [20:58:17] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [20:58:17] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-10-20
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Yadira684 Ona426 is a 49 year-old nonhispanic white female.
+      # Social History
+
+  [20:58:17] DOCUMENT: History and physical note
+    Status: superseded
+
+  [21:36:45] CLAIM: professional
+    Amount: USD 822.79
+
+
+📅 2023-10-21
+
+  [22:30:45] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Azucena377 Crona259
+    Location: HOLY FAMILY HOSPITAL
+    Duration: 22:30:45 - 23:01:23
+
+  [22:30:45] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [22:30:45] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-10-21
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Yadira684 Ona426 is a 49 year-old nonhispanic white female.
+      # Social History
+
+  [22:30:45] DOCUMENT: History and physical note
+    Status: superseded
+
+  [23:01:23] CLAIM: professional
+    Amount: USD 568.62
+
+
+📅 2023-10-23
+
+  [09:58:23] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Azucena377 Crona259
+    Location: HOLY FAMILY HOSPITAL
+    Duration: 09:58:23 - 10:28:00
+
+  [09:58:23] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [09:58:23] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-10-23
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Yadira684 Ona426 is a 49 year-old nonhispanic white female.
+      # Social History
+
+  [09:58:23] DOCUMENT: History and physical note
+    Status: superseded
+
+  [10:28:00] CLAIM: professional
+    Amount: USD 1359.90
+
+
+📅 2023-10-24
+
+  [10:41:00] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Azucena377 Crona259
+    Location: HOLY FAMILY HOSPITAL
+    Duration: 10:41:00 - 11:00:01
+
+  [10:41:00] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [10:41:00] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-10-24
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Yadira684 Ona426 is a 49 year-old nonhispanic white female.
+      # Social History
+
+  [10:41:00] DOCUMENT: History and physical note
+    Status: superseded
+
+  [11:00:01] CLAIM: professional
+    Amount: USD 691.90
+
+
+📅 2023-10-25
+
+  [19:59:01] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Azucena377 Crona259
+    Location: HOLY FAMILY HOSPITAL
+    Duration: 19:59:01 - 20:28:16
+
+  [19:59:01] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [19:59:01] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-10-25
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Yadira684 Ona426 is a 49 year-old nonhispanic white female.
+      # Social History
+
+  [19:59:01] DOCUMENT: History and physical note
+    Status: superseded
+
+  [20:28:16] CLAIM: professional
+    Amount: USD 1359.90
+
+
+📅 2023-10-27
+
+  [00:05:16] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Azucena377 Crona259
+    Location: HOLY FAMILY HOSPITAL
+    Duration: 00:05:16 - 00:20:33
+
+  [00:05:16] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [00:05:16] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-10-27
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Yadira684 Ona426 is a 49 year-old nonhispanic white female.
+      # Social History
+
+  [00:05:16] DOCUMENT: History and physical note
+    Status: superseded
+
+  [00:20:33] CLAIM: professional
+    Amount: USD 1359.90
+
+
+📅 2023-10-28
+
+  [03:23:33] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Azucena377 Crona259
+    Location: HOLY FAMILY HOSPITAL
+    Duration: 03:23:33 - 03:51:49
+
+  [03:23:33] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [03:23:33] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-10-28
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Yadira684 Ona426 is a 49 year-old nonhispanic white female.
+      # Social History
+
+  [03:23:33] DOCUMENT: History and physical note
+    Status: superseded
+
+  [03:51:49] CLAIM: professional
+    Amount: USD 1359.90
+
+
+📅 2023-10-29
+
+  [12:41:49] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Azucena377 Crona259
+    Location: HOLY FAMILY HOSPITAL
+    Duration: 12:41:49 - 13:04:22
+
+  [12:41:49] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [12:41:49] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-10-29
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Yadira684 Ona426 is a 49 year-old nonhispanic white female.
+      # Social History
+
+  [12:41:49] DOCUMENT: History and physical note
+    Status: superseded
+
+  [13:04:22] CLAIM: professional
+    Amount: USD 512.63
+
+
+📅 2023-10-30
+
+  [15:26:22] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Azucena377 Crona259
+    Location: HOLY FAMILY HOSPITAL
+    Duration: 15:26:22 - 15:48:01
+
+  [15:26:22] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [15:26:22] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-10-30
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Yadira684 Ona426 is a 49 year-old nonhispanic white female.
+      # Social History
+
+  [15:26:22] DOCUMENT: History and physical note
+    Status: superseded
+
+  [15:48:01] CLAIM: professional
+    Amount: USD 1359.90
+
+
+📅 2023-10-31
+
+  [23:37:01] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Azucena377 Crona259
+    Location: HOLY FAMILY HOSPITAL
+    Duration: 23:37:01 - 23:55:00
+
+  [23:37:01] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [23:37:01] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-10-31
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Yadira684 Ona426 is a 49 year-old nonhispanic white female.
+      # Social History
+
+  [23:37:01] DOCUMENT: History and physical note
+    Status: superseded
+
+  [23:55:00] CLAIM: professional
+    Amount: USD 1359.90
+
+
+📅 2023-11-02
+
+  [03:38:00] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Azucena377 Crona259
+    Location: HOLY FAMILY HOSPITAL
+    Duration: 03:38:00 - 03:56:30
+
+  [03:38:00] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [03:38:00] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-11-02
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Yadira684 Ona426 is a 49 year-old nonhispanic white female.
+      # Social History
+
+  [03:38:00] DOCUMENT: History and physical note
+    Status: superseded
+
+  [03:56:30] CLAIM: professional
+    Amount: USD 1359.90
+
+
+📅 2023-11-03
+
+  [15:43:30] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Azucena377 Crona259
+    Location: HOLY FAMILY HOSPITAL
+    Duration: 15:43:30 - 16:11:58
+
+  [15:43:30] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [15:43:30] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-11-03
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Yadira684 Ona426 is a 49 year-old nonhispanic white female.
+      # Social History
+
+  [15:43:30] DOCUMENT: History and physical note
+    Status: superseded
+
+  [16:11:58] CLAIM: professional
+    Amount: USD 693.14
+
+
+📅 2023-11-06
+
+  [01:11:58] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Azucena377 Crona259
+    Location: HOLY FAMILY HOSPITAL
+    Duration: 01:11:58 - 01:26:58
+
+  [01:11:58] OBSERVATION: Treatment status Cancer: Treatment changed (situation)
+
+  [01:11:58] OBSERVATION: Response to cancer treatment: Improving (qualifier value)
+
+  [01:11:58] MEDICATION PRESCRIBED: Unknown medication
+    Status: completed
+    Prescribed by: Dr. Azucena377 Crona259
+
+  [01:11:58] MEDICATION ADMINISTERED: exemestane 25 MG Oral Tablet
+    Status: completed
+    Dosage: 1.0
+
+  [01:11:58] MEDICATION PRESCRIBED: Unknown medication
+    Status: completed
+    Prescribed by: Dr. Azucena377 Crona259
+
+  [01:11:58] MEDICATION ADMINISTERED: abemaciclib 100 MG Oral Tablet [Verzenio]
+    Status: completed
+
+  [01:11:58] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-11-06
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Yadira684 Ona426 is a 49 year-old nonhispanic white female.
+      # Social History
+
+  [01:11:58] DOCUMENT: History and physical note
+    Status: superseded
+
+  [01:26:58] CLAIM: pharmacy
+    Amount: USD 4395.82
+
+  [01:26:58] CLAIM: pharmacy
+    Amount: USD 117.93
+
+  [01:26:58] CLAIM: professional
+    Amount: USD 85.55
+
+
+📅 2024-02-26
+
+  [15:47:43] VISIT: General examination of patient (procedure)
+    Provider: Dr. Elisa944 Rojo930
+    Location: BLUESKIES WELLNESS INC
+    Duration: 15:47:43 - 16:02:43
+
+  [15:47:43] IMMUNIZATION: zoster vaccine, live
+    Status: completed
+
+  [15:47:43] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [15:47:43] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-02-26
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Yadira684 Ona426 is a 50 year-old nonhispanic white female.
+      # Social History
+
+  [15:47:43] DOCUMENT: History and physical note
+    Status: superseded
+
+  [16:02:43] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2024-03-04
+
+  [01:11:58] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Azucena377 Crona259
+    Location: HOLY FAMILY HOSPITAL
+    Duration: 01:11:58 - 01:49:35
+
+  [01:11:58] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [01:11:58] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-03-04
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Yadira684 Ona426 is a 50 year-old nonhispanic white female.
+      # Social History
+
+  [01:11:58] DOCUMENT: History and physical note
+    Status: superseded
+
+  [01:49:35] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2024-06-19
+
+  [02:49:35] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Azucena377 Crona259
+    Location: Patient's Home
+    Duration: 02:49:35 - 03:32:17
+
+  [02:49:35] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [02:49:35] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-06-19
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Yadira684 Ona426 is a 50 year-old nonhispanic white female.
+      # Social History
+
+  [02:49:35] DOCUMENT: History and physical note
+    Status: superseded
+
+  [03:32:17] CLAIM: institutional
+    Amount: USD 556.40
+
+
+📅 2024-10-13
+
+  [03:32:17] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Azucena377 Crona259
+    Location: HOLY FAMILY HOSPITAL
+    Duration: 03:32:17 - 04:11:03
+
+  [03:32:17] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [03:32:17] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-10-13
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Yadira684 Ona426 is a 50 year-old nonhispanic white female.
+      # Social History
+
+  [03:32:17] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:11:03] CLAIM: professional
+    Amount: USD 573.98
+
+  [04:11:03] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Azucena377 Crona259
+    Location: HOLY FAMILY HOSPITAL
+    Duration: 04:11:03 - 04:28:12
+
+  [04:11:03] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [04:11:03] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-10-13
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Yadira684 Ona426 is a 50 year-old nonhispanic white female.
+      # Social History
+
+  [04:11:03] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:28:12] CLAIM: professional
+    Amount: USD 211.60
+
+  [04:28:12] VISIT: Follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Azucena377 Crona259
+    Location: HOLY FAMILY HOSPITAL
+    Duration: 04:28:12 - 04:43:12
+
+  [04:28:12] PROCEDURE: Bone density scan (procedure)
+    Status: completed
+
+  [04:28:12] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-10-13
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Yadira684 Ona426 is a 50 year-old nonhispanic white female.
+      # Social History
+
+  [04:28:12] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:42:55] OBSERVATION: Response to cancer treatment: Improving (qualifier value)
+
+  [04:43:12] CLAIM: professional
+    Amount: USD 9493.51
+
+
+📅 2025-01-27
+
+  [03:42:55] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Azucena377 Crona259
+    Location: HOLY FAMILY HOSPITAL
+    Duration: 03:42:55 - 04:24:20
+
+  [03:42:55] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [03:42:55] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-01-27
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Yadira684 Ona426 is a 50 year-old nonhispanic white female.
+      # Social History
+
+  [03:42:55] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:24:20] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2025-03-03
+
+  [15:47:43] VISIT: General examination of patient (procedure)
+    Provider: Dr. Elisa944 Rojo930
+    Location: BLUESKIES WELLNESS INC
+    Duration: 15:47:43 - 16:02:43
+
+  [15:47:43] IMMUNIZATION: zoster vaccine, live
+    Status: completed
+
+  [15:47:43] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [15:47:43] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [15:47:43] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-03-03
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Yadira684 Ona426 is a 51 year-old nonhispanic white female.
+      # Social History
+
+  [15:47:43] DOCUMENT: History and physical note
+    Status: superseded
+
+  [16:02:43] CLAIM: professional
+    Amount: USD 544.80
+
+
+📅 2025-05-26
+
+  [05:24:20] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Azucena377 Crona259
+    Location: HOLY FAMILY HOSPITAL
+    Duration: 05:24:20 - 06:07:36
+
+  [05:24:20] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [05:24:20] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-05-26
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Yadira684 Ona426 is a 51 year-old nonhispanic white female.
+      # Social History
+
+  [05:24:20] DOCUMENT: History and physical note
+    Status: superseded
+
+  [06:07:36] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2025-09-20
+
+  [06:07:36] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Azucena377 Crona259
+    Location: HOLY FAMILY HOSPITAL
+    Duration: 06:07:36 - 06:48:56
+
+  [06:07:36] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [06:07:36] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-09-20
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Yadira684 Ona426 is a 51 year-old nonhispanic white female.
+      # Social History
+
+  [06:07:36] DOCUMENT: History and physical note
+    Status: superseded
+
+  [06:48:56] CLAIM: professional
+    Amount: USD 573.98
+
+  [06:48:56] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Azucena377 Crona259
+    Location: HOLY FAMILY HOSPITAL
+    Duration: 06:48:56 - 07:05:43
+
+  [06:48:56] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [06:48:56] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-09-20
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Yadira684 Ona426 is a 51 year-old nonhispanic white female.
+      # Social History
+
+  [06:48:56] DOCUMENT: History and physical note
+    Status: superseded
+
+  [07:05:43] CLAIM: professional
+    Amount: USD 287.06
+
+  [07:05:43] VISIT: Follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Azucena377 Crona259
+    Location: HOLY FAMILY HOSPITAL
+    Duration: 07:05:43 - 07:20:43
+
+  [07:05:43] PROCEDURE: Bone density scan (procedure)
+    Status: completed
+
+  [07:05:43] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-09-20
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Yadira684 Ona426 is a 51 year-old nonhispanic white female.
+      # Social History
+
+  [07:05:43] DOCUMENT: History and physical note
+    Status: superseded
+
+  [07:19:21] OBSERVATION: Response to cancer treatment: Improving (qualifier value)
+
+  [07:20:43] CLAIM: professional
+    Amount: USD 4181.24
+
+
+📅 2026-01-15
+
+  [06:19:21] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Azucena377 Crona259
+    Location: HOLY FAMILY HOSPITAL
+    Duration: 06:19:21 - 06:49:47
+
+  [06:19:21] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [06:19:21] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2026-01-15
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Yadira684 Ona426 is a 51 year-old nonhispanic white female.
+      # Social History
+
+  [06:19:21] DOCUMENT: History and physical note
+    Status: current
+
+  [06:49:47] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2026-02-09
+
+  [15:47:43] PROVENANCE: Record activity
+    Agents: Dr. Azucena377 Crona259, Dr. Azucena377 Crona259
+
+================================================================================
+END OF TIMELINE (318 events)
+================================================================================

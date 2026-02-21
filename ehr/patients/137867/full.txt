@@ -1,0 +1,235 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Mrs. Sherika987 Dorethea38 Green467
+  Patient ID: 137867
+  Date of Birth: 1976-03-08
+  Gender: Female
+  Race: White
+  Ethnicity: Not Hispanic or Latino
+  Marital Status: Divorced
+  Address: 1055 Buckridge Neck Apt 52, Tewksbury, MA 00000
+  Phone: 555-786-8373
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2016-03-14
+
+  [23:47:05] VISIT: General examination of patient (procedure)
+    Provider: Dr. Janee223 Harvey63
+    Location: RHEUMATOLOGY AND INTERNAL MEDICINE ASSOCIATES PC
+    Duration: 23:47:05 - 00:02:05
+
+  [23:47:05] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [23:47:05] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [23:47:05] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-03-14
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Sherika987 Dorethea38 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [23:47:05] DOCUMENT: History and physical note
+    Status: superseded
+
+
+📅 2016-03-15
+
+  [00:02:05] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2018-03-19
+
+  [23:47:05] VISIT: General examination of patient (procedure)
+    Provider: Dr. Janee223 Harvey63
+    Location: RHEUMATOLOGY AND INTERNAL MEDICINE ASSOCIATES PC
+    Duration: 23:47:05 - 00:02:05
+
+  [23:47:05] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [23:47:05] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [23:47:05] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [23:47:05] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-03-19
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Sherika987 Dorethea38 is a 42 year-old nonhispanic white female.
+      # Social History
+
+  [23:47:05] DOCUMENT: History and physical note
+    Status: superseded
+
+
+📅 2018-03-20
+
+  [00:02:05] CLAIM: professional
+    Amount: USD 544.80
+
+
+📅 2020-03-23
+
+  [23:47:05] VISIT: General examination of patient (procedure)
+    Provider: Dr. Janee223 Harvey63
+    Location: RHEUMATOLOGY AND INTERNAL MEDICINE ASSOCIATES PC
+    Duration: 23:47:05 - 00:02:05
+
+  [23:47:05] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [23:47:05] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-03-23
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Sherika987 Dorethea38 is a 44 year-old nonhispanic white female.
+      # Social History
+
+  [23:47:05] DOCUMENT: History and physical note
+    Status: superseded
+
+
+📅 2020-03-24
+
+  [00:02:05] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2021-03-08
+
+  [22:47:05] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Carlton317 Koch169
+    Location: TEWKSBURY HOSPITAL
+    Duration: 22:47:05 - 23:02:05
+
+  [22:47:05] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+    Status: completed
+
+  [22:47:05] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-03-08
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Sherika987 Dorethea38 is a 45 year-old nonhispanic white female.
+      # Social History
+
+  [22:47:05] DOCUMENT: History and physical note
+    Status: superseded
+
+  [23:02:05] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-04-05
+
+  [23:47:05] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Carlton317 Koch169
+    Location: TEWKSBURY HOSPITAL
+    Duration: 23:47:05 - 00:02:05
+
+  [23:47:05] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+    Status: completed
+
+  [23:47:05] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-04-05
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Sherika987 Dorethea38 is a 45 year-old nonhispanic white female.
+      # Social History
+
+  [23:47:05] DOCUMENT: History and physical note
+    Status: superseded
+
+
+📅 2021-04-06
+
+  [00:02:05] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2022-03-28
+
+  [23:47:05] VISIT: General examination of patient (procedure)
+    Provider: Dr. Janee223 Harvey63
+    Location: RHEUMATOLOGY AND INTERNAL MEDICINE ASSOCIATES PC
+    Duration: 23:47:05 - 00:02:05
+
+  [23:47:05] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [23:47:05] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-03-28
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Sherika987 Dorethea38 is a 46 year-old nonhispanic white female.
+      # Social History
+
+  [23:47:05] DOCUMENT: History and physical note
+    Status: superseded
+
+
+📅 2022-03-29
+
+  [00:02:05] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2024-04-01
+
+  [23:47:05] VISIT: General examination of patient (procedure)
+    Provider: Dr. Janee223 Harvey63
+    Location: RHEUMATOLOGY AND INTERNAL MEDICINE ASSOCIATES PC
+    Duration: 23:47:05 - 00:02:05
+
+  [23:47:05] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [23:47:05] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-04-01
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Sherika987 Dorethea38 is a 48 year-old nonhispanic white female.
+      # Social History
+
+  [23:47:05] DOCUMENT: History and physical note
+    Status: current
+
+
+📅 2024-04-02
+
+  [00:02:05] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2026-02-09
+
+  [22:47:05] PROVENANCE: Record activity
+    Agents: Dr. Janee223 Harvey63, Dr. Janee223 Harvey63
+
+================================================================================
+END OF TIMELINE (39 events)
+================================================================================

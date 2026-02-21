@@ -1,0 +1,1035 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Mrs. Aja848 Aleen595 Kuphal363
+  Patient ID: 4378
+  Date of Birth: 1956-03-02
+  Gender: Female
+  Race: White
+  Ethnicity: Not Hispanic or Latino
+  Marital Status: Married
+  Address: 127 Rice Pathway Suite 49, Dracut, MA 00000
+  Phone: 555-709-1738
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 1975-05-02
+
+  [10:28:35] VISIT: General examination of patient (procedure)
+    Provider: Dr. Chris95 Haag279
+    Location: GREATER LOWELL FAMILY PRACTICE PC
+    Duration: 10:28:35 - 10:43:35
+
+  [10:28:35] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [10:28:35] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      1975-05-02
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Aja848 Aleen595 is a 19 year-old nonhispanic white female.
+      # Social History
+
+  [10:28:35] DOCUMENT: History and physical note
+    Status: superseded
+
+  [10:43:35] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 1978-05-05
+
+  [10:28:35] VISIT: General examination of patient (procedure)
+    Provider: Dr. Chris95 Haag279
+    Location: GREATER LOWELL FAMILY PRACTICE PC
+    Duration: 10:28:35 - 10:43:35
+
+  [10:28:35] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [10:28:35] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      1978-05-05
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Aja848 Aleen595 is a 22 year-old nonhispanic white female.
+      # Social History
+
+  [10:28:35] DOCUMENT: History and physical note
+    Status: superseded
+
+  [10:43:35] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 1981-05-08
+
+  [10:28:35] VISIT: General examination of patient (procedure)
+    Provider: Dr. Chris95 Haag279
+    Location: GREATER LOWELL FAMILY PRACTICE PC
+    Duration: 10:28:35 - 10:43:35
+
+  [10:28:35] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [10:28:35] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      1981-05-08
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Aja848 Aleen595 is a 25 year-old nonhispanic white female.
+      # Social History
+
+  [10:28:35] DOCUMENT: History and physical note
+    Status: superseded
+
+  [10:43:35] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 1981-05-15
+
+  [10:28:35] VISIT: Periodic reevaluation and management of healthy individual (procedure)
+    Reason: Screening for malignant neoplasm of breast (procedure)
+    Provider: Dr. Carlton317 Koch169
+    Location: TEWKSBURY HOSPITAL
+    Duration: 10:28:35 - 07:11:56
+
+  [10:28:35] PROCEDURE: Screening mammography (procedure)
+    Status: completed
+
+  [10:28:35] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      1981-05-15
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Aja848 Aleen595 is a 25 year-old nonhispanic white female.
+      # Social History
+
+  [10:28:35] DOCUMENT: History and physical note
+    Status: superseded
+
+  [10:44:27] PROCEDURE: Ultrasonography of bilateral breasts (procedure)
+    Status: completed
+
+  [11:08:39] PROCEDURE: Biopsy of breast (procedure)
+    Status: completed
+
+  [11:49:56] CONDITION: Malignant neoplasm of breast (disorder) (active)
+
+  [11:49:56] OBSERVATION: Site of distant metastasis in Breast tumor: None (qualifier value)
+
+  [11:49:56] OBSERVATION: Distant metastases.clinical [Class] Cancer: American Joint Committee on Cancer cM0 (qualifier value)
+
+  [11:49:56] OBSERVATION: Primary tumor.clinical [Class] Cancer: American Joint Committee on Cancer cT0 (qualifier value)
+
+  [11:49:56] OBSERVATION: Lymph nodes with macrometastases [#] in Cancer specimen by Light microscopy: 5.489 {#}
+
+  [11:49:56] OBSERVATION: Regional lymph nodes.clinical [Class] Cancer: American Joint Committee on Cancer cN2 (qualifier value)
+
+  [11:49:56] PROCEDURE: Human epidermal growth factor receptor 2 gene detection by fluorescence in situ hybridization (procedure)
+    Status: completed
+
+
+📅 1981-05-17
+
+  [04:49:56] PROCEDURE: Human epidermal growth factor receptor 2 gene detection by immunohistochemistry (procedure)
+    Status: completed
+
+  [07:11:56] OBSERVATION: HER2 [Presence] in Breast cancer specimen by Immune stain: Negative (qualifier value)
+
+  [07:11:56] OBSERVATION: ERBB2 gene duplication [Presence] in Breast cancer specimen by FISH: less than 1.8
+
+  [07:11:56] OBSERVATION: Estrogen receptor Ag [Presence] in Breast cancer specimen by Immune stain: Positive (qualifier value)
+
+  [07:11:56] OBSERVATION: Progesterone receptor Ag [Presence] in Breast cancer specimen by Immune stain: Positive (qualifier value)
+
+  [07:11:56] OBSERVATION: Estrogen+Progesterone receptor Ag [Presence] in Tissue by Immune stain: Positive (qualifier value)
+
+  [07:11:56] OBSERVATION: Stage group.clinical Cancer: American Joint Committee on Cancer stage IIIA (qualifier value)
+
+  [07:11:56] OBSERVATION: Stage group.clinical Cancer: Stage 3 (qualifier value)
+
+  [07:11:56] CLAIM: professional
+    Amount: USD 5181.32
+
+
+📅 1981-05-18
+
+  [16:11:56] VISIT: Discussion about treatment (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Carlton317 Koch169
+    Location: TEWKSBURY HOSPITAL
+    Duration: 16:11:56 - 17:08:27
+
+  [16:11:56] PROCEDURE: Discussion about options (procedure)
+    Status: completed
+
+  [16:11:56] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      1981-05-18
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Aja848 Aleen595 is a 25 year-old nonhispanic white female.
+      # Social History
+
+  [16:11:56] DOCUMENT: History and physical note
+    Status: superseded
+
+  [17:08:27] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 1981-05-21
+
+  [10:08:27] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Carlton317 Koch169
+    Location: TEWKSBURY HOSPITAL
+    Duration: 10:08:27 - 12:34:01
+
+  [10:08:27] PROCEDURE: Chemotherapy (procedure)
+    Status: completed
+
+  [10:08:27] MEDICATION PRESCRIBED: Unknown medication
+    Status: completed
+    Prescribed by: Dr. Carlton317 Koch169
+
+  [10:08:27] MEDICATION ADMINISTERED: Paclitaxel 100 MG Injection
+    Status: completed
+
+  [10:08:27] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      1981-05-21
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Aja848 Aleen595 is a 25 year-old nonhispanic white female.
+      # Social History
+
+  [10:08:27] DOCUMENT: History and physical note
+    Status: superseded
+
+  [12:34:01] CLAIM: pharmacy
+    Amount: USD 0.91
+
+  [12:34:01] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 1981-06-11
+
+  [12:34:01] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Carlton317 Koch169
+    Location: TEWKSBURY HOSPITAL
+    Duration: 12:34:01 - 15:56:34
+
+  [12:34:01] PROCEDURE: Chemotherapy (procedure)
+    Status: completed
+
+  [12:34:01] MEDICATION PRESCRIBED: Unknown medication
+    Status: completed
+    Prescribed by: Dr. Carlton317 Koch169
+
+  [12:34:01] MEDICATION ADMINISTERED: Paclitaxel 100 MG Injection
+    Status: completed
+
+  [12:34:01] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      1981-06-11
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Aja848 Aleen595 is a 25 year-old nonhispanic white female.
+      # Social History
+
+  [12:34:01] DOCUMENT: History and physical note
+    Status: superseded
+
+  [15:56:34] CLAIM: pharmacy
+    Amount: USD 2.76
+
+  [15:56:34] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 1981-07-02
+
+  [02:56:34] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Carlton317 Koch169
+    Location: TEWKSBURY HOSPITAL
+    Duration: 02:56:34 - 06:14:45
+
+  [02:56:34] PROCEDURE: Chemotherapy (procedure)
+    Status: completed
+
+  [02:56:34] MEDICATION PRESCRIBED: Unknown medication
+    Status: completed
+    Prescribed by: Dr. Carlton317 Koch169
+
+  [02:56:34] MEDICATION ADMINISTERED: Paclitaxel 100 MG Injection
+    Status: completed
+
+  [02:56:34] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      1981-07-02
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Aja848 Aleen595 is a 25 year-old nonhispanic white female.
+      # Social History
+
+  [02:56:34] DOCUMENT: History and physical note
+    Status: superseded
+
+  [06:14:45] CLAIM: pharmacy
+    Amount: USD 2.01
+
+  [06:14:45] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 1981-07-23
+
+  [14:14:45] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Carlton317 Koch169
+    Location: TEWKSBURY HOSPITAL
+    Duration: 14:14:45 - 17:57:54
+
+  [14:14:45] PROCEDURE: Chemotherapy (procedure)
+    Status: completed
+
+  [14:14:45] MEDICATION PRESCRIBED: Unknown medication
+    Status: completed
+    Prescribed by: Dr. Carlton317 Koch169
+
+  [14:14:45] MEDICATION ADMINISTERED: Paclitaxel 100 MG Injection
+    Status: completed
+
+  [14:14:45] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      1981-07-23
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Aja848 Aleen595 is a 25 year-old nonhispanic white female.
+      # Social History
+
+  [14:14:45] DOCUMENT: History and physical note
+    Status: superseded
+
+  [17:57:54] CLAIM: pharmacy
+    Amount: USD 2.09
+
+  [17:57:54] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 1981-08-15
+
+  [11:57:54] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Carlton317 Koch169
+    Location: TEWKSBURY HOSPITAL
+    Duration: 11:57:54 - 14:07:47
+
+  [11:57:54] PROCEDURE: Chemotherapy (procedure)
+    Status: completed
+
+  [11:57:54] MEDICATION PRESCRIBED: Unknown medication
+    Status: completed
+    Prescribed by: Dr. Carlton317 Koch169
+
+  [11:57:54] MEDICATION ADMINISTERED: Paclitaxel 100 MG Injection
+    Status: completed
+
+  [11:57:54] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      1981-08-15
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Aja848 Aleen595 is a 25 year-old nonhispanic white female.
+      # Social History
+
+  [11:57:54] DOCUMENT: History and physical note
+    Status: superseded
+
+  [14:07:47] CLAIM: pharmacy
+    Amount: USD 0.91
+
+  [14:07:47] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 1981-09-03
+
+  [19:07:47] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Carlton317 Koch169
+    Location: TEWKSBURY HOSPITAL
+    Duration: 19:07:47 - 22:07:06
+
+  [19:07:47] PROCEDURE: Chemotherapy (procedure)
+    Status: completed
+
+  [19:07:47] MEDICATION PRESCRIBED: Unknown medication
+    Status: completed
+    Prescribed by: Dr. Carlton317 Koch169
+
+  [19:07:47] MEDICATION ADMINISTERED: Paclitaxel 100 MG Injection
+    Status: completed
+
+  [19:07:47] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      1981-09-03
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Aja848 Aleen595 is a 25 year-old nonhispanic white female.
+      # Social History
+
+  [19:07:47] DOCUMENT: History and physical note
+    Status: superseded
+
+  [22:07:06] CLAIM: pharmacy
+    Amount: USD 0.91
+
+  [22:07:06] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 1981-09-26
+
+  [08:07:06] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Carlton317 Koch169
+    Location: TEWKSBURY HOSPITAL
+    Duration: 08:07:06 - 10:20:41
+
+  [08:07:06] PROCEDURE: Chemotherapy (procedure)
+    Status: completed
+
+  [08:07:06] MEDICATION PRESCRIBED: Unknown medication
+    Status: completed
+    Prescribed by: Dr. Carlton317 Koch169
+
+  [08:07:06] MEDICATION ADMINISTERED: Paclitaxel 100 MG Injection
+    Status: completed
+
+  [08:07:06] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      1981-09-26
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Aja848 Aleen595 is a 25 year-old nonhispanic white female.
+      # Social History
+
+  [08:07:06] DOCUMENT: History and physical note
+    Status: superseded
+
+  [10:20:41] CLAIM: pharmacy
+    Amount: USD 0.91
+
+  [10:20:41] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 1981-10-16
+
+  [21:20:41] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Carlton317 Koch169
+    Location: TEWKSBURY HOSPITAL
+    Duration: 21:20:41 - 23:57:45
+
+  [21:20:41] PROCEDURE: Chemotherapy (procedure)
+    Status: completed
+
+  [21:20:41] MEDICATION PRESCRIBED: Unknown medication
+    Status: completed
+    Prescribed by: Dr. Carlton317 Koch169
+
+  [21:20:41] MEDICATION ADMINISTERED: Paclitaxel 100 MG Injection
+    Status: completed
+
+  [21:20:41] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      1981-10-16
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Aja848 Aleen595 is a 25 year-old nonhispanic white female.
+      # Social History
+
+  [21:20:41] DOCUMENT: History and physical note
+    Status: superseded
+
+  [23:57:45] CLAIM: pharmacy
+    Amount: USD 1.10
+
+  [23:57:45] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 1981-10-31
+
+  [22:57:45] OBSERVATION: Response to cancer treatment: Improving (qualifier value)
+
+  [22:57:45] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Carlton317 Koch169
+    Location: TEWKSBURY HOSPITAL
+    Duration: 22:57:45 - 22:57:45
+
+  [22:57:45] PROCEDURE: Excision of axillary lymph node (procedure)
+    Status: completed
+
+  [22:57:45] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      1981-10-31
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Aja848 Aleen595 is a 25 year-old nonhispanic white female.
+      # Social History
+
+  [22:57:45] DOCUMENT: History and physical note
+    Status: superseded
+
+
+📅 1981-11-01
+
+  [01:06:51] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [22:57:45] CLAIM: institutional
+    Amount: USD 2518.87
+
+
+📅 1981-11-04
+
+  [15:28:10] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Carlton317 Koch169
+    Location: TEWKSBURY HOSPITAL
+    Duration: 15:28:10 - 15:43:10
+
+  [15:28:10] OBSERVATION: Treatment status Cancer: Treatment changed (situation)
+
+  [15:28:10] OBSERVATION: Response to cancer treatment: Worsening (qualifier value)
+
+  [15:28:10] MEDICATION PRESCRIBED: Unknown medication
+    Status: completed
+    Prescribed by: Dr. Carlton317 Koch169
+
+  [15:28:10] MEDICATION ADMINISTERED: Tamoxifen 10 MG Oral Tablet
+    Status: completed
+    Dosage: 1.0
+
+  [15:28:10] MEDICATION PRESCRIBED: Unknown medication
+    Status: completed
+    Prescribed by: Dr. Carlton317 Koch169
+
+  [15:28:10] MEDICATION ADMINISTERED: palbociclib 100 MG Oral Capsule
+    Status: completed
+
+  [15:28:10] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      1981-11-04
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Aja848 Aleen595 is a 25 year-old nonhispanic white female.
+      # Social History
+
+  [15:28:10] DOCUMENT: History and physical note
+    Status: superseded
+
+  [15:43:10] CLAIM: pharmacy
+    Amount: USD 353.40
+
+  [15:43:10] CLAIM: pharmacy
+    Amount: USD 315.62
+
+  [15:43:10] CLAIM: professional
+    Amount: USD 85.55
+
+
+📅 1982-03-03
+
+  [15:28:10] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Carlton317 Koch169
+    Location: TEWKSBURY HOSPITAL
+    Duration: 15:28:10 - 16:04:53
+
+  [15:28:10] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [15:28:10] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      1982-03-03
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Aja848 Aleen595 is a 26 year-old nonhispanic white female.
+      # Social History
+
+  [15:28:10] DOCUMENT: History and physical note
+    Status: superseded
+
+  [16:04:53] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 1982-06-15
+
+  [17:04:53] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Carlton317 Koch169
+    Location: TEWKSBURY HOSPITAL
+    Duration: 17:04:53 - 17:46:29
+
+  [17:04:53] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [17:04:53] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      1982-06-15
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Aja848 Aleen595 is a 26 year-old nonhispanic white female.
+      # Social History
+
+  [17:04:53] DOCUMENT: History and physical note
+    Status: superseded
+
+  [17:46:29] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 1982-10-04
+
+  [17:46:29] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Carlton317 Koch169
+    Location: TEWKSBURY HOSPITAL
+    Duration: 17:46:29 - 18:19:12
+
+  [17:46:29] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [17:46:29] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      1982-10-04
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Aja848 Aleen595 is a 26 year-old nonhispanic white female.
+      # Social History
+
+  [17:46:29] DOCUMENT: History and physical note
+    Status: superseded
+
+  [18:19:12] CLAIM: professional
+    Amount: USD 573.98
+
+  [18:19:12] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Carlton317 Koch169
+    Location: TEWKSBURY HOSPITAL
+    Duration: 18:19:12 - 18:42:59
+
+  [18:19:12] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [18:19:12] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      1982-10-04
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Aja848 Aleen595 is a 26 year-old nonhispanic white female.
+      # Social History
+
+  [18:19:12] DOCUMENT: History and physical note
+    Status: superseded
+
+  [18:42:59] CLAIM: professional
+    Amount: USD 211.60
+
+  [18:42:59] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Carlton317 Koch169
+    Location: TEWKSBURY HOSPITAL
+    Duration: 18:42:59 - 19:09:30
+
+  [18:42:59] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [18:42:59] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      1982-10-04
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Aja848 Aleen595 is a 26 year-old nonhispanic white female.
+      # Social History
+
+  [18:42:59] DOCUMENT: History and physical note
+    Status: superseded
+
+  [18:54:59] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [19:09:30] OBSERVATION: Response to cancer treatment: Worsening (qualifier value)
+
+  [19:09:30] CLAIM: professional
+    Amount: USD 1131.90
+
+
+📅 1983-02-03
+
+  [18:09:30] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Carlton317 Koch169
+    Location: TEWKSBURY HOSPITAL
+    Duration: 18:09:30 - 18:49:38
+
+  [18:09:30] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [18:09:30] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      1983-02-03
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Aja848 Aleen595 is a 26 year-old nonhispanic white female.
+      # Social History
+
+  [18:09:30] DOCUMENT: History and physical note
+    Status: superseded
+
+  [18:49:38] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 1983-05-27
+
+  [19:49:38] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Carlton317 Koch169
+    Location: TEWKSBURY HOSPITAL
+    Duration: 19:49:38 - 20:23:09
+
+  [19:49:38] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [19:49:38] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      1983-05-27
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Aja848 Aleen595 is a 27 year-old nonhispanic white female.
+      # Social History
+
+  [19:49:38] DOCUMENT: History and physical note
+    Status: superseded
+
+  [20:23:09] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 1983-09-09
+
+  [20:23:09] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Carlton317 Koch169
+    Location: TEWKSBURY HOSPITAL
+    Duration: 20:23:09 - 21:00:22
+
+  [20:23:09] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [20:23:09] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      1983-09-09
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Aja848 Aleen595 is a 27 year-old nonhispanic white female.
+      # Social History
+
+  [20:23:09] DOCUMENT: History and physical note
+    Status: superseded
+
+  [21:00:22] CLAIM: professional
+    Amount: USD 573.98
+
+  [21:00:22] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Carlton317 Koch169
+    Location: TEWKSBURY HOSPITAL
+    Duration: 21:00:22 - 21:19:52
+
+  [21:00:22] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [21:00:22] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      1983-09-09
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Aja848 Aleen595 is a 27 year-old nonhispanic white female.
+      # Social History
+
+  [21:00:22] DOCUMENT: History and physical note
+    Status: superseded
+
+  [21:19:52] CLAIM: professional
+    Amount: USD 264.04
+
+  [21:19:52] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Carlton317 Koch169
+    Location: TEWKSBURY HOSPITAL
+    Duration: 21:19:52 - 21:52:18
+
+  [21:19:52] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [21:19:52] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      1983-09-09
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Aja848 Aleen595 is a 27 year-old nonhispanic white female.
+      # Social History
+
+  [21:19:52] DOCUMENT: History and physical note
+    Status: superseded
+
+  [21:32:48] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [21:52:18] OBSERVATION: Response to cancer treatment: Worsening (qualifier value)
+
+  [21:52:18] CLAIM: professional
+    Amount: USD 1091.66
+
+
+📅 1983-12-21
+
+  [20:52:18] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Carlton317 Koch169
+    Location: TEWKSBURY HOSPITAL
+    Duration: 20:52:18 - 21:29:06
+
+  [20:52:18] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [20:52:18] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      1983-12-21
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Aja848 Aleen595 is a 27 year-old nonhispanic white female.
+      # Social History
+
+  [20:52:18] DOCUMENT: History and physical note
+    Status: superseded
+
+  [21:29:06] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 1984-04-05
+
+  [21:29:06] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Carlton317 Koch169
+    Location: TEWKSBURY HOSPITAL
+    Duration: 21:29:06 - 22:07:52
+
+  [21:29:06] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [21:29:06] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      1984-04-05
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Aja848 Aleen595 is a 28 year-old nonhispanic white female.
+      # Social History
+
+  [21:29:06] DOCUMENT: History and physical note
+    Status: superseded
+
+  [22:07:52] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 1984-05-11
+
+  [10:28:35] VISIT: General examination of patient (procedure)
+    Provider: Dr. Chris95 Haag279
+    Location: GREATER LOWELL FAMILY PRACTICE PC
+    Duration: 10:28:35 - 10:43:35
+
+  [10:28:35] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [10:28:35] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      1984-05-11
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Aja848 Aleen595 is a 28 year-old nonhispanic white female.
+      # Social History
+
+  [10:28:35] DOCUMENT: History and physical note
+    Status: superseded
+
+  [10:43:35] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 1984-08-03
+
+  [23:07:52] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Carlton317 Koch169
+    Location: TEWKSBURY HOSPITAL
+    Duration: 23:07:52 - 23:40:34
+
+  [23:07:52] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [23:07:52] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      1984-08-03
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Aja848 Aleen595 is a 28 year-old nonhispanic white female.
+      # Social History
+
+  [23:07:52] DOCUMENT: History and physical note
+    Status: superseded
+
+  [23:40:34] CLAIM: professional
+    Amount: USD 573.98
+
+  [23:40:34] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Carlton317 Koch169
+    Location: TEWKSBURY HOSPITAL
+    Duration: 23:40:34 - 00:01:03
+
+  [23:40:34] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [23:40:34] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      1984-08-03
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Aja848 Aleen595 is a 28 year-old nonhispanic white female.
+      # Social History
+
+  [23:40:34] DOCUMENT: History and physical note
+    Status: superseded
+
+
+📅 1984-08-04
+
+  [00:01:03] CLAIM: professional
+    Amount: USD 231.29
+
+  [00:01:03] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Carlton317 Koch169
+    Location: TEWKSBURY HOSPITAL
+    Duration: 00:01:03 - 00:22:01
+
+  [00:01:03] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [00:01:03] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      1984-08-04
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Aja848 Aleen595 is a 28 year-old nonhispanic white female.
+      # Social History
+
+  [00:01:03] DOCUMENT: History and physical note
+    Status: superseded
+
+  [00:11:16] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [00:22:01] OBSERVATION: Response to cancer treatment: Worsening (qualifier value)
+
+  [00:22:01] CLAIM: professional
+    Amount: USD 3680.06
+
+
+📅 1984-10-12
+
+  [10:28:35] VISIT: Death Certification
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Chris95 Haag279
+    Location: GREATER LOWELL FAMILY PRACTICE PC
+    Duration: 10:28:35 - 10:43:35
+
+  [10:28:35] OBSERVATION: Cause of Death [US Standard Certificate of Death]: Malignant neoplasm of breast (disorder)
+
+  [10:28:35] DIAGNOSTIC REPORT: U.S. standard certificate of death - 2003 revision
+
+  [10:28:35] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      1984-10-12
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Aja848 Aleen595 is a 28 year-old nonhispanic white female.
+      # Social History
+
+  [10:28:35] DOCUMENT: History and physical note
+    Status: current
+
+  [10:28:35] PROVENANCE: Record activity
+    Agents: Dr. Chris95 Haag279, Dr. Chris95 Haag279
+
+  [10:43:35] CLAIM: professional
+    Amount: USD 211.38
+
+================================================================================
+END OF TIMELINE (218 events)
+================================================================================

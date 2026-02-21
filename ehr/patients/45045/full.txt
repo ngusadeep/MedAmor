@@ -1,0 +1,295 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Mrs. Eloisa55 Barbara209 Gallardo890
+  Patient ID: 45045
+  Date of Birth: 1970-12-17
+  Gender: Female
+  Race: Asian
+  Ethnicity: Hispanic or Latino
+  Marital Status: Married
+  Address: 324 Emard Extension, Lowell, MA 01852
+  Phone: 555-207-7462
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2017-01-05
+
+  [07:11:58] VISIT: General examination of patient (procedure)
+    Provider: Dr. Chris95 Haag279
+    Location: GREATER LOWELL FAMILY PRACTICE PC
+    Duration: 07:11:58 - 07:26:58
+
+  [07:11:58] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [07:11:58] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-01-05
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Eloisa55 Barbara209 is a 46 year-old hispanic asian female.
+      # Social History
+
+  [07:11:58] DOCUMENT: History and physical note
+    Status: superseded
+
+  [07:26:58] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2019-01-10
+
+  [07:11:58] VISIT: General examination of patient (procedure)
+    Provider: Dr. Chris95 Haag279
+    Location: GREATER LOWELL FAMILY PRACTICE PC
+    Duration: 07:11:58 - 07:26:58
+
+  [07:11:58] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [07:11:58] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-01-10
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Eloisa55 Barbara209 is a 48 year-old hispanic asian female.
+      # Social History
+
+  [07:11:58] DOCUMENT: History and physical note
+    Status: superseded
+
+  [07:26:58] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2020-12-17
+
+  [07:11:58] VISIT: General examination of patient (procedure)
+    Provider: Dr. Chris95 Haag279
+    Location: GREATER LOWELL FAMILY PRACTICE PC
+    Duration: 07:11:58 - 07:26:58
+
+  [07:11:58] IMMUNIZATION: zoster vaccine, live
+    Status: completed
+
+  [07:11:58] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [07:11:58] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-12-17
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Eloisa55 Barbara209 is a 50 year-old hispanic asian female.
+      # Social History
+
+  [07:11:58] DOCUMENT: History and physical note
+    Status: superseded
+
+  [07:26:58] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2021-03-18
+
+  [08:11:58] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Carlton317 Koch169
+    Location: TEWKSBURY HOSPITAL
+    Duration: 08:11:58 - 08:26:58
+
+  [08:11:58] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 30 mcg/0.3 mL dose
+    Status: completed
+
+  [08:11:58] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-03-18
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Eloisa55 Barbara209 is a 50 year-old hispanic asian female.
+      # Social History
+
+  [08:11:58] DOCUMENT: History and physical note
+    Status: superseded
+
+  [08:26:58] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-04-08
+
+  [08:11:58] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Carlton317 Koch169
+    Location: TEWKSBURY HOSPITAL
+    Duration: 08:11:58 - 08:26:58
+
+  [08:11:58] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 30 mcg/0.3 mL dose
+    Status: completed
+
+  [08:11:58] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-04-08
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Eloisa55 Barbara209 is a 50 year-old hispanic asian female.
+      # Social History
+
+  [08:11:58] DOCUMENT: History and physical note
+    Status: superseded
+
+  [08:26:58] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-12-23
+
+  [07:11:58] VISIT: General examination of patient (procedure)
+    Provider: Dr. Chris95 Haag279
+    Location: GREATER LOWELL FAMILY PRACTICE PC
+    Duration: 07:11:58 - 07:26:58
+
+  [07:11:58] IMMUNIZATION: zoster vaccine, live
+    Status: completed
+
+  [07:11:58] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [07:11:58] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [07:11:58] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-12-23
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Eloisa55 Barbara209 is a 51 year-old hispanic asian female.
+      # Social History
+
+  [07:11:58] DOCUMENT: History and physical note
+    Status: superseded
+
+  [07:26:58] CLAIM: professional
+    Amount: USD 544.80
+
+
+📅 2022-12-29
+
+  [07:11:58] VISIT: General examination of patient (procedure)
+    Provider: Dr. Chris95 Haag279
+    Location: GREATER LOWELL FAMILY PRACTICE PC
+    Duration: 07:11:58 - 07:26:58
+
+  [07:11:58] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [07:11:58] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-12-29
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Eloisa55 Barbara209 is a 52 year-old hispanic asian female.
+      # Social History
+
+  [07:11:58] DOCUMENT: History and physical note
+    Status: superseded
+
+  [07:26:58] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2024-01-04
+
+  [07:11:58] VISIT: General examination of patient (procedure)
+    Provider: Dr. Chris95 Haag279
+    Location: GREATER LOWELL FAMILY PRACTICE PC
+    Duration: 07:11:58 - 07:26:58
+
+  [07:11:58] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [07:11:58] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-01-04
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Eloisa55 Barbara209 is a 53 year-old hispanic asian female.
+      # Social History
+
+  [07:11:58] DOCUMENT: History and physical note
+    Status: superseded
+
+  [07:26:58] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2025-01-09
+
+  [07:11:58] VISIT: General examination of patient (procedure)
+    Provider: Dr. Chris95 Haag279
+    Location: GREATER LOWELL FAMILY PRACTICE PC
+    Duration: 07:11:58 - 07:26:58
+
+  [07:11:58] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [07:11:58] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-01-09
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Eloisa55 Barbara209 is a 54 year-old hispanic asian female.
+      # Social History
+
+  [07:11:58] DOCUMENT: History and physical note
+    Status: superseded
+
+  [07:26:58] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2026-01-15
+
+  [07:11:58] VISIT: General examination of patient (procedure)
+    Provider: Dr. Chris95 Haag279
+    Location: GREATER LOWELL FAMILY PRACTICE PC
+    Duration: 07:11:58 - 07:26:58
+
+  [07:11:58] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [07:11:58] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2026-01-15
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Eloisa55 Barbara209 is a 55 year-old hispanic asian female.
+      # Social History
+
+  [07:11:58] DOCUMENT: History and physical note
+    Status: current
+
+  [07:26:58] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2026-02-12
+
+  [07:11:58] PROVENANCE: Record activity
+    Agents: Dr. Chris95 Haag279, Dr. Chris95 Haag279
+
+================================================================================
+END OF TIMELINE (54 events)
+================================================================================

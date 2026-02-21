@@ -1,0 +1,2184 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Mrs. Valentine262 Koss676
+  Patient ID: 151411
+  Date of Birth: 1958-07-26
+  Gender: Female
+  Race: Black or African American
+  Ethnicity: Not Hispanic or Latino
+  Marital Status: Married
+  Address: 1061 Koch Fort, Haverhill, MA 01830
+  Phone: 555-409-8737
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2016-09-10
+
+  [12:22:18] VISIT: General examination of patient (procedure)
+    Provider: Dr. Francene766 Halvorson124
+    Location: HAVERHILL FAMILY OFFICE LLC
+    Duration: 12:22:18 - 12:37:18
+
+  [12:22:18] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [12:22:18] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-09-10
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Valentine262 is a 58 year-old nonhispanic black female.
+      # Social History
+
+  [12:22:18] DOCUMENT: History and physical note
+    Status: superseded
+
+  [12:37:18] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2017-09-16
+
+  [12:22:18] VISIT: General examination of patient (procedure)
+    Provider: Dr. Francene766 Halvorson124
+    Location: HAVERHILL FAMILY OFFICE LLC
+    Duration: 12:22:18 - 12:37:18
+
+  [12:22:18] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [12:22:18] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-09-16
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Valentine262 is a 59 year-old nonhispanic black female.
+      # Social History
+
+  [12:22:18] DOCUMENT: History and physical note
+    Status: superseded
+
+  [12:37:18] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2018-09-22
+
+  [12:22:18] VISIT: General examination of patient (procedure)
+    Provider: Dr. Francene766 Halvorson124
+    Location: HAVERHILL FAMILY OFFICE LLC
+    Duration: 12:22:18 - 12:37:18
+
+  [12:22:18] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [12:22:18] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-09-22
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Valentine262 is a 60 year-old nonhispanic black female.
+      # Social History
+
+  [12:22:18] DOCUMENT: History and physical note
+    Status: superseded
+
+  [12:37:18] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2019-08-21
+
+  [12:22:18] VISIT: Periodic reevaluation and management of healthy individual (procedure)
+    Reason: Screening for malignant neoplasm of breast (procedure)
+    Provider: Dr. Leo278 Pacocha935
+    Location: WP ACQUISITION SUB LLC
+    Duration: 12:22:18 - 21:11:20
+
+  [12:22:18] PROCEDURE: Screening mammography (procedure)
+    Status: completed
+
+  [12:22:18] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-08-21
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Valentine262 is a 61 year-old nonhispanic black female.
+      # Social History
+
+  [12:22:18] DOCUMENT: History and physical note
+    Status: superseded
+
+  [12:37:27] PROCEDURE: Ultrasonography of bilateral breasts (procedure)
+    Status: completed
+
+  [13:01:11] PROCEDURE: Biopsy of breast (procedure)
+    Status: completed
+
+  [13:54:20] CONDITION: Malignant neoplasm of breast (disorder) (active)
+
+  [13:54:20] OBSERVATION: Site of distant metastasis in Breast tumor: None (qualifier value)
+
+  [13:54:20] OBSERVATION: Distant metastases.clinical [Class] Cancer: American Joint Committee on Cancer cM0 (qualifier value)
+
+  [13:54:20] OBSERVATION: Size.maximum dimension in Tumor: 1.3492 cm
+
+  [13:54:20] OBSERVATION: Primary tumor.clinical [Class] Cancer: American Joint Committee on Cancer cT1 (qualifier value)
+
+  [13:54:20] OBSERVATION: Lymph nodes with micrometastases [#] in Cancer specimen by Light microscopy: 1.2534 {#}
+
+  [13:54:20] OBSERVATION: Regional lymph nodes.clinical [Class] Cancer: American Joint Committee on Cancer cN1 (qualifier value)
+
+  [13:54:20] PROCEDURE: Human epidermal growth factor receptor 2 gene detection by fluorescence in situ hybridization (procedure)
+    Status: completed
+
+
+📅 2019-08-22
+
+  [17:54:20] PROCEDURE: Human epidermal growth factor receptor 2 gene detection by immunohistochemistry (procedure)
+    Status: completed
+
+  [21:11:20] OBSERVATION: HER2 [Presence] in Breast cancer specimen by Immune stain: Negative (qualifier value)
+
+  [21:11:20] OBSERVATION: ERBB2 gene duplication [Presence] in Breast cancer specimen by FISH: less than 1.8
+
+  [21:11:20] OBSERVATION: Estrogen receptor Ag [Presence] in Breast cancer specimen by Immune stain: Positive (qualifier value)
+
+  [21:11:20] OBSERVATION: Progesterone receptor Ag [Presence] in Breast cancer specimen by Immune stain: Positive (qualifier value)
+
+  [21:11:20] OBSERVATION: Estrogen+Progesterone receptor Ag [Presence] in Tissue by Immune stain: Positive (qualifier value)
+
+  [21:11:20] OBSERVATION: Stage group.clinical Cancer: American Joint Committee on Cancer stage IIA (qualifier value)
+
+  [21:11:20] OBSERVATION: Stage group.clinical Cancer: Stage 2 (qualifier value)
+
+  [21:11:20] CLAIM: professional
+    Amount: USD 5903.36
+
+
+📅 2019-08-24
+
+  [17:11:20] VISIT: Discussion about treatment (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Leo278 Pacocha935
+    Location: WP ACQUISITION SUB LLC
+    Duration: 17:11:20 - 18:04:29
+
+  [17:11:20] PROCEDURE: Discussion about options (procedure)
+    Status: completed
+
+  [17:11:20] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-08-24
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Valentine262 is a 61 year-old nonhispanic black female.
+      # Social History
+
+  [17:11:20] DOCUMENT: History and physical note
+    Status: superseded
+
+  [18:04:29] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2019-08-28
+
+  [14:04:29] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Leo278 Pacocha935
+    Location: WP ACQUISITION SUB LLC
+    Duration: 14:04:29 - 17:34:21
+
+  [14:04:29] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-08-28
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Valentine262 is a 61 year-old nonhispanic black female.
+      # Social History
+
+  [14:04:29] DOCUMENT: History and physical note
+    Status: superseded
+
+  [15:00:29] PROCEDURE: Excision of axillary lymph node (procedure)
+    Status: completed
+
+  [17:08:10] PROCEDURE: Lumpectomy of breast (procedure)
+    Status: completed
+
+
+📅 2019-09-04
+
+  [17:34:21] CLAIM: institutional
+    Amount: USD 34181.16
+
+
+📅 2019-09-13
+
+  [13:34:21] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Leo278 Pacocha935
+    Location: WP ACQUISITION SUB LLC
+    Duration: 13:34:21 - 13:51:27
+
+  [13:34:21] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [13:34:21] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-09-13
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Valentine262 is a 61 year-old nonhispanic black female.
+      # Social History
+
+  [13:34:21] DOCUMENT: History and physical note
+    Status: superseded
+
+  [13:51:27] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2019-09-15
+
+  [00:06:27] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Leo278 Pacocha935
+    Location: WP ACQUISITION SUB LLC
+    Duration: 00:06:27 - 00:46:24
+
+  [00:06:27] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [00:06:27] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-09-15
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Valentine262 is a 61 year-old nonhispanic black female.
+      # Social History
+
+  [00:06:27] DOCUMENT: History and physical note
+    Status: superseded
+
+  [00:46:24] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2019-09-16
+
+  [09:05:24] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Leo278 Pacocha935
+    Location: WP ACQUISITION SUB LLC
+    Duration: 09:05:24 - 09:34:04
+
+  [09:05:24] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [09:05:24] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-09-16
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Valentine262 is a 61 year-old nonhispanic black female.
+      # Social History
+
+  [09:05:24] DOCUMENT: History and physical note
+    Status: superseded
+
+  [09:34:04] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2019-09-17
+
+  [16:15:04] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Leo278 Pacocha935
+    Location: WP ACQUISITION SUB LLC
+    Duration: 16:15:04 - 16:45:33
+
+  [16:15:04] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [16:15:04] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-09-17
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Valentine262 is a 61 year-old nonhispanic black female.
+      # Social History
+
+  [16:15:04] DOCUMENT: History and physical note
+    Status: superseded
+
+  [16:45:33] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2019-09-18
+
+  [17:35:33] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Leo278 Pacocha935
+    Location: WP ACQUISITION SUB LLC
+    Duration: 17:35:33 - 17:57:36
+
+  [17:35:33] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [17:35:33] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-09-18
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Valentine262 is a 61 year-old nonhispanic black female.
+      # Social History
+
+  [17:35:33] DOCUMENT: History and physical note
+    Status: superseded
+
+  [17:57:36] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2019-09-19
+
+  [18:05:36] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Leo278 Pacocha935
+    Location: WP ACQUISITION SUB LLC
+    Duration: 18:05:36 - 18:28:37
+
+  [18:05:36] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [18:05:36] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-09-19
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Valentine262 is a 61 year-old nonhispanic black female.
+      # Social History
+
+  [18:05:36] DOCUMENT: History and physical note
+    Status: superseded
+
+  [18:28:37] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2019-09-20
+
+  [23:58:37] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Leo278 Pacocha935
+    Location: WP ACQUISITION SUB LLC
+    Duration: 23:58:37 - 00:23:15
+
+  [23:58:37] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [23:58:37] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-09-20
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Valentine262 is a 61 year-old nonhispanic black female.
+      # Social History
+
+  [23:58:37] DOCUMENT: History and physical note
+    Status: superseded
+
+
+📅 2019-09-21
+
+  [00:23:15] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2019-09-28
+
+  [12:22:18] VISIT: General examination of patient (procedure)
+    Provider: Dr. Francene766 Halvorson124
+    Location: HAVERHILL FAMILY OFFICE LLC
+    Duration: 12:22:18 - 12:37:18
+
+  [12:22:18] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [12:22:18] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [12:22:18] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-09-28
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Valentine262 is a 61 year-old nonhispanic black female.
+      # Social History
+
+  [12:22:18] DOCUMENT: History and physical note
+    Status: superseded
+
+  [12:37:18] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2019-10-05
+
+  [12:22:18] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Leo278 Pacocha935
+    Location: WP ACQUISITION SUB LLC
+    Duration: 12:22:18 - 12:52:18
+
+  [12:22:18] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [12:22:18] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-10-05
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Valentine262 is a 61 year-old nonhispanic black female.
+      # Social History
+
+  [12:22:18] DOCUMENT: History and physical note
+    Status: superseded
+
+  [12:52:18] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2019-10-06
+
+  [19:57:18] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Leo278 Pacocha935
+    Location: WP ACQUISITION SUB LLC
+    Duration: 19:57:18 - 20:28:47
+
+  [19:57:18] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [19:57:18] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-10-06
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Valentine262 is a 61 year-old nonhispanic black female.
+      # Social History
+
+  [19:57:18] DOCUMENT: History and physical note
+    Status: superseded
+
+  [20:28:47] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2019-10-07
+
+  [20:45:47] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Leo278 Pacocha935
+    Location: WP ACQUISITION SUB LLC
+    Duration: 20:45:47 - 21:16:30
+
+  [20:45:47] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [20:45:47] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-10-07
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Valentine262 is a 61 year-old nonhispanic black female.
+      # Social History
+
+  [20:45:47] DOCUMENT: History and physical note
+    Status: superseded
+
+  [21:16:30] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2019-10-09
+
+  [08:42:30] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Leo278 Pacocha935
+    Location: WP ACQUISITION SUB LLC
+    Duration: 08:42:30 - 09:16:50
+
+  [08:42:30] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [08:42:30] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-10-09
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Valentine262 is a 61 year-old nonhispanic black female.
+      # Social History
+
+  [08:42:30] DOCUMENT: History and physical note
+    Status: superseded
+
+  [09:16:50] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2019-10-10
+
+  [09:16:50] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Leo278 Pacocha935
+    Location: WP ACQUISITION SUB LLC
+    Duration: 09:16:50 - 09:50:33
+
+  [09:16:50] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [09:16:50] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-10-10
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Valentine262 is a 61 year-old nonhispanic black female.
+      # Social History
+
+  [09:16:50] DOCUMENT: History and physical note
+    Status: superseded
+
+  [09:50:33] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2019-10-11
+
+  [10:01:33] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Leo278 Pacocha935
+    Location: WP ACQUISITION SUB LLC
+    Duration: 10:01:33 - 10:27:12
+
+  [10:01:33] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [10:01:33] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-10-11
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Valentine262 is a 61 year-old nonhispanic black female.
+      # Social History
+
+  [10:01:33] DOCUMENT: History and physical note
+    Status: superseded
+
+  [10:27:12] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2019-10-12
+
+  [14:45:12] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Leo278 Pacocha935
+    Location: WP ACQUISITION SUB LLC
+    Duration: 14:45:12 - 15:22:11
+
+  [14:45:12] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [14:45:12] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-10-12
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Valentine262 is a 61 year-old nonhispanic black female.
+      # Social History
+
+  [14:45:12] DOCUMENT: History and physical note
+    Status: superseded
+
+  [15:22:11] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2019-10-13
+
+  [20:09:11] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Leo278 Pacocha935
+    Location: WP ACQUISITION SUB LLC
+    Duration: 20:09:11 - 20:35:31
+
+  [20:09:11] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [20:09:11] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-10-13
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Valentine262 is a 61 year-old nonhispanic black female.
+      # Social History
+
+  [20:09:11] DOCUMENT: History and physical note
+    Status: superseded
+
+  [20:35:31] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2019-10-14
+
+  [23:40:31] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Leo278 Pacocha935
+    Location: WP ACQUISITION SUB LLC
+    Duration: 23:40:31 - 00:02:19
+
+  [23:40:31] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [23:40:31] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-10-14
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Valentine262 is a 61 year-old nonhispanic black female.
+      # Social History
+
+  [23:40:31] DOCUMENT: History and physical note
+    Status: superseded
+
+
+📅 2019-10-15
+
+  [00:02:19] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2019-10-16
+
+  [01:00:19] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Leo278 Pacocha935
+    Location: WP ACQUISITION SUB LLC
+    Duration: 01:00:19 - 01:33:34
+
+  [01:00:19] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [01:00:19] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-10-16
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Valentine262 is a 61 year-old nonhispanic black female.
+      # Social History
+
+  [01:00:19] DOCUMENT: History and physical note
+    Status: superseded
+
+  [01:33:34] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2019-10-17
+
+  [08:40:34] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Leo278 Pacocha935
+    Location: WP ACQUISITION SUB LLC
+    Duration: 08:40:34 - 09:09:25
+
+  [08:40:34] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [08:40:34] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-10-17
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Valentine262 is a 61 year-old nonhispanic black female.
+      # Social History
+
+  [08:40:34] DOCUMENT: History and physical note
+    Status: superseded
+
+  [09:09:25] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2019-10-18
+
+  [10:42:25] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Leo278 Pacocha935
+    Location: WP ACQUISITION SUB LLC
+    Duration: 10:42:25 - 11:02:45
+
+  [10:42:25] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [10:42:25] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-10-18
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Valentine262 is a 61 year-old nonhispanic black female.
+      # Social History
+
+  [10:42:25] DOCUMENT: History and physical note
+    Status: superseded
+
+  [11:02:45] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2019-10-19
+
+  [15:51:45] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Leo278 Pacocha935
+    Location: WP ACQUISITION SUB LLC
+    Duration: 15:51:45 - 16:28:21
+
+  [15:51:45] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [15:51:45] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-10-19
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Valentine262 is a 61 year-old nonhispanic black female.
+      # Social History
+
+  [15:51:45] DOCUMENT: History and physical note
+    Status: superseded
+
+  [16:28:21] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2019-10-20
+
+  [23:35:21] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Leo278 Pacocha935
+    Location: WP ACQUISITION SUB LLC
+    Duration: 23:35:21 - 00:09:50
+
+  [23:35:21] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [23:35:21] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-10-20
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Valentine262 is a 61 year-old nonhispanic black female.
+      # Social History
+
+  [23:35:21] DOCUMENT: History and physical note
+    Status: superseded
+
+
+📅 2019-10-21
+
+  [00:09:50] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2019-10-22
+
+  [11:02:50] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Leo278 Pacocha935
+    Location: WP ACQUISITION SUB LLC
+    Duration: 11:02:50 - 11:24:52
+
+  [11:02:50] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [11:02:50] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-10-22
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Valentine262 is a 61 year-old nonhispanic black female.
+      # Social History
+
+  [11:02:50] DOCUMENT: History and physical note
+    Status: superseded
+
+  [11:24:52] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2019-10-23
+
+  [20:35:52] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Leo278 Pacocha935
+    Location: WP ACQUISITION SUB LLC
+    Duration: 20:35:52 - 20:59:03
+
+  [20:35:52] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [20:35:52] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-10-23
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Valentine262 is a 61 year-old nonhispanic black female.
+      # Social History
+
+  [20:35:52] DOCUMENT: History and physical note
+    Status: superseded
+
+  [20:59:03] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2019-10-25
+
+  [00:41:03] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Leo278 Pacocha935
+    Location: WP ACQUISITION SUB LLC
+    Duration: 00:41:03 - 01:03:02
+
+  [00:41:03] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [00:41:03] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-10-25
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Valentine262 is a 61 year-old nonhispanic black female.
+      # Social History
+
+  [00:41:03] DOCUMENT: History and physical note
+    Status: superseded
+
+  [01:03:02] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2019-10-26
+
+  [09:14:02] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Leo278 Pacocha935
+    Location: WP ACQUISITION SUB LLC
+    Duration: 09:14:02 - 09:50:47
+
+  [09:14:02] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [09:14:02] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-10-26
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Valentine262 is a 61 year-old nonhispanic black female.
+      # Social History
+
+  [09:14:02] DOCUMENT: History and physical note
+    Status: superseded
+
+  [09:50:47] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2019-10-27
+
+  [12:58:47] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Leo278 Pacocha935
+    Location: WP ACQUISITION SUB LLC
+    Duration: 12:58:47 - 13:36:03
+
+  [12:58:47] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [12:58:47] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-10-27
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Valentine262 is a 61 year-old nonhispanic black female.
+      # Social History
+
+  [12:58:47] DOCUMENT: History and physical note
+    Status: superseded
+
+  [13:36:03] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2019-10-29
+
+  [00:45:03] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Leo278 Pacocha935
+    Location: WP ACQUISITION SUB LLC
+    Duration: 00:45:03 - 01:16:03
+
+  [00:45:03] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [00:45:03] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-10-29
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Valentine262 is a 61 year-old nonhispanic black female.
+      # Social History
+
+  [00:45:03] DOCUMENT: History and physical note
+    Status: superseded
+
+  [01:16:03] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2019-10-30
+
+  [07:30:03] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Leo278 Pacocha935
+    Location: WP ACQUISITION SUB LLC
+    Duration: 07:30:03 - 07:57:57
+
+  [07:30:03] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [07:30:03] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-10-30
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Valentine262 is a 61 year-old nonhispanic black female.
+      # Social History
+
+  [07:30:03] DOCUMENT: History and physical note
+    Status: superseded
+
+  [07:57:57] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2019-10-31
+
+  [16:57:57] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Leo278 Pacocha935
+    Location: WP ACQUISITION SUB LLC
+    Duration: 16:57:57 - 17:18:45
+
+  [16:57:57] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [16:57:57] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-10-31
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Valentine262 is a 61 year-old nonhispanic black female.
+      # Social History
+
+  [16:57:57] DOCUMENT: History and physical note
+    Status: superseded
+
+  [17:18:45] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2019-11-02
+
+  [04:58:45] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Leo278 Pacocha935
+    Location: WP ACQUISITION SUB LLC
+    Duration: 04:58:45 - 05:16:09
+
+  [04:58:45] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [04:58:45] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-11-02
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Valentine262 is a 61 year-old nonhispanic black female.
+      # Social History
+
+  [04:58:45] DOCUMENT: History and physical note
+    Status: superseded
+
+  [05:16:09] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2019-11-03
+
+  [14:01:09] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Leo278 Pacocha935
+    Location: WP ACQUISITION SUB LLC
+    Duration: 14:01:09 - 14:37:50
+
+  [14:01:09] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [14:01:09] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-11-03
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Valentine262 is a 61 year-old nonhispanic black female.
+      # Social History
+
+  [14:01:09] DOCUMENT: History and physical note
+    Status: superseded
+
+  [14:37:50] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2019-11-04
+
+  [22:42:50] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Leo278 Pacocha935
+    Location: WP ACQUISITION SUB LLC
+    Duration: 22:42:50 - 23:00:22
+
+  [22:42:50] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [22:42:50] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-11-04
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Valentine262 is a 61 year-old nonhispanic black female.
+      # Social History
+
+  [22:42:50] DOCUMENT: History and physical note
+    Status: superseded
+
+  [23:00:22] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2019-11-06
+
+  [06:33:22] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Leo278 Pacocha935
+    Location: WP ACQUISITION SUB LLC
+    Duration: 06:33:22 - 07:11:15
+
+  [06:33:22] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [06:33:22] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-11-06
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Valentine262 is a 61 year-old nonhispanic black female.
+      # Social History
+
+  [06:33:22] DOCUMENT: History and physical note
+    Status: superseded
+
+  [07:11:15] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2019-11-07
+
+  [11:44:15] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Leo278 Pacocha935
+    Location: WP ACQUISITION SUB LLC
+    Duration: 11:44:15 - 12:03:13
+
+  [11:44:15] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [11:44:15] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-11-07
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Valentine262 is a 61 year-old nonhispanic black female.
+      # Social History
+
+  [11:44:15] DOCUMENT: History and physical note
+    Status: superseded
+
+  [12:03:13] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2019-11-09
+
+  [13:03:13] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Leo278 Pacocha935
+    Location: WP ACQUISITION SUB LLC
+    Duration: 13:03:13 - 13:18:13
+
+  [13:03:13] OBSERVATION: Treatment status Cancer: Treatment changed (situation)
+
+  [13:03:13] OBSERVATION: Response to cancer treatment: Improving (qualifier value)
+
+  [13:03:13] MEDICATION PRESCRIBED: Unknown medication
+    Status: completed
+    Prescribed by: Dr. Leo278 Pacocha935
+
+  [13:03:13] MEDICATION ADMINISTERED: exemestane 25 MG Oral Tablet
+    Status: completed
+    Dosage: 1.0
+
+  [13:03:13] MEDICATION PRESCRIBED: Unknown medication
+    Status: completed
+    Prescribed by: Dr. Leo278 Pacocha935
+
+  [13:03:13] MEDICATION ADMINISTERED: abemaciclib 100 MG Oral Tablet [Verzenio]
+    Status: completed
+
+  [13:03:13] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-11-09
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Valentine262 is a 61 year-old nonhispanic black female.
+      # Social History
+
+  [13:03:13] DOCUMENT: History and physical note
+    Status: superseded
+
+  [13:18:13] CLAIM: pharmacy
+    Amount: USD 9062.71
+
+  [13:18:13] CLAIM: pharmacy
+    Amount: USD 117.93
+
+  [13:18:13] CLAIM: professional
+    Amount: USD 85.55
+
+
+📅 2020-02-28
+
+  [13:03:13] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Leo278 Pacocha935
+    Location: WP ACQUISITION SUB LLC
+    Duration: 13:03:13 - 13:46:06
+
+  [13:03:13] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [13:03:13] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-02-28
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Valentine262 is a 61 year-old nonhispanic black female.
+      # Social History
+
+  [13:03:13] DOCUMENT: History and physical note
+    Status: superseded
+
+  [13:46:06] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2020-06-27
+
+  [14:46:06] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Leo278 Pacocha935
+    Location: WP ACQUISITION SUB LLC
+    Duration: 14:46:06 - 15:25:31
+
+  [14:46:06] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [14:46:06] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-06-27
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Valentine262 is a 61 year-old nonhispanic black female.
+      # Social History
+
+  [14:46:06] DOCUMENT: History and physical note
+    Status: superseded
+
+  [15:25:31] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2020-10-03
+
+  [12:22:18] VISIT: General examination of patient (procedure)
+    Provider: Dr. Francene766 Halvorson124
+    Location: HAVERHILL FAMILY OFFICE LLC
+    Duration: 12:22:18 - 12:37:18
+
+  [12:22:18] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [12:22:18] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-10-03
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Valentine262 is a 62 year-old nonhispanic black female.
+      # Social History
+
+  [12:22:18] DOCUMENT: History and physical note
+    Status: superseded
+
+  [12:37:18] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2020-10-09
+
+  [15:25:31] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Leo278 Pacocha935
+    Location: WP ACQUISITION SUB LLC
+    Duration: 15:25:31 - 16:00:35
+
+  [15:25:31] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [15:25:31] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-10-09
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Valentine262 is a 62 year-old nonhispanic black female.
+      # Social History
+
+  [15:25:31] DOCUMENT: History and physical note
+    Status: superseded
+
+  [16:00:35] CLAIM: professional
+    Amount: USD 573.98
+
+  [16:00:35] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Leo278 Pacocha935
+    Location: WP ACQUISITION SUB LLC
+    Duration: 16:00:35 - 16:18:19
+
+  [16:00:35] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [16:00:35] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-10-09
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Valentine262 is a 62 year-old nonhispanic black female.
+      # Social History
+
+  [16:00:35] DOCUMENT: History and physical note
+    Status: superseded
+
+  [16:18:19] CLAIM: professional
+    Amount: USD 325.49
+
+  [16:18:19] VISIT: Follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Leo278 Pacocha935
+    Location: WP ACQUISITION SUB LLC
+    Duration: 16:18:19 - 16:44:58
+
+  [16:18:19] PROCEDURE: Bone density scan (procedure)
+    Status: completed
+
+  [16:18:19] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-10-09
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Valentine262 is a 62 year-old nonhispanic black female.
+      # Social History
+
+  [16:18:19] DOCUMENT: History and physical note
+    Status: superseded
+
+  [16:44:58] OBSERVATION: Response to cancer treatment: Improving (qualifier value)
+
+  [16:44:58] CLAIM: professional
+    Amount: USD 4181.24
+
+
+📅 2021-01-31
+
+  [15:44:58] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Leo278 Pacocha935
+    Location: WP ACQUISITION SUB LLC
+    Duration: 15:44:58 - 16:26:38
+
+  [15:44:58] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [15:44:58] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-01-31
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Valentine262 is a 62 year-old nonhispanic black female.
+      # Social History
+
+  [15:44:58] DOCUMENT: History and physical note
+    Status: superseded
+
+  [16:26:38] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2021-05-28
+
+  [17:26:38] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Leo278 Pacocha935
+    Location: WP ACQUISITION SUB LLC
+    Duration: 17:26:38 - 18:05:47
+
+  [17:26:38] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [17:26:38] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-05-28
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Valentine262 is a 62 year-old nonhispanic black female.
+      # Social History
+
+  [17:26:38] DOCUMENT: History and physical note
+    Status: superseded
+
+  [18:05:47] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2021-07-24
+
+  [12:22:18] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Leo278 Pacocha935
+    Location: WP ACQUISITION SUB LLC
+    Duration: 12:22:18 - 12:37:18
+
+  [12:22:18] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+    Status: completed
+
+  [12:22:18] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-07-24
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Valentine262 is a 62 year-old nonhispanic black female.
+      # Social History
+
+  [12:22:18] DOCUMENT: History and physical note
+    Status: superseded
+
+  [12:37:18] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-08-21
+
+  [12:22:18] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Leo278 Pacocha935
+    Location: WP ACQUISITION SUB LLC
+    Duration: 12:22:18 - 12:37:18
+
+  [12:22:18] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+    Status: completed
+
+  [12:22:18] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-08-21
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Valentine262 is a 63 year-old nonhispanic black female.
+      # Social History
+
+  [12:22:18] DOCUMENT: History and physical note
+    Status: superseded
+
+  [12:37:18] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-09-24
+
+  [18:05:47] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Leo278 Pacocha935
+    Location: Patient's Home
+    Duration: 18:05:47 - 18:40:56
+
+  [18:05:47] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [18:05:47] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-09-24
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Valentine262 is a 63 year-old nonhispanic black female.
+      # Social History
+
+  [18:05:47] DOCUMENT: History and physical note
+    Status: superseded
+
+  [18:40:56] CLAIM: institutional
+    Amount: USD 556.40
+
+  [18:40:56] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Leo278 Pacocha935
+    Location: WP ACQUISITION SUB LLC
+    Duration: 18:40:56 - 18:58:15
+
+  [18:40:56] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [18:40:56] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-09-24
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Valentine262 is a 63 year-old nonhispanic black female.
+      # Social History
+
+  [18:40:56] DOCUMENT: History and physical note
+    Status: superseded
+
+  [18:58:15] CLAIM: professional
+    Amount: USD 325.49
+
+  [18:58:15] VISIT: Follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Leo278 Pacocha935
+    Location: WP ACQUISITION SUB LLC
+    Duration: 18:58:15 - 19:21:50
+
+  [18:58:15] PROCEDURE: Bone density scan (procedure)
+    Status: completed
+
+  [18:58:15] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-09-24
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Valentine262 is a 63 year-old nonhispanic black female.
+      # Social History
+
+  [18:58:15] DOCUMENT: History and physical note
+    Status: superseded
+
+  [19:21:50] OBSERVATION: Response to cancer treatment: Improving (qualifier value)
+
+  [19:21:50] CLAIM: professional
+    Amount: USD 10296.58
+
+
+📅 2021-10-09
+
+  [12:22:18] VISIT: General examination of patient (procedure)
+    Provider: Dr. Francene766 Halvorson124
+    Location: HAVERHILL FAMILY OFFICE LLC
+    Duration: 12:22:18 - 12:37:18
+
+  [12:22:18] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [12:22:18] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-10-09
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Valentine262 is a 63 year-old nonhispanic black female.
+      # Social History
+
+  [12:22:18] DOCUMENT: History and physical note
+    Status: superseded
+
+  [12:37:18] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2022-01-11
+
+  [18:21:50] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Leo278 Pacocha935
+    Location: WP ACQUISITION SUB LLC
+    Duration: 18:21:50 - 18:53:54
+
+  [18:21:50] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [18:21:50] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-01-11
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Valentine262 is a 63 year-old nonhispanic black female.
+      # Social History
+
+  [18:21:50] DOCUMENT: History and physical note
+    Status: superseded
+
+  [18:53:54] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2022-04-20
+
+  [19:53:54] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Leo278 Pacocha935
+    Location: WP ACQUISITION SUB LLC
+    Duration: 19:53:54 - 20:23:56
+
+  [19:53:54] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [19:53:54] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-04-20
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Valentine262 is a 63 year-old nonhispanic black female.
+      # Social History
+
+  [19:53:54] DOCUMENT: History and physical note
+    Status: superseded
+
+  [20:23:56] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2022-08-11
+
+  [20:23:56] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Leo278 Pacocha935
+    Location: WP ACQUISITION SUB LLC
+    Duration: 20:23:56 - 21:06:05
+
+  [20:23:56] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [20:23:56] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-08-11
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Valentine262 is a 64 year-old nonhispanic black female.
+      # Social History
+
+  [20:23:56] DOCUMENT: History and physical note
+    Status: superseded
+
+  [21:06:05] CLAIM: professional
+    Amount: USD 573.98
+
+  [21:06:05] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Leo278 Pacocha935
+    Location: WP ACQUISITION SUB LLC
+    Duration: 21:06:05 - 21:28:58
+
+  [21:06:05] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [21:06:05] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-08-11
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Valentine262 is a 64 year-old nonhispanic black female.
+      # Social History
+
+  [21:06:05] DOCUMENT: History and physical note
+    Status: superseded
+
+  [21:28:58] CLAIM: professional
+    Amount: USD 211.60
+
+  [21:28:58] VISIT: Follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Leo278 Pacocha935
+    Location: WP ACQUISITION SUB LLC
+    Duration: 21:28:58 - 21:45:54
+
+  [21:28:58] PROCEDURE: Bone density scan (procedure)
+    Status: completed
+
+  [21:28:58] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-08-11
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Valentine262 is a 64 year-old nonhispanic black female.
+      # Social History
+
+  [21:28:58] DOCUMENT: History and physical note
+    Status: superseded
+
+  [21:45:54] OBSERVATION: Response to cancer treatment: Improving (qualifier value)
+
+  [21:45:54] CLAIM: professional
+    Amount: USD 4181.24
+
+
+📅 2022-10-15
+
+  [12:22:18] VISIT: General examination of patient (procedure)
+    Provider: Dr. Francene766 Halvorson124
+    Location: HAVERHILL FAMILY OFFICE LLC
+    Duration: 12:22:18 - 12:37:18
+
+  [12:22:18] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [12:22:18] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-10-15
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Valentine262 is a 64 year-old nonhispanic black female.
+      # Social History
+
+  [12:22:18] DOCUMENT: History and physical note
+    Status: superseded
+
+  [12:37:18] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2022-12-11
+
+  [20:45:54] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Leo278 Pacocha935
+    Location: WP ACQUISITION SUB LLC
+    Duration: 20:45:54 - 21:28:33
+
+  [20:45:54] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [20:45:54] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-12-11
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Valentine262 is a 64 year-old nonhispanic black female.
+      # Social History
+
+  [20:45:54] DOCUMENT: History and physical note
+    Status: superseded
+
+  [21:28:33] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2023-03-21
+
+  [22:28:33] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Leo278 Pacocha935
+    Location: WP ACQUISITION SUB LLC
+    Duration: 22:28:33 - 23:11:42
+
+  [22:28:33] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [22:28:33] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-03-21
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Valentine262 is a 64 year-old nonhispanic black female.
+      # Social History
+
+  [22:28:33] DOCUMENT: History and physical note
+    Status: superseded
+
+  [23:11:42] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2023-07-13
+
+  [23:11:42] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Leo278 Pacocha935
+    Location: WP ACQUISITION SUB LLC
+    Duration: 23:11:42 - 23:46:49
+
+  [23:11:42] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [23:11:42] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-07-13
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Valentine262 is a 64 year-old nonhispanic black female.
+      # Social History
+
+  [23:11:42] DOCUMENT: History and physical note
+    Status: superseded
+
+  [23:46:49] CLAIM: professional
+    Amount: USD 573.98
+
+  [23:46:49] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Leo278 Pacocha935
+    Location: WP ACQUISITION SUB LLC
+    Duration: 23:46:49 - 00:08:22
+
+  [23:46:49] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [23:46:49] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-07-13
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Valentine262 is a 64 year-old nonhispanic black female.
+      # Social History
+
+  [23:46:49] DOCUMENT: History and physical note
+    Status: superseded
+
+
+📅 2023-07-14
+
+  [00:08:22] CLAIM: professional
+    Amount: USD 211.60
+
+  [00:08:22] VISIT: Follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Leo278 Pacocha935
+    Location: WP ACQUISITION SUB LLC
+    Duration: 00:08:22 - 00:36:48
+
+  [00:08:22] PROCEDURE: Bone density scan (procedure)
+    Status: completed
+
+  [00:08:22] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-07-14
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Valentine262 is a 64 year-old nonhispanic black female.
+      # Social History
+
+  [00:08:22] DOCUMENT: History and physical note
+    Status: superseded
+
+  [00:36:48] OBSERVATION: Response to cancer treatment: Improving (qualifier value)
+
+  [00:36:48] CLAIM: professional
+    Amount: USD 4181.24
+
+
+📅 2023-10-21
+
+  [12:22:18] VISIT: General examination of patient (procedure)
+    Provider: Dr. Francene766 Halvorson124
+    Location: HAVERHILL FAMILY OFFICE LLC
+    Duration: 12:22:18 - 12:37:18
+
+  [12:22:18] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [12:22:18] IMMUNIZATION: Pneumococcal conjugate PCV 13
+    Status: completed
+
+  [12:22:18] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-10-21
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Valentine262 is a 65 year-old nonhispanic black female.
+      # Social History
+
+  [12:22:18] DOCUMENT: History and physical note
+    Status: superseded
+
+  [12:37:18] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2023-11-01
+
+  [00:36:48] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Leo278 Pacocha935
+    Location: Patient's Home
+    Duration: 00:36:48 - 01:15:44
+
+  [00:36:48] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [00:36:48] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-11-01
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Valentine262 is a 65 year-old nonhispanic black female.
+      # Social History
+
+  [00:36:48] DOCUMENT: History and physical note
+    Status: superseded
+
+  [01:15:44] CLAIM: institutional
+    Amount: USD 556.40
+
+
+📅 2024-02-09
+
+  [00:15:44] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Leo278 Pacocha935
+    Location: WP ACQUISITION SUB LLC
+    Duration: 00:15:44 - 00:53:37
+
+  [00:15:44] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [00:15:44] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-02-09
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Valentine262 is a 65 year-old nonhispanic black female.
+      # Social History
+
+  [00:15:44] DOCUMENT: History and physical note
+    Status: superseded
+
+  [00:53:37] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2024-06-10
+
+  [01:53:37] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Leo278 Pacocha935
+    Location: WP ACQUISITION SUB LLC
+    Duration: 01:53:37 - 02:35:47
+
+  [01:53:37] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [01:53:37] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-06-10
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Valentine262 is a 65 year-old nonhispanic black female.
+      # Social History
+
+  [01:53:37] DOCUMENT: History and physical note
+    Status: superseded
+
+  [02:35:47] CLAIM: professional
+    Amount: USD 573.98
+
+  [02:35:47] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Leo278 Pacocha935
+    Location: WP ACQUISITION SUB LLC
+    Duration: 02:35:47 - 02:56:51
+
+  [02:35:47] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [02:35:47] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-06-10
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Valentine262 is a 65 year-old nonhispanic black female.
+      # Social History
+
+  [02:35:47] DOCUMENT: History and physical note
+    Status: superseded
+
+  [02:56:51] CLAIM: professional
+    Amount: USD 211.60
+
+  [02:56:51] VISIT: Follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Leo278 Pacocha935
+    Location: WP ACQUISITION SUB LLC
+    Duration: 02:56:51 - 03:11:51
+
+  [02:56:51] PROCEDURE: Bone density scan (procedure)
+    Status: completed
+
+  [02:56:51] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-06-10
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Valentine262 is a 65 year-old nonhispanic black female.
+      # Social History
+
+  [02:56:51] DOCUMENT: History and physical note
+    Status: superseded
+
+  [03:11:51] CLAIM: professional
+    Amount: USD 8678.00
+
+
+📅 2024-10-26
+
+  [12:22:18] VISIT: General examination of patient (procedure)
+    Provider: Dr. Francene766 Halvorson124
+    Location: HAVERHILL FAMILY OFFICE LLC
+    Duration: 12:22:18 - 12:37:18
+
+  [12:22:18] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [12:22:18] IMMUNIZATION: pneumococcal polysaccharide vaccine, 23 valent
+    Status: completed
+
+  [12:22:18] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-10-26
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Valentine262 is a 66 year-old nonhispanic black female.
+      # Social History
+
+  [12:22:18] DOCUMENT: History and physical note
+    Status: superseded
+
+  [12:37:18] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2025-06-06
+
+  [03:09:13] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Leo278 Pacocha935
+    Location: WP ACQUISITION SUB LLC
+    Duration: 03:09:13 - 03:40:32
+
+  [03:09:13] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [03:09:13] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-06-06
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Valentine262 is a 66 year-old nonhispanic black female.
+      # Social History
+
+  [03:09:13] DOCUMENT: History and physical note
+    Status: superseded
+
+  [03:40:32] CLAIM: professional
+    Amount: USD 573.98
+
+  [03:40:32] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Leo278 Pacocha935
+    Location: WP ACQUISITION SUB LLC
+    Duration: 03:40:32 - 04:00:51
+
+  [03:40:32] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [03:40:32] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-06-06
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Valentine262 is a 66 year-old nonhispanic black female.
+      # Social History
+
+  [03:40:32] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:00:51] CLAIM: professional
+    Amount: USD 211.60
+
+  [04:00:51] VISIT: Follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Leo278 Pacocha935
+    Location: WP ACQUISITION SUB LLC
+    Duration: 04:00:51 - 04:15:51
+
+  [04:00:51] PROCEDURE: Bone density scan (procedure)
+    Status: completed
+
+  [04:00:51] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-06-06
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Valentine262 is a 66 year-old nonhispanic black female.
+      # Social History
+
+  [04:00:51] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:15:51] CLAIM: professional
+    Amount: USD 16468.32
+
+
+📅 2025-11-01
+
+  [12:22:18] VISIT: General examination of patient (procedure)
+    Provider: Dr. Francene766 Halvorson124
+    Location: HAVERHILL FAMILY OFFICE LLC
+    Duration: 12:22:18 - 12:37:18
+
+  [12:22:18] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [12:22:18] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-11-01
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Valentine262 is a 67 year-old nonhispanic black female.
+      # Social History
+
+  [12:22:18] DOCUMENT: History and physical note
+    Status: current
+
+  [12:37:18] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2026-02-14
+
+  [11:22:18] PROVENANCE: Record activity
+    Agents: Dr. Francene766 Halvorson124, Dr. Francene766 Halvorson124
+
+================================================================================
+END OF TIMELINE (424 events)
+================================================================================

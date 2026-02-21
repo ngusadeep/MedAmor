@@ -1,0 +1,1224 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Mrs. Kelley882 Joellen497 Kozey370
+  Patient ID: 81050
+  Date of Birth: 1974-01-28
+  Gender: Female
+  Race: Other
+  Ethnicity: Not Hispanic or Latino
+  Marital Status: Married
+  Address: 801 Hilpert Rapid, Dedham, MA 02090
+  Phone: 555-913-5046
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2015-01-31
+
+  [01:00:24] VISIT: Periodic reevaluation and management of healthy individual (procedure)
+    Reason: Screening for malignant neoplasm of breast (procedure)
+    Provider: Dr. Eleni953 Franecki195
+    Location: BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM, INC.
+    Duration: 01:00:24 - 06:03:57
+
+  [01:00:24] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2015-01-31
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kelley882 Joellen497 is a 41 year-old nonhispanic other female.
+      # Social History
+
+  [01:00:24] DOCUMENT: History and physical note
+    Status: superseded
+
+  [02:22:57] CONDITION: Malignant neoplasm of breast (disorder) (active)
+
+
+📅 2015-02-01
+
+  [06:03:57] CLAIM: professional
+    Amount: USD 9480.92
+
+
+📅 2016-05-12
+
+  [18:24:32] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Eleni953 Franecki195
+    Location: BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM, INC.
+    Duration: 18:24:32 - 19:09:28
+
+  [18:24:32] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [18:24:32] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-05-12
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kelley882 Joellen497 is a 42 year-old nonhispanic other female.
+      # Social History
+
+  [18:24:32] DOCUMENT: History and physical note
+    Status: superseded
+
+  [19:09:28] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2016-09-10
+
+  [19:09:28] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Eleni953 Franecki195
+    Location: BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM, INC.
+    Duration: 19:09:28 - 19:41:15
+
+  [19:09:28] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [19:09:28] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-09-10
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kelley882 Joellen497 is a 42 year-old nonhispanic other female.
+      # Social History
+
+  [19:09:28] DOCUMENT: History and physical note
+    Status: superseded
+
+  [19:41:15] CLAIM: professional
+    Amount: USD 573.98
+
+  [19:41:15] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Eleni953 Franecki195
+    Location: BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM, INC.
+    Duration: 19:41:15 - 19:56:44
+
+  [19:41:15] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [19:41:15] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-09-10
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kelley882 Joellen497 is a 42 year-old nonhispanic other female.
+      # Social History
+
+  [19:41:15] DOCUMENT: History and physical note
+    Status: superseded
+
+  [19:56:44] CLAIM: professional
+    Amount: USD 211.60
+
+  [19:56:44] VISIT: Follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Eleni953 Franecki195
+    Location: BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM, INC.
+    Duration: 19:56:44 - 20:11:44
+
+  [19:56:44] PROCEDURE: Bone density scan (procedure)
+    Status: completed
+
+  [19:56:44] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-09-10
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kelley882 Joellen497 is a 42 year-old nonhispanic other female.
+      # Social History
+
+  [19:56:44] DOCUMENT: History and physical note
+    Status: superseded
+
+  [20:08:20] OBSERVATION: Response to cancer treatment: Improving (qualifier value)
+
+  [20:11:44] CLAIM: professional
+    Amount: USD 4181.24
+
+
+📅 2017-01-01
+
+  [19:08:20] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Eleni953 Franecki195
+    Location: BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM, INC.
+    Duration: 19:08:20 - 19:49:33
+
+  [19:08:20] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [19:08:20] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-01-01
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kelley882 Joellen497 is a 42 year-old nonhispanic other female.
+      # Social History
+
+  [19:08:20] DOCUMENT: History and physical note
+    Status: superseded
+
+  [19:49:33] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2017-05-03
+
+  [20:49:33] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Eleni953 Franecki195
+    Location: BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM, INC.
+    Duration: 20:49:33 - 21:26:50
+
+  [20:49:33] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [20:49:33] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-05-03
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kelley882 Joellen497 is a 43 year-old nonhispanic other female.
+      # Social History
+
+  [20:49:33] DOCUMENT: History and physical note
+    Status: superseded
+
+  [21:26:50] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2017-08-13
+
+  [21:26:50] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Eleni953 Franecki195
+    Location: BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM, INC.
+    Duration: 21:26:50 - 22:09:18
+
+  [21:26:50] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [21:26:50] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-08-13
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kelley882 Joellen497 is a 43 year-old nonhispanic other female.
+      # Social History
+
+  [21:26:50] DOCUMENT: History and physical note
+    Status: superseded
+
+  [22:09:18] CLAIM: professional
+    Amount: USD 573.98
+
+  [22:09:18] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Eleni953 Franecki195
+    Location: BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM, INC.
+    Duration: 22:09:18 - 22:27:30
+
+  [22:09:18] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [22:09:18] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-08-13
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kelley882 Joellen497 is a 43 year-old nonhispanic other female.
+      # Social History
+
+  [22:09:18] DOCUMENT: History and physical note
+    Status: superseded
+
+  [22:27:30] CLAIM: professional
+    Amount: USD 211.60
+
+  [22:27:30] VISIT: Follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Eleni953 Franecki195
+    Location: BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM, INC.
+    Duration: 22:27:30 - 22:55:21
+
+  [22:27:30] PROCEDURE: Bone density scan (procedure)
+    Status: completed
+
+  [22:27:30] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-08-13
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kelley882 Joellen497 is a 43 year-old nonhispanic other female.
+      # Social History
+
+  [22:27:30] DOCUMENT: History and physical note
+    Status: superseded
+
+  [22:55:21] OBSERVATION: Response to cancer treatment: Improving (qualifier value)
+
+  [22:55:21] CLAIM: professional
+    Amount: USD 9251.09
+
+
+📅 2017-12-10
+
+  [21:55:21] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Eleni953 Franecki195
+    Location: BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM, INC.
+    Duration: 21:55:21 - 22:30:07
+
+  [21:55:21] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [21:55:21] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-12-10
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kelley882 Joellen497 is a 43 year-old nonhispanic other female.
+      # Social History
+
+  [21:55:21] DOCUMENT: History and physical note
+    Status: superseded
+
+  [22:30:07] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2018-02-12
+
+  [01:00:24] VISIT: General examination of patient (procedure)
+    Provider: Dr. Sandie760 Rodriguez71
+    Location: CLASSIC HEALTHCARE MEDICAL GROUP LLC
+    Duration: 01:00:24 - 01:15:24
+
+  [01:00:24] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [01:00:24] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-02-12
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kelley882 Joellen497 is a 44 year-old nonhispanic other female.
+      # Social History
+
+  [01:00:24] DOCUMENT: History and physical note
+    Status: superseded
+
+  [01:15:24] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2018-04-04
+
+  [23:30:07] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Eleni953 Franecki195
+    Location: BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM, INC.
+    Duration: 23:30:07 - 00:01:06
+
+  [23:30:07] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [23:30:07] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-04-04
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kelley882 Joellen497 is a 44 year-old nonhispanic other female.
+      # Social History
+
+  [23:30:07] DOCUMENT: History and physical note
+    Status: superseded
+
+
+📅 2018-04-05
+
+  [00:01:06] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2018-08-08
+
+  [00:01:06] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Eleni953 Franecki195
+    Location: BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM, INC.
+    Duration: 00:01:06 - 00:43:22
+
+  [00:01:06] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [00:01:06] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-08-08
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kelley882 Joellen497 is a 44 year-old nonhispanic other female.
+      # Social History
+
+  [00:01:06] DOCUMENT: History and physical note
+    Status: superseded
+
+  [00:43:22] CLAIM: professional
+    Amount: USD 573.98
+
+  [00:43:22] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Eleni953 Franecki195
+    Location: BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM, INC.
+    Duration: 00:43:22 - 01:06:17
+
+  [00:43:22] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [00:43:22] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-08-08
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kelley882 Joellen497 is a 44 year-old nonhispanic other female.
+      # Social History
+
+  [00:43:22] DOCUMENT: History and physical note
+    Status: superseded
+
+  [01:06:17] CLAIM: professional
+    Amount: USD 281.41
+
+  [01:06:17] VISIT: Follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Eleni953 Franecki195
+    Location: BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM, INC.
+    Duration: 01:06:17 - 01:21:17
+
+  [01:06:17] PROCEDURE: Bone density scan (procedure)
+    Status: completed
+
+  [01:06:17] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-08-08
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kelley882 Joellen497 is a 44 year-old nonhispanic other female.
+      # Social History
+
+  [01:06:17] DOCUMENT: History and physical note
+    Status: superseded
+
+  [01:20:54] OBSERVATION: Response to cancer treatment: Improving (qualifier value)
+
+  [01:21:17] CLAIM: professional
+    Amount: USD 4181.24
+
+
+📅 2018-11-30
+
+  [00:20:54] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Eleni953 Franecki195
+    Location: BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM, INC.
+    Duration: 00:20:54 - 01:02:26
+
+  [00:20:54] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [00:20:54] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-11-30
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kelley882 Joellen497 is a 44 year-old nonhispanic other female.
+      # Social History
+
+  [00:20:54] DOCUMENT: History and physical note
+    Status: superseded
+
+  [01:02:26] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2019-03-08
+
+  [01:02:26] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Eleni953 Franecki195
+    Location: BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM, INC.
+    Duration: 01:02:26 - 01:41:24
+
+  [01:02:26] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [01:02:26] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-03-08
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kelley882 Joellen497 is a 45 year-old nonhispanic other female.
+      # Social History
+
+  [01:02:26] DOCUMENT: History and physical note
+    Status: superseded
+
+  [01:41:24] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2019-07-08
+
+  [02:41:24] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Eleni953 Franecki195
+    Location: BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM, INC.
+    Duration: 02:41:24 - 03:15:56
+
+  [02:41:24] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [02:41:24] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-07-08
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kelley882 Joellen497 is a 45 year-old nonhispanic other female.
+      # Social History
+
+  [02:41:24] DOCUMENT: History and physical note
+    Status: superseded
+
+  [03:15:56] CLAIM: professional
+    Amount: USD 573.98
+
+  [03:15:56] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Eleni953 Franecki195
+    Location: BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM, INC.
+    Duration: 03:15:56 - 03:34:30
+
+  [03:15:56] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [03:15:56] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-07-08
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kelley882 Joellen497 is a 45 year-old nonhispanic other female.
+      # Social History
+
+  [03:15:56] DOCUMENT: History and physical note
+    Status: superseded
+
+  [03:34:30] CLAIM: professional
+    Amount: USD 211.60
+
+  [03:34:30] VISIT: Follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Eleni953 Franecki195
+    Location: BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM, INC.
+    Duration: 03:34:30 - 03:49:30
+
+  [03:34:30] PROCEDURE: Bone density scan (procedure)
+    Status: completed
+
+  [03:34:30] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-07-08
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kelley882 Joellen497 is a 45 year-old nonhispanic other female.
+      # Social History
+
+  [03:34:30] DOCUMENT: History and physical note
+    Status: superseded
+
+  [03:47:05] OBSERVATION: Response to cancer treatment: Improving (qualifier value)
+
+  [03:49:30] CLAIM: professional
+    Amount: USD 4516.44
+
+
+📅 2019-10-16
+
+  [03:47:05] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Eleni953 Franecki195
+    Location: BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM, INC.
+    Duration: 03:47:05 - 04:19:55
+
+  [03:47:05] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [03:47:05] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-10-16
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kelley882 Joellen497 is a 45 year-old nonhispanic other female.
+      # Social History
+
+  [03:47:05] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:19:55] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2020-01-26
+
+  [03:19:55] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Eleni953 Franecki195
+    Location: BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM, INC.
+    Duration: 03:19:55 - 03:56:26
+
+  [03:19:55] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [03:19:55] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-01-26
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kelley882 Joellen497 is a 45 year-old nonhispanic other female.
+      # Social History
+
+  [03:19:55] DOCUMENT: History and physical note
+    Status: superseded
+
+  [03:56:26] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2020-02-17
+
+  [01:00:24] VISIT: General examination of patient (procedure)
+    Provider: Dr. Sandie760 Rodriguez71
+    Location: CLASSIC HEALTHCARE MEDICAL GROUP LLC
+    Duration: 01:00:24 - 01:15:24
+
+  [01:00:24] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [01:00:24] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-02-17
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kelley882 Joellen497 is a 46 year-old nonhispanic other female.
+      # Social History
+
+  [01:00:24] DOCUMENT: History and physical note
+    Status: superseded
+
+  [01:15:24] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2020-05-17
+
+  [04:56:26] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Eleni953 Franecki195
+    Location: BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM, INC.
+    Duration: 04:56:26 - 05:39:50
+
+  [04:56:26] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [04:56:26] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-05-17
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kelley882 Joellen497 is a 46 year-old nonhispanic other female.
+      # Social History
+
+  [04:56:26] DOCUMENT: History and physical note
+    Status: superseded
+
+  [05:39:50] CLAIM: professional
+    Amount: USD 573.98
+
+  [05:39:50] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Eleni953 Franecki195
+    Location: BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM, INC.
+    Duration: 05:39:50 - 05:59:51
+
+  [05:39:50] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [05:39:50] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-05-17
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kelley882 Joellen497 is a 46 year-old nonhispanic other female.
+      # Social History
+
+  [05:39:50] DOCUMENT: History and physical note
+    Status: superseded
+
+  [05:59:51] CLAIM: professional
+    Amount: USD 325.49
+
+  [05:59:51] VISIT: Follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Eleni953 Franecki195
+    Location: BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM, INC.
+    Duration: 05:59:51 - 06:27:22
+
+  [05:59:51] PROCEDURE: Bone density scan (procedure)
+    Status: completed
+
+  [05:59:51] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-05-17
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kelley882 Joellen497 is a 46 year-old nonhispanic other female.
+      # Social History
+
+  [05:59:51] DOCUMENT: History and physical note
+    Status: superseded
+
+  [06:27:22] CLAIM: professional
+    Amount: USD 4181.24
+
+
+📅 2021-05-14
+
+  [06:27:22] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Eleni953 Franecki195
+    Location: BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM, INC.
+    Duration: 06:27:22 - 07:01:48
+
+  [06:27:22] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [06:27:22] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-05-14
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kelley882 Joellen497 is a 47 year-old nonhispanic other female.
+      # Social History
+
+  [06:27:22] DOCUMENT: History and physical note
+    Status: superseded
+
+  [07:01:48] CLAIM: professional
+    Amount: USD 573.98
+
+  [07:01:48] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Eleni953 Franecki195
+    Location: BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM, INC.
+    Duration: 07:01:48 - 07:18:52
+
+  [07:01:48] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [07:01:48] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-05-14
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kelley882 Joellen497 is a 47 year-old nonhispanic other female.
+      # Social History
+
+  [07:01:48] DOCUMENT: History and physical note
+    Status: superseded
+
+  [07:18:52] CLAIM: professional
+    Amount: USD 263.29
+
+  [07:18:52] VISIT: Follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Eleni953 Franecki195
+    Location: BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM, INC.
+    Duration: 07:18:52 - 07:36:39
+
+  [07:18:52] PROCEDURE: Bone density scan (procedure)
+    Status: completed
+
+  [07:18:52] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-05-14
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kelley882 Joellen497 is a 47 year-old nonhispanic other female.
+      # Social History
+
+  [07:18:52] DOCUMENT: History and physical note
+    Status: superseded
+
+  [07:36:39] CLAIM: professional
+    Amount: USD 4181.24
+
+
+📅 2022-02-21
+
+  [01:00:24] VISIT: General examination of patient (procedure)
+    Provider: Dr. Sandie760 Rodriguez71
+    Location: CLASSIC HEALTHCARE MEDICAL GROUP LLC
+    Duration: 01:00:24 - 01:15:24
+
+  [01:00:24] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [01:00:24] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-02-21
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kelley882 Joellen497 is a 48 year-old nonhispanic other female.
+      # Social History
+
+  [01:00:24] DOCUMENT: History and physical note
+    Status: superseded
+
+  [01:15:24] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2022-05-21
+
+  [07:36:39] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Eleni953 Franecki195
+    Location: Patient's Home
+    Duration: 07:36:39 - 08:08:07
+
+  [07:36:39] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [07:36:39] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-05-21
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kelley882 Joellen497 is a 48 year-old nonhispanic other female.
+      # Social History
+
+  [07:36:39] DOCUMENT: History and physical note
+    Status: superseded
+
+  [08:08:07] CLAIM: institutional
+    Amount: USD 556.40
+
+  [08:08:07] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Eleni953 Franecki195
+    Location: BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM, INC.
+    Duration: 08:08:07 - 08:30:48
+
+  [08:08:07] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [08:08:07] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-05-21
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kelley882 Joellen497 is a 48 year-old nonhispanic other female.
+      # Social History
+
+  [08:08:07] DOCUMENT: History and physical note
+    Status: superseded
+
+  [08:30:48] CLAIM: professional
+    Amount: USD 211.60
+
+  [08:30:48] VISIT: Follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Eleni953 Franecki195
+    Location: BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM, INC.
+    Duration: 08:30:48 - 08:45:48
+
+  [08:30:48] PROCEDURE: Bone density scan (procedure)
+    Status: completed
+
+  [08:30:48] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-05-21
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kelley882 Joellen497 is a 48 year-old nonhispanic other female.
+      # Social History
+
+  [08:30:48] DOCUMENT: History and physical note
+    Status: superseded
+
+  [08:45:48] CLAIM: professional
+    Amount: USD 6080.33
+
+
+📅 2023-04-29
+
+  [08:41:59] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Eleni953 Franecki195
+    Location: Patient's Home
+    Duration: 08:41:59 - 09:12:58
+
+  [08:41:59] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [08:41:59] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-04-29
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kelley882 Joellen497 is a 49 year-old nonhispanic other female.
+      # Social History
+
+  [08:41:59] DOCUMENT: History and physical note
+    Status: superseded
+
+  [09:12:58] CLAIM: institutional
+    Amount: USD 556.40
+
+  [09:12:58] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Eleni953 Franecki195
+    Location: BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM, INC.
+    Duration: 09:12:58 - 09:29:52
+
+  [09:12:58] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [09:12:58] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-04-29
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kelley882 Joellen497 is a 49 year-old nonhispanic other female.
+      # Social History
+
+  [09:12:58] DOCUMENT: History and physical note
+    Status: superseded
+
+  [09:29:52] CLAIM: professional
+    Amount: USD 230.30
+
+  [09:29:52] VISIT: Follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Eleni953 Franecki195
+    Location: BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM, INC.
+    Duration: 09:29:52 - 09:56:30
+
+  [09:29:52] PROCEDURE: Bone density scan (procedure)
+    Status: completed
+
+  [09:29:52] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-04-29
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kelley882 Joellen497 is a 49 year-old nonhispanic other female.
+      # Social History
+
+  [09:29:52] DOCUMENT: History and physical note
+    Status: superseded
+
+  [09:56:30] CLAIM: professional
+    Amount: USD 6632.33
+
+
+📅 2024-01-29
+
+  [01:00:24] VISIT: General examination of patient (procedure)
+    Provider: Dr. Sandie760 Rodriguez71
+    Location: CLASSIC HEALTHCARE MEDICAL GROUP LLC
+    Duration: 01:00:24 - 01:15:24
+
+  [01:00:24] IMMUNIZATION: zoster vaccine, live
+    Status: completed
+
+  [01:00:24] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [01:00:24] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-01-29
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kelley882 Joellen497 is a 50 year-old nonhispanic other female.
+      # Social History
+
+  [01:00:24] DOCUMENT: History and physical note
+    Status: superseded
+
+  [01:15:24] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2024-04-26
+
+  [09:56:30] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Eleni953 Franecki195
+    Location: BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM, INC.
+    Duration: 09:56:30 - 10:30:57
+
+  [09:56:30] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [09:56:30] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-04-26
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kelley882 Joellen497 is a 50 year-old nonhispanic other female.
+      # Social History
+
+  [09:56:30] DOCUMENT: History and physical note
+    Status: superseded
+
+  [10:30:57] CLAIM: professional
+    Amount: USD 573.98
+
+  [10:30:57] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Eleni953 Franecki195
+    Location: BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM, INC.
+    Duration: 10:30:57 - 10:55:23
+
+  [10:30:57] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [10:30:57] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-04-26
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kelley882 Joellen497 is a 50 year-old nonhispanic other female.
+      # Social History
+
+  [10:30:57] DOCUMENT: History and physical note
+    Status: superseded
+
+  [10:55:23] CLAIM: professional
+    Amount: USD 211.60
+
+  [10:55:23] VISIT: Follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Eleni953 Franecki195
+    Location: BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM, INC.
+    Duration: 10:55:23 - 11:16:25
+
+  [10:55:23] PROCEDURE: Bone density scan (procedure)
+    Status: completed
+
+  [10:55:23] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-04-26
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kelley882 Joellen497 is a 50 year-old nonhispanic other female.
+      # Social History
+
+  [10:55:23] DOCUMENT: History and physical note
+    Status: superseded
+
+  [11:16:25] CLAIM: professional
+    Amount: USD 4181.24
+
+
+📅 2025-02-03
+
+  [01:00:24] VISIT: General examination of patient (procedure)
+    Provider: Dr. Sandie760 Rodriguez71
+    Location: CLASSIC HEALTHCARE MEDICAL GROUP LLC
+    Duration: 01:00:24 - 01:15:24
+
+  [01:00:24] IMMUNIZATION: zoster vaccine, live
+    Status: completed
+
+  [01:00:24] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [01:00:24] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [01:00:24] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-02-03
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kelley882 Joellen497 is a 51 year-old nonhispanic other female.
+      # Social History
+
+  [01:00:24] DOCUMENT: History and physical note
+    Status: superseded
+
+  [01:15:24] CLAIM: professional
+    Amount: USD 544.80
+
+
+📅 2025-04-13
+
+  [11:16:25] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Eleni953 Franecki195
+    Location: BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM, INC.
+    Duration: 11:16:25 - 11:55:22
+
+  [11:16:25] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [11:16:25] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-04-13
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kelley882 Joellen497 is a 51 year-old nonhispanic other female.
+      # Social History
+
+  [11:16:25] DOCUMENT: History and physical note
+    Status: superseded
+
+  [11:55:22] CLAIM: professional
+    Amount: USD 573.98
+
+  [11:55:22] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Eleni953 Franecki195
+    Location: BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM, INC.
+    Duration: 11:55:22 - 12:13:35
+
+  [11:55:22] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [11:55:22] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-04-13
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kelley882 Joellen497 is a 51 year-old nonhispanic other female.
+      # Social History
+
+  [11:55:22] DOCUMENT: History and physical note
+    Status: superseded
+
+  [12:13:35] CLAIM: professional
+    Amount: USD 211.60
+
+  [12:13:35] VISIT: Follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Eleni953 Franecki195
+    Location: BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM, INC.
+    Duration: 12:13:35 - 12:40:54
+
+  [12:13:35] PROCEDURE: Bone density scan (procedure)
+    Status: completed
+
+  [12:13:35] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-04-13
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kelley882 Joellen497 is a 51 year-old nonhispanic other female.
+      # Social History
+
+  [12:13:35] DOCUMENT: History and physical note
+    Status: superseded
+
+  [12:40:54] CLAIM: professional
+    Amount: USD 7097.19
+
+
+📅 2026-02-09
+
+  [01:00:24] VISIT: General examination of patient (procedure)
+    Provider: Dr. Sandie760 Rodriguez71
+    Location: CLASSIC HEALTHCARE MEDICAL GROUP LLC
+    Duration: 01:00:24 - 01:15:24
+
+  [01:00:24] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [01:00:24] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2026-02-09
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kelley882 Joellen497 is a 52 year-old nonhispanic other female.
+      # Social History
+
+  [01:00:24] DOCUMENT: History and physical note
+    Status: current
+
+  [01:15:24] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2026-02-16
+
+  [01:00:24] PROVENANCE: Record activity
+    Agents: Dr. Sandie760 Rodriguez71, Dr. Sandie760 Rodriguez71
+
+================================================================================
+END OF TIMELINE (238 events)
+================================================================================

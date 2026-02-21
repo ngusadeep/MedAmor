@@ -1,0 +1,295 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Mrs. Macie339 Hisako109 Armstrong51
+  Patient ID: 100349
+  Date of Birth: 1957-06-22
+  Gender: Female
+  Race: White
+  Ethnicity: Not Hispanic or Latino
+  Marital Status: Married
+  Address: 211 Keeling Passage Suite 21, Swansea, MA 00000
+  Phone: 555-390-9700
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2016-08-13
+
+  [06:08:05] VISIT: General examination of patient (procedure)
+    Provider: Dr. Theo630 Hammes673
+    Location: STANLEY STREET TREATMENT AND RESOURCES, INC
+    Duration: 06:08:05 - 06:23:05
+
+  [06:08:05] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [06:08:05] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-08-13
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Macie339 Hisako109 is a 59 year-old nonhispanic white female.
+      # Social History
+
+  [06:08:05] DOCUMENT: History and physical note
+    Status: superseded
+
+  [06:23:05] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2017-08-19
+
+  [06:08:05] VISIT: General examination of patient (procedure)
+    Provider: Dr. Theo630 Hammes673
+    Location: STANLEY STREET TREATMENT AND RESOURCES, INC
+    Duration: 06:08:05 - 06:23:05
+
+  [06:08:05] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [06:08:05] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-08-19
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Macie339 Hisako109 is a 60 year-old nonhispanic white female.
+      # Social History
+
+  [06:08:05] DOCUMENT: History and physical note
+    Status: superseded
+
+  [06:23:05] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2018-08-25
+
+  [06:08:05] VISIT: General examination of patient (procedure)
+    Provider: Dr. Theo630 Hammes673
+    Location: STANLEY STREET TREATMENT AND RESOURCES, INC
+    Duration: 06:08:05 - 06:23:05
+
+  [06:08:05] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [06:08:05] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [06:08:05] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-08-25
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Macie339 Hisako109 is a 61 year-old nonhispanic white female.
+      # Social History
+
+  [06:08:05] DOCUMENT: History and physical note
+    Status: superseded
+
+  [06:23:05] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2019-08-31
+
+  [06:08:05] VISIT: General examination of patient (procedure)
+    Provider: Dr. Theo630 Hammes673
+    Location: STANLEY STREET TREATMENT AND RESOURCES, INC
+    Duration: 06:08:05 - 06:23:05
+
+  [06:08:05] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [06:08:05] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-08-31
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Macie339 Hisako109 is a 62 year-old nonhispanic white female.
+      # Social History
+
+  [06:08:05] DOCUMENT: History and physical note
+    Status: superseded
+
+  [06:23:05] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2020-09-05
+
+  [06:08:05] VISIT: General examination of patient (procedure)
+    Provider: Dr. Theo630 Hammes673
+    Location: STANLEY STREET TREATMENT AND RESOURCES, INC
+    Duration: 06:08:05 - 06:23:05
+
+  [06:08:05] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [06:08:05] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-09-05
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Macie339 Hisako109 is a 63 year-old nonhispanic white female.
+      # Social History
+
+  [06:08:05] DOCUMENT: History and physical note
+    Status: superseded
+
+  [06:23:05] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2021-09-11
+
+  [06:08:05] VISIT: General examination of patient (procedure)
+    Provider: Dr. Theo630 Hammes673
+    Location: STANLEY STREET TREATMENT AND RESOURCES, INC
+    Duration: 06:08:05 - 06:23:05
+
+  [06:08:05] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [06:08:05] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-09-11
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Macie339 Hisako109 is a 64 year-old nonhispanic white female.
+      # Social History
+
+  [06:08:05] DOCUMENT: History and physical note
+    Status: superseded
+
+  [06:23:05] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2022-09-17
+
+  [06:08:05] VISIT: General examination of patient (procedure)
+    Provider: Dr. Theo630 Hammes673
+    Location: STANLEY STREET TREATMENT AND RESOURCES, INC
+    Duration: 06:08:05 - 06:23:05
+
+  [06:08:05] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [06:08:05] IMMUNIZATION: Pneumococcal conjugate PCV 13
+    Status: completed
+
+  [06:08:05] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-09-17
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Macie339 Hisako109 is a 65 year-old nonhispanic white female.
+      # Social History
+
+  [06:08:05] DOCUMENT: History and physical note
+    Status: superseded
+
+  [06:23:05] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2023-09-23
+
+  [06:08:05] VISIT: General examination of patient (procedure)
+    Provider: Dr. Theo630 Hammes673
+    Location: STANLEY STREET TREATMENT AND RESOURCES, INC
+    Duration: 06:08:05 - 06:23:05
+
+  [06:08:05] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [06:08:05] IMMUNIZATION: pneumococcal polysaccharide vaccine, 23 valent
+    Status: completed
+
+  [06:08:05] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-09-23
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Macie339 Hisako109 is a 66 year-old nonhispanic white female.
+      # Social History
+
+  [06:08:05] DOCUMENT: History and physical note
+    Status: superseded
+
+  [06:23:05] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2024-09-28
+
+  [06:08:05] VISIT: General examination of patient (procedure)
+    Provider: Dr. Theo630 Hammes673
+    Location: STANLEY STREET TREATMENT AND RESOURCES, INC
+    Duration: 06:08:05 - 06:23:05
+
+  [06:08:05] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [06:08:05] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-09-28
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Macie339 Hisako109 is a 67 year-old nonhispanic white female.
+      # Social History
+
+  [06:08:05] DOCUMENT: History and physical note
+    Status: superseded
+
+  [06:23:05] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2025-10-04
+
+  [06:08:05] VISIT: General examination of patient (procedure)
+    Provider: Dr. Theo630 Hammes673
+    Location: STANLEY STREET TREATMENT AND RESOURCES, INC
+    Duration: 06:08:05 - 06:23:05
+
+  [06:08:05] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [06:08:05] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-10-04
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Macie339 Hisako109 is a 68 year-old nonhispanic white female.
+      # Social History
+
+  [06:08:05] DOCUMENT: History and physical note
+    Status: current
+
+  [06:23:05] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2026-02-14
+
+  [05:08:05] PROVENANCE: Record activity
+    Agents: Dr. Theo630 Hammes673, Dr. Theo630 Hammes673
+
+================================================================================
+END OF TIMELINE (54 events)
+================================================================================

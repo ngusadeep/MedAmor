@@ -1,0 +1,344 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Mrs. Joie561 Marinda592 Hackett68
+  Patient ID: 70123
+  Date of Birth: 1965-08-17
+  Gender: Female
+  Race: White
+  Ethnicity: Not Hispanic or Latino
+  Marital Status: Widowed
+  Address: 677 Hayes Vale Apt 53, Franklin, MA 02038
+  Phone: 555-943-9224
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2016-08-23
+
+  [19:52:31] VISIT: General examination of patient (procedure)
+    Provider: Dr. Wynell591 Mayert710
+    Location: WELLNESS ON WHEELS,PC
+    Duration: 19:52:31 - 20:07:31
+
+  [19:52:31] IMMUNIZATION: zoster vaccine, live
+    Status: completed
+
+  [19:52:31] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [19:52:31] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [19:52:31] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-08-23
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Joie561 Marinda592 is a 51 year-old nonhispanic white female.
+      # Social History
+
+  [19:52:31] DOCUMENT: History and physical note
+    Status: superseded
+
+  [20:07:31] CLAIM: professional
+    Amount: USD 544.80
+
+
+📅 2017-08-29
+
+  [19:52:31] VISIT: General examination of patient (procedure)
+    Provider: Dr. Wynell591 Mayert710
+    Location: WELLNESS ON WHEELS,PC
+    Duration: 19:52:31 - 20:07:31
+
+  [19:52:31] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [19:52:31] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-08-29
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Joie561 Marinda592 is a 52 year-old nonhispanic white female.
+      # Social History
+
+  [19:52:31] DOCUMENT: History and physical note
+    Status: superseded
+
+  [20:07:31] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2018-09-04
+
+  [19:52:31] VISIT: General examination of patient (procedure)
+    Provider: Dr. Wynell591 Mayert710
+    Location: WELLNESS ON WHEELS,PC
+    Duration: 19:52:31 - 20:07:31
+
+  [19:52:31] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [19:52:31] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-09-04
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Joie561 Marinda592 is a 53 year-old nonhispanic white female.
+      # Social History
+
+  [19:52:31] DOCUMENT: History and physical note
+    Status: superseded
+
+  [20:07:31] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2019-09-10
+
+  [19:52:31] VISIT: General examination of patient (procedure)
+    Provider: Dr. Wynell591 Mayert710
+    Location: WELLNESS ON WHEELS,PC
+    Duration: 19:52:31 - 20:07:31
+
+  [19:52:31] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [19:52:31] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-09-10
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Joie561 Marinda592 is a 54 year-old nonhispanic white female.
+      # Social History
+
+  [19:52:31] DOCUMENT: History and physical note
+    Status: superseded
+
+  [20:07:31] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2020-09-15
+
+  [19:52:31] VISIT: General examination of patient (procedure)
+    Provider: Dr. Wynell591 Mayert710
+    Location: WELLNESS ON WHEELS,PC
+    Duration: 19:52:31 - 20:07:31
+
+  [19:52:31] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [19:52:31] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-09-15
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Joie561 Marinda592 is a 55 year-old nonhispanic white female.
+      # Social History
+
+  [19:52:31] DOCUMENT: History and physical note
+    Status: superseded
+
+  [20:07:31] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2021-08-03
+
+  [19:52:31] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Maricarmen445 Delafuente833
+    Location: ARBOUR-FULLER HOSPITAL
+    Duration: 19:52:31 - 20:07:31
+
+  [19:52:31] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+    Status: completed
+
+  [19:52:31] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-08-03
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Joie561 Marinda592 is a 55 year-old nonhispanic white female.
+      # Social History
+
+  [19:52:31] DOCUMENT: History and physical note
+    Status: superseded
+
+  [20:07:31] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-08-31
+
+  [19:52:31] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Maricarmen445 Delafuente833
+    Location: ARBOUR-FULLER HOSPITAL
+    Duration: 19:52:31 - 20:07:31
+
+  [19:52:31] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+    Status: completed
+
+  [19:52:31] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-08-31
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Joie561 Marinda592 is a 56 year-old nonhispanic white female.
+      # Social History
+
+  [19:52:31] DOCUMENT: History and physical note
+    Status: superseded
+
+  [20:07:31] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-09-21
+
+  [19:52:31] VISIT: General examination of patient (procedure)
+    Provider: Dr. Wynell591 Mayert710
+    Location: WELLNESS ON WHEELS,PC
+    Duration: 19:52:31 - 20:07:31
+
+  [19:52:31] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [19:52:31] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-09-21
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Joie561 Marinda592 is a 56 year-old nonhispanic white female.
+      # Social History
+
+  [19:52:31] DOCUMENT: History and physical note
+    Status: superseded
+
+  [20:07:31] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2022-09-27
+
+  [19:52:31] VISIT: General examination of patient (procedure)
+    Provider: Dr. Wynell591 Mayert710
+    Location: WELLNESS ON WHEELS,PC
+    Duration: 19:52:31 - 20:07:31
+
+  [19:52:31] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [19:52:31] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-09-27
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Joie561 Marinda592 is a 57 year-old nonhispanic white female.
+      # Social History
+
+  [19:52:31] DOCUMENT: History and physical note
+    Status: superseded
+
+  [20:07:31] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2023-10-03
+
+  [19:52:31] VISIT: General examination of patient (procedure)
+    Provider: Dr. Wynell591 Mayert710
+    Location: WELLNESS ON WHEELS,PC
+    Duration: 19:52:31 - 20:07:31
+
+  [19:52:31] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [19:52:31] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-10-03
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Joie561 Marinda592 is a 58 year-old nonhispanic white female.
+      # Social History
+
+  [19:52:31] DOCUMENT: History and physical note
+    Status: superseded
+
+  [20:07:31] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2024-10-08
+
+  [19:52:31] VISIT: General examination of patient (procedure)
+    Provider: Dr. Wynell591 Mayert710
+    Location: WELLNESS ON WHEELS,PC
+    Duration: 19:52:31 - 20:07:31
+
+  [19:52:31] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [19:52:31] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-10-08
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Joie561 Marinda592 is a 59 year-old nonhispanic white female.
+      # Social History
+
+  [19:52:31] DOCUMENT: History and physical note
+    Status: superseded
+
+  [20:07:31] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2025-10-14
+
+  [19:52:31] VISIT: General examination of patient (procedure)
+    Provider: Dr. Wynell591 Mayert710
+    Location: WELLNESS ON WHEELS,PC
+    Duration: 19:52:31 - 20:07:31
+
+  [19:52:31] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [19:52:31] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-10-14
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Joie561 Marinda592 is a 60 year-old nonhispanic white female.
+      # Social History
+
+  [19:52:31] DOCUMENT: History and physical note
+    Status: current
+
+  [20:07:31] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2026-02-10
+
+  [18:52:31] PROVENANCE: Record activity
+    Agents: Dr. Wynell591 Mayert710, Dr. Wynell591 Mayert710
+
+================================================================================
+END OF TIMELINE (63 events)
+================================================================================

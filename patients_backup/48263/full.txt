@@ -1,0 +1,851 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Mrs. Essie785 Jannette265 Fahey393
+  Patient ID: 48263
+  Date of Birth: 1973-01-26
+  Gender: Female
+  Race: White
+  Ethnicity: Not Hispanic or Latino
+  Marital Status: Married
+  Address: 568 Okuneva Drive, Arlington, MA 02474
+  Phone: 555-497-8440
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2017-02-10
+
+  [18:16:50] VISIT: General examination of patient (procedure)
+    Provider: Dr. Rubén780 Padrón382
+    Location: DAVIS SQUARE FAMILY PRACTICE
+    Duration: 18:16:50 - 18:31:50
+
+  [18:16:50] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [18:16:50] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-02-10
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Essie785 Jannette265 is a 44 year-old nonhispanic white female.
+      # Social History
+
+  [18:16:50] DOCUMENT: History and physical note
+    Status: superseded
+
+  [18:31:50] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2019-02-15
+
+  [18:16:50] VISIT: General examination of patient (procedure)
+    Provider: Dr. Rubén780 Padrón382
+    Location: DAVIS SQUARE FAMILY PRACTICE
+    Duration: 18:16:50 - 18:31:50
+
+  [18:16:50] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [18:16:50] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-02-15
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Essie785 Jannette265 is a 46 year-old nonhispanic white female.
+      # Social History
+
+  [18:16:50] DOCUMENT: History and physical note
+    Status: superseded
+
+  [18:31:50] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2021-02-19
+
+  [18:16:50] VISIT: General examination of patient (procedure)
+    Provider: Dr. Rubén780 Padrón382
+    Location: DAVIS SQUARE FAMILY PRACTICE
+    Duration: 18:16:50 - 18:31:50
+
+  [18:16:50] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [18:16:50] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-02-19
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Essie785 Jannette265 is a 48 year-old nonhispanic white female.
+      # Social History
+
+  [18:16:50] DOCUMENT: History and physical note
+    Status: superseded
+
+  [18:31:50] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2021-04-16
+
+  [19:16:50] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Margarite168 Koepp521
+    Location: CAMBRIDGE PUBLIC HEALTH COMMISSION
+    Duration: 19:16:50 - 19:31:50
+
+  [19:16:50] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+    Status: completed
+
+  [19:16:50] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-04-16
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Essie785 Jannette265 is a 48 year-old nonhispanic white female.
+      # Social History
+
+  [19:16:50] DOCUMENT: History and physical note
+    Status: superseded
+
+  [19:31:50] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-05-14
+
+  [19:16:50] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Margarite168 Koepp521
+    Location: CAMBRIDGE PUBLIC HEALTH COMMISSION
+    Duration: 19:16:50 - 19:31:50
+
+  [19:16:50] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+    Status: completed
+
+  [19:16:50] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-05-14
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Essie785 Jannette265 is a 48 year-old nonhispanic white female.
+      # Social History
+
+  [19:16:50] DOCUMENT: History and physical note
+    Status: superseded
+
+  [19:31:50] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2023-01-27
+
+  [18:16:50] VISIT: General examination of patient (procedure)
+    Provider: Dr. Rubén780 Padrón382
+    Location: DAVIS SQUARE FAMILY PRACTICE
+    Duration: 18:16:50 - 18:31:50
+
+  [18:16:50] IMMUNIZATION: zoster vaccine, live
+    Status: completed
+
+  [18:16:50] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [18:16:50] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-01-27
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Essie785 Jannette265 is a 50 year-old nonhispanic white female.
+      # Social History
+
+  [18:16:50] DOCUMENT: History and physical note
+    Status: superseded
+
+  [18:31:50] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2023-02-10
+
+  [18:16:50] VISIT: Periodic reevaluation and management of healthy individual (procedure)
+    Reason: Screening for malignant neoplasm of breast (procedure)
+    Provider: Dr. Nicholas495 Greenfelder433
+    Location: CAMBRIDGE PUBLIC HEALTH COMMISSION
+    Duration: 18:16:50 - 16:37:39
+
+  [18:16:50] PROCEDURE: Screening mammography (procedure)
+    Status: completed
+
+  [18:16:50] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-02-10
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Essie785 Jannette265 is a 50 year-old nonhispanic white female.
+      # Social History
+
+  [18:16:50] DOCUMENT: History and physical note
+    Status: superseded
+
+  [18:41:14] PROCEDURE: Ultrasonography of bilateral breasts (procedure)
+    Status: completed
+
+  [18:58:33] PROCEDURE: Biopsy of breast (procedure)
+    Status: completed
+
+  [19:27:39] CONDITION: Malignant neoplasm of breast (disorder) (active)
+
+  [19:27:39] OBSERVATION: Site of distant metastasis in Breast tumor: None (qualifier value)
+
+  [19:27:39] OBSERVATION: Distant metastases.clinical [Class] Cancer: American Joint Committee on Cancer cM0 (qualifier value)
+
+  [19:27:39] OBSERVATION: Size.maximum dimension in Tumor: 1.2997 cm
+
+  [19:27:39] OBSERVATION: Primary tumor.clinical [Class] Cancer: American Joint Committee on Cancer cT1 (qualifier value)
+
+  [19:27:39] OBSERVATION: Lymph nodes with isolated tumor cells [#] in Cancer specimen by Light microscopy: 0 {#}
+
+  [19:27:39] OBSERVATION: Regional lymph nodes.clinical [Class] Cancer: American Joint Committee on Cancer cN0 (qualifier value)
+
+  [19:27:39] PROCEDURE: Human epidermal growth factor receptor 2 gene detection by fluorescence in situ hybridization (procedure)
+    Status: completed
+
+
+📅 2023-02-12
+
+  [14:27:39] PROCEDURE: Human epidermal growth factor receptor 2 gene detection by immunohistochemistry (procedure)
+    Status: completed
+
+  [16:37:39] OBSERVATION: HER2 [Presence] in Breast cancer specimen by Immune stain: Negative (qualifier value)
+
+  [16:37:39] OBSERVATION: ERBB2 gene duplication [Presence] in Breast cancer specimen by FISH: less than 1.8
+
+  [16:37:39] OBSERVATION: Estrogen receptor Ag [Presence] in Breast cancer specimen by Immune stain: Positive (qualifier value)
+
+  [16:37:39] OBSERVATION: Progesterone receptor Ag [Presence] in Breast cancer specimen by Immune stain: Positive (qualifier value)
+
+  [16:37:39] OBSERVATION: Estrogen+Progesterone receptor Ag [Presence] in Tissue by Immune stain: Positive (qualifier value)
+
+  [16:37:39] OBSERVATION: Stage group.clinical Cancer: American Joint Committee on Cancer stage IA (qualifier value)
+
+  [16:37:39] OBSERVATION: Stage group.clinical Cancer: Stage 1 (qualifier value)
+
+  [16:37:39] CLAIM: professional
+    Amount: USD 6087.71
+
+
+📅 2023-02-16
+
+  [01:37:39] VISIT: Discussion about treatment (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Margarite168 Koepp521
+    Location: Patient's Home
+    Duration: 01:37:39 - 02:24:02
+
+  [01:37:39] PROCEDURE: Discussion about options (procedure)
+    Status: completed
+
+  [01:37:39] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-02-16
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Essie785 Jannette265 is a 50 year-old nonhispanic white female.
+      # Social History
+
+  [01:37:39] DOCUMENT: History and physical note
+    Status: superseded
+
+  [02:24:02] CLAIM: institutional
+    Amount: USD 556.40
+
+
+📅 2023-02-22
+
+  [04:24:02] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Nicholas495 Greenfelder433
+    Location: CAMBRIDGE PUBLIC HEALTH COMMISSION
+    Duration: 04:24:02 - 06:12:44
+
+  [04:24:02] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-02-22
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Essie785 Jannette265 is a 50 year-old nonhispanic white female.
+      # Social History
+
+  [04:24:02] DOCUMENT: History and physical note
+    Status: superseded
+
+  [05:53:02] PROCEDURE: Lumpectomy of breast (procedure)
+    Status: completed
+
+
+📅 2023-02-24
+
+  [06:12:44] CLAIM: institutional
+    Amount: USD 32679.89
+
+
+📅 2023-03-09
+
+  [18:12:44] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Nicholas495 Greenfelder433
+    Location: CAMBRIDGE PUBLIC HEALTH COMMISSION
+    Duration: 18:12:44 - 19:28:16
+
+  [18:12:44] PROCEDURE: Brachytherapy of breast (procedure)
+    Status: completed
+
+  [18:12:44] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-03-09
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Essie785 Jannette265 is a 50 year-old nonhispanic white female.
+      # Social History
+
+  [18:12:44] DOCUMENT: History and physical note
+    Status: superseded
+
+  [19:00:10] PROCEDURE: Interstitial brachytherapy (procedure)
+    Status: completed
+
+  [19:28:16] CLAIM: professional
+    Amount: USD 33638.10
+
+
+📅 2023-05-06
+
+  [01:28:16] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Nicholas495 Greenfelder433
+    Location: CAMBRIDGE PUBLIC HEALTH COMMISSION
+    Duration: 01:28:16 - 01:43:16
+
+  [01:28:16] OBSERVATION: Treatment status Cancer: Treatment changed (situation)
+
+  [01:28:16] OBSERVATION: Response to cancer treatment: Improving (qualifier value)
+
+  [01:28:16] MEDICATION PRESCRIBED: Unknown medication
+    Status: completed
+    Prescribed by: Dr. Nicholas495 Greenfelder433
+
+  [01:28:16] MEDICATION ADMINISTERED: Tamoxifen 10 MG Oral Tablet
+    Status: completed
+    Dosage: 1.0
+
+  [01:28:16] MEDICATION PRESCRIBED: Unknown medication
+    Status: completed
+    Prescribed by: Dr. Nicholas495 Greenfelder433
+
+  [01:28:16] MEDICATION ADMINISTERED: ribociclib 200 MG Oral Tablet
+    Status: completed
+
+  [01:28:16] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-05-06
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Essie785 Jannette265 is a 50 year-old nonhispanic white female.
+      # Social History
+
+  [01:28:16] DOCUMENT: History and physical note
+    Status: superseded
+
+  [01:43:16] CLAIM: pharmacy
+    Amount: USD 353.40
+
+  [01:43:16] CLAIM: pharmacy
+    Amount: USD 111.91
+
+  [01:43:16] CLAIM: professional
+    Amount: USD 85.55
+
+
+📅 2023-08-25
+
+  [01:28:16] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Nicholas495 Greenfelder433
+    Location: CAMBRIDGE PUBLIC HEALTH COMMISSION
+    Duration: 01:28:16 - 02:09:15
+
+  [01:28:16] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [01:28:16] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-08-25
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Essie785 Jannette265 is a 50 year-old nonhispanic white female.
+      # Social History
+
+  [01:28:16] DOCUMENT: History and physical note
+    Status: superseded
+
+  [02:09:15] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2023-12-16
+
+  [01:09:15] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Nicholas495 Greenfelder433
+    Location: CAMBRIDGE PUBLIC HEALTH COMMISSION
+    Duration: 01:09:15 - 01:43:09
+
+  [01:09:15] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [01:09:15] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-12-16
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Essie785 Jannette265 is a 50 year-old nonhispanic white female.
+      # Social History
+
+  [01:09:15] DOCUMENT: History and physical note
+    Status: superseded
+
+  [01:43:09] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2024-02-02
+
+  [18:16:50] VISIT: General examination of patient (procedure)
+    Provider: Dr. Rubén780 Padrón382
+    Location: DAVIS SQUARE FAMILY PRACTICE
+    Duration: 18:16:50 - 18:31:50
+
+  [18:16:50] IMMUNIZATION: zoster vaccine, live
+    Status: completed
+
+  [18:16:50] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [18:16:50] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [18:16:50] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-02-02
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Essie785 Jannette265 is a 51 year-old nonhispanic white female.
+      # Social History
+
+  [18:16:50] DOCUMENT: History and physical note
+    Status: superseded
+
+  [18:31:50] CLAIM: professional
+    Amount: USD 544.80
+
+
+📅 2024-03-27
+
+  [02:43:09] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Nicholas495 Greenfelder433
+    Location: CAMBRIDGE PUBLIC HEALTH COMMISSION
+    Duration: 02:43:09 - 03:26:05
+
+  [02:43:09] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [02:43:09] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-03-27
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Essie785 Jannette265 is a 51 year-old nonhispanic white female.
+      # Social History
+
+  [02:43:09] DOCUMENT: History and physical note
+    Status: superseded
+
+  [03:26:05] CLAIM: professional
+    Amount: USD 573.98
+
+  [03:26:05] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Nicholas495 Greenfelder433
+    Location: CAMBRIDGE PUBLIC HEALTH COMMISSION
+    Duration: 03:26:05 - 03:48:25
+
+  [03:26:05] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [03:26:05] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-03-27
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Essie785 Jannette265 is a 51 year-old nonhispanic white female.
+      # Social History
+
+  [03:26:05] DOCUMENT: History and physical note
+    Status: superseded
+
+  [03:48:25] CLAIM: professional
+    Amount: USD 211.60
+
+  [03:48:25] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Nicholas495 Greenfelder433
+    Location: CAMBRIDGE PUBLIC HEALTH COMMISSION
+    Duration: 03:48:25 - 04:18:04
+
+  [03:48:25] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [03:48:25] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-03-27
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Essie785 Jannette265 is a 51 year-old nonhispanic white female.
+      # Social History
+
+  [03:48:25] DOCUMENT: History and physical note
+    Status: superseded
+
+  [03:59:24] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [04:18:04] OBSERVATION: Response to cancer treatment: Improving (qualifier value)
+
+  [04:18:04] CLAIM: professional
+    Amount: USD 2060.04
+
+
+📅 2024-07-24
+
+  [04:18:04] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Nicholas495 Greenfelder433
+    Location: CAMBRIDGE PUBLIC HEALTH COMMISSION
+    Duration: 04:18:04 - 04:53:22
+
+  [04:18:04] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [04:18:04] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-07-24
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Essie785 Jannette265 is a 51 year-old nonhispanic white female.
+      # Social History
+
+  [04:18:04] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:53:22] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2024-11-12
+
+  [03:53:22] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Nicholas495 Greenfelder433
+    Location: CAMBRIDGE PUBLIC HEALTH COMMISSION
+    Duration: 03:53:22 - 04:25:38
+
+  [03:53:22] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [03:53:22] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-11-12
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Essie785 Jannette265 is a 51 year-old nonhispanic white female.
+      # Social History
+
+  [03:53:22] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:25:38] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2025-02-07
+
+  [18:16:50] VISIT: General examination of patient (procedure)
+    Provider: Dr. Rubén780 Padrón382
+    Location: DAVIS SQUARE FAMILY PRACTICE
+    Duration: 18:16:50 - 18:31:50
+
+  [18:16:50] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [18:16:50] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-02-07
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Essie785 Jannette265 is a 52 year-old nonhispanic white female.
+      # Social History
+
+  [18:16:50] DOCUMENT: History and physical note
+    Status: superseded
+
+  [18:31:50] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2025-02-24
+
+  [04:25:38] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Nicholas495 Greenfelder433
+    Location: CAMBRIDGE PUBLIC HEALTH COMMISSION
+    Duration: 04:25:38 - 05:01:07
+
+  [04:25:38] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [04:25:38] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-02-24
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Essie785 Jannette265 is a 52 year-old nonhispanic white female.
+      # Social History
+
+  [04:25:38] DOCUMENT: History and physical note
+    Status: superseded
+
+  [05:01:07] CLAIM: professional
+    Amount: USD 573.98
+
+  [05:01:07] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Nicholas495 Greenfelder433
+    Location: CAMBRIDGE PUBLIC HEALTH COMMISSION
+    Duration: 05:01:07 - 05:17:42
+
+  [05:01:07] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [05:01:07] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-02-24
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Essie785 Jannette265 is a 52 year-old nonhispanic white female.
+      # Social History
+
+  [05:01:07] DOCUMENT: History and physical note
+    Status: superseded
+
+  [05:17:42] CLAIM: professional
+    Amount: USD 211.60
+
+  [05:17:42] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Nicholas495 Greenfelder433
+    Location: CAMBRIDGE PUBLIC HEALTH COMMISSION
+    Duration: 05:17:42 - 05:43:54
+
+  [05:17:42] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [05:17:42] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-02-24
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Essie785 Jannette265 is a 52 year-old nonhispanic white female.
+      # Social History
+
+  [05:17:42] DOCUMENT: History and physical note
+    Status: superseded
+
+  [05:31:28] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [05:43:54] OBSERVATION: Response to cancer treatment: Improving (qualifier value)
+
+  [05:43:54] CLAIM: professional
+    Amount: USD 1172.35
+
+
+📅 2025-06-04
+
+  [06:43:54] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Nicholas495 Greenfelder433
+    Location: CAMBRIDGE PUBLIC HEALTH COMMISSION
+    Duration: 06:43:54 - 07:20:38
+
+  [06:43:54] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [06:43:54] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-06-04
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Essie785 Jannette265 is a 52 year-old nonhispanic white female.
+      # Social History
+
+  [06:43:54] DOCUMENT: History and physical note
+    Status: superseded
+
+  [07:20:38] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2025-09-22
+
+  [07:20:38] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Nicholas495 Greenfelder433
+    Location: CAMBRIDGE PUBLIC HEALTH COMMISSION
+    Duration: 07:20:38 - 07:58:07
+
+  [07:20:38] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [07:20:38] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-09-22
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Essie785 Jannette265 is a 52 year-old nonhispanic white female.
+      # Social History
+
+  [07:20:38] DOCUMENT: History and physical note
+    Status: superseded
+
+  [07:58:07] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2026-01-22
+
+  [06:58:07] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Nicholas495 Greenfelder433
+    Location: CAMBRIDGE PUBLIC HEALTH COMMISSION
+    Duration: 06:58:07 - 07:34:20
+
+  [06:58:07] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [06:58:07] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2026-01-22
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Essie785 Jannette265 is a 52 year-old nonhispanic white female.
+      # Social History
+
+  [06:58:07] DOCUMENT: History and physical note
+    Status: superseded
+
+  [07:34:20] CLAIM: professional
+    Amount: USD 573.98
+
+  [07:34:20] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Nicholas495 Greenfelder433
+    Location: CAMBRIDGE PUBLIC HEALTH COMMISSION
+    Duration: 07:34:20 - 07:57:13
+
+  [07:34:20] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [07:34:20] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2026-01-22
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Essie785 Jannette265 is a 52 year-old nonhispanic white female.
+      # Social History
+
+  [07:34:20] DOCUMENT: History and physical note
+    Status: superseded
+
+  [07:57:13] CLAIM: professional
+    Amount: USD 325.49
+
+  [07:57:13] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Nicholas495 Greenfelder433
+    Location: CAMBRIDGE PUBLIC HEALTH COMMISSION
+    Duration: 07:57:13 - 08:20:25
+
+  [07:57:13] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [07:57:13] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2026-01-22
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Essie785 Jannette265 is a 52 year-old nonhispanic white female.
+      # Social History
+
+  [07:57:13] DOCUMENT: History and physical note
+    Status: current
+
+  [08:08:42] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [08:20:25] OBSERVATION: Response to cancer treatment: Improving (qualifier value)
+
+  [08:20:25] CLAIM: professional
+    Amount: USD 1585.35
+
+
+📅 2026-02-13
+
+  [18:16:50] PROVENANCE: Record activity
+    Agents: Dr. Nicholas495 Greenfelder433, Dr. Nicholas495 Greenfelder433
+
+================================================================================
+END OF TIMELINE (176 events)
+================================================================================

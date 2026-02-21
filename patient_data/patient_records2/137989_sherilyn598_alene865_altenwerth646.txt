@@ -1,0 +1,1104 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Mrs. Sherilyn598 Alene865 Altenwerth646
+  Patient ID: 137989
+  Date of Birth: 1959-06-07
+  Gender: Female
+  Race: White
+  Ethnicity: Not Hispanic or Latino
+  Marital Status: Married
+  Address: 876 Klein Promenade Unit 93, Marlborough, MA 01752
+  Phone: 555-369-1568
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2004-06-02
+
+  [07:27:36] VISIT: Periodic reevaluation and management of healthy individual (procedure)
+    Reason: Screening for malignant neoplasm of breast (procedure)
+    Provider: Dr. Gregg522 Willms744
+    Location: MARLBOROUGH HOSPITAL CORP
+    Duration: 07:27:36 - 13:40:05
+
+  [07:27:36] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2004-06-02
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Sherilyn598 Alene865 is a 44 year-old nonhispanic white female.
+      # Social History
+
+  [07:27:36] DOCUMENT: History and physical note
+    Status: superseded
+
+  [09:21:05] CONDITION: Malignant neoplasm of breast (disorder) (active)
+
+
+📅 2004-06-03
+
+  [13:40:05] CLAIM: professional
+    Amount: USD 8986.33
+
+
+📅 2016-07-17
+
+  [07:27:36] VISIT: General examination of patient (procedure)
+    Provider: Dr. Denis399 Kohler843
+    Location: DR. HE'S PRIMARY CARE FOR ADULTS INC
+    Duration: 07:27:36 - 07:42:36
+
+  [07:27:36] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [07:27:36] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-07-17
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Sherilyn598 Alene865 is a 57 year-old nonhispanic white female.
+      # Social History
+
+  [07:27:36] DOCUMENT: History and physical note
+    Status: superseded
+
+  [07:42:36] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2017-02-21
+
+  [06:30:28] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Gregg522 Willms744
+    Location: MARLBOROUGH HOSPITAL CORP
+    Duration: 06:30:28 - 07:06:29
+
+  [06:30:28] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [06:30:28] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-02-21
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Sherilyn598 Alene865 is a 57 year-old nonhispanic white female.
+      # Social History
+
+  [06:30:28] DOCUMENT: History and physical note
+    Status: superseded
+
+  [07:06:29] CLAIM: professional
+    Amount: USD 573.98
+
+  [07:06:29] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Gregg522 Willms744
+    Location: MARLBOROUGH HOSPITAL CORP
+    Duration: 07:06:29 - 07:29:26
+
+  [07:06:29] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [07:06:29] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-02-21
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Sherilyn598 Alene865 is a 57 year-old nonhispanic white female.
+      # Social History
+
+  [07:06:29] DOCUMENT: History and physical note
+    Status: superseded
+
+  [07:29:26] CLAIM: professional
+    Amount: USD 325.49
+
+  [07:29:26] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Gregg522 Willms744
+    Location: MARLBOROUGH HOSPITAL CORP
+    Duration: 07:29:26 - 07:53:00
+
+  [07:29:26] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [07:29:26] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-02-21
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Sherilyn598 Alene865 is a 57 year-old nonhispanic white female.
+      # Social History
+
+  [07:29:26] DOCUMENT: History and physical note
+    Status: superseded
+
+  [07:40:08] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [07:53:00] CLAIM: professional
+    Amount: USD 1221.08
+
+
+📅 2017-07-23
+
+  [07:27:36] VISIT: General examination of patient (procedure)
+    Provider: Dr. Denis399 Kohler843
+    Location: DR. HE'S PRIMARY CARE FOR ADULTS INC
+    Duration: 07:27:36 - 07:42:36
+
+  [07:27:36] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [07:27:36] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-07-23
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Sherilyn598 Alene865 is a 58 year-old nonhispanic white female.
+      # Social History
+
+  [07:27:36] DOCUMENT: History and physical note
+    Status: superseded
+
+  [07:42:36] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2018-02-12
+
+  [07:53:00] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Gregg522 Willms744
+    Location: MARLBOROUGH HOSPITAL CORP
+    Duration: 07:53:00 - 08:29:54
+
+  [07:53:00] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [07:53:00] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-02-12
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Sherilyn598 Alene865 is a 58 year-old nonhispanic white female.
+      # Social History
+
+  [07:53:00] DOCUMENT: History and physical note
+    Status: superseded
+
+  [08:29:54] CLAIM: professional
+    Amount: USD 573.98
+
+  [08:29:54] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Gregg522 Willms744
+    Location: MARLBOROUGH HOSPITAL CORP
+    Duration: 08:29:54 - 08:45:01
+
+  [08:29:54] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [08:29:54] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-02-12
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Sherilyn598 Alene865 is a 58 year-old nonhispanic white female.
+      # Social History
+
+  [08:29:54] DOCUMENT: History and physical note
+    Status: superseded
+
+  [08:45:01] CLAIM: professional
+    Amount: USD 234.65
+
+  [08:45:01] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Gregg522 Willms744
+    Location: MARLBOROUGH HOSPITAL CORP
+    Duration: 08:45:01 - 09:12:45
+
+  [08:45:01] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [08:45:01] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-02-12
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Sherilyn598 Alene865 is a 58 year-old nonhispanic white female.
+      # Social History
+
+  [08:45:01] DOCUMENT: History and physical note
+    Status: superseded
+
+  [08:57:25] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [09:12:45] CLAIM: professional
+    Amount: USD 1332.95
+
+
+📅 2018-07-29
+
+  [07:27:36] VISIT: General examination of patient (procedure)
+    Provider: Dr. Denis399 Kohler843
+    Location: DR. HE'S PRIMARY CARE FOR ADULTS INC
+    Duration: 07:27:36 - 07:42:36
+
+  [07:27:36] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [07:27:36] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-07-29
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Sherilyn598 Alene865 is a 59 year-old nonhispanic white female.
+      # Social History
+
+  [07:27:36] DOCUMENT: History and physical note
+    Status: superseded
+
+  [07:42:36] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2019-02-04
+
+  [09:12:45] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Gregg522 Willms744
+    Location: MARLBOROUGH HOSPITAL CORP
+    Duration: 09:12:45 - 09:54:33
+
+  [09:12:45] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [09:12:45] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-02-04
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Sherilyn598 Alene865 is a 59 year-old nonhispanic white female.
+      # Social History
+
+  [09:12:45] DOCUMENT: History and physical note
+    Status: superseded
+
+  [09:54:33] CLAIM: professional
+    Amount: USD 573.98
+
+  [09:54:33] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Gregg522 Willms744
+    Location: MARLBOROUGH HOSPITAL CORP
+    Duration: 09:54:33 - 10:18:24
+
+  [09:54:33] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [09:54:33] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-02-04
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Sherilyn598 Alene865 is a 59 year-old nonhispanic white female.
+      # Social History
+
+  [09:54:33] DOCUMENT: History and physical note
+    Status: superseded
+
+  [10:18:24] CLAIM: professional
+    Amount: USD 244.33
+
+  [10:18:24] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Gregg522 Willms744
+    Location: MARLBOROUGH HOSPITAL CORP
+    Duration: 10:18:24 - 10:43:37
+
+  [10:18:24] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [10:18:24] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-02-04
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Sherilyn598 Alene865 is a 59 year-old nonhispanic white female.
+      # Social History
+
+  [10:18:24] DOCUMENT: History and physical note
+    Status: superseded
+
+  [10:32:51] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [10:43:37] CLAIM: professional
+    Amount: USD 3053.33
+
+
+📅 2019-08-04
+
+  [07:27:36] VISIT: General examination of patient (procedure)
+    Provider: Dr. Denis399 Kohler843
+    Location: DR. HE'S PRIMARY CARE FOR ADULTS INC
+    Duration: 07:27:36 - 07:42:36
+
+  [07:27:36] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [07:27:36] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-08-04
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Sherilyn598 Alene865 is a 60 year-old nonhispanic white female.
+      # Social History
+
+  [07:27:36] DOCUMENT: History and physical note
+    Status: superseded
+
+  [07:42:36] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2020-01-14
+
+  [10:43:37] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Gregg522 Willms744
+    Location: MARLBOROUGH HOSPITAL CORP
+    Duration: 10:43:37 - 11:20:47
+
+  [10:43:37] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [10:43:37] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-01-14
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Sherilyn598 Alene865 is a 60 year-old nonhispanic white female.
+      # Social History
+
+  [10:43:37] DOCUMENT: History and physical note
+    Status: superseded
+
+  [11:20:47] CLAIM: professional
+    Amount: USD 573.98
+
+  [11:20:47] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Gregg522 Willms744
+    Location: MARLBOROUGH HOSPITAL CORP
+    Duration: 11:20:47 - 11:43:49
+
+  [11:20:47] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [11:20:47] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-01-14
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Sherilyn598 Alene865 is a 60 year-old nonhispanic white female.
+      # Social History
+
+  [11:20:47] DOCUMENT: History and physical note
+    Status: superseded
+
+  [11:43:49] CLAIM: professional
+    Amount: USD 311.18
+
+  [11:43:49] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Gregg522 Willms744
+    Location: MARLBOROUGH HOSPITAL CORP
+    Duration: 11:43:49 - 12:06:20
+
+  [11:43:49] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [11:43:49] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-01-14
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Sherilyn598 Alene865 is a 60 year-old nonhispanic white female.
+      # Social History
+
+  [11:43:49] DOCUMENT: History and physical note
+    Status: superseded
+
+  [11:54:16] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [12:06:20] CLAIM: professional
+    Amount: USD 1091.66
+
+
+📅 2020-08-09
+
+  [07:27:36] VISIT: General examination of patient (procedure)
+    Provider: Dr. Denis399 Kohler843
+    Location: DR. HE'S PRIMARY CARE FOR ADULTS INC
+    Duration: 07:27:36 - 07:42:36
+
+  [07:27:36] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [07:27:36] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [07:27:36] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-08-09
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Sherilyn598 Alene865 is a 61 year-old nonhispanic white female.
+      # Social History
+
+  [07:27:36] DOCUMENT: History and physical note
+    Status: superseded
+
+  [07:42:36] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2020-12-29
+
+  [12:06:20] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Gregg522 Willms744
+    Location: MARLBOROUGH HOSPITAL CORP
+    Duration: 12:06:20 - 12:42:09
+
+  [12:06:20] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [12:06:20] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-12-29
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Sherilyn598 Alene865 is a 61 year-old nonhispanic white female.
+      # Social History
+
+  [12:06:20] DOCUMENT: History and physical note
+    Status: superseded
+
+  [12:42:09] CLAIM: professional
+    Amount: USD 573.98
+
+  [12:42:09] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Gregg522 Willms744
+    Location: MARLBOROUGH HOSPITAL CORP
+    Duration: 12:42:09 - 12:57:53
+
+  [12:42:09] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [12:42:09] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-12-29
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Sherilyn598 Alene865 is a 61 year-old nonhispanic white female.
+      # Social History
+
+  [12:42:09] DOCUMENT: History and physical note
+    Status: superseded
+
+  [12:57:53] CLAIM: professional
+    Amount: USD 325.49
+
+  [12:57:53] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Gregg522 Willms744
+    Location: MARLBOROUGH HOSPITAL CORP
+    Duration: 12:57:53 - 13:25:48
+
+  [12:57:53] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [12:57:53] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-12-29
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Sherilyn598 Alene865 is a 61 year-old nonhispanic white female.
+      # Social History
+
+  [12:57:53] DOCUMENT: History and physical note
+    Status: superseded
+
+  [13:09:07] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [13:25:48] CLAIM: professional
+    Amount: USD 1916.64
+
+
+📅 2021-08-15
+
+  [07:27:36] VISIT: General examination of patient (procedure)
+    Provider: Dr. Denis399 Kohler843
+    Location: DR. HE'S PRIMARY CARE FOR ADULTS INC
+    Duration: 07:27:36 - 07:42:36
+
+  [07:27:36] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [07:27:36] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-08-15
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Sherilyn598 Alene865 is a 62 year-old nonhispanic white female.
+      # Social History
+
+  [07:27:36] DOCUMENT: History and physical note
+    Status: superseded
+
+  [07:42:36] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2022-01-08
+
+  [13:25:48] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Gregg522 Willms744
+    Location: MARLBOROUGH HOSPITAL CORP
+    Duration: 13:25:48 - 14:07:29
+
+  [13:25:48] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [13:25:48] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-01-08
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Sherilyn598 Alene865 is a 62 year-old nonhispanic white female.
+      # Social History
+
+  [13:25:48] DOCUMENT: History and physical note
+    Status: superseded
+
+  [14:07:29] CLAIM: professional
+    Amount: USD 573.98
+
+  [14:07:29] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Gregg522 Willms744
+    Location: MARLBOROUGH HOSPITAL CORP
+    Duration: 14:07:29 - 14:30:49
+
+  [14:07:29] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [14:07:29] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-01-08
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Sherilyn598 Alene865 is a 62 year-old nonhispanic white female.
+      # Social History
+
+  [14:07:29] DOCUMENT: History and physical note
+    Status: superseded
+
+  [14:30:49] CLAIM: professional
+    Amount: USD 325.49
+
+  [14:30:49] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Gregg522 Willms744
+    Location: MARLBOROUGH HOSPITAL CORP
+    Duration: 14:30:49 - 14:53:24
+
+  [14:30:49] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [14:30:49] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-01-08
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Sherilyn598 Alene865 is a 62 year-old nonhispanic white female.
+      # Social History
+
+  [14:30:49] DOCUMENT: History and physical note
+    Status: superseded
+
+  [14:41:57] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [14:53:24] CLAIM: professional
+    Amount: USD 1091.66
+
+
+📅 2022-08-21
+
+  [07:27:36] VISIT: General examination of patient (procedure)
+    Provider: Dr. Denis399 Kohler843
+    Location: DR. HE'S PRIMARY CARE FOR ADULTS INC
+    Duration: 07:27:36 - 07:42:36
+
+  [07:27:36] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [07:27:36] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-08-21
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Sherilyn598 Alene865 is a 63 year-old nonhispanic white female.
+      # Social History
+
+  [07:27:36] DOCUMENT: History and physical note
+    Status: superseded
+
+  [07:42:36] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2023-01-26
+
+  [14:53:24] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Gregg522 Willms744
+    Location: MARLBOROUGH HOSPITAL CORP
+    Duration: 14:53:24 - 15:33:53
+
+  [14:53:24] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [14:53:24] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-01-26
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Sherilyn598 Alene865 is a 63 year-old nonhispanic white female.
+      # Social History
+
+  [14:53:24] DOCUMENT: History and physical note
+    Status: superseded
+
+  [15:33:53] CLAIM: professional
+    Amount: USD 573.98
+
+  [15:33:53] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Gregg522 Willms744
+    Location: MARLBOROUGH HOSPITAL CORP
+    Duration: 15:33:53 - 15:49:55
+
+  [15:33:53] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [15:33:53] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-01-26
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Sherilyn598 Alene865 is a 63 year-old nonhispanic white female.
+      # Social History
+
+  [15:33:53] DOCUMENT: History and physical note
+    Status: superseded
+
+  [15:49:55] CLAIM: professional
+    Amount: USD 211.60
+
+  [15:49:55] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Gregg522 Willms744
+    Location: MARLBOROUGH HOSPITAL CORP
+    Duration: 15:49:55 - 16:22:11
+
+  [15:49:55] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [15:49:55] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-01-26
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Sherilyn598 Alene865 is a 63 year-old nonhispanic white female.
+      # Social History
+
+  [15:49:55] DOCUMENT: History and physical note
+    Status: superseded
+
+  [16:04:45] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [16:22:11] CLAIM: professional
+    Amount: USD 1091.66
+
+
+📅 2023-08-27
+
+  [07:27:36] VISIT: General examination of patient (procedure)
+    Provider: Dr. Denis399 Kohler843
+    Location: DR. HE'S PRIMARY CARE FOR ADULTS INC
+    Duration: 07:27:36 - 07:42:36
+
+  [07:27:36] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [07:27:36] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-08-27
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Sherilyn598 Alene865 is a 64 year-old nonhispanic white female.
+      # Social History
+
+  [07:27:36] DOCUMENT: History and physical note
+    Status: superseded
+
+  [07:42:36] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2024-01-02
+
+  [16:22:11] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Gregg522 Willms744
+    Location: MARLBOROUGH HOSPITAL CORP
+    Duration: 16:22:11 - 17:00:23
+
+  [16:22:11] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [16:22:11] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-01-02
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Sherilyn598 Alene865 is a 64 year-old nonhispanic white female.
+      # Social History
+
+  [16:22:11] DOCUMENT: History and physical note
+    Status: superseded
+
+  [17:00:23] CLAIM: professional
+    Amount: USD 573.98
+
+  [17:00:23] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Gregg522 Willms744
+    Location: MARLBOROUGH HOSPITAL CORP
+    Duration: 17:00:23 - 17:23:45
+
+  [17:00:23] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [17:00:23] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-01-02
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Sherilyn598 Alene865 is a 64 year-old nonhispanic white female.
+      # Social History
+
+  [17:00:23] DOCUMENT: History and physical note
+    Status: superseded
+
+  [17:23:45] CLAIM: professional
+    Amount: USD 248.33
+
+  [17:23:45] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Gregg522 Willms744
+    Location: MARLBOROUGH HOSPITAL CORP
+    Duration: 17:23:45 - 17:51:37
+
+  [17:23:45] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [17:23:45] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-01-02
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Sherilyn598 Alene865 is a 64 year-old nonhispanic white female.
+      # Social History
+
+  [17:23:45] DOCUMENT: History and physical note
+    Status: superseded
+
+  [17:36:26] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [17:51:37] CLAIM: professional
+    Amount: USD 3720.98
+
+
+📅 2024-09-01
+
+  [07:27:36] VISIT: General examination of patient (procedure)
+    Provider: Dr. Denis399 Kohler843
+    Location: DR. HE'S PRIMARY CARE FOR ADULTS INC
+    Duration: 07:27:36 - 07:42:36
+
+  [07:27:36] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [07:27:36] IMMUNIZATION: Pneumococcal conjugate PCV 13
+    Status: completed
+
+  [07:27:36] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-09-01
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Sherilyn598 Alene865 is a 65 year-old nonhispanic white female.
+      # Social History
+
+  [07:27:36] DOCUMENT: History and physical note
+    Status: superseded
+
+  [07:42:36] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2024-12-24
+
+  [17:51:37] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Gregg522 Willms744
+    Location: MARLBOROUGH HOSPITAL CORP
+    Duration: 17:51:37 - 18:30:15
+
+  [17:51:37] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [17:51:37] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-12-24
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Sherilyn598 Alene865 is a 65 year-old nonhispanic white female.
+      # Social History
+
+  [17:51:37] DOCUMENT: History and physical note
+    Status: superseded
+
+  [18:30:15] CLAIM: professional
+    Amount: USD 573.98
+
+  [18:30:15] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Gregg522 Willms744
+    Location: MARLBOROUGH HOSPITAL CORP
+    Duration: 18:30:15 - 18:51:46
+
+  [18:30:15] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [18:30:15] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-12-24
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Sherilyn598 Alene865 is a 65 year-old nonhispanic white female.
+      # Social History
+
+  [18:30:15] DOCUMENT: History and physical note
+    Status: superseded
+
+  [18:51:46] CLAIM: professional
+    Amount: USD 236.68
+
+  [18:51:46] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Gregg522 Willms744
+    Location: MARLBOROUGH HOSPITAL CORP
+    Duration: 18:51:46 - 19:14:22
+
+  [18:51:46] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [18:51:46] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-12-24
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Sherilyn598 Alene865 is a 65 year-old nonhispanic white female.
+      # Social History
+
+  [18:51:46] DOCUMENT: History and physical note
+    Status: superseded
+
+  [19:02:12] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [19:14:22] CLAIM: professional
+    Amount: USD 1423.08
+
+
+📅 2025-09-07
+
+  [07:27:36] VISIT: General examination of patient (procedure)
+    Provider: Dr. Denis399 Kohler843
+    Location: DR. HE'S PRIMARY CARE FOR ADULTS INC
+    Duration: 07:27:36 - 07:42:36
+
+  [07:27:36] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [07:27:36] IMMUNIZATION: pneumococcal polysaccharide vaccine, 23 valent
+    Status: completed
+
+  [07:27:36] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-09-07
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Sherilyn598 Alene865 is a 66 year-old nonhispanic white female.
+      # Social History
+
+  [07:27:36] DOCUMENT: History and physical note
+    Status: superseded
+
+  [07:42:36] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2025-12-06
+
+  [19:14:22] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Gregg522 Willms744
+    Location: MARLBOROUGH HOSPITAL CORP
+    Duration: 19:14:22 - 19:57:46
+
+  [19:14:22] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [19:14:22] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-12-06
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Sherilyn598 Alene865 is a 66 year-old nonhispanic white female.
+      # Social History
+
+  [19:14:22] DOCUMENT: History and physical note
+    Status: superseded
+
+  [19:57:46] CLAIM: professional
+    Amount: USD 573.98
+
+  [19:57:46] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Gregg522 Willms744
+    Location: MARLBOROUGH HOSPITAL CORP
+    Duration: 19:57:46 - 20:17:44
+
+  [19:57:46] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [19:57:46] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-12-06
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Sherilyn598 Alene865 is a 66 year-old nonhispanic white female.
+      # Social History
+
+  [19:57:46] DOCUMENT: History and physical note
+    Status: superseded
+
+  [20:17:44] CLAIM: professional
+    Amount: USD 211.60
+
+  [20:17:44] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Gregg522 Willms744
+    Location: MARLBOROUGH HOSPITAL CORP
+    Duration: 20:17:44 - 20:46:36
+
+  [20:17:44] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [20:17:44] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-12-06
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Sherilyn598 Alene865 is a 66 year-old nonhispanic white female.
+      # Social History
+
+  [20:17:44] DOCUMENT: History and physical note
+    Status: current
+
+  [20:31:40] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [20:46:36] CLAIM: professional
+    Amount: USD 1213.31
+
+
+📅 2026-02-15
+
+  [06:27:36] PROVENANCE: Record activity
+    Agents: Dr. Gregg522 Willms744, Dr. Gregg522 Willms744
+
+================================================================================
+END OF TIMELINE (219 events)
+================================================================================

@@ -1,0 +1,159 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Mrs. Angelique249 Susanne275 Christiansen251
+  Patient ID: 11156
+  Date of Birth: 1984-05-19
+  Gender: Female
+  Race: White
+  Ethnicity: Not Hispanic or Latino
+  Marital Status: Married
+  Address: 903 Schimmel Brook Unit 48, Brockton, MA 02351
+  Phone: 555-544-7920
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2018-08-04
+
+  [04:28:25] VISIT: General examination of patient (procedure)
+    Provider: Dr. Rebeca548 García15
+    Location: DILIGENCEHEALTHCARE
+    Duration: 04:28:25 - 04:43:25
+
+  [04:28:25] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [04:28:25] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-08-04
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Angelique249 Susanne275 is a 34 year-old nonhispanic white female.
+      # Social History
+
+  [04:28:25] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:43:25] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2021-08-07
+
+  [04:28:25] VISIT: General examination of patient (procedure)
+    Provider: Dr. Rebeca548 García15
+    Location: DILIGENCEHEALTHCARE
+    Duration: 04:28:25 - 04:43:25
+
+  [04:28:25] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [04:28:25] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-08-07
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Angelique249 Susanne275 is a 37 year-old nonhispanic white female.
+      # Social History
+
+  [04:28:25] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:43:25] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2022-03-12
+
+  [03:28:25] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Damaris45 Funk324
+    Location: BROCKTON HOSPITAL, INC.
+    Duration: 03:28:25 - 03:43:25
+
+  [03:28:25] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+    Status: completed
+
+  [03:28:25] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-03-12
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Angelique249 Susanne275 is a 37 year-old nonhispanic white female.
+      # Social History
+
+  [03:28:25] DOCUMENT: History and physical note
+    Status: superseded
+
+  [03:43:25] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2022-04-09
+
+  [04:28:25] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Damaris45 Funk324
+    Location: BROCKTON HOSPITAL, INC.
+    Duration: 04:28:25 - 04:43:25
+
+  [04:28:25] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+    Status: completed
+
+  [04:28:25] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-04-09
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Angelique249 Susanne275 is a 37 year-old nonhispanic white female.
+      # Social History
+
+  [04:28:25] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:43:25] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2024-05-25
+
+  [04:28:25] VISIT: General examination of patient (procedure)
+    Provider: Dr. Rebeca548 García15
+    Location: DILIGENCEHEALTHCARE
+    Duration: 04:28:25 - 04:43:25
+
+  [04:28:25] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [04:28:25] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [04:28:25] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-05-25
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Angelique249 Susanne275 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [04:28:25] DOCUMENT: History and physical note
+    Status: current
+
+  [04:43:25] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2026-02-14
+
+  [03:28:25] PROVENANCE: Record activity
+    Agents: Dr. Rebeca548 García15, Dr. Rebeca548 García15
+
+================================================================================
+END OF TIMELINE (27 events)
+================================================================================

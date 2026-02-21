@@ -1,7 +1,10 @@
 """Celery tasks: run audit job; create scheduled jobs (CRON)."""
 
+import logging
 from datetime import datetime, timezone
 from uuid import UUID
+
+logger = logging.getLogger(__name__)
 
 from sqlalchemy.orm import Session
 
@@ -24,6 +27,15 @@ def run_audit_task(self, job_id: str):
             return {"ok": False, "error": "Job not found"}
         if job.status != JobStatus.PENDING:
             return {"ok": False, "error": f"Job not pending: {job.status}"}
+
+        logger.info(
+            "audit_started job_id=%s patient_id=%s audit_type=%s export_type=%s sensitivity=%s",
+            job.id,
+            job.patient_id,
+            getattr(job, "audit_type", "general"),
+            getattr(job, "export_type"),
+            getattr(job, "sensitivity"),
+        )
 
         # Update task state to show progress
         self.update_state(
@@ -49,7 +61,13 @@ def run_audit_task(self, job_id: str):
         )
 
         report_create = run_audit(
-            job.id, job.patient_id, job.export_type, getattr(job, "audit_type", None)
+            job.id,
+            job.patient_id,
+            job.export_type,
+            getattr(job, "audit_type", None),
+            sensitivity=getattr(job, "sensitivity", None),
+            model=getattr(job, "model", None),
+            extraction_mode=getattr(job, "extraction_mode", None),
         )
 
         # Update progress: Processing complete

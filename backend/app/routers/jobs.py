@@ -20,6 +20,9 @@ def _create_one_job(
     audit_type: str | None = None,
     export_type: str | None = None,
     triggered_by: str | None = None,
+    sensitivity: float | None = None,
+    model: str | None = None,
+    extraction_mode: str | None = None,
 ) -> Job:
     job = Job(
         patient_id=patient_id,
@@ -27,6 +30,9 @@ def _create_one_job(
         status=JobStatus.PENDING,
         export_type=export_type,
         triggered_by=triggered_by,
+        sensitivity=sensitivity,
+        model=model,
+        extraction_mode=extraction_mode,
     )
     db.add(job)
     db.commit()
@@ -47,6 +53,9 @@ def create_job(
         audit_type=body.audit_type,
         export_type=body.export_type,
         triggered_by=body.triggered_by,
+        sensitivity=body.sensitivity,
+        model=body.model,
+        extraction_mode=body.extraction_mode,
     )
     from app.worker.tasks import run_audit_task
 
@@ -76,6 +85,9 @@ def create_jobs_batch(
             audit_type=body.audit_type,
             export_type=body.export_type,
             triggered_by=body.triggered_by,
+            sensitivity=body.sensitivity,
+            model=body.model,
+            extraction_mode=body.extraction_mode,
         )
         jobs.append(job)
         run_audit_task.delay(str(job.id))

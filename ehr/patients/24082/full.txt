@@ -1,0 +1,347 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Ms. Carmen818 Carolina179 Salas880
+  Patient ID: 24082
+  Date of Birth: 1966-02-20
+  Gender: Female
+  Race: White
+  Ethnicity: Hispanic or Latino
+  Marital Status: Never Married
+  Address: 587 Funk Terrace, Chicopee, MA 01013
+  Phone: 555-669-8734
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2016-02-21
+
+  [19:26:52] VISIT: General examination of patient (procedure)
+    Provider: Dr. Bennett146 Hartmann983
+    Location: HOLYOKE HEALTH CENTER INC
+    Duration: 19:26:52 - 19:41:52
+
+  [19:26:52] IMMUNIZATION: zoster vaccine, live
+    Status: completed
+
+  [19:26:52] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [19:26:52] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-02-21
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Carmen818 is a 50 year-old hispanic white female.
+      # Social History
+
+  [19:26:52] DOCUMENT: History and physical note
+    Status: superseded
+
+  [19:41:52] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2017-02-26
+
+  [19:26:52] VISIT: General examination of patient (procedure)
+    Provider: Dr. Bennett146 Hartmann983
+    Location: HOLYOKE HEALTH CENTER INC
+    Duration: 19:26:52 - 19:41:52
+
+  [19:26:52] IMMUNIZATION: zoster vaccine, live
+    Status: completed
+
+  [19:26:52] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [19:26:52] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [19:26:52] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-02-26
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Carmen818 is a 51 year-old hispanic white female.
+      # Social History
+
+  [19:26:52] DOCUMENT: History and physical note
+    Status: superseded
+
+  [19:41:52] CLAIM: professional
+    Amount: USD 544.80
+
+
+📅 2018-03-04
+
+  [19:26:52] VISIT: General examination of patient (procedure)
+    Provider: Dr. Bennett146 Hartmann983
+    Location: HOLYOKE HEALTH CENTER INC
+    Duration: 19:26:52 - 19:41:52
+
+  [19:26:52] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [19:26:52] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-03-04
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Carmen818 is a 52 year-old hispanic white female.
+      # Social History
+
+  [19:26:52] DOCUMENT: History and physical note
+    Status: superseded
+
+  [19:41:52] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2019-03-10
+
+  [20:26:52] VISIT: General examination of patient (procedure)
+    Provider: Dr. Bennett146 Hartmann983
+    Location: HOLYOKE HEALTH CENTER INC
+    Duration: 20:26:52 - 20:41:52
+
+  [20:26:52] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [20:26:52] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-03-10
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Carmen818 is a 53 year-old hispanic white female.
+      # Social History
+
+  [20:26:52] DOCUMENT: History and physical note
+    Status: superseded
+
+  [20:41:52] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2020-03-15
+
+  [20:26:52] VISIT: General examination of patient (procedure)
+    Provider: Dr. Bennett146 Hartmann983
+    Location: HOLYOKE HEALTH CENTER INC
+    Duration: 20:26:52 - 20:41:52
+
+  [20:26:52] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [20:26:52] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-03-15
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Carmen818 is a 54 year-old hispanic white female.
+      # Social History
+
+  [20:26:52] DOCUMENT: History and physical note
+    Status: superseded
+
+  [20:41:52] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2021-03-21
+
+  [20:26:52] VISIT: General examination of patient (procedure)
+    Provider: Dr. Bennett146 Hartmann983
+    Location: HOLYOKE HEALTH CENTER INC
+    Duration: 20:26:52 - 20:41:52
+
+  [20:26:52] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [20:26:52] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-03-21
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Carmen818 is a 55 year-old hispanic white female.
+      # Social History
+
+  [20:26:52] DOCUMENT: History and physical note
+    Status: superseded
+
+  [20:41:52] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2021-11-07
+
+  [19:26:52] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Kala987 Wolf938
+    Location: HOLYOKE MEDICAL CENTER INC
+    Duration: 19:26:52 - 19:41:52
+
+  [19:26:52] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 30 mcg/0.3 mL dose
+    Status: completed
+
+  [19:26:52] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-11-07
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Carmen818 is a 55 year-old hispanic white female.
+      # Social History
+
+  [19:26:52] DOCUMENT: History and physical note
+    Status: superseded
+
+  [19:41:52] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-11-28
+
+  [19:26:52] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Kala987 Wolf938
+    Location: HOLYOKE MEDICAL CENTER INC
+    Duration: 19:26:52 - 19:41:52
+
+  [19:26:52] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 30 mcg/0.3 mL dose
+    Status: completed
+
+  [19:26:52] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-11-28
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Carmen818 is a 55 year-old hispanic white female.
+      # Social History
+
+  [19:26:52] DOCUMENT: History and physical note
+    Status: superseded
+
+  [19:41:52] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2022-03-27
+
+  [20:26:52] VISIT: General examination of patient (procedure)
+    Provider: Dr. Bennett146 Hartmann983
+    Location: HOLYOKE HEALTH CENTER INC
+    Duration: 20:26:52 - 20:41:52
+
+  [20:26:52] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [20:26:52] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-03-27
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Carmen818 is a 56 year-old hispanic white female.
+      # Social History
+
+  [20:26:52] DOCUMENT: History and physical note
+    Status: superseded
+
+  [20:41:52] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2023-04-02
+
+  [20:26:52] VISIT: General examination of patient (procedure)
+    Provider: Dr. Bennett146 Hartmann983
+    Location: HOLYOKE HEALTH CENTER INC
+    Duration: 20:26:52 - 20:41:52
+
+  [20:26:52] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [20:26:52] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-04-02
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Carmen818 is a 57 year-old hispanic white female.
+      # Social History
+
+  [20:26:52] DOCUMENT: History and physical note
+    Status: superseded
+
+  [20:41:52] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2024-04-07
+
+  [20:26:52] VISIT: General examination of patient (procedure)
+    Provider: Dr. Bennett146 Hartmann983
+    Location: HOLYOKE HEALTH CENTER INC
+    Duration: 20:26:52 - 20:41:52
+
+  [20:26:52] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [20:26:52] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-04-07
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Carmen818 is a 58 year-old hispanic white female.
+      # Social History
+
+  [20:26:52] DOCUMENT: History and physical note
+    Status: superseded
+
+  [20:41:52] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2025-04-13
+
+  [20:26:52] VISIT: General examination of patient (procedure)
+    Provider: Dr. Bennett146 Hartmann983
+    Location: HOLYOKE HEALTH CENTER INC
+    Duration: 20:26:52 - 20:41:52
+
+  [20:26:52] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [20:26:52] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-04-13
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Carmen818 is a 59 year-old hispanic white female.
+      # Social History
+
+  [20:26:52] DOCUMENT: History and physical note
+    Status: current
+
+  [20:41:52] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2026-02-15
+
+  [19:26:52] PROVENANCE: Record activity
+    Agents: Dr. Bennett146 Hartmann983, Dr. Bennett146 Hartmann983
+
+================================================================================
+END OF TIMELINE (64 events)
+================================================================================

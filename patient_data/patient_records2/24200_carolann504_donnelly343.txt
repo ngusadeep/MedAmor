@@ -1,0 +1,139 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Ms. Carolann504 Donnelly343
+  Patient ID: 24200
+  Date of Birth: 1984-01-09
+  Gender: Female
+  Race: White
+  Ethnicity: Not Hispanic or Latino
+  Marital Status: Never Married
+  Address: 159 Langosh Ramp Suite 58, Wilmington, MA 01887
+  Phone: 555-530-3103
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2018-03-26
+
+  [23:42:41] VISIT: General examination of patient (procedure)
+    Provider: Dr. Cythia210 Crona259
+    Location: LIGHTHOUSE PRIMARY CARE PC
+    Duration: 23:42:41 - 23:57:41
+
+  [23:42:41] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [23:42:41] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-03-26
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Carolann504 is a 34 year-old nonhispanic white female.
+      # Social History
+
+  [23:42:41] DOCUMENT: History and physical note
+    Status: superseded
+
+  [23:57:41] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2021-03-29
+
+  [23:42:41] VISIT: General examination of patient (procedure)
+    Provider: Dr. Cythia210 Crona259
+    Location: LIGHTHOUSE PRIMARY CARE PC
+    Duration: 23:42:41 - 23:57:41
+
+  [23:42:41] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [23:42:41] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-03-29
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Carolann504 is a 37 year-old nonhispanic white female.
+      # Social History
+
+  [23:42:41] DOCUMENT: History and physical note
+    Status: superseded
+
+  [23:57:41] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2024-01-15
+
+  [22:42:41] VISIT: General examination of patient (procedure)
+    Provider: Dr. Cythia210 Crona259
+    Location: LIGHTHOUSE PRIMARY CARE PC
+    Duration: 22:42:41 - 22:57:41
+
+  [22:42:41] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [22:42:41] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [22:42:41] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-01-15
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Carolann504 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [22:42:41] DOCUMENT: History and physical note
+    Status: superseded
+
+  [22:57:41] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2026-01-19
+
+  [22:42:41] VISIT: General examination of patient (procedure)
+    Provider: Dr. Cythia210 Crona259
+    Location: LIGHTHOUSE PRIMARY CARE PC
+    Duration: 22:42:41 - 22:57:41
+
+  [22:42:41] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [22:42:41] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [22:42:41] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [22:42:41] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2026-01-19
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Carolann504 is a 42 year-old nonhispanic white female.
+      # Social History
+
+  [22:42:41] DOCUMENT: History and physical note
+    Status: current
+
+  [22:57:41] CLAIM: professional
+    Amount: USD 544.80
+
+
+📅 2026-02-09
+
+  [22:42:41] PROVENANCE: Record activity
+    Agents: Dr. Cythia210 Crona259, Dr. Cythia210 Crona259
+
+================================================================================
+END OF TIMELINE (24 events)
+================================================================================

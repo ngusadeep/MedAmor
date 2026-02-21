@@ -1,0 +1,217 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Mrs. Micaela928 Adriana394 Rodrígez614
+  Patient ID: 111733
+  Date of Birth: 1975-11-15
+  Gender: Female
+  Race: White
+  Ethnicity: Hispanic or Latino
+  Marital Status: Widowed
+  Address: 670 Zieme Ville, Boston, MA 02135
+  Phone: 555-902-7606
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2017-11-25
+
+  [19:50:38] VISIT: General examination of patient (procedure)
+    Provider: Dr. Norah104 Friesen796
+    Location: HIGUCHI MEDICAL CARE, PLLC
+    Duration: 19:50:38 - 20:05:38
+
+  [19:50:38] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [19:50:38] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [19:50:38] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [19:50:38] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-11-25
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Micaela928 Adriana394 is a 42 year-old hispanic white female.
+      # Social History
+
+  [19:50:38] DOCUMENT: History and physical note
+    Status: superseded
+
+  [20:05:38] CLAIM: professional
+    Amount: USD 544.80
+
+
+📅 2019-11-30
+
+  [19:50:38] VISIT: General examination of patient (procedure)
+    Provider: Dr. Norah104 Friesen796
+    Location: HIGUCHI MEDICAL CARE, PLLC
+    Duration: 19:50:38 - 20:05:38
+
+  [19:50:38] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [19:50:38] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-11-30
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Micaela928 Adriana394 is a 44 year-old hispanic white female.
+      # Social History
+
+  [19:50:38] DOCUMENT: History and physical note
+    Status: superseded
+
+  [20:05:38] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2021-04-03
+
+  [20:50:38] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Jose871 Dicki44
+    Location: TUFTS MEDICAL CENTER, INC
+    Duration: 20:50:38 - 21:05:38
+
+  [20:50:38] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 30 mcg/0.3 mL dose
+    Status: completed
+
+  [20:50:38] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-04-03
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Micaela928 Adriana394 is a 45 year-old hispanic white female.
+      # Social History
+
+  [20:50:38] DOCUMENT: History and physical note
+    Status: superseded
+
+  [21:05:38] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-04-24
+
+  [20:50:38] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Jose871 Dicki44
+    Location: TUFTS MEDICAL CENTER, INC
+    Duration: 20:50:38 - 21:05:38
+
+  [20:50:38] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 30 mcg/0.3 mL dose
+    Status: completed
+
+  [20:50:38] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-04-24
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Micaela928 Adriana394 is a 45 year-old hispanic white female.
+      # Social History
+
+  [20:50:38] DOCUMENT: History and physical note
+    Status: superseded
+
+  [21:05:38] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-12-04
+
+  [19:50:38] VISIT: General examination of patient (procedure)
+    Provider: Dr. Norah104 Friesen796
+    Location: HIGUCHI MEDICAL CARE, PLLC
+    Duration: 19:50:38 - 20:05:38
+
+  [19:50:38] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [19:50:38] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-12-04
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Micaela928 Adriana394 is a 46 year-old hispanic white female.
+      # Social History
+
+  [19:50:38] DOCUMENT: History and physical note
+    Status: superseded
+
+  [20:05:38] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2023-12-09
+
+  [19:50:38] VISIT: General examination of patient (procedure)
+    Provider: Dr. Norah104 Friesen796
+    Location: HIGUCHI MEDICAL CARE, PLLC
+    Duration: 19:50:38 - 20:05:38
+
+  [19:50:38] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [19:50:38] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-12-09
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Micaela928 Adriana394 is a 48 year-old hispanic white female.
+      # Social History
+
+  [19:50:38] DOCUMENT: History and physical note
+    Status: superseded
+
+  [20:05:38] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2025-11-15
+
+  [19:50:38] VISIT: General examination of patient (procedure)
+    Provider: Dr. Norah104 Friesen796
+    Location: HIGUCHI MEDICAL CARE, PLLC
+    Duration: 19:50:38 - 20:05:38
+
+  [19:50:38] IMMUNIZATION: zoster vaccine, live
+    Status: completed
+
+  [19:50:38] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [19:50:38] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-11-15
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Micaela928 Adriana394 is a 50 year-old hispanic white female.
+      # Social History
+
+  [19:50:38] DOCUMENT: History and physical note
+    Status: current
+
+  [20:05:38] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2026-02-14
+
+  [19:50:38] PROVENANCE: Record activity
+    Agents: Dr. Norah104 Friesen796, Dr. Norah104 Friesen796
+
+================================================================================
+END OF TIMELINE (39 events)
+================================================================================

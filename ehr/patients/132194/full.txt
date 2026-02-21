@@ -1,0 +1,1103 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Mrs. Sachiko982 Reichel38
+  Patient ID: 132194
+  Date of Birth: 1967-09-11
+  Gender: Female
+  Race: White
+  Ethnicity: Not Hispanic or Latino
+  Marital Status: Divorced
+  Address: 597 Bode Street Suite 87, Haverhill, MA 01832
+  Phone: 555-276-5547
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2006-12-30
+
+  [09:41:05] VISIT: Periodic reevaluation and management of healthy individual (procedure)
+    Reason: Screening for malignant neoplasm of breast (procedure)
+    Provider: Dr. Sergio619 Volkman526
+    Location: STEWARD HOLY FAMILY HOSPITAL INC
+    Duration: 09:41:05 - 07:21:32
+
+  [09:41:05] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2006-12-30
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Sachiko982 is a 39 year-old nonhispanic white female.
+      # Social History
+
+  [09:41:05] DOCUMENT: History and physical note
+    Status: superseded
+
+  [11:18:32] CONDITION: Malignant neoplasm of breast (disorder) (active)
+
+
+📅 2007-01-01
+
+  [07:21:32] CLAIM: professional
+    Amount: USD 5232.34
+
+
+📅 2016-12-04
+
+  [17:29:25] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Sergio619 Volkman526
+    Location: STEWARD HOLY FAMILY HOSPITAL INC
+    Duration: 17:29:25 - 18:11:17
+
+  [17:29:25] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [17:29:25] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-12-04
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Sachiko982 is a 49 year-old nonhispanic white female.
+      # Social History
+
+  [17:29:25] DOCUMENT: History and physical note
+    Status: superseded
+
+  [18:11:17] CLAIM: professional
+    Amount: USD 573.98
+
+  [18:11:17] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Sergio619 Volkman526
+    Location: STEWARD HOLY FAMILY HOSPITAL INC
+    Duration: 18:11:17 - 18:29:45
+
+  [18:11:17] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [18:11:17] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-12-04
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Sachiko982 is a 49 year-old nonhispanic white female.
+      # Social History
+
+  [18:11:17] DOCUMENT: History and physical note
+    Status: superseded
+
+  [18:29:45] CLAIM: professional
+    Amount: USD 211.60
+
+  [18:29:45] VISIT: Follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Sergio619 Volkman526
+    Location: STEWARD HOLY FAMILY HOSPITAL INC
+    Duration: 18:29:45 - 18:49:17
+
+  [18:29:45] PROCEDURE: Bone density scan (procedure)
+    Status: completed
+
+  [18:29:45] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-12-04
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Sachiko982 is a 49 year-old nonhispanic white female.
+      # Social History
+
+  [18:29:45] DOCUMENT: History and physical note
+    Status: superseded
+
+  [18:49:17] CLAIM: professional
+    Amount: USD 4181.24
+
+
+📅 2017-09-11
+
+  [10:41:05] VISIT: General examination of patient (procedure)
+    Provider: Dr. Felipe97 Escobedo608
+    Location: GREATER LAWRENCE FAMILY HEALTH CENTER INC
+    Duration: 10:41:05 - 10:56:05
+
+  [10:41:05] IMMUNIZATION: zoster vaccine, live
+    Status: completed
+
+  [10:41:05] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [10:41:05] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-09-11
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Sachiko982 is a 50 year-old nonhispanic white female.
+      # Social History
+
+  [10:41:05] DOCUMENT: History and physical note
+    Status: superseded
+
+  [10:56:05] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2017-11-22
+
+  [18:49:17] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Sergio619 Volkman526
+    Location: STEWARD HOLY FAMILY HOSPITAL INC
+    Duration: 18:49:17 - 19:20:31
+
+  [18:49:17] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [18:49:17] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-11-22
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Sachiko982 is a 50 year-old nonhispanic white female.
+      # Social History
+
+  [18:49:17] DOCUMENT: History and physical note
+    Status: superseded
+
+  [19:20:31] CLAIM: professional
+    Amount: USD 573.98
+
+  [19:20:31] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Sergio619 Volkman526
+    Location: STEWARD HOLY FAMILY HOSPITAL INC
+    Duration: 19:20:31 - 19:40:37
+
+  [19:20:31] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [19:20:31] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-11-22
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Sachiko982 is a 50 year-old nonhispanic white female.
+      # Social History
+
+  [19:20:31] DOCUMENT: History and physical note
+    Status: superseded
+
+  [19:40:37] CLAIM: professional
+    Amount: USD 211.60
+
+  [19:40:37] VISIT: Follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Sergio619 Volkman526
+    Location: STEWARD HOLY FAMILY HOSPITAL INC
+    Duration: 19:40:37 - 20:04:19
+
+  [19:40:37] PROCEDURE: Bone density scan (procedure)
+    Status: completed
+
+  [19:40:37] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-11-22
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Sachiko982 is a 50 year-old nonhispanic white female.
+      # Social History
+
+  [19:40:37] DOCUMENT: History and physical note
+    Status: superseded
+
+  [20:04:19] CLAIM: professional
+    Amount: USD 4181.24
+
+
+📅 2018-09-17
+
+  [10:41:05] VISIT: General examination of patient (procedure)
+    Provider: Dr. Felipe97 Escobedo608
+    Location: GREATER LAWRENCE FAMILY HEALTH CENTER INC
+    Duration: 10:41:05 - 10:56:05
+
+  [10:41:05] IMMUNIZATION: zoster vaccine, live
+    Status: completed
+
+  [10:41:05] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [10:41:05] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [10:41:05] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-09-17
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Sachiko982 is a 51 year-old nonhispanic white female.
+      # Social History
+
+  [10:41:05] DOCUMENT: History and physical note
+    Status: superseded
+
+  [10:56:05] CLAIM: professional
+    Amount: USD 544.80
+
+
+📅 2018-10-26
+
+  [21:04:19] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Sergio619 Volkman526
+    Location: STEWARD HOLY FAMILY HOSPITAL INC
+    Duration: 21:04:19 - 21:44:50
+
+  [21:04:19] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [21:04:19] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-10-26
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Sachiko982 is a 51 year-old nonhispanic white female.
+      # Social History
+
+  [21:04:19] DOCUMENT: History and physical note
+    Status: superseded
+
+  [21:44:50] CLAIM: professional
+    Amount: USD 573.98
+
+  [21:44:50] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Sergio619 Volkman526
+    Location: STEWARD HOLY FAMILY HOSPITAL INC
+    Duration: 21:44:50 - 22:02:03
+
+  [21:44:50] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [21:44:50] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-10-26
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Sachiko982 is a 51 year-old nonhispanic white female.
+      # Social History
+
+  [21:44:50] DOCUMENT: History and physical note
+    Status: superseded
+
+  [22:02:03] CLAIM: professional
+    Amount: USD 212.79
+
+  [22:02:03] VISIT: Follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Sergio619 Volkman526
+    Location: STEWARD HOLY FAMILY HOSPITAL INC
+    Duration: 22:02:03 - 22:21:21
+
+  [22:02:03] PROCEDURE: Bone density scan (procedure)
+    Status: completed
+
+  [22:02:03] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-10-26
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Sachiko982 is a 51 year-old nonhispanic white female.
+      # Social History
+
+  [22:02:03] DOCUMENT: History and physical note
+    Status: superseded
+
+  [22:21:21] CLAIM: professional
+    Amount: USD 4181.24
+
+
+📅 2019-09-23
+
+  [10:41:05] VISIT: General examination of patient (procedure)
+    Provider: Dr. Felipe97 Escobedo608
+    Location: GREATER LAWRENCE FAMILY HEALTH CENTER INC
+    Duration: 10:41:05 - 10:56:05
+
+  [10:41:05] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [10:41:05] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-09-23
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Sachiko982 is a 52 year-old nonhispanic white female.
+      # Social History
+
+  [10:41:05] DOCUMENT: History and physical note
+    Status: superseded
+
+  [10:56:05] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2019-10-03
+
+  [22:21:21] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Sergio619 Volkman526
+    Location: STEWARD HOLY FAMILY HOSPITAL INC
+    Duration: 22:21:21 - 22:56:10
+
+  [22:21:21] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [22:21:21] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-10-03
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Sachiko982 is a 52 year-old nonhispanic white female.
+      # Social History
+
+  [22:21:21] DOCUMENT: History and physical note
+    Status: superseded
+
+  [22:56:10] CLAIM: professional
+    Amount: USD 573.98
+
+  [22:56:10] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Sergio619 Volkman526
+    Location: STEWARD HOLY FAMILY HOSPITAL INC
+    Duration: 22:56:10 - 23:12:28
+
+  [22:56:10] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [22:56:10] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-10-03
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Sachiko982 is a 52 year-old nonhispanic white female.
+      # Social History
+
+  [22:56:10] DOCUMENT: History and physical note
+    Status: superseded
+
+  [23:12:28] CLAIM: professional
+    Amount: USD 267.64
+
+  [23:12:28] VISIT: Follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Sergio619 Volkman526
+    Location: STEWARD HOLY FAMILY HOSPITAL INC
+    Duration: 23:12:28 - 23:35:43
+
+  [23:12:28] PROCEDURE: Bone density scan (procedure)
+    Status: completed
+
+  [23:12:28] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-10-03
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Sachiko982 is a 52 year-old nonhispanic white female.
+      # Social History
+
+  [23:12:28] DOCUMENT: History and physical note
+    Status: superseded
+
+  [23:35:43] CLAIM: professional
+    Amount: USD 4181.24
+
+
+📅 2020-09-28
+
+  [10:41:05] VISIT: General examination of patient (procedure)
+    Provider: Dr. Felipe97 Escobedo608
+    Location: GREATER LAWRENCE FAMILY HEALTH CENTER INC
+    Duration: 10:41:05 - 10:56:05
+
+  [10:41:05] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [10:41:05] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-09-28
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Sachiko982 is a 53 year-old nonhispanic white female.
+      # Social History
+
+  [10:41:05] DOCUMENT: History and physical note
+    Status: superseded
+
+  [10:56:05] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2020-10-14
+
+  [23:35:43] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Sergio619 Volkman526
+    Location: STEWARD HOLY FAMILY HOSPITAL INC
+    Duration: 23:35:43 - 00:13:48
+
+  [23:35:43] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [23:35:43] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-10-14
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Sachiko982 is a 53 year-old nonhispanic white female.
+      # Social History
+
+  [23:35:43] DOCUMENT: History and physical note
+    Status: superseded
+
+
+📅 2020-10-15
+
+  [00:13:48] CLAIM: professional
+    Amount: USD 573.98
+
+  [00:13:48] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Sergio619 Volkman526
+    Location: STEWARD HOLY FAMILY HOSPITAL INC
+    Duration: 00:13:48 - 00:31:50
+
+  [00:13:48] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [00:13:48] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-10-15
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Sachiko982 is a 53 year-old nonhispanic white female.
+      # Social History
+
+  [00:13:48] DOCUMENT: History and physical note
+    Status: superseded
+
+  [00:31:50] CLAIM: professional
+    Amount: USD 250.00
+
+  [00:31:50] VISIT: Follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Sergio619 Volkman526
+    Location: STEWARD HOLY FAMILY HOSPITAL INC
+    Duration: 00:31:50 - 00:46:50
+
+  [00:31:50] PROCEDURE: Bone density scan (procedure)
+    Status: completed
+
+  [00:31:50] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-10-15
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Sachiko982 is a 53 year-old nonhispanic white female.
+      # Social History
+
+  [00:31:50] DOCUMENT: History and physical note
+    Status: superseded
+
+  [00:46:50] CLAIM: professional
+    Amount: USD 4181.24
+
+
+📅 2021-04-19
+
+  [10:41:05] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Sergio619 Volkman526
+    Location: STEWARD HOLY FAMILY HOSPITAL INC
+    Duration: 10:41:05 - 10:56:05
+
+  [10:41:05] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 30 mcg/0.3 mL dose
+    Status: completed
+
+  [10:41:05] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-04-19
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Sachiko982 is a 53 year-old nonhispanic white female.
+      # Social History
+
+  [10:41:05] DOCUMENT: History and physical note
+    Status: superseded
+
+  [10:56:05] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-05-10
+
+  [10:41:05] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Sergio619 Volkman526
+    Location: STEWARD HOLY FAMILY HOSPITAL INC
+    Duration: 10:41:05 - 10:56:05
+
+  [10:41:05] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 30 mcg/0.3 mL dose
+    Status: completed
+
+  [10:41:05] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-05-10
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Sachiko982 is a 53 year-old nonhispanic white female.
+      # Social History
+
+  [10:41:05] DOCUMENT: History and physical note
+    Status: superseded
+
+  [10:56:05] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-10-04
+
+  [10:41:05] VISIT: General examination of patient (procedure)
+    Provider: Dr. Felipe97 Escobedo608
+    Location: GREATER LAWRENCE FAMILY HEALTH CENTER INC
+    Duration: 10:41:05 - 10:56:05
+
+  [10:41:05] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [10:41:05] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-10-04
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Sachiko982 is a 54 year-old nonhispanic white female.
+      # Social History
+
+  [10:41:05] DOCUMENT: History and physical note
+    Status: superseded
+
+  [10:56:05] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2021-11-05
+
+  [00:42:18] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Sergio619 Volkman526
+    Location: STEWARD HOLY FAMILY HOSPITAL INC
+    Duration: 00:42:18 - 01:13:03
+
+  [00:42:18] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [00:42:18] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-11-05
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Sachiko982 is a 54 year-old nonhispanic white female.
+      # Social History
+
+  [00:42:18] DOCUMENT: History and physical note
+    Status: superseded
+
+  [01:13:03] CLAIM: professional
+    Amount: USD 573.98
+
+  [01:13:03] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Sergio619 Volkman526
+    Location: STEWARD HOLY FAMILY HOSPITAL INC
+    Duration: 01:13:03 - 01:36:20
+
+  [01:13:03] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [01:13:03] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-11-05
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Sachiko982 is a 54 year-old nonhispanic white female.
+      # Social History
+
+  [01:13:03] DOCUMENT: History and physical note
+    Status: superseded
+
+  [01:36:20] CLAIM: professional
+    Amount: USD 325.49
+
+  [01:36:20] VISIT: Follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Sergio619 Volkman526
+    Location: STEWARD HOLY FAMILY HOSPITAL INC
+    Duration: 01:36:20 - 01:51:20
+
+  [01:36:20] PROCEDURE: Bone density scan (procedure)
+    Status: completed
+
+  [01:36:20] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-11-05
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Sachiko982 is a 54 year-old nonhispanic white female.
+      # Social History
+
+  [01:36:20] DOCUMENT: History and physical note
+    Status: superseded
+
+  [01:51:20] CLAIM: professional
+    Amount: USD 5664.72
+
+
+📅 2022-10-10
+
+  [10:41:05] VISIT: General examination of patient (procedure)
+    Provider: Dr. Felipe97 Escobedo608
+    Location: GREATER LAWRENCE FAMILY HEALTH CENTER INC
+    Duration: 10:41:05 - 10:56:05
+
+  [10:41:05] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [10:41:05] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-10-10
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Sachiko982 is a 55 year-old nonhispanic white female.
+      # Social History
+
+  [10:41:05] DOCUMENT: History and physical note
+    Status: superseded
+
+  [10:56:05] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2022-11-02
+
+  [01:49:05] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Sergio619 Volkman526
+    Location: STEWARD HOLY FAMILY HOSPITAL INC
+    Duration: 01:49:05 - 02:22:19
+
+  [01:49:05] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [01:49:05] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-11-02
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Sachiko982 is a 55 year-old nonhispanic white female.
+      # Social History
+
+  [01:49:05] DOCUMENT: History and physical note
+    Status: superseded
+
+  [02:22:19] CLAIM: professional
+    Amount: USD 573.98
+
+  [02:22:19] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Sergio619 Volkman526
+    Location: STEWARD HOLY FAMILY HOSPITAL INC
+    Duration: 02:22:19 - 02:44:23
+
+  [02:22:19] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [02:22:19] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-11-02
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Sachiko982 is a 55 year-old nonhispanic white female.
+      # Social History
+
+  [02:22:19] DOCUMENT: History and physical note
+    Status: superseded
+
+  [02:44:23] CLAIM: professional
+    Amount: USD 325.49
+
+  [02:44:23] VISIT: Follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Sergio619 Volkman526
+    Location: STEWARD HOLY FAMILY HOSPITAL INC
+    Duration: 02:44:23 - 02:59:23
+
+  [02:44:23] PROCEDURE: Bone density scan (procedure)
+    Status: completed
+
+  [02:44:23] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-11-02
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Sachiko982 is a 55 year-old nonhispanic white female.
+      # Social History
+
+  [02:44:23] DOCUMENT: History and physical note
+    Status: superseded
+
+  [02:59:23] CLAIM: professional
+    Amount: USD 4181.24
+
+
+📅 2023-10-16
+
+  [10:41:05] VISIT: General examination of patient (procedure)
+    Provider: Dr. Felipe97 Escobedo608
+    Location: GREATER LAWRENCE FAMILY HEALTH CENTER INC
+    Duration: 10:41:05 - 10:56:05
+
+  [10:41:05] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [10:41:05] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-10-16
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Sachiko982 is a 56 year-old nonhispanic white female.
+      # Social History
+
+  [10:41:05] DOCUMENT: History and physical note
+    Status: superseded
+
+  [10:56:05] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2023-11-25
+
+  [01:56:02] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Sergio619 Volkman526
+    Location: STEWARD HOLY FAMILY HOSPITAL INC
+    Duration: 01:56:02 - 02:36:26
+
+  [01:56:02] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [01:56:02] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-11-25
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Sachiko982 is a 56 year-old nonhispanic white female.
+      # Social History
+
+  [01:56:02] DOCUMENT: History and physical note
+    Status: superseded
+
+  [02:36:26] CLAIM: professional
+    Amount: USD 573.98
+
+  [02:36:26] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Sergio619 Volkman526
+    Location: STEWARD HOLY FAMILY HOSPITAL INC
+    Duration: 02:36:26 - 02:58:51
+
+  [02:36:26] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [02:36:26] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-11-25
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Sachiko982 is a 56 year-old nonhispanic white female.
+      # Social History
+
+  [02:36:26] DOCUMENT: History and physical note
+    Status: superseded
+
+  [02:58:51] CLAIM: professional
+    Amount: USD 211.60
+
+  [02:58:51] VISIT: Follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Sergio619 Volkman526
+    Location: STEWARD HOLY FAMILY HOSPITAL INC
+    Duration: 02:58:51 - 03:16:41
+
+  [02:58:51] PROCEDURE: Bone density scan (procedure)
+    Status: completed
+
+  [02:58:51] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-11-25
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Sachiko982 is a 56 year-old nonhispanic white female.
+      # Social History
+
+  [02:58:51] DOCUMENT: History and physical note
+    Status: superseded
+
+  [03:16:41] CLAIM: professional
+    Amount: USD 4181.24
+
+
+📅 2024-10-21
+
+  [10:41:05] VISIT: General examination of patient (procedure)
+    Provider: Dr. Felipe97 Escobedo608
+    Location: GREATER LAWRENCE FAMILY HEALTH CENTER INC
+    Duration: 10:41:05 - 10:56:05
+
+  [10:41:05] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [10:41:05] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-10-21
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Sachiko982 is a 57 year-old nonhispanic white female.
+      # Social History
+
+  [10:41:05] DOCUMENT: History and physical note
+    Status: superseded
+
+  [10:56:05] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2024-12-18
+
+  [03:16:41] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Sergio619 Volkman526
+    Location: Patient's Home
+    Duration: 03:16:41 - 03:53:22
+
+  [03:16:41] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [03:16:41] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-12-18
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Sachiko982 is a 57 year-old nonhispanic white female.
+      # Social History
+
+  [03:16:41] DOCUMENT: History and physical note
+    Status: superseded
+
+  [03:53:22] CLAIM: institutional
+    Amount: USD 556.40
+
+  [03:53:22] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Sergio619 Volkman526
+    Location: STEWARD HOLY FAMILY HOSPITAL INC
+    Duration: 03:53:22 - 04:17:42
+
+  [03:53:22] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [03:53:22] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-12-18
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Sachiko982 is a 57 year-old nonhispanic white female.
+      # Social History
+
+  [03:53:22] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:17:42] CLAIM: professional
+    Amount: USD 211.60
+
+  [04:17:42] VISIT: Follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Sergio619 Volkman526
+    Location: STEWARD HOLY FAMILY HOSPITAL INC
+    Duration: 04:17:42 - 04:35:23
+
+  [04:17:42] PROCEDURE: Bone density scan (procedure)
+    Status: completed
+
+  [04:17:42] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-12-18
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Sachiko982 is a 57 year-old nonhispanic white female.
+      # Social History
+
+  [04:17:42] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:35:23] CLAIM: professional
+    Amount: USD 12396.77
+
+
+📅 2025-10-27
+
+  [10:41:05] VISIT: General examination of patient (procedure)
+    Provider: Dr. Felipe97 Escobedo608
+    Location: GREATER LAWRENCE FAMILY HEALTH CENTER INC
+    Duration: 10:41:05 - 10:56:05
+
+  [10:41:05] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [10:41:05] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-10-27
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Sachiko982 is a 58 year-old nonhispanic white female.
+      # Social History
+
+  [10:41:05] DOCUMENT: History and physical note
+    Status: superseded
+
+  [10:56:05] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2025-12-26
+
+  [04:35:23] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Sergio619 Volkman526
+    Location: STEWARD HOLY FAMILY HOSPITAL INC
+    Duration: 04:35:23 - 05:10:16
+
+  [04:35:23] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [04:35:23] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-12-26
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Sachiko982 is a 58 year-old nonhispanic white female.
+      # Social History
+
+  [04:35:23] DOCUMENT: History and physical note
+    Status: superseded
+
+  [05:10:16] CLAIM: professional
+    Amount: USD 573.98
+
+  [05:10:16] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Sergio619 Volkman526
+    Location: STEWARD HOLY FAMILY HOSPITAL INC
+    Duration: 05:10:16 - 05:33:01
+
+  [05:10:16] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [05:10:16] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-12-26
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Sachiko982 is a 58 year-old nonhispanic white female.
+      # Social History
+
+  [05:10:16] DOCUMENT: History and physical note
+    Status: superseded
+
+  [05:33:01] CLAIM: professional
+    Amount: USD 211.60
+
+  [05:33:01] VISIT: Follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Sergio619 Volkman526
+    Location: STEWARD HOLY FAMILY HOSPITAL INC
+    Duration: 05:33:01 - 05:48:01
+
+  [05:33:01] PROCEDURE: Bone density scan (procedure)
+    Status: completed
+
+  [05:33:01] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-12-26
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Sachiko982 is a 58 year-old nonhispanic white female.
+      # Social History
+
+  [05:33:01] DOCUMENT: History and physical note
+    Status: current
+
+  [05:48:01] CLAIM: professional
+    Amount: USD 16468.32
+
+
+📅 2026-02-16
+
+  [09:41:05] PROVENANCE: Record activity
+    Agents: Dr. Sergio619 Volkman526, Dr. Sergio619 Volkman526
+
+================================================================================
+END OF TIMELINE (214 events)
+================================================================================

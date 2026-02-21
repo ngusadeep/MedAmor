@@ -1,0 +1,999 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Mrs. Mildred587 John539 Dooley940
+  Patient ID: 113094
+  Date of Birth: 1976-02-03
+  Gender: Female
+  Race: White
+  Ethnicity: Not Hispanic or Latino
+  Marital Status: Married
+  Address: 950 Feeney Mews, Fall River, MA 02723
+  Phone: 555-998-5089
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 1993-08-14
+
+  [15:21:01] VISIT: Periodic reevaluation and management of healthy individual (procedure)
+    Reason: Screening for malignant neoplasm of breast (procedure)
+    Provider: Dr. Jesus702 Roob72
+    Location: STEWARD ST. ANNES HOSPITAL CORPORATION
+    Duration: 15:21:01 - 17:29:16
+
+  [15:21:01] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      1993-08-14
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Mildred587 John539 is a 17 year-old nonhispanic white female.
+      # Social History
+
+  [15:21:01] DOCUMENT: History and physical note
+    Status: superseded
+
+  [17:41:16] CONDITION: Malignant neoplasm of breast (disorder) (active)
+
+
+📅 1993-08-16
+
+  [17:29:16] CLAIM: professional
+    Amount: USD 6631.89
+
+
+📅 2016-09-16
+
+  [18:57:50] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jesus702 Roob72
+    Location: STEWARD ST. ANNES HOSPITAL CORPORATION
+    Duration: 18:57:50 - 19:39:22
+
+  [18:57:50] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [18:57:50] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-09-16
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Mildred587 John539 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [18:57:50] DOCUMENT: History and physical note
+    Status: superseded
+
+  [19:39:22] CLAIM: professional
+    Amount: USD 573.98
+
+  [19:39:22] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jesus702 Roob72
+    Location: STEWARD ST. ANNES HOSPITAL CORPORATION
+    Duration: 19:39:22 - 19:59:24
+
+  [19:39:22] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [19:39:22] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-09-16
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Mildred587 John539 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [19:39:22] DOCUMENT: History and physical note
+    Status: superseded
+
+  [19:59:24] CLAIM: professional
+    Amount: USD 321.62
+
+  [19:59:24] VISIT: Follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jesus702 Roob72
+    Location: STEWARD ST. ANNES HOSPITAL CORPORATION
+    Duration: 19:59:24 - 20:28:00
+
+  [19:59:24] PROCEDURE: Bone density scan (procedure)
+    Status: completed
+
+  [19:59:24] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-09-16
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Mildred587 John539 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [19:59:24] DOCUMENT: History and physical note
+    Status: superseded
+
+  [20:28:00] CLAIM: professional
+    Amount: USD 10542.27
+
+
+📅 2017-09-25
+
+  [20:28:00] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jesus702 Roob72
+    Location: STEWARD ST. ANNES HOSPITAL CORPORATION
+    Duration: 20:28:00 - 21:09:51
+
+  [20:28:00] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [20:28:00] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-09-25
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Mildred587 John539 is a 41 year-old nonhispanic white female.
+      # Social History
+
+  [20:28:00] DOCUMENT: History and physical note
+    Status: superseded
+
+  [21:09:51] CLAIM: professional
+    Amount: USD 573.98
+
+  [21:09:51] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jesus702 Roob72
+    Location: STEWARD ST. ANNES HOSPITAL CORPORATION
+    Duration: 21:09:51 - 21:28:30
+
+  [21:09:51] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [21:09:51] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-09-25
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Mildred587 John539 is a 41 year-old nonhispanic white female.
+      # Social History
+
+  [21:09:51] DOCUMENT: History and physical note
+    Status: superseded
+
+  [21:28:30] CLAIM: professional
+    Amount: USD 325.49
+
+  [21:28:30] VISIT: Follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jesus702 Roob72
+    Location: STEWARD ST. ANNES HOSPITAL CORPORATION
+    Duration: 21:28:30 - 21:58:20
+
+  [21:28:30] PROCEDURE: Bone density scan (procedure)
+    Status: completed
+
+  [21:28:30] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-09-25
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Mildred587 John539 is a 41 year-old nonhispanic white female.
+      # Social History
+
+  [21:28:30] DOCUMENT: History and physical note
+    Status: superseded
+
+  [21:58:20] CLAIM: professional
+    Amount: USD 15612.28
+
+
+📅 2018-02-13
+
+  [14:21:01] VISIT: General examination of patient (procedure)
+    Provider: Dr. Micheal721 Larkin917
+    Location: VMD PRIMARY PROVIDERS OF RHODE ISLAND PC
+    Duration: 14:21:01 - 14:36:01
+
+  [14:21:01] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [14:21:01] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [14:21:01] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [14:21:01] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-02-13
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Mildred587 John539 is a 42 year-old nonhispanic white female.
+      # Social History
+
+  [14:21:01] DOCUMENT: History and physical note
+    Status: superseded
+
+  [14:36:01] CLAIM: professional
+    Amount: USD 544.80
+
+
+📅 2018-10-13
+
+  [21:58:20] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jesus702 Roob72
+    Location: STEWARD ST. ANNES HOSPITAL CORPORATION
+    Duration: 21:58:20 - 22:30:27
+
+  [21:58:20] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [21:58:20] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-10-13
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Mildred587 John539 is a 42 year-old nonhispanic white female.
+      # Social History
+
+  [21:58:20] DOCUMENT: History and physical note
+    Status: superseded
+
+  [22:30:27] CLAIM: professional
+    Amount: USD 573.98
+
+  [22:30:27] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jesus702 Roob72
+    Location: STEWARD ST. ANNES HOSPITAL CORPORATION
+    Duration: 22:30:27 - 22:51:52
+
+  [22:30:27] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [22:30:27] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-10-13
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Mildred587 John539 is a 42 year-old nonhispanic white female.
+      # Social History
+
+  [22:30:27] DOCUMENT: History and physical note
+    Status: superseded
+
+  [22:51:52] CLAIM: professional
+    Amount: USD 211.60
+
+  [22:51:52] VISIT: Follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jesus702 Roob72
+    Location: STEWARD ST. ANNES HOSPITAL CORPORATION
+    Duration: 22:51:52 - 23:16:52
+
+  [22:51:52] PROCEDURE: Bone density scan (procedure)
+    Status: completed
+
+  [22:51:52] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-10-13
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Mildred587 John539 is a 42 year-old nonhispanic white female.
+      # Social History
+
+  [22:51:52] DOCUMENT: History and physical note
+    Status: superseded
+
+  [23:16:52] CLAIM: professional
+    Amount: USD 10734.49
+
+
+📅 2019-10-12
+
+  [23:16:52] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jesus702 Roob72
+    Location: STEWARD ST. ANNES HOSPITAL CORPORATION
+    Duration: 23:16:52 - 23:48:38
+
+  [23:16:52] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [23:16:52] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-10-12
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Mildred587 John539 is a 43 year-old nonhispanic white female.
+      # Social History
+
+  [23:16:52] DOCUMENT: History and physical note
+    Status: superseded
+
+  [23:48:38] CLAIM: professional
+    Amount: USD 573.98
+
+  [23:48:38] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jesus702 Roob72
+    Location: STEWARD ST. ANNES HOSPITAL CORPORATION
+    Duration: 23:48:38 - 00:12:27
+
+  [23:48:38] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [23:48:38] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-10-12
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Mildred587 John539 is a 43 year-old nonhispanic white female.
+      # Social History
+
+  [23:48:38] DOCUMENT: History and physical note
+    Status: superseded
+
+
+📅 2019-10-13
+
+  [00:12:27] CLAIM: professional
+    Amount: USD 211.60
+
+  [00:12:27] VISIT: Follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jesus702 Roob72
+    Location: STEWARD ST. ANNES HOSPITAL CORPORATION
+    Duration: 00:12:27 - 00:38:48
+
+  [00:12:27] PROCEDURE: Bone density scan (procedure)
+    Status: completed
+
+  [00:12:27] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-10-13
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Mildred587 John539 is a 43 year-old nonhispanic white female.
+      # Social History
+
+  [00:12:27] DOCUMENT: History and physical note
+    Status: superseded
+
+  [00:38:48] CLAIM: professional
+    Amount: USD 4181.24
+
+
+📅 2020-02-18
+
+  [14:21:01] VISIT: General examination of patient (procedure)
+    Provider: Dr. Micheal721 Larkin917
+    Location: VMD PRIMARY PROVIDERS OF RHODE ISLAND PC
+    Duration: 14:21:01 - 14:36:01
+
+  [14:21:01] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [14:21:01] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-02-18
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Mildred587 John539 is a 44 year-old nonhispanic white female.
+      # Social History
+
+  [14:21:01] DOCUMENT: History and physical note
+    Status: superseded
+
+  [14:36:01] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2020-10-18
+
+  [00:38:48] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jesus702 Roob72
+    Location: STEWARD ST. ANNES HOSPITAL CORPORATION
+    Duration: 00:38:48 - 01:12:38
+
+  [00:38:48] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [00:38:48] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-10-18
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Mildred587 John539 is a 44 year-old nonhispanic white female.
+      # Social History
+
+  [00:38:48] DOCUMENT: History and physical note
+    Status: superseded
+
+  [01:12:38] CLAIM: professional
+    Amount: USD 573.98
+
+  [01:12:38] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jesus702 Roob72
+    Location: STEWARD ST. ANNES HOSPITAL CORPORATION
+    Duration: 01:12:38 - 01:36:12
+
+  [01:12:38] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [01:12:38] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-10-18
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Mildred587 John539 is a 44 year-old nonhispanic white female.
+      # Social History
+
+  [01:12:38] DOCUMENT: History and physical note
+    Status: superseded
+
+  [01:36:12] CLAIM: professional
+    Amount: USD 211.60
+
+  [01:36:12] VISIT: Follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jesus702 Roob72
+    Location: STEWARD ST. ANNES HOSPITAL CORPORATION
+    Duration: 01:36:12 - 01:58:51
+
+  [01:36:12] PROCEDURE: Bone density scan (procedure)
+    Status: completed
+
+  [01:36:12] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-10-18
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Mildred587 John539 is a 44 year-old nonhispanic white female.
+      # Social History
+
+  [01:36:12] DOCUMENT: History and physical note
+    Status: superseded
+
+  [01:58:51] CLAIM: professional
+    Amount: USD 4181.24
+
+
+📅 2021-02-09
+
+  [14:21:01] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Jesus702 Roob72
+    Location: STEWARD ST. ANNES HOSPITAL CORPORATION
+    Duration: 14:21:01 - 14:36:01
+
+  [14:21:01] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 30 mcg/0.3 mL dose
+    Status: completed
+
+  [14:21:01] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-02-09
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Mildred587 John539 is a 45 year-old nonhispanic white female.
+      # Social History
+
+  [14:21:01] DOCUMENT: History and physical note
+    Status: superseded
+
+  [14:36:01] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-03-02
+
+  [14:21:01] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Jesus702 Roob72
+    Location: STEWARD ST. ANNES HOSPITAL CORPORATION
+    Duration: 14:21:01 - 14:36:01
+
+  [14:21:01] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 30 mcg/0.3 mL dose
+    Status: completed
+
+  [14:21:01] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-03-02
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Mildred587 John539 is a 45 year-old nonhispanic white female.
+      # Social History
+
+  [14:21:01] DOCUMENT: History and physical note
+    Status: superseded
+
+  [14:36:01] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-10-10
+
+  [01:58:51] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jesus702 Roob72
+    Location: STEWARD ST. ANNES HOSPITAL CORPORATION
+    Duration: 01:58:51 - 02:36:05
+
+  [01:58:51] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [01:58:51] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-10-10
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Mildred587 John539 is a 45 year-old nonhispanic white female.
+      # Social History
+
+  [01:58:51] DOCUMENT: History and physical note
+    Status: superseded
+
+  [02:36:05] CLAIM: professional
+    Amount: USD 573.98
+
+  [02:36:05] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jesus702 Roob72
+    Location: STEWARD ST. ANNES HOSPITAL CORPORATION
+    Duration: 02:36:05 - 02:59:53
+
+  [02:36:05] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [02:36:05] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-10-10
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Mildred587 John539 is a 45 year-old nonhispanic white female.
+      # Social History
+
+  [02:36:05] DOCUMENT: History and physical note
+    Status: superseded
+
+  [02:59:53] CLAIM: professional
+    Amount: USD 211.60
+
+  [02:59:53] VISIT: Follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jesus702 Roob72
+    Location: STEWARD ST. ANNES HOSPITAL CORPORATION
+    Duration: 02:59:53 - 03:21:13
+
+  [02:59:53] PROCEDURE: Bone density scan (procedure)
+    Status: completed
+
+  [02:59:53] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-10-10
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Mildred587 John539 is a 45 year-old nonhispanic white female.
+      # Social History
+
+  [02:59:53] DOCUMENT: History and physical note
+    Status: superseded
+
+  [03:21:13] CLAIM: professional
+    Amount: USD 16468.32
+
+
+📅 2022-02-22
+
+  [14:21:01] VISIT: General examination of patient (procedure)
+    Provider: Dr. Micheal721 Larkin917
+    Location: VMD PRIMARY PROVIDERS OF RHODE ISLAND PC
+    Duration: 14:21:01 - 14:36:01
+
+  [14:21:01] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [14:21:01] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-02-22
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Mildred587 John539 is a 46 year-old nonhispanic white female.
+      # Social History
+
+  [14:21:01] DOCUMENT: History and physical note
+    Status: superseded
+
+  [14:36:01] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2022-09-30
+
+  [03:21:13] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jesus702 Roob72
+    Location: STEWARD ST. ANNES HOSPITAL CORPORATION
+    Duration: 03:21:13 - 04:05:38
+
+  [03:21:13] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [03:21:13] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-09-30
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Mildred587 John539 is a 46 year-old nonhispanic white female.
+      # Social History
+
+  [03:21:13] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:05:38] CLAIM: professional
+    Amount: USD 573.98
+
+  [04:05:38] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jesus702 Roob72
+    Location: STEWARD ST. ANNES HOSPITAL CORPORATION
+    Duration: 04:05:38 - 04:30:05
+
+  [04:05:38] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [04:05:38] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-09-30
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Mildred587 John539 is a 46 year-old nonhispanic white female.
+      # Social History
+
+  [04:05:38] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:30:05] CLAIM: professional
+    Amount: USD 211.60
+
+  [04:30:05] VISIT: Follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jesus702 Roob72
+    Location: STEWARD ST. ANNES HOSPITAL CORPORATION
+    Duration: 04:30:05 - 04:45:51
+
+  [04:30:05] PROCEDURE: Bone density scan (procedure)
+    Status: completed
+
+  [04:30:05] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-09-30
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Mildred587 John539 is a 46 year-old nonhispanic white female.
+      # Social History
+
+  [04:30:05] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:45:51] CLAIM: professional
+    Amount: USD 7626.26
+
+
+📅 2023-10-12
+
+  [04:45:51] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jesus702 Roob72
+    Location: STEWARD ST. ANNES HOSPITAL CORPORATION
+    Duration: 04:45:51 - 05:28:22
+
+  [04:45:51] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [04:45:51] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-10-12
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Mildred587 John539 is a 47 year-old nonhispanic white female.
+      # Social History
+
+  [04:45:51] DOCUMENT: History and physical note
+    Status: superseded
+
+  [05:28:22] CLAIM: professional
+    Amount: USD 573.98
+
+  [05:28:22] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jesus702 Roob72
+    Location: STEWARD ST. ANNES HOSPITAL CORPORATION
+    Duration: 05:28:22 - 05:47:04
+
+  [05:28:22] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [05:28:22] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-10-12
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Mildred587 John539 is a 47 year-old nonhispanic white female.
+      # Social History
+
+  [05:28:22] DOCUMENT: History and physical note
+    Status: superseded
+
+  [05:47:04] CLAIM: professional
+    Amount: USD 211.60
+
+  [05:47:04] VISIT: Follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jesus702 Roob72
+    Location: STEWARD ST. ANNES HOSPITAL CORPORATION
+    Duration: 05:47:04 - 06:13:02
+
+  [05:47:04] PROCEDURE: Bone density scan (procedure)
+    Status: completed
+
+  [05:47:04] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-10-12
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Mildred587 John539 is a 47 year-old nonhispanic white female.
+      # Social History
+
+  [05:47:04] DOCUMENT: History and physical note
+    Status: superseded
+
+  [06:13:02] CLAIM: professional
+    Amount: USD 12904.82
+
+
+📅 2024-02-27
+
+  [14:21:01] VISIT: General examination of patient (procedure)
+    Provider: Dr. Micheal721 Larkin917
+    Location: VMD PRIMARY PROVIDERS OF RHODE ISLAND PC
+    Duration: 14:21:01 - 14:36:01
+
+  [14:21:01] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [14:21:01] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-02-27
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Mildred587 John539 is a 48 year-old nonhispanic white female.
+      # Social History
+
+  [14:21:01] DOCUMENT: History and physical note
+    Status: superseded
+
+  [14:36:01] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2024-09-17
+
+  [06:13:02] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jesus702 Roob72
+    Location: Patient's Home
+    Duration: 06:13:02 - 06:55:03
+
+  [06:13:02] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [06:13:02] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-09-17
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Mildred587 John539 is a 48 year-old nonhispanic white female.
+      # Social History
+
+  [06:13:02] DOCUMENT: History and physical note
+    Status: superseded
+
+  [06:55:03] CLAIM: institutional
+    Amount: USD 556.40
+
+  [06:55:03] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jesus702 Roob72
+    Location: STEWARD ST. ANNES HOSPITAL CORPORATION
+    Duration: 06:55:03 - 07:18:44
+
+  [06:55:03] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [06:55:03] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-09-17
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Mildred587 John539 is a 48 year-old nonhispanic white female.
+      # Social History
+
+  [06:55:03] DOCUMENT: History and physical note
+    Status: superseded
+
+  [07:18:44] CLAIM: professional
+    Amount: USD 270.21
+
+  [07:18:44] VISIT: Follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jesus702 Roob72
+    Location: STEWARD ST. ANNES HOSPITAL CORPORATION
+    Duration: 07:18:44 - 07:40:55
+
+  [07:18:44] PROCEDURE: Bone density scan (procedure)
+    Status: completed
+
+  [07:18:44] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-09-17
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Mildred587 John539 is a 48 year-old nonhispanic white female.
+      # Social History
+
+  [07:18:44] DOCUMENT: History and physical note
+    Status: superseded
+
+  [07:40:55] CLAIM: professional
+    Amount: USD 10023.68
+
+
+📅 2025-08-24
+
+  [07:40:55] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jesus702 Roob72
+    Location: Patient's Home
+    Duration: 07:40:55 - 08:11:34
+
+  [07:40:55] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [07:40:55] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-08-24
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Mildred587 John539 is a 49 year-old nonhispanic white female.
+      # Social History
+
+  [07:40:55] DOCUMENT: History and physical note
+    Status: superseded
+
+  [08:11:34] CLAIM: institutional
+    Amount: USD 556.40
+
+  [08:11:34] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jesus702 Roob72
+    Location: STEWARD ST. ANNES HOSPITAL CORPORATION
+    Duration: 08:11:34 - 08:35:14
+
+  [08:11:34] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [08:11:34] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-08-24
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Mildred587 John539 is a 49 year-old nonhispanic white female.
+      # Social History
+
+  [08:11:34] DOCUMENT: History and physical note
+    Status: superseded
+
+  [08:35:14] CLAIM: professional
+    Amount: USD 211.60
+
+  [08:35:14] VISIT: Follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jesus702 Roob72
+    Location: STEWARD ST. ANNES HOSPITAL CORPORATION
+    Duration: 08:35:14 - 09:01:51
+
+  [08:35:14] PROCEDURE: Bone density scan (procedure)
+    Status: completed
+
+  [08:35:14] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-08-24
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Mildred587 John539 is a 49 year-old nonhispanic white female.
+      # Social History
+
+  [08:35:14] DOCUMENT: History and physical note
+    Status: superseded
+
+  [09:01:51] CLAIM: professional
+    Amount: USD 5700.26
+
+
+📅 2026-02-03
+
+  [14:21:01] VISIT: General examination of patient (procedure)
+    Provider: Dr. Micheal721 Larkin917
+    Location: VMD PRIMARY PROVIDERS OF RHODE ISLAND PC
+    Duration: 14:21:01 - 14:36:01
+
+  [14:21:01] IMMUNIZATION: zoster vaccine, live
+    Status: completed
+
+  [14:21:01] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [14:21:01] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2026-02-03
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Mildred587 John539 is a 50 year-old nonhispanic white female.
+      # Social History
+
+  [14:21:01] DOCUMENT: History and physical note
+    Status: current
+
+  [14:36:01] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2026-02-10
+
+  [14:21:01] PROVENANCE: Record activity
+    Agents: Dr. Micheal721 Larkin917, Dr. Micheal721 Larkin917
+
+================================================================================
+END OF TIMELINE (194 events)
+================================================================================

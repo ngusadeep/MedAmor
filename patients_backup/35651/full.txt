@@ -1,0 +1,1560 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Mrs. Darcie474 Carolann504 Trantow673
+  Patient ID: 35651
+  Date of Birth: 1965-07-06
+  Gender: Female
+  Race: White
+  Ethnicity: Not Hispanic or Latino
+  Marital Status: Married
+  Address: 336 Marks Ramp Apt 35, Fall River, MA 02721
+  Phone: 555-907-9326
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2015-10-11
+
+  [17:35:04] VISIT: Periodic reevaluation and management of healthy individual (procedure)
+    Reason: Screening for malignant neoplasm of breast (procedure)
+    Provider: Dr. Ramiro608 Anderson154
+    Location: NORTHEAST BEHAVIORAL HEALTH LLC
+    Duration: 17:35:04 - 00:06:50
+
+  [17:35:04] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2015-10-11
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Darcie474 Carolann504 is a 50 year-old nonhispanic white female.
+      # Social History
+
+  [17:35:04] DOCUMENT: History and physical note
+    Status: superseded
+
+  [18:59:50] CONDITION: Malignant neoplasm of breast (disorder) (active)
+
+
+📅 2015-10-13
+
+  [00:06:50] CLAIM: professional
+    Amount: USD 4883.74
+
+
+📅 2016-02-16
+
+  [04:54:45] VISIT: Encounter for problem (procedure)
+    Provider: Dr. Ramiro608 Anderson154
+    Location: NORTHEAST BEHAVIORAL HEALTH LLC
+    Duration: 04:54:45 - 05:56:45
+
+  [04:54:45] PROCEDURE: Chemotherapy (procedure)
+    Status: completed
+
+  [04:54:45] MEDICATION PRESCRIBED: Unknown medication
+    Status: completed
+    Prescribed by: Dr. Ramiro608 Anderson154
+
+  [04:54:45] MEDICATION ADMINISTERED: Cyclophosphamide 1000 MG Injection
+    Status: completed
+
+  [04:54:45] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-02-16
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Darcie474 Carolann504 is a 50 year-old nonhispanic white female.
+      # Social History
+
+  [04:54:45] DOCUMENT: History and physical note
+    Status: superseded
+
+  [05:56:45] CLAIM: pharmacy
+    Amount: USD 231.35
+
+  [05:56:45] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2016-03-08
+
+  [21:56:45] VISIT: Encounter for problem (procedure)
+    Provider: Dr. Ramiro608 Anderson154
+    Location: NORTHEAST BEHAVIORAL HEALTH LLC
+    Duration: 21:56:45 - 23:16:45
+
+  [21:56:45] PROCEDURE: Chemotherapy (procedure)
+    Status: completed
+
+  [21:56:45] MEDICATION PRESCRIBED: Unknown medication
+    Status: completed
+    Prescribed by: Dr. Ramiro608 Anderson154
+
+  [21:56:45] MEDICATION ADMINISTERED: Cyclophosphamide 1000 MG Injection
+    Status: completed
+
+  [21:56:45] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-03-08
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Darcie474 Carolann504 is a 50 year-old nonhispanic white female.
+      # Social History
+
+  [21:56:45] DOCUMENT: History and physical note
+    Status: superseded
+
+  [23:16:45] CLAIM: pharmacy
+    Amount: USD 231.35
+
+  [23:16:45] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2016-03-30
+
+  [00:16:45] VISIT: Encounter for problem (procedure)
+    Provider: Dr. Ramiro608 Anderson154
+    Location: NORTHEAST BEHAVIORAL HEALTH LLC
+    Duration: 00:16:45 - 01:12:45
+
+  [00:16:45] PROCEDURE: Chemotherapy (procedure)
+    Status: completed
+
+  [00:16:45] MEDICATION PRESCRIBED: Unknown medication
+    Status: completed
+    Prescribed by: Dr. Ramiro608 Anderson154
+
+  [00:16:45] MEDICATION ADMINISTERED: Cyclophosphamide 1000 MG Injection
+    Status: completed
+
+  [00:16:45] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-03-30
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Darcie474 Carolann504 is a 50 year-old nonhispanic white female.
+      # Social History
+
+  [00:16:45] DOCUMENT: History and physical note
+    Status: superseded
+
+  [01:12:45] CLAIM: pharmacy
+    Amount: USD 231.35
+
+  [01:12:45] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2016-04-05
+
+  [21:12:45] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Ramiro608 Anderson154
+    Location: NORTHEAST BEHAVIORAL HEALTH LLC
+    Duration: 21:12:45 - 21:27:45
+
+  [21:12:45] OBSERVATION: Treatment status Cancer: Treatment changed (situation)
+
+  [21:12:45] OBSERVATION: Response to cancer treatment: Improving (qualifier value)
+
+  [21:12:45] MEDICATION PRESCRIBED: Unknown medication
+    Status: completed
+    Prescribed by: Dr. Ramiro608 Anderson154
+
+  [21:12:45] MEDICATION ADMINISTERED: exemestane 25 MG Oral Tablet
+    Status: completed
+    Dosage: 1.0
+
+  [21:12:45] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-04-05
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Darcie474 Carolann504 is a 50 year-old nonhispanic white female.
+      # Social History
+
+  [21:12:45] DOCUMENT: History and physical note
+    Status: superseded
+
+  [21:27:45] CLAIM: pharmacy
+    Amount: USD 7028.76
+
+  [21:27:45] CLAIM: professional
+    Amount: USD 85.55
+
+
+📅 2016-07-12
+
+  [17:35:04] VISIT: General examination of patient (procedure)
+    Provider: Dr. Irina619 Stiedemann542
+    Location: NEW BEDFORD INTERNAL MEDICINE & GERIATRICS, LLC
+    Duration: 17:35:04 - 17:50:04
+
+  [17:35:04] IMMUNIZATION: zoster vaccine, live
+    Status: completed
+
+  [17:35:04] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [17:35:04] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [17:35:04] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-07-12
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Darcie474 Carolann504 is a 51 year-old nonhispanic white female.
+      # Social History
+
+  [17:35:04] DOCUMENT: History and physical note
+    Status: superseded
+
+  [17:50:04] CLAIM: professional
+    Amount: USD 544.80
+
+
+📅 2016-08-01
+
+  [21:12:45] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Ramiro608 Anderson154
+    Location: NORTHEAST BEHAVIORAL HEALTH LLC
+    Duration: 21:12:45 - 21:44:29
+
+  [21:12:45] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [21:12:45] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-08-01
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Darcie474 Carolann504 is a 51 year-old nonhispanic white female.
+      # Social History
+
+  [21:12:45] DOCUMENT: History and physical note
+    Status: superseded
+
+  [21:44:29] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2016-11-14
+
+  [20:44:29] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Ramiro608 Anderson154
+    Location: NORTHEAST BEHAVIORAL HEALTH LLC
+    Duration: 20:44:29 - 21:29:12
+
+  [20:44:29] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [20:44:29] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-11-14
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Darcie474 Carolann504 is a 51 year-old nonhispanic white female.
+      # Social History
+
+  [20:44:29] DOCUMENT: History and physical note
+    Status: superseded
+
+  [21:29:12] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2017-03-13
+
+  [22:29:12] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Ramiro608 Anderson154
+    Location: NORTHEAST BEHAVIORAL HEALTH LLC
+    Duration: 22:29:12 - 23:14:11
+
+  [22:29:12] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [22:29:12] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-03-13
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Darcie474 Carolann504 is a 51 year-old nonhispanic white female.
+      # Social History
+
+  [22:29:12] DOCUMENT: History and physical note
+    Status: superseded
+
+  [23:14:11] CLAIM: professional
+    Amount: USD 573.98
+
+  [23:14:11] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Ramiro608 Anderson154
+    Location: NORTHEAST BEHAVIORAL HEALTH LLC
+    Duration: 23:14:11 - 23:34:33
+
+  [23:14:11] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [23:14:11] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-03-13
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Darcie474 Carolann504 is a 51 year-old nonhispanic white female.
+      # Social History
+
+  [23:14:11] DOCUMENT: History and physical note
+    Status: superseded
+
+  [23:34:33] CLAIM: professional
+    Amount: USD 211.60
+
+  [23:34:33] VISIT: Follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Ramiro608 Anderson154
+    Location: NORTHEAST BEHAVIORAL HEALTH LLC
+    Duration: 23:34:33 - 23:49:42
+
+  [23:34:33] PROCEDURE: Bone density scan (procedure)
+    Status: completed
+
+  [23:34:33] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-03-13
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Darcie474 Carolann504 is a 51 year-old nonhispanic white female.
+      # Social History
+
+  [23:34:33] DOCUMENT: History and physical note
+    Status: superseded
+
+  [23:49:42] OBSERVATION: Response to cancer treatment: Improving (qualifier value)
+
+  [23:49:42] CLAIM: professional
+    Amount: USD 9535.19
+
+
+📅 2017-06-27
+
+  [23:49:42] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Ramiro608 Anderson154
+    Location: NORTHEAST BEHAVIORAL HEALTH LLC
+    Duration: 23:49:42 - 00:24:47
+
+  [23:49:42] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [23:49:42] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-06-27
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Darcie474 Carolann504 is a 51 year-old nonhispanic white female.
+      # Social History
+
+  [23:49:42] DOCUMENT: History and physical note
+    Status: superseded
+
+
+📅 2017-06-28
+
+  [00:24:47] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2017-07-18
+
+  [17:35:04] VISIT: General examination of patient (procedure)
+    Provider: Dr. Irina619 Stiedemann542
+    Location: NEW BEDFORD INTERNAL MEDICINE & GERIATRICS, LLC
+    Duration: 17:35:04 - 17:50:04
+
+  [17:35:04] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [17:35:04] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-07-18
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Darcie474 Carolann504 is a 52 year-old nonhispanic white female.
+      # Social History
+
+  [17:35:04] DOCUMENT: History and physical note
+    Status: superseded
+
+  [17:50:04] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2017-10-07
+
+  [00:24:47] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Ramiro608 Anderson154
+    Location: NORTHEAST BEHAVIORAL HEALTH LLC
+    Duration: 00:24:47 - 00:55:17
+
+  [00:24:47] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [00:24:47] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-10-07
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Darcie474 Carolann504 is a 52 year-old nonhispanic white female.
+      # Social History
+
+  [00:24:47] DOCUMENT: History and physical note
+    Status: superseded
+
+  [00:55:17] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2018-01-30
+
+  [23:55:17] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Ramiro608 Anderson154
+    Location: NORTHEAST BEHAVIORAL HEALTH LLC
+    Duration: 23:55:17 - 00:28:02
+
+  [23:55:17] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [23:55:17] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-01-30
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Darcie474 Carolann504 is a 52 year-old nonhispanic white female.
+      # Social History
+
+  [23:55:17] DOCUMENT: History and physical note
+    Status: superseded
+
+
+📅 2018-01-31
+
+  [00:28:02] CLAIM: professional
+    Amount: USD 573.98
+
+  [00:28:02] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Ramiro608 Anderson154
+    Location: NORTHEAST BEHAVIORAL HEALTH LLC
+    Duration: 00:28:02 - 00:52:40
+
+  [00:28:02] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [00:28:02] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-01-31
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Darcie474 Carolann504 is a 52 year-old nonhispanic white female.
+      # Social History
+
+  [00:28:02] DOCUMENT: History and physical note
+    Status: superseded
+
+  [00:52:40] CLAIM: professional
+    Amount: USD 211.60
+
+  [00:52:40] VISIT: Follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Ramiro608 Anderson154
+    Location: NORTHEAST BEHAVIORAL HEALTH LLC
+    Duration: 00:52:40 - 01:13:23
+
+  [00:52:40] PROCEDURE: Bone density scan (procedure)
+    Status: completed
+
+  [00:52:40] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-01-31
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Darcie474 Carolann504 is a 52 year-old nonhispanic white female.
+      # Social History
+
+  [00:52:40] DOCUMENT: History and physical note
+    Status: superseded
+
+  [01:13:23] OBSERVATION: Response to cancer treatment: Improving (qualifier value)
+
+  [01:13:23] CLAIM: professional
+    Amount: USD 4181.24
+
+
+📅 2018-05-20
+
+  [02:13:23] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Ramiro608 Anderson154
+    Location: NORTHEAST BEHAVIORAL HEALTH LLC
+    Duration: 02:13:23 - 02:54:01
+
+  [02:13:23] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [02:13:23] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-05-20
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Darcie474 Carolann504 is a 52 year-old nonhispanic white female.
+      # Social History
+
+  [02:13:23] DOCUMENT: History and physical note
+    Status: superseded
+
+  [02:54:01] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2018-07-24
+
+  [17:35:04] VISIT: General examination of patient (procedure)
+    Provider: Dr. Irina619 Stiedemann542
+    Location: NEW BEDFORD INTERNAL MEDICINE & GERIATRICS, LLC
+    Duration: 17:35:04 - 17:50:04
+
+  [17:35:04] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [17:35:04] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-07-24
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Darcie474 Carolann504 is a 53 year-old nonhispanic white female.
+      # Social History
+
+  [17:35:04] DOCUMENT: History and physical note
+    Status: superseded
+
+  [17:50:04] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2018-09-04
+
+  [02:54:01] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Ramiro608 Anderson154
+    Location: NORTHEAST BEHAVIORAL HEALTH LLC
+    Duration: 02:54:01 - 03:36:41
+
+  [02:54:01] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [02:54:01] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-09-04
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Darcie474 Carolann504 is a 53 year-old nonhispanic white female.
+      # Social History
+
+  [02:54:01] DOCUMENT: History and physical note
+    Status: superseded
+
+  [03:36:41] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2018-12-11
+
+  [02:36:41] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Ramiro608 Anderson154
+    Location: NORTHEAST BEHAVIORAL HEALTH LLC
+    Duration: 02:36:41 - 03:17:37
+
+  [02:36:41] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [02:36:41] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-12-11
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Darcie474 Carolann504 is a 53 year-old nonhispanic white female.
+      # Social History
+
+  [02:36:41] DOCUMENT: History and physical note
+    Status: superseded
+
+  [03:17:37] CLAIM: professional
+    Amount: USD 573.98
+
+  [03:17:37] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Ramiro608 Anderson154
+    Location: NORTHEAST BEHAVIORAL HEALTH LLC
+    Duration: 03:17:37 - 03:34:27
+
+  [03:17:37] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [03:17:37] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-12-11
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Darcie474 Carolann504 is a 53 year-old nonhispanic white female.
+      # Social History
+
+  [03:17:37] DOCUMENT: History and physical note
+    Status: superseded
+
+  [03:34:27] CLAIM: professional
+    Amount: USD 211.60
+
+  [03:34:27] VISIT: Follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Ramiro608 Anderson154
+    Location: NORTHEAST BEHAVIORAL HEALTH LLC
+    Duration: 03:34:27 - 03:50:31
+
+  [03:34:27] PROCEDURE: Bone density scan (procedure)
+    Status: completed
+
+  [03:34:27] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-12-11
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Darcie474 Carolann504 is a 53 year-old nonhispanic white female.
+      # Social History
+
+  [03:34:27] DOCUMENT: History and physical note
+    Status: superseded
+
+  [03:50:31] OBSERVATION: Response to cancer treatment: Improving (qualifier value)
+
+  [03:50:31] CLAIM: professional
+    Amount: USD 4181.24
+
+
+📅 2019-04-01
+
+  [04:50:31] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Ramiro608 Anderson154
+    Location: NORTHEAST BEHAVIORAL HEALTH LLC
+    Duration: 04:50:31 - 05:35:29
+
+  [04:50:31] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [04:50:31] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-04-01
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Darcie474 Carolann504 is a 53 year-old nonhispanic white female.
+      # Social History
+
+  [04:50:31] DOCUMENT: History and physical note
+    Status: superseded
+
+  [05:35:29] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2019-07-30
+
+  [17:35:04] VISIT: General examination of patient (procedure)
+    Provider: Dr. Irina619 Stiedemann542
+    Location: NEW BEDFORD INTERNAL MEDICINE & GERIATRICS, LLC
+    Duration: 17:35:04 - 17:50:04
+
+  [17:35:04] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [17:35:04] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-07-30
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Darcie474 Carolann504 is a 54 year-old nonhispanic white female.
+      # Social History
+
+  [17:35:04] DOCUMENT: History and physical note
+    Status: superseded
+
+  [17:50:04] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2019-08-06
+
+  [17:35:04] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Ramiro608 Anderson154
+    Location: NORTHEAST BEHAVIORAL HEALTH LLC
+    Duration: 17:35:04 - 18:17:38
+
+  [17:35:04] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [17:35:04] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-08-06
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Darcie474 Carolann504 is a 54 year-old nonhispanic white female.
+      # Social History
+
+  [17:35:04] DOCUMENT: History and physical note
+    Status: superseded
+
+  [18:17:38] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2019-12-07
+
+  [17:17:38] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Ramiro608 Anderson154
+    Location: NORTHEAST BEHAVIORAL HEALTH LLC
+    Duration: 17:17:38 - 17:49:49
+
+  [17:17:38] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [17:17:38] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-12-07
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Darcie474 Carolann504 is a 54 year-old nonhispanic white female.
+      # Social History
+
+  [17:17:38] DOCUMENT: History and physical note
+    Status: superseded
+
+  [17:49:49] CLAIM: professional
+    Amount: USD 573.98
+
+  [17:49:49] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Ramiro608 Anderson154
+    Location: NORTHEAST BEHAVIORAL HEALTH LLC
+    Duration: 17:49:49 - 18:14:40
+
+  [17:49:49] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [17:49:49] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-12-07
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Darcie474 Carolann504 is a 54 year-old nonhispanic white female.
+      # Social History
+
+  [17:49:49] DOCUMENT: History and physical note
+    Status: superseded
+
+  [18:14:40] CLAIM: professional
+    Amount: USD 211.60
+
+  [18:14:40] VISIT: Follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Ramiro608 Anderson154
+    Location: NORTHEAST BEHAVIORAL HEALTH LLC
+    Duration: 18:14:40 - 18:35:54
+
+  [18:14:40] PROCEDURE: Bone density scan (procedure)
+    Status: completed
+
+  [18:14:40] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-12-07
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Darcie474 Carolann504 is a 54 year-old nonhispanic white female.
+      # Social History
+
+  [18:14:40] DOCUMENT: History and physical note
+    Status: superseded
+
+  [18:35:54] OBSERVATION: Response to cancer treatment: Improving (qualifier value)
+
+  [18:35:54] CLAIM: professional
+    Amount: USD 5653.24
+
+
+📅 2020-03-28
+
+  [19:35:54] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Ramiro608 Anderson154
+    Location: NORTHEAST BEHAVIORAL HEALTH LLC
+    Duration: 19:35:54 - 20:07:46
+
+  [19:35:54] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [19:35:54] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-03-28
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Darcie474 Carolann504 is a 54 year-old nonhispanic white female.
+      # Social History
+
+  [19:35:54] DOCUMENT: History and physical note
+    Status: superseded
+
+  [20:07:46] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2020-07-07
+
+  [20:07:46] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Ramiro608 Anderson154
+    Location: NORTHEAST BEHAVIORAL HEALTH LLC
+    Duration: 20:07:46 - 20:47:42
+
+  [20:07:46] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [20:07:46] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-07-07
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Darcie474 Carolann504 is a 55 year-old nonhispanic white female.
+      # Social History
+
+  [20:07:46] DOCUMENT: History and physical note
+    Status: superseded
+
+  [20:47:42] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2020-08-04
+
+  [17:35:04] VISIT: General examination of patient (procedure)
+    Provider: Dr. Irina619 Stiedemann542
+    Location: NEW BEDFORD INTERNAL MEDICINE & GERIATRICS, LLC
+    Duration: 17:35:04 - 17:50:04
+
+  [17:35:04] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [17:35:04] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-08-04
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Darcie474 Carolann504 is a 55 year-old nonhispanic white female.
+      # Social History
+
+  [17:35:04] DOCUMENT: History and physical note
+    Status: superseded
+
+  [17:50:04] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2020-10-28
+
+  [20:47:42] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Ramiro608 Anderson154
+    Location: NORTHEAST BEHAVIORAL HEALTH LLC
+    Duration: 20:47:42 - 21:27:38
+
+  [20:47:42] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [20:47:42] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-10-28
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Darcie474 Carolann504 is a 55 year-old nonhispanic white female.
+      # Social History
+
+  [20:47:42] DOCUMENT: History and physical note
+    Status: superseded
+
+  [21:27:38] CLAIM: professional
+    Amount: USD 573.98
+
+  [21:27:38] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Ramiro608 Anderson154
+    Location: NORTHEAST BEHAVIORAL HEALTH LLC
+    Duration: 21:27:38 - 21:48:04
+
+  [21:27:38] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [21:27:38] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-10-28
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Darcie474 Carolann504 is a 55 year-old nonhispanic white female.
+      # Social History
+
+  [21:27:38] DOCUMENT: History and physical note
+    Status: superseded
+
+  [21:48:04] CLAIM: professional
+    Amount: USD 211.60
+
+  [21:48:04] VISIT: Follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Ramiro608 Anderson154
+    Location: NORTHEAST BEHAVIORAL HEALTH LLC
+    Duration: 21:48:04 - 22:03:04
+
+  [21:48:04] PROCEDURE: Bone density scan (procedure)
+    Status: completed
+
+  [21:48:04] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-10-28
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Darcie474 Carolann504 is a 55 year-old nonhispanic white female.
+      # Social History
+
+  [21:48:04] DOCUMENT: History and physical note
+    Status: superseded
+
+  [22:03:04] CLAIM: professional
+    Amount: USD 16468.32
+
+
+📅 2020-12-29
+
+  [16:35:04] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Ramiro608 Anderson154
+    Location: NORTHEAST BEHAVIORAL HEALTH LLC
+    Duration: 16:35:04 - 16:50:04
+
+  [16:35:04] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 30 mcg/0.3 mL dose
+    Status: completed
+
+  [16:35:04] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-12-29
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Darcie474 Carolann504 is a 55 year-old nonhispanic white female.
+      # Social History
+
+  [16:35:04] DOCUMENT: History and physical note
+    Status: superseded
+
+  [16:50:04] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-01-19
+
+  [16:35:04] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Ramiro608 Anderson154
+    Location: NORTHEAST BEHAVIORAL HEALTH LLC
+    Duration: 16:35:04 - 16:50:04
+
+  [16:35:04] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 30 mcg/0.3 mL dose
+    Status: completed
+
+  [16:35:04] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-01-19
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Darcie474 Carolann504 is a 55 year-old nonhispanic white female.
+      # Social History
+
+  [16:35:04] DOCUMENT: History and physical note
+    Status: superseded
+
+  [16:50:04] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-08-10
+
+  [17:35:04] VISIT: General examination of patient (procedure)
+    Provider: Dr. Irina619 Stiedemann542
+    Location: NEW BEDFORD INTERNAL MEDICINE & GERIATRICS, LLC
+    Duration: 17:35:04 - 17:50:04
+
+  [17:35:04] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [17:35:04] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-08-10
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Darcie474 Carolann504 is a 56 year-old nonhispanic white female.
+      # Social History
+
+  [17:35:04] DOCUMENT: History and physical note
+    Status: superseded
+
+  [17:50:04] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2021-10-27
+
+  [22:02:51] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Ramiro608 Anderson154
+    Location: NORTHEAST BEHAVIORAL HEALTH LLC
+    Duration: 22:02:51 - 22:47:48
+
+  [22:02:51] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [22:02:51] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-10-27
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Darcie474 Carolann504 is a 56 year-old nonhispanic white female.
+      # Social History
+
+  [22:02:51] DOCUMENT: History and physical note
+    Status: superseded
+
+  [22:47:48] CLAIM: professional
+    Amount: USD 573.98
+
+  [22:47:48] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Ramiro608 Anderson154
+    Location: NORTHEAST BEHAVIORAL HEALTH LLC
+    Duration: 22:47:48 - 23:05:18
+
+  [22:47:48] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [22:47:48] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-10-27
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Darcie474 Carolann504 is a 56 year-old nonhispanic white female.
+      # Social History
+
+  [22:47:48] DOCUMENT: History and physical note
+    Status: superseded
+
+  [23:05:18] CLAIM: professional
+    Amount: USD 211.60
+
+  [23:05:18] VISIT: Follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Ramiro608 Anderson154
+    Location: NORTHEAST BEHAVIORAL HEALTH LLC
+    Duration: 23:05:18 - 23:22:25
+
+  [23:05:18] PROCEDURE: Bone density scan (procedure)
+    Status: completed
+
+  [23:05:18] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-10-27
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Darcie474 Carolann504 is a 56 year-old nonhispanic white female.
+      # Social History
+
+  [23:05:18] DOCUMENT: History and physical note
+    Status: superseded
+
+  [23:22:25] CLAIM: professional
+    Amount: USD 9578.51
+
+
+📅 2022-08-16
+
+  [17:35:04] VISIT: General examination of patient (procedure)
+    Provider: Dr. Irina619 Stiedemann542
+    Location: NEW BEDFORD INTERNAL MEDICINE & GERIATRICS, LLC
+    Duration: 17:35:04 - 17:50:04
+
+  [17:35:04] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [17:35:04] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-08-16
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Darcie474 Carolann504 is a 57 year-old nonhispanic white female.
+      # Social History
+
+  [17:35:04] DOCUMENT: History and physical note
+    Status: superseded
+
+  [17:50:04] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2022-10-21
+
+  [23:22:25] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Ramiro608 Anderson154
+    Location: NORTHEAST BEHAVIORAL HEALTH LLC
+    Duration: 23:22:25 - 23:57:22
+
+  [23:22:25] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [23:22:25] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-10-21
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Darcie474 Carolann504 is a 57 year-old nonhispanic white female.
+      # Social History
+
+  [23:22:25] DOCUMENT: History and physical note
+    Status: superseded
+
+  [23:57:22] CLAIM: professional
+    Amount: USD 573.98
+
+  [23:57:22] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Ramiro608 Anderson154
+    Location: NORTHEAST BEHAVIORAL HEALTH LLC
+    Duration: 23:57:22 - 00:19:58
+
+  [23:57:22] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [23:57:22] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-10-21
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Darcie474 Carolann504 is a 57 year-old nonhispanic white female.
+      # Social History
+
+  [23:57:22] DOCUMENT: History and physical note
+    Status: superseded
+
+
+📅 2022-10-22
+
+  [00:19:58] CLAIM: professional
+    Amount: USD 211.60
+
+  [00:19:58] VISIT: Follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Ramiro608 Anderson154
+    Location: NORTHEAST BEHAVIORAL HEALTH LLC
+    Duration: 00:19:58 - 00:34:58
+
+  [00:19:58] PROCEDURE: Bone density scan (procedure)
+    Status: completed
+
+  [00:19:58] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-10-22
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Darcie474 Carolann504 is a 57 year-old nonhispanic white female.
+      # Social History
+
+  [00:19:58] DOCUMENT: History and physical note
+    Status: superseded
+
+  [00:34:58] CLAIM: professional
+    Amount: USD 16468.32
+
+
+📅 2023-08-22
+
+  [17:35:04] VISIT: General examination of patient (procedure)
+    Provider: Dr. Irina619 Stiedemann542
+    Location: NEW BEDFORD INTERNAL MEDICINE & GERIATRICS, LLC
+    Duration: 17:35:04 - 17:50:04
+
+  [17:35:04] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [17:35:04] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-08-22
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Darcie474 Carolann504 is a 58 year-old nonhispanic white female.
+      # Social History
+
+  [17:35:04] DOCUMENT: History and physical note
+    Status: superseded
+
+  [17:50:04] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2023-11-08
+
+  [23:34:46] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Ramiro608 Anderson154
+    Location: NORTHEAST BEHAVIORAL HEALTH LLC
+    Duration: 23:34:46 - 00:17:23
+
+  [23:34:46] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [23:34:46] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-11-08
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Darcie474 Carolann504 is a 58 year-old nonhispanic white female.
+      # Social History
+
+  [23:34:46] DOCUMENT: History and physical note
+    Status: superseded
+
+
+📅 2023-11-09
+
+  [00:17:23] CLAIM: professional
+    Amount: USD 573.98
+
+  [00:17:23] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Ramiro608 Anderson154
+    Location: NORTHEAST BEHAVIORAL HEALTH LLC
+    Duration: 00:17:23 - 00:40:39
+
+  [00:17:23] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [00:17:23] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-11-09
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Darcie474 Carolann504 is a 58 year-old nonhispanic white female.
+      # Social History
+
+  [00:17:23] DOCUMENT: History and physical note
+    Status: superseded
+
+  [00:40:39] CLAIM: professional
+    Amount: USD 211.60
+
+  [00:40:39] VISIT: Follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Ramiro608 Anderson154
+    Location: NORTHEAST BEHAVIORAL HEALTH LLC
+    Duration: 00:40:39 - 00:55:39
+
+  [00:40:39] PROCEDURE: Bone density scan (procedure)
+    Status: completed
+
+  [00:40:39] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-11-09
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Darcie474 Carolann504 is a 58 year-old nonhispanic white female.
+      # Social History
+
+  [00:40:39] DOCUMENT: History and physical note
+    Status: superseded
+
+  [00:55:39] CLAIM: professional
+    Amount: USD 4256.60
+
+
+📅 2024-08-27
+
+  [17:35:04] VISIT: General examination of patient (procedure)
+    Provider: Dr. Irina619 Stiedemann542
+    Location: NEW BEDFORD INTERNAL MEDICINE & GERIATRICS, LLC
+    Duration: 17:35:04 - 17:50:04
+
+  [17:35:04] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [17:35:04] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-08-27
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Darcie474 Carolann504 is a 59 year-old nonhispanic white female.
+      # Social History
+
+  [17:35:04] DOCUMENT: History and physical note
+    Status: superseded
+
+  [17:50:04] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2024-11-26
+
+  [00:52:25] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Ramiro608 Anderson154
+    Location: NORTHEAST BEHAVIORAL HEALTH LLC
+    Duration: 00:52:25 - 01:22:27
+
+  [00:52:25] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [00:52:25] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-11-26
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Darcie474 Carolann504 is a 59 year-old nonhispanic white female.
+      # Social History
+
+  [00:52:25] DOCUMENT: History and physical note
+    Status: superseded
+
+  [01:22:27] CLAIM: professional
+    Amount: USD 573.98
+
+  [01:22:27] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Ramiro608 Anderson154
+    Location: NORTHEAST BEHAVIORAL HEALTH LLC
+    Duration: 01:22:27 - 01:46:44
+
+  [01:22:27] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [01:22:27] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-11-26
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Darcie474 Carolann504 is a 59 year-old nonhispanic white female.
+      # Social History
+
+  [01:22:27] DOCUMENT: History and physical note
+    Status: superseded
+
+  [01:46:44] CLAIM: professional
+    Amount: USD 220.45
+
+  [01:46:44] VISIT: Follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Ramiro608 Anderson154
+    Location: NORTHEAST BEHAVIORAL HEALTH LLC
+    Duration: 01:46:44 - 02:04:22
+
+  [01:46:44] PROCEDURE: Bone density scan (procedure)
+    Status: completed
+
+  [01:46:44] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-11-26
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Darcie474 Carolann504 is a 59 year-old nonhispanic white female.
+      # Social History
+
+  [01:46:44] DOCUMENT: History and physical note
+    Status: superseded
+
+  [02:04:22] CLAIM: professional
+    Amount: USD 7265.41
+
+
+📅 2025-09-02
+
+  [17:35:04] VISIT: General examination of patient (procedure)
+    Provider: Dr. Irina619 Stiedemann542
+    Location: NEW BEDFORD INTERNAL MEDICINE & GERIATRICS, LLC
+    Duration: 17:35:04 - 17:50:04
+
+  [17:35:04] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [17:35:04] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-09-02
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Darcie474 Carolann504 is a 60 year-old nonhispanic white female.
+      # Social History
+
+  [17:35:04] DOCUMENT: History and physical note
+    Status: superseded
+
+  [17:50:04] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2025-11-05
+
+  [02:04:22] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Ramiro608 Anderson154
+    Location: Patient's Home
+    Duration: 02:04:22 - 02:36:23
+
+  [02:04:22] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [02:04:22] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-11-05
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Darcie474 Carolann504 is a 60 year-old nonhispanic white female.
+      # Social History
+
+  [02:04:22] DOCUMENT: History and physical note
+    Status: superseded
+
+  [02:36:23] CLAIM: institutional
+    Amount: USD 556.40
+
+  [02:36:23] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Ramiro608 Anderson154
+    Location: NORTHEAST BEHAVIORAL HEALTH LLC
+    Duration: 02:36:23 - 02:55:55
+
+  [02:36:23] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [02:36:23] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-11-05
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Darcie474 Carolann504 is a 60 year-old nonhispanic white female.
+      # Social History
+
+  [02:36:23] DOCUMENT: History and physical note
+    Status: superseded
+
+  [02:55:55] CLAIM: professional
+    Amount: USD 211.60
+
+  [02:55:55] VISIT: Follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Ramiro608 Anderson154
+    Location: NORTHEAST BEHAVIORAL HEALTH LLC
+    Duration: 02:55:55 - 03:18:21
+
+  [02:55:55] PROCEDURE: Bone density scan (procedure)
+    Status: completed
+
+  [02:55:55] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-11-05
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Darcie474 Carolann504 is a 60 year-old nonhispanic white female.
+      # Social History
+
+  [02:55:55] DOCUMENT: History and physical note
+    Status: current
+
+  [03:18:21] CLAIM: professional
+    Amount: USD 4181.24
+
+
+📅 2026-02-10
+
+  [16:35:04] PROVENANCE: Record activity
+    Agents: Dr. Ramiro608 Anderson154, Dr. Ramiro608 Anderson154
+
+================================================================================
+END OF TIMELINE (305 events)
+================================================================================

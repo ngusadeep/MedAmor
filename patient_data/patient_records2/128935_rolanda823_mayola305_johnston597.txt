@@ -1,0 +1,191 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Mrs. Rolanda823 Mayola305 Johnston597
+  Patient ID: 128935
+  Date of Birth: 1980-11-19
+  Gender: Female
+  Race: White
+  Ethnicity: Not Hispanic or Latino
+  Marital Status: Married
+  Address: 115 Turner Fork, Southbridge, MA 01550
+  Phone: 555-315-1537
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2018-02-07
+
+  [08:33:10] VISIT: General examination of patient (procedure)
+    Provider: Dr. Monte325 Parisian75
+    Location: RENAISSANCE PRIMARY CARE LLC
+    Duration: 08:33:10 - 08:48:10
+
+  [08:33:10] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [08:33:10] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-02-07
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Rolanda823 Mayola305 is a 37 year-old nonhispanic white female.
+      # Social History
+
+  [08:33:10] DOCUMENT: History and physical note
+    Status: superseded
+
+  [08:48:10] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2020-11-25
+
+  [08:33:10] VISIT: General examination of patient (procedure)
+    Provider: Dr. Monte325 Parisian75
+    Location: RENAISSANCE PRIMARY CARE LLC
+    Duration: 08:33:10 - 08:48:10
+
+  [08:33:10] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [08:33:10] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [08:33:10] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-11-25
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Rolanda823 Mayola305 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [08:33:10] DOCUMENT: History and physical note
+    Status: superseded
+
+  [08:48:10] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2021-05-26
+
+  [09:33:10] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Rhett759 Padberg411
+    Location: VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+    Duration: 09:33:10 - 09:48:10
+
+  [09:33:10] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 30 mcg/0.3 mL dose
+    Status: completed
+
+  [09:33:10] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-05-26
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Rolanda823 Mayola305 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [09:33:10] DOCUMENT: History and physical note
+    Status: superseded
+
+  [09:48:10] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-06-16
+
+  [09:33:10] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Rhett759 Padberg411
+    Location: VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+    Duration: 09:33:10 - 09:48:10
+
+  [09:33:10] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 30 mcg/0.3 mL dose
+    Status: completed
+
+  [09:33:10] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-06-16
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Rolanda823 Mayola305 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [09:33:10] DOCUMENT: History and physical note
+    Status: superseded
+
+  [09:48:10] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2022-11-30
+
+  [08:33:10] VISIT: General examination of patient (procedure)
+    Provider: Dr. Monte325 Parisian75
+    Location: RENAISSANCE PRIMARY CARE LLC
+    Duration: 08:33:10 - 08:48:10
+
+  [08:33:10] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [08:33:10] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [08:33:10] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [08:33:10] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-11-30
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Rolanda823 Mayola305 is a 42 year-old nonhispanic white female.
+      # Social History
+
+  [08:33:10] DOCUMENT: History and physical note
+    Status: superseded
+
+  [08:48:10] CLAIM: professional
+    Amount: USD 544.80
+
+
+📅 2024-12-04
+
+  [08:33:10] VISIT: General examination of patient (procedure)
+    Provider: Dr. Monte325 Parisian75
+    Location: RENAISSANCE PRIMARY CARE LLC
+    Duration: 08:33:10 - 08:48:10
+
+  [08:33:10] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [08:33:10] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-12-04
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Rolanda823 Mayola305 is a 44 year-old nonhispanic white female.
+      # Social History
+
+  [08:33:10] DOCUMENT: History and physical note
+    Status: current
+
+  [08:48:10] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2026-02-11
+
+  [08:33:10] PROVENANCE: Record activity
+    Agents: Dr. Monte325 Parisian75, Dr. Monte325 Parisian75
+
+================================================================================
+END OF TIMELINE (34 events)
+================================================================================

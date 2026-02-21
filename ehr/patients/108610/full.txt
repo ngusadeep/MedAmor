@@ -1,0 +1,2079 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Mrs. Meggan475 Myrtle529 Feest103
+  Patient ID: 108610
+  Date of Birth: 1980-12-22
+  Gender: Female
+  Race: White
+  Ethnicity: Not Hispanic or Latino
+  Marital Status: Married
+  Address: 990 Williamson Knoll, Holbrook, MA 02368
+  Phone: 555-799-6233
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2018-03-12
+
+  [22:03:26] VISIT: General examination of patient (procedure)
+    Provider: Dr. Josephine273 Collier206
+    Location: BRAINTREE FAMILY PHYSICIAN INC
+    Duration: 22:03:26 - 22:18:26
+
+  [22:03:26] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [22:03:26] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-03-12
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Meggan475 Myrtle529 is a 37 year-old nonhispanic white female.
+      # Social History
+
+  [22:03:26] DOCUMENT: History and physical note
+    Status: superseded
+
+  [22:18:26] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2020-12-28
+
+  [21:03:26] VISIT: General examination of patient (procedure)
+    Provider: Dr. Josephine273 Collier206
+    Location: BRAINTREE FAMILY PHYSICIAN INC
+    Duration: 21:03:26 - 21:18:26
+
+  [21:03:26] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [21:03:26] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [21:03:26] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-12-28
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Meggan475 Myrtle529 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [21:03:26] DOCUMENT: History and physical note
+    Status: superseded
+
+  [21:18:26] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2021-04-12
+
+  [22:03:26] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. January966 Roberts511
+    Location: SOUTH SHORE HOSPITAL INC.
+    Duration: 22:03:26 - 22:18:26
+
+  [22:03:26] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 30 mcg/0.3 mL dose
+    Status: completed
+
+  [22:03:26] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-04-12
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Meggan475 Myrtle529 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [22:03:26] DOCUMENT: History and physical note
+    Status: superseded
+
+  [22:18:26] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-05-03
+
+  [22:03:26] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. January966 Roberts511
+    Location: SOUTH SHORE HOSPITAL INC.
+    Duration: 22:03:26 - 22:18:26
+
+  [22:03:26] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 30 mcg/0.3 mL dose
+    Status: completed
+
+  [22:03:26] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-05-03
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Meggan475 Myrtle529 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [22:03:26] DOCUMENT: History and physical note
+    Status: superseded
+
+  [22:18:26] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2022-09-22
+
+  [22:03:26] VISIT: Periodic reevaluation and management of healthy individual (procedure)
+    Reason: Screening for malignant neoplasm of breast (procedure)
+    Provider: Dr. January966 Roberts511
+    Location: SOUTH SHORE HOSPITAL INC.
+    Duration: 22:03:26 - 10:26:44
+
+  [22:03:26] PROCEDURE: Screening mammography (procedure)
+    Status: completed
+
+  [22:03:26] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-09-22
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Meggan475 Myrtle529 is a 41 year-old nonhispanic white female.
+      # Social History
+
+  [22:03:26] DOCUMENT: History and physical note
+    Status: superseded
+
+  [22:20:47] PROCEDURE: Magnetic resonance imaging of breast (procedure)
+    Status: completed
+
+  [23:35:17] PROCEDURE: Biopsy of breast (procedure)
+    Status: completed
+
+
+📅 2022-09-23
+
+  [00:22:44] CONDITION: Malignant neoplasm of breast (disorder) (active)
+
+  [00:22:44] OBSERVATION: Site of distant metastasis in Breast tumor: None (qualifier value)
+
+  [00:22:44] OBSERVATION: Distant metastases.clinical [Class] Cancer: American Joint Committee on Cancer cM0 (qualifier value)
+
+  [00:22:44] OBSERVATION: Size.maximum dimension in Tumor: 4.014 cm
+
+  [00:22:44] OBSERVATION: Primary tumor.clinical [Class] Cancer: American Joint Committee on Cancer cT2 (qualifier value)
+
+  [00:22:44] OBSERVATION: Lymph nodes with isolated tumor cells [#] in Cancer specimen by Light microscopy: 0 {#}
+
+  [00:22:44] OBSERVATION: Regional lymph nodes.clinical [Class] Cancer: American Joint Committee on Cancer cN0 (qualifier value)
+
+  [00:22:44] PROCEDURE: Human epidermal growth factor receptor 2 gene detection by fluorescence in situ hybridization (procedure)
+    Status: completed
+
+
+📅 2022-09-24
+
+  [07:22:44] PROCEDURE: Human epidermal growth factor receptor 2 gene detection by immunohistochemistry (procedure)
+    Status: completed
+
+  [10:26:44] OBSERVATION: HER2 [Presence] in Breast cancer specimen by Immune stain: Negative (qualifier value)
+
+  [10:26:44] OBSERVATION: ERBB2 gene duplication [Presence] in Breast cancer specimen by FISH: less than 1.8
+
+  [10:26:44] OBSERVATION: Estrogen receptor Ag [Presence] in Breast cancer specimen by Immune stain: Negative (qualifier value)
+
+  [10:26:44] OBSERVATION: Progesterone receptor Ag [Presence] in Breast cancer specimen by Immune stain: Negative (qualifier value)
+
+  [10:26:44] OBSERVATION: Estrogen+Progesterone receptor Ag [Presence] in Tissue by Immune stain: Negative (qualifier value)
+
+  [10:26:44] OBSERVATION: Tumor marker Cancer: Negative (qualifier value)
+
+  [10:26:44] OBSERVATION: Stage group.clinical Cancer: American Joint Committee on Cancer stage IIA (qualifier value)
+
+  [10:26:44] OBSERVATION: Stage group.clinical Cancer: Stage 2 (qualifier value)
+
+  [10:26:44] CLAIM: professional
+    Amount: USD 4873.15
+
+
+📅 2022-09-27
+
+  [22:26:44] VISIT: Discussion about treatment (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. January966 Roberts511
+    Location: SOUTH SHORE HOSPITAL INC.
+    Duration: 22:26:44 - 23:17:51
+
+  [22:26:44] PROCEDURE: Discussion about options (procedure)
+    Status: completed
+
+  [22:26:44] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-09-27
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Meggan475 Myrtle529 is a 41 year-old nonhispanic white female.
+      # Social History
+
+  [22:26:44] DOCUMENT: History and physical note
+    Status: superseded
+
+  [23:17:51] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2022-09-29
+
+  [00:17:51] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. January966 Roberts511
+    Location: SOUTH SHORE HOSPITAL INC.
+    Duration: 00:17:51 - 01:42:33
+
+  [00:17:51] PROCEDURE: Chemotherapy (procedure)
+    Status: completed
+
+  [00:17:51] MEDICATION PRESCRIBED: Unknown medication
+    Status: completed
+    Prescribed by: Dr. January966 Roberts511
+
+  [00:17:51] MEDICATION ADMINISTERED: 10 ML Doxorubicin Hydrochloride 2 MG/ML Injection
+    Status: completed
+
+  [00:17:51] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-09-29
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Meggan475 Myrtle529 is a 41 year-old nonhispanic white female.
+      # Social History
+
+  [00:17:51] DOCUMENT: History and physical note
+    Status: superseded
+
+  [01:42:33] CLAIM: pharmacy
+    Amount: USD 1.59
+
+  [01:42:33] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2022-10-21
+
+  [01:42:33] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. January966 Roberts511
+    Location: SOUTH SHORE HOSPITAL INC.
+    Duration: 01:42:33 - 04:30:28
+
+  [01:42:33] PROCEDURE: Chemotherapy (procedure)
+    Status: completed
+
+  [01:42:33] MEDICATION PRESCRIBED: Unknown medication
+    Status: completed
+    Prescribed by: Dr. January966 Roberts511
+
+  [01:42:33] MEDICATION ADMINISTERED: 10 ML Doxorubicin Hydrochloride 2 MG/ML Injection
+    Status: completed
+
+  [01:42:33] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-10-21
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Meggan475 Myrtle529 is a 41 year-old nonhispanic white female.
+      # Social History
+
+  [01:42:33] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:30:28] CLAIM: pharmacy
+    Amount: USD 1.52
+
+  [04:30:28] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2022-11-09
+
+  [17:30:28] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. January966 Roberts511
+    Location: SOUTH SHORE HOSPITAL INC.
+    Duration: 17:30:28 - 20:12:04
+
+  [17:30:28] PROCEDURE: Chemotherapy (procedure)
+    Status: completed
+
+  [17:30:28] MEDICATION PRESCRIBED: Unknown medication
+    Status: completed
+    Prescribed by: Dr. January966 Roberts511
+
+  [17:30:28] MEDICATION ADMINISTERED: 10 ML Doxorubicin Hydrochloride 2 MG/ML Injection
+    Status: completed
+
+  [17:30:28] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-11-09
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Meggan475 Myrtle529 is a 41 year-old nonhispanic white female.
+      # Social History
+
+  [17:30:28] DOCUMENT: History and physical note
+    Status: superseded
+
+  [20:12:04] CLAIM: pharmacy
+    Amount: USD 1.34
+
+  [20:12:04] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2022-11-29
+
+  [16:12:04] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. January966 Roberts511
+    Location: SOUTH SHORE HOSPITAL INC.
+    Duration: 16:12:04 - 17:03:58
+
+  [16:12:04] PROCEDURE: Chemotherapy (procedure)
+    Status: completed
+
+  [16:12:04] MEDICATION PRESCRIBED: Unknown medication
+    Status: completed
+    Prescribed by: Dr. January966 Roberts511
+
+  [16:12:04] MEDICATION ADMINISTERED: 10 ML Doxorubicin Hydrochloride 2 MG/ML Injection
+    Status: completed
+
+  [16:12:04] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-11-29
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Meggan475 Myrtle529 is a 41 year-old nonhispanic white female.
+      # Social History
+
+  [16:12:04] DOCUMENT: History and physical note
+    Status: superseded
+
+  [17:03:58] CLAIM: pharmacy
+    Amount: USD 1.34
+
+  [17:03:58] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2022-12-20
+
+  [14:03:58] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. January966 Roberts511
+    Location: SOUTH SHORE HOSPITAL INC.
+    Duration: 14:03:58 - 16:24:36
+
+  [14:03:58] PROCEDURE: Chemotherapy (procedure)
+    Status: completed
+
+  [14:03:58] MEDICATION PRESCRIBED: Unknown medication
+    Status: completed
+    Prescribed by: Dr. January966 Roberts511
+
+  [14:03:58] MEDICATION ADMINISTERED: 10 ML Doxorubicin Hydrochloride 2 MG/ML Injection
+    Status: completed
+
+  [14:03:58] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-12-20
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Meggan475 Myrtle529 is a 41 year-old nonhispanic white female.
+      # Social History
+
+  [14:03:58] DOCUMENT: History and physical note
+    Status: superseded
+
+  [16:24:36] CLAIM: pharmacy
+    Amount: USD 1.34
+
+  [16:24:36] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2023-01-02
+
+  [21:03:26] VISIT: General examination of patient (procedure)
+    Provider: Dr. Josephine273 Collier206
+    Location: BRAINTREE FAMILY PHYSICIAN INC
+    Duration: 21:03:26 - 21:18:26
+
+  [21:03:26] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [21:03:26] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [21:03:26] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [21:03:26] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-01-02
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Meggan475 Myrtle529 is a 42 year-old nonhispanic white female.
+      # Social History
+
+  [21:03:26] DOCUMENT: History and physical note
+    Status: superseded
+
+  [21:18:26] CLAIM: professional
+    Amount: USD 544.80
+
+
+📅 2023-01-10
+
+  [22:24:36] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. January966 Roberts511
+    Location: SOUTH SHORE HOSPITAL INC.
+    Duration: 22:24:36 - 01:45:04
+
+  [22:24:36] PROCEDURE: Chemotherapy (procedure)
+    Status: completed
+
+  [22:24:36] MEDICATION PRESCRIBED: Unknown medication
+    Status: completed
+    Prescribed by: Dr. January966 Roberts511
+
+  [22:24:36] MEDICATION ADMINISTERED: 10 ML Doxorubicin Hydrochloride 2 MG/ML Injection
+    Status: completed
+
+  [22:24:36] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-01-10
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Meggan475 Myrtle529 is a 42 year-old nonhispanic white female.
+      # Social History
+
+  [22:24:36] DOCUMENT: History and physical note
+    Status: superseded
+
+
+📅 2023-01-11
+
+  [01:45:04] CLAIM: pharmacy
+    Amount: USD 1.34
+
+  [01:45:04] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2023-01-31
+
+  [13:45:04] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. January966 Roberts511
+    Location: SOUTH SHORE HOSPITAL INC.
+    Duration: 13:45:04 - 16:03:02
+
+  [13:45:04] PROCEDURE: Chemotherapy (procedure)
+    Status: completed
+
+  [13:45:04] MEDICATION PRESCRIBED: Unknown medication
+    Status: completed
+    Prescribed by: Dr. January966 Roberts511
+
+  [13:45:04] MEDICATION ADMINISTERED: 10 ML Doxorubicin Hydrochloride 2 MG/ML Injection
+    Status: completed
+
+  [13:45:04] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-01-31
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Meggan475 Myrtle529 is a 42 year-old nonhispanic white female.
+      # Social History
+
+  [13:45:04] DOCUMENT: History and physical note
+    Status: superseded
+
+  [16:03:02] CLAIM: pharmacy
+    Amount: USD 1.34
+
+  [16:03:02] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2023-02-20
+
+  [02:03:02] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. January966 Roberts511
+    Location: SOUTH SHORE HOSPITAL INC.
+    Duration: 02:03:02 - 04:36:06
+
+  [02:03:02] PROCEDURE: Chemotherapy (procedure)
+    Status: completed
+
+  [02:03:02] MEDICATION PRESCRIBED: Unknown medication
+    Status: completed
+    Prescribed by: Dr. January966 Roberts511
+
+  [02:03:02] MEDICATION ADMINISTERED: 10 ML Doxorubicin Hydrochloride 2 MG/ML Injection
+    Status: completed
+
+  [02:03:02] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-02-20
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Meggan475 Myrtle529 is a 42 year-old nonhispanic white female.
+      # Social History
+
+  [02:03:02] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:36:06] CLAIM: pharmacy
+    Amount: USD 1.34
+
+  [04:36:06] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2023-03-06
+
+  [04:36:06] OBSERVATION: Response to cancer treatment: Improving (qualifier value)
+
+  [04:36:06] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. January966 Roberts511
+    Location: SOUTH SHORE HOSPITAL INC.
+    Duration: 04:36:06 - 08:41:06
+
+  [04:36:06] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-03-06
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Meggan475 Myrtle529 is a 42 year-old nonhispanic white female.
+      # Social History
+
+  [04:36:06] DOCUMENT: History and physical note
+    Status: superseded
+
+  [06:13:06] PROCEDURE: Excision of lesion of breast (procedure)
+    Status: completed
+
+
+📅 2023-03-09
+
+  [08:41:06] CLAIM: institutional
+    Amount: USD 519.11
+
+
+📅 2023-03-20
+
+  [20:41:06] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. January966 Roberts511
+    Location: SOUTH SHORE HOSPITAL INC.
+    Duration: 20:41:06 - 21:26:06
+
+  [20:41:06] PROCEDURE: Chemotherapy (procedure)
+    Status: completed
+
+  [20:41:06] MEDICATION PRESCRIBED: Unknown medication
+    Status: completed
+    Prescribed by: Dr. January966 Roberts511
+
+  [20:41:06] MEDICATION ADMINISTERED: Cyclophosphamide 1000 MG Injection
+    Status: completed
+
+  [20:41:06] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-03-20
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Meggan475 Myrtle529 is a 42 year-old nonhispanic white female.
+      # Social History
+
+  [20:41:06] DOCUMENT: History and physical note
+    Status: superseded
+
+  [21:26:06] CLAIM: pharmacy
+    Amount: USD 231.35
+
+  [21:26:06] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2023-04-09
+
+  [20:26:06] VISIT: Encounter for problem (procedure)
+    Provider: Dr. January966 Roberts511
+    Location: SOUTH SHORE HOSPITAL INC.
+    Duration: 20:26:06 - 21:00:06
+
+  [20:26:06] PROCEDURE: Chemotherapy (procedure)
+    Status: completed
+
+  [20:26:06] MEDICATION PRESCRIBED: Unknown medication
+    Status: completed
+    Prescribed by: Dr. January966 Roberts511
+
+  [20:26:06] MEDICATION ADMINISTERED: Cyclophosphamide 1000 MG Injection
+    Status: completed
+
+  [20:26:06] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-04-09
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Meggan475 Myrtle529 is a 42 year-old nonhispanic white female.
+      # Social History
+
+  [20:26:06] DOCUMENT: History and physical note
+    Status: superseded
+
+  [21:00:06] CLAIM: pharmacy
+    Amount: USD 231.35
+
+  [21:00:06] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2023-04-30
+
+  [20:00:06] VISIT: Encounter for problem (procedure)
+    Provider: Dr. January966 Roberts511
+    Location: SOUTH SHORE HOSPITAL INC.
+    Duration: 20:00:06 - 20:15:06
+
+  [20:00:06] PROCEDURE: Chemotherapy (procedure)
+    Status: completed
+
+  [20:00:06] MEDICATION PRESCRIBED: Unknown medication
+    Status: completed
+    Prescribed by: Dr. January966 Roberts511
+
+  [20:00:06] MEDICATION ADMINISTERED: Cyclophosphamide 1000 MG Injection
+    Status: completed
+
+  [20:00:06] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-04-30
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Meggan475 Myrtle529 is a 42 year-old nonhispanic white female.
+      # Social History
+
+  [20:00:06] DOCUMENT: History and physical note
+    Status: superseded
+
+  [20:15:06] CLAIM: pharmacy
+    Amount: USD 231.35
+
+  [20:15:06] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2023-05-19
+
+  [21:15:06] VISIT: Encounter for problem (procedure)
+    Provider: Dr. January966 Roberts511
+    Location: SOUTH SHORE HOSPITAL INC.
+    Duration: 21:15:06 - 21:40:06
+
+  [21:15:06] PROCEDURE: Chemotherapy (procedure)
+    Status: completed
+
+  [21:15:06] MEDICATION PRESCRIBED: Unknown medication
+    Status: completed
+    Prescribed by: Dr. January966 Roberts511
+
+  [21:15:06] MEDICATION ADMINISTERED: Cyclophosphamide 1000 MG Injection
+    Status: completed
+
+  [21:15:06] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-05-19
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Meggan475 Myrtle529 is a 42 year-old nonhispanic white female.
+      # Social History
+
+  [21:15:06] DOCUMENT: History and physical note
+    Status: superseded
+
+  [21:40:06] CLAIM: pharmacy
+    Amount: USD 231.35
+
+  [21:40:06] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2023-06-08
+
+  [02:40:06] VISIT: Encounter for problem (procedure)
+    Provider: Dr. January966 Roberts511
+    Location: SOUTH SHORE HOSPITAL INC.
+    Duration: 02:40:06 - 04:28:06
+
+  [02:40:06] PROCEDURE: Chemotherapy (procedure)
+    Status: completed
+
+  [02:40:06] MEDICATION PRESCRIBED: Unknown medication
+    Status: completed
+    Prescribed by: Dr. January966 Roberts511
+
+  [02:40:06] MEDICATION ADMINISTERED: Cyclophosphamide 1000 MG Injection
+    Status: completed
+
+  [02:40:06] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-06-08
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Meggan475 Myrtle529 is a 42 year-old nonhispanic white female.
+      # Social History
+
+  [02:40:06] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:28:06] CLAIM: pharmacy
+    Amount: USD 231.35
+
+  [04:28:06] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2023-06-30
+
+  [00:28:06] VISIT: Encounter for problem (procedure)
+    Provider: Dr. January966 Roberts511
+    Location: SOUTH SHORE HOSPITAL INC.
+    Duration: 00:28:06 - 01:55:06
+
+  [00:28:06] PROCEDURE: Chemotherapy (procedure)
+    Status: completed
+
+  [00:28:06] MEDICATION PRESCRIBED: Unknown medication
+    Status: completed
+    Prescribed by: Dr. January966 Roberts511
+
+  [00:28:06] MEDICATION ADMINISTERED: Cyclophosphamide 1000 MG Injection
+    Status: completed
+
+  [00:28:06] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-06-30
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Meggan475 Myrtle529 is a 42 year-old nonhispanic white female.
+      # Social History
+
+  [00:28:06] DOCUMENT: History and physical note
+    Status: superseded
+
+  [01:55:06] CLAIM: pharmacy
+    Amount: USD 231.35
+
+  [01:55:06] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2023-07-22
+
+  [13:55:06] VISIT: Encounter for problem (procedure)
+    Provider: Dr. January966 Roberts511
+    Location: SOUTH SHORE HOSPITAL INC.
+    Duration: 13:55:06 - 14:30:06
+
+  [13:55:06] PROCEDURE: Chemotherapy (procedure)
+    Status: completed
+
+  [13:55:06] MEDICATION PRESCRIBED: Unknown medication
+    Status: completed
+    Prescribed by: Dr. January966 Roberts511
+
+  [13:55:06] MEDICATION ADMINISTERED: Cyclophosphamide 1000 MG Injection
+    Status: completed
+
+  [13:55:06] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-07-22
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Meggan475 Myrtle529 is a 42 year-old nonhispanic white female.
+      # Social History
+
+  [13:55:06] DOCUMENT: History and physical note
+    Status: superseded
+
+  [14:30:06] CLAIM: pharmacy
+    Amount: USD 231.35
+
+  [14:30:06] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2023-08-12
+
+  [15:30:06] VISIT: Encounter for problem (procedure)
+    Provider: Dr. January966 Roberts511
+    Location: SOUTH SHORE HOSPITAL INC.
+    Duration: 15:30:06 - 15:58:06
+
+  [15:30:06] PROCEDURE: Chemotherapy (procedure)
+    Status: completed
+
+  [15:30:06] MEDICATION PRESCRIBED: Unknown medication
+    Status: completed
+    Prescribed by: Dr. January966 Roberts511
+
+  [15:30:06] MEDICATION ADMINISTERED: Cyclophosphamide 1000 MG Injection
+    Status: completed
+
+  [15:30:06] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-08-12
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Meggan475 Myrtle529 is a 42 year-old nonhispanic white female.
+      # Social History
+
+  [15:30:06] DOCUMENT: History and physical note
+    Status: superseded
+
+  [15:58:06] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [15:58:06] CLAIM: pharmacy
+    Amount: USD 231.35
+
+  [15:58:06] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2023-08-14
+
+  [03:09:10] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. January966 Roberts511
+    Location: SOUTH SHORE HOSPITAL INC.
+    Duration: 03:09:10 - 03:38:54
+
+  [03:09:10] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [03:09:10] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-08-14
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Meggan475 Myrtle529 is a 42 year-old nonhispanic white female.
+      # Social History
+
+  [03:09:10] DOCUMENT: History and physical note
+    Status: superseded
+
+  [03:38:54] CLAIM: professional
+    Amount: USD 1359.90
+
+
+📅 2023-08-15
+
+  [05:29:54] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. January966 Roberts511
+    Location: SOUTH SHORE HOSPITAL INC.
+    Duration: 05:29:54 - 05:47:42
+
+  [05:29:54] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [05:29:54] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-08-15
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Meggan475 Myrtle529 is a 42 year-old nonhispanic white female.
+      # Social History
+
+  [05:29:54] DOCUMENT: History and physical note
+    Status: superseded
+
+  [05:47:42] CLAIM: professional
+    Amount: USD 512.63
+
+
+📅 2023-08-16
+
+  [06:21:42] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. January966 Roberts511
+    Location: SOUTH SHORE HOSPITAL INC.
+    Duration: 06:21:42 - 06:57:39
+
+  [06:21:42] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [06:21:42] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-08-16
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Meggan475 Myrtle529 is a 42 year-old nonhispanic white female.
+      # Social History
+
+  [06:21:42] DOCUMENT: History and physical note
+    Status: superseded
+
+  [06:57:39] CLAIM: professional
+    Amount: USD 512.63
+
+
+📅 2023-08-17
+
+  [12:12:39] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. January966 Roberts511
+    Location: SOUTH SHORE HOSPITAL INC.
+    Duration: 12:12:39 - 12:47:49
+
+  [12:12:39] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [12:12:39] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-08-17
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Meggan475 Myrtle529 is a 42 year-old nonhispanic white female.
+      # Social History
+
+  [12:12:39] DOCUMENT: History and physical note
+    Status: superseded
+
+  [12:47:49] CLAIM: professional
+    Amount: USD 512.63
+
+
+📅 2023-08-18
+
+  [20:22:49] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. January966 Roberts511
+    Location: SOUTH SHORE HOSPITAL INC.
+    Duration: 20:22:49 - 20:53:41
+
+  [20:22:49] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [20:22:49] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-08-18
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Meggan475 Myrtle529 is a 42 year-old nonhispanic white female.
+      # Social History
+
+  [20:22:49] DOCUMENT: History and physical note
+    Status: superseded
+
+  [20:53:41] CLAIM: professional
+    Amount: USD 512.63
+
+
+📅 2023-08-20
+
+  [03:37:41] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. January966 Roberts511
+    Location: SOUTH SHORE HOSPITAL INC.
+    Duration: 03:37:41 - 03:53:11
+
+  [03:37:41] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [03:37:41] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-08-20
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Meggan475 Myrtle529 is a 42 year-old nonhispanic white female.
+      # Social History
+
+  [03:37:41] DOCUMENT: History and physical note
+    Status: superseded
+
+  [03:53:11] CLAIM: professional
+    Amount: USD 1359.90
+
+
+📅 2023-08-21
+
+  [04:25:11] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. January966 Roberts511
+    Location: SOUTH SHORE HOSPITAL INC.
+    Duration: 04:25:11 - 04:44:35
+
+  [04:25:11] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [04:25:11] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-08-21
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Meggan475 Myrtle529 is a 42 year-old nonhispanic white female.
+      # Social History
+
+  [04:25:11] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:44:35] CLAIM: professional
+    Amount: USD 672.24
+
+
+📅 2023-08-22
+
+  [08:19:35] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. January966 Roberts511
+    Location: SOUTH SHORE HOSPITAL INC.
+    Duration: 08:19:35 - 08:54:43
+
+  [08:19:35] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [08:19:35] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-08-22
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Meggan475 Myrtle529 is a 42 year-old nonhispanic white female.
+      # Social History
+
+  [08:19:35] DOCUMENT: History and physical note
+    Status: superseded
+
+  [08:54:43] CLAIM: professional
+    Amount: USD 656.89
+
+
+📅 2023-08-23
+
+  [19:02:43] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. January966 Roberts511
+    Location: SOUTH SHORE HOSPITAL INC.
+    Duration: 19:02:43 - 19:38:52
+
+  [19:02:43] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [19:02:43] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-08-23
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Meggan475 Myrtle529 is a 42 year-old nonhispanic white female.
+      # Social History
+
+  [19:02:43] DOCUMENT: History and physical note
+    Status: superseded
+
+  [19:38:52] CLAIM: professional
+    Amount: USD 1059.90
+
+
+📅 2023-08-24
+
+  [23:57:52] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. January966 Roberts511
+    Location: SOUTH SHORE HOSPITAL INC.
+    Duration: 23:57:52 - 00:17:36
+
+  [23:57:52] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [23:57:52] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-08-24
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Meggan475 Myrtle529 is a 42 year-old nonhispanic white female.
+      # Social History
+
+  [23:57:52] DOCUMENT: History and physical note
+    Status: superseded
+
+
+📅 2023-08-25
+
+  [00:17:36] CLAIM: professional
+    Amount: USD 1299.62
+
+
+📅 2023-08-26
+
+  [09:56:36] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. January966 Roberts511
+    Location: SOUTH SHORE HOSPITAL INC.
+    Duration: 09:56:36 - 10:34:01
+
+  [09:56:36] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [09:56:36] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-08-26
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Meggan475 Myrtle529 is a 42 year-old nonhispanic white female.
+      # Social History
+
+  [09:56:36] DOCUMENT: History and physical note
+    Status: superseded
+
+  [10:34:01] CLAIM: professional
+    Amount: USD 1359.90
+
+
+📅 2023-08-27
+
+  [17:05:01] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. January966 Roberts511
+    Location: SOUTH SHORE HOSPITAL INC.
+    Duration: 17:05:01 - 17:21:06
+
+  [17:05:01] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [17:05:01] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-08-27
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Meggan475 Myrtle529 is a 42 year-old nonhispanic white female.
+      # Social History
+
+  [17:05:01] DOCUMENT: History and physical note
+    Status: superseded
+
+  [17:21:06] CLAIM: professional
+    Amount: USD 1359.90
+
+
+📅 2023-08-28
+
+  [19:52:06] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. January966 Roberts511
+    Location: SOUTH SHORE HOSPITAL INC.
+    Duration: 19:52:06 - 20:18:58
+
+  [19:52:06] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [19:52:06] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-08-28
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Meggan475 Myrtle529 is a 42 year-old nonhispanic white female.
+      # Social History
+
+  [19:52:06] DOCUMENT: History and physical note
+    Status: superseded
+
+  [20:18:58] CLAIM: professional
+    Amount: USD 1034.87
+
+
+📅 2023-08-30
+
+  [03:04:58] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. January966 Roberts511
+    Location: SOUTH SHORE HOSPITAL INC.
+    Duration: 03:04:58 - 03:29:20
+
+  [03:04:58] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [03:04:58] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-08-30
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Meggan475 Myrtle529 is a 42 year-old nonhispanic white female.
+      # Social History
+
+  [03:04:58] DOCUMENT: History and physical note
+    Status: superseded
+
+  [03:29:20] CLAIM: professional
+    Amount: USD 512.63
+
+
+📅 2023-08-31
+
+  [08:37:20] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. January966 Roberts511
+    Location: SOUTH SHORE HOSPITAL INC.
+    Duration: 08:37:20 - 09:03:27
+
+  [08:37:20] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [08:37:20] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-08-31
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Meggan475 Myrtle529 is a 42 year-old nonhispanic white female.
+      # Social History
+
+  [08:37:20] DOCUMENT: History and physical note
+    Status: superseded
+
+  [09:03:27] CLAIM: professional
+    Amount: USD 512.63
+
+
+📅 2023-09-01
+
+  [13:32:27] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. January966 Roberts511
+    Location: SOUTH SHORE HOSPITAL INC.
+    Duration: 13:32:27 - 13:49:28
+
+  [13:32:27] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [13:32:27] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-09-01
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Meggan475 Myrtle529 is a 42 year-old nonhispanic white female.
+      # Social History
+
+  [13:32:27] DOCUMENT: History and physical note
+    Status: superseded
+
+  [13:49:28] CLAIM: professional
+    Amount: USD 1222.34
+
+
+📅 2023-09-03
+
+  [00:37:28] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. January966 Roberts511
+    Location: SOUTH SHORE HOSPITAL INC.
+    Duration: 00:37:28 - 01:13:57
+
+  [00:37:28] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [00:37:28] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-09-03
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Meggan475 Myrtle529 is a 42 year-old nonhispanic white female.
+      # Social History
+
+  [00:37:28] DOCUMENT: History and physical note
+    Status: superseded
+
+  [01:13:57] CLAIM: professional
+    Amount: USD 1359.90
+
+
+📅 2023-09-04
+
+  [12:32:57] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. January966 Roberts511
+    Location: SOUTH SHORE HOSPITAL INC.
+    Duration: 12:32:57 - 12:59:50
+
+  [12:32:57] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [12:32:57] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-09-04
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Meggan475 Myrtle529 is a 42 year-old nonhispanic white female.
+      # Social History
+
+  [12:32:57] DOCUMENT: History and physical note
+    Status: superseded
+
+  [12:59:50] CLAIM: professional
+    Amount: USD 512.63
+
+
+📅 2023-09-05
+
+  [21:50:50] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. January966 Roberts511
+    Location: SOUTH SHORE HOSPITAL INC.
+    Duration: 21:50:50 - 22:22:41
+
+  [21:50:50] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [21:50:50] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-09-05
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Meggan475 Myrtle529 is a 42 year-old nonhispanic white female.
+      # Social History
+
+  [21:50:50] DOCUMENT: History and physical note
+    Status: superseded
+
+  [22:22:41] CLAIM: professional
+    Amount: USD 1359.90
+
+
+📅 2023-09-07
+
+  [09:59:41] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. January966 Roberts511
+    Location: SOUTH SHORE HOSPITAL INC.
+    Duration: 09:59:41 - 10:20:31
+
+  [09:59:41] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [09:59:41] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-09-07
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Meggan475 Myrtle529 is a 42 year-old nonhispanic white female.
+      # Social History
+
+  [09:59:41] DOCUMENT: History and physical note
+    Status: superseded
+
+  [10:20:31] CLAIM: professional
+    Amount: USD 1359.90
+
+
+📅 2023-09-08
+
+  [18:04:31] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. January966 Roberts511
+    Location: SOUTH SHORE HOSPITAL INC.
+    Duration: 18:04:31 - 18:44:13
+
+  [18:04:31] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [18:04:31] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-09-08
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Meggan475 Myrtle529 is a 42 year-old nonhispanic white female.
+      # Social History
+
+  [18:04:31] DOCUMENT: History and physical note
+    Status: superseded
+
+  [18:44:13] CLAIM: professional
+    Amount: USD 1236.93
+
+
+📅 2023-09-10
+
+  [01:27:13] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. January966 Roberts511
+    Location: SOUTH SHORE HOSPITAL INC.
+    Duration: 01:27:13 - 01:47:25
+
+  [01:27:13] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [01:27:13] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-09-10
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Meggan475 Myrtle529 is a 42 year-old nonhispanic white female.
+      # Social History
+
+  [01:27:13] DOCUMENT: History and physical note
+    Status: superseded
+
+  [01:47:25] CLAIM: professional
+    Amount: USD 1359.90
+
+
+📅 2023-09-11
+
+  [07:10:25] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. January966 Roberts511
+    Location: SOUTH SHORE HOSPITAL INC.
+    Duration: 07:10:25 - 07:33:35
+
+  [07:10:25] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [07:10:25] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-09-11
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Meggan475 Myrtle529 is a 42 year-old nonhispanic white female.
+      # Social History
+
+  [07:10:25] DOCUMENT: History and physical note
+    Status: superseded
+
+  [07:33:35] CLAIM: professional
+    Amount: USD 512.63
+
+
+📅 2023-09-12
+
+  [11:18:35] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. January966 Roberts511
+    Location: SOUTH SHORE HOSPITAL INC.
+    Duration: 11:18:35 - 11:40:51
+
+  [11:18:35] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [11:18:35] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-09-12
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Meggan475 Myrtle529 is a 42 year-old nonhispanic white female.
+      # Social History
+
+  [11:18:35] DOCUMENT: History and physical note
+    Status: superseded
+
+  [11:40:51] CLAIM: professional
+    Amount: USD 1359.90
+
+
+📅 2023-09-13
+
+  [12:33:51] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. January966 Roberts511
+    Location: SOUTH SHORE HOSPITAL INC.
+    Duration: 12:33:51 - 12:52:16
+
+  [12:33:51] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [12:33:51] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-09-13
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Meggan475 Myrtle529 is a 42 year-old nonhispanic white female.
+      # Social History
+
+  [12:33:51] DOCUMENT: History and physical note
+    Status: superseded
+
+  [12:52:16] CLAIM: professional
+    Amount: USD 512.63
+
+
+📅 2023-09-14
+
+  [19:45:16] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. January966 Roberts511
+    Location: SOUTH SHORE HOSPITAL INC.
+    Duration: 19:45:16 - 20:06:07
+
+  [19:45:16] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [19:45:16] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-09-14
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Meggan475 Myrtle529 is a 42 year-old nonhispanic white female.
+      # Social History
+
+  [19:45:16] DOCUMENT: History and physical note
+    Status: superseded
+
+  [20:06:07] CLAIM: professional
+    Amount: USD 579.77
+
+
+📅 2023-09-16
+
+  [03:13:07] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. January966 Roberts511
+    Location: SOUTH SHORE HOSPITAL INC.
+    Duration: 03:13:07 - 03:31:07
+
+  [03:13:07] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [03:13:07] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-09-16
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Meggan475 Myrtle529 is a 42 year-old nonhispanic white female.
+      # Social History
+
+  [03:13:07] DOCUMENT: History and physical note
+    Status: superseded
+
+  [03:31:07] CLAIM: professional
+    Amount: USD 1359.90
+
+
+📅 2023-09-17
+
+  [14:35:07] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. January966 Roberts511
+    Location: SOUTH SHORE HOSPITAL INC.
+    Duration: 14:35:07 - 15:07:05
+
+  [14:35:07] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [14:35:07] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-09-17
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Meggan475 Myrtle529 is a 42 year-old nonhispanic white female.
+      # Social History
+
+  [14:35:07] DOCUMENT: History and physical note
+    Status: superseded
+
+  [15:07:05] CLAIM: professional
+    Amount: USD 730.78
+
+
+📅 2023-09-19
+
+  [00:53:05] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. January966 Roberts511
+    Location: SOUTH SHORE HOSPITAL INC.
+    Duration: 00:53:05 - 01:28:18
+
+  [00:53:05] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [00:53:05] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-09-19
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Meggan475 Myrtle529 is a 42 year-old nonhispanic white female.
+      # Social History
+
+  [00:53:05] DOCUMENT: History and physical note
+    Status: superseded
+
+  [01:28:18] CLAIM: professional
+    Amount: USD 512.63
+
+
+📅 2023-09-20
+
+  [10:47:18] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. January966 Roberts511
+    Location: SOUTH SHORE HOSPITAL INC.
+    Duration: 10:47:18 - 11:15:57
+
+  [10:47:18] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [10:47:18] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-09-20
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Meggan475 Myrtle529 is a 42 year-old nonhispanic white female.
+      # Social History
+
+  [10:47:18] DOCUMENT: History and physical note
+    Status: superseded
+
+  [11:15:57] CLAIM: professional
+    Amount: USD 1359.90
+
+
+📅 2023-09-21
+
+  [19:52:57] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. January966 Roberts511
+    Location: SOUTH SHORE HOSPITAL INC.
+    Duration: 19:52:57 - 20:23:41
+
+  [19:52:57] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [19:52:57] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-09-21
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Meggan475 Myrtle529 is a 42 year-old nonhispanic white female.
+      # Social History
+
+  [19:52:57] DOCUMENT: History and physical note
+    Status: superseded
+
+  [20:23:41] CLAIM: professional
+    Amount: USD 1359.90
+
+
+📅 2023-09-23
+
+  [04:22:41] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. January966 Roberts511
+    Location: SOUTH SHORE HOSPITAL INC.
+    Duration: 04:22:41 - 04:41:33
+
+  [04:22:41] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [04:22:41] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-09-23
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Meggan475 Myrtle529 is a 42 year-old nonhispanic white female.
+      # Social History
+
+  [04:22:41] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:41:33] CLAIM: professional
+    Amount: USD 1359.90
+
+
+📅 2023-09-24
+
+  [11:11:33] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. January966 Roberts511
+    Location: SOUTH SHORE HOSPITAL INC.
+    Duration: 11:11:33 - 11:45:16
+
+  [11:11:33] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [11:11:33] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-09-24
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Meggan475 Myrtle529 is a 42 year-old nonhispanic white female.
+      # Social History
+
+  [11:11:33] DOCUMENT: History and physical note
+    Status: superseded
+
+  [11:45:16] CLAIM: professional
+    Amount: USD 1359.90
+
+
+📅 2023-09-28
+
+  [11:45:16] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. January966 Roberts511
+    Location: SOUTH SHORE HOSPITAL INC.
+    Duration: 11:45:16 - 12:00:16
+
+  [11:45:16] OBSERVATION: Treatment status Cancer: Treatment changed (situation)
+
+  [11:45:16] OBSERVATION: Response to cancer treatment: Improving (qualifier value)
+
+  [11:45:16] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-09-28
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Meggan475 Myrtle529 is a 42 year-old nonhispanic white female.
+      # Social History
+
+  [11:45:16] DOCUMENT: History and physical note
+    Status: superseded
+
+  [12:00:16] CLAIM: professional
+    Amount: USD 85.55
+
+
+📅 2024-01-18
+
+  [10:45:16] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. January966 Roberts511
+    Location: SOUTH SHORE HOSPITAL INC.
+    Duration: 10:45:16 - 11:29:04
+
+  [10:45:16] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [10:45:16] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-01-18
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Meggan475 Myrtle529 is a 43 year-old nonhispanic white female.
+      # Social History
+
+  [10:45:16] DOCUMENT: History and physical note
+    Status: superseded
+
+  [11:29:04] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2024-04-30
+
+  [12:29:04] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. January966 Roberts511
+    Location: SOUTH SHORE HOSPITAL INC.
+    Duration: 12:29:04 - 13:11:40
+
+  [12:29:04] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [12:29:04] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-04-30
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Meggan475 Myrtle529 is a 43 year-old nonhispanic white female.
+      # Social History
+
+  [12:29:04] DOCUMENT: History and physical note
+    Status: superseded
+
+  [13:11:40] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2024-08-25
+
+  [13:11:40] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. January966 Roberts511
+    Location: SOUTH SHORE HOSPITAL INC.
+    Duration: 13:11:40 - 13:49:47
+
+  [13:11:40] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [13:11:40] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-08-25
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Meggan475 Myrtle529 is a 43 year-old nonhispanic white female.
+      # Social History
+
+  [13:11:40] DOCUMENT: History and physical note
+    Status: superseded
+
+  [13:49:47] CLAIM: professional
+    Amount: USD 573.98
+
+  [13:49:47] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. January966 Roberts511
+    Location: SOUTH SHORE HOSPITAL INC.
+    Duration: 13:49:47 - 14:05:15
+
+  [13:49:47] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [13:49:47] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-08-25
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Meggan475 Myrtle529 is a 43 year-old nonhispanic white female.
+      # Social History
+
+  [13:49:47] DOCUMENT: History and physical note
+    Status: superseded
+
+  [14:05:15] OBSERVATION: Response to cancer treatment: Improving (qualifier value)
+
+  [14:05:15] CLAIM: professional
+    Amount: USD 211.60
+
+
+📅 2024-12-17
+
+  [13:05:15] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. January966 Roberts511
+    Location: SOUTH SHORE HOSPITAL INC.
+    Duration: 13:05:15 - 13:45:43
+
+  [13:05:15] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [13:05:15] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-12-17
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Meggan475 Myrtle529 is a 43 year-old nonhispanic white female.
+      # Social History
+
+  [13:05:15] DOCUMENT: History and physical note
+    Status: superseded
+
+  [13:45:43] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2025-01-06
+
+  [21:03:26] VISIT: General examination of patient (procedure)
+    Provider: Dr. Josephine273 Collier206
+    Location: BRAINTREE FAMILY PHYSICIAN INC
+    Duration: 21:03:26 - 21:18:26
+
+  [21:03:26] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [21:03:26] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-01-06
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Meggan475 Myrtle529 is a 44 year-old nonhispanic white female.
+      # Social History
+
+  [21:03:26] DOCUMENT: History and physical note
+    Status: superseded
+
+  [21:18:26] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2025-04-09
+
+  [14:45:43] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. January966 Roberts511
+    Location: SOUTH SHORE HOSPITAL INC.
+    Duration: 14:45:43 - 15:19:05
+
+  [14:45:43] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [14:45:43] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-04-09
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Meggan475 Myrtle529 is a 44 year-old nonhispanic white female.
+      # Social History
+
+  [14:45:43] DOCUMENT: History and physical note
+    Status: superseded
+
+  [15:19:05] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2025-08-05
+
+  [15:19:05] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. January966 Roberts511
+    Location: SOUTH SHORE HOSPITAL INC.
+    Duration: 15:19:05 - 15:50:56
+
+  [15:19:05] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [15:19:05] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-08-05
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Meggan475 Myrtle529 is a 44 year-old nonhispanic white female.
+      # Social History
+
+  [15:19:05] DOCUMENT: History and physical note
+    Status: superseded
+
+  [15:50:56] CLAIM: professional
+    Amount: USD 573.98
+
+  [15:50:56] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. January966 Roberts511
+    Location: SOUTH SHORE HOSPITAL INC.
+    Duration: 15:50:56 - 16:12:21
+
+  [15:50:56] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [15:50:56] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-08-05
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Meggan475 Myrtle529 is a 44 year-old nonhispanic white female.
+      # Social History
+
+  [15:50:56] DOCUMENT: History and physical note
+    Status: superseded
+
+  [16:12:21] OBSERVATION: Response to cancer treatment: Improving (qualifier value)
+
+  [16:12:21] CLAIM: professional
+    Amount: USD 211.60
+
+
+📅 2025-11-30
+
+  [15:12:21] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. January966 Roberts511
+    Location: SOUTH SHORE HOSPITAL INC.
+    Duration: 15:12:21 - 15:43:30
+
+  [15:12:21] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [15:12:21] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-11-30
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Meggan475 Myrtle529 is a 44 year-old nonhispanic white female.
+      # Social History
+
+  [15:12:21] DOCUMENT: History and physical note
+    Status: current
+
+  [15:43:30] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2026-02-09
+
+  [21:03:26] PROVENANCE: Record activity
+    Agents: Dr. January966 Roberts511, Dr. January966 Roberts511
+
+================================================================================
+END OF TIMELINE (416 events)
+================================================================================

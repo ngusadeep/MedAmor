@@ -1,0 +1,159 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Mrs. Linnie39 Deanne837 Stiedemann542
+  Patient ID: 94194
+  Date of Birth: 1984-05-19
+  Gender: Female
+  Race: White
+  Ethnicity: Not Hispanic or Latino
+  Marital Status: Married
+  Address: 289 Grimes Harbor Suite 41, East Douglas, MA 01516
+  Phone: 555-338-5590
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2018-08-04
+
+  [10:17:20] VISIT: General examination of patient (procedure)
+    Provider: Dr. Barb55 Renner328
+    Location: AUBURN PRIMARY CARE AND AESTHETICS
+    Duration: 10:17:20 - 10:32:20
+
+  [10:17:20] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [10:17:20] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-08-04
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Linnie39 Deanne837 is a 34 year-old nonhispanic white female.
+      # Social History
+
+  [10:17:20] DOCUMENT: History and physical note
+    Status: superseded
+
+  [10:32:20] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2021-04-10
+
+  [10:17:20] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Rhett759 Padberg411
+    Location: VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+    Duration: 10:17:20 - 10:32:20
+
+  [10:17:20] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 30 mcg/0.3 mL dose
+    Status: completed
+
+  [10:17:20] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-04-10
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Linnie39 Deanne837 is a 36 year-old nonhispanic white female.
+      # Social History
+
+  [10:17:20] DOCUMENT: History and physical note
+    Status: superseded
+
+  [10:32:20] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-05-01
+
+  [10:17:20] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Rhett759 Padberg411
+    Location: VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+    Duration: 10:17:20 - 10:32:20
+
+  [10:17:20] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 30 mcg/0.3 mL dose
+    Status: completed
+
+  [10:17:20] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-05-01
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Linnie39 Deanne837 is a 36 year-old nonhispanic white female.
+      # Social History
+
+  [10:17:20] DOCUMENT: History and physical note
+    Status: superseded
+
+  [10:32:20] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-08-07
+
+  [10:17:20] VISIT: General examination of patient (procedure)
+    Provider: Dr. Barb55 Renner328
+    Location: AUBURN PRIMARY CARE AND AESTHETICS
+    Duration: 10:17:20 - 10:32:20
+
+  [10:17:20] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [10:17:20] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-08-07
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Linnie39 Deanne837 is a 37 year-old nonhispanic white female.
+      # Social History
+
+  [10:17:20] DOCUMENT: History and physical note
+    Status: superseded
+
+  [10:32:20] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2024-05-25
+
+  [10:17:20] VISIT: General examination of patient (procedure)
+    Provider: Dr. Barb55 Renner328
+    Location: AUBURN PRIMARY CARE AND AESTHETICS
+    Duration: 10:17:20 - 10:32:20
+
+  [10:17:20] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [10:17:20] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [10:17:20] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-05-25
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Linnie39 Deanne837 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [10:17:20] DOCUMENT: History and physical note
+    Status: current
+
+  [10:32:20] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2026-02-14
+
+  [09:17:20] PROVENANCE: Record activity
+    Agents: Dr. Barb55 Renner328, Dr. Barb55 Renner328
+
+================================================================================
+END OF TIMELINE (27 events)
+================================================================================

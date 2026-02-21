@@ -13,6 +13,8 @@ class FindingItem(BaseModel):
     description: str
     responsible_doctor: str | None = None
     urgency: str | None = None
+    confidence: float | None = None
+    harm_severity: float | None = None
 
 
 class EvidenceItem(BaseModel):
@@ -21,6 +23,8 @@ class EvidenceItem(BaseModel):
     kb_source: str | None = None
     ehr_snippet: str | None = None
     image_ref: str | None = None
+    confidence: float | None = None
+    harm_severity: float | None = None
 
 
 class OrchestratorEvidenceItem(BaseModel):

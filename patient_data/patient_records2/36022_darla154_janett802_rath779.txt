@@ -1,0 +1,217 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Mrs. Darla154 Janett802 Rath779
+  Patient ID: 36022
+  Date of Birth: 1976-12-02
+  Gender: Female
+  Race: White
+  Ethnicity: Not Hispanic or Latino
+  Marital Status: Married
+  Address: 292 Davis Bay, Melrose, MA 02176
+  Phone: 555-111-7106
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2016-12-08
+
+  [09:06:27] VISIT: General examination of patient (procedure)
+    Provider: Dr. Georgianne697 Howe413
+    Location: WOODLAND INTERNISTS, P.C.
+    Duration: 09:06:27 - 09:21:27
+
+  [09:06:27] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [09:06:27] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [09:06:27] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-12-08
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Darla154 Janett802 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [09:06:27] DOCUMENT: History and physical note
+    Status: superseded
+
+  [09:21:27] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2018-12-13
+
+  [09:06:27] VISIT: General examination of patient (procedure)
+    Provider: Dr. Georgianne697 Howe413
+    Location: WOODLAND INTERNISTS, P.C.
+    Duration: 09:06:27 - 09:21:27
+
+  [09:06:27] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [09:06:27] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [09:06:27] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [09:06:27] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-12-13
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Darla154 Janett802 is a 42 year-old nonhispanic white female.
+      # Social History
+
+  [09:06:27] DOCUMENT: History and physical note
+    Status: superseded
+
+  [09:21:27] CLAIM: professional
+    Amount: USD 544.80
+
+
+📅 2020-12-17
+
+  [09:06:27] VISIT: General examination of patient (procedure)
+    Provider: Dr. Georgianne697 Howe413
+    Location: WOODLAND INTERNISTS, P.C.
+    Duration: 09:06:27 - 09:21:27
+
+  [09:06:27] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [09:06:27] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-12-17
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Darla154 Janett802 is a 44 year-old nonhispanic white female.
+      # Social History
+
+  [09:06:27] DOCUMENT: History and physical note
+    Status: superseded
+
+  [09:21:27] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2021-03-18
+
+  [10:06:27] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Chun678 Armstrong51
+    Location: MASSACHUSETTS EYE AND EAR INFIRMARY -
+    Duration: 10:06:27 - 10:21:27
+
+  [10:06:27] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+    Status: completed
+
+  [10:06:27] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-03-18
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Darla154 Janett802 is a 44 year-old nonhispanic white female.
+      # Social History
+
+  [10:06:27] DOCUMENT: History and physical note
+    Status: superseded
+
+  [10:21:27] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-04-15
+
+  [10:06:27] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Chun678 Armstrong51
+    Location: MASSACHUSETTS EYE AND EAR INFIRMARY -
+    Duration: 10:06:27 - 10:21:27
+
+  [10:06:27] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+    Status: completed
+
+  [10:06:27] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-04-15
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Darla154 Janett802 is a 44 year-old nonhispanic white female.
+      # Social History
+
+  [10:06:27] DOCUMENT: History and physical note
+    Status: superseded
+
+  [10:21:27] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2022-12-22
+
+  [09:06:27] VISIT: General examination of patient (procedure)
+    Provider: Dr. Georgianne697 Howe413
+    Location: WOODLAND INTERNISTS, P.C.
+    Duration: 09:06:27 - 09:21:27
+
+  [09:06:27] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [09:06:27] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-12-22
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Darla154 Janett802 is a 46 year-old nonhispanic white female.
+      # Social History
+
+  [09:06:27] DOCUMENT: History and physical note
+    Status: superseded
+
+  [09:21:27] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2024-12-26
+
+  [09:06:27] VISIT: General examination of patient (procedure)
+    Provider: Dr. Georgianne697 Howe413
+    Location: WOODLAND INTERNISTS, P.C.
+    Duration: 09:06:27 - 09:21:27
+
+  [09:06:27] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [09:06:27] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-12-26
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Darla154 Janett802 is a 48 year-old nonhispanic white female.
+      # Social History
+
+  [09:06:27] DOCUMENT: History and physical note
+    Status: current
+
+  [09:21:27] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2026-02-12
+
+  [09:06:27] PROVENANCE: Record activity
+    Agents: Dr. Georgianne697 Howe413, Dr. Georgianne697 Howe413
+
+================================================================================
+END OF TIMELINE (39 events)
+================================================================================

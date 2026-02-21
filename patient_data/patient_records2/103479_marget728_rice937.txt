@@ -1,0 +1,191 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Ms. Marget728 Rice937
+  Patient ID: 103479
+  Date of Birth: 1983-06-09
+  Gender: Female
+  Race: Asian
+  Ethnicity: Not Hispanic or Latino
+  Marital Status: Never Married
+  Address: 227 Smith Parade Suite 65, Lowell, MA 01851
+  Phone: 555-172-3855
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2017-08-24
+
+  [13:06:27] VISIT: General examination of patient (procedure)
+    Provider: Dr. Pearlene638 Towne435
+    Location: LOWELL COMMUNITY HEALTH CENTER
+    Duration: 13:06:27 - 13:21:27
+
+  [13:06:27] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [13:06:27] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-08-24
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Marget728 is a 34 year-old nonhispanic asian female.
+      # Social History
+
+  [13:06:27] DOCUMENT: History and physical note
+    Status: superseded
+
+  [13:21:27] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2020-08-27
+
+  [13:06:27] VISIT: General examination of patient (procedure)
+    Provider: Dr. Pearlene638 Towne435
+    Location: LOWELL COMMUNITY HEALTH CENTER
+    Duration: 13:06:27 - 13:21:27
+
+  [13:06:27] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [13:06:27] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-08-27
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Marget728 is a 37 year-old nonhispanic asian female.
+      # Social History
+
+  [13:06:27] DOCUMENT: History and physical note
+    Status: superseded
+
+  [13:21:27] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2021-04-01
+
+  [13:06:27] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Carlton317 Koch169
+    Location: TEWKSBURY HOSPITAL
+    Duration: 13:06:27 - 13:21:27
+
+  [13:06:27] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 30 mcg/0.3 mL dose
+    Status: completed
+
+  [13:06:27] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-04-01
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Marget728 is a 37 year-old nonhispanic asian female.
+      # Social History
+
+  [13:06:27] DOCUMENT: History and physical note
+    Status: superseded
+
+  [13:21:27] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-04-22
+
+  [13:06:27] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Carlton317 Koch169
+    Location: TEWKSBURY HOSPITAL
+    Duration: 13:06:27 - 13:21:27
+
+  [13:06:27] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 30 mcg/0.3 mL dose
+    Status: completed
+
+  [13:06:27] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-04-22
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Marget728 is a 37 year-old nonhispanic asian female.
+      # Social History
+
+  [13:06:27] DOCUMENT: History and physical note
+    Status: superseded
+
+  [13:21:27] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2023-06-15
+
+  [13:06:27] VISIT: General examination of patient (procedure)
+    Provider: Dr. Pearlene638 Towne435
+    Location: LOWELL COMMUNITY HEALTH CENTER
+    Duration: 13:06:27 - 13:21:27
+
+  [13:06:27] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [13:06:27] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [13:06:27] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-06-15
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Marget728 is a 40 year-old nonhispanic asian female.
+      # Social History
+
+  [13:06:27] DOCUMENT: History and physical note
+    Status: superseded
+
+  [13:21:27] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2025-06-19
+
+  [13:06:27] VISIT: General examination of patient (procedure)
+    Provider: Dr. Pearlene638 Towne435
+    Location: LOWELL COMMUNITY HEALTH CENTER
+    Duration: 13:06:27 - 13:21:27
+
+  [13:06:27] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [13:06:27] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [13:06:27] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [13:06:27] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-06-19
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Marget728 is a 42 year-old nonhispanic asian female.
+      # Social History
+
+  [13:06:27] DOCUMENT: History and physical note
+    Status: current
+
+  [13:21:27] CLAIM: professional
+    Amount: USD 544.80
+
+
+📅 2026-02-12
+
+  [12:06:27] PROVENANCE: Record activity
+    Agents: Dr. Pearlene638 Towne435, Dr. Pearlene638 Towne435
+
+================================================================================
+END OF TIMELINE (34 events)
+================================================================================

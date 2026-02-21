@@ -1,0 +1,217 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Ms. Kelly223 Lecia978 Schaefer657
+  Patient ID: 81335
+  Date of Birth: 1971-03-06
+  Gender: Female
+  Race: White
+  Ethnicity: Not Hispanic or Latino
+  Marital Status: Never Married
+  Address: 150 Armstrong Orchard Suite 23, North Andover, MA 00000
+  Phone: 555-674-5300
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2017-03-25
+
+  [14:39:22] VISIT: General examination of patient (procedure)
+    Provider: Dr. Thad495 Fahey393
+    Location: GEORGETOWN FAMILY MEDICINE LLC
+    Duration: 14:39:22 - 14:54:22
+
+  [14:39:22] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [14:39:22] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-03-25
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kelly223 is a 46 year-old nonhispanic white female.
+      # Social History
+
+  [14:39:22] DOCUMENT: History and physical note
+    Status: superseded
+
+  [14:54:22] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2019-03-30
+
+  [14:39:22] VISIT: General examination of patient (procedure)
+    Provider: Dr. Thad495 Fahey393
+    Location: GEORGETOWN FAMILY MEDICINE LLC
+    Duration: 14:39:22 - 14:54:22
+
+  [14:39:22] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [14:39:22] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-03-30
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kelly223 is a 48 year-old nonhispanic white female.
+      # Social History
+
+  [14:39:22] DOCUMENT: History and physical note
+    Status: superseded
+
+  [14:54:22] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2021-03-06
+
+  [13:39:22] VISIT: General examination of patient (procedure)
+    Provider: Dr. Thad495 Fahey393
+    Location: GEORGETOWN FAMILY MEDICINE LLC
+    Duration: 13:39:22 - 13:54:22
+
+  [13:39:22] IMMUNIZATION: zoster vaccine, live
+    Status: completed
+
+  [13:39:22] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [13:39:22] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-03-06
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kelly223 is a 50 year-old nonhispanic white female.
+      # Social History
+
+  [13:39:22] DOCUMENT: History and physical note
+    Status: superseded
+
+  [13:54:22] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2022-03-12
+
+  [13:39:22] VISIT: General examination of patient (procedure)
+    Provider: Dr. Thad495 Fahey393
+    Location: GEORGETOWN FAMILY MEDICINE LLC
+    Duration: 13:39:22 - 13:54:22
+
+  [13:39:22] IMMUNIZATION: zoster vaccine, live
+    Status: completed
+
+  [13:39:22] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [13:39:22] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [13:39:22] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-03-12
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kelly223 is a 51 year-old nonhispanic white female.
+      # Social History
+
+  [13:39:22] DOCUMENT: History and physical note
+    Status: superseded
+
+  [13:54:22] CLAIM: professional
+    Amount: USD 544.80
+
+
+📅 2023-03-18
+
+  [14:39:22] VISIT: General examination of patient (procedure)
+    Provider: Dr. Thad495 Fahey393
+    Location: GEORGETOWN FAMILY MEDICINE LLC
+    Duration: 14:39:22 - 14:54:22
+
+  [14:39:22] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [14:39:22] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-03-18
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kelly223 is a 52 year-old nonhispanic white female.
+      # Social History
+
+  [14:39:22] DOCUMENT: History and physical note
+    Status: superseded
+
+  [14:54:22] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2024-03-23
+
+  [14:39:22] VISIT: General examination of patient (procedure)
+    Provider: Dr. Thad495 Fahey393
+    Location: GEORGETOWN FAMILY MEDICINE LLC
+    Duration: 14:39:22 - 14:54:22
+
+  [14:39:22] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [14:39:22] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-03-23
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kelly223 is a 53 year-old nonhispanic white female.
+      # Social History
+
+  [14:39:22] DOCUMENT: History and physical note
+    Status: superseded
+
+  [14:54:22] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2025-03-29
+
+  [14:39:22] VISIT: General examination of patient (procedure)
+    Provider: Dr. Thad495 Fahey393
+    Location: GEORGETOWN FAMILY MEDICINE LLC
+    Duration: 14:39:22 - 14:54:22
+
+  [14:39:22] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [14:39:22] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-03-29
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kelly223 is a 54 year-old nonhispanic white female.
+      # Social History
+
+  [14:39:22] DOCUMENT: History and physical note
+    Status: current
+
+  [14:54:22] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2026-02-14
+
+  [13:39:22] PROVENANCE: Record activity
+    Agents: Dr. Thad495 Fahey393, Dr. Thad495 Fahey393
+
+================================================================================
+END OF TIMELINE (39 events)
+================================================================================

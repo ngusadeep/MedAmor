@@ -1,0 +1,243 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Mrs. Elenor843 Shani239 Walsh511
+  Patient ID: 43489
+  Date of Birth: 1973-11-02
+  Gender: Female
+  Race: White
+  Ethnicity: Not Hispanic or Latino
+  Marital Status: Married
+  Address: 751 Weimann Parade, Southwick, MA 00000
+  Phone: 555-531-9323
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2017-11-17
+
+  [07:39:10] VISIT: General examination of patient (procedure)
+    Provider: Dr. Kaila152 Dibbert990
+    Location: PRIMARY CARE MEDICINE AND PEDIATRICS, LLC
+    Duration: 07:39:10 - 07:54:10
+
+  [07:39:10] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [07:39:10] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-11-17
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Elenor843 Shani239 is a 44 year-old nonhispanic white female.
+      # Social History
+
+  [07:39:10] DOCUMENT: History and physical note
+    Status: superseded
+
+  [07:54:10] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2019-11-22
+
+  [07:39:10] VISIT: General examination of patient (procedure)
+    Provider: Dr. Kaila152 Dibbert990
+    Location: PRIMARY CARE MEDICINE AND PEDIATRICS, LLC
+    Duration: 07:39:10 - 07:54:10
+
+  [07:39:10] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [07:39:10] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-11-22
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Elenor843 Shani239 is a 46 year-old nonhispanic white female.
+      # Social History
+
+  [07:39:10] DOCUMENT: History and physical note
+    Status: superseded
+
+  [07:54:10] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2021-09-03
+
+  [08:39:10] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Eldon28 Cassin499
+    Location: BAYSTATE NOBLE HOSPITAL CORPORATION
+    Duration: 08:39:10 - 08:54:10
+
+  [08:39:10] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+    Status: completed
+
+  [08:39:10] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-09-03
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Elenor843 Shani239 is a 47 year-old nonhispanic white female.
+      # Social History
+
+  [08:39:10] DOCUMENT: History and physical note
+    Status: superseded
+
+  [08:54:10] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-10-01
+
+  [08:39:10] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Eldon28 Cassin499
+    Location: BAYSTATE NOBLE HOSPITAL CORPORATION
+    Duration: 08:39:10 - 08:54:10
+
+  [08:39:10] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+    Status: completed
+
+  [08:39:10] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-10-01
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Elenor843 Shani239 is a 47 year-old nonhispanic white female.
+      # Social History
+
+  [08:39:10] DOCUMENT: History and physical note
+    Status: superseded
+
+  [08:54:10] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-11-26
+
+  [07:39:10] VISIT: General examination of patient (procedure)
+    Provider: Dr. Kaila152 Dibbert990
+    Location: PRIMARY CARE MEDICINE AND PEDIATRICS, LLC
+    Duration: 07:39:10 - 07:54:10
+
+  [07:39:10] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [07:39:10] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-11-26
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Elenor843 Shani239 is a 48 year-old nonhispanic white female.
+      # Social History
+
+  [07:39:10] DOCUMENT: History and physical note
+    Status: superseded
+
+  [07:54:10] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2023-11-03
+
+  [08:39:10] VISIT: General examination of patient (procedure)
+    Provider: Dr. Kaila152 Dibbert990
+    Location: PRIMARY CARE MEDICINE AND PEDIATRICS, LLC
+    Duration: 08:39:10 - 08:54:10
+
+  [08:39:10] IMMUNIZATION: zoster vaccine, live
+    Status: completed
+
+  [08:39:10] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [08:39:10] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-11-03
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Elenor843 Shani239 is a 50 year-old nonhispanic white female.
+      # Social History
+
+  [08:39:10] DOCUMENT: History and physical note
+    Status: superseded
+
+  [08:54:10] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2024-11-08
+
+  [07:39:10] VISIT: General examination of patient (procedure)
+    Provider: Dr. Kaila152 Dibbert990
+    Location: PRIMARY CARE MEDICINE AND PEDIATRICS, LLC
+    Duration: 07:39:10 - 07:54:10
+
+  [07:39:10] IMMUNIZATION: zoster vaccine, live
+    Status: completed
+
+  [07:39:10] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [07:39:10] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [07:39:10] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-11-08
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Elenor843 Shani239 is a 51 year-old nonhispanic white female.
+      # Social History
+
+  [07:39:10] DOCUMENT: History and physical note
+    Status: superseded
+
+  [07:54:10] CLAIM: professional
+    Amount: USD 544.80
+
+
+📅 2025-11-14
+
+  [07:39:10] VISIT: General examination of patient (procedure)
+    Provider: Dr. Kaila152 Dibbert990
+    Location: PRIMARY CARE MEDICINE AND PEDIATRICS, LLC
+    Duration: 07:39:10 - 07:54:10
+
+  [07:39:10] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [07:39:10] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-11-14
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Elenor843 Shani239 is a 52 year-old nonhispanic white female.
+      # Social History
+
+  [07:39:10] DOCUMENT: History and physical note
+    Status: current
+
+  [07:54:10] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2026-02-13
+
+  [07:39:10] PROVENANCE: Record activity
+    Agents: Dr. Kaila152 Dibbert990, Dr. Kaila152 Dibbert990
+
+================================================================================
+END OF TIMELINE (44 events)
+================================================================================

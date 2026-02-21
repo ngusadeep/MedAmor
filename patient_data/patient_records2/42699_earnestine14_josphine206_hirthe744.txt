@@ -1,0 +1,197 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Mrs. Earnestine14 Josphine206 Hirthe744
+  Patient ID: 42699
+  Date of Birth: 1974-05-06
+  Gender: Female
+  Race: White
+  Ethnicity: Not Hispanic or Latino
+  Marital Status: Married
+  Address: 762 Hilll Frontage road Unit 36, Weymouth, MA 02190
+  Phone: 555-800-9042
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2016-05-16
+
+  [16:02:22] VISIT: General examination of patient (procedure)
+    Provider: Dr. Stephane228 O'Conner199
+    Location: HEALTHCARE SOUTH PC
+    Duration: 16:02:22 - 16:17:22
+
+  [16:02:22] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [16:02:22] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [16:02:22] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [16:02:22] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-05-16
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Earnestine14 Josphine206 is a 42 year-old nonhispanic white female.
+      # Social History
+
+  [16:02:22] DOCUMENT: History and physical note
+    Status: superseded
+
+  [16:17:22] CLAIM: professional
+    Amount: USD 544.80
+
+
+📅 2018-05-21
+
+  [16:02:22] VISIT: General examination of patient (procedure)
+    Provider: Dr. Stephane228 O'Conner199
+    Location: HEALTHCARE SOUTH PC
+    Duration: 16:02:22 - 16:17:22
+
+  [16:02:22] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [16:02:22] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-05-21
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Earnestine14 Josphine206 is a 44 year-old nonhispanic white female.
+      # Social History
+
+  [16:02:22] DOCUMENT: History and physical note
+    Status: superseded
+
+  [16:17:22] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2020-05-25
+
+  [16:02:22] VISIT: General examination of patient (procedure)
+    Provider: Dr. Stephane228 O'Conner199
+    Location: HEALTHCARE SOUTH PC
+    Duration: 16:02:22 - 16:17:22
+
+  [16:02:22] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [16:02:22] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-05-25
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Earnestine14 Josphine206 is a 46 year-old nonhispanic white female.
+      # Social History
+
+  [16:02:22] DOCUMENT: History and physical note
+    Status: superseded
+
+  [16:17:22] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2022-05-30
+
+  [16:02:22] VISIT: General examination of patient (procedure)
+    Provider: Dr. Stephane228 O'Conner199
+    Location: HEALTHCARE SOUTH PC
+    Duration: 16:02:22 - 16:17:22
+
+  [16:02:22] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [16:02:22] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-05-30
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Earnestine14 Josphine206 is a 48 year-old nonhispanic white female.
+      # Social History
+
+  [16:02:22] DOCUMENT: History and physical note
+    Status: superseded
+
+  [16:17:22] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2024-05-06
+
+  [16:02:22] VISIT: General examination of patient (procedure)
+    Provider: Dr. Stephane228 O'Conner199
+    Location: HEALTHCARE SOUTH PC
+    Duration: 16:02:22 - 16:17:22
+
+  [16:02:22] IMMUNIZATION: zoster vaccine, live
+    Status: completed
+
+  [16:02:22] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [16:02:22] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-05-06
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Earnestine14 Josphine206 is a 50 year-old nonhispanic white female.
+      # Social History
+
+  [16:02:22] DOCUMENT: History and physical note
+    Status: superseded
+
+  [16:17:22] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2025-05-12
+
+  [16:02:22] VISIT: General examination of patient (procedure)
+    Provider: Dr. Stephane228 O'Conner199
+    Location: HEALTHCARE SOUTH PC
+    Duration: 16:02:22 - 16:17:22
+
+  [16:02:22] IMMUNIZATION: zoster vaccine, live
+    Status: completed
+
+  [16:02:22] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [16:02:22] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [16:02:22] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-05-12
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Earnestine14 Josphine206 is a 51 year-old nonhispanic white female.
+      # Social History
+
+  [16:02:22] DOCUMENT: History and physical note
+    Status: current
+
+  [16:17:22] CLAIM: professional
+    Amount: USD 544.80
+
+
+📅 2026-02-09
+
+  [15:02:22] PROVENANCE: Record activity
+    Agents: Dr. Stephane228 O'Conner199, Dr. Stephane228 O'Conner199
+
+================================================================================
+END OF TIMELINE (36 events)
+================================================================================

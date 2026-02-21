@@ -1,0 +1,191 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Mrs. Shaquana156 Frankie174 Skiles927
+  Patient ID: 136639
+  Date of Birth: 1980-11-29
+  Gender: Female
+  Race: White
+  Ethnicity: Not Hispanic or Latino
+  Marital Status: Married
+  Address: 111 Hodkiewicz Promenade, Shrewsbury, MA 00000
+  Phone: 555-465-3676
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2018-02-17
+
+  [03:09:59] VISIT: General examination of patient (procedure)
+    Provider: Dr. Florance664 Leannon79
+    Location: SUNRISE HEALTHCARE LLC
+    Duration: 03:09:59 - 03:24:59
+
+  [03:09:59] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [03:09:59] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-02-17
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Shaquana156 Frankie174 is a 37 year-old nonhispanic white female.
+      # Social History
+
+  [03:09:59] DOCUMENT: History and physical note
+    Status: superseded
+
+  [03:24:59] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2020-12-05
+
+  [03:09:59] VISIT: General examination of patient (procedure)
+    Provider: Dr. Florance664 Leannon79
+    Location: SUNRISE HEALTHCARE LLC
+    Duration: 03:09:59 - 03:24:59
+
+  [03:09:59] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [03:09:59] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [03:09:59] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-12-05
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Shaquana156 Frankie174 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [03:09:59] DOCUMENT: History and physical note
+    Status: superseded
+
+  [03:24:59] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2021-04-10
+
+  [04:09:59] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Nathanael908 Rogahn59
+    Location: T MASSACHUSETTS, LLC
+    Duration: 04:09:59 - 04:24:59
+
+  [04:09:59] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 30 mcg/0.3 mL dose
+    Status: completed
+
+  [04:09:59] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-04-10
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Shaquana156 Frankie174 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [04:09:59] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:24:59] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-05-01
+
+  [04:09:59] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Nathanael908 Rogahn59
+    Location: T MASSACHUSETTS, LLC
+    Duration: 04:09:59 - 04:24:59
+
+  [04:09:59] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 30 mcg/0.3 mL dose
+    Status: completed
+
+  [04:09:59] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-05-01
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Shaquana156 Frankie174 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [04:09:59] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:24:59] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2022-12-10
+
+  [03:09:59] VISIT: General examination of patient (procedure)
+    Provider: Dr. Florance664 Leannon79
+    Location: SUNRISE HEALTHCARE LLC
+    Duration: 03:09:59 - 03:24:59
+
+  [03:09:59] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [03:09:59] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [03:09:59] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [03:09:59] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-12-10
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Shaquana156 Frankie174 is a 42 year-old nonhispanic white female.
+      # Social History
+
+  [03:09:59] DOCUMENT: History and physical note
+    Status: superseded
+
+  [03:24:59] CLAIM: professional
+    Amount: USD 544.80
+
+
+📅 2024-12-14
+
+  [03:09:59] VISIT: General examination of patient (procedure)
+    Provider: Dr. Florance664 Leannon79
+    Location: SUNRISE HEALTHCARE LLC
+    Duration: 03:09:59 - 03:24:59
+
+  [03:09:59] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [03:09:59] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-12-14
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Shaquana156 Frankie174 is a 44 year-old nonhispanic white female.
+      # Social History
+
+  [03:09:59] DOCUMENT: History and physical note
+    Status: current
+
+  [03:24:59] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2026-02-14
+
+  [03:09:59] PROVENANCE: Record activity
+    Agents: Dr. Florance664 Leannon79, Dr. Florance664 Leannon79
+
+================================================================================
+END OF TIMELINE (34 events)
+================================================================================

@@ -1,0 +1,191 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Mrs. Gudrun69 Janae99 Williamson769
+  Patient ID: 58009
+  Date of Birth: 1981-08-10
+  Gender: Female
+  Race: White
+  Ethnicity: Not Hispanic or Latino
+  Marital Status: Married
+  Address: 378 DuBuque Viaduct Unit 14, Framingham, MA 01701
+  Phone: 555-364-3722
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2018-10-29
+
+  [18:23:42] VISIT: General examination of patient (procedure)
+    Provider: Dr. Carri827 Flatley871
+    Location: EDWARD M KENNEDY COMMUNITY HEALTH CENTER INC
+    Duration: 18:23:42 - 18:38:42
+
+  [18:23:42] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [18:23:42] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-10-29
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Gudrun69 Janae99 is a 37 year-old nonhispanic white female.
+      # Social History
+
+  [18:23:42] DOCUMENT: History and physical note
+    Status: superseded
+
+  [18:38:42] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2021-02-08
+
+  [17:23:42] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Leonarda398 Schumm995
+    Location: ENCOMPASS HEALTH BRAINTREE HOSPITAL OF BRAINTREE
+    Duration: 17:23:42 - 17:38:42
+
+  [17:23:42] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 30 mcg/0.3 mL dose
+    Status: completed
+
+  [17:23:42] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-02-08
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Gudrun69 Janae99 is a 39 year-old nonhispanic white female.
+      # Social History
+
+  [17:23:42] DOCUMENT: History and physical note
+    Status: superseded
+
+  [17:38:42] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-03-01
+
+  [17:23:42] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Leonarda398 Schumm995
+    Location: ENCOMPASS HEALTH BRAINTREE HOSPITAL OF BRAINTREE
+    Duration: 17:23:42 - 17:38:42
+
+  [17:23:42] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 30 mcg/0.3 mL dose
+    Status: completed
+
+  [17:23:42] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-03-01
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Gudrun69 Janae99 is a 39 year-old nonhispanic white female.
+      # Social History
+
+  [17:23:42] DOCUMENT: History and physical note
+    Status: superseded
+
+  [17:38:42] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-08-16
+
+  [18:23:42] VISIT: General examination of patient (procedure)
+    Provider: Dr. Carri827 Flatley871
+    Location: EDWARD M KENNEDY COMMUNITY HEALTH CENTER INC
+    Duration: 18:23:42 - 18:38:42
+
+  [18:23:42] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [18:23:42] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [18:23:42] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-08-16
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Gudrun69 Janae99 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [18:23:42] DOCUMENT: History and physical note
+    Status: superseded
+
+  [18:38:42] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2023-08-21
+
+  [18:23:42] VISIT: General examination of patient (procedure)
+    Provider: Dr. Carri827 Flatley871
+    Location: EDWARD M KENNEDY COMMUNITY HEALTH CENTER INC
+    Duration: 18:23:42 - 18:38:42
+
+  [18:23:42] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [18:23:42] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [18:23:42] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [18:23:42] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-08-21
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Gudrun69 Janae99 is a 42 year-old nonhispanic white female.
+      # Social History
+
+  [18:23:42] DOCUMENT: History and physical note
+    Status: superseded
+
+  [18:38:42] CLAIM: professional
+    Amount: USD 544.80
+
+
+📅 2025-08-25
+
+  [18:23:42] VISIT: General examination of patient (procedure)
+    Provider: Dr. Carri827 Flatley871
+    Location: EDWARD M KENNEDY COMMUNITY HEALTH CENTER INC
+    Duration: 18:23:42 - 18:38:42
+
+  [18:23:42] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [18:23:42] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-08-25
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Gudrun69 Janae99 is a 44 year-old nonhispanic white female.
+      # Social History
+
+  [18:23:42] DOCUMENT: History and physical note
+    Status: current
+
+  [18:38:42] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2026-02-09
+
+  [17:23:42] PROVENANCE: Record activity
+    Agents: Dr. Carri827 Flatley871, Dr. Carri827 Flatley871
+
+================================================================================
+END OF TIMELINE (34 events)
+================================================================================

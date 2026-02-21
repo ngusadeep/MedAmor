@@ -1,0 +1,321 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Ms. Ardella559 Melissia267 Breitenberg711
+  Patient ID: 14238
+  Date of Birth: 1957-12-23
+  Gender: Female
+  Race: White
+  Ethnicity: Not Hispanic or Latino
+  Marital Status: Never Married
+  Address: 822 Ebert Orchard, Woburn, MA 01801
+  Phone: 555-736-4116
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2017-02-13
+
+  [09:19:59] VISIT: General examination of patient (procedure)
+    Provider: Dr. Josefina523 Pagan507
+    Location: ZANJABEE INTEGRATIVE MEDICINE AND PRIMARY CARE LLC
+    Duration: 09:19:59 - 09:34:59
+
+  [09:19:59] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [09:19:59] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-02-13
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Ardella559 is a 59 year-old nonhispanic white female.
+      # Social History
+
+  [09:19:59] DOCUMENT: History and physical note
+    Status: superseded
+
+  [09:34:59] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2018-02-19
+
+  [09:19:59] VISIT: General examination of patient (procedure)
+    Provider: Dr. Josefina523 Pagan507
+    Location: ZANJABEE INTEGRATIVE MEDICINE AND PRIMARY CARE LLC
+    Duration: 09:19:59 - 09:34:59
+
+  [09:19:59] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [09:19:59] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-02-19
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Ardella559 is a 60 year-old nonhispanic white female.
+      # Social History
+
+  [09:19:59] DOCUMENT: History and physical note
+    Status: superseded
+
+  [09:34:59] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2019-02-25
+
+  [09:19:59] VISIT: General examination of patient (procedure)
+    Provider: Dr. Josefina523 Pagan507
+    Location: ZANJABEE INTEGRATIVE MEDICINE AND PRIMARY CARE LLC
+    Duration: 09:19:59 - 09:34:59
+
+  [09:19:59] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [09:19:59] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [09:19:59] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-02-25
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Ardella559 is a 61 year-old nonhispanic white female.
+      # Social History
+
+  [09:19:59] DOCUMENT: History and physical note
+    Status: superseded
+
+  [09:34:59] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2020-03-02
+
+  [09:19:59] VISIT: General examination of patient (procedure)
+    Provider: Dr. Josefina523 Pagan507
+    Location: ZANJABEE INTEGRATIVE MEDICINE AND PRIMARY CARE LLC
+    Duration: 09:19:59 - 09:34:59
+
+  [09:19:59] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [09:19:59] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-03-02
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Ardella559 is a 62 year-old nonhispanic white female.
+      # Social History
+
+  [09:19:59] DOCUMENT: History and physical note
+    Status: superseded
+
+  [09:34:59] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2021-03-08
+
+  [09:19:59] VISIT: General examination of patient (procedure)
+    Provider: Dr. Josefina523 Pagan507
+    Location: ZANJABEE INTEGRATIVE MEDICINE AND PRIMARY CARE LLC
+    Duration: 09:19:59 - 09:34:59
+
+  [09:19:59] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [09:19:59] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-03-08
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Ardella559 is a 63 year-old nonhispanic white female.
+      # Social History
+
+  [09:19:59] DOCUMENT: History and physical note
+    Status: superseded
+
+  [09:34:59] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2021-03-15
+
+  [10:19:59] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Cira533 Jakubowski832
+    Location: ENCOMPASS HEALTH REHABILITATION HOSP OF NEW ENGLAN
+    Duration: 10:19:59 - 10:34:59
+
+  [10:19:59] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+    Status: completed
+
+  [10:19:59] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-03-15
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Ardella559 is a 63 year-old nonhispanic white female.
+      # Social History
+
+  [10:19:59] DOCUMENT: History and physical note
+    Status: superseded
+
+  [10:34:59] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-04-12
+
+  [10:19:59] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Cira533 Jakubowski832
+    Location: ENCOMPASS HEALTH REHABILITATION HOSP OF NEW ENGLAN
+    Duration: 10:19:59 - 10:34:59
+
+  [10:19:59] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+    Status: completed
+
+  [10:19:59] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-04-12
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Ardella559 is a 63 year-old nonhispanic white female.
+      # Social History
+
+  [10:19:59] DOCUMENT: History and physical note
+    Status: superseded
+
+  [10:34:59] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2022-03-14
+
+  [10:19:59] VISIT: General examination of patient (procedure)
+    Provider: Dr. Josefina523 Pagan507
+    Location: ZANJABEE INTEGRATIVE MEDICINE AND PRIMARY CARE LLC
+    Duration: 10:19:59 - 10:34:59
+
+  [10:19:59] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [10:19:59] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-03-14
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Ardella559 is a 64 year-old nonhispanic white female.
+      # Social History
+
+  [10:19:59] DOCUMENT: History and physical note
+    Status: superseded
+
+  [10:34:59] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2023-03-20
+
+  [10:19:59] VISIT: General examination of patient (procedure)
+    Provider: Dr. Josefina523 Pagan507
+    Location: ZANJABEE INTEGRATIVE MEDICINE AND PRIMARY CARE LLC
+    Duration: 10:19:59 - 10:34:59
+
+  [10:19:59] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [10:19:59] IMMUNIZATION: Pneumococcal conjugate PCV 13
+    Status: completed
+
+  [10:19:59] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-03-20
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Ardella559 is a 65 year-old nonhispanic white female.
+      # Social History
+
+  [10:19:59] DOCUMENT: History and physical note
+    Status: superseded
+
+  [10:34:59] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2024-03-25
+
+  [10:19:59] VISIT: General examination of patient (procedure)
+    Provider: Dr. Josefina523 Pagan507
+    Location: ZANJABEE INTEGRATIVE MEDICINE AND PRIMARY CARE LLC
+    Duration: 10:19:59 - 10:34:59
+
+  [10:19:59] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [10:19:59] IMMUNIZATION: pneumococcal polysaccharide vaccine, 23 valent
+    Status: completed
+
+  [10:19:59] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-03-25
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Ardella559 is a 66 year-old nonhispanic white female.
+      # Social History
+
+  [10:19:59] DOCUMENT: History and physical note
+    Status: superseded
+
+  [10:34:59] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2025-03-31
+
+  [10:19:59] VISIT: General examination of patient (procedure)
+    Provider: Dr. Josefina523 Pagan507
+    Location: ZANJABEE INTEGRATIVE MEDICINE AND PRIMARY CARE LLC
+    Duration: 10:19:59 - 10:34:59
+
+  [10:19:59] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [10:19:59] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-03-31
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Ardella559 is a 67 year-old nonhispanic white female.
+      # Social History
+
+  [10:19:59] DOCUMENT: History and physical note
+    Status: current
+
+  [10:34:59] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2026-02-16
+
+  [09:19:59] PROVENANCE: Record activity
+    Agents: Dr. Josefina523 Pagan507, Dr. Josefina523 Pagan507
+
+================================================================================
+END OF TIMELINE (59 events)
+================================================================================

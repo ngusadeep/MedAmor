@@ -1,0 +1,295 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Mrs. Madlyn383 Nora0 Hills818
+  Patient ID: 101077
+  Date of Birth: 1968-01-18
+  Gender: Female
+  Race: White
+  Ethnicity: Not Hispanic or Latino
+  Marital Status: Married
+  Address: 920 Ruecker Fort, Brockton, MA 02302
+  Phone: 555-281-3758
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2018-01-18
+
+  [04:11:29] VISIT: General examination of patient (procedure)
+    Provider: Dr. Lindsay928 Leffler128
+    Location: VIGILANT FAMILY HEALTH CLINIC, INC.
+    Duration: 04:11:29 - 04:26:29
+
+  [04:11:29] IMMUNIZATION: zoster vaccine, live
+    Status: completed
+
+  [04:11:29] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [04:11:29] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-01-18
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Madlyn383 Nora0 is a 50 year-old nonhispanic white female.
+      # Social History
+
+  [04:11:29] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:26:29] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2019-01-24
+
+  [04:11:29] VISIT: General examination of patient (procedure)
+    Provider: Dr. Lindsay928 Leffler128
+    Location: VIGILANT FAMILY HEALTH CLINIC, INC.
+    Duration: 04:11:29 - 04:26:29
+
+  [04:11:29] IMMUNIZATION: zoster vaccine, live
+    Status: completed
+
+  [04:11:29] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [04:11:29] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [04:11:29] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-01-24
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Madlyn383 Nora0 is a 51 year-old nonhispanic white female.
+      # Social History
+
+  [04:11:29] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:26:29] CLAIM: professional
+    Amount: USD 544.80
+
+
+📅 2020-01-30
+
+  [04:11:29] VISIT: General examination of patient (procedure)
+    Provider: Dr. Lindsay928 Leffler128
+    Location: VIGILANT FAMILY HEALTH CLINIC, INC.
+    Duration: 04:11:29 - 04:26:29
+
+  [04:11:29] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [04:11:29] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-01-30
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Madlyn383 Nora0 is a 52 year-old nonhispanic white female.
+      # Social History
+
+  [04:11:29] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:26:29] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2021-02-04
+
+  [04:11:29] VISIT: General examination of patient (procedure)
+    Provider: Dr. Lindsay928 Leffler128
+    Location: VIGILANT FAMILY HEALTH CLINIC, INC.
+    Duration: 04:11:29 - 04:26:29
+
+  [04:11:29] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [04:11:29] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-02-04
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Madlyn383 Nora0 is a 53 year-old nonhispanic white female.
+      # Social History
+
+  [04:11:29] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:26:29] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2021-04-22
+
+  [05:11:29] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Maynard46 Ward668
+    Location: STEWARD GOOD SAMARITAN MEDICAL CENTER, INC.
+    Duration: 05:11:29 - 05:26:29
+
+  [05:11:29] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+    Status: completed
+
+  [05:11:29] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-04-22
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Madlyn383 Nora0 is a 53 year-old nonhispanic white female.
+      # Social History
+
+  [05:11:29] DOCUMENT: History and physical note
+    Status: superseded
+
+  [05:26:29] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-05-20
+
+  [05:11:29] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Maynard46 Ward668
+    Location: STEWARD GOOD SAMARITAN MEDICAL CENTER, INC.
+    Duration: 05:11:29 - 05:26:29
+
+  [05:11:29] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+    Status: completed
+
+  [05:11:29] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-05-20
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Madlyn383 Nora0 is a 53 year-old nonhispanic white female.
+      # Social History
+
+  [05:11:29] DOCUMENT: History and physical note
+    Status: superseded
+
+  [05:26:29] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2022-02-10
+
+  [04:11:29] VISIT: General examination of patient (procedure)
+    Provider: Dr. Lindsay928 Leffler128
+    Location: VIGILANT FAMILY HEALTH CLINIC, INC.
+    Duration: 04:11:29 - 04:26:29
+
+  [04:11:29] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [04:11:29] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-02-10
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Madlyn383 Nora0 is a 54 year-old nonhispanic white female.
+      # Social History
+
+  [04:11:29] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:26:29] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2023-02-16
+
+  [04:11:29] VISIT: General examination of patient (procedure)
+    Provider: Dr. Lindsay928 Leffler128
+    Location: VIGILANT FAMILY HEALTH CLINIC, INC.
+    Duration: 04:11:29 - 04:26:29
+
+  [04:11:29] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [04:11:29] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-02-16
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Madlyn383 Nora0 is a 55 year-old nonhispanic white female.
+      # Social History
+
+  [04:11:29] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:26:29] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2024-02-22
+
+  [04:11:29] VISIT: General examination of patient (procedure)
+    Provider: Dr. Lindsay928 Leffler128
+    Location: VIGILANT FAMILY HEALTH CLINIC, INC.
+    Duration: 04:11:29 - 04:26:29
+
+  [04:11:29] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [04:11:29] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-02-22
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Madlyn383 Nora0 is a 56 year-old nonhispanic white female.
+      # Social History
+
+  [04:11:29] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:26:29] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2025-02-27
+
+  [04:11:29] VISIT: General examination of patient (procedure)
+    Provider: Dr. Lindsay928 Leffler128
+    Location: VIGILANT FAMILY HEALTH CLINIC, INC.
+    Duration: 04:11:29 - 04:26:29
+
+  [04:11:29] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [04:11:29] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-02-27
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Madlyn383 Nora0 is a 57 year-old nonhispanic white female.
+      # Social History
+
+  [04:11:29] DOCUMENT: History and physical note
+    Status: current
+
+  [04:26:29] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2026-02-12
+
+  [04:11:29] PROVENANCE: Record activity
+    Agents: Dr. Lindsay928 Leffler128, Dr. Lindsay928 Leffler128
+
+================================================================================
+END OF TIMELINE (54 events)
+================================================================================

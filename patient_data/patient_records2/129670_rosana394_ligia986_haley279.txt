@@ -1,0 +1,139 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Mrs. Rosana394 Ligia986 Haley279
+  Patient ID: 129670
+  Date of Birth: 1980-04-06
+  Gender: Female
+  Race: White
+  Ethnicity: Not Hispanic or Latino
+  Marital Status: Married
+  Address: 773 Murphy Parade Apt 43, Natick, MA 00000
+  Phone: 555-676-9934
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2017-06-25
+
+  [16:30:05] VISIT: General examination of patient (procedure)
+    Provider: Dr. Ivonne773 Turcotte120
+    Location: ZION HEALTH & WELLNESS LLC
+    Duration: 16:30:05 - 16:45:05
+
+  [16:30:05] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [16:30:05] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-06-25
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Rosana394 Ligia986 is a 37 year-old nonhispanic white female.
+      # Social History
+
+  [16:30:05] DOCUMENT: History and physical note
+    Status: superseded
+
+  [16:45:05] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2020-04-12
+
+  [16:30:05] VISIT: General examination of patient (procedure)
+    Provider: Dr. Ivonne773 Turcotte120
+    Location: ZION HEALTH & WELLNESS LLC
+    Duration: 16:30:05 - 16:45:05
+
+  [16:30:05] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [16:30:05] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [16:30:05] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-04-12
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Rosana394 Ligia986 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [16:30:05] DOCUMENT: History and physical note
+    Status: superseded
+
+  [16:45:05] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2022-04-17
+
+  [16:30:05] VISIT: General examination of patient (procedure)
+    Provider: Dr. Ivonne773 Turcotte120
+    Location: ZION HEALTH & WELLNESS LLC
+    Duration: 16:30:05 - 16:45:05
+
+  [16:30:05] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [16:30:05] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [16:30:05] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [16:30:05] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-04-17
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Rosana394 Ligia986 is a 42 year-old nonhispanic white female.
+      # Social History
+
+  [16:30:05] DOCUMENT: History and physical note
+    Status: superseded
+
+  [16:45:05] CLAIM: professional
+    Amount: USD 544.80
+
+
+📅 2024-04-21
+
+  [16:30:05] VISIT: General examination of patient (procedure)
+    Provider: Dr. Ivonne773 Turcotte120
+    Location: ZION HEALTH & WELLNESS LLC
+    Duration: 16:30:05 - 16:45:05
+
+  [16:30:05] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [16:30:05] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-04-21
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Rosana394 Ligia986 is a 44 year-old nonhispanic white female.
+      # Social History
+
+  [16:30:05] DOCUMENT: History and physical note
+    Status: current
+
+  [16:45:05] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2026-02-15
+
+  [15:30:05] PROVENANCE: Record activity
+    Agents: Dr. Ivonne773 Turcotte120, Dr. Ivonne773 Turcotte120
+
+================================================================================
+END OF TIMELINE (24 events)
+================================================================================

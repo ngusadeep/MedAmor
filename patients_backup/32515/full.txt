@@ -1,0 +1,1561 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Mrs. Crystle668 Katheryn92 Dicki44
+  Patient ID: 32515
+  Date of Birth: 1974-12-16
+  Gender: Female
+  Race: White
+  Ethnicity: Not Hispanic or Latino
+  Marital Status: Married
+  Address: 496 Hilll Ranch, Brookline, MA 02446
+  Phone: 555-244-7467
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2016-12-26
+
+  [18:58:21] VISIT: General examination of patient (procedure)
+    Provider: Dr. Rubén780 Padrón382
+    Location: DAVIS SQUARE FAMILY PRACTICE
+    Duration: 18:58:21 - 19:13:21
+
+  [18:58:21] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [18:58:21] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [18:58:21] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [18:58:21] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-12-26
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Crystle668 Katheryn92 is a 42 year-old nonhispanic white female.
+      # Social History
+
+  [18:58:21] DOCUMENT: History and physical note
+    Status: superseded
+
+  [19:13:21] CLAIM: professional
+    Amount: USD 544.80
+
+
+📅 2018-12-31
+
+  [18:58:21] VISIT: General examination of patient (procedure)
+    Provider: Dr. Rubén780 Padrón382
+    Location: DAVIS SQUARE FAMILY PRACTICE
+    Duration: 18:58:21 - 19:13:21
+
+  [18:58:21] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [18:58:21] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-12-31
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Crystle668 Katheryn92 is a 44 year-old nonhispanic white female.
+      # Social History
+
+  [18:58:21] DOCUMENT: History and physical note
+    Status: superseded
+
+  [19:13:21] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2021-01-04
+
+  [18:58:21] VISIT: General examination of patient (procedure)
+    Provider: Dr. Rubén780 Padrón382
+    Location: DAVIS SQUARE FAMILY PRACTICE
+    Duration: 18:58:21 - 19:13:21
+
+  [18:58:21] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [18:58:21] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-01-04
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Crystle668 Katheryn92 is a 46 year-old nonhispanic white female.
+      # Social History
+
+  [18:58:21] DOCUMENT: History and physical note
+    Status: superseded
+
+  [19:13:21] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2023-01-09
+
+  [18:58:21] VISIT: General examination of patient (procedure)
+    Provider: Dr. Rubén780 Padrón382
+    Location: DAVIS SQUARE FAMILY PRACTICE
+    Duration: 18:58:21 - 19:13:21
+
+  [18:58:21] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [18:58:21] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-01-09
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Crystle668 Katheryn92 is a 48 year-old nonhispanic white female.
+      # Social History
+
+  [18:58:21] DOCUMENT: History and physical note
+    Status: superseded
+
+  [19:13:21] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2023-02-27
+
+  [18:58:21] VISIT: Periodic reevaluation and management of healthy individual (procedure)
+    Reason: Screening for malignant neoplasm of breast (procedure)
+    Provider: Dr. Nicholas495 Greenfelder433
+    Location: CAMBRIDGE PUBLIC HEALTH COMMISSION
+    Duration: 18:58:21 - 08:42:50
+
+  [18:58:21] PROCEDURE: Screening mammography (procedure)
+    Status: completed
+
+  [18:58:21] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-02-27
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Crystle668 Katheryn92 is a 48 year-old nonhispanic white female.
+      # Social History
+
+  [18:58:21] DOCUMENT: History and physical note
+    Status: superseded
+
+  [19:18:24] PROCEDURE: Magnetic resonance imaging of breast (procedure)
+    Status: completed
+
+  [20:38:49] PROCEDURE: Biopsy of breast (procedure)
+    Status: completed
+
+  [21:05:50] CONDITION: Malignant neoplasm of breast (disorder) (active)
+
+  [21:05:50] OBSERVATION: Site of distant metastasis in Breast tumor: None (qualifier value)
+
+  [21:05:50] OBSERVATION: Distant metastases.clinical [Class] Cancer: American Joint Committee on Cancer cM0 (qualifier value)
+
+  [21:05:50] OBSERVATION: Size.maximum dimension in Tumor: 3.4494 cm
+
+  [21:05:50] OBSERVATION: Primary tumor.clinical [Class] Cancer: American Joint Committee on Cancer cT2 (qualifier value)
+
+  [21:05:50] OBSERVATION: Lymph nodes with micrometastases [#] in Cancer specimen by Light microscopy: 2.0869 {#}
+
+  [21:05:50] OBSERVATION: Regional lymph nodes.clinical [Class] Cancer: American Joint Committee on Cancer cN1 (qualifier value)
+
+  [21:05:50] PROCEDURE: Human epidermal growth factor receptor 2 gene detection by fluorescence in situ hybridization (procedure)
+    Status: completed
+
+
+📅 2023-03-01
+
+  [05:05:50] PROCEDURE: Human epidermal growth factor receptor 2 gene detection by immunohistochemistry (procedure)
+    Status: completed
+
+  [08:42:50] OBSERVATION: HER2 [Presence] in Breast cancer specimen by Immune stain: Negative (qualifier value)
+
+  [08:42:50] OBSERVATION: ERBB2 gene duplication [Presence] in Breast cancer specimen by FISH: less than 1.8
+
+  [08:42:50] OBSERVATION: Estrogen receptor Ag [Presence] in Breast cancer specimen by Immune stain: Positive (qualifier value)
+
+  [08:42:50] OBSERVATION: Progesterone receptor Ag [Presence] in Breast cancer specimen by Immune stain: Negative (qualifier value)
+
+  [08:42:50] OBSERVATION: Stage group.clinical Cancer: American Joint Committee on Cancer stage IIB (qualifier value)
+
+  [08:42:50] OBSERVATION: Stage group.clinical Cancer: Stage 2 (qualifier value)
+
+  [08:42:50] CLAIM: professional
+    Amount: USD 11383.99
+
+
+📅 2023-03-07
+
+  [08:42:50] VISIT: Discussion about treatment (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Nicholas495 Greenfelder433
+    Location: CAMBRIDGE PUBLIC HEALTH COMMISSION
+    Duration: 08:42:50 - 09:32:48
+
+  [08:42:50] PROCEDURE: Discussion about options (procedure)
+    Status: completed
+
+  [08:42:50] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-03-07
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Crystle668 Katheryn92 is a 48 year-old nonhispanic white female.
+      # Social History
+
+  [08:42:50] DOCUMENT: History and physical note
+    Status: superseded
+
+  [09:32:48] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2023-03-09
+
+  [20:32:48] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Nicholas495 Greenfelder433
+    Location: CAMBRIDGE PUBLIC HEALTH COMMISSION
+    Duration: 20:32:48 - 23:22:40
+
+  [20:32:48] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-03-09
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Crystle668 Katheryn92 is a 48 year-old nonhispanic white female.
+      # Social History
+
+  [20:32:48] DOCUMENT: History and physical note
+    Status: superseded
+
+  [21:10:48] PROCEDURE: Sentinel lymph node biopsy (procedure)
+    Status: completed
+
+  [21:51:27] PROCEDURE: Excision of sentinel lymph node (procedure)
+    Status: completed
+
+  [22:52:50] PROCEDURE: Lumpectomy of breast (procedure)
+    Status: completed
+
+
+📅 2023-03-10
+
+  [23:22:40] CLAIM: institutional
+    Amount: USD 58948.69
+
+
+📅 2023-03-21
+
+  [12:22:40] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Nicholas495 Greenfelder433
+    Location: CAMBRIDGE PUBLIC HEALTH COMMISSION
+    Duration: 12:22:40 - 12:40:31
+
+  [12:22:40] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [12:22:40] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-03-21
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Crystle668 Katheryn92 is a 48 year-old nonhispanic white female.
+      # Social History
+
+  [12:22:40] DOCUMENT: History and physical note
+    Status: superseded
+
+  [12:40:31] CLAIM: professional
+    Amount: USD 593.03
+
+
+📅 2023-03-23
+
+  [00:10:31] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Nicholas495 Greenfelder433
+    Location: CAMBRIDGE PUBLIC HEALTH COMMISSION
+    Duration: 00:10:31 - 00:42:12
+
+  [00:10:31] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [00:10:31] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-03-23
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Crystle668 Katheryn92 is a 48 year-old nonhispanic white female.
+      # Social History
+
+  [00:10:31] DOCUMENT: History and physical note
+    Status: superseded
+
+  [00:42:12] CLAIM: professional
+    Amount: USD 780.56
+
+
+📅 2023-03-24
+
+  [06:26:12] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Nicholas495 Greenfelder433
+    Location: CAMBRIDGE PUBLIC HEALTH COMMISSION
+    Duration: 06:26:12 - 07:02:16
+
+  [06:26:12] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [06:26:12] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-03-24
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Crystle668 Katheryn92 is a 48 year-old nonhispanic white female.
+      # Social History
+
+  [06:26:12] DOCUMENT: History and physical note
+    Status: superseded
+
+  [07:02:16] CLAIM: professional
+    Amount: USD 1161.16
+
+
+📅 2023-03-25
+
+  [10:59:16] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Nicholas495 Greenfelder433
+    Location: CAMBRIDGE PUBLIC HEALTH COMMISSION
+    Duration: 10:59:16 - 11:37:22
+
+  [10:59:16] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [10:59:16] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-03-25
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Crystle668 Katheryn92 is a 48 year-old nonhispanic white female.
+      # Social History
+
+  [10:59:16] DOCUMENT: History and physical note
+    Status: superseded
+
+  [11:37:22] CLAIM: professional
+    Amount: USD 1299.05
+
+
+📅 2023-03-26
+
+  [19:46:22] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Nicholas495 Greenfelder433
+    Location: CAMBRIDGE PUBLIC HEALTH COMMISSION
+    Duration: 19:46:22 - 20:09:25
+
+  [19:46:22] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [19:46:22] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-03-26
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Crystle668 Katheryn92 is a 48 year-old nonhispanic white female.
+      # Social History
+
+  [19:46:22] DOCUMENT: History and physical note
+    Status: superseded
+
+  [20:09:25] CLAIM: professional
+    Amount: USD 1195.75
+
+
+📅 2023-03-27
+
+  [23:42:25] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Nicholas495 Greenfelder433
+    Location: CAMBRIDGE PUBLIC HEALTH COMMISSION
+    Duration: 23:42:25 - 00:06:10
+
+  [23:42:25] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [23:42:25] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-03-27
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Crystle668 Katheryn92 is a 48 year-old nonhispanic white female.
+      # Social History
+
+  [23:42:25] DOCUMENT: History and physical note
+    Status: superseded
+
+
+📅 2023-03-28
+
+  [00:06:10] CLAIM: professional
+    Amount: USD 1359.90
+
+
+📅 2023-03-29
+
+  [05:20:10] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Nicholas495 Greenfelder433
+    Location: CAMBRIDGE PUBLIC HEALTH COMMISSION
+    Duration: 05:20:10 - 05:49:25
+
+  [05:20:10] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [05:20:10] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-03-29
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Crystle668 Katheryn92 is a 48 year-old nonhispanic white female.
+      # Social History
+
+  [05:20:10] DOCUMENT: History and physical note
+    Status: superseded
+
+  [05:49:25] CLAIM: professional
+    Amount: USD 512.63
+
+
+📅 2023-03-30
+
+  [10:07:25] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Nicholas495 Greenfelder433
+    Location: CAMBRIDGE PUBLIC HEALTH COMMISSION
+    Duration: 10:07:25 - 10:45:44
+
+  [10:07:25] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [10:07:25] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-03-30
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Crystle668 Katheryn92 is a 48 year-old nonhispanic white female.
+      # Social History
+
+  [10:07:25] DOCUMENT: History and physical note
+    Status: superseded
+
+  [10:45:44] CLAIM: professional
+    Amount: USD 1359.90
+
+
+📅 2023-03-31
+
+  [19:19:44] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Nicholas495 Greenfelder433
+    Location: CAMBRIDGE PUBLIC HEALTH COMMISSION
+    Duration: 19:19:44 - 19:54:50
+
+  [19:19:44] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [19:19:44] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-03-31
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Crystle668 Katheryn92 is a 48 year-old nonhispanic white female.
+      # Social History
+
+  [19:19:44] DOCUMENT: History and physical note
+    Status: superseded
+
+  [19:54:50] CLAIM: professional
+    Amount: USD 1359.90
+
+
+📅 2023-04-01
+
+  [20:08:50] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Nicholas495 Greenfelder433
+    Location: CAMBRIDGE PUBLIC HEALTH COMMISSION
+    Duration: 20:08:50 - 20:48:48
+
+  [20:08:50] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [20:08:50] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-04-01
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Crystle668 Katheryn92 is a 48 year-old nonhispanic white female.
+      # Social History
+
+  [20:08:50] DOCUMENT: History and physical note
+    Status: superseded
+
+  [20:48:48] CLAIM: professional
+    Amount: USD 1359.90
+
+
+📅 2023-04-03
+
+  [07:37:48] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Nicholas495 Greenfelder433
+    Location: CAMBRIDGE PUBLIC HEALTH COMMISSION
+    Duration: 07:37:48 - 08:04:14
+
+  [07:37:48] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [07:37:48] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-04-03
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Crystle668 Katheryn92 is a 48 year-old nonhispanic white female.
+      # Social History
+
+  [07:37:48] DOCUMENT: History and physical note
+    Status: superseded
+
+  [08:04:14] CLAIM: professional
+    Amount: USD 1359.90
+
+
+📅 2023-04-04
+
+  [20:00:14] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Nicholas495 Greenfelder433
+    Location: CAMBRIDGE PUBLIC HEALTH COMMISSION
+    Duration: 20:00:14 - 20:33:16
+
+  [20:00:14] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [20:00:14] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-04-04
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Crystle668 Katheryn92 is a 48 year-old nonhispanic white female.
+      # Social History
+
+  [20:00:14] DOCUMENT: History and physical note
+    Status: superseded
+
+  [20:33:16] CLAIM: professional
+    Amount: USD 512.63
+
+
+📅 2023-04-06
+
+  [03:57:16] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Nicholas495 Greenfelder433
+    Location: CAMBRIDGE PUBLIC HEALTH COMMISSION
+    Duration: 03:57:16 - 04:15:07
+
+  [03:57:16] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [03:57:16] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-04-06
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Crystle668 Katheryn92 is a 48 year-old nonhispanic white female.
+      # Social History
+
+  [03:57:16] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:15:07] CLAIM: professional
+    Amount: USD 512.63
+
+
+📅 2023-04-07
+
+  [15:25:07] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Nicholas495 Greenfelder433
+    Location: CAMBRIDGE PUBLIC HEALTH COMMISSION
+    Duration: 15:25:07 - 15:55:04
+
+  [15:25:07] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [15:25:07] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-04-07
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Crystle668 Katheryn92 is a 48 year-old nonhispanic white female.
+      # Social History
+
+  [15:25:07] DOCUMENT: History and physical note
+    Status: superseded
+
+  [15:55:04] CLAIM: professional
+    Amount: USD 1359.90
+
+
+📅 2023-04-08
+
+  [22:00:04] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Nicholas495 Greenfelder433
+    Location: CAMBRIDGE PUBLIC HEALTH COMMISSION
+    Duration: 22:00:04 - 22:37:05
+
+  [22:00:04] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [22:00:04] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-04-08
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Crystle668 Katheryn92 is a 48 year-old nonhispanic white female.
+      # Social History
+
+  [22:00:04] DOCUMENT: History and physical note
+    Status: superseded
+
+  [22:37:05] CLAIM: professional
+    Amount: USD 859.48
+
+
+📅 2023-04-10
+
+  [09:41:05] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Nicholas495 Greenfelder433
+    Location: CAMBRIDGE PUBLIC HEALTH COMMISSION
+    Duration: 09:41:05 - 10:16:11
+
+  [09:41:05] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [09:41:05] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-04-10
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Crystle668 Katheryn92 is a 48 year-old nonhispanic white female.
+      # Social History
+
+  [09:41:05] DOCUMENT: History and physical note
+    Status: superseded
+
+  [10:16:11] CLAIM: professional
+    Amount: USD 1359.90
+
+
+📅 2023-04-11
+
+  [12:01:11] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Nicholas495 Greenfelder433
+    Location: CAMBRIDGE PUBLIC HEALTH COMMISSION
+    Duration: 12:01:11 - 12:34:11
+
+  [12:01:11] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [12:01:11] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-04-11
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Crystle668 Katheryn92 is a 48 year-old nonhispanic white female.
+      # Social History
+
+  [12:01:11] DOCUMENT: History and physical note
+    Status: superseded
+
+  [12:34:11] CLAIM: professional
+    Amount: USD 829.46
+
+
+📅 2023-04-12
+
+  [23:30:11] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Nicholas495 Greenfelder433
+    Location: CAMBRIDGE PUBLIC HEALTH COMMISSION
+    Duration: 23:30:11 - 00:08:46
+
+  [23:30:11] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [23:30:11] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-04-12
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Crystle668 Katheryn92 is a 48 year-old nonhispanic white female.
+      # Social History
+
+  [23:30:11] DOCUMENT: History and physical note
+    Status: superseded
+
+
+📅 2023-04-13
+
+  [00:08:46] CLAIM: professional
+    Amount: USD 512.63
+
+
+📅 2023-04-14
+
+  [11:27:46] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Nicholas495 Greenfelder433
+    Location: CAMBRIDGE PUBLIC HEALTH COMMISSION
+    Duration: 11:27:46 - 11:48:48
+
+  [11:27:46] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [11:27:46] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-04-14
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Crystle668 Katheryn92 is a 48 year-old nonhispanic white female.
+      # Social History
+
+  [11:27:46] DOCUMENT: History and physical note
+    Status: superseded
+
+  [11:48:48] CLAIM: professional
+    Amount: USD 1359.90
+
+
+📅 2023-04-15
+
+  [18:54:48] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Nicholas495 Greenfelder433
+    Location: CAMBRIDGE PUBLIC HEALTH COMMISSION
+    Duration: 18:54:48 - 19:31:15
+
+  [18:54:48] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [18:54:48] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-04-15
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Crystle668 Katheryn92 is a 48 year-old nonhispanic white female.
+      # Social History
+
+  [18:54:48] DOCUMENT: History and physical note
+    Status: superseded
+
+  [19:31:15] CLAIM: professional
+    Amount: USD 1359.90
+
+
+📅 2023-04-16
+
+  [23:55:15] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Nicholas495 Greenfelder433
+    Location: CAMBRIDGE PUBLIC HEALTH COMMISSION
+    Duration: 23:55:15 - 00:29:04
+
+  [23:55:15] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [23:55:15] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-04-16
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Crystle668 Katheryn92 is a 48 year-old nonhispanic white female.
+      # Social History
+
+  [23:55:15] DOCUMENT: History and physical note
+    Status: superseded
+
+
+📅 2023-04-17
+
+  [00:29:04] CLAIM: professional
+    Amount: USD 512.63
+
+
+📅 2023-04-18
+
+  [04:03:04] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Nicholas495 Greenfelder433
+    Location: CAMBRIDGE PUBLIC HEALTH COMMISSION
+    Duration: 04:03:04 - 04:42:22
+
+  [04:03:04] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [04:03:04] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-04-18
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Crystle668 Katheryn92 is a 48 year-old nonhispanic white female.
+      # Social History
+
+  [04:03:04] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:42:22] CLAIM: professional
+    Amount: USD 1320.22
+
+
+📅 2023-04-19
+
+  [12:10:22] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Nicholas495 Greenfelder433
+    Location: CAMBRIDGE PUBLIC HEALTH COMMISSION
+    Duration: 12:10:22 - 12:29:45
+
+  [12:10:22] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [12:10:22] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-04-19
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Crystle668 Katheryn92 is a 48 year-old nonhispanic white female.
+      # Social History
+
+  [12:10:22] DOCUMENT: History and physical note
+    Status: superseded
+
+  [12:29:45] CLAIM: professional
+    Amount: USD 1359.90
+
+
+📅 2023-04-20
+
+  [17:14:45] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Nicholas495 Greenfelder433
+    Location: CAMBRIDGE PUBLIC HEALTH COMMISSION
+    Duration: 17:14:45 - 17:37:22
+
+  [17:14:45] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [17:14:45] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-04-20
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Crystle668 Katheryn92 is a 48 year-old nonhispanic white female.
+      # Social History
+
+  [17:14:45] DOCUMENT: History and physical note
+    Status: superseded
+
+  [17:37:22] CLAIM: professional
+    Amount: USD 766.87
+
+
+📅 2023-04-22
+
+  [04:58:22] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Nicholas495 Greenfelder433
+    Location: CAMBRIDGE PUBLIC HEALTH COMMISSION
+    Duration: 04:58:22 - 05:28:26
+
+  [04:58:22] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [04:58:22] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-04-22
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Crystle668 Katheryn92 is a 48 year-old nonhispanic white female.
+      # Social History
+
+  [04:58:22] DOCUMENT: History and physical note
+    Status: superseded
+
+  [05:28:26] CLAIM: professional
+    Amount: USD 1359.90
+
+
+📅 2023-04-23
+
+  [11:47:26] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Nicholas495 Greenfelder433
+    Location: CAMBRIDGE PUBLIC HEALTH COMMISSION
+    Duration: 11:47:26 - 12:22:34
+
+  [11:47:26] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [11:47:26] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-04-23
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Crystle668 Katheryn92 is a 48 year-old nonhispanic white female.
+      # Social History
+
+  [11:47:26] DOCUMENT: History and physical note
+    Status: superseded
+
+  [12:22:34] CLAIM: professional
+    Amount: USD 512.63
+
+
+📅 2023-04-25
+
+  [00:19:34] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Nicholas495 Greenfelder433
+    Location: CAMBRIDGE PUBLIC HEALTH COMMISSION
+    Duration: 00:19:34 - 00:48:03
+
+  [00:19:34] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [00:19:34] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-04-25
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Crystle668 Katheryn92 is a 48 year-old nonhispanic white female.
+      # Social History
+
+  [00:19:34] DOCUMENT: History and physical note
+    Status: superseded
+
+  [00:48:03] CLAIM: professional
+    Amount: USD 1359.90
+
+
+📅 2023-04-26
+
+  [10:15:03] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Nicholas495 Greenfelder433
+    Location: CAMBRIDGE PUBLIC HEALTH COMMISSION
+    Duration: 10:15:03 - 10:53:35
+
+  [10:15:03] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [10:15:03] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-04-26
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Crystle668 Katheryn92 is a 48 year-old nonhispanic white female.
+      # Social History
+
+  [10:15:03] DOCUMENT: History and physical note
+    Status: superseded
+
+  [10:53:35] CLAIM: professional
+    Amount: USD 1359.90
+
+
+📅 2023-04-27
+
+  [18:48:35] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Nicholas495 Greenfelder433
+    Location: CAMBRIDGE PUBLIC HEALTH COMMISSION
+    Duration: 18:48:35 - 19:10:13
+
+  [18:48:35] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [18:48:35] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-04-27
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Crystle668 Katheryn92 is a 48 year-old nonhispanic white female.
+      # Social History
+
+  [18:48:35] DOCUMENT: History and physical note
+    Status: superseded
+
+  [19:10:13] CLAIM: professional
+    Amount: USD 800.98
+
+
+📅 2023-04-29
+
+  [06:59:13] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Nicholas495 Greenfelder433
+    Location: CAMBRIDGE PUBLIC HEALTH COMMISSION
+    Duration: 06:59:13 - 07:35:51
+
+  [06:59:13] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [06:59:13] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-04-29
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Crystle668 Katheryn92 is a 48 year-old nonhispanic white female.
+      # Social History
+
+  [06:59:13] DOCUMENT: History and physical note
+    Status: superseded
+
+  [07:35:51] CLAIM: professional
+    Amount: USD 1347.22
+
+
+📅 2023-04-30
+
+  [15:38:51] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Nicholas495 Greenfelder433
+    Location: CAMBRIDGE PUBLIC HEALTH COMMISSION
+    Duration: 15:38:51 - 15:58:03
+
+  [15:38:51] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [15:38:51] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-04-30
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Crystle668 Katheryn92 is a 48 year-old nonhispanic white female.
+      # Social History
+
+  [15:38:51] DOCUMENT: History and physical note
+    Status: superseded
+
+  [15:58:03] CLAIM: professional
+    Amount: USD 1211.19
+
+
+📅 2023-05-02
+
+  [00:58:03] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Nicholas495 Greenfelder433
+    Location: CAMBRIDGE PUBLIC HEALTH COMMISSION
+    Duration: 00:58:03 - 01:32:18
+
+  [00:58:03] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [00:58:03] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-05-02
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Crystle668 Katheryn92 is a 48 year-old nonhispanic white female.
+      # Social History
+
+  [00:58:03] DOCUMENT: History and physical note
+    Status: superseded
+
+  [01:32:18] CLAIM: professional
+    Amount: USD 1359.90
+
+
+📅 2023-05-03
+
+  [06:15:18] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Nicholas495 Greenfelder433
+    Location: CAMBRIDGE PUBLIC HEALTH COMMISSION
+    Duration: 06:15:18 - 06:46:05
+
+  [06:15:18] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [06:15:18] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-05-03
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Crystle668 Katheryn92 is a 48 year-old nonhispanic white female.
+      # Social History
+
+  [06:15:18] DOCUMENT: History and physical note
+    Status: superseded
+
+  [06:46:05] CLAIM: professional
+    Amount: USD 512.63
+
+
+📅 2023-05-04
+
+  [13:49:05] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Nicholas495 Greenfelder433
+    Location: CAMBRIDGE PUBLIC HEALTH COMMISSION
+    Duration: 13:49:05 - 14:21:02
+
+  [13:49:05] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [13:49:05] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-05-04
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Crystle668 Katheryn92 is a 48 year-old nonhispanic white female.
+      # Social History
+
+  [13:49:05] DOCUMENT: History and physical note
+    Status: superseded
+
+  [14:21:02] CLAIM: professional
+    Amount: USD 1032.82
+
+
+📅 2023-05-09
+
+  [04:21:02] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Nicholas495 Greenfelder433
+    Location: CAMBRIDGE PUBLIC HEALTH COMMISSION
+    Duration: 04:21:02 - 04:36:02
+
+  [04:21:02] OBSERVATION: Treatment status Cancer: Treatment changed (situation)
+
+  [04:21:02] OBSERVATION: Response to cancer treatment: Improving (qualifier value)
+
+  [04:21:02] MEDICATION PRESCRIBED: Unknown medication
+    Status: completed
+    Prescribed by: Dr. Nicholas495 Greenfelder433
+
+  [04:21:02] MEDICATION ADMINISTERED: 5 ML fulvestrant 50 MG/ML Prefilled Syringe
+    Status: completed
+
+  [04:21:02] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-05-09
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Crystle668 Katheryn92 is a 48 year-old nonhispanic white female.
+      # Social History
+
+  [04:21:02] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:36:02] CLAIM: pharmacy
+    Amount: USD 103.64
+
+  [04:36:02] CLAIM: professional
+    Amount: USD 85.55
+
+
+📅 2023-09-04
+
+  [04:21:02] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Nicholas495 Greenfelder433
+    Location: CAMBRIDGE PUBLIC HEALTH COMMISSION
+    Duration: 04:21:02 - 04:56:27
+
+  [04:21:02] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [04:21:02] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-09-04
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Crystle668 Katheryn92 is a 48 year-old nonhispanic white female.
+      # Social History
+
+  [04:21:02] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:56:27] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2023-12-23
+
+  [03:56:27] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Nicholas495 Greenfelder433
+    Location: Patient's Home
+    Duration: 03:56:27 - 04:38:52
+
+  [03:56:27] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [03:56:27] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-12-23
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Crystle668 Katheryn92 is a 49 year-old nonhispanic white female.
+      # Social History
+
+  [03:56:27] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:38:52] CLAIM: institutional
+    Amount: USD 556.40
+
+
+📅 2024-04-12
+
+  [05:38:52] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Nicholas495 Greenfelder433
+    Location: CAMBRIDGE PUBLIC HEALTH COMMISSION
+    Duration: 05:38:52 - 06:12:27
+
+  [05:38:52] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [05:38:52] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-04-12
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Crystle668 Katheryn92 is a 49 year-old nonhispanic white female.
+      # Social History
+
+  [05:38:52] DOCUMENT: History and physical note
+    Status: superseded
+
+  [06:12:27] CLAIM: professional
+    Amount: USD 573.98
+
+  [06:12:27] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Nicholas495 Greenfelder433
+    Location: CAMBRIDGE PUBLIC HEALTH COMMISSION
+    Duration: 06:12:27 - 06:32:46
+
+  [06:12:27] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [06:12:27] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-04-12
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Crystle668 Katheryn92 is a 49 year-old nonhispanic white female.
+      # Social History
+
+  [06:12:27] DOCUMENT: History and physical note
+    Status: superseded
+
+  [06:32:46] OBSERVATION: Response to cancer treatment: Improving (qualifier value)
+
+  [06:32:46] CLAIM: professional
+    Amount: USD 211.60
+
+
+📅 2024-08-03
+
+  [06:32:46] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Nicholas495 Greenfelder433
+    Location: CAMBRIDGE PUBLIC HEALTH COMMISSION
+    Duration: 06:32:46 - 07:17:00
+
+  [06:32:46] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [06:32:46] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-08-03
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Crystle668 Katheryn92 is a 49 year-old nonhispanic white female.
+      # Social History
+
+  [06:32:46] DOCUMENT: History and physical note
+    Status: superseded
+
+  [07:17:00] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2024-11-24
+
+  [06:17:00] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Nicholas495 Greenfelder433
+    Location: Patient's Home
+    Duration: 06:17:00 - 06:57:57
+
+  [06:17:00] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [06:17:00] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-11-24
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Crystle668 Katheryn92 is a 49 year-old nonhispanic white female.
+      # Social History
+
+  [06:17:00] DOCUMENT: History and physical note
+    Status: superseded
+
+  [06:57:57] CLAIM: institutional
+    Amount: USD 556.40
+
+
+📅 2024-12-16
+
+  [18:58:21] VISIT: General examination of patient (procedure)
+    Provider: Dr. Rubén780 Padrón382
+    Location: DAVIS SQUARE FAMILY PRACTICE
+    Duration: 18:58:21 - 19:13:21
+
+  [18:58:21] IMMUNIZATION: zoster vaccine, live
+    Status: completed
+
+  [18:58:21] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [18:58:21] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-12-16
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Crystle668 Katheryn92 is a 50 year-old nonhispanic white female.
+      # Social History
+
+  [18:58:21] DOCUMENT: History and physical note
+    Status: superseded
+
+  [19:13:21] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2025-03-14
+
+  [07:57:57] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Nicholas495 Greenfelder433
+    Location: CAMBRIDGE PUBLIC HEALTH COMMISSION
+    Duration: 07:57:57 - 08:30:10
+
+  [07:57:57] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [07:57:57] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-03-14
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Crystle668 Katheryn92 is a 50 year-old nonhispanic white female.
+      # Social History
+
+  [07:57:57] DOCUMENT: History and physical note
+    Status: superseded
+
+  [08:30:10] CLAIM: professional
+    Amount: USD 573.98
+
+  [08:30:10] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Nicholas495 Greenfelder433
+    Location: CAMBRIDGE PUBLIC HEALTH COMMISSION
+    Duration: 08:30:10 - 08:51:49
+
+  [08:30:10] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [08:30:10] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-03-14
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Crystle668 Katheryn92 is a 50 year-old nonhispanic white female.
+      # Social History
+
+  [08:30:10] DOCUMENT: History and physical note
+    Status: superseded
+
+  [08:51:49] OBSERVATION: Response to cancer treatment: Improving (qualifier value)
+
+  [08:51:49] CLAIM: professional
+    Amount: USD 211.60
+
+
+📅 2025-07-12
+
+  [08:51:49] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Nicholas495 Greenfelder433
+    Location: CAMBRIDGE PUBLIC HEALTH COMMISSION
+    Duration: 08:51:49 - 09:30:42
+
+  [08:51:49] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [08:51:49] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-07-12
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Crystle668 Katheryn92 is a 50 year-old nonhispanic white female.
+      # Social History
+
+  [08:51:49] DOCUMENT: History and physical note
+    Status: superseded
+
+  [09:30:42] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2025-10-26
+
+  [09:30:42] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Nicholas495 Greenfelder433
+    Location: CAMBRIDGE PUBLIC HEALTH COMMISSION
+    Duration: 09:30:42 - 10:06:21
+
+  [09:30:42] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [09:30:42] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-10-26
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Crystle668 Katheryn92 is a 50 year-old nonhispanic white female.
+      # Social History
+
+  [09:30:42] DOCUMENT: History and physical note
+    Status: superseded
+
+  [10:06:21] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2025-12-22
+
+  [18:58:21] VISIT: General examination of patient (procedure)
+    Provider: Dr. Rubén780 Padrón382
+    Location: DAVIS SQUARE FAMILY PRACTICE
+    Duration: 18:58:21 - 19:13:21
+
+  [18:58:21] IMMUNIZATION: zoster vaccine, live
+    Status: completed
+
+  [18:58:21] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [18:58:21] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [18:58:21] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-12-22
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Crystle668 Katheryn92 is a 51 year-old nonhispanic white female.
+      # Social History
+
+  [18:58:21] DOCUMENT: History and physical note
+    Status: current
+
+  [19:13:21] CLAIM: professional
+    Amount: USD 544.80
+
+
+📅 2026-02-09
+
+  [18:58:21] PROVENANCE: Record activity
+    Agents: Dr. Rubén780 Padrón382, Dr. Rubén780 Padrón382
+
+================================================================================
+END OF TIMELINE (301 events)
+================================================================================

@@ -1,0 +1,194 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Mrs. Fairy757 Kathryne752 Roob72
+  Patient ID: 50848
+  Date of Birth: 1977-01-23
+  Gender: Female
+  Race: White
+  Ethnicity: Not Hispanic or Latino
+  Marital Status: Married
+  Address: 852 Purdy Heights, Northborough, MA 01532
+  Phone: 555-829-1587
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2017-01-29
+
+  [05:59:33] VISIT: General examination of patient (procedure)
+    Provider: Dr. Florance664 Leannon79
+    Location: SUNRISE HEALTHCARE LLC
+    Duration: 05:59:33 - 06:14:33
+
+  [05:59:33] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [05:59:33] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [05:59:33] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-01-29
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Fairy757 Kathryne752 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [05:59:33] DOCUMENT: History and physical note
+    Status: superseded
+
+  [06:14:33] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2019-02-03
+
+  [05:59:33] VISIT: General examination of patient (procedure)
+    Provider: Dr. Florance664 Leannon79
+    Location: SUNRISE HEALTHCARE LLC
+    Duration: 05:59:33 - 06:14:33
+
+  [05:59:33] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [05:59:33] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [05:59:33] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [05:59:33] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-02-03
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Fairy757 Kathryne752 is a 42 year-old nonhispanic white female.
+      # Social History
+
+  [05:59:33] DOCUMENT: History and physical note
+    Status: superseded
+
+  [06:14:33] CLAIM: professional
+    Amount: USD 544.80
+
+
+📅 2021-01-10
+
+  [05:59:33] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Chanell45 Robel940
+    Location: WHITTIER REHABILITATION HOSPITAL - BRADFORD
+    Duration: 05:59:33 - 06:14:33
+
+  [05:59:33] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+    Status: completed
+
+  [05:59:33] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-01-10
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Fairy757 Kathryne752 is a 43 year-old nonhispanic white female.
+      # Social History
+
+  [05:59:33] DOCUMENT: History and physical note
+    Status: superseded
+
+  [06:14:33] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-02-07
+
+  [05:59:33] VISIT: General examination of patient (procedure)
+    Provider: Dr. Florance664 Leannon79
+    Location: SUNRISE HEALTHCARE LLC
+    Duration: 05:59:33 - 06:14:33
+
+  [05:59:33] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [05:59:33] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+    Status: completed
+
+  [05:59:33] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-02-07
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Fairy757 Kathryne752 is a 44 year-old nonhispanic white female.
+      # Social History
+
+  [05:59:33] DOCUMENT: History and physical note
+    Status: superseded
+
+  [06:14:33] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2023-02-12
+
+  [05:59:33] VISIT: General examination of patient (procedure)
+    Provider: Dr. Florance664 Leannon79
+    Location: SUNRISE HEALTHCARE LLC
+    Duration: 05:59:33 - 06:14:33
+
+  [05:59:33] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [05:59:33] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-02-12
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Fairy757 Kathryne752 is a 46 year-old nonhispanic white female.
+      # Social History
+
+  [05:59:33] DOCUMENT: History and physical note
+    Status: superseded
+
+  [06:14:33] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2025-02-16
+
+  [05:59:33] VISIT: General examination of patient (procedure)
+    Provider: Dr. Florance664 Leannon79
+    Location: SUNRISE HEALTHCARE LLC
+    Duration: 05:59:33 - 06:14:33
+
+  [05:59:33] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [05:59:33] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-02-16
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Fairy757 Kathryne752 is a 48 year-old nonhispanic white female.
+      # Social History
+
+  [05:59:33] DOCUMENT: History and physical note
+    Status: current
+
+  [06:14:33] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2026-02-15
+
+  [05:59:33] PROVENANCE: Record activity
+    Agents: Dr. Florance664 Leannon79, Dr. Florance664 Leannon79
+
+================================================================================
+END OF TIMELINE (35 events)
+================================================================================

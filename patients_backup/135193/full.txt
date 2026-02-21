@@ -1,0 +1,165 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Mrs. September423 Maryland870 Smitham825
+  Patient ID: 135193
+  Date of Birth: 1983-11-30
+  Gender: Female
+  Race: White
+  Ethnicity: Not Hispanic or Latino
+  Marital Status: Married
+  Address: 161 Hegmann Underpass, Westfield, MA 01086
+  Phone: 555-430-9099
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2018-02-14
+
+  [09:01:39] VISIT: General examination of patient (procedure)
+    Provider: Dr. Odilia72 Mraz590
+    Location: FAMILY MEDICINE ASSOCIATES
+    Duration: 09:01:39 - 09:16:39
+
+  [09:01:39] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [09:01:39] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-02-14
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      September423 Maryland870 is a 34 year-old nonhispanic white female.
+      # Social History
+
+  [09:01:39] DOCUMENT: History and physical note
+    Status: superseded
+
+  [09:16:39] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2021-02-17
+
+  [09:01:39] VISIT: General examination of patient (procedure)
+    Provider: Dr. Odilia72 Mraz590
+    Location: FAMILY MEDICINE ASSOCIATES
+    Duration: 09:01:39 - 09:16:39
+
+  [09:01:39] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [09:01:39] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-02-17
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      September423 Maryland870 is a 37 year-old nonhispanic white female.
+      # Social History
+
+  [09:01:39] DOCUMENT: History and physical note
+    Status: superseded
+
+  [09:16:39] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2021-04-07
+
+  [10:01:39] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Inés791 Ávila241
+    Location: WESTERN MASSACHUSETTS HOSPITAL
+    Duration: 10:01:39 - 10:16:39
+
+  [10:01:39] IMMUNIZATION: COVID-19 vaccine, vector-nr, rS-Ad26, PF, 0.5 mL
+    Status: completed
+
+  [10:01:39] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-04-07
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      September423 Maryland870 is a 37 year-old nonhispanic white female.
+      # Social History
+
+  [10:01:39] DOCUMENT: History and physical note
+    Status: superseded
+
+  [10:16:39] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2023-12-06
+
+  [09:01:39] VISIT: General examination of patient (procedure)
+    Provider: Dr. Odilia72 Mraz590
+    Location: FAMILY MEDICINE ASSOCIATES
+    Duration: 09:01:39 - 09:16:39
+
+  [09:01:39] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [09:01:39] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [09:01:39] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-12-06
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      September423 Maryland870 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [09:01:39] DOCUMENT: History and physical note
+    Status: superseded
+
+  [09:16:39] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2025-12-10
+
+  [09:01:39] VISIT: General examination of patient (procedure)
+    Provider: Dr. Odilia72 Mraz590
+    Location: FAMILY MEDICINE ASSOCIATES
+    Duration: 09:01:39 - 09:16:39
+
+  [09:01:39] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [09:01:39] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [09:01:39] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [09:01:39] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-12-10
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      September423 Maryland870 is a 42 year-old nonhispanic white female.
+      # Social History
+
+  [09:01:39] DOCUMENT: History and physical note
+    Status: current
+
+  [09:16:39] CLAIM: professional
+    Amount: USD 544.80
+
+
+📅 2026-02-11
+
+  [09:01:39] PROVENANCE: Record activity
+    Agents: Dr. Odilia72 Mraz590, Dr. Odilia72 Mraz590
+
+================================================================================
+END OF TIMELINE (29 events)
+================================================================================

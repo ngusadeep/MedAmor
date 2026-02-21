@@ -1,0 +1,1098 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Mrs. Omega729 Celesta195 Krajcik437
+  Patient ID: 122299
+  Date of Birth: 1962-11-17
+  Gender: Female
+  Race: White
+  Ethnicity: Not Hispanic or Latino
+  Marital Status: Married
+  Address: 401 Bradtke Crossing, Fall River, MA 02723
+  Phone: 555-299-1787
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2001-09-01
+
+  [12:28:35] VISIT: Periodic reevaluation and management of healthy individual (procedure)
+    Reason: Screening for malignant neoplasm of breast (procedure)
+    Provider: Dr. Blanche121 Bailey598
+    Location: SOUTHCOAST HOSPITALS GROUP INC
+    Duration: 12:28:35 - 19:48:40
+
+  [12:28:35] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2001-09-01
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Omega729 Celesta195 is a 38 year-old nonhispanic white female.
+      # Social History
+
+  [12:28:35] DOCUMENT: History and physical note
+    Status: superseded
+
+  [14:07:40] CONDITION: Malignant neoplasm of breast (disorder) (active)
+
+
+📅 2001-09-02
+
+  [19:48:40] CLAIM: professional
+    Amount: USD 5476.54
+
+
+📅 2016-12-10
+
+  [11:28:35] VISIT: General examination of patient (procedure)
+    Provider: Dr. Virginia437 Mota271
+    Location: STANLEY STREET TREATMENT AND RESOURCES INC
+    Duration: 11:28:35 - 11:43:35
+
+  [11:28:35] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [11:28:35] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-12-10
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Omega729 Celesta195 is a 54 year-old nonhispanic white female.
+      # Social History
+
+  [11:28:35] DOCUMENT: History and physical note
+    Status: superseded
+
+  [11:43:35] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2017-01-28
+
+  [03:26:53] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Blanche121 Bailey598
+    Location: SOUTHCOAST HOSPITALS GROUP INC
+    Duration: 03:26:53 - 04:01:29
+
+  [03:26:53] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [03:26:53] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-01-28
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Omega729 Celesta195 is a 54 year-old nonhispanic white female.
+      # Social History
+
+  [03:26:53] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:01:29] CLAIM: professional
+    Amount: USD 573.98
+
+  [04:01:29] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Blanche121 Bailey598
+    Location: SOUTHCOAST HOSPITALS GROUP INC
+    Duration: 04:01:29 - 04:23:22
+
+  [04:01:29] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [04:01:29] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-01-28
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Omega729 Celesta195 is a 54 year-old nonhispanic white female.
+      # Social History
+
+  [04:01:29] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:23:22] CLAIM: professional
+    Amount: USD 223.10
+
+  [04:23:22] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Blanche121 Bailey598
+    Location: SOUTHCOAST HOSPITALS GROUP INC
+    Duration: 04:23:22 - 04:46:33
+
+  [04:23:22] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [04:23:22] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-01-28
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Omega729 Celesta195 is a 54 year-old nonhispanic white female.
+      # Social History
+
+  [04:23:22] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:33:55] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [04:46:33] CLAIM: professional
+    Amount: USD 1174.53
+
+
+📅 2017-12-16
+
+  [11:28:35] VISIT: General examination of patient (procedure)
+    Provider: Dr. Virginia437 Mota271
+    Location: STANLEY STREET TREATMENT AND RESOURCES INC
+    Duration: 11:28:35 - 11:43:35
+
+  [11:28:35] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [11:28:35] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-12-16
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Omega729 Celesta195 is a 55 year-old nonhispanic white female.
+      # Social History
+
+  [11:28:35] DOCUMENT: History and physical note
+    Status: superseded
+
+  [11:43:35] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2018-02-11
+
+  [04:46:33] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Blanche121 Bailey598
+    Location: SOUTHCOAST HOSPITALS GROUP INC
+    Duration: 04:46:33 - 05:28:22
+
+  [04:46:33] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [04:46:33] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-02-11
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Omega729 Celesta195 is a 55 year-old nonhispanic white female.
+      # Social History
+
+  [04:46:33] DOCUMENT: History and physical note
+    Status: superseded
+
+  [05:28:22] CLAIM: professional
+    Amount: USD 573.98
+
+  [05:28:22] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Blanche121 Bailey598
+    Location: SOUTHCOAST HOSPITALS GROUP INC
+    Duration: 05:28:22 - 05:50:02
+
+  [05:28:22] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [05:28:22] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-02-11
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Omega729 Celesta195 is a 55 year-old nonhispanic white female.
+      # Social History
+
+  [05:28:22] DOCUMENT: History and physical note
+    Status: superseded
+
+  [05:50:02] CLAIM: professional
+    Amount: USD 211.60
+
+  [05:50:02] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Blanche121 Bailey598
+    Location: SOUTHCOAST HOSPITALS GROUP INC
+    Duration: 05:50:02 - 06:20:29
+
+  [05:50:02] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [05:50:02] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-02-11
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Omega729 Celesta195 is a 55 year-old nonhispanic white female.
+      # Social History
+
+  [05:50:02] DOCUMENT: History and physical note
+    Status: superseded
+
+  [06:02:19] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [06:20:29] CLAIM: professional
+    Amount: USD 3680.06
+
+
+📅 2018-12-22
+
+  [11:28:35] VISIT: General examination of patient (procedure)
+    Provider: Dr. Virginia437 Mota271
+    Location: STANLEY STREET TREATMENT AND RESOURCES INC
+    Duration: 11:28:35 - 11:43:35
+
+  [11:28:35] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [11:28:35] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-12-22
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Omega729 Celesta195 is a 56 year-old nonhispanic white female.
+      # Social History
+
+  [11:28:35] DOCUMENT: History and physical note
+    Status: superseded
+
+  [11:43:35] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2019-01-13
+
+  [06:20:29] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Blanche121 Bailey598
+    Location: SOUTHCOAST HOSPITALS GROUP INC
+    Duration: 06:20:29 - 06:55:16
+
+  [06:20:29] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [06:20:29] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-01-13
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Omega729 Celesta195 is a 56 year-old nonhispanic white female.
+      # Social History
+
+  [06:20:29] DOCUMENT: History and physical note
+    Status: superseded
+
+  [06:55:16] CLAIM: professional
+    Amount: USD 573.98
+
+  [06:55:16] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Blanche121 Bailey598
+    Location: SOUTHCOAST HOSPITALS GROUP INC
+    Duration: 06:55:16 - 07:12:46
+
+  [06:55:16] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [06:55:16] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-01-13
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Omega729 Celesta195 is a 56 year-old nonhispanic white female.
+      # Social History
+
+  [06:55:16] DOCUMENT: History and physical note
+    Status: superseded
+
+  [07:12:46] CLAIM: professional
+    Amount: USD 211.60
+
+  [07:12:46] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Blanche121 Bailey598
+    Location: SOUTHCOAST HOSPITALS GROUP INC
+    Duration: 07:12:46 - 07:38:05
+
+  [07:12:46] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [07:12:46] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-01-13
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Omega729 Celesta195 is a 56 year-old nonhispanic white female.
+      # Social History
+
+  [07:12:46] DOCUMENT: History and physical note
+    Status: superseded
+
+  [07:26:07] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [07:38:05] CLAIM: professional
+    Amount: USD 2529.25
+
+
+📅 2019-12-28
+
+  [11:28:35] VISIT: General examination of patient (procedure)
+    Provider: Dr. Virginia437 Mota271
+    Location: STANLEY STREET TREATMENT AND RESOURCES INC
+    Duration: 11:28:35 - 11:43:35
+
+  [11:28:35] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [11:28:35] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-12-28
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Omega729 Celesta195 is a 57 year-old nonhispanic white female.
+      # Social History
+
+  [11:28:35] DOCUMENT: History and physical note
+    Status: superseded
+
+  [11:43:35] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2020-01-19
+
+  [07:38:05] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Blanche121 Bailey598
+    Location: SOUTHCOAST HOSPITALS GROUP INC
+    Duration: 07:38:05 - 08:13:39
+
+  [07:38:05] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [07:38:05] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-01-19
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Omega729 Celesta195 is a 57 year-old nonhispanic white female.
+      # Social History
+
+  [07:38:05] DOCUMENT: History and physical note
+    Status: superseded
+
+  [08:13:39] CLAIM: professional
+    Amount: USD 573.98
+
+  [08:13:39] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Blanche121 Bailey598
+    Location: SOUTHCOAST HOSPITALS GROUP INC
+    Duration: 08:13:39 - 08:35:53
+
+  [08:13:39] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [08:13:39] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-01-19
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Omega729 Celesta195 is a 57 year-old nonhispanic white female.
+      # Social History
+
+  [08:13:39] DOCUMENT: History and physical note
+    Status: superseded
+
+  [08:35:53] CLAIM: professional
+    Amount: USD 211.60
+
+  [08:35:53] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Blanche121 Bailey598
+    Location: SOUTHCOAST HOSPITALS GROUP INC
+    Duration: 08:35:53 - 09:00:17
+
+  [08:35:53] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [08:35:53] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-01-19
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Omega729 Celesta195 is a 57 year-old nonhispanic white female.
+      # Social History
+
+  [08:35:53] DOCUMENT: History and physical note
+    Status: superseded
+
+  [08:48:35] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [09:00:17] CLAIM: professional
+    Amount: USD 3242.10
+
+
+📅 2020-12-24
+
+  [09:00:17] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Vella930 Ankunding277
+    Location: Patient's Home
+    Duration: 09:00:17 - 09:35:34
+
+  [09:00:17] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [09:00:17] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-12-24
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Omega729 Celesta195 is a 58 year-old nonhispanic white female.
+      # Social History
+
+  [09:00:17] DOCUMENT: History and physical note
+    Status: superseded
+
+  [09:35:34] CLAIM: institutional
+    Amount: USD 556.40
+
+  [09:35:34] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Blanche121 Bailey598
+    Location: SOUTHCOAST HOSPITALS GROUP INC
+    Duration: 09:35:34 - 09:56:34
+
+  [09:35:34] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [09:35:34] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-12-24
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Omega729 Celesta195 is a 58 year-old nonhispanic white female.
+      # Social History
+
+  [09:35:34] DOCUMENT: History and physical note
+    Status: superseded
+
+  [09:56:34] CLAIM: professional
+    Amount: USD 311.31
+
+  [09:56:34] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Blanche121 Bailey598
+    Location: SOUTHCOAST HOSPITALS GROUP INC
+    Duration: 09:56:34 - 10:25:28
+
+  [09:56:34] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [09:56:34] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-12-24
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Omega729 Celesta195 is a 58 year-old nonhispanic white female.
+      # Social History
+
+  [09:56:34] DOCUMENT: History and physical note
+    Status: superseded
+
+  [10:07:42] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [10:25:28] CLAIM: professional
+    Amount: USD 1091.66
+
+
+📅 2021-01-02
+
+  [11:28:35] VISIT: General examination of patient (procedure)
+    Provider: Dr. Virginia437 Mota271
+    Location: STANLEY STREET TREATMENT AND RESOURCES INC
+    Duration: 11:28:35 - 11:43:35
+
+  [11:28:35] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [11:28:35] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-01-02
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Omega729 Celesta195 is a 58 year-old nonhispanic white female.
+      # Social History
+
+  [11:28:35] DOCUMENT: History and physical note
+    Status: superseded
+
+  [11:43:35] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2021-12-16
+
+  [10:25:28] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Blanche121 Bailey598
+    Location: SOUTHCOAST HOSPITALS GROUP INC
+    Duration: 10:25:28 - 10:58:50
+
+  [10:25:28] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [10:25:28] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-12-16
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Omega729 Celesta195 is a 59 year-old nonhispanic white female.
+      # Social History
+
+  [10:25:28] DOCUMENT: History and physical note
+    Status: superseded
+
+  [10:58:50] CLAIM: professional
+    Amount: USD 573.98
+
+  [10:58:50] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Blanche121 Bailey598
+    Location: SOUTHCOAST HOSPITALS GROUP INC
+    Duration: 10:58:50 - 11:22:10
+
+  [10:58:50] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [10:58:50] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-12-16
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Omega729 Celesta195 is a 59 year-old nonhispanic white female.
+      # Social History
+
+  [10:58:50] DOCUMENT: History and physical note
+    Status: superseded
+
+  [11:22:10] CLAIM: professional
+    Amount: USD 211.60
+
+  [11:22:10] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Blanche121 Bailey598
+    Location: SOUTHCOAST HOSPITALS GROUP INC
+    Duration: 11:22:10 - 11:46:04
+
+  [11:22:10] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [11:22:10] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-12-16
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Omega729 Celesta195 is a 59 year-old nonhispanic white female.
+      # Social History
+
+  [11:22:10] DOCUMENT: History and physical note
+    Status: superseded
+
+  [11:34:55] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [11:46:04] CLAIM: professional
+    Amount: USD 1910.08
+
+
+📅 2022-01-08
+
+  [11:28:35] VISIT: General examination of patient (procedure)
+    Provider: Dr. Virginia437 Mota271
+    Location: STANLEY STREET TREATMENT AND RESOURCES INC
+    Duration: 11:28:35 - 11:43:35
+
+  [11:28:35] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [11:28:35] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-01-08
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Omega729 Celesta195 is a 59 year-old nonhispanic white female.
+      # Social History
+
+  [11:28:35] DOCUMENT: History and physical note
+    Status: superseded
+
+  [11:43:35] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2022-12-16
+
+  [11:46:04] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Blanche121 Bailey598
+    Location: SOUTHCOAST HOSPITALS GROUP INC
+    Duration: 11:46:04 - 12:25:22
+
+  [11:46:04] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [11:46:04] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-12-16
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Omega729 Celesta195 is a 60 year-old nonhispanic white female.
+      # Social History
+
+  [11:46:04] DOCUMENT: History and physical note
+    Status: superseded
+
+  [12:25:22] CLAIM: professional
+    Amount: USD 573.98
+
+  [12:25:22] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Blanche121 Bailey598
+    Location: SOUTHCOAST HOSPITALS GROUP INC
+    Duration: 12:25:22 - 12:47:46
+
+  [12:25:22] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [12:25:22] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-12-16
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Omega729 Celesta195 is a 60 year-old nonhispanic white female.
+      # Social History
+
+  [12:25:22] DOCUMENT: History and physical note
+    Status: superseded
+
+  [12:47:46] CLAIM: professional
+    Amount: USD 211.60
+
+  [12:47:46] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Blanche121 Bailey598
+    Location: SOUTHCOAST HOSPITALS GROUP INC
+    Duration: 12:47:46 - 13:17:34
+
+  [12:47:46] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [12:47:46] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-12-16
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Omega729 Celesta195 is a 60 year-old nonhispanic white female.
+      # Social History
+
+  [12:47:46] DOCUMENT: History and physical note
+    Status: superseded
+
+  [13:02:08] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [13:17:34] CLAIM: professional
+    Amount: USD 1126.03
+
+
+📅 2023-01-14
+
+  [11:28:35] VISIT: General examination of patient (procedure)
+    Provider: Dr. Virginia437 Mota271
+    Location: STANLEY STREET TREATMENT AND RESOURCES INC
+    Duration: 11:28:35 - 11:43:35
+
+  [11:28:35] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [11:28:35] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-01-14
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Omega729 Celesta195 is a 60 year-old nonhispanic white female.
+      # Social History
+
+  [11:28:35] DOCUMENT: History and physical note
+    Status: superseded
+
+  [11:43:35] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2023-12-09
+
+  [13:17:34] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Blanche121 Bailey598
+    Location: SOUTHCOAST HOSPITALS GROUP INC
+    Duration: 13:17:34 - 14:00:00
+
+  [13:17:34] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [13:17:34] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-12-09
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Omega729 Celesta195 is a 61 year-old nonhispanic white female.
+      # Social History
+
+  [13:17:34] DOCUMENT: History and physical note
+    Status: superseded
+
+  [14:00:00] CLAIM: professional
+    Amount: USD 573.98
+
+  [14:00:00] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Blanche121 Bailey598
+    Location: SOUTHCOAST HOSPITALS GROUP INC
+    Duration: 14:00:00 - 14:17:54
+
+  [14:00:00] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [14:00:00] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-12-09
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Omega729 Celesta195 is a 61 year-old nonhispanic white female.
+      # Social History
+
+  [14:00:00] DOCUMENT: History and physical note
+    Status: superseded
+
+  [14:17:54] CLAIM: professional
+    Amount: USD 300.87
+
+  [14:17:54] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Blanche121 Bailey598
+    Location: SOUTHCOAST HOSPITALS GROUP INC
+    Duration: 14:17:54 - 14:41:37
+
+  [14:17:54] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [14:17:54] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-12-09
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Omega729 Celesta195 is a 61 year-old nonhispanic white female.
+      # Social History
+
+  [14:17:54] DOCUMENT: History and physical note
+    Status: superseded
+
+  [14:30:01] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [14:41:37] CLAIM: professional
+    Amount: USD 3680.06
+
+
+📅 2024-01-20
+
+  [11:28:35] VISIT: General examination of patient (procedure)
+    Provider: Dr. Virginia437 Mota271
+    Location: STANLEY STREET TREATMENT AND RESOURCES INC
+    Duration: 11:28:35 - 11:43:35
+
+  [11:28:35] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [11:28:35] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [11:28:35] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-01-20
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Omega729 Celesta195 is a 61 year-old nonhispanic white female.
+      # Social History
+
+  [11:28:35] DOCUMENT: History and physical note
+    Status: superseded
+
+  [11:43:35] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2024-11-21
+
+  [14:41:37] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Vella930 Ankunding277
+    Location: Patient's Home
+    Duration: 14:41:37 - 15:24:40
+
+  [14:41:37] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [14:41:37] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-11-21
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Omega729 Celesta195 is a 62 year-old nonhispanic white female.
+      # Social History
+
+  [14:41:37] DOCUMENT: History and physical note
+    Status: superseded
+
+  [15:24:40] CLAIM: institutional
+    Amount: USD 556.40
+
+  [15:24:40] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Blanche121 Bailey598
+    Location: SOUTHCOAST HOSPITALS GROUP INC
+    Duration: 15:24:40 - 15:45:14
+
+  [15:24:40] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [15:24:40] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-11-21
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Omega729 Celesta195 is a 62 year-old nonhispanic white female.
+      # Social History
+
+  [15:24:40] DOCUMENT: History and physical note
+    Status: superseded
+
+  [15:45:14] CLAIM: professional
+    Amount: USD 211.60
+
+  [15:45:14] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Blanche121 Bailey598
+    Location: SOUTHCOAST HOSPITALS GROUP INC
+    Duration: 15:45:14 - 16:11:38
+
+  [15:45:14] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [15:45:14] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-11-21
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Omega729 Celesta195 is a 62 year-old nonhispanic white female.
+      # Social History
+
+  [15:45:14] DOCUMENT: History and physical note
+    Status: superseded
+
+  [15:55:17] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [16:11:38] CLAIM: professional
+    Amount: USD 2027.54
+
+
+📅 2025-01-25
+
+  [11:28:35] VISIT: General examination of patient (procedure)
+    Provider: Dr. Virginia437 Mota271
+    Location: STANLEY STREET TREATMENT AND RESOURCES INC
+    Duration: 11:28:35 - 11:43:35
+
+  [11:28:35] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [11:28:35] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-01-25
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Omega729 Celesta195 is a 62 year-old nonhispanic white female.
+      # Social History
+
+  [11:28:35] DOCUMENT: History and physical note
+    Status: superseded
+
+  [11:43:35] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2025-10-21
+
+  [17:11:38] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Blanche121 Bailey598
+    Location: SOUTHCOAST HOSPITALS GROUP INC
+    Duration: 17:11:38 - 17:51:15
+
+  [17:11:38] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [17:11:38] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-10-21
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Omega729 Celesta195 is a 62 year-old nonhispanic white female.
+      # Social History
+
+  [17:11:38] DOCUMENT: History and physical note
+    Status: superseded
+
+  [17:51:15] CLAIM: professional
+    Amount: USD 573.98
+
+  [17:51:15] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Blanche121 Bailey598
+    Location: SOUTHCOAST HOSPITALS GROUP INC
+    Duration: 17:51:15 - 18:11:00
+
+  [17:51:15] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [17:51:15] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-10-21
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Omega729 Celesta195 is a 62 year-old nonhispanic white female.
+      # Social History
+
+  [17:51:15] DOCUMENT: History and physical note
+    Status: superseded
+
+  [18:11:00] CLAIM: professional
+    Amount: USD 211.60
+
+  [18:11:00] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Blanche121 Bailey598
+    Location: SOUTHCOAST HOSPITALS GROUP INC
+    Duration: 18:11:00 - 18:35:08
+
+  [18:11:00] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [18:11:00] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-10-21
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Omega729 Celesta195 is a 62 year-old nonhispanic white female.
+      # Social History
+
+  [18:11:00] DOCUMENT: History and physical note
+    Status: superseded
+
+  [18:23:52] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [18:35:08] CLAIM: professional
+    Amount: USD 1540.52
+
+
+📅 2026-01-31
+
+  [11:28:35] VISIT: General examination of patient (procedure)
+    Provider: Dr. Virginia437 Mota271
+    Location: STANLEY STREET TREATMENT AND RESOURCES INC
+    Duration: 11:28:35 - 11:43:35
+
+  [11:28:35] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [11:28:35] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2026-01-31
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Omega729 Celesta195 is a 63 year-old nonhispanic white female.
+      # Social History
+
+  [11:28:35] DOCUMENT: History and physical note
+    Status: current
+
+  [11:43:35] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2026-02-14
+
+  [11:28:35] PROVENANCE: Record activity
+    Agents: Dr. Virginia437 Mota271, Dr. Virginia437 Mota271
+
+================================================================================
+END OF TIMELINE (217 events)
+================================================================================

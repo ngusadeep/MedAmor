@@ -1,0 +1,863 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Mrs. Giuseppina753 Janessa317 Kessler503
+  Patient ID: 56432
+  Date of Birth: 1967-02-01
+  Gender: Female
+  Race: Black or African American
+  Ethnicity: Hispanic or Latino
+  Marital Status: Married
+  Address: 860 Rice Parade, Winthrop, MA 02152
+  Phone: 555-955-1650
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 1992-09-11
+
+  [21:19:25] VISIT: Periodic reevaluation and management of healthy individual (procedure)
+    Reason: Screening for malignant neoplasm of breast (procedure)
+    Provider: Dr. Sharron285 Batz141
+    Location: BOSTON MEDICAL CENTER CORPORATION-
+    Duration: 21:19:25 - 06:36:17
+
+  [21:19:25] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      1992-09-11
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Giuseppina753 Janessa317 is a 25 year-old hispanic black female.
+      # Social History
+
+  [21:19:25] DOCUMENT: History and physical note
+    Status: superseded
+
+
+📅 1992-09-12
+
+  [00:05:17] CONDITION: Malignant neoplasm of breast (disorder) (active)
+
+
+📅 1992-09-13
+
+  [06:36:17] CLAIM: professional
+    Amount: USD 4463.76
+
+
+📅 2016-06-03
+
+  [02:04:20] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Sharron285 Batz141
+    Location: BOSTON MEDICAL CENTER CORPORATION-
+    Duration: 02:04:20 - 02:40:55
+
+  [02:04:20] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [02:04:20] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-06-03
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Giuseppina753 Janessa317 is a 49 year-old hispanic black female.
+      # Social History
+
+  [02:04:20] DOCUMENT: History and physical note
+    Status: superseded
+
+  [02:40:55] CLAIM: professional
+    Amount: USD 573.98
+
+  [02:40:55] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Sharron285 Batz141
+    Location: BOSTON MEDICAL CENTER CORPORATION-
+    Duration: 02:40:55 - 02:57:45
+
+  [02:40:55] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [02:40:55] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-06-03
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Giuseppina753 Janessa317 is a 49 year-old hispanic black female.
+      # Social History
+
+  [02:40:55] DOCUMENT: History and physical note
+    Status: superseded
+
+  [02:57:45] CLAIM: professional
+    Amount: USD 261.97
+
+
+📅 2017-02-01
+
+  [20:19:25] VISIT: General examination of patient (procedure)
+    Provider: Dr. Raul814 Considine820
+    Location: NORTH END COMMUNITY HEALTH COMMITTEE INC
+    Duration: 20:19:25 - 20:34:25
+
+  [20:19:25] IMMUNIZATION: zoster vaccine, live
+    Status: completed
+
+  [20:19:25] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [20:19:25] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-02-01
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Giuseppina753 Janessa317 is a 50 year-old hispanic black female.
+      # Social History
+
+  [20:19:25] DOCUMENT: History and physical note
+    Status: superseded
+
+  [20:34:25] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2017-06-05
+
+  [02:57:45] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Sharron285 Batz141
+    Location: BOSTON MEDICAL CENTER CORPORATION-
+    Duration: 02:57:45 - 03:37:54
+
+  [02:57:45] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [02:57:45] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-06-05
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Giuseppina753 Janessa317 is a 50 year-old hispanic black female.
+      # Social History
+
+  [02:57:45] DOCUMENT: History and physical note
+    Status: superseded
+
+  [03:37:54] CLAIM: professional
+    Amount: USD 573.98
+
+  [03:37:54] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Sharron285 Batz141
+    Location: BOSTON MEDICAL CENTER CORPORATION-
+    Duration: 03:37:54 - 04:01:55
+
+  [03:37:54] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [03:37:54] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-06-05
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Giuseppina753 Janessa317 is a 50 year-old hispanic black female.
+      # Social History
+
+  [03:37:54] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:01:55] CLAIM: professional
+    Amount: USD 246.27
+
+
+📅 2018-02-07
+
+  [20:19:25] VISIT: General examination of patient (procedure)
+    Provider: Dr. Raul814 Considine820
+    Location: NORTH END COMMUNITY HEALTH COMMITTEE INC
+    Duration: 20:19:25 - 20:34:25
+
+  [20:19:25] IMMUNIZATION: zoster vaccine, live
+    Status: completed
+
+  [20:19:25] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [20:19:25] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [20:19:25] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-02-07
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Giuseppina753 Janessa317 is a 51 year-old hispanic black female.
+      # Social History
+
+  [20:19:25] DOCUMENT: History and physical note
+    Status: superseded
+
+  [20:34:25] CLAIM: professional
+    Amount: USD 544.80
+
+
+📅 2018-06-22
+
+  [04:01:55] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Sharron285 Batz141
+    Location: BOSTON MEDICAL CENTER CORPORATION-
+    Duration: 04:01:55 - 04:40:10
+
+  [04:01:55] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [04:01:55] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-06-22
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Giuseppina753 Janessa317 is a 51 year-old hispanic black female.
+      # Social History
+
+  [04:01:55] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:40:10] CLAIM: professional
+    Amount: USD 573.98
+
+  [04:40:10] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Sharron285 Batz141
+    Location: BOSTON MEDICAL CENTER CORPORATION-
+    Duration: 04:40:10 - 04:58:28
+
+  [04:40:10] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [04:40:10] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-06-22
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Giuseppina753 Janessa317 is a 51 year-old hispanic black female.
+      # Social History
+
+  [04:40:10] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:58:28] CLAIM: professional
+    Amount: USD 238.91
+
+
+📅 2019-02-13
+
+  [20:19:25] VISIT: General examination of patient (procedure)
+    Provider: Dr. Raul814 Considine820
+    Location: NORTH END COMMUNITY HEALTH COMMITTEE INC
+    Duration: 20:19:25 - 20:34:25
+
+  [20:19:25] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [20:19:25] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-02-13
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Giuseppina753 Janessa317 is a 52 year-old hispanic black female.
+      # Social History
+
+  [20:19:25] DOCUMENT: History and physical note
+    Status: superseded
+
+  [20:34:25] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2019-05-19
+
+  [04:58:28] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Sharron285 Batz141
+    Location: BOSTON MEDICAL CENTER CORPORATION-
+    Duration: 04:58:28 - 05:40:38
+
+  [04:58:28] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [04:58:28] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-05-19
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Giuseppina753 Janessa317 is a 52 year-old hispanic black female.
+      # Social History
+
+  [04:58:28] DOCUMENT: History and physical note
+    Status: superseded
+
+  [05:40:38] CLAIM: professional
+    Amount: USD 573.98
+
+  [05:40:38] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Sharron285 Batz141
+    Location: BOSTON MEDICAL CENTER CORPORATION-
+    Duration: 05:40:38 - 06:00:25
+
+  [05:40:38] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [05:40:38] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-05-19
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Giuseppina753 Janessa317 is a 52 year-old hispanic black female.
+      # Social History
+
+  [05:40:38] DOCUMENT: History and physical note
+    Status: superseded
+
+  [06:00:25] CLAIM: professional
+    Amount: USD 211.60
+
+
+📅 2020-02-19
+
+  [20:19:25] VISIT: General examination of patient (procedure)
+    Provider: Dr. Raul814 Considine820
+    Location: NORTH END COMMUNITY HEALTH COMMITTEE INC
+    Duration: 20:19:25 - 20:34:25
+
+  [20:19:25] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [20:19:25] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-02-19
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Giuseppina753 Janessa317 is a 53 year-old hispanic black female.
+      # Social History
+
+  [20:19:25] DOCUMENT: History and physical note
+    Status: superseded
+
+  [20:34:25] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2020-06-07
+
+  [06:00:25] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Sharron285 Batz141
+    Location: BOSTON MEDICAL CENTER CORPORATION-
+    Duration: 06:00:25 - 06:36:38
+
+  [06:00:25] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [06:00:25] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-06-07
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Giuseppina753 Janessa317 is a 53 year-old hispanic black female.
+      # Social History
+
+  [06:00:25] DOCUMENT: History and physical note
+    Status: superseded
+
+  [06:36:38] CLAIM: professional
+    Amount: USD 573.98
+
+  [06:36:38] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Sharron285 Batz141
+    Location: BOSTON MEDICAL CENTER CORPORATION-
+    Duration: 06:36:38 - 06:53:42
+
+  [06:36:38] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [06:36:38] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-06-07
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Giuseppina753 Janessa317 is a 53 year-old hispanic black female.
+      # Social History
+
+  [06:36:38] DOCUMENT: History and physical note
+    Status: superseded
+
+  [06:53:42] CLAIM: professional
+    Amount: USD 211.60
+
+
+📅 2021-01-06
+
+  [20:19:25] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Sharron285 Batz141
+    Location: BOSTON MEDICAL CENTER CORPORATION-
+    Duration: 20:19:25 - 20:34:25
+
+  [20:19:25] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+    Status: completed
+
+  [20:19:25] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-01-06
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Giuseppina753 Janessa317 is a 53 year-old hispanic black female.
+      # Social History
+
+  [20:19:25] DOCUMENT: History and physical note
+    Status: superseded
+
+  [20:34:25] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-02-03
+
+  [20:19:25] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Sharron285 Batz141
+    Location: BOSTON MEDICAL CENTER CORPORATION-
+    Duration: 20:19:25 - 20:34:25
+
+  [20:19:25] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+    Status: completed
+
+  [20:19:25] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-02-03
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Giuseppina753 Janessa317 is a 54 year-old hispanic black female.
+      # Social History
+
+  [20:19:25] DOCUMENT: History and physical note
+    Status: superseded
+
+  [20:34:25] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-02-24
+
+  [20:19:25] VISIT: General examination of patient (procedure)
+    Provider: Dr. Raul814 Considine820
+    Location: NORTH END COMMUNITY HEALTH COMMITTEE INC
+    Duration: 20:19:25 - 20:34:25
+
+  [20:19:25] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [20:19:25] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-02-24
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Giuseppina753 Janessa317 is a 54 year-old hispanic black female.
+      # Social History
+
+  [20:19:25] DOCUMENT: History and physical note
+    Status: superseded
+
+  [20:34:25] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2021-05-18
+
+  [06:53:42] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Sharron285 Batz141
+    Location: BOSTON MEDICAL CENTER CORPORATION-
+    Duration: 06:53:42 - 07:35:58
+
+  [06:53:42] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [06:53:42] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-05-18
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Giuseppina753 Janessa317 is a 54 year-old hispanic black female.
+      # Social History
+
+  [06:53:42] DOCUMENT: History and physical note
+    Status: superseded
+
+  [07:35:58] CLAIM: professional
+    Amount: USD 573.98
+
+  [07:35:58] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Sharron285 Batz141
+    Location: BOSTON MEDICAL CENTER CORPORATION-
+    Duration: 07:35:58 - 07:53:53
+
+  [07:35:58] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [07:35:58] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-05-18
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Giuseppina753 Janessa317 is a 54 year-old hispanic black female.
+      # Social History
+
+  [07:35:58] DOCUMENT: History and physical note
+    Status: superseded
+
+  [07:53:53] CLAIM: professional
+    Amount: USD 242.47
+
+
+📅 2022-03-02
+
+  [20:19:25] VISIT: General examination of patient (procedure)
+    Provider: Dr. Raul814 Considine820
+    Location: NORTH END COMMUNITY HEALTH COMMITTEE INC
+    Duration: 20:19:25 - 20:34:25
+
+  [20:19:25] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [20:19:25] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-03-02
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Giuseppina753 Janessa317 is a 55 year-old hispanic black female.
+      # Social History
+
+  [20:19:25] DOCUMENT: History and physical note
+    Status: superseded
+
+  [20:34:25] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2022-06-03
+
+  [07:53:53] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Sharron285 Batz141
+    Location: Patient's Home
+    Duration: 07:53:53 - 08:37:34
+
+  [07:53:53] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [07:53:53] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-06-03
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Giuseppina753 Janessa317 is a 55 year-old hispanic black female.
+      # Social History
+
+  [07:53:53] DOCUMENT: History and physical note
+    Status: superseded
+
+  [08:37:34] CLAIM: institutional
+    Amount: USD 556.40
+
+  [08:37:34] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Sharron285 Batz141
+    Location: BOSTON MEDICAL CENTER CORPORATION-
+    Duration: 08:37:34 - 08:58:31
+
+  [08:37:34] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [08:37:34] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-06-03
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Giuseppina753 Janessa317 is a 55 year-old hispanic black female.
+      # Social History
+
+  [08:37:34] DOCUMENT: History and physical note
+    Status: superseded
+
+  [08:58:31] CLAIM: professional
+    Amount: USD 257.45
+
+
+📅 2023-03-08
+
+  [20:19:25] VISIT: General examination of patient (procedure)
+    Provider: Dr. Raul814 Considine820
+    Location: NORTH END COMMUNITY HEALTH COMMITTEE INC
+    Duration: 20:19:25 - 20:34:25
+
+  [20:19:25] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [20:19:25] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-03-08
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Giuseppina753 Janessa317 is a 56 year-old hispanic black female.
+      # Social History
+
+  [20:19:25] DOCUMENT: History and physical note
+    Status: superseded
+
+  [20:34:25] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2023-06-19
+
+  [08:58:31] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Sharron285 Batz141
+    Location: BOSTON MEDICAL CENTER CORPORATION-
+    Duration: 08:58:31 - 09:31:09
+
+  [08:58:31] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [08:58:31] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-06-19
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Giuseppina753 Janessa317 is a 56 year-old hispanic black female.
+      # Social History
+
+  [08:58:31] DOCUMENT: History and physical note
+    Status: superseded
+
+  [09:31:09] CLAIM: professional
+    Amount: USD 573.98
+
+  [09:31:09] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Sharron285 Batz141
+    Location: BOSTON MEDICAL CENTER CORPORATION-
+    Duration: 09:31:09 - 09:55:03
+
+  [09:31:09] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [09:31:09] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-06-19
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Giuseppina753 Janessa317 is a 56 year-old hispanic black female.
+      # Social History
+
+  [09:31:09] DOCUMENT: History and physical note
+    Status: superseded
+
+  [09:55:03] CLAIM: professional
+    Amount: USD 211.60
+
+
+📅 2024-03-13
+
+  [21:19:25] VISIT: General examination of patient (procedure)
+    Provider: Dr. Raul814 Considine820
+    Location: NORTH END COMMUNITY HEALTH COMMITTEE INC
+    Duration: 21:19:25 - 21:34:25
+
+  [21:19:25] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [21:19:25] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-03-13
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Giuseppina753 Janessa317 is a 57 year-old hispanic black female.
+      # Social History
+
+  [21:19:25] DOCUMENT: History and physical note
+    Status: superseded
+
+  [21:34:25] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2024-05-21
+
+  [09:55:03] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Sharron285 Batz141
+    Location: BOSTON MEDICAL CENTER CORPORATION-
+    Duration: 09:55:03 - 10:27:29
+
+  [09:55:03] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [09:55:03] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-05-21
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Giuseppina753 Janessa317 is a 57 year-old hispanic black female.
+      # Social History
+
+  [09:55:03] DOCUMENT: History and physical note
+    Status: superseded
+
+  [10:27:29] CLAIM: professional
+    Amount: USD 573.98
+
+  [10:27:29] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Sharron285 Batz141
+    Location: BOSTON MEDICAL CENTER CORPORATION-
+    Duration: 10:27:29 - 10:50:28
+
+  [10:27:29] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [10:27:29] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-05-21
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Giuseppina753 Janessa317 is a 57 year-old hispanic black female.
+      # Social History
+
+  [10:27:29] DOCUMENT: History and physical note
+    Status: superseded
+
+  [10:50:28] CLAIM: professional
+    Amount: USD 211.60
+
+
+📅 2025-03-19
+
+  [21:19:25] VISIT: General examination of patient (procedure)
+    Provider: Dr. Raul814 Considine820
+    Location: NORTH END COMMUNITY HEALTH COMMITTEE INC
+    Duration: 21:19:25 - 21:34:25
+
+  [21:19:25] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [21:19:25] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-03-19
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Giuseppina753 Janessa317 is a 58 year-old hispanic black female.
+      # Social History
+
+  [21:19:25] DOCUMENT: History and physical note
+    Status: superseded
+
+  [21:34:25] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2025-05-03
+
+  [10:50:28] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Sharron285 Batz141
+    Location: BOSTON MEDICAL CENTER CORPORATION-
+    Duration: 10:50:28 - 11:22:26
+
+  [10:50:28] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [10:50:28] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-05-03
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Giuseppina753 Janessa317 is a 58 year-old hispanic black female.
+      # Social History
+
+  [10:50:28] DOCUMENT: History and physical note
+    Status: superseded
+
+  [11:22:26] CLAIM: professional
+    Amount: USD 573.98
+
+  [11:22:26] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Sharron285 Batz141
+    Location: BOSTON MEDICAL CENTER CORPORATION-
+    Duration: 11:22:26 - 11:40:41
+
+  [11:22:26] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [11:22:26] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-05-03
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Giuseppina753 Janessa317 is a 58 year-old hispanic black female.
+      # Social History
+
+  [11:22:26] DOCUMENT: History and physical note
+    Status: current
+
+  [11:40:41] CLAIM: professional
+    Amount: USD 211.60
+
+
+📅 2026-02-11
+
+  [20:19:25] PROVENANCE: Record activity
+    Agents: Dr. Sharron285 Batz141, Dr. Sharron285 Batz141
+
+================================================================================
+END OF TIMELINE (164 events)
+================================================================================

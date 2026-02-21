@@ -1,0 +1,165 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Mrs. Bertie593 Selina302 Keebler762
+  Patient ID: 20138
+  Date of Birth: 1983-10-23
+  Gender: Female
+  Race: White
+  Ethnicity: Not Hispanic or Latino
+  Marital Status: Married
+  Address: 420 Fritsch Forge, Attleboro, MA 02703
+  Phone: 555-295-8133
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2018-01-07
+
+  [20:58:52] VISIT: General examination of patient (procedure)
+    Provider: Dr. Johnathan55 Padberg411
+    Location: RISE ABOVE WELLNESS HEALTH SERVICES LLC
+    Duration: 20:58:52 - 21:13:52
+
+  [20:58:52] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [20:58:52] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-01-07
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Bertie593 Selina302 is a 34 year-old nonhispanic white female.
+      # Social History
+
+  [20:58:52] DOCUMENT: History and physical note
+    Status: superseded
+
+  [21:13:52] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2021-01-10
+
+  [20:58:52] VISIT: General examination of patient (procedure)
+    Provider: Dr. Johnathan55 Padberg411
+    Location: RISE ABOVE WELLNESS HEALTH SERVICES LLC
+    Duration: 20:58:52 - 21:13:52
+
+  [20:58:52] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [20:58:52] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-01-10
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Bertie593 Selina302 is a 37 year-old nonhispanic white female.
+      # Social History
+
+  [20:58:52] DOCUMENT: History and physical note
+    Status: superseded
+
+  [21:13:52] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2021-05-23
+
+  [21:58:52] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Thanh759 Weber641
+    Location: STURDY MEMORIAL HOSPITAL INC
+    Duration: 21:58:52 - 22:13:52
+
+  [21:58:52] IMMUNIZATION: COVID-19 vaccine, vector-nr, rS-Ad26, PF, 0.5 mL
+    Status: completed
+
+  [21:58:52] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-05-23
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Bertie593 Selina302 is a 37 year-old nonhispanic white female.
+      # Social History
+
+  [21:58:52] DOCUMENT: History and physical note
+    Status: superseded
+
+  [22:13:52] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2023-10-29
+
+  [21:58:52] VISIT: General examination of patient (procedure)
+    Provider: Dr. Johnathan55 Padberg411
+    Location: RISE ABOVE WELLNESS HEALTH SERVICES LLC
+    Duration: 21:58:52 - 22:13:52
+
+  [21:58:52] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [21:58:52] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [21:58:52] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-10-29
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Bertie593 Selina302 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [21:58:52] DOCUMENT: History and physical note
+    Status: superseded
+
+  [22:13:52] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2025-11-02
+
+  [20:58:52] VISIT: General examination of patient (procedure)
+    Provider: Dr. Johnathan55 Padberg411
+    Location: RISE ABOVE WELLNESS HEALTH SERVICES LLC
+    Duration: 20:58:52 - 21:13:52
+
+  [20:58:52] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [20:58:52] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [20:58:52] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [20:58:52] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-11-02
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Bertie593 Selina302 is a 42 year-old nonhispanic white female.
+      # Social History
+
+  [20:58:52] DOCUMENT: History and physical note
+    Status: current
+
+  [21:13:52] CLAIM: professional
+    Amount: USD 544.80
+
+
+📅 2026-02-15
+
+  [20:58:52] PROVENANCE: Record activity
+    Agents: Dr. Johnathan55 Padberg411, Dr. Johnathan55 Padberg411
+
+================================================================================
+END OF TIMELINE (29 events)
+================================================================================
