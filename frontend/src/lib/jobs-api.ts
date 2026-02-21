@@ -86,6 +86,21 @@ export function listEHRPatients(): Promise<EHRPatientSummary[]> {
   return apiGet<EHRPatientSummary[]>('/ehr/patients')
 }
 
+export interface EHRPatientBundle {
+  patient_id: string
+  export_type: string
+  ehr_text: string
+  image_refs?: string[] | null
+}
+
+export function getPatientBundle(
+  patientId: string,
+  exportType: string = 'full'
+): Promise<EHRPatientBundle> {
+  const params = new URLSearchParams({ export_type: exportType })
+  return apiGet<EHRPatientBundle>(`/ehr/patients/${encodeURIComponent(patientId)}?${params}`)
+}
+
 export interface ReportAnnotationResponse {
   id: string
   audit_report_id: string

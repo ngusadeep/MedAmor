@@ -1,4 +1,4 @@
-import { useState } from 'react'
+import { useMemo, useState } from 'react'
 import {
   useReactTable,
   getCoreRowModel,
@@ -28,22 +28,32 @@ import {
 } from '@/components/ui/dropdown-menu'
 import { ChevronDown, Search, Filter } from 'lucide-react'
 import type { Patient } from '../data/schema'
-import { patientsColumns } from './patients-columns'
+import { getPatientsColumns } from './patients-columns'
 
 interface PatientsTableProps {
   patients: Patient[]
   isLoading?: boolean
+  onViewPatient?: (patient: Patient, tab?: 'timeline' | 'audit-history') => void
 }
 
-export function PatientsTable({ patients, isLoading }: PatientsTableProps) {
+export function PatientsTable({
+  patients,
+  isLoading,
+  onViewPatient = () => {},
+}: PatientsTableProps) {
   const [sorting, setSorting] = useState<SortingState>([])
   const [columnFilters, setColumnFilters] = useState<ColumnFiltersState>([])
   const [columnVisibility, setColumnVisibility] = useState<VisibilityState>({})
   const [rowSelection, setRowSelection] = useState({})
 
+  const columns = useMemo(
+    () => getPatientsColumns(onViewPatient),
+    [onViewPatient]
+  )
+
   const table = useReactTable({
     data: patients,
-    columns: patientsColumns,
+    columns,
     onSortingChange: setSorting,
     onColumnFiltersChange: setColumnFilters,
     getCoreRowModel: getCoreRowModel(),
@@ -150,6 +160,8 @@ export function PatientsTable({ patients, isLoading }: PatientsTableProps) {
                 <TableRow
                   key={row.id}
                   data-state={row.getIsSelected() && 'selected'}
+                  className="cursor-pointer hover:bg-muted/50"
+                  onClick={() => onViewPatient(row.original, 'timeline')}
                 >
                   {row.getVisibleCells().map((cell) => (
                     <TableCell key={cell.id}>
@@ -160,7 +172,7 @@ export function PatientsTable({ patients, isLoading }: PatientsTableProps) {
               ))
             ) : (
               <TableRow>
-                <TableCell colSpan={patientsColumns.length} className="h-24 text-center">
+                <TableCell colSpan={columns.length} className="h-24 text-center">
                   No patients found.
                 </TableCell>
               </TableRow>

@@ -173,9 +173,11 @@ services:
       DEBUG: ${DEBUG}
       JWT_ALGORITHM: ${JWT_ALGORITHM}
       JWT_EXPIRE_MINUTES: ${JWT_EXPIRE_MINUTES}
+      GOOGLE_APPLICATION_CREDENTIALS: /app/vertex-sa-key.json
     volumes:
       - chroma_data:/app/chroma_data
       - ./docs/Medical_KB:/app/docs/Medical_KB:ro
+      - ./vertex-sa-key.json:/app/vertex-sa-key.json:ro
     depends_on:
       medaudit_db:
         condition: service_healthy
@@ -214,9 +216,11 @@ services:
       DEBUG: ${DEBUG}
       JWT_ALGORITHM: ${JWT_ALGORITHM}
       JWT_EXPIRE_MINUTES: ${JWT_EXPIRE_MINUTES}
+      GOOGLE_APPLICATION_CREDENTIALS: /app/vertex-sa-key.json
     volumes:
       - chroma_data:/app/chroma_data
       - ./docs/Medical_KB:/app/docs/Medical_KB:ro
+      - ./vertex-sa-key.json:/app/vertex-sa-key.json:ro
     depends_on:
       medaudit_db:
         condition: service_healthy

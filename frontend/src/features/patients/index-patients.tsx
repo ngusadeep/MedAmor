@@ -13,6 +13,8 @@ import { RefreshCw, Users, Zap } from 'lucide-react'
 import { toast } from 'sonner'
 
 import { PatientsTable } from './components/patients-table'
+import { PatientDetailSheet } from './components/patient-detail-sheet'
+import type { Patient } from './data/schema'
 import { PatientStats } from './components/patient-stats'
 import {
   listPatients,
@@ -26,6 +28,15 @@ import {
 export function PatientsPage() {
   const [isSyncing, setIsSyncing] = useState(false)
   const [activeTab, setActiveTab] = useState('all')
+  const [selectedPatient, setSelectedPatient] = useState<Patient | null>(null)
+  const [patientSheetOpen, setPatientSheetOpen] = useState(false)
+  const [patientSheetTab, setPatientSheetTab] = useState<'timeline' | 'audit-history'>('timeline')
+
+  const handleViewPatient = (patient: Patient, tab?: 'timeline' | 'audit-history') => {
+    setSelectedPatient(patient)
+    setPatientSheetTab(tab ?? 'timeline')
+    setPatientSheetOpen(true)
+  }
 
   const { data: patients = [], isLoading, refetch } = useQuery({
     queryKey: ['patients'],
@@ -152,12 +163,23 @@ export function PatientsPage() {
                 </TabsTrigger>
               </TabsList>
               <TabsContent value={activeTab} className="mt-4">
-                <PatientsTable patients={filteredPatients} isLoading={isLoading} />
+                <PatientsTable
+                  patients={filteredPatients}
+                  isLoading={isLoading}
+                  onViewPatient={handleViewPatient}
+                />
               </TabsContent>
             </Tabs>
           </CardContent>
         </Card>
       </Main>
+
+      <PatientDetailSheet
+        patient={selectedPatient}
+        open={patientSheetOpen}
+        onOpenChange={setPatientSheetOpen}
+        defaultTab={patientSheetTab}
+      />
     </>
   )
 }

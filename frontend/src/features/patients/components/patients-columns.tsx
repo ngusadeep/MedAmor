@@ -1,7 +1,15 @@
 import { ColumnDef } from '@tanstack/react-table'
 import { Badge } from '@/components/ui/badge'
 import { Button } from '@/components/ui/button'
-import { MoreHorizontal, Calendar, AlertTriangle, CheckCircle, Clock } from 'lucide-react'
+import {
+  MoreHorizontal,
+  Calendar,
+  AlertTriangle,
+  CheckCircle,
+  Clock,
+  FileText,
+  History,
+} from 'lucide-react'
 import {
   DropdownMenu,
   DropdownMenuContent,
@@ -47,7 +55,10 @@ function getRiskBadge(riskLevel: string | null) {
   )
 }
 
-export const patientsColumns: ColumnDef<Patient>[] = [
+export function getPatientsColumns(
+  onViewPatient: (patient: Patient, tab?: 'timeline' | 'audit-history') => void
+): ColumnDef<Patient>[] {
+  return [
   {
     accessorKey: 'patient_id',
     header: 'Patient ID',
@@ -101,21 +112,33 @@ export const patientsColumns: ColumnDef<Patient>[] = [
   {
     id: 'actions',
     header: '',
-    // @ts-ignore - context parameter required by API but not used in this cell
-    cell: (context) => (
-      <DropdownMenu>
-        <DropdownMenuTrigger asChild>
-          <Button variant="ghost" className="h-8 w-8 p-0">
-            <span className="sr-only">Open menu</span>
-            <MoreHorizontal className="h-4 w-4" />
-          </Button>
-        </DropdownMenuTrigger>
-        <DropdownMenuContent align="end">
-          <DropdownMenuItem>View Details</DropdownMenuItem>
-          <DropdownMenuItem>View Audit History</DropdownMenuItem>
-          <DropdownMenuItem>Schedule Audit</DropdownMenuItem>
-        </DropdownMenuContent>
-      </DropdownMenu>
-    ),
+    cell: ({ row }) => {
+      const patient = row.original
+      return (
+        <div onClick={(e) => e.stopPropagation()}>
+          <DropdownMenu>
+            <DropdownMenuTrigger asChild>
+              <Button variant="ghost" className="h-8 w-8 p-0">
+              <span className="sr-only">Open menu</span>
+              <MoreHorizontal className="h-4 w-4" />
+            </Button>
+          </DropdownMenuTrigger>
+          <DropdownMenuContent align="end">
+            <DropdownMenuItem onClick={() => onViewPatient(patient, 'timeline')}>
+              <FileText className="mr-2 h-4 w-4" />
+              View Timeline
+            </DropdownMenuItem>
+            <DropdownMenuItem
+              onClick={() => onViewPatient(patient, 'audit-history')}
+            >
+              <History className="mr-2 h-4 w-4" />
+              Audit History
+            </DropdownMenuItem>
+          </DropdownMenuContent>
+        </DropdownMenu>
+        </div>
+      )
+    },
   },
 ]
+}

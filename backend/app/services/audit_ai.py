@@ -98,8 +98,8 @@ def _run_gemini(
         response = model.generate_content(
             full,
             generation_config=genai.types.GenerationConfig(
-                max_output_tokens=4096,
-                temperature=0.2,
+                max_output_tokens=10000,
+                temperature=0.0,
             ),
         )
         raw = (response.text or "").strip()

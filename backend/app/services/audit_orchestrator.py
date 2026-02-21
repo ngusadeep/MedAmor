@@ -28,6 +28,7 @@ class EvidenceItem(BaseModel):
 class AuditReport(BaseModel):
     compliant: bool
     gaps: list[str] = Field(default_factory=list)
+    close_calls: list[str] = Field(default_factory=list)
     evidence: list[EvidenceItem] = Field(default_factory=list)
 
 
@@ -85,13 +86,16 @@ TODAY'S DATE: {today_date}
 6. **Documentation completeness**: Are mammography results, pathology, and follow-up plans documented?
 
 ## Rules
-- If a screening, follow-up, or biopsy is overdue, that is a gap — even if the patient's condition seems stable.
-- Absence of evidence of a completed biopsy or follow-up IS a gap. Do not assume it happened if there is no record.
+- **Evaluate current status only.** An item that was completed — even if it was completed late — is NOT a gap. Only flag things that are still outstanding and unresolved as of today ({today_date}).
+- **Do not penalise resolved history.** If a biopsy was overdue but was eventually performed, or a mammogram was overdue but was eventually done, that item is resolved. Do not list it in "gaps".
+- **Close calls.** If a required action was completed but was late (past its guideline deadline at the time it was done), record it in "close_calls" with a brief description of what was done and how late it was. This is for quality-improvement tracking, not for compliance scoring.
+- Absence of evidence of a completed biopsy or follow-up IS still a gap — only resolved when you can see the completion in the record.
 - For each gap, assign confidence (how certain you are this is a real gap, 0.0–1.0) and harm_severity (potential patient harm if unaddressed, 0.0–1.0). BI-RADS 4+ without biopsy = harm_severity at least 0.8.
 
 Return ONLY a JSON object (no markdown fences, no explanation outside the JSON) with exactly these keys:
-- "compliant": boolean (false if ANY gap found)
-- "gaps": array of strings, each describing one specific care gap
+- "compliant": boolean (false only if there are active, unresolved gaps; resolved-but-late items do NOT make this false)
+- "gaps": array of strings, each describing one currently outstanding care gap
+- "close_calls": array of strings, each describing an item that was resolved but was completed late — include what was done and how late (e.g. "BI-RADS 4A biopsy performed 6 weeks after imaging, exceeding the 2–4 week guideline")
 - "evidence": array of objects, each with "guideline" (string: which guideline applies), "violation" (string: what is missing or overdue), "confidence" (float 0.0-1.0), "harm_severity" (float 0.0-1.0)
 """,
     "general": """You are an expert Medical Auditor. Audit the Patient History against the provided Clinical Guidelines.
@@ -107,15 +111,17 @@ TODAY'S DATE: {today_date}
 {sensitivity_directive}
 
 ## Instructions
-1. Determine if the patient data is compliant with clinical guidelines.
-2. Identify any gaps in care, documentation, or follow-up.
-3. For each gap, cite the specific guideline and the violation.
-4. Absence of evidence of a completed action IS a gap.
-5. For each gap, assign confidence (0.0-1.0) and harm_severity (0.0-1.0).
+1. Determine if the patient data is **currently** compliant with clinical guidelines as of today ({today_date}).
+2. Identify any gaps in care, documentation, or follow-up that are **still outstanding and unresolved**.
+3. If a required action was completed late (past its guideline deadline) but HAS been completed, do NOT list it as a gap — it is resolved. Record it as a close call instead.
+4. For each gap, cite the specific guideline and the violation.
+5. Absence of evidence of a completed action IS a gap.
+6. For each gap, assign confidence (0.0-1.0) and harm_severity (0.0-1.0).
 
 Return ONLY a JSON object (no markdown fences, no explanation outside the JSON) with exactly these keys:
-- "compliant": boolean (false if ANY gap found)
-- "gaps": array of strings describing care gaps
+- "compliant": boolean (false only if there are active, unresolved gaps)
+- "gaps": array of strings describing currently outstanding care gaps
+- "close_calls": array of strings describing actions that were completed but were late — include what was done and the approximate delay (e.g. "Follow-up imaging performed 3 months late")
 - "evidence": array of objects with "guideline", "violation", "confidence" (0.0-1.0), "harm_severity" (0.0-1.0) keys
 """,
 }
@@ -305,6 +311,7 @@ def generate_audit_report(state: AuditState) -> dict:
 
     compliant = ai_result.get("compliant", ai_result.get("status") == "NO_FINDINGS")
     gaps = list(ai_result.get("gaps", []))
+    close_calls = list(ai_result.get("close_calls", []))
     evidence = []
 
     # Build evidence from "evidence" (model format) or "findings" (stub/legacy)
@@ -327,7 +334,7 @@ def generate_audit_report(state: AuditState) -> dict:
         gaps = [e.violation for e in evidence if e.violation]
 
     raw_output = AuditReport(
-        compliant=compliant, gaps=gaps, evidence=evidence
+        compliant=compliant, gaps=gaps, close_calls=close_calls, evidence=evidence
     ).model_dump_json()
 
     return {"report": raw_output}

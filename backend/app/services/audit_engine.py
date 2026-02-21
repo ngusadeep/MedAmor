@@ -90,6 +90,7 @@ def run_audit(
     # Convert orchestrator format to our schema format
     compliant = report_data.get("compliant", False)
     gaps = report_data.get("gaps", [])
+    close_calls = report_data.get("close_calls", [])
     evidence_items = report_data.get("evidence", [])
 
     # Build evidence and findings; align by index for score propagation
@@ -120,21 +121,45 @@ def run_audit(
         )
         corrective_actions.append(f"Address: {gap}")
 
-    # Apply sensitivity filter
-    findings, evidence = _apply_sensitivity_filter(findings, evidence, sens)
-    # Sync corrective_actions with filtered findings
-    corrective_actions = [f"Address: {f.description}" for f in findings]
+    # Append close calls as informational findings (resolved, harm_severity=0)
+    for cc in close_calls:
+        findings.append(
+            FindingItem(
+                category="Close Call",
+                description=cc,
+                urgency="info",
+                confidence=1.0,
+                harm_severity=0.0,
+            )
+        )
 
-    # Map status (NO_FINDINGS if compliant or all findings filtered out)
-    status = "NO_FINDINGS" if compliant or len(findings) == 0 else "FINDING_PRESENT"
+    # Apply sensitivity filter (close calls are excluded — they are always included)
+    active_findings = [f for f in findings if f.category != "Close Call"]
+    close_call_findings = [f for f in findings if f.category == "Close Call"]
+    active_findings, evidence = _apply_sensitivity_filter(active_findings, evidence, sens)
+    findings = active_findings + close_call_findings
 
-    # Create executive summary (use filtered findings count)
-    if compliant or len(findings) == 0:
-        executive_summary = "Patient care appears compliant with clinical guidelines."
+    # Sync corrective_actions with active (non-close-call) findings only
+    corrective_actions = [f"Address: {f.description}" for f in active_findings]
+
+    # Map status (NO_FINDINGS if compliant or all active findings filtered out)
+    status = "NO_FINDINGS" if compliant or len(active_findings) == 0 else "FINDING_PRESENT"
+
+    # Create executive summary
+    close_call_count = len(close_call_findings)
+    if compliant or len(active_findings) == 0:
+        if close_call_count:
+            executive_summary = (
+                f"Patient care is currently compliant with clinical guidelines. "
+                f"{close_call_count} close call{'s' if close_call_count != 1 else ''} noted for quality review."
+            )
+        else:
+            executive_summary = "Patient care appears compliant with clinical guidelines."
         risk_level = "low"
     else:
-        gap_count = len(findings)
-        executive_summary = f"Audit identified {gap_count} potential compliance gap{'s' if gap_count != 1 else ''} requiring attention."
+        gap_count = len(active_findings)
+        cc_note = f" ({close_call_count} close call{'s' if close_call_count != 1 else ''} also noted)" if close_call_count else ""
+        executive_summary = f"Audit identified {gap_count} potential compliance gap{'s' if gap_count != 1 else ''} requiring attention{cc_note}."
         risk_level = "high" if gap_count > 2 else "medium"
 
     return AuditReportCreate(

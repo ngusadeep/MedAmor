@@ -64,3 +64,4 @@ coverage/
 # Build and Docker (optional)
 # Uncomment if you don't want to track local build artifacts
 # *.tar
+vertex-sa-key.json
