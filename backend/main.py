@@ -10,7 +10,7 @@ from fastapi.middleware.cors import CORSMiddleware
 
 from app.core.config import settings
 from app.core.database import init_db
-from app.routers import audit_reports, auth, ehr, jobs, patients, rag
+from app.routers import audit_reports, auth, ehr, jobs, patients, rag, transcribe
 
 
 @asynccontextmanager
@@ -47,6 +47,7 @@ app.include_router(audit_reports.router, prefix="/api")
 app.include_router(ehr.router, prefix="/api")
 app.include_router(patients.router, prefix="/api")
 app.include_router(rag.router, prefix="/api")
+app.include_router(transcribe.router, prefix="/api")
 
 
 @app.get("/")

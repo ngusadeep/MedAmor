@@ -9,6 +9,8 @@ import { Main } from '@/components/layout/main'
 import { ProfileDropdown } from '@/components/profile-dropdown'
 import { Search } from '@/components/search'
 import { ThemeSwitch } from '@/components/theme-switch'
+import { VoiceDictationButton } from '@/components/voice-dictation-button'
+import { type ASRProvider } from '@/hooks/use-voice-recorder'
 import {
   Card,
   CardContent,
@@ -35,6 +37,7 @@ export function ReportDetailPage() {
   const queryClient = useQueryClient()
   const [annoFindingIndex, setAnnoFindingIndex] = useState(0)
   const [annoNote, setAnnoNote] = useState('')
+  const [asrProvider, setAsrProvider] = useState<ASRProvider>('medasr')
   const { data: report, isLoading, error } = useQuery({
     queryKey: ['audit-report', reportId],
     queryFn: () => getAuditReport(reportId),
@@ -314,13 +317,26 @@ export function ReportDetailPage() {
                 </div>
                 <div className='grid gap-1.5 flex-1 min-w-[200px]'>
                   <Label htmlFor='anno_note'>Note</Label>
-                  <Input
-                    id='anno_note'
-                    value={annoNote}
-                    onChange={(e) => setAnnoNote(e.target.value)}
-                    placeholder='Reviewer note…'
-                    disabled={createAnnotation.isPending}
-                  />
+                  <div className='flex items-center gap-2'>
+                    <Input
+                      id='anno_note'
+                      value={annoNote}
+                      onChange={(e) => setAnnoNote(e.target.value)}
+                      placeholder='Reviewer note… or use the mic to dictate'
+                      disabled={createAnnotation.isPending}
+                      className='flex-1'
+                    />
+                    <VoiceDictationButton
+                      provider={asrProvider}
+                      onProviderChange={setAsrProvider}
+                      onTranscript={(text) =>
+                        setAnnoNote((prev) =>
+                          prev ? `${prev} ${text}` : text
+                        )
+                      }
+                      disabled={createAnnotation.isPending}
+                    />
+                  </div>
                 </div>
                 <Button
                   type='submit'

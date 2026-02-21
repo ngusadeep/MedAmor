@@ -134,6 +134,11 @@ services:
       JWT_EXPIRE_MINUTES: ${JWT_EXPIRE_MINUTES}
       HOST: ${HOST}
       PORT: ${PORT}
+      ASR_PROVIDER: ${ASR_PROVIDER:-medasr}
+      MEDASR_HF_ENDPOINT: ${MEDASR_HF_ENDPOINT:-}
+      MEDASR_LOCAL_MODEL: ${MEDASR_LOCAL_MODEL:-google/medasr}
+      MEDASR_LOCAL_DEVICE: ${MEDASR_LOCAL_DEVICE:-cpu}
+      DEEPGRAM_API_KEY: ${DEEPGRAM_API_KEY:-}
     volumes:
       - chroma_data:/app/chroma_data
       - ./docs/Medical_KB:/app/docs/Medical_KB:ro

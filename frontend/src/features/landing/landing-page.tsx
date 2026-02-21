@@ -13,7 +13,7 @@ const howItWorks = [
   {
     step: 1,
     title: 'Connect EHR',
-    text: 'Point MedAudit at your EHR service or use our demo patient data.',
+    text: 'Point MedArmor at your EHR service or use our demo patient data.',
   },
   {
     step: 2,

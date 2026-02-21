@@ -109,6 +109,18 @@ class Settings(BaseSettings):
     # Medical KB path (optional - defaults to docs/Medical_KB)
     medical_kb_path: str | None = None
 
+    # ASR (voice dictation) provider: medasr | medasr_local | deepgram
+    asr_provider: Literal["medasr", "medasr_local", "deepgram"] = "medasr"
+    # MedASR via HuggingFace Inference API (reuses HF_TOKEN from MedGemma config)
+    medasr_hf_endpoint: str | None = None
+    # MedASR local: HuggingFace model ID to load with transformers pipeline
+    # google/medasr – Google's clinical ASR (HAI-DEF, requires accepting HF terms)
+    medasr_local_model: str = "google/medasr"
+    # Device for local inference: "cpu" | "cuda:0" | "mps"
+    medasr_local_device: str = "cpu"
+    # Deepgram API key (when asr_provider=deepgram)
+    deepgram_api_key: str | None = None
+
     @property
     def cors_origins_list(self) -> list[str]:
         return [o.strip() for o in self.allowed_origins.split(",") if o.strip()]

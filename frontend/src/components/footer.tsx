@@ -31,7 +31,7 @@ const Footer = () => {
         <div className="grid grid-cols-2 gap-x-8 gap-y-10 px-6 py-12 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 xl:grid-cols-7 xl:px-0">
           <div className="col-span-full xl:col-span-2">
             <Link to="/" className="font-semibold text-xl text-foreground">
-              MedAudit
+              MedArmor
             </Link>
             <p className="mt-4 text-muted-foreground">
               AI-assisted breast cancer screening compliance audits.
@@ -77,7 +77,7 @@ const Footer = () => {
         <div className="flex flex-col-reverse items-center justify-between gap-x-2 gap-y-5 px-6 py-8 sm:flex-row xl:px-0">
           <span className="text-muted-foreground">
             &copy; {new Date().getFullYear()}{' '}
-            <Link to="/">MedAudit</Link>. All rights reserved.
+            <Link to="/">MedArmor</Link>. All rights reserved.
           </span>
           <div className="flex items-center gap-5 text-muted-foreground">
             <a href="#" target="_blank" rel="noreferrer" aria-label="Twitter">
@@ -89,7 +89,7 @@ const Footer = () => {
             <a href="#" target="_blank" rel="noreferrer" aria-label="GitHub">
               <Github className="h-5 w-5" />
             </a>
-            <a href="mailto:contact@medaudit.example" aria-label="Contact">
+            <a href="mailto:contact@medarmor.example" aria-label="Contact">
               <Mail className="h-5 w-5" />
             </a>
           </div>

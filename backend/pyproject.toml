@@ -39,6 +39,13 @@ dependencies = [
     "langgraph>=0.2.0",
     # Observability (optional)
     "langsmith>=0.2.0",
+    # Local ASR (medasr_local provider): google/medasr via transformers pipeline.
+    # transformers>=5.0.0 is required by google/medasr (model card).
+    # librosa handles audio decoding (webm→16kHz mono float32) via ffmpeg/audioread.
+    # ffmpeg must be installed as a system package (see Dockerfile).
+    "transformers>=5.0.0",
+    "torch>=2.0.0",
+    "librosa>=0.10.0",
 ]
 
 [project.optional-dependencies]

@@ -26,7 +26,7 @@ export default function Hero() {
           <span className="text-primary">guideline-grounded</span>
         </h1>
         <p className="mt-6 text-foreground/80 md:text-lg">
-          MedAudit compares patient EHR data against clinical guidelines,
+          MedArmor compares patient EHR data against clinical guidelines,
           produces structured reports with findings and evidence, and keeps
           human review at the center with annotations and scheduled audits.
         </p>
