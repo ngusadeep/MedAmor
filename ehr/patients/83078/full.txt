@@ -1,0 +1,321 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Ms. Kimberlee228 Harriet337 Goldner995
+  Patient ID: 83078
+  Date of Birth: 1957-12-01
+  Gender: Female
+  Race: White
+  Ethnicity: Not Hispanic or Latino
+  Marital Status: Never Married
+  Address: 397 Rempel Overpass, Salem, MA 01907
+  Phone: 555-549-3116
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2017-01-22
+
+  [21:54:49] VISIT: General examination of patient (procedure)
+    Provider: Dr. Larisa542 Kris249
+    Location: HARBORLIGHT FAMILY MEDICINE, PC
+    Duration: 21:54:49 - 22:09:49
+
+  [21:54:49] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [21:54:49] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-01-22
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kimberlee228 is a 59 year-old nonhispanic white female.
+      # Social History
+
+  [21:54:49] DOCUMENT: History and physical note
+    Status: superseded
+
+  [22:09:49] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2018-01-28
+
+  [21:54:49] VISIT: General examination of patient (procedure)
+    Provider: Dr. Larisa542 Kris249
+    Location: HARBORLIGHT FAMILY MEDICINE, PC
+    Duration: 21:54:49 - 22:09:49
+
+  [21:54:49] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [21:54:49] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-01-28
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kimberlee228 is a 60 year-old nonhispanic white female.
+      # Social History
+
+  [21:54:49] DOCUMENT: History and physical note
+    Status: superseded
+
+  [22:09:49] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2019-02-03
+
+  [21:54:49] VISIT: General examination of patient (procedure)
+    Provider: Dr. Larisa542 Kris249
+    Location: HARBORLIGHT FAMILY MEDICINE, PC
+    Duration: 21:54:49 - 22:09:49
+
+  [21:54:49] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [21:54:49] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [21:54:49] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-02-03
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kimberlee228 is a 61 year-old nonhispanic white female.
+      # Social History
+
+  [21:54:49] DOCUMENT: History and physical note
+    Status: superseded
+
+  [22:09:49] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2020-02-09
+
+  [21:54:49] VISIT: General examination of patient (procedure)
+    Provider: Dr. Larisa542 Kris249
+    Location: HARBORLIGHT FAMILY MEDICINE, PC
+    Duration: 21:54:49 - 22:09:49
+
+  [21:54:49] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [21:54:49] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-02-09
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kimberlee228 is a 62 year-old nonhispanic white female.
+      # Social History
+
+  [21:54:49] DOCUMENT: History and physical note
+    Status: superseded
+
+  [22:09:49] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2021-02-14
+
+  [21:54:49] VISIT: General examination of patient (procedure)
+    Provider: Dr. Larisa542 Kris249
+    Location: HARBORLIGHT FAMILY MEDICINE, PC
+    Duration: 21:54:49 - 22:09:49
+
+  [21:54:49] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [21:54:49] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-02-14
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kimberlee228 is a 63 year-old nonhispanic white female.
+      # Social History
+
+  [21:54:49] DOCUMENT: History and physical note
+    Status: superseded
+
+  [22:09:49] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2021-06-20
+
+  [22:54:49] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Trevor374 Walker122
+    Location: NORTH SHORE MEDICAL CENTER INC
+    Duration: 22:54:49 - 23:09:49
+
+  [22:54:49] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+    Status: completed
+
+  [22:54:49] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-06-20
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kimberlee228 is a 63 year-old nonhispanic white female.
+      # Social History
+
+  [22:54:49] DOCUMENT: History and physical note
+    Status: superseded
+
+  [23:09:49] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-07-18
+
+  [22:54:49] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Trevor374 Walker122
+    Location: NORTH SHORE MEDICAL CENTER INC
+    Duration: 22:54:49 - 23:09:49
+
+  [22:54:49] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+    Status: completed
+
+  [22:54:49] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-07-18
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kimberlee228 is a 63 year-old nonhispanic white female.
+      # Social History
+
+  [22:54:49] DOCUMENT: History and physical note
+    Status: superseded
+
+  [23:09:49] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2022-02-20
+
+  [21:54:49] VISIT: General examination of patient (procedure)
+    Provider: Dr. Larisa542 Kris249
+    Location: HARBORLIGHT FAMILY MEDICINE, PC
+    Duration: 21:54:49 - 22:09:49
+
+  [21:54:49] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [21:54:49] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-02-20
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kimberlee228 is a 64 year-old nonhispanic white female.
+      # Social History
+
+  [21:54:49] DOCUMENT: History and physical note
+    Status: superseded
+
+  [22:09:49] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2023-02-26
+
+  [21:54:49] VISIT: General examination of patient (procedure)
+    Provider: Dr. Larisa542 Kris249
+    Location: HARBORLIGHT FAMILY MEDICINE, PC
+    Duration: 21:54:49 - 22:09:49
+
+  [21:54:49] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [21:54:49] IMMUNIZATION: Pneumococcal conjugate PCV 13
+    Status: completed
+
+  [21:54:49] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-02-26
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kimberlee228 is a 65 year-old nonhispanic white female.
+      # Social History
+
+  [21:54:49] DOCUMENT: History and physical note
+    Status: superseded
+
+  [22:09:49] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2024-03-03
+
+  [21:54:49] VISIT: General examination of patient (procedure)
+    Provider: Dr. Larisa542 Kris249
+    Location: HARBORLIGHT FAMILY MEDICINE, PC
+    Duration: 21:54:49 - 22:09:49
+
+  [21:54:49] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [21:54:49] IMMUNIZATION: pneumococcal polysaccharide vaccine, 23 valent
+    Status: completed
+
+  [21:54:49] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-03-03
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kimberlee228 is a 66 year-old nonhispanic white female.
+      # Social History
+
+  [21:54:49] DOCUMENT: History and physical note
+    Status: superseded
+
+  [22:09:49] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2025-03-09
+
+  [22:54:49] VISIT: General examination of patient (procedure)
+    Provider: Dr. Larisa542 Kris249
+    Location: HARBORLIGHT FAMILY MEDICINE, PC
+    Duration: 22:54:49 - 23:09:49
+
+  [22:54:49] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [22:54:49] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-03-09
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kimberlee228 is a 67 year-old nonhispanic white female.
+      # Social History
+
+  [22:54:49] DOCUMENT: History and physical note
+    Status: current
+
+  [23:09:49] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2026-02-15
+
+  [21:54:49] PROVENANCE: Record activity
+    Agents: Dr. Larisa542 Kris249, Dr. Larisa542 Kris249
+
+================================================================================
+END OF TIMELINE (59 events)
+================================================================================

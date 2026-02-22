@@ -1,0 +1,136 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Mrs. Jayme42 Soila394 Waelchi213
+  Patient ID: 66663
+  Date of Birth: 1985-01-19
+  Gender: Female
+  Race: White
+  Ethnicity: Not Hispanic or Latino
+  Marital Status: Married
+  Address: 904 Block Bridge, Wayland, MA 00000
+  Phone: 555-275-9883
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2016-04-02
+
+  [07:47:09] VISIT: General examination of patient (procedure)
+    Provider: Dr. Irene779 Kirlin939
+    Location: NEEDHAM FAMILY PRACTICE ASSOC. P.C.
+    Duration: 07:47:09 - 08:02:09
+
+  [07:47:09] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [07:47:09] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [07:47:09] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-04-02
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Jayme42 Soila394 is a 31 year-old nonhispanic white female.
+      # Social History
+
+  [07:47:09] DOCUMENT: History and physical note
+    Status: superseded
+
+  [08:02:09] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2019-04-06
+
+  [07:47:09] VISIT: General examination of patient (procedure)
+    Provider: Dr. Irene779 Kirlin939
+    Location: NEEDHAM FAMILY PRACTICE ASSOC. P.C.
+    Duration: 07:47:09 - 08:02:09
+
+  [07:47:09] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [07:47:09] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-04-06
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Jayme42 Soila394 is a 34 year-old nonhispanic white female.
+      # Social History
+
+  [07:47:09] DOCUMENT: History and physical note
+    Status: superseded
+
+  [08:02:09] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2022-04-09
+
+  [07:47:09] VISIT: General examination of patient (procedure)
+    Provider: Dr. Irene779 Kirlin939
+    Location: NEEDHAM FAMILY PRACTICE ASSOC. P.C.
+    Duration: 07:47:09 - 08:02:09
+
+  [07:47:09] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [07:47:09] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-04-09
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Jayme42 Soila394 is a 37 year-old nonhispanic white female.
+      # Social History
+
+  [07:47:09] DOCUMENT: History and physical note
+    Status: superseded
+
+  [08:02:09] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2025-01-25
+
+  [06:47:09] VISIT: General examination of patient (procedure)
+    Provider: Dr. Irene779 Kirlin939
+    Location: NEEDHAM FAMILY PRACTICE ASSOC. P.C.
+    Duration: 06:47:09 - 07:02:09
+
+  [06:47:09] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [06:47:09] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [06:47:09] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-01-25
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Jayme42 Soila394 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [06:47:09] DOCUMENT: History and physical note
+    Status: current
+
+  [07:02:09] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2026-02-14
+
+  [06:47:09] PROVENANCE: Record activity
+    Agents: Dr. Irene779 Kirlin939, Dr. Irene779 Kirlin939
+
+================================================================================
+END OF TIMELINE (23 events)
+================================================================================

@@ -1,0 +1,139 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Ms. Charlyn749 Irena775 Cassin499
+  Patient ID: 27225
+  Date of Birth: 1980-12-22
+  Gender: Female
+  Race: White
+  Ethnicity: Not Hispanic or Latino
+  Marital Status: Never Married
+  Address: 1050 Walter Way, West Concord, MA 00000
+  Phone: 555-425-2148
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2018-03-12
+
+  [06:11:55] VISIT: General examination of patient (procedure)
+    Provider: Dr. Hedwig986 Wiza601
+    Location: CONCORD INTERNAL MEDICINE ASSOCIATES, P.C.
+    Duration: 06:11:55 - 06:26:55
+
+  [06:11:55] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [06:11:55] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-03-12
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Charlyn749 is a 37 year-old nonhispanic white female.
+      # Social History
+
+  [06:11:55] DOCUMENT: History and physical note
+    Status: superseded
+
+  [06:26:55] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2020-12-28
+
+  [05:11:55] VISIT: General examination of patient (procedure)
+    Provider: Dr. Hedwig986 Wiza601
+    Location: CONCORD INTERNAL MEDICINE ASSOCIATES, P.C.
+    Duration: 05:11:55 - 05:26:55
+
+  [05:11:55] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [05:11:55] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [05:11:55] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-12-28
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Charlyn749 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [05:11:55] DOCUMENT: History and physical note
+    Status: superseded
+
+  [05:26:55] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2023-01-02
+
+  [05:11:55] VISIT: General examination of patient (procedure)
+    Provider: Dr. Hedwig986 Wiza601
+    Location: CONCORD INTERNAL MEDICINE ASSOCIATES, P.C.
+    Duration: 05:11:55 - 05:26:55
+
+  [05:11:55] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [05:11:55] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [05:11:55] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [05:11:55] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-01-02
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Charlyn749 is a 42 year-old nonhispanic white female.
+      # Social History
+
+  [05:11:55] DOCUMENT: History and physical note
+    Status: superseded
+
+  [05:26:55] CLAIM: professional
+    Amount: USD 544.80
+
+
+📅 2025-01-06
+
+  [05:11:55] VISIT: General examination of patient (procedure)
+    Provider: Dr. Hedwig986 Wiza601
+    Location: CONCORD INTERNAL MEDICINE ASSOCIATES, P.C.
+    Duration: 05:11:55 - 05:26:55
+
+  [05:11:55] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [05:11:55] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-01-06
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Charlyn749 is a 44 year-old nonhispanic white female.
+      # Social History
+
+  [05:11:55] DOCUMENT: History and physical note
+    Status: current
+
+  [05:26:55] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2026-02-16
+
+  [05:11:55] PROVENANCE: Record activity
+    Agents: Dr. Hedwig986 Wiza601, Dr. Hedwig986 Wiza601
+
+================================================================================
+END OF TIMELINE (24 events)
+================================================================================

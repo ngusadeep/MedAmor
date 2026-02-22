@@ -1,0 +1,2386 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Ms. Kaleigh347 Lakeshia836 Hilll811
+  Patient ID: 75161
+  Date of Birth: 1965-05-24
+  Gender: Female
+  Race: White
+  Ethnicity: Not Hispanic or Latino
+  Marital Status: Never Married
+  Address: 324 Ritchie Frontage road Apt 17, Webster, MA 01570
+  Phone: 555-947-5076
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2016-05-30
+
+  [02:42:16] VISIT: General examination of patient (procedure)
+    Provider: Dr. Monte325 Parisian75
+    Location: RENAISSANCE PRIMARY CARE LLC
+    Duration: 02:42:16 - 02:57:16
+
+  [02:42:16] IMMUNIZATION: zoster vaccine, live
+    Status: completed
+
+  [02:42:16] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [02:42:16] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [02:42:16] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-05-30
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kaleigh347 is a 51 year-old nonhispanic white female.
+      # Social History
+
+  [02:42:16] DOCUMENT: History and physical note
+    Status: superseded
+
+  [02:57:16] CLAIM: professional
+    Amount: USD 544.80
+
+
+📅 2017-06-05
+
+  [02:42:16] VISIT: General examination of patient (procedure)
+    Provider: Dr. Monte325 Parisian75
+    Location: RENAISSANCE PRIMARY CARE LLC
+    Duration: 02:42:16 - 02:57:16
+
+  [02:42:16] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [02:42:16] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-06-05
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kaleigh347 is a 52 year-old nonhispanic white female.
+      # Social History
+
+  [02:42:16] DOCUMENT: History and physical note
+    Status: superseded
+
+  [02:57:16] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2018-06-11
+
+  [02:42:16] VISIT: General examination of patient (procedure)
+    Provider: Dr. Monte325 Parisian75
+    Location: RENAISSANCE PRIMARY CARE LLC
+    Duration: 02:42:16 - 02:57:16
+
+  [02:42:16] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [02:42:16] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-06-11
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kaleigh347 is a 53 year-old nonhispanic white female.
+      # Social History
+
+  [02:42:16] DOCUMENT: History and physical note
+    Status: superseded
+
+  [02:57:16] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2019-06-17
+
+  [02:42:16] VISIT: General examination of patient (procedure)
+    Provider: Dr. Monte325 Parisian75
+    Location: RENAISSANCE PRIMARY CARE LLC
+    Duration: 02:42:16 - 02:57:16
+
+  [02:42:16] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [02:42:16] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-06-17
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kaleigh347 is a 54 year-old nonhispanic white female.
+      # Social History
+
+  [02:42:16] DOCUMENT: History and physical note
+    Status: superseded
+
+  [02:57:16] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2020-04-11
+
+  [02:42:16] VISIT: Periodic reevaluation and management of healthy individual (procedure)
+    Reason: Screening for malignant neoplasm of breast (procedure)
+    Provider: Dr. Rhett759 Padberg411
+    Location: VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+    Duration: 02:42:16 - 07:46:32
+
+  [02:42:16] PROCEDURE: Screening mammography (procedure)
+    Status: completed
+
+  [02:42:16] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-04-11
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kaleigh347 is a 54 year-old nonhispanic white female.
+      # Social History
+
+  [02:42:16] DOCUMENT: History and physical note
+    Status: superseded
+
+  [03:04:59] PROCEDURE: Ultrasonography of bilateral breasts (procedure)
+    Status: completed
+
+  [03:34:48] PROCEDURE: Biopsy of breast (procedure)
+    Status: completed
+
+  [04:05:32] CONDITION: Malignant neoplasm of breast (disorder) (active)
+
+  [04:05:32] OBSERVATION: Site of distant metastasis in Breast tumor: None (qualifier value)
+
+  [04:05:32] OBSERVATION: Distant metastases.clinical [Class] Cancer: American Joint Committee on Cancer cM0 (qualifier value)
+
+  [04:05:32] OBSERVATION: Size.maximum dimension in Tumor: 5.9068 cm
+
+  [04:05:32] OBSERVATION: Primary tumor.clinical [Class] Cancer: American Joint Committee on Cancer cT3 (qualifier value)
+
+  [04:05:32] OBSERVATION: Lymph nodes with micrometastases [#] in Cancer specimen by Light microscopy: 1.0451 {#}
+
+  [04:05:32] OBSERVATION: Regional lymph nodes.clinical [Class] Cancer: American Joint Committee on Cancer cN1 (qualifier value)
+
+  [04:05:32] PROCEDURE: Human epidermal growth factor receptor 2 gene detection by fluorescence in situ hybridization (procedure)
+    Status: completed
+
+
+📅 2020-04-12
+
+  [04:05:32] PROCEDURE: Human epidermal growth factor receptor 2 gene detection by immunohistochemistry (procedure)
+    Status: completed
+
+  [07:46:32] OBSERVATION: HER2 [Presence] in Breast cancer specimen by Immune stain: Negative (qualifier value)
+
+  [07:46:32] OBSERVATION: ERBB2 gene duplication [Presence] in Breast cancer specimen by FISH: less than 1.8
+
+  [07:46:32] OBSERVATION: Estrogen receptor Ag [Presence] in Breast cancer specimen by Immune stain: Negative (qualifier value)
+
+  [07:46:32] OBSERVATION: Progesterone receptor Ag [Presence] in Breast cancer specimen by Immune stain: Positive (qualifier value)
+
+  [07:46:32] OBSERVATION: Stage group.clinical Cancer: American Joint Committee on Cancer stage IIIA (qualifier value)
+
+  [07:46:32] OBSERVATION: Stage group.clinical Cancer: Stage 3 (qualifier value)
+
+  [07:46:32] CLAIM: professional
+    Amount: USD 7096.58
+
+
+📅 2020-04-15
+
+  [09:46:32] VISIT: Discussion about treatment (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Rhett759 Padberg411
+    Location: VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+    Duration: 09:46:32 - 10:40:23
+
+  [09:46:32] PROCEDURE: Discussion about options (procedure)
+    Status: completed
+
+  [09:46:32] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-04-15
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kaleigh347 is a 54 year-old nonhispanic white female.
+      # Social History
+
+  [09:46:32] DOCUMENT: History and physical note
+    Status: superseded
+
+  [10:40:23] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2020-04-17
+
+  [12:40:23] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Rhett759 Padberg411
+    Location: VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+    Duration: 12:40:23 - 16:07:06
+
+  [12:40:23] PROCEDURE: Chemotherapy (procedure)
+    Status: completed
+
+  [12:40:23] MEDICATION PRESCRIBED: Unknown medication
+    Status: completed
+    Prescribed by: Dr. Rhett759 Padberg411
+
+  [12:40:23] MEDICATION ADMINISTERED: Paclitaxel 100 MG Injection
+    Status: completed
+
+  [12:40:23] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-04-17
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kaleigh347 is a 54 year-old nonhispanic white female.
+      # Social History
+
+  [12:40:23] DOCUMENT: History and physical note
+    Status: superseded
+
+  [16:07:06] CLAIM: pharmacy
+    Amount: USD 0.91
+
+  [16:07:06] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2020-05-09
+
+  [19:07:06] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Rhett759 Padberg411
+    Location: VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+    Duration: 19:07:06 - 21:00:49
+
+  [19:07:06] PROCEDURE: Chemotherapy (procedure)
+    Status: completed
+
+  [19:07:06] MEDICATION PRESCRIBED: Unknown medication
+    Status: completed
+    Prescribed by: Dr. Rhett759 Padberg411
+
+  [19:07:06] MEDICATION ADMINISTERED: Paclitaxel 100 MG Injection
+    Status: completed
+
+  [19:07:06] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-05-09
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kaleigh347 is a 54 year-old nonhispanic white female.
+      # Social History
+
+  [19:07:06] DOCUMENT: History and physical note
+    Status: superseded
+
+  [21:00:49] CLAIM: pharmacy
+    Amount: USD 1.20
+
+  [21:00:49] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2020-05-31
+
+  [18:00:49] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Rhett759 Padberg411
+    Location: VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+    Duration: 18:00:49 - 19:45:17
+
+  [18:00:49] PROCEDURE: Chemotherapy (procedure)
+    Status: completed
+
+  [18:00:49] MEDICATION PRESCRIBED: Unknown medication
+    Status: completed
+    Prescribed by: Dr. Rhett759 Padberg411
+
+  [18:00:49] MEDICATION ADMINISTERED: Paclitaxel 100 MG Injection
+    Status: completed
+
+  [18:00:49] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-05-31
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kaleigh347 is a 55 year-old nonhispanic white female.
+      # Social History
+
+  [18:00:49] DOCUMENT: History and physical note
+    Status: superseded
+
+  [19:45:17] CLAIM: pharmacy
+    Amount: USD 0.91
+
+  [19:45:17] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2020-06-22
+
+  [02:42:16] VISIT: General examination of patient (procedure)
+    Provider: Dr. Monte325 Parisian75
+    Location: RENAISSANCE PRIMARY CARE LLC
+    Duration: 02:42:16 - 02:57:16
+
+  [02:42:16] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [02:42:16] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-06-22
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kaleigh347 is a 55 year-old nonhispanic white female.
+      # Social History
+
+  [02:42:16] DOCUMENT: History and physical note
+    Status: superseded
+
+  [02:57:16] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2020-06-23
+
+  [02:45:17] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Rhett759 Padberg411
+    Location: VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+    Duration: 02:45:17 - 05:52:41
+
+  [02:45:17] PROCEDURE: Chemotherapy (procedure)
+    Status: completed
+
+  [02:45:17] MEDICATION PRESCRIBED: Unknown medication
+    Status: completed
+    Prescribed by: Dr. Rhett759 Padberg411
+
+  [02:45:17] MEDICATION ADMINISTERED: Paclitaxel 100 MG Injection
+    Status: completed
+
+  [02:45:17] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-06-23
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kaleigh347 is a 55 year-old nonhispanic white female.
+      # Social History
+
+  [02:45:17] DOCUMENT: History and physical note
+    Status: superseded
+
+  [05:52:41] CLAIM: pharmacy
+    Amount: USD 0.91
+
+  [05:52:41] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2020-07-14
+
+  [03:52:41] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Rhett759 Padberg411
+    Location: VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+    Duration: 03:52:41 - 04:30:14
+
+  [03:52:41] PROCEDURE: Chemotherapy (procedure)
+    Status: completed
+
+  [03:52:41] MEDICATION PRESCRIBED: Unknown medication
+    Status: completed
+    Prescribed by: Dr. Rhett759 Padberg411
+
+  [03:52:41] MEDICATION ADMINISTERED: Paclitaxel 100 MG Injection
+    Status: completed
+
+  [03:52:41] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-07-14
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kaleigh347 is a 55 year-old nonhispanic white female.
+      # Social History
+
+  [03:52:41] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:30:14] CLAIM: pharmacy
+    Amount: USD 0.91
+
+  [04:30:14] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2020-08-04
+
+  [13:30:14] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Rhett759 Padberg411
+    Location: VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+    Duration: 13:30:14 - 14:17:46
+
+  [13:30:14] PROCEDURE: Chemotherapy (procedure)
+    Status: completed
+
+  [13:30:14] MEDICATION PRESCRIBED: Unknown medication
+    Status: completed
+    Prescribed by: Dr. Rhett759 Padberg411
+
+  [13:30:14] MEDICATION ADMINISTERED: Paclitaxel 100 MG Injection
+    Status: completed
+
+  [13:30:14] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-08-04
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kaleigh347 is a 55 year-old nonhispanic white female.
+      # Social History
+
+  [13:30:14] DOCUMENT: History and physical note
+    Status: superseded
+
+  [14:17:46] CLAIM: pharmacy
+    Amount: USD 3.65
+
+  [14:17:46] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2020-08-27
+
+  [00:17:46] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Rhett759 Padberg411
+    Location: VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+    Duration: 00:17:46 - 01:56:48
+
+  [00:17:46] PROCEDURE: Chemotherapy (procedure)
+    Status: completed
+
+  [00:17:46] MEDICATION PRESCRIBED: Unknown medication
+    Status: completed
+    Prescribed by: Dr. Rhett759 Padberg411
+
+  [00:17:46] MEDICATION ADMINISTERED: Paclitaxel 100 MG Injection
+    Status: completed
+
+  [00:17:46] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-08-27
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kaleigh347 is a 55 year-old nonhispanic white female.
+      # Social History
+
+  [00:17:46] DOCUMENT: History and physical note
+    Status: superseded
+
+  [01:56:48] CLAIM: pharmacy
+    Amount: USD 2.44
+
+  [01:56:48] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2020-09-18
+
+  [00:56:48] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Rhett759 Padberg411
+    Location: VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+    Duration: 00:56:48 - 04:35:18
+
+  [00:56:48] PROCEDURE: Chemotherapy (procedure)
+    Status: completed
+
+  [00:56:48] MEDICATION PRESCRIBED: Unknown medication
+    Status: completed
+    Prescribed by: Dr. Rhett759 Padberg411
+
+  [00:56:48] MEDICATION ADMINISTERED: Paclitaxel 100 MG Injection
+    Status: completed
+
+  [00:56:48] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-09-18
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kaleigh347 is a 55 year-old nonhispanic white female.
+      # Social History
+
+  [00:56:48] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:35:18] CLAIM: pharmacy
+    Amount: USD 3.65
+
+  [04:35:18] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2020-10-19
+
+  [04:35:18] OBSERVATION: Response to cancer treatment: Improving (qualifier value)
+
+  [04:35:18] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Rhett759 Padberg411
+    Location: VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+    Duration: 04:35:18 - 07:23:05
+
+  [04:35:18] PROCEDURE: Excision of axillary lymph node (procedure)
+    Status: completed
+
+  [04:35:18] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-10-19
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kaleigh347 is a 55 year-old nonhispanic white female.
+      # Social History
+
+  [04:35:18] DOCUMENT: History and physical note
+    Status: superseded
+
+  [06:58:53] PROCEDURE: Lumpectomy of breast (procedure)
+    Status: completed
+
+
+📅 2020-10-23
+
+  [07:23:05] CLAIM: institutional
+    Amount: USD 33542.69
+
+
+📅 2020-10-30
+
+  [03:23:05] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Rhett759 Padberg411
+    Location: VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+    Duration: 03:23:05 - 03:49:29
+
+  [03:23:05] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [03:23:05] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-10-30
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kaleigh347 is a 55 year-old nonhispanic white female.
+      # Social History
+
+  [03:23:05] DOCUMENT: History and physical note
+    Status: superseded
+
+  [03:49:29] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2020-10-31
+
+  [06:32:29] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Rhett759 Padberg411
+    Location: VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+    Duration: 06:32:29 - 07:07:40
+
+  [06:32:29] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [06:32:29] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-10-31
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kaleigh347 is a 55 year-old nonhispanic white female.
+      # Social History
+
+  [06:32:29] DOCUMENT: History and physical note
+    Status: superseded
+
+  [07:07:40] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2020-11-01
+
+  [11:26:40] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Rhett759 Padberg411
+    Location: VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+    Duration: 11:26:40 - 11:47:27
+
+  [11:26:40] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [11:26:40] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-11-01
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kaleigh347 is a 55 year-old nonhispanic white female.
+      # Social History
+
+  [11:26:40] DOCUMENT: History and physical note
+    Status: superseded
+
+  [11:47:27] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2020-11-02
+
+  [22:15:27] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Rhett759 Padberg411
+    Location: VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+    Duration: 22:15:27 - 22:43:56
+
+  [22:15:27] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [22:15:27] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-11-02
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kaleigh347 is a 55 year-old nonhispanic white female.
+      # Social History
+
+  [22:15:27] DOCUMENT: History and physical note
+    Status: superseded
+
+  [22:43:56] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2020-11-04
+
+  [00:05:56] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Rhett759 Padberg411
+    Location: VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+    Duration: 00:05:56 - 00:21:43
+
+  [00:05:56] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [00:05:56] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-11-04
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kaleigh347 is a 55 year-old nonhispanic white female.
+      # Social History
+
+  [00:05:56] DOCUMENT: History and physical note
+    Status: superseded
+
+  [00:21:43] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2020-11-05
+
+  [05:41:43] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Rhett759 Padberg411
+    Location: VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+    Duration: 05:41:43 - 06:12:53
+
+  [05:41:43] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [05:41:43] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-11-05
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kaleigh347 is a 55 year-old nonhispanic white female.
+      # Social History
+
+  [05:41:43] DOCUMENT: History and physical note
+    Status: superseded
+
+  [06:12:53] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2020-11-06
+
+  [09:10:53] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Rhett759 Padberg411
+    Location: VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+    Duration: 09:10:53 - 09:37:36
+
+  [09:10:53] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [09:10:53] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-11-06
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kaleigh347 is a 55 year-old nonhispanic white female.
+      # Social History
+
+  [09:10:53] DOCUMENT: History and physical note
+    Status: superseded
+
+  [09:37:36] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2020-11-07
+
+  [16:40:36] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Rhett759 Padberg411
+    Location: VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+    Duration: 16:40:36 - 17:08:07
+
+  [16:40:36] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [16:40:36] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-11-07
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kaleigh347 is a 55 year-old nonhispanic white female.
+      # Social History
+
+  [16:40:36] DOCUMENT: History and physical note
+    Status: superseded
+
+  [17:08:07] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2020-11-09
+
+  [02:37:07] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Rhett759 Padberg411
+    Location: VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+    Duration: 02:37:07 - 03:17:01
+
+  [02:37:07] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [02:37:07] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-11-09
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kaleigh347 is a 55 year-old nonhispanic white female.
+      # Social History
+
+  [02:37:07] DOCUMENT: History and physical note
+    Status: superseded
+
+  [03:17:01] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2020-11-10
+
+  [12:23:01] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Rhett759 Padberg411
+    Location: VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+    Duration: 12:23:01 - 12:39:09
+
+  [12:23:01] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [12:23:01] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-11-10
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kaleigh347 is a 55 year-old nonhispanic white female.
+      # Social History
+
+  [12:23:01] DOCUMENT: History and physical note
+    Status: superseded
+
+  [12:39:09] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2020-11-11
+
+  [22:18:09] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Rhett759 Padberg411
+    Location: VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+    Duration: 22:18:09 - 22:37:22
+
+  [22:18:09] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [22:18:09] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-11-11
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kaleigh347 is a 55 year-old nonhispanic white female.
+      # Social History
+
+  [22:18:09] DOCUMENT: History and physical note
+    Status: superseded
+
+  [22:37:22] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2020-11-13
+
+  [02:08:22] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Rhett759 Padberg411
+    Location: VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+    Duration: 02:08:22 - 02:47:30
+
+  [02:08:22] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [02:08:22] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-11-13
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kaleigh347 is a 55 year-old nonhispanic white female.
+      # Social History
+
+  [02:08:22] DOCUMENT: History and physical note
+    Status: superseded
+
+  [02:47:30] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2020-11-14
+
+  [07:11:30] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Rhett759 Padberg411
+    Location: VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+    Duration: 07:11:30 - 07:48:48
+
+  [07:11:30] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [07:11:30] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-11-14
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kaleigh347 is a 55 year-old nonhispanic white female.
+      # Social History
+
+  [07:11:30] DOCUMENT: History and physical note
+    Status: superseded
+
+  [07:48:48] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2020-11-15
+
+  [08:33:48] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Rhett759 Padberg411
+    Location: VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+    Duration: 08:33:48 - 09:09:12
+
+  [08:33:48] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [08:33:48] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-11-15
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kaleigh347 is a 55 year-old nonhispanic white female.
+      # Social History
+
+  [08:33:48] DOCUMENT: History and physical note
+    Status: superseded
+
+  [09:09:12] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2020-11-16
+
+  [14:52:12] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Rhett759 Padberg411
+    Location: VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+    Duration: 14:52:12 - 15:26:53
+
+  [14:52:12] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [14:52:12] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-11-16
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kaleigh347 is a 55 year-old nonhispanic white female.
+      # Social History
+
+  [14:52:12] DOCUMENT: History and physical note
+    Status: superseded
+
+  [15:26:53] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2020-11-17
+
+  [22:39:53] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Rhett759 Padberg411
+    Location: VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+    Duration: 22:39:53 - 23:14:44
+
+  [22:39:53] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [22:39:53] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-11-17
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kaleigh347 is a 55 year-old nonhispanic white female.
+      # Social History
+
+  [22:39:53] DOCUMENT: History and physical note
+    Status: superseded
+
+  [23:14:44] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2020-11-19
+
+  [05:08:44] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Rhett759 Padberg411
+    Location: VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+    Duration: 05:08:44 - 05:38:25
+
+  [05:08:44] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [05:08:44] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-11-19
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kaleigh347 is a 55 year-old nonhispanic white female.
+      # Social History
+
+  [05:08:44] DOCUMENT: History and physical note
+    Status: superseded
+
+  [05:38:25] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2020-11-20
+
+  [14:04:25] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Rhett759 Padberg411
+    Location: VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+    Duration: 14:04:25 - 14:40:11
+
+  [14:04:25] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [14:04:25] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-11-20
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kaleigh347 is a 55 year-old nonhispanic white female.
+      # Social History
+
+  [14:04:25] DOCUMENT: History and physical note
+    Status: superseded
+
+  [14:40:11] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2020-11-21
+
+  [20:39:11] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Rhett759 Padberg411
+    Location: VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+    Duration: 20:39:11 - 21:10:40
+
+  [20:39:11] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [20:39:11] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-11-21
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kaleigh347 is a 55 year-old nonhispanic white female.
+      # Social History
+
+  [20:39:11] DOCUMENT: History and physical note
+    Status: superseded
+
+  [21:10:40] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2020-11-23
+
+  [07:08:40] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Rhett759 Padberg411
+    Location: VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+    Duration: 07:08:40 - 07:43:06
+
+  [07:08:40] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [07:08:40] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-11-23
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kaleigh347 is a 55 year-old nonhispanic white female.
+      # Social History
+
+  [07:08:40] DOCUMENT: History and physical note
+    Status: superseded
+
+  [07:43:06] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2020-11-24
+
+  [13:06:06] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Rhett759 Padberg411
+    Location: VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+    Duration: 13:06:06 - 13:29:32
+
+  [13:06:06] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [13:06:06] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-11-24
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kaleigh347 is a 55 year-old nonhispanic white female.
+      # Social History
+
+  [13:06:06] DOCUMENT: History and physical note
+    Status: superseded
+
+  [13:29:32] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2020-11-26
+
+  [00:48:32] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Rhett759 Padberg411
+    Location: VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+    Duration: 00:48:32 - 01:09:37
+
+  [00:48:32] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [00:48:32] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-11-26
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kaleigh347 is a 55 year-old nonhispanic white female.
+      # Social History
+
+  [00:48:32] DOCUMENT: History and physical note
+    Status: superseded
+
+  [01:09:37] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2020-11-27
+
+  [05:46:37] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Rhett759 Padberg411
+    Location: VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+    Duration: 05:46:37 - 06:18:45
+
+  [05:46:37] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [05:46:37] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-11-27
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kaleigh347 is a 55 year-old nonhispanic white female.
+      # Social History
+
+  [05:46:37] DOCUMENT: History and physical note
+    Status: superseded
+
+  [06:18:45] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2020-11-28
+
+  [11:48:45] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Rhett759 Padberg411
+    Location: VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+    Duration: 11:48:45 - 12:08:19
+
+  [11:48:45] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [11:48:45] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-11-28
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kaleigh347 is a 55 year-old nonhispanic white female.
+      # Social History
+
+  [11:48:45] DOCUMENT: History and physical note
+    Status: superseded
+
+  [12:08:19] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2020-11-29
+
+  [21:24:19] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Rhett759 Padberg411
+    Location: VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+    Duration: 21:24:19 - 21:57:09
+
+  [21:24:19] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [21:24:19] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-11-29
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kaleigh347 is a 55 year-old nonhispanic white female.
+      # Social History
+
+  [21:24:19] DOCUMENT: History and physical note
+    Status: superseded
+
+  [21:57:09] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2020-12-01
+
+  [05:44:09] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Rhett759 Padberg411
+    Location: VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+    Duration: 05:44:09 - 06:14:34
+
+  [05:44:09] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [05:44:09] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-12-01
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kaleigh347 is a 55 year-old nonhispanic white female.
+      # Social History
+
+  [05:44:09] DOCUMENT: History and physical note
+    Status: superseded
+
+  [06:14:34] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2020-12-02
+
+  [11:24:34] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Rhett759 Padberg411
+    Location: VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+    Duration: 11:24:34 - 12:03:33
+
+  [11:24:34] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [11:24:34] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-12-02
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kaleigh347 is a 55 year-old nonhispanic white female.
+      # Social History
+
+  [11:24:34] DOCUMENT: History and physical note
+    Status: superseded
+
+  [12:03:33] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2020-12-03
+
+  [19:59:33] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Rhett759 Padberg411
+    Location: VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+    Duration: 19:59:33 - 20:24:06
+
+  [19:59:33] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [19:59:33] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-12-03
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kaleigh347 is a 55 year-old nonhispanic white female.
+      # Social History
+
+  [19:59:33] DOCUMENT: History and physical note
+    Status: superseded
+
+  [20:24:06] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2020-12-04
+
+  [23:52:06] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Rhett759 Padberg411
+    Location: VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+    Duration: 23:52:06 - 00:32:04
+
+  [23:52:06] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [23:52:06] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-12-04
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kaleigh347 is a 55 year-old nonhispanic white female.
+      # Social History
+
+  [23:52:06] DOCUMENT: History and physical note
+    Status: superseded
+
+
+📅 2020-12-05
+
+  [00:32:04] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2020-12-06
+
+  [11:06:04] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Rhett759 Padberg411
+    Location: VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+    Duration: 11:06:04 - 11:33:39
+
+  [11:06:04] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [11:06:04] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-12-06
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kaleigh347 is a 55 year-old nonhispanic white female.
+      # Social History
+
+  [11:06:04] DOCUMENT: History and physical note
+    Status: superseded
+
+  [11:33:39] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2020-12-07
+
+  [13:00:39] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Rhett759 Padberg411
+    Location: VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+    Duration: 13:00:39 - 13:29:43
+
+  [13:00:39] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [13:00:39] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-12-07
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kaleigh347 is a 55 year-old nonhispanic white female.
+      # Social History
+
+  [13:00:39] DOCUMENT: History and physical note
+    Status: superseded
+
+  [13:29:43] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2020-12-08
+
+  [20:35:43] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Rhett759 Padberg411
+    Location: VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+    Duration: 20:35:43 - 20:57:55
+
+  [20:35:43] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [20:35:43] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-12-08
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kaleigh347 is a 55 year-old nonhispanic white female.
+      # Social History
+
+  [20:35:43] DOCUMENT: History and physical note
+    Status: superseded
+
+  [20:57:55] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2020-12-09
+
+  [22:48:55] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Rhett759 Padberg411
+    Location: VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+    Duration: 22:48:55 - 23:25:30
+
+  [22:48:55] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [22:48:55] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-12-09
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kaleigh347 is a 55 year-old nonhispanic white female.
+      # Social History
+
+  [22:48:55] DOCUMENT: History and physical note
+    Status: superseded
+
+  [23:25:30] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2020-12-10
+
+  [23:45:30] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Rhett759 Padberg411
+    Location: VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+    Duration: 23:45:30 - 00:02:30
+
+  [23:45:30] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [23:45:30] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-12-10
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kaleigh347 is a 55 year-old nonhispanic white female.
+      # Social History
+
+  [23:45:30] DOCUMENT: History and physical note
+    Status: superseded
+
+
+📅 2020-12-11
+
+  [00:02:30] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2020-12-15
+
+  [04:02:30] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Rhett759 Padberg411
+    Location: VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+    Duration: 04:02:30 - 04:17:30
+
+  [04:02:30] OBSERVATION: Treatment status Cancer: Treatment changed (situation)
+
+  [04:02:30] OBSERVATION: Response to cancer treatment: Improving (qualifier value)
+
+  [04:02:30] MEDICATION PRESCRIBED: Unknown medication
+    Status: completed
+    Prescribed by: Dr. Rhett759 Padberg411
+
+  [04:02:30] MEDICATION ADMINISTERED: anastrozole 1 MG Oral Tablet
+    Status: completed
+    Dosage: 1.0
+
+  [04:02:30] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-12-15
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kaleigh347 is a 55 year-old nonhispanic white female.
+      # Social History
+
+  [04:02:30] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:17:30] CLAIM: pharmacy
+    Amount: USD 156.24
+
+  [04:17:30] CLAIM: professional
+    Amount: USD 85.55
+
+
+📅 2021-04-07
+
+  [05:02:30] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Rhett759 Padberg411
+    Location: VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+    Duration: 05:02:30 - 05:46:08
+
+  [05:02:30] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [05:02:30] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-04-07
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kaleigh347 is a 55 year-old nonhispanic white female.
+      # Social History
+
+  [05:02:30] DOCUMENT: History and physical note
+    Status: superseded
+
+  [05:46:08] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2021-04-26
+
+  [02:42:16] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Rhett759 Padberg411
+    Location: VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+    Duration: 02:42:16 - 02:57:16
+
+  [02:42:16] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 30 mcg/0.3 mL dose
+    Status: completed
+
+  [02:42:16] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-04-26
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kaleigh347 is a 55 year-old nonhispanic white female.
+      # Social History
+
+  [02:42:16] DOCUMENT: History and physical note
+    Status: superseded
+
+  [02:57:16] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-05-17
+
+  [02:42:16] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Rhett759 Padberg411
+    Location: VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+    Duration: 02:42:16 - 02:57:16
+
+  [02:42:16] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 30 mcg/0.3 mL dose
+    Status: completed
+
+  [02:42:16] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-05-17
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kaleigh347 is a 55 year-old nonhispanic white female.
+      # Social History
+
+  [02:42:16] DOCUMENT: History and physical note
+    Status: superseded
+
+  [02:57:16] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-06-28
+
+  [02:42:16] VISIT: General examination of patient (procedure)
+    Provider: Dr. Monte325 Parisian75
+    Location: RENAISSANCE PRIMARY CARE LLC
+    Duration: 02:42:16 - 02:57:16
+
+  [02:42:16] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [02:42:16] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-06-28
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kaleigh347 is a 56 year-old nonhispanic white female.
+      # Social History
+
+  [02:42:16] DOCUMENT: History and physical note
+    Status: superseded
+
+  [02:57:16] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2021-07-28
+
+  [05:46:08] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Rhett759 Padberg411
+    Location: VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+    Duration: 05:46:08 - 06:26:17
+
+  [05:46:08] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [05:46:08] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-07-28
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kaleigh347 is a 56 year-old nonhispanic white female.
+      # Social History
+
+  [05:46:08] DOCUMENT: History and physical note
+    Status: superseded
+
+  [06:26:17] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2021-11-08
+
+  [05:26:17] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Rhett759 Padberg411
+    Location: VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+    Duration: 05:26:17 - 06:08:01
+
+  [05:26:17] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [05:26:17] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-11-08
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kaleigh347 is a 56 year-old nonhispanic white female.
+      # Social History
+
+  [05:26:17] DOCUMENT: History and physical note
+    Status: superseded
+
+  [06:08:01] CLAIM: professional
+    Amount: USD 573.98
+
+  [06:08:01] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Rhett759 Padberg411
+    Location: VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+    Duration: 06:08:01 - 06:24:24
+
+  [06:08:01] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [06:08:01] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-11-08
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kaleigh347 is a 56 year-old nonhispanic white female.
+      # Social History
+
+  [06:08:01] DOCUMENT: History and physical note
+    Status: superseded
+
+  [06:24:24] CLAIM: professional
+    Amount: USD 211.60
+
+  [06:24:24] VISIT: Follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Rhett759 Padberg411
+    Location: VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+    Duration: 06:24:24 - 06:39:24
+
+  [06:24:24] PROCEDURE: Bone density scan (procedure)
+    Status: completed
+
+  [06:24:24] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-11-08
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kaleigh347 is a 56 year-old nonhispanic white female.
+      # Social History
+
+  [06:24:24] DOCUMENT: History and physical note
+    Status: superseded
+
+  [06:37:56] OBSERVATION: Response to cancer treatment: Improving (qualifier value)
+
+  [06:39:24] CLAIM: professional
+    Amount: USD 16468.32
+
+
+📅 2022-02-18
+
+  [06:37:56] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Rhett759 Padberg411
+    Location: VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+    Duration: 06:37:56 - 07:09:55
+
+  [06:37:56] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [06:37:56] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-02-18
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kaleigh347 is a 56 year-old nonhispanic white female.
+      # Social History
+
+  [06:37:56] DOCUMENT: History and physical note
+    Status: superseded
+
+  [07:09:55] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2022-06-08
+
+  [08:09:55] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Rhett759 Padberg411
+    Location: Patient's Home
+    Duration: 08:09:55 - 08:53:00
+
+  [08:09:55] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [08:09:55] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-06-08
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kaleigh347 is a 57 year-old nonhispanic white female.
+      # Social History
+
+  [08:09:55] DOCUMENT: History and physical note
+    Status: superseded
+
+  [08:53:00] CLAIM: institutional
+    Amount: USD 556.40
+
+
+📅 2022-07-04
+
+  [02:42:16] VISIT: General examination of patient (procedure)
+    Provider: Dr. Monte325 Parisian75
+    Location: RENAISSANCE PRIMARY CARE LLC
+    Duration: 02:42:16 - 02:57:16
+
+  [02:42:16] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [02:42:16] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-07-04
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kaleigh347 is a 57 year-old nonhispanic white female.
+      # Social History
+
+  [02:42:16] DOCUMENT: History and physical note
+    Status: superseded
+
+  [02:57:16] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2022-09-25
+
+  [08:53:00] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Rhett759 Padberg411
+    Location: VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+    Duration: 08:53:00 - 09:29:20
+
+  [08:53:00] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [08:53:00] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-09-25
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kaleigh347 is a 57 year-old nonhispanic white female.
+      # Social History
+
+  [08:53:00] DOCUMENT: History and physical note
+    Status: superseded
+
+  [09:29:20] CLAIM: professional
+    Amount: USD 573.98
+
+  [09:29:20] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Rhett759 Padberg411
+    Location: VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+    Duration: 09:29:20 - 09:52:55
+
+  [09:29:20] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [09:29:20] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-09-25
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kaleigh347 is a 57 year-old nonhispanic white female.
+      # Social History
+
+  [09:29:20] DOCUMENT: History and physical note
+    Status: superseded
+
+  [09:52:55] CLAIM: professional
+    Amount: USD 211.60
+
+  [09:52:55] VISIT: Follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Rhett759 Padberg411
+    Location: VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+    Duration: 09:52:55 - 10:14:52
+
+  [09:52:55] PROCEDURE: Bone density scan (procedure)
+    Status: completed
+
+  [09:52:55] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-09-25
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kaleigh347 is a 57 year-old nonhispanic white female.
+      # Social History
+
+  [09:52:55] DOCUMENT: History and physical note
+    Status: superseded
+
+  [10:14:52] OBSERVATION: Response to cancer treatment: Improving (qualifier value)
+
+  [10:14:52] CLAIM: professional
+    Amount: USD 16468.32
+
+
+📅 2023-01-08
+
+  [09:14:52] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Rhett759 Padberg411
+    Location: Patient's Home
+    Duration: 09:14:52 - 09:49:34
+
+  [09:14:52] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [09:14:52] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-01-08
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kaleigh347 is a 57 year-old nonhispanic white female.
+      # Social History
+
+  [09:14:52] DOCUMENT: History and physical note
+    Status: superseded
+
+  [09:49:34] CLAIM: institutional
+    Amount: USD 556.40
+
+
+📅 2023-05-11
+
+  [10:49:34] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Rhett759 Padberg411
+    Location: VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+    Duration: 10:49:34 - 11:20:45
+
+  [10:49:34] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [10:49:34] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-05-11
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kaleigh347 is a 57 year-old nonhispanic white female.
+      # Social History
+
+  [10:49:34] DOCUMENT: History and physical note
+    Status: superseded
+
+  [11:20:45] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2023-07-10
+
+  [02:42:16] VISIT: General examination of patient (procedure)
+    Provider: Dr. Monte325 Parisian75
+    Location: RENAISSANCE PRIMARY CARE LLC
+    Duration: 02:42:16 - 02:57:16
+
+  [02:42:16] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [02:42:16] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-07-10
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kaleigh347 is a 58 year-old nonhispanic white female.
+      # Social History
+
+  [02:42:16] DOCUMENT: History and physical note
+    Status: superseded
+
+  [02:57:16] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2023-09-10
+
+  [11:20:45] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Rhett759 Padberg411
+    Location: VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+    Duration: 11:20:45 - 12:01:23
+
+  [11:20:45] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [11:20:45] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-09-10
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kaleigh347 is a 58 year-old nonhispanic white female.
+      # Social History
+
+  [11:20:45] DOCUMENT: History and physical note
+    Status: superseded
+
+  [12:01:23] CLAIM: professional
+    Amount: USD 573.98
+
+  [12:01:23] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Rhett759 Padberg411
+    Location: VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+    Duration: 12:01:23 - 12:17:51
+
+  [12:01:23] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [12:01:23] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-09-10
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kaleigh347 is a 58 year-old nonhispanic white female.
+      # Social History
+
+  [12:01:23] DOCUMENT: History and physical note
+    Status: superseded
+
+  [12:17:51] CLAIM: professional
+    Amount: USD 224.18
+
+  [12:17:51] VISIT: Follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Rhett759 Padberg411
+    Location: VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+    Duration: 12:17:51 - 12:33:51
+
+  [12:17:51] PROCEDURE: Bone density scan (procedure)
+    Status: completed
+
+  [12:17:51] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-09-10
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kaleigh347 is a 58 year-old nonhispanic white female.
+      # Social History
+
+  [12:17:51] DOCUMENT: History and physical note
+    Status: superseded
+
+  [12:33:51] OBSERVATION: Response to cancer treatment: Improving (qualifier value)
+
+  [12:33:51] CLAIM: professional
+    Amount: USD 16468.32
+
+
+📅 2023-12-20
+
+  [11:33:51] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Rhett759 Padberg411
+    Location: VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+    Duration: 11:33:51 - 12:17:24
+
+  [11:33:51] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [11:33:51] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-12-20
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kaleigh347 is a 58 year-old nonhispanic white female.
+      # Social History
+
+  [11:33:51] DOCUMENT: History and physical note
+    Status: superseded
+
+  [12:17:24] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2024-04-12
+
+  [13:17:24] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Rhett759 Padberg411
+    Location: VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+    Duration: 13:17:24 - 13:52:49
+
+  [13:17:24] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [13:17:24] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-04-12
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kaleigh347 is a 58 year-old nonhispanic white female.
+      # Social History
+
+  [13:17:24] DOCUMENT: History and physical note
+    Status: superseded
+
+  [13:52:49] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2024-07-15
+
+  [02:42:16] VISIT: General examination of patient (procedure)
+    Provider: Dr. Monte325 Parisian75
+    Location: RENAISSANCE PRIMARY CARE LLC
+    Duration: 02:42:16 - 02:57:16
+
+  [02:42:16] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [02:42:16] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-07-15
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kaleigh347 is a 59 year-old nonhispanic white female.
+      # Social History
+
+  [02:42:16] DOCUMENT: History and physical note
+    Status: superseded
+
+  [02:57:16] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2024-07-20
+
+  [13:52:49] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Rhett759 Padberg411
+    Location: VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+    Duration: 13:52:49 - 14:36:55
+
+  [13:52:49] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [13:52:49] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-07-20
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kaleigh347 is a 59 year-old nonhispanic white female.
+      # Social History
+
+  [13:52:49] DOCUMENT: History and physical note
+    Status: superseded
+
+  [14:36:55] CLAIM: professional
+    Amount: USD 573.98
+
+  [14:36:55] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Rhett759 Padberg411
+    Location: VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+    Duration: 14:36:55 - 14:57:23
+
+  [14:36:55] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [14:36:55] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-07-20
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kaleigh347 is a 59 year-old nonhispanic white female.
+      # Social History
+
+  [14:36:55] DOCUMENT: History and physical note
+    Status: superseded
+
+  [14:57:23] CLAIM: professional
+    Amount: USD 211.60
+
+  [14:57:23] VISIT: Follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Rhett759 Padberg411
+    Location: VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+    Duration: 14:57:23 - 15:25:31
+
+  [14:57:23] PROCEDURE: Bone density scan (procedure)
+    Status: completed
+
+  [14:57:23] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-07-20
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kaleigh347 is a 59 year-old nonhispanic white female.
+      # Social History
+
+  [14:57:23] DOCUMENT: History and physical note
+    Status: superseded
+
+  [15:25:31] OBSERVATION: Response to cancer treatment: Improving (qualifier value)
+
+  [15:25:31] CLAIM: professional
+    Amount: USD 6797.69
+
+
+📅 2024-10-28
+
+  [15:25:31] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Rhett759 Padberg411
+    Location: Patient's Home
+    Duration: 15:25:31 - 16:07:21
+
+  [15:25:31] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [15:25:31] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-10-28
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kaleigh347 is a 59 year-old nonhispanic white female.
+      # Social History
+
+  [15:25:31] DOCUMENT: History and physical note
+    Status: superseded
+
+  [16:07:21] CLAIM: institutional
+    Amount: USD 556.40
+
+
+📅 2025-02-22
+
+  [15:07:21] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Rhett759 Padberg411
+    Location: VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+    Duration: 15:07:21 - 15:50:22
+
+  [15:07:21] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [15:07:21] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-02-22
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kaleigh347 is a 59 year-old nonhispanic white female.
+      # Social History
+
+  [15:07:21] DOCUMENT: History and physical note
+    Status: superseded
+
+  [15:50:22] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2025-06-07
+
+  [16:50:22] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Rhett759 Padberg411
+    Location: Patient's Home
+    Duration: 16:50:22 - 17:33:48
+
+  [16:50:22] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [16:50:22] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-06-07
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kaleigh347 is a 60 year-old nonhispanic white female.
+      # Social History
+
+  [16:50:22] DOCUMENT: History and physical note
+    Status: superseded
+
+  [17:33:48] CLAIM: institutional
+    Amount: USD 556.40
+
+  [17:33:48] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Rhett759 Padberg411
+    Location: VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+    Duration: 17:33:48 - 17:50:36
+
+  [17:33:48] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [17:33:48] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-06-07
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kaleigh347 is a 60 year-old nonhispanic white female.
+      # Social History
+
+  [17:33:48] DOCUMENT: History and physical note
+    Status: superseded
+
+  [17:50:36] CLAIM: professional
+    Amount: USD 211.60
+
+  [17:50:36] VISIT: Follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Rhett759 Padberg411
+    Location: VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+    Duration: 17:50:36 - 18:07:09
+
+  [17:50:36] PROCEDURE: Bone density scan (procedure)
+    Status: completed
+
+  [17:50:36] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-06-07
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kaleigh347 is a 60 year-old nonhispanic white female.
+      # Social History
+
+  [17:50:36] DOCUMENT: History and physical note
+    Status: superseded
+
+  [18:07:09] CLAIM: professional
+    Amount: USD 4181.24
+
+
+📅 2025-07-21
+
+  [02:42:16] VISIT: General examination of patient (procedure)
+    Provider: Dr. Monte325 Parisian75
+    Location: RENAISSANCE PRIMARY CARE LLC
+    Duration: 02:42:16 - 02:57:16
+
+  [02:42:16] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [02:42:16] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-07-21
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kaleigh347 is a 60 year-old nonhispanic white female.
+      # Social History
+
+  [02:42:16] DOCUMENT: History and physical note
+    Status: current
+
+  [02:57:16] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2026-02-16
+
+  [01:42:16] PROVENANCE: Record activity
+    Agents: Dr. Monte325 Parisian75, Dr. Monte325 Parisian75
+
+================================================================================
+END OF TIMELINE (469 events)
+================================================================================

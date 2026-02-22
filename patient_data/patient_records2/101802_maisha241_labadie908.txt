@@ -1,0 +1,159 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Ms. Maisha241 Labadie908
+  Patient ID: 101802
+  Date of Birth: 1984-03-20
+  Gender: Female
+  Race: White
+  Ethnicity: Not Hispanic or Latino
+  Marital Status: Never Married
+  Address: 262 Turcotte Terrace, South Yarmouth, MA 02664
+  Phone: 555-239-2967
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2018-06-05
+
+  [16:41:38] VISIT: General examination of patient (procedure)
+    Provider: Dr. Will178 Bernhard322
+    Location: CAPE COD HEALTHCARE PHYSICIANS
+    Duration: 16:41:38 - 16:56:38
+
+  [16:41:38] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [16:41:38] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-06-05
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Maisha241 is a 34 year-old nonhispanic white female.
+      # Social History
+
+  [16:41:38] DOCUMENT: History and physical note
+    Status: superseded
+
+  [16:56:38] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2021-06-08
+
+  [16:41:38] VISIT: General examination of patient (procedure)
+    Provider: Dr. Will178 Bernhard322
+    Location: CAPE COD HEALTHCARE PHYSICIANS
+    Duration: 16:41:38 - 16:56:38
+
+  [16:41:38] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [16:41:38] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-06-08
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Maisha241 is a 37 year-old nonhispanic white female.
+      # Social History
+
+  [16:41:38] DOCUMENT: History and physical note
+    Status: superseded
+
+  [16:56:38] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2021-10-12
+
+  [16:41:38] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Arden380 Bergstrom287
+    Location: CAPE COD HOSPITAL INC
+    Duration: 16:41:38 - 16:56:38
+
+  [16:41:38] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 30 mcg/0.3 mL dose
+    Status: completed
+
+  [16:41:38] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-10-12
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Maisha241 is a 37 year-old nonhispanic white female.
+      # Social History
+
+  [16:41:38] DOCUMENT: History and physical note
+    Status: superseded
+
+  [16:56:38] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-11-02
+
+  [16:41:38] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Arden380 Bergstrom287
+    Location: CAPE COD HOSPITAL INC
+    Duration: 16:41:38 - 16:56:38
+
+  [16:41:38] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 30 mcg/0.3 mL dose
+    Status: completed
+
+  [16:41:38] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-11-02
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Maisha241 is a 37 year-old nonhispanic white female.
+      # Social History
+
+  [16:41:38] DOCUMENT: History and physical note
+    Status: superseded
+
+  [16:56:38] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2024-03-26
+
+  [16:41:38] VISIT: General examination of patient (procedure)
+    Provider: Dr. Will178 Bernhard322
+    Location: CAPE COD HEALTHCARE PHYSICIANS
+    Duration: 16:41:38 - 16:56:38
+
+  [16:41:38] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [16:41:38] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [16:41:38] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-03-26
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Maisha241 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [16:41:38] DOCUMENT: History and physical note
+    Status: current
+
+  [16:56:38] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2026-02-10
+
+  [15:41:38] PROVENANCE: Record activity
+    Agents: Dr. Will178 Bernhard322, Dr. Will178 Bernhard322
+
+================================================================================
+END OF TIMELINE (27 events)
+================================================================================

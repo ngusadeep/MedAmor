@@ -1,0 +1,860 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Mrs. Thea616 Kaycee352 Cummerata161
+  Patient ID: 147285
+  Date of Birth: 1959-12-23
+  Gender: Female
+  Race: White
+  Ethnicity: Not Hispanic or Latino
+  Marital Status: Married
+  Address: 312 Murray Ranch, Sharon, MA 02067
+  Phone: 555-244-9286
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2007-08-12
+
+  [08:30:41] VISIT: Periodic reevaluation and management of healthy individual (procedure)
+    Reason: Screening for malignant neoplasm of breast (procedure)
+    Provider: Dr. Trinidad33 King743
+    Location: STEWARD NORWOOD HOSPITAL INC
+    Duration: 08:30:41 - 23:55:19
+
+  [08:30:41] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2007-08-12
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Thea616 Kaycee352 is a 47 year-old nonhispanic white female.
+      # Social History
+
+  [08:30:41] DOCUMENT: History and physical note
+    Status: superseded
+
+  [09:51:19] CONDITION: Malignant neoplasm of breast (disorder) (active)
+
+
+📅 2007-08-13
+
+  [23:55:19] CLAIM: professional
+    Amount: USD 4828.68
+
+
+📅 2016-08-18
+
+  [14:52:24] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Trinidad33 King743
+    Location: STEWARD NORWOOD HOSPITAL INC
+    Duration: 14:52:24 - 15:36:38
+
+  [14:52:24] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [14:52:24] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-08-18
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Thea616 Kaycee352 is a 56 year-old nonhispanic white female.
+      # Social History
+
+  [14:52:24] DOCUMENT: History and physical note
+    Status: superseded
+
+  [15:36:38] CLAIM: professional
+    Amount: USD 573.98
+
+  [15:36:38] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Trinidad33 King743
+    Location: STEWARD NORWOOD HOSPITAL INC
+    Duration: 15:36:38 - 15:58:36
+
+  [15:36:38] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [15:36:38] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-08-18
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Thea616 Kaycee352 is a 56 year-old nonhispanic white female.
+      # Social History
+
+  [15:36:38] DOCUMENT: History and physical note
+    Status: superseded
+
+  [15:58:36] CLAIM: professional
+    Amount: USD 230.06
+
+
+📅 2017-02-01
+
+  [07:30:41] VISIT: General examination of patient (procedure)
+    Provider: Dr. Sallie654 Barrows492
+    Location: IDEAL HEALTHCARE SOLUTIONS LLC
+    Duration: 07:30:41 - 07:45:41
+
+  [07:30:41] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [07:30:41] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-02-01
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Thea616 Kaycee352 is a 57 year-old nonhispanic white female.
+      # Social History
+
+  [07:30:41] DOCUMENT: History and physical note
+    Status: superseded
+
+  [07:45:41] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2017-07-23
+
+  [15:58:36] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Trinidad33 King743
+    Location: STEWARD NORWOOD HOSPITAL INC
+    Duration: 15:58:36 - 16:36:28
+
+  [15:58:36] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [15:58:36] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-07-23
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Thea616 Kaycee352 is a 57 year-old nonhispanic white female.
+      # Social History
+
+  [15:58:36] DOCUMENT: History and physical note
+    Status: superseded
+
+  [16:36:28] CLAIM: professional
+    Amount: USD 573.98
+
+  [16:36:28] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Trinidad33 King743
+    Location: STEWARD NORWOOD HOSPITAL INC
+    Duration: 16:36:28 - 16:53:35
+
+  [16:36:28] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [16:36:28] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-07-23
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Thea616 Kaycee352 is a 57 year-old nonhispanic white female.
+      # Social History
+
+  [16:36:28] DOCUMENT: History and physical note
+    Status: superseded
+
+  [16:53:35] CLAIM: professional
+    Amount: USD 211.60
+
+
+📅 2018-02-07
+
+  [07:30:41] VISIT: General examination of patient (procedure)
+    Provider: Dr. Sallie654 Barrows492
+    Location: IDEAL HEALTHCARE SOLUTIONS LLC
+    Duration: 07:30:41 - 07:45:41
+
+  [07:30:41] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [07:30:41] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-02-07
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Thea616 Kaycee352 is a 58 year-old nonhispanic white female.
+      # Social History
+
+  [07:30:41] DOCUMENT: History and physical note
+    Status: superseded
+
+  [07:45:41] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2018-07-10
+
+  [16:53:35] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Trinidad33 King743
+    Location: STEWARD NORWOOD HOSPITAL INC
+    Duration: 16:53:35 - 17:32:39
+
+  [16:53:35] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [16:53:35] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-07-10
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Thea616 Kaycee352 is a 58 year-old nonhispanic white female.
+      # Social History
+
+  [16:53:35] DOCUMENT: History and physical note
+    Status: superseded
+
+  [17:32:39] CLAIM: professional
+    Amount: USD 573.98
+
+  [17:32:39] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Trinidad33 King743
+    Location: STEWARD NORWOOD HOSPITAL INC
+    Duration: 17:32:39 - 17:56:35
+
+  [17:32:39] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [17:32:39] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-07-10
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Thea616 Kaycee352 is a 58 year-old nonhispanic white female.
+      # Social History
+
+  [17:32:39] DOCUMENT: History and physical note
+    Status: superseded
+
+  [17:56:35] CLAIM: professional
+    Amount: USD 253.41
+
+
+📅 2019-02-13
+
+  [07:30:41] VISIT: General examination of patient (procedure)
+    Provider: Dr. Sallie654 Barrows492
+    Location: IDEAL HEALTHCARE SOLUTIONS LLC
+    Duration: 07:30:41 - 07:45:41
+
+  [07:30:41] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [07:30:41] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-02-13
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Thea616 Kaycee352 is a 59 year-old nonhispanic white female.
+      # Social History
+
+  [07:30:41] DOCUMENT: History and physical note
+    Status: superseded
+
+  [07:45:41] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2019-07-25
+
+  [17:56:35] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Trinidad33 King743
+    Location: STEWARD NORWOOD HOSPITAL INC
+    Duration: 17:56:35 - 18:40:54
+
+  [17:56:35] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [17:56:35] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-07-25
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Thea616 Kaycee352 is a 59 year-old nonhispanic white female.
+      # Social History
+
+  [17:56:35] DOCUMENT: History and physical note
+    Status: superseded
+
+  [18:40:54] CLAIM: professional
+    Amount: USD 573.98
+
+  [18:40:54] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Trinidad33 King743
+    Location: STEWARD NORWOOD HOSPITAL INC
+    Duration: 18:40:54 - 18:57:19
+
+  [18:40:54] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [18:40:54] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-07-25
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Thea616 Kaycee352 is a 59 year-old nonhispanic white female.
+      # Social History
+
+  [18:40:54] DOCUMENT: History and physical note
+    Status: superseded
+
+  [18:57:19] CLAIM: professional
+    Amount: USD 325.49
+
+
+📅 2020-02-19
+
+  [07:30:41] VISIT: General examination of patient (procedure)
+    Provider: Dr. Sallie654 Barrows492
+    Location: IDEAL HEALTHCARE SOLUTIONS LLC
+    Duration: 07:30:41 - 07:45:41
+
+  [07:30:41] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [07:30:41] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-02-19
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Thea616 Kaycee352 is a 60 year-old nonhispanic white female.
+      # Social History
+
+  [07:30:41] DOCUMENT: History and physical note
+    Status: superseded
+
+  [07:45:41] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2020-06-21
+
+  [18:57:19] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Trinidad33 King743
+    Location: STEWARD NORWOOD HOSPITAL INC
+    Duration: 18:57:19 - 19:29:15
+
+  [18:57:19] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [18:57:19] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-06-21
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Thea616 Kaycee352 is a 60 year-old nonhispanic white female.
+      # Social History
+
+  [18:57:19] DOCUMENT: History and physical note
+    Status: superseded
+
+  [19:29:15] CLAIM: professional
+    Amount: USD 573.98
+
+  [19:29:15] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Trinidad33 King743
+    Location: STEWARD NORWOOD HOSPITAL INC
+    Duration: 19:29:15 - 19:52:56
+
+  [19:29:15] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [19:29:15] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-06-21
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Thea616 Kaycee352 is a 60 year-old nonhispanic white female.
+      # Social History
+
+  [19:29:15] DOCUMENT: History and physical note
+    Status: superseded
+
+  [19:52:56] CLAIM: professional
+    Amount: USD 211.60
+
+
+📅 2021-02-24
+
+  [07:30:41] VISIT: General examination of patient (procedure)
+    Provider: Dr. Sallie654 Barrows492
+    Location: IDEAL HEALTHCARE SOLUTIONS LLC
+    Duration: 07:30:41 - 07:45:41
+
+  [07:30:41] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [07:30:41] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [07:30:41] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-02-24
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Thea616 Kaycee352 is a 61 year-old nonhispanic white female.
+      # Social History
+
+  [07:30:41] DOCUMENT: History and physical note
+    Status: superseded
+
+  [07:45:41] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2021-03-31
+
+  [08:30:41] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Guillermo498 Fay398
+    Location: NORWOOD HOSPITAL
+    Duration: 08:30:41 - 08:45:41
+
+  [08:30:41] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 30 mcg/0.3 mL dose
+    Status: completed
+
+  [08:30:41] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-03-31
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Thea616 Kaycee352 is a 61 year-old nonhispanic white female.
+      # Social History
+
+  [08:30:41] DOCUMENT: History and physical note
+    Status: superseded
+
+  [08:45:41] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-04-21
+
+  [08:30:41] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Guillermo498 Fay398
+    Location: NORWOOD HOSPITAL
+    Duration: 08:30:41 - 08:45:41
+
+  [08:30:41] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 30 mcg/0.3 mL dose
+    Status: completed
+
+  [08:30:41] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-04-21
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Thea616 Kaycee352 is a 61 year-old nonhispanic white female.
+      # Social History
+
+  [08:30:41] DOCUMENT: History and physical note
+    Status: superseded
+
+  [08:45:41] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-06-01
+
+  [19:52:56] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Trinidad33 King743
+    Location: STEWARD NORWOOD HOSPITAL INC
+    Duration: 19:52:56 - 20:32:42
+
+  [19:52:56] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [19:52:56] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-06-01
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Thea616 Kaycee352 is a 61 year-old nonhispanic white female.
+      # Social History
+
+  [19:52:56] DOCUMENT: History and physical note
+    Status: superseded
+
+  [20:32:42] CLAIM: professional
+    Amount: USD 573.98
+
+  [20:32:42] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Trinidad33 King743
+    Location: STEWARD NORWOOD HOSPITAL INC
+    Duration: 20:32:42 - 20:48:20
+
+  [20:32:42] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [20:32:42] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-06-01
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Thea616 Kaycee352 is a 61 year-old nonhispanic white female.
+      # Social History
+
+  [20:32:42] DOCUMENT: History and physical note
+    Status: superseded
+
+  [20:48:20] CLAIM: professional
+    Amount: USD 325.49
+
+
+📅 2022-03-02
+
+  [07:30:41] VISIT: General examination of patient (procedure)
+    Provider: Dr. Sallie654 Barrows492
+    Location: IDEAL HEALTHCARE SOLUTIONS LLC
+    Duration: 07:30:41 - 07:45:41
+
+  [07:30:41] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [07:30:41] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-03-02
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Thea616 Kaycee352 is a 62 year-old nonhispanic white female.
+      # Social History
+
+  [07:30:41] DOCUMENT: History and physical note
+    Status: superseded
+
+  [07:45:41] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2022-04-29
+
+  [20:48:20] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Trinidad33 King743
+    Location: STEWARD NORWOOD HOSPITAL INC
+    Duration: 20:48:20 - 21:31:35
+
+  [20:48:20] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [20:48:20] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-04-29
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Thea616 Kaycee352 is a 62 year-old nonhispanic white female.
+      # Social History
+
+  [20:48:20] DOCUMENT: History and physical note
+    Status: superseded
+
+  [21:31:35] CLAIM: professional
+    Amount: USD 573.98
+
+  [21:31:35] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Trinidad33 King743
+    Location: STEWARD NORWOOD HOSPITAL INC
+    Duration: 21:31:35 - 21:50:01
+
+  [21:31:35] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [21:31:35] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-04-29
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Thea616 Kaycee352 is a 62 year-old nonhispanic white female.
+      # Social History
+
+  [21:31:35] DOCUMENT: History and physical note
+    Status: superseded
+
+  [21:50:01] CLAIM: professional
+    Amount: USD 211.60
+
+
+📅 2023-03-08
+
+  [07:30:41] VISIT: General examination of patient (procedure)
+    Provider: Dr. Sallie654 Barrows492
+    Location: IDEAL HEALTHCARE SOLUTIONS LLC
+    Duration: 07:30:41 - 07:45:41
+
+  [07:30:41] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [07:30:41] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-03-08
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Thea616 Kaycee352 is a 63 year-old nonhispanic white female.
+      # Social History
+
+  [07:30:41] DOCUMENT: History and physical note
+    Status: superseded
+
+  [07:45:41] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2023-04-13
+
+  [21:50:01] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Trinidad33 King743
+    Location: STEWARD NORWOOD HOSPITAL INC
+    Duration: 21:50:01 - 22:32:58
+
+  [21:50:01] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [21:50:01] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-04-13
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Thea616 Kaycee352 is a 63 year-old nonhispanic white female.
+      # Social History
+
+  [21:50:01] DOCUMENT: History and physical note
+    Status: superseded
+
+  [22:32:58] CLAIM: professional
+    Amount: USD 573.98
+
+  [22:32:58] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Trinidad33 King743
+    Location: STEWARD NORWOOD HOSPITAL INC
+    Duration: 22:32:58 - 22:53:17
+
+  [22:32:58] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [22:32:58] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-04-13
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Thea616 Kaycee352 is a 63 year-old nonhispanic white female.
+      # Social History
+
+  [22:32:58] DOCUMENT: History and physical note
+    Status: superseded
+
+  [22:53:17] CLAIM: professional
+    Amount: USD 325.49
+
+
+📅 2024-03-13
+
+  [08:30:41] VISIT: General examination of patient (procedure)
+    Provider: Dr. Sallie654 Barrows492
+    Location: IDEAL HEALTHCARE SOLUTIONS LLC
+    Duration: 08:30:41 - 08:45:41
+
+  [08:30:41] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [08:30:41] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-03-13
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Thea616 Kaycee352 is a 64 year-old nonhispanic white female.
+      # Social History
+
+  [08:30:41] DOCUMENT: History and physical note
+    Status: superseded
+
+  [08:45:41] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2024-04-04
+
+  [22:53:17] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Trinidad33 King743
+    Location: STEWARD NORWOOD HOSPITAL INC
+    Duration: 22:53:17 - 23:25:49
+
+  [22:53:17] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [22:53:17] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-04-04
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Thea616 Kaycee352 is a 64 year-old nonhispanic white female.
+      # Social History
+
+  [22:53:17] DOCUMENT: History and physical note
+    Status: superseded
+
+  [23:25:49] CLAIM: professional
+    Amount: USD 573.98
+
+  [23:25:49] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Trinidad33 King743
+    Location: STEWARD NORWOOD HOSPITAL INC
+    Duration: 23:25:49 - 23:44:16
+
+  [23:25:49] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [23:25:49] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-04-04
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Thea616 Kaycee352 is a 64 year-old nonhispanic white female.
+      # Social History
+
+  [23:25:49] DOCUMENT: History and physical note
+    Status: superseded
+
+  [23:44:16] CLAIM: professional
+    Amount: USD 213.87
+
+
+📅 2025-03-19
+
+  [08:30:41] VISIT: General examination of patient (procedure)
+    Provider: Dr. Sallie654 Barrows492
+    Location: IDEAL HEALTHCARE SOLUTIONS LLC
+    Duration: 08:30:41 - 08:45:41
+
+  [08:30:41] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [08:30:41] IMMUNIZATION: Pneumococcal conjugate PCV 13
+    Status: completed
+
+  [08:30:41] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-03-19
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Thea616 Kaycee352 is a 65 year-old nonhispanic white female.
+      # Social History
+
+  [08:30:41] DOCUMENT: History and physical note
+    Status: superseded
+
+  [08:45:41] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2025-04-07
+
+  [23:44:16] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Trinidad33 King743
+    Location: STEWARD NORWOOD HOSPITAL INC
+    Duration: 23:44:16 - 00:15:39
+
+  [23:44:16] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [23:44:16] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-04-07
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Thea616 Kaycee352 is a 65 year-old nonhispanic white female.
+      # Social History
+
+  [23:44:16] DOCUMENT: History and physical note
+    Status: superseded
+
+
+📅 2025-04-08
+
+  [00:15:39] CLAIM: professional
+    Amount: USD 573.98
+
+  [00:15:39] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Trinidad33 King743
+    Location: STEWARD NORWOOD HOSPITAL INC
+    Duration: 00:15:39 - 00:33:32
+
+  [00:15:39] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [00:15:39] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-04-08
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Thea616 Kaycee352 is a 65 year-old nonhispanic white female.
+      # Social History
+
+  [00:15:39] DOCUMENT: History and physical note
+    Status: current
+
+  [00:33:32] CLAIM: professional
+    Amount: USD 231.16
+
+
+📅 2026-02-11
+
+  [07:30:41] PROVENANCE: Record activity
+    Agents: Dr. Trinidad33 King743, Dr. Trinidad33 King743
+
+================================================================================
+END OF TIMELINE (163 events)
+================================================================================

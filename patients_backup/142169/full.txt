@@ -1,0 +1,203 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Mrs. Sophia44 Cuc113 Mann644
+  Patient ID: 142169
+  Date of Birth: 1978-04-09
+  Gender: Female
+  Race: White
+  Ethnicity: Not Hispanic or Latino
+  Marital Status: Married
+  Address: 571 Gerlach Mall Unit 36, Weymouth, MA 02190
+  Phone: 555-301-2168
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2018-04-15
+
+  [23:51:00] VISIT: General examination of patient (procedure)
+    Provider: Dr. Jospeh459 Wunsch504
+    Location: SOUTH SHORE CENTER FOR WELLNESS LTD
+    Duration: 23:51:00 - 00:06:00
+
+  [23:51:00] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [23:51:00] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [23:51:00] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-04-15
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Sophia44 Cuc113 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [23:51:00] DOCUMENT: History and physical note
+    Status: superseded
+
+
+📅 2018-04-16
+
+  [00:06:00] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2020-04-19
+
+  [23:51:00] VISIT: General examination of patient (procedure)
+    Provider: Dr. Jospeh459 Wunsch504
+    Location: SOUTH SHORE CENTER FOR WELLNESS LTD
+    Duration: 23:51:00 - 00:06:00
+
+  [23:51:00] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [23:51:00] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [23:51:00] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [23:51:00] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-04-19
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Sophia44 Cuc113 is a 42 year-old nonhispanic white female.
+      # Social History
+
+  [23:51:00] DOCUMENT: History and physical note
+    Status: superseded
+
+
+📅 2020-04-20
+
+  [00:06:00] CLAIM: professional
+    Amount: USD 544.80
+
+
+📅 2021-01-24
+
+  [22:51:00] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. January966 Roberts511
+    Location: SOUTH SHORE HOSPITAL INC.
+    Duration: 22:51:00 - 23:06:00
+
+  [22:51:00] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+    Status: completed
+
+  [22:51:00] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-01-24
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Sophia44 Cuc113 is a 42 year-old nonhispanic white female.
+      # Social History
+
+  [22:51:00] DOCUMENT: History and physical note
+    Status: superseded
+
+  [23:06:00] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-02-21
+
+  [22:51:00] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. January966 Roberts511
+    Location: SOUTH SHORE HOSPITAL INC.
+    Duration: 22:51:00 - 23:06:00
+
+  [22:51:00] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+    Status: completed
+
+  [22:51:00] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-02-21
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Sophia44 Cuc113 is a 42 year-old nonhispanic white female.
+      # Social History
+
+  [22:51:00] DOCUMENT: History and physical note
+    Status: superseded
+
+  [23:06:00] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2022-04-24
+
+  [23:51:00] VISIT: General examination of patient (procedure)
+    Provider: Dr. Jospeh459 Wunsch504
+    Location: SOUTH SHORE CENTER FOR WELLNESS LTD
+    Duration: 23:51:00 - 00:06:00
+
+  [23:51:00] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [23:51:00] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-04-24
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Sophia44 Cuc113 is a 44 year-old nonhispanic white female.
+      # Social History
+
+  [23:51:00] DOCUMENT: History and physical note
+    Status: superseded
+
+
+📅 2022-04-25
+
+  [00:06:00] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2024-04-28
+
+  [23:51:00] VISIT: General examination of patient (procedure)
+    Provider: Dr. Jospeh459 Wunsch504
+    Location: SOUTH SHORE CENTER FOR WELLNESS LTD
+    Duration: 23:51:00 - 00:06:00
+
+  [23:51:00] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [23:51:00] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-04-28
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Sophia44 Cuc113 is a 46 year-old nonhispanic white female.
+      # Social History
+
+  [23:51:00] DOCUMENT: History and physical note
+    Status: current
+
+
+📅 2024-04-29
+
+  [00:06:00] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2026-02-15
+
+  [22:51:00] PROVENANCE: Record activity
+    Agents: Dr. Jospeh459 Wunsch504, Dr. Jospeh459 Wunsch504
+
+================================================================================
+END OF TIMELINE (34 events)
+================================================================================

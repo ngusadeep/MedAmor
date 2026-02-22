@@ -1,0 +1,191 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Ms. Piedad413 Parker433
+  Patient ID: 124254
+  Date of Birth: 1982-09-13
+  Gender: Female
+  Race: White
+  Ethnicity: Not Hispanic or Latino
+  Marital Status: Never Married
+  Address: 551 Renner Burg Apt 66, Boston, MA 02199
+  Phone: 555-894-5843
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2016-11-28
+
+  [18:27:37] VISIT: General examination of patient (procedure)
+    Provider: Dr. Raul814 Considine820
+    Location: NORTH END COMMUNITY HEALTH COMMITTEE INC
+    Duration: 18:27:37 - 18:42:37
+
+  [18:27:37] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [18:27:37] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-11-28
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Piedad413 is a 34 year-old nonhispanic white female.
+      # Social History
+
+  [18:27:37] DOCUMENT: History and physical note
+    Status: superseded
+
+  [18:42:37] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2019-12-02
+
+  [18:27:37] VISIT: General examination of patient (procedure)
+    Provider: Dr. Raul814 Considine820
+    Location: NORTH END COMMUNITY HEALTH COMMITTEE INC
+    Duration: 18:27:37 - 18:42:37
+
+  [18:27:37] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [18:27:37] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-12-02
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Piedad413 is a 37 year-old nonhispanic white female.
+      # Social History
+
+  [18:27:37] DOCUMENT: History and physical note
+    Status: superseded
+
+  [18:42:37] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2021-05-03
+
+  [19:27:37] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Sharron285 Batz141
+    Location: BOSTON MEDICAL CENTER CORPORATION-
+    Duration: 19:27:37 - 19:42:37
+
+  [19:27:37] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 30 mcg/0.3 mL dose
+    Status: completed
+
+  [19:27:37] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-05-03
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Piedad413 is a 38 year-old nonhispanic white female.
+      # Social History
+
+  [19:27:37] DOCUMENT: History and physical note
+    Status: superseded
+
+  [19:42:37] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-05-24
+
+  [19:27:37] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Sharron285 Batz141
+    Location: BOSTON MEDICAL CENTER CORPORATION-
+    Duration: 19:27:37 - 19:42:37
+
+  [19:27:37] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 30 mcg/0.3 mL dose
+    Status: completed
+
+  [19:27:37] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-05-24
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Piedad413 is a 38 year-old nonhispanic white female.
+      # Social History
+
+  [19:27:37] DOCUMENT: History and physical note
+    Status: superseded
+
+  [19:42:37] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2022-09-19
+
+  [19:27:37] VISIT: General examination of patient (procedure)
+    Provider: Dr. Raul814 Considine820
+    Location: NORTH END COMMUNITY HEALTH COMMITTEE INC
+    Duration: 19:27:37 - 19:42:37
+
+  [19:27:37] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [19:27:37] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [19:27:37] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-09-19
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Piedad413 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [19:27:37] DOCUMENT: History and physical note
+    Status: superseded
+
+  [19:42:37] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2024-09-23
+
+  [19:27:37] VISIT: General examination of patient (procedure)
+    Provider: Dr. Raul814 Considine820
+    Location: NORTH END COMMUNITY HEALTH COMMITTEE INC
+    Duration: 19:27:37 - 19:42:37
+
+  [19:27:37] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [19:27:37] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [19:27:37] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [19:27:37] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-09-23
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Piedad413 is a 42 year-old nonhispanic white female.
+      # Social History
+
+  [19:27:37] DOCUMENT: History and physical note
+    Status: current
+
+  [19:42:37] CLAIM: professional
+    Amount: USD 544.80
+
+
+📅 2026-02-09
+
+  [18:27:37] PROVENANCE: Record activity
+    Agents: Dr. Raul814 Considine820, Dr. Raul814 Considine820
+
+================================================================================
+END OF TIMELINE (34 events)
+================================================================================

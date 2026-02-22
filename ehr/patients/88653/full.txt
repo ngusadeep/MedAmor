@@ -1,0 +1,191 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Ms. Laura391 Perea353
+  Patient ID: 88653
+  Date of Birth: 1981-06-16
+  Gender: Female
+  Race: Asian
+  Ethnicity: Hispanic or Latino
+  Marital Status: Never Married
+  Address: 128 Johnson Boulevard, Ludlow, MA 00000
+  Phone: 555-861-6101
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2018-09-04
+
+  [19:36:36] VISIT: General examination of patient (procedure)
+    Provider: Dr. Arla414 Fritsch593
+    Location: RIVER'S EDGE PRIMARY CARE LLC
+    Duration: 19:36:36 - 19:51:36
+
+  [19:36:36] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [19:36:36] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-09-04
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Laura391 is a 37 year-old hispanic asian female.
+      # Social History
+
+  [19:36:36] DOCUMENT: History and physical note
+    Status: superseded
+
+  [19:51:36] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2021-03-30
+
+  [19:36:36] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Miyoko154 Paucek755
+    Location: ENCOMPASS HEALTH REHAB HOSPITAL OF WESTERN MASS
+    Duration: 19:36:36 - 19:51:36
+
+  [19:36:36] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+    Status: completed
+
+  [19:36:36] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-03-30
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Laura391 is a 39 year-old hispanic asian female.
+      # Social History
+
+  [19:36:36] DOCUMENT: History and physical note
+    Status: superseded
+
+  [19:51:36] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-04-27
+
+  [19:36:36] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Miyoko154 Paucek755
+    Location: ENCOMPASS HEALTH REHAB HOSPITAL OF WESTERN MASS
+    Duration: 19:36:36 - 19:51:36
+
+  [19:36:36] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+    Status: completed
+
+  [19:36:36] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-04-27
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Laura391 is a 39 year-old hispanic asian female.
+      # Social History
+
+  [19:36:36] DOCUMENT: History and physical note
+    Status: superseded
+
+  [19:51:36] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-06-22
+
+  [19:36:36] VISIT: General examination of patient (procedure)
+    Provider: Dr. Arla414 Fritsch593
+    Location: RIVER'S EDGE PRIMARY CARE LLC
+    Duration: 19:36:36 - 19:51:36
+
+  [19:36:36] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [19:36:36] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [19:36:36] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-06-22
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Laura391 is a 40 year-old hispanic asian female.
+      # Social History
+
+  [19:36:36] DOCUMENT: History and physical note
+    Status: superseded
+
+  [19:51:36] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2023-06-27
+
+  [19:36:36] VISIT: General examination of patient (procedure)
+    Provider: Dr. Arla414 Fritsch593
+    Location: RIVER'S EDGE PRIMARY CARE LLC
+    Duration: 19:36:36 - 19:51:36
+
+  [19:36:36] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [19:36:36] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [19:36:36] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [19:36:36] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-06-27
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Laura391 is a 42 year-old hispanic asian female.
+      # Social History
+
+  [19:36:36] DOCUMENT: History and physical note
+    Status: superseded
+
+  [19:51:36] CLAIM: professional
+    Amount: USD 544.80
+
+
+📅 2025-07-01
+
+  [19:36:36] VISIT: General examination of patient (procedure)
+    Provider: Dr. Arla414 Fritsch593
+    Location: RIVER'S EDGE PRIMARY CARE LLC
+    Duration: 19:36:36 - 19:51:36
+
+  [19:36:36] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [19:36:36] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-07-01
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Laura391 is a 44 year-old hispanic asian female.
+      # Social History
+
+  [19:36:36] DOCUMENT: History and physical note
+    Status: current
+
+  [19:51:36] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2026-02-10
+
+  [18:36:36] PROVENANCE: Record activity
+    Agents: Dr. Arla414 Fritsch593, Dr. Arla414 Fritsch593
+
+================================================================================
+END OF TIMELINE (34 events)
+================================================================================

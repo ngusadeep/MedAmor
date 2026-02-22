@@ -1,0 +1,194 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Mrs. Clarice719 Beatty507
+  Patient ID: 29702
+  Date of Birth: 1977-02-21
+  Gender: Female
+  Race: White
+  Ethnicity: Not Hispanic or Latino
+  Marital Status: Married
+  Address: 469 McDermott Orchard Apt 55, West Boylston, MA 00000
+  Phone: 555-542-6548
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2017-02-27
+
+  [14:12:42] VISIT: General examination of patient (procedure)
+    Provider: Dr. Armando772 Carrera906
+    Location: NASH HEALTH CARE PRACTICES LLC
+    Duration: 14:12:42 - 14:27:42
+
+  [14:12:42] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [14:12:42] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [14:12:42] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-02-27
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Clarice719 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [14:12:42] DOCUMENT: History and physical note
+    Status: superseded
+
+  [14:27:42] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2019-03-04
+
+  [14:12:42] VISIT: General examination of patient (procedure)
+    Provider: Dr. Armando772 Carrera906
+    Location: NASH HEALTH CARE PRACTICES LLC
+    Duration: 14:12:42 - 14:27:42
+
+  [14:12:42] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [14:12:42] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [14:12:42] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [14:12:42] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-03-04
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Clarice719 is a 42 year-old nonhispanic white female.
+      # Social History
+
+  [14:12:42] DOCUMENT: History and physical note
+    Status: superseded
+
+  [14:27:42] CLAIM: professional
+    Amount: USD 544.80
+
+
+📅 2021-03-08
+
+  [14:12:42] VISIT: General examination of patient (procedure)
+    Provider: Dr. Armando772 Carrera906
+    Location: NASH HEALTH CARE PRACTICES LLC
+    Duration: 14:12:42 - 14:27:42
+
+  [14:12:42] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [14:12:42] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 30 mcg/0.3 mL dose
+    Status: completed
+
+  [14:12:42] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-03-08
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Clarice719 is a 44 year-old nonhispanic white female.
+      # Social History
+
+  [14:12:42] DOCUMENT: History and physical note
+    Status: superseded
+
+  [14:27:42] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2021-03-29
+
+  [15:12:42] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Brandon214 Gerlach374
+    Location: UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC
+    Duration: 15:12:42 - 15:27:42
+
+  [15:12:42] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 30 mcg/0.3 mL dose
+    Status: completed
+
+  [15:12:42] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-03-29
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Clarice719 is a 44 year-old nonhispanic white female.
+      # Social History
+
+  [15:12:42] DOCUMENT: History and physical note
+    Status: superseded
+
+  [15:27:42] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2023-03-13
+
+  [15:12:42] VISIT: General examination of patient (procedure)
+    Provider: Dr. Armando772 Carrera906
+    Location: NASH HEALTH CARE PRACTICES LLC
+    Duration: 15:12:42 - 15:27:42
+
+  [15:12:42] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [15:12:42] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-03-13
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Clarice719 is a 46 year-old nonhispanic white female.
+      # Social History
+
+  [15:12:42] DOCUMENT: History and physical note
+    Status: superseded
+
+  [15:27:42] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2025-03-17
+
+  [15:12:42] VISIT: General examination of patient (procedure)
+    Provider: Dr. Armando772 Carrera906
+    Location: NASH HEALTH CARE PRACTICES LLC
+    Duration: 15:12:42 - 15:27:42
+
+  [15:12:42] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [15:12:42] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-03-17
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Clarice719 is a 48 year-old nonhispanic white female.
+      # Social History
+
+  [15:12:42] DOCUMENT: History and physical note
+    Status: current
+
+  [15:27:42] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2026-02-09
+
+  [14:12:42] PROVENANCE: Record activity
+    Agents: Dr. Armando772 Carrera906, Dr. Armando772 Carrera906
+
+================================================================================
+END OF TIMELINE (35 events)
+================================================================================

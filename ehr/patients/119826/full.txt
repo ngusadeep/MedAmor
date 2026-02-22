@@ -1,0 +1,136 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Mrs. Nita296 Cordia574 Rath779
+  Patient ID: 119826
+  Date of Birth: 1985-04-29
+  Gender: Female
+  Race: White
+  Ethnicity: Not Hispanic or Latino
+  Marital Status: Married
+  Address: 109 Hoppe Arcade Apt 6, Taunton, MA 02767
+  Phone: 555-241-7842
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2016-07-11
+
+  [23:21:26] VISIT: General examination of patient (procedure)
+    Provider: Dr. Luz785 Orozco750
+    Location: TAUNTON MEDICAL CENTER, PC
+    Duration: 23:21:26 - 23:36:26
+
+  [23:21:26] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [23:21:26] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [23:21:26] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-07-11
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Nita296 Cordia574 is a 31 year-old nonhispanic white female.
+      # Social History
+
+  [23:21:26] DOCUMENT: History and physical note
+    Status: superseded
+
+  [23:36:26] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2019-07-15
+
+  [23:21:26] VISIT: General examination of patient (procedure)
+    Provider: Dr. Luz785 Orozco750
+    Location: TAUNTON MEDICAL CENTER, PC
+    Duration: 23:21:26 - 23:36:26
+
+  [23:21:26] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [23:21:26] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-07-15
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Nita296 Cordia574 is a 34 year-old nonhispanic white female.
+      # Social History
+
+  [23:21:26] DOCUMENT: History and physical note
+    Status: superseded
+
+  [23:36:26] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2022-07-18
+
+  [23:21:26] VISIT: General examination of patient (procedure)
+    Provider: Dr. Luz785 Orozco750
+    Location: TAUNTON MEDICAL CENTER, PC
+    Duration: 23:21:26 - 23:36:26
+
+  [23:21:26] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [23:21:26] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-07-18
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Nita296 Cordia574 is a 37 year-old nonhispanic white female.
+      # Social History
+
+  [23:21:26] DOCUMENT: History and physical note
+    Status: superseded
+
+  [23:36:26] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2025-05-05
+
+  [23:21:26] VISIT: General examination of patient (procedure)
+    Provider: Dr. Luz785 Orozco750
+    Location: TAUNTON MEDICAL CENTER, PC
+    Duration: 23:21:26 - 23:36:26
+
+  [23:21:26] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [23:21:26] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [23:21:26] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-05-05
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Nita296 Cordia574 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [23:21:26] DOCUMENT: History and physical note
+    Status: current
+
+  [23:36:26] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2026-02-09
+
+  [22:21:26] PROVENANCE: Record activity
+    Agents: Dr. Luz785 Orozco750, Dr. Luz785 Orozco750
+
+================================================================================
+END OF TIMELINE (23 events)
+================================================================================

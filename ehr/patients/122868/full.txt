@@ -1,0 +1,165 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Ms. Pamila110 Crooks415
+  Patient ID: 122868
+  Date of Birth: 1975-09-05
+  Gender: Female
+  Race: White
+  Ethnicity: Not Hispanic or Latino
+  Marital Status: Never Married
+  Address: 949 Ankunding Annex, Westport, MA 00000
+  Phone: 555-228-5752
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2017-09-15
+
+  [21:03:17] VISIT: General examination of patient (procedure)
+    Provider: Dr. Irina619 Stiedemann542
+    Location: NEW BEDFORD INTERNAL MEDICINE & GERIATRICS, LLC
+    Duration: 21:03:17 - 21:18:17
+
+  [21:03:17] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [21:03:17] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [21:03:17] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [21:03:17] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-09-15
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Pamila110 is a 42 year-old nonhispanic white female.
+      # Social History
+
+  [21:03:17] DOCUMENT: History and physical note
+    Status: superseded
+
+  [21:18:17] CLAIM: professional
+    Amount: USD 544.80
+
+
+📅 2019-09-20
+
+  [21:03:17] VISIT: General examination of patient (procedure)
+    Provider: Dr. Irina619 Stiedemann542
+    Location: NEW BEDFORD INTERNAL MEDICINE & GERIATRICS, LLC
+    Duration: 21:03:17 - 21:18:17
+
+  [21:03:17] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [21:03:17] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-09-20
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Pamila110 is a 44 year-old nonhispanic white female.
+      # Social History
+
+  [21:03:17] DOCUMENT: History and physical note
+    Status: superseded
+
+  [21:18:17] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2021-09-24
+
+  [21:03:17] VISIT: General examination of patient (procedure)
+    Provider: Dr. Irina619 Stiedemann542
+    Location: NEW BEDFORD INTERNAL MEDICINE & GERIATRICS, LLC
+    Duration: 21:03:17 - 21:18:17
+
+  [21:03:17] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [21:03:17] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-09-24
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Pamila110 is a 46 year-old nonhispanic white female.
+      # Social History
+
+  [21:03:17] DOCUMENT: History and physical note
+    Status: superseded
+
+  [21:18:17] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2023-09-29
+
+  [21:03:17] VISIT: General examination of patient (procedure)
+    Provider: Dr. Irina619 Stiedemann542
+    Location: NEW BEDFORD INTERNAL MEDICINE & GERIATRICS, LLC
+    Duration: 21:03:17 - 21:18:17
+
+  [21:03:17] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [21:03:17] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-09-29
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Pamila110 is a 48 year-old nonhispanic white female.
+      # Social History
+
+  [21:03:17] DOCUMENT: History and physical note
+    Status: superseded
+
+  [21:18:17] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2025-09-05
+
+  [21:03:17] VISIT: General examination of patient (procedure)
+    Provider: Dr. Irina619 Stiedemann542
+    Location: NEW BEDFORD INTERNAL MEDICINE & GERIATRICS, LLC
+    Duration: 21:03:17 - 21:18:17
+
+  [21:03:17] IMMUNIZATION: zoster vaccine, live
+    Status: completed
+
+  [21:03:17] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [21:03:17] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-09-05
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Pamila110 is a 50 year-old nonhispanic white female.
+      # Social History
+
+  [21:03:17] DOCUMENT: History and physical note
+    Status: current
+
+  [21:18:17] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2026-02-13
+
+  [20:03:17] PROVENANCE: Record activity
+    Agents: Dr. Irina619 Stiedemann542, Dr. Irina619 Stiedemann542
+
+================================================================================
+END OF TIMELINE (29 events)
+================================================================================

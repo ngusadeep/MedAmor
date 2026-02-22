@@ -1,0 +1,217 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Mrs. Sonia106 Bermúdez789
+  Patient ID: 141456
+  Date of Birth: 1977-10-11
+  Gender: Female
+  Race: Asian
+  Ethnicity: Hispanic or Latino
+  Marital Status: Married
+  Address: 895 Nolan Loaf, Somerville, MA 02144
+  Phone: 555-367-8336
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2017-10-17
+
+  [23:38:00] VISIT: General examination of patient (procedure)
+    Provider: Dr. Rubén780 Padrón382
+    Location: DAVIS SQUARE FAMILY PRACTICE
+    Duration: 23:38:00 - 23:53:00
+
+  [23:38:00] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [23:38:00] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [23:38:00] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-10-17
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Sonia106 is a 40 year-old hispanic asian female.
+      # Social History
+
+  [23:38:00] DOCUMENT: History and physical note
+    Status: superseded
+
+  [23:53:00] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2019-10-22
+
+  [23:38:00] VISIT: General examination of patient (procedure)
+    Provider: Dr. Rubén780 Padrón382
+    Location: DAVIS SQUARE FAMILY PRACTICE
+    Duration: 23:38:00 - 23:53:00
+
+  [23:38:00] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [23:38:00] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [23:38:00] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [23:38:00] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-10-22
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Sonia106 is a 42 year-old hispanic asian female.
+      # Social History
+
+  [23:38:00] DOCUMENT: History and physical note
+    Status: superseded
+
+  [23:53:00] CLAIM: professional
+    Amount: USD 544.80
+
+
+📅 2021-04-06
+
+  [23:38:00] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Nicholas495 Greenfelder433
+    Location: CAMBRIDGE PUBLIC HEALTH COMMISSION
+    Duration: 23:38:00 - 23:53:00
+
+  [23:38:00] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+    Status: completed
+
+  [23:38:00] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-04-06
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Sonia106 is a 43 year-old hispanic asian female.
+      # Social History
+
+  [23:38:00] DOCUMENT: History and physical note
+    Status: superseded
+
+  [23:53:00] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-05-04
+
+  [23:38:00] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Nicholas495 Greenfelder433
+    Location: CAMBRIDGE PUBLIC HEALTH COMMISSION
+    Duration: 23:38:00 - 23:53:00
+
+  [23:38:00] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+    Status: completed
+
+  [23:38:00] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-05-04
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Sonia106 is a 43 year-old hispanic asian female.
+      # Social History
+
+  [23:38:00] DOCUMENT: History and physical note
+    Status: superseded
+
+  [23:53:00] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-10-26
+
+  [23:38:00] VISIT: General examination of patient (procedure)
+    Provider: Dr. Rubén780 Padrón382
+    Location: DAVIS SQUARE FAMILY PRACTICE
+    Duration: 23:38:00 - 23:53:00
+
+  [23:38:00] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [23:38:00] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-10-26
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Sonia106 is a 44 year-old hispanic asian female.
+      # Social History
+
+  [23:38:00] DOCUMENT: History and physical note
+    Status: superseded
+
+  [23:53:00] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2023-10-31
+
+  [23:38:00] VISIT: General examination of patient (procedure)
+    Provider: Dr. Rubén780 Padrón382
+    Location: DAVIS SQUARE FAMILY PRACTICE
+    Duration: 23:38:00 - 23:53:00
+
+  [23:38:00] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [23:38:00] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-10-31
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Sonia106 is a 46 year-old hispanic asian female.
+      # Social History
+
+  [23:38:00] DOCUMENT: History and physical note
+    Status: superseded
+
+  [23:53:00] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2025-11-04
+
+  [22:38:00] VISIT: General examination of patient (procedure)
+    Provider: Dr. Rubén780 Padrón382
+    Location: DAVIS SQUARE FAMILY PRACTICE
+    Duration: 22:38:00 - 22:53:00
+
+  [22:38:00] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [22:38:00] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-11-04
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Sonia106 is a 48 year-old hispanic asian female.
+      # Social History
+
+  [22:38:00] DOCUMENT: History and physical note
+    Status: current
+
+  [22:53:00] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2026-02-10
+
+  [22:38:00] PROVENANCE: Record activity
+    Agents: Dr. Rubén780 Padrón382, Dr. Rubén780 Padrón382
+
+================================================================================
+END OF TIMELINE (39 events)
+================================================================================

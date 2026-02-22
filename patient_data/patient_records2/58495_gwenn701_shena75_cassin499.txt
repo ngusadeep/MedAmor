@@ -1,0 +1,191 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Mrs. Gwenn701 Shena75 Cassin499
+  Patient ID: 58495
+  Date of Birth: 1978-11-13
+  Gender: Female
+  Race: Asian
+  Ethnicity: Not Hispanic or Latino
+  Marital Status: Divorced
+  Address: 581 Mayer Glen, Malden, MA 02148
+  Phone: 555-438-5820
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2018-11-19
+
+  [03:37:18] VISIT: General examination of patient (procedure)
+    Provider: Dr. Pearlie554 Lakin515
+    Location: EDEN HOME HEALTH CARE LLC
+    Duration: 03:37:18 - 03:52:18
+
+  [03:37:18] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [03:37:18] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [03:37:18] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-11-19
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Gwenn701 Shena75 is a 40 year-old nonhispanic asian female.
+      # Social History
+
+  [03:37:18] DOCUMENT: History and physical note
+    Status: superseded
+
+  [03:52:18] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2020-11-23
+
+  [03:37:18] VISIT: General examination of patient (procedure)
+    Provider: Dr. Pearlie554 Lakin515
+    Location: EDEN HOME HEALTH CARE LLC
+    Duration: 03:37:18 - 03:52:18
+
+  [03:37:18] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [03:37:18] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [03:37:18] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [03:37:18] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-11-23
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Gwenn701 Shena75 is a 42 year-old nonhispanic asian female.
+      # Social History
+
+  [03:37:18] DOCUMENT: History and physical note
+    Status: superseded
+
+  [03:52:18] CLAIM: professional
+    Amount: USD 544.80
+
+
+📅 2021-03-15
+
+  [04:37:18] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Cira533 Jakubowski832
+    Location: ENCOMPASS HEALTH REHABILITATION HOSP OF NEW ENGLAN
+    Duration: 04:37:18 - 04:52:18
+
+  [04:37:18] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 30 mcg/0.3 mL dose
+    Status: completed
+
+  [04:37:18] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-03-15
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Gwenn701 Shena75 is a 42 year-old nonhispanic asian female.
+      # Social History
+
+  [04:37:18] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:52:18] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-04-05
+
+  [04:37:18] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Cira533 Jakubowski832
+    Location: ENCOMPASS HEALTH REHABILITATION HOSP OF NEW ENGLAN
+    Duration: 04:37:18 - 04:52:18
+
+  [04:37:18] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 30 mcg/0.3 mL dose
+    Status: completed
+
+  [04:37:18] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-04-05
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Gwenn701 Shena75 is a 42 year-old nonhispanic asian female.
+      # Social History
+
+  [04:37:18] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:52:18] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2022-11-28
+
+  [03:37:18] VISIT: General examination of patient (procedure)
+    Provider: Dr. Pearlie554 Lakin515
+    Location: EDEN HOME HEALTH CARE LLC
+    Duration: 03:37:18 - 03:52:18
+
+  [03:37:18] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [03:37:18] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-11-28
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Gwenn701 Shena75 is a 44 year-old nonhispanic asian female.
+      # Social History
+
+  [03:37:18] DOCUMENT: History and physical note
+    Status: superseded
+
+  [03:52:18] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2024-12-02
+
+  [03:37:18] VISIT: General examination of patient (procedure)
+    Provider: Dr. Pearlie554 Lakin515
+    Location: EDEN HOME HEALTH CARE LLC
+    Duration: 03:37:18 - 03:52:18
+
+  [03:37:18] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [03:37:18] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-12-02
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Gwenn701 Shena75 is a 46 year-old nonhispanic asian female.
+      # Social History
+
+  [03:37:18] DOCUMENT: History and physical note
+    Status: current
+
+  [03:52:18] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2026-02-16
+
+  [03:37:18] PROVENANCE: Record activity
+    Agents: Dr. Pearlie554 Lakin515, Dr. Pearlie554 Lakin515
+
+================================================================================
+END OF TIMELINE (34 events)
+================================================================================

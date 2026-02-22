@@ -1,0 +1,139 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Mrs. Charlyn749 Catarina933 McClure239
+  Patient ID: 27254
+  Date of Birth: 1978-05-03
+  Gender: Female
+  Race: Black or African American
+  Ethnicity: Hispanic or Latino
+  Marital Status: Married
+  Address: 501 Barrows Extension Suite 39, Springfield, MA 01118
+  Phone: 555-398-5590
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2018-05-09
+
+  [01:05:42] VISIT: General examination of patient (procedure)
+    Provider: Dr. Christeen33 Toy286
+    Location: JEWISH FAMILY SERVICE OF WESTERN MASSACHUSETTS INC.
+    Duration: 01:05:42 - 01:20:42
+
+  [01:05:42] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [01:05:42] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [01:05:42] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-05-09
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Charlyn749 Catarina933 is a 40 year-old hispanic black female.
+      # Social History
+
+  [01:05:42] DOCUMENT: History and physical note
+    Status: superseded
+
+  [01:20:42] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2020-05-13
+
+  [01:05:42] VISIT: General examination of patient (procedure)
+    Provider: Dr. Christeen33 Toy286
+    Location: JEWISH FAMILY SERVICE OF WESTERN MASSACHUSETTS INC.
+    Duration: 01:05:42 - 01:20:42
+
+  [01:05:42] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [01:05:42] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [01:05:42] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [01:05:42] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-05-13
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Charlyn749 Catarina933 is a 42 year-old hispanic black female.
+      # Social History
+
+  [01:05:42] DOCUMENT: History and physical note
+    Status: superseded
+
+  [01:20:42] CLAIM: professional
+    Amount: USD 544.80
+
+
+📅 2022-05-18
+
+  [01:05:42] VISIT: General examination of patient (procedure)
+    Provider: Dr. Christeen33 Toy286
+    Location: JEWISH FAMILY SERVICE OF WESTERN MASSACHUSETTS INC.
+    Duration: 01:05:42 - 01:20:42
+
+  [01:05:42] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [01:05:42] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-05-18
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Charlyn749 Catarina933 is a 44 year-old hispanic black female.
+      # Social History
+
+  [01:05:42] DOCUMENT: History and physical note
+    Status: superseded
+
+  [01:20:42] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2024-05-22
+
+  [01:05:42] VISIT: General examination of patient (procedure)
+    Provider: Dr. Christeen33 Toy286
+    Location: JEWISH FAMILY SERVICE OF WESTERN MASSACHUSETTS INC.
+    Duration: 01:05:42 - 01:20:42
+
+  [01:05:42] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [01:05:42] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-05-22
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Charlyn749 Catarina933 is a 46 year-old hispanic black female.
+      # Social History
+
+  [01:05:42] DOCUMENT: History and physical note
+    Status: current
+
+  [01:20:42] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2026-02-11
+
+  [00:05:42] PROVENANCE: Record activity
+    Agents: Dr. Christeen33 Toy286, Dr. Christeen33 Toy286
+
+================================================================================
+END OF TIMELINE (24 events)
+================================================================================

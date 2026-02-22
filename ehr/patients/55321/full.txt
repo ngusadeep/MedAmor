@@ -1,0 +1,217 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Mrs. Gerda633 Gidget756 Koepp521
+  Patient ID: 55321
+  Date of Birth: 1975-06-23
+  Gender: Female
+  Race: White
+  Ethnicity: Not Hispanic or Latino
+  Marital Status: Married
+  Address: 222 Schuster Lock Suite 10, Boston, MA 02116
+  Phone: 555-812-9968
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2017-07-03
+
+  [01:02:40] VISIT: General examination of patient (procedure)
+    Provider: Dr. Lai148 Nicolas769
+    Location: UPHAMS CORNER HEALTH COMMITTEE INC
+    Duration: 01:02:40 - 01:17:40
+
+  [01:02:40] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [01:02:40] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [01:02:40] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [01:02:40] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-07-03
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Gerda633 Gidget756 is a 42 year-old nonhispanic white female.
+      # Social History
+
+  [01:02:40] DOCUMENT: History and physical note
+    Status: superseded
+
+  [01:17:40] CLAIM: professional
+    Amount: USD 544.80
+
+
+📅 2019-07-08
+
+  [01:02:40] VISIT: General examination of patient (procedure)
+    Provider: Dr. Lai148 Nicolas769
+    Location: UPHAMS CORNER HEALTH COMMITTEE INC
+    Duration: 01:02:40 - 01:17:40
+
+  [01:02:40] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [01:02:40] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-07-08
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Gerda633 Gidget756 is a 44 year-old nonhispanic white female.
+      # Social History
+
+  [01:02:40] DOCUMENT: History and physical note
+    Status: superseded
+
+  [01:17:40] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2021-04-26
+
+  [01:02:40] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Latoyia537 Lindgren255
+    Location: DR SOLOMON CARTER FULLER MENTAL HEALTH CENTER
+    Duration: 01:02:40 - 01:17:40
+
+  [01:02:40] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+    Status: completed
+
+  [01:02:40] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-04-26
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Gerda633 Gidget756 is a 45 year-old nonhispanic white female.
+      # Social History
+
+  [01:02:40] DOCUMENT: History and physical note
+    Status: superseded
+
+  [01:17:40] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-05-24
+
+  [01:02:40] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Latoyia537 Lindgren255
+    Location: DR SOLOMON CARTER FULLER MENTAL HEALTH CENTER
+    Duration: 01:02:40 - 01:17:40
+
+  [01:02:40] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+    Status: completed
+
+  [01:02:40] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-05-24
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Gerda633 Gidget756 is a 45 year-old nonhispanic white female.
+      # Social History
+
+  [01:02:40] DOCUMENT: History and physical note
+    Status: superseded
+
+  [01:17:40] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-07-12
+
+  [01:02:40] VISIT: General examination of patient (procedure)
+    Provider: Dr. Lai148 Nicolas769
+    Location: UPHAMS CORNER HEALTH COMMITTEE INC
+    Duration: 01:02:40 - 01:17:40
+
+  [01:02:40] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [01:02:40] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-07-12
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Gerda633 Gidget756 is a 46 year-old nonhispanic white female.
+      # Social History
+
+  [01:02:40] DOCUMENT: History and physical note
+    Status: superseded
+
+  [01:17:40] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2023-07-17
+
+  [01:02:40] VISIT: General examination of patient (procedure)
+    Provider: Dr. Lai148 Nicolas769
+    Location: UPHAMS CORNER HEALTH COMMITTEE INC
+    Duration: 01:02:40 - 01:17:40
+
+  [01:02:40] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [01:02:40] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-07-17
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Gerda633 Gidget756 is a 48 year-old nonhispanic white female.
+      # Social History
+
+  [01:02:40] DOCUMENT: History and physical note
+    Status: superseded
+
+  [01:17:40] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2025-06-23
+
+  [01:02:40] VISIT: General examination of patient (procedure)
+    Provider: Dr. Lai148 Nicolas769
+    Location: UPHAMS CORNER HEALTH COMMITTEE INC
+    Duration: 01:02:40 - 01:17:40
+
+  [01:02:40] IMMUNIZATION: zoster vaccine, live
+    Status: completed
+
+  [01:02:40] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [01:02:40] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-06-23
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Gerda633 Gidget756 is a 50 year-old nonhispanic white female.
+      # Social History
+
+  [01:02:40] DOCUMENT: History and physical note
+    Status: current
+
+  [01:17:40] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2026-02-16
+
+  [00:02:40] PROVENANCE: Record activity
+    Agents: Dr. Lai148 Nicolas769, Dr. Lai148 Nicolas769
+
+================================================================================
+END OF TIMELINE (39 events)
+================================================================================

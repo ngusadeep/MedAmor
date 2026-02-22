@@ -1,0 +1,217 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Mrs. Cathi439 Jast432
+  Patient ID: 26139
+  Date of Birth: 1976-01-14
+  Gender: Female
+  Race: White
+  Ethnicity: Not Hispanic or Latino
+  Marital Status: Divorced
+  Address: 945 Hagenes Station Apt 70, Wendell, MA 00000
+  Phone: 555-756-1595
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2018-01-24
+
+  [06:53:12] VISIT: General examination of patient (procedure)
+    Provider: Dr. Malcolm243 Kuvalis369
+    Location: COMMUNITY HEALTH CENTER OF FRANKLIN CO INC
+    Duration: 06:53:12 - 07:08:12
+
+  [06:53:12] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [06:53:12] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [06:53:12] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [06:53:12] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-01-24
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Cathi439 is a 42 year-old nonhispanic white female.
+      # Social History
+
+  [06:53:12] DOCUMENT: History and physical note
+    Status: superseded
+
+  [07:08:12] CLAIM: professional
+    Amount: USD 544.80
+
+
+📅 2020-01-29
+
+  [06:53:12] VISIT: General examination of patient (procedure)
+    Provider: Dr. Malcolm243 Kuvalis369
+    Location: COMMUNITY HEALTH CENTER OF FRANKLIN CO INC
+    Duration: 06:53:12 - 07:08:12
+
+  [06:53:12] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [06:53:12] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-01-29
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Cathi439 is a 44 year-old nonhispanic white female.
+      # Social History
+
+  [06:53:12] DOCUMENT: History and physical note
+    Status: superseded
+
+  [07:08:12] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2021-05-05
+
+  [07:53:12] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Minh326 Smitham825
+    Location: ATHOL MEMORIAL HOSPITAL
+    Duration: 07:53:12 - 08:08:12
+
+  [07:53:12] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+    Status: completed
+
+  [07:53:12] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-05-05
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Cathi439 is a 45 year-old nonhispanic white female.
+      # Social History
+
+  [07:53:12] DOCUMENT: History and physical note
+    Status: superseded
+
+  [08:08:12] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-06-02
+
+  [07:53:12] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Minh326 Smitham825
+    Location: ATHOL MEMORIAL HOSPITAL
+    Duration: 07:53:12 - 08:08:12
+
+  [07:53:12] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+    Status: completed
+
+  [07:53:12] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-06-02
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Cathi439 is a 45 year-old nonhispanic white female.
+      # Social History
+
+  [07:53:12] DOCUMENT: History and physical note
+    Status: superseded
+
+  [08:08:12] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2022-02-02
+
+  [06:53:12] VISIT: General examination of patient (procedure)
+    Provider: Dr. Malcolm243 Kuvalis369
+    Location: COMMUNITY HEALTH CENTER OF FRANKLIN CO INC
+    Duration: 06:53:12 - 07:08:12
+
+  [06:53:12] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [06:53:12] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-02-02
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Cathi439 is a 46 year-old nonhispanic white female.
+      # Social History
+
+  [06:53:12] DOCUMENT: History and physical note
+    Status: superseded
+
+  [07:08:12] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2024-02-07
+
+  [06:53:12] VISIT: General examination of patient (procedure)
+    Provider: Dr. Malcolm243 Kuvalis369
+    Location: COMMUNITY HEALTH CENTER OF FRANKLIN CO INC
+    Duration: 06:53:12 - 07:08:12
+
+  [06:53:12] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [06:53:12] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-02-07
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Cathi439 is a 48 year-old nonhispanic white female.
+      # Social History
+
+  [06:53:12] DOCUMENT: History and physical note
+    Status: superseded
+
+  [07:08:12] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2026-01-14
+
+  [06:53:12] VISIT: General examination of patient (procedure)
+    Provider: Dr. Malcolm243 Kuvalis369
+    Location: COMMUNITY HEALTH CENTER OF FRANKLIN CO INC
+    Duration: 06:53:12 - 07:08:12
+
+  [06:53:12] IMMUNIZATION: zoster vaccine, live
+    Status: completed
+
+  [06:53:12] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [06:53:12] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2026-01-14
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Cathi439 is a 50 year-old nonhispanic white female.
+      # Social History
+
+  [06:53:12] DOCUMENT: History and physical note
+    Status: current
+
+  [07:08:12] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2026-02-11
+
+  [06:53:12] PROVENANCE: Record activity
+    Agents: Dr. Malcolm243 Kuvalis369, Dr. Malcolm243 Kuvalis369
+
+================================================================================
+END OF TIMELINE (39 events)
+================================================================================

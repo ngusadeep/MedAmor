@@ -1,0 +1,107 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Mrs. Shery223 Maribel82 Feeney44
+  Patient ID: 139012
+  Date of Birth: 1984-10-07
+  Gender: Female
+  Race: White
+  Ethnicity: Not Hispanic or Latino
+  Marital Status: Married
+  Address: 1079 Cremin Manor, Worcester, MA 01602
+  Phone: 555-536-3703
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2018-12-23
+
+  [20:45:10] VISIT: General examination of patient (procedure)
+    Provider: Dr. Armando772 Carrera906
+    Location: NASH HEALTH CARE PRACTICES LLC
+    Duration: 20:45:10 - 21:00:10
+
+  [20:45:10] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [20:45:10] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-12-23
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Shery223 Maribel82 is a 34 year-old nonhispanic white female.
+      # Social History
+
+  [20:45:10] DOCUMENT: History and physical note
+    Status: superseded
+
+  [21:00:10] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2021-12-26
+
+  [20:45:10] VISIT: General examination of patient (procedure)
+    Provider: Dr. Armando772 Carrera906
+    Location: NASH HEALTH CARE PRACTICES LLC
+    Duration: 20:45:10 - 21:00:10
+
+  [20:45:10] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [20:45:10] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-12-26
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Shery223 Maribel82 is a 37 year-old nonhispanic white female.
+      # Social History
+
+  [20:45:10] DOCUMENT: History and physical note
+    Status: superseded
+
+  [21:00:10] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2024-10-13
+
+  [21:45:10] VISIT: General examination of patient (procedure)
+    Provider: Dr. Armando772 Carrera906
+    Location: NASH HEALTH CARE PRACTICES LLC
+    Duration: 21:45:10 - 22:00:10
+
+  [21:45:10] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [21:45:10] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [21:45:10] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-10-13
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Shery223 Maribel82 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [21:45:10] DOCUMENT: History and physical note
+    Status: current
+
+  [22:00:10] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2026-02-15
+
+  [20:45:10] PROVENANCE: Record activity
+    Agents: Dr. Armando772 Carrera906, Dr. Armando772 Carrera906
+
+================================================================================
+END OF TIMELINE (17 events)
+================================================================================

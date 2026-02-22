@@ -1,0 +1,243 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Mrs. Elsa29 Mariel814 Schamberger479
+  Patient ID: 45613
+  Date of Birth: 1974-01-07
+  Gender: Female
+  Race: White
+  Ethnicity: Not Hispanic or Latino
+  Marital Status: Divorced
+  Address: 830 Barton Grove, Worcester, MA 01610
+  Phone: 555-528-8546
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2018-01-22
+
+  [13:28:14] VISIT: General examination of patient (procedure)
+    Provider: Dr. Viki353 Boehm581
+    Location: FAMILY HEALTH CENTER OF WORCESTER, INC.
+    Duration: 13:28:14 - 13:43:14
+
+  [13:28:14] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [13:28:14] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-01-22
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Elsa29 Mariel814 is a 44 year-old nonhispanic white female.
+      # Social History
+
+  [13:28:14] DOCUMENT: History and physical note
+    Status: superseded
+
+  [13:43:14] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2020-01-27
+
+  [13:28:14] VISIT: General examination of patient (procedure)
+    Provider: Dr. Viki353 Boehm581
+    Location: FAMILY HEALTH CENTER OF WORCESTER, INC.
+    Duration: 13:28:14 - 13:43:14
+
+  [13:28:14] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [13:28:14] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-01-27
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Elsa29 Mariel814 is a 46 year-old nonhispanic white female.
+      # Social History
+
+  [13:28:14] DOCUMENT: History and physical note
+    Status: superseded
+
+  [13:43:14] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2021-04-05
+
+  [14:28:14] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Celine582 Pagac496
+    Location: VHS ACQUISITION SUBSIDIARY NUMBER 7 INC
+    Duration: 14:28:14 - 14:43:14
+
+  [14:28:14] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 30 mcg/0.3 mL dose
+    Status: completed
+
+  [14:28:14] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-04-05
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Elsa29 Mariel814 is a 47 year-old nonhispanic white female.
+      # Social History
+
+  [14:28:14] DOCUMENT: History and physical note
+    Status: superseded
+
+  [14:43:14] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-04-26
+
+  [14:28:14] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Celine582 Pagac496
+    Location: VHS ACQUISITION SUBSIDIARY NUMBER 7 INC
+    Duration: 14:28:14 - 14:43:14
+
+  [14:28:14] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 30 mcg/0.3 mL dose
+    Status: completed
+
+  [14:28:14] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-04-26
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Elsa29 Mariel814 is a 47 year-old nonhispanic white female.
+      # Social History
+
+  [14:28:14] DOCUMENT: History and physical note
+    Status: superseded
+
+  [14:43:14] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2022-01-31
+
+  [13:28:14] VISIT: General examination of patient (procedure)
+    Provider: Dr. Viki353 Boehm581
+    Location: FAMILY HEALTH CENTER OF WORCESTER, INC.
+    Duration: 13:28:14 - 13:43:14
+
+  [13:28:14] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [13:28:14] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-01-31
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Elsa29 Mariel814 is a 48 year-old nonhispanic white female.
+      # Social History
+
+  [13:28:14] DOCUMENT: History and physical note
+    Status: superseded
+
+  [13:43:14] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2024-01-08
+
+  [13:28:14] VISIT: General examination of patient (procedure)
+    Provider: Dr. Viki353 Boehm581
+    Location: FAMILY HEALTH CENTER OF WORCESTER, INC.
+    Duration: 13:28:14 - 13:43:14
+
+  [13:28:14] IMMUNIZATION: zoster vaccine, live
+    Status: completed
+
+  [13:28:14] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [13:28:14] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-01-08
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Elsa29 Mariel814 is a 50 year-old nonhispanic white female.
+      # Social History
+
+  [13:28:14] DOCUMENT: History and physical note
+    Status: superseded
+
+  [13:43:14] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2025-01-13
+
+  [13:28:14] VISIT: General examination of patient (procedure)
+    Provider: Dr. Viki353 Boehm581
+    Location: FAMILY HEALTH CENTER OF WORCESTER, INC.
+    Duration: 13:28:14 - 13:43:14
+
+  [13:28:14] IMMUNIZATION: zoster vaccine, live
+    Status: completed
+
+  [13:28:14] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [13:28:14] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [13:28:14] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-01-13
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Elsa29 Mariel814 is a 51 year-old nonhispanic white female.
+      # Social History
+
+  [13:28:14] DOCUMENT: History and physical note
+    Status: superseded
+
+  [13:43:14] CLAIM: professional
+    Amount: USD 544.80
+
+
+📅 2026-01-19
+
+  [13:28:14] VISIT: General examination of patient (procedure)
+    Provider: Dr. Viki353 Boehm581
+    Location: FAMILY HEALTH CENTER OF WORCESTER, INC.
+    Duration: 13:28:14 - 13:43:14
+
+  [13:28:14] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [13:28:14] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2026-01-19
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Elsa29 Mariel814 is a 52 year-old nonhispanic white female.
+      # Social History
+
+  [13:28:14] DOCUMENT: History and physical note
+    Status: current
+
+  [13:43:14] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2026-02-09
+
+  [13:28:14] PROVENANCE: Record activity
+    Agents: Dr. Viki353 Boehm581, Dr. Viki353 Boehm581
+
+================================================================================
+END OF TIMELINE (44 events)
+================================================================================

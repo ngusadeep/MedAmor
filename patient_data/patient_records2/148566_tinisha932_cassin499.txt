@@ -1,0 +1,295 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Mrs. Tinisha932 Cassin499
+  Patient ID: 148566
+  Date of Birth: 1969-01-19
+  Gender: Female
+  Race: White
+  Ethnicity: Not Hispanic or Latino
+  Marital Status: Married
+  Address: 560 Beier Crossing, Shirley, MA 01464
+  Phone: 555-542-7454
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2017-02-12
+
+  [07:03:28] VISIT: General examination of patient (procedure)
+    Provider: Dr. Christopher407 Mohr916
+    Location: CEDAR STREET FAMILY CLINIC INC
+    Duration: 07:03:28 - 07:18:28
+
+  [07:03:28] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [07:03:28] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-02-12
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Tinisha932 is a 48 year-old nonhispanic white female.
+      # Social History
+
+  [07:03:28] DOCUMENT: History and physical note
+    Status: superseded
+
+  [07:18:28] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2019-01-20
+
+  [07:03:28] VISIT: General examination of patient (procedure)
+    Provider: Dr. Christopher407 Mohr916
+    Location: CEDAR STREET FAMILY CLINIC INC
+    Duration: 07:03:28 - 07:18:28
+
+  [07:03:28] IMMUNIZATION: zoster vaccine, live
+    Status: completed
+
+  [07:03:28] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [07:03:28] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-01-20
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Tinisha932 is a 50 year-old nonhispanic white female.
+      # Social History
+
+  [07:03:28] DOCUMENT: History and physical note
+    Status: superseded
+
+  [07:18:28] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2020-01-26
+
+  [07:03:28] VISIT: General examination of patient (procedure)
+    Provider: Dr. Christopher407 Mohr916
+    Location: CEDAR STREET FAMILY CLINIC INC
+    Duration: 07:03:28 - 07:18:28
+
+  [07:03:28] IMMUNIZATION: zoster vaccine, live
+    Status: completed
+
+  [07:03:28] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [07:03:28] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [07:03:28] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-01-26
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Tinisha932 is a 51 year-old nonhispanic white female.
+      # Social History
+
+  [07:03:28] DOCUMENT: History and physical note
+    Status: superseded
+
+  [07:18:28] CLAIM: professional
+    Amount: USD 544.80
+
+
+📅 2021-01-31
+
+  [07:03:28] VISIT: General examination of patient (procedure)
+    Provider: Dr. Christopher407 Mohr916
+    Location: CEDAR STREET FAMILY CLINIC INC
+    Duration: 07:03:28 - 07:18:28
+
+  [07:03:28] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [07:03:28] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-01-31
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Tinisha932 is a 52 year-old nonhispanic white female.
+      # Social History
+
+  [07:03:28] DOCUMENT: History and physical note
+    Status: superseded
+
+  [07:18:28] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2021-03-14
+
+  [08:03:28] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Dorotea472 Lara964
+    Location: DEVENS TREATMENT & RECOVERY CENTER LLC
+    Duration: 08:03:28 - 08:18:28
+
+  [08:03:28] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+    Status: completed
+
+  [08:03:28] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-03-14
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Tinisha932 is a 52 year-old nonhispanic white female.
+      # Social History
+
+  [08:03:28] DOCUMENT: History and physical note
+    Status: superseded
+
+  [08:18:28] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-04-11
+
+  [08:03:28] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Dorotea472 Lara964
+    Location: DEVENS TREATMENT & RECOVERY CENTER LLC
+    Duration: 08:03:28 - 08:18:28
+
+  [08:03:28] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+    Status: completed
+
+  [08:03:28] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-04-11
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Tinisha932 is a 52 year-old nonhispanic white female.
+      # Social History
+
+  [08:03:28] DOCUMENT: History and physical note
+    Status: superseded
+
+  [08:18:28] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2022-02-06
+
+  [07:03:28] VISIT: General examination of patient (procedure)
+    Provider: Dr. Christopher407 Mohr916
+    Location: CEDAR STREET FAMILY CLINIC INC
+    Duration: 07:03:28 - 07:18:28
+
+  [07:03:28] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [07:03:28] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-02-06
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Tinisha932 is a 53 year-old nonhispanic white female.
+      # Social History
+
+  [07:03:28] DOCUMENT: History and physical note
+    Status: superseded
+
+  [07:18:28] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2023-02-12
+
+  [07:03:28] VISIT: General examination of patient (procedure)
+    Provider: Dr. Christopher407 Mohr916
+    Location: CEDAR STREET FAMILY CLINIC INC
+    Duration: 07:03:28 - 07:18:28
+
+  [07:03:28] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [07:03:28] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-02-12
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Tinisha932 is a 54 year-old nonhispanic white female.
+      # Social History
+
+  [07:03:28] DOCUMENT: History and physical note
+    Status: superseded
+
+  [07:18:28] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2024-02-18
+
+  [07:03:28] VISIT: General examination of patient (procedure)
+    Provider: Dr. Christopher407 Mohr916
+    Location: CEDAR STREET FAMILY CLINIC INC
+    Duration: 07:03:28 - 07:18:28
+
+  [07:03:28] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [07:03:28] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-02-18
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Tinisha932 is a 55 year-old nonhispanic white female.
+      # Social History
+
+  [07:03:28] DOCUMENT: History and physical note
+    Status: superseded
+
+  [07:18:28] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2025-02-23
+
+  [07:03:28] VISIT: General examination of patient (procedure)
+    Provider: Dr. Christopher407 Mohr916
+    Location: CEDAR STREET FAMILY CLINIC INC
+    Duration: 07:03:28 - 07:18:28
+
+  [07:03:28] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [07:03:28] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-02-23
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Tinisha932 is a 56 year-old nonhispanic white female.
+      # Social History
+
+  [07:03:28] DOCUMENT: History and physical note
+    Status: current
+
+  [07:18:28] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2026-02-15
+
+  [07:03:28] PROVENANCE: Record activity
+    Agents: Dr. Christopher407 Mohr916, Dr. Christopher407 Mohr916
+
+================================================================================
+END OF TIMELINE (54 events)
+================================================================================

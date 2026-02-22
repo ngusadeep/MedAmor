@@ -1,0 +1,1575 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Mrs. Lourdes258 Irene779 Santacruz647
+  Patient ID: 96453
+  Date of Birth: 1956-06-30
+  Gender: Female
+  Race: White
+  Ethnicity: Hispanic or Latino
+  Marital Status: Married
+  Address: 386 Stiedemann Orchard Apt 12, Northborough, MA 01532
+  Phone: 555-527-3920
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 1978-09-02
+
+  [06:46:52] VISIT: General examination of patient (procedure)
+    Provider: Dr. Althea11 Ankunding277
+    Location: MIDDLESEX INTERNAL MEDICINE ASSOCIATES, INC
+    Duration: 06:46:52 - 07:01:52
+
+  [06:46:52] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [06:46:52] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      1978-09-02
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lourdes258 Irene779 is a 22 year-old hispanic white female.
+      # Social History
+
+  [06:46:52] DOCUMENT: History and physical note
+    Status: superseded
+
+  [07:01:52] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 1981-09-05
+
+  [06:46:52] VISIT: General examination of patient (procedure)
+    Provider: Dr. Althea11 Ankunding277
+    Location: MIDDLESEX INTERNAL MEDICINE ASSOCIATES, INC
+    Duration: 06:46:52 - 07:01:52
+
+  [06:46:52] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [06:46:52] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      1981-09-05
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lourdes258 Irene779 is a 25 year-old hispanic white female.
+      # Social History
+
+  [06:46:52] DOCUMENT: History and physical note
+    Status: superseded
+
+  [07:01:52] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 1984-07-06
+
+  [06:46:52] VISIT: Periodic reevaluation and management of healthy individual (procedure)
+    Reason: Screening for malignant neoplasm of breast (procedure)
+    Provider: Dr. Jerrell6 Rippin620
+    Location: WESTBOROUGH BEHAVIORAL HEALTHCARE HOSPITAL, LLC
+    Duration: 06:46:52 - 15:40:08
+
+  [06:46:52] PROCEDURE: Screening mammography (procedure)
+    Status: completed
+
+  [06:46:52] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      1984-07-06
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lourdes258 Irene779 is a 28 year-old hispanic white female.
+      # Social History
+
+  [06:46:52] DOCUMENT: History and physical note
+    Status: superseded
+
+  [07:10:47] PROCEDURE: Magnetic resonance imaging of breast (procedure)
+    Status: completed
+
+  [08:01:53] PROCEDURE: Biopsy of breast (procedure)
+    Status: completed
+
+  [08:40:08] CONDITION: Malignant neoplasm of breast (disorder) (active)
+
+  [08:40:08] OBSERVATION: Site of distant metastasis in Breast tumor: None (qualifier value)
+
+  [08:40:08] OBSERVATION: Distant metastases.clinical [Class] Cancer: American Joint Committee on Cancer cM0 (qualifier value)
+
+  [08:40:08] OBSERVATION: Size.maximum dimension in Tumor: 4.0368 cm
+
+  [08:40:08] OBSERVATION: Primary tumor.clinical [Class] Cancer: American Joint Committee on Cancer cT2 (qualifier value)
+
+  [08:40:08] OBSERVATION: Lymph nodes with macrometastases [#] in Cancer specimen by Light microscopy: 5.3581 {#}
+
+  [08:40:08] OBSERVATION: Regional lymph nodes.clinical [Class] Cancer: American Joint Committee on Cancer cN2 (qualifier value)
+
+  [08:40:08] PROCEDURE: Human epidermal growth factor receptor 2 gene detection by fluorescence in situ hybridization (procedure)
+    Status: completed
+
+
+📅 1984-07-07
+
+  [13:40:08] PROCEDURE: Human epidermal growth factor receptor 2 gene detection by immunohistochemistry (procedure)
+    Status: completed
+
+  [15:40:08] OBSERVATION: HER2 [Presence] in Breast cancer specimen by Immune stain: Positive (qualifier value)
+
+  [15:40:08] OBSERVATION: ERBB2 gene duplication [Presence] in Breast cancer specimen by FISH: greater than 2.2
+
+  [15:40:08] OBSERVATION: Estrogen receptor Ag [Presence] in Breast cancer specimen by Immune stain: Negative (qualifier value)
+
+  [15:40:08] OBSERVATION: Progesterone receptor Ag [Presence] in Breast cancer specimen by Immune stain: Positive (qualifier value)
+
+  [15:40:08] OBSERVATION: Stage group.clinical Cancer: American Joint Committee on Cancer stage IIIA (qualifier value)
+
+  [15:40:08] OBSERVATION: Stage group.clinical Cancer: Stage 3 (qualifier value)
+
+  [15:40:08] CLAIM: professional
+    Amount: USD 6502.80
+
+
+📅 1984-07-14
+
+  [13:40:08] VISIT: Discussion about treatment (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jerrell6 Rippin620
+    Location: WESTBOROUGH BEHAVIORAL HEALTHCARE HOSPITAL, LLC
+    Duration: 13:40:08 - 14:34:02
+
+  [13:40:08] PROCEDURE: Discussion about options (procedure)
+    Status: completed
+
+  [13:40:08] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      1984-07-14
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lourdes258 Irene779 is a 28 year-old hispanic white female.
+      # Social History
+
+  [13:40:08] DOCUMENT: History and physical note
+    Status: superseded
+
+  [14:34:02] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 1984-07-19
+
+  [16:34:02] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jerrell6 Rippin620
+    Location: WESTBOROUGH BEHAVIORAL HEALTHCARE HOSPITAL, LLC
+    Duration: 16:34:02 - 19:23:25
+
+  [16:34:02] PROCEDURE: Chemotherapy (procedure)
+    Status: completed
+
+  [16:34:02] MEDICATION PRESCRIBED: Unknown medication
+    Status: completed
+    Prescribed by: Dr. Jerrell6 Rippin620
+
+  [16:34:02] MEDICATION ADMINISTERED: 100 ML Epirubicin Hydrochloride 2 MG/ML Injection
+    Status: completed
+
+  [16:34:02] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      1984-07-19
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lourdes258 Irene779 is a 28 year-old hispanic white female.
+      # Social History
+
+  [16:34:02] DOCUMENT: History and physical note
+    Status: superseded
+
+  [19:23:25] CLAIM: pharmacy
+    Amount: USD 1.19
+
+  [19:23:25] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 1984-08-10
+
+  [06:23:25] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jerrell6 Rippin620
+    Location: WESTBOROUGH BEHAVIORAL HEALTHCARE HOSPITAL, LLC
+    Duration: 06:23:25 - 09:43:28
+
+  [06:23:25] PROCEDURE: Chemotherapy (procedure)
+    Status: completed
+
+  [06:23:25] MEDICATION PRESCRIBED: Unknown medication
+    Status: completed
+    Prescribed by: Dr. Jerrell6 Rippin620
+
+  [06:23:25] MEDICATION ADMINISTERED: 100 ML Epirubicin Hydrochloride 2 MG/ML Injection
+    Status: completed
+
+  [06:23:25] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      1984-08-10
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lourdes258 Irene779 is a 28 year-old hispanic white female.
+      # Social History
+
+  [06:23:25] DOCUMENT: History and physical note
+    Status: superseded
+
+  [09:43:28] CLAIM: pharmacy
+    Amount: USD 0.87
+
+  [09:43:28] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 1984-09-01
+
+  [05:43:28] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jerrell6 Rippin620
+    Location: WESTBOROUGH BEHAVIORAL HEALTHCARE HOSPITAL, LLC
+    Duration: 05:43:28 - 07:25:36
+
+  [05:43:28] PROCEDURE: Chemotherapy (procedure)
+    Status: completed
+
+  [05:43:28] MEDICATION PRESCRIBED: Unknown medication
+    Status: completed
+    Prescribed by: Dr. Jerrell6 Rippin620
+
+  [05:43:28] MEDICATION ADMINISTERED: 100 ML Epirubicin Hydrochloride 2 MG/ML Injection
+    Status: completed
+
+  [05:43:28] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      1984-09-01
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lourdes258 Irene779 is a 28 year-old hispanic white female.
+      # Social History
+
+  [05:43:28] DOCUMENT: History and physical note
+    Status: superseded
+
+  [07:25:36] CLAIM: pharmacy
+    Amount: USD 0.87
+
+  [07:25:36] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 1984-09-15
+
+  [06:46:52] VISIT: General examination of patient (procedure)
+    Provider: Dr. Althea11 Ankunding277
+    Location: MIDDLESEX INTERNAL MEDICINE ASSOCIATES, INC
+    Duration: 06:46:52 - 07:01:52
+
+  [06:46:52] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [06:46:52] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      1984-09-15
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lourdes258 Irene779 is a 28 year-old hispanic white female.
+      # Social History
+
+  [06:46:52] DOCUMENT: History and physical note
+    Status: superseded
+
+  [07:01:52] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 1984-09-22
+
+  [18:25:36] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jerrell6 Rippin620
+    Location: WESTBOROUGH BEHAVIORAL HEALTHCARE HOSPITAL, LLC
+    Duration: 18:25:36 - 19:55:26
+
+  [18:25:36] PROCEDURE: Chemotherapy (procedure)
+    Status: completed
+
+  [18:25:36] MEDICATION PRESCRIBED: Unknown medication
+    Status: completed
+    Prescribed by: Dr. Jerrell6 Rippin620
+
+  [18:25:36] MEDICATION ADMINISTERED: 100 ML Epirubicin Hydrochloride 2 MG/ML Injection
+    Status: completed
+
+  [18:25:36] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      1984-09-22
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lourdes258 Irene779 is a 28 year-old hispanic white female.
+      # Social History
+
+  [18:25:36] DOCUMENT: History and physical note
+    Status: superseded
+
+  [19:55:26] CLAIM: pharmacy
+    Amount: USD 0.87
+
+  [19:55:26] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 1984-10-14
+
+  [19:55:26] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jerrell6 Rippin620
+    Location: WESTBOROUGH BEHAVIORAL HEALTHCARE HOSPITAL, LLC
+    Duration: 19:55:26 - 23:27:14
+
+  [19:55:26] PROCEDURE: Chemotherapy (procedure)
+    Status: completed
+
+  [19:55:26] MEDICATION PRESCRIBED: Unknown medication
+    Status: completed
+    Prescribed by: Dr. Jerrell6 Rippin620
+
+  [19:55:26] MEDICATION ADMINISTERED: 100 ML Epirubicin Hydrochloride 2 MG/ML Injection
+    Status: completed
+
+  [19:55:26] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      1984-10-14
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lourdes258 Irene779 is a 28 year-old hispanic white female.
+      # Social History
+
+  [19:55:26] DOCUMENT: History and physical note
+    Status: superseded
+
+  [23:27:14] CLAIM: pharmacy
+    Amount: USD 0.99
+
+  [23:27:14] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 1984-11-06
+
+  [00:27:14] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jerrell6 Rippin620
+    Location: WESTBOROUGH BEHAVIORAL HEALTHCARE HOSPITAL, LLC
+    Duration: 00:27:14 - 01:39:14
+
+  [00:27:14] PROCEDURE: Chemotherapy (procedure)
+    Status: completed
+
+  [00:27:14] MEDICATION PRESCRIBED: Unknown medication
+    Status: completed
+    Prescribed by: Dr. Jerrell6 Rippin620
+
+  [00:27:14] MEDICATION ADMINISTERED: 100 ML Epirubicin Hydrochloride 2 MG/ML Injection
+    Status: completed
+
+  [00:27:14] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      1984-11-06
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lourdes258 Irene779 is a 28 year-old hispanic white female.
+      # Social History
+
+  [00:27:14] DOCUMENT: History and physical note
+    Status: superseded
+
+  [01:39:14] CLAIM: pharmacy
+    Amount: USD 0.87
+
+  [01:39:14] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 1984-11-27
+
+  [04:39:14] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jerrell6 Rippin620
+    Location: WESTBOROUGH BEHAVIORAL HEALTHCARE HOSPITAL, LLC
+    Duration: 04:39:14 - 07:19:09
+
+  [04:39:14] PROCEDURE: Chemotherapy (procedure)
+    Status: completed
+
+  [04:39:14] MEDICATION PRESCRIBED: Unknown medication
+    Status: completed
+    Prescribed by: Dr. Jerrell6 Rippin620
+
+  [04:39:14] MEDICATION ADMINISTERED: 100 ML Epirubicin Hydrochloride 2 MG/ML Injection
+    Status: completed
+
+  [04:39:14] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      1984-11-27
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lourdes258 Irene779 is a 28 year-old hispanic white female.
+      # Social History
+
+  [04:39:14] DOCUMENT: History and physical note
+    Status: superseded
+
+  [07:19:09] CLAIM: pharmacy
+    Amount: USD 0.87
+
+  [07:19:09] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 1984-12-18
+
+  [02:19:09] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jerrell6 Rippin620
+    Location: WESTBOROUGH BEHAVIORAL HEALTHCARE HOSPITAL, LLC
+    Duration: 02:19:09 - 05:45:28
+
+  [02:19:09] PROCEDURE: Chemotherapy (procedure)
+    Status: completed
+
+  [02:19:09] MEDICATION PRESCRIBED: Unknown medication
+    Status: completed
+    Prescribed by: Dr. Jerrell6 Rippin620
+
+  [02:19:09] MEDICATION ADMINISTERED: 100 ML Epirubicin Hydrochloride 2 MG/ML Injection
+    Status: completed
+
+  [02:19:09] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      1984-12-18
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lourdes258 Irene779 is a 28 year-old hispanic white female.
+      # Social History
+
+  [02:19:09] DOCUMENT: History and physical note
+    Status: superseded
+
+  [05:45:28] CLAIM: pharmacy
+    Amount: USD 0.87
+
+  [05:45:28] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 1985-01-20
+
+  [05:45:28] OBSERVATION: Response to cancer treatment: Improving (qualifier value)
+
+  [05:45:28] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jerrell6 Rippin620
+    Location: WESTBOROUGH BEHAVIORAL HEALTHCARE HOSPITAL, LLC
+    Duration: 05:45:28 - 08:28:32
+
+  [05:45:28] PROCEDURE: Excision of axillary lymph node (procedure)
+    Status: completed
+
+  [05:45:28] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      1985-01-20
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lourdes258 Irene779 is a 28 year-old hispanic white female.
+      # Social History
+
+  [05:45:28] DOCUMENT: History and physical note
+    Status: superseded
+
+  [08:07:45] PROCEDURE: Lumpectomy of breast (procedure)
+    Status: completed
+
+
+📅 1985-01-23
+
+  [08:28:32] CLAIM: institutional
+    Amount: USD 26188.18
+
+
+📅 1985-02-02
+
+  [06:28:32] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jerrell6 Rippin620
+    Location: WESTBOROUGH BEHAVIORAL HEALTHCARE HOSPITAL, LLC
+    Duration: 06:28:32 - 07:05:17
+
+  [06:28:32] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [06:28:32] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      1985-02-02
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lourdes258 Irene779 is a 28 year-old hispanic white female.
+      # Social History
+
+  [06:28:32] DOCUMENT: History and physical note
+    Status: superseded
+
+  [07:05:17] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 1985-02-03
+
+  [15:00:17] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jerrell6 Rippin620
+    Location: WESTBOROUGH BEHAVIORAL HEALTHCARE HOSPITAL, LLC
+    Duration: 15:00:17 - 15:37:54
+
+  [15:00:17] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [15:00:17] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      1985-02-03
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lourdes258 Irene779 is a 28 year-old hispanic white female.
+      # Social History
+
+  [15:00:17] DOCUMENT: History and physical note
+    Status: superseded
+
+  [15:37:54] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 1985-02-04
+
+  [19:14:54] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jerrell6 Rippin620
+    Location: WESTBOROUGH BEHAVIORAL HEALTHCARE HOSPITAL, LLC
+    Duration: 19:14:54 - 19:47:25
+
+  [19:14:54] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [19:14:54] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      1985-02-04
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lourdes258 Irene779 is a 28 year-old hispanic white female.
+      # Social History
+
+  [19:14:54] DOCUMENT: History and physical note
+    Status: superseded
+
+  [19:47:25] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 1985-02-06
+
+  [06:55:25] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jerrell6 Rippin620
+    Location: WESTBOROUGH BEHAVIORAL HEALTHCARE HOSPITAL, LLC
+    Duration: 06:55:25 - 07:10:33
+
+  [06:55:25] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [06:55:25] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      1985-02-06
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lourdes258 Irene779 is a 28 year-old hispanic white female.
+      # Social History
+
+  [06:55:25] DOCUMENT: History and physical note
+    Status: superseded
+
+  [07:10:33] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 1985-02-07
+
+  [17:55:33] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jerrell6 Rippin620
+    Location: WESTBOROUGH BEHAVIORAL HEALTHCARE HOSPITAL, LLC
+    Duration: 17:55:33 - 18:17:13
+
+  [17:55:33] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [17:55:33] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      1985-02-07
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lourdes258 Irene779 is a 28 year-old hispanic white female.
+      # Social History
+
+  [17:55:33] DOCUMENT: History and physical note
+    Status: superseded
+
+  [18:17:13] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 1985-02-08
+
+  [20:11:13] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jerrell6 Rippin620
+    Location: WESTBOROUGH BEHAVIORAL HEALTHCARE HOSPITAL, LLC
+    Duration: 20:11:13 - 20:26:14
+
+  [20:11:13] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [20:11:13] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      1985-02-08
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lourdes258 Irene779 is a 28 year-old hispanic white female.
+      # Social History
+
+  [20:11:13] DOCUMENT: History and physical note
+    Status: superseded
+
+  [20:26:14] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 1985-02-10
+
+  [08:13:14] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jerrell6 Rippin620
+    Location: WESTBOROUGH BEHAVIORAL HEALTHCARE HOSPITAL, LLC
+    Duration: 08:13:14 - 08:47:11
+
+  [08:13:14] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [08:13:14] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      1985-02-10
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lourdes258 Irene779 is a 28 year-old hispanic white female.
+      # Social History
+
+  [08:13:14] DOCUMENT: History and physical note
+    Status: superseded
+
+  [08:47:11] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 1985-02-11
+
+  [10:46:11] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jerrell6 Rippin620
+    Location: WESTBOROUGH BEHAVIORAL HEALTHCARE HOSPITAL, LLC
+    Duration: 10:46:11 - 11:02:27
+
+  [10:46:11] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [10:46:11] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      1985-02-11
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lourdes258 Irene779 is a 28 year-old hispanic white female.
+      # Social History
+
+  [10:46:11] DOCUMENT: History and physical note
+    Status: superseded
+
+  [11:02:27] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 1985-02-12
+
+  [21:07:27] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jerrell6 Rippin620
+    Location: WESTBOROUGH BEHAVIORAL HEALTHCARE HOSPITAL, LLC
+    Duration: 21:07:27 - 21:44:38
+
+  [21:07:27] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [21:07:27] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      1985-02-12
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lourdes258 Irene779 is a 28 year-old hispanic white female.
+      # Social History
+
+  [21:07:27] DOCUMENT: History and physical note
+    Status: superseded
+
+  [21:44:38] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 1985-02-14
+
+  [00:12:38] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jerrell6 Rippin620
+    Location: WESTBOROUGH BEHAVIORAL HEALTHCARE HOSPITAL, LLC
+    Duration: 00:12:38 - 00:49:32
+
+  [00:12:38] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [00:12:38] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      1985-02-14
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lourdes258 Irene779 is a 28 year-old hispanic white female.
+      # Social History
+
+  [00:12:38] DOCUMENT: History and physical note
+    Status: superseded
+
+  [00:49:32] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 1985-02-15
+
+  [04:15:32] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jerrell6 Rippin620
+    Location: WESTBOROUGH BEHAVIORAL HEALTHCARE HOSPITAL, LLC
+    Duration: 04:15:32 - 04:54:02
+
+  [04:15:32] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [04:15:32] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      1985-02-15
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lourdes258 Irene779 is a 28 year-old hispanic white female.
+      # Social History
+
+  [04:15:32] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:54:02] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 1985-02-16
+
+  [13:44:02] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jerrell6 Rippin620
+    Location: WESTBOROUGH BEHAVIORAL HEALTHCARE HOSPITAL, LLC
+    Duration: 13:44:02 - 14:00:28
+
+  [13:44:02] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [13:44:02] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      1985-02-16
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lourdes258 Irene779 is a 28 year-old hispanic white female.
+      # Social History
+
+  [13:44:02] DOCUMENT: History and physical note
+    Status: superseded
+
+  [14:00:28] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 1985-02-17
+
+  [16:07:28] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jerrell6 Rippin620
+    Location: WESTBOROUGH BEHAVIORAL HEALTHCARE HOSPITAL, LLC
+    Duration: 16:07:28 - 16:27:52
+
+  [16:07:28] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [16:07:28] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      1985-02-17
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lourdes258 Irene779 is a 28 year-old hispanic white female.
+      # Social History
+
+  [16:07:28] DOCUMENT: History and physical note
+    Status: superseded
+
+  [16:27:52] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 1985-02-18
+
+  [16:31:52] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jerrell6 Rippin620
+    Location: WESTBOROUGH BEHAVIORAL HEALTHCARE HOSPITAL, LLC
+    Duration: 16:31:52 - 16:53:47
+
+  [16:31:52] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [16:31:52] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      1985-02-18
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lourdes258 Irene779 is a 28 year-old hispanic white female.
+      # Social History
+
+  [16:31:52] DOCUMENT: History and physical note
+    Status: superseded
+
+  [16:53:47] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 1985-02-20
+
+  [02:08:47] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jerrell6 Rippin620
+    Location: WESTBOROUGH BEHAVIORAL HEALTHCARE HOSPITAL, LLC
+    Duration: 02:08:47 - 02:29:04
+
+  [02:08:47] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [02:08:47] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      1985-02-20
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lourdes258 Irene779 is a 28 year-old hispanic white female.
+      # Social History
+
+  [02:08:47] DOCUMENT: History and physical note
+    Status: superseded
+
+  [02:29:04] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 1985-02-21
+
+  [05:10:04] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jerrell6 Rippin620
+    Location: WESTBOROUGH BEHAVIORAL HEALTHCARE HOSPITAL, LLC
+    Duration: 05:10:04 - 05:34:56
+
+  [05:10:04] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [05:10:04] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      1985-02-21
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lourdes258 Irene779 is a 28 year-old hispanic white female.
+      # Social History
+
+  [05:10:04] DOCUMENT: History and physical note
+    Status: superseded
+
+  [05:34:56] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 1985-02-22
+
+  [15:12:56] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jerrell6 Rippin620
+    Location: WESTBOROUGH BEHAVIORAL HEALTHCARE HOSPITAL, LLC
+    Duration: 15:12:56 - 15:51:57
+
+  [15:12:56] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [15:12:56] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      1985-02-22
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lourdes258 Irene779 is a 28 year-old hispanic white female.
+      # Social History
+
+  [15:12:56] DOCUMENT: History and physical note
+    Status: superseded
+
+  [15:51:57] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 1985-02-24
+
+  [00:26:57] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jerrell6 Rippin620
+    Location: WESTBOROUGH BEHAVIORAL HEALTHCARE HOSPITAL, LLC
+    Duration: 00:26:57 - 00:56:55
+
+  [00:26:57] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [00:26:57] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      1985-02-24
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lourdes258 Irene779 is a 28 year-old hispanic white female.
+      # Social History
+
+  [00:26:57] DOCUMENT: History and physical note
+    Status: superseded
+
+  [00:56:55] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 1985-02-25
+
+  [03:41:55] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jerrell6 Rippin620
+    Location: WESTBOROUGH BEHAVIORAL HEALTHCARE HOSPITAL, LLC
+    Duration: 03:41:55 - 04:16:15
+
+  [03:41:55] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [03:41:55] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      1985-02-25
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lourdes258 Irene779 is a 28 year-old hispanic white female.
+      # Social History
+
+  [03:41:55] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:16:15] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 1985-02-26
+
+  [09:38:15] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jerrell6 Rippin620
+    Location: WESTBOROUGH BEHAVIORAL HEALTHCARE HOSPITAL, LLC
+    Duration: 09:38:15 - 10:06:04
+
+  [09:38:15] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [09:38:15] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      1985-02-26
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lourdes258 Irene779 is a 28 year-old hispanic white female.
+      # Social History
+
+  [09:38:15] DOCUMENT: History and physical note
+    Status: superseded
+
+  [10:06:04] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 1985-02-27
+
+  [17:14:04] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jerrell6 Rippin620
+    Location: WESTBOROUGH BEHAVIORAL HEALTHCARE HOSPITAL, LLC
+    Duration: 17:14:04 - 17:30:42
+
+  [17:14:04] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [17:14:04] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      1985-02-27
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lourdes258 Irene779 is a 28 year-old hispanic white female.
+      # Social History
+
+  [17:14:04] DOCUMENT: History and physical note
+    Status: superseded
+
+  [17:30:42] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 1985-03-01
+
+  [02:40:42] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jerrell6 Rippin620
+    Location: WESTBOROUGH BEHAVIORAL HEALTHCARE HOSPITAL, LLC
+    Duration: 02:40:42 - 03:04:45
+
+  [02:40:42] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [02:40:42] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      1985-03-01
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lourdes258 Irene779 is a 28 year-old hispanic white female.
+      # Social History
+
+  [02:40:42] DOCUMENT: History and physical note
+    Status: superseded
+
+  [03:04:45] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 1985-03-02
+
+  [14:00:45] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jerrell6 Rippin620
+    Location: WESTBOROUGH BEHAVIORAL HEALTHCARE HOSPITAL, LLC
+    Duration: 14:00:45 - 14:30:20
+
+  [14:00:45] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [14:00:45] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      1985-03-02
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lourdes258 Irene779 is a 28 year-old hispanic white female.
+      # Social History
+
+  [14:00:45] DOCUMENT: History and physical note
+    Status: superseded
+
+  [14:30:20] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 1985-03-03
+
+  [17:48:20] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jerrell6 Rippin620
+    Location: WESTBOROUGH BEHAVIORAL HEALTHCARE HOSPITAL, LLC
+    Duration: 17:48:20 - 18:24:30
+
+  [17:48:20] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [17:48:20] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      1985-03-03
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lourdes258 Irene779 is a 28 year-old hispanic white female.
+      # Social History
+
+  [17:48:20] DOCUMENT: History and physical note
+    Status: superseded
+
+  [18:24:30] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 1985-03-05
+
+  [00:19:30] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jerrell6 Rippin620
+    Location: WESTBOROUGH BEHAVIORAL HEALTHCARE HOSPITAL, LLC
+    Duration: 00:19:30 - 00:45:07
+
+  [00:19:30] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [00:19:30] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      1985-03-05
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lourdes258 Irene779 is a 28 year-old hispanic white female.
+      # Social History
+
+  [00:19:30] DOCUMENT: History and physical note
+    Status: superseded
+
+  [00:45:07] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 1985-03-06
+
+  [11:00:07] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jerrell6 Rippin620
+    Location: WESTBOROUGH BEHAVIORAL HEALTHCARE HOSPITAL, LLC
+    Duration: 11:00:07 - 11:24:33
+
+  [11:00:07] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [11:00:07] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      1985-03-06
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lourdes258 Irene779 is a 28 year-old hispanic white female.
+      # Social History
+
+  [11:00:07] DOCUMENT: History and physical note
+    Status: superseded
+
+  [11:24:33] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 1985-03-07
+
+  [14:09:33] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jerrell6 Rippin620
+    Location: WESTBOROUGH BEHAVIORAL HEALTHCARE HOSPITAL, LLC
+    Duration: 14:09:33 - 14:39:03
+
+  [14:09:33] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [14:09:33] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      1985-03-07
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lourdes258 Irene779 is a 28 year-old hispanic white female.
+      # Social History
+
+  [14:09:33] DOCUMENT: History and physical note
+    Status: superseded
+
+  [14:39:03] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 1985-03-08
+
+  [14:55:03] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jerrell6 Rippin620
+    Location: WESTBOROUGH BEHAVIORAL HEALTHCARE HOSPITAL, LLC
+    Duration: 14:55:03 - 15:32:31
+
+  [14:55:03] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [14:55:03] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      1985-03-08
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lourdes258 Irene779 is a 28 year-old hispanic white female.
+      # Social History
+
+  [14:55:03] DOCUMENT: History and physical note
+    Status: superseded
+
+  [15:32:31] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 1985-03-10
+
+  [03:30:31] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jerrell6 Rippin620
+    Location: WESTBOROUGH BEHAVIORAL HEALTHCARE HOSPITAL, LLC
+    Duration: 03:30:31 - 03:55:33
+
+  [03:30:31] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [03:30:31] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      1985-03-10
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lourdes258 Irene779 is a 28 year-old hispanic white female.
+      # Social History
+
+  [03:30:31] DOCUMENT: History and physical note
+    Status: superseded
+
+  [03:55:33] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 1985-03-11
+
+  [14:13:33] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jerrell6 Rippin620
+    Location: WESTBOROUGH BEHAVIORAL HEALTHCARE HOSPITAL, LLC
+    Duration: 14:13:33 - 14:31:37
+
+  [14:13:33] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [14:13:33] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      1985-03-11
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lourdes258 Irene779 is a 28 year-old hispanic white female.
+      # Social History
+
+  [14:13:33] DOCUMENT: History and physical note
+    Status: superseded
+
+  [14:31:37] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 1985-03-12
+
+  [16:49:37] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jerrell6 Rippin620
+    Location: WESTBOROUGH BEHAVIORAL HEALTHCARE HOSPITAL, LLC
+    Duration: 16:49:37 - 17:20:34
+
+  [16:49:37] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [16:49:37] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      1985-03-12
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lourdes258 Irene779 is a 28 year-old hispanic white female.
+      # Social History
+
+  [16:49:37] DOCUMENT: History and physical note
+    Status: superseded
+
+  [17:20:34] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 1985-03-13
+
+  [22:29:34] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jerrell6 Rippin620
+    Location: WESTBOROUGH BEHAVIORAL HEALTHCARE HOSPITAL, LLC
+    Duration: 22:29:34 - 22:45:39
+
+  [22:29:34] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [22:29:34] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      1985-03-13
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lourdes258 Irene779 is a 28 year-old hispanic white female.
+      # Social History
+
+  [22:29:34] DOCUMENT: History and physical note
+    Status: superseded
+
+  [22:45:39] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 1985-03-15
+
+  [03:08:39] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jerrell6 Rippin620
+    Location: WESTBOROUGH BEHAVIORAL HEALTHCARE HOSPITAL, LLC
+    Duration: 03:08:39 - 03:47:50
+
+  [03:08:39] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [03:08:39] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      1985-03-15
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lourdes258 Irene779 is a 28 year-old hispanic white female.
+      # Social History
+
+  [03:08:39] DOCUMENT: History and physical note
+    Status: superseded
+
+  [03:47:50] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 1985-03-16
+
+  [07:55:50] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jerrell6 Rippin620
+    Location: WESTBOROUGH BEHAVIORAL HEALTHCARE HOSPITAL, LLC
+    Duration: 07:55:50 - 08:26:02
+
+  [07:55:50] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [07:55:50] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      1985-03-16
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lourdes258 Irene779 is a 28 year-old hispanic white female.
+      # Social History
+
+  [07:55:50] DOCUMENT: History and physical note
+    Status: superseded
+
+  [08:26:02] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 1985-03-22
+
+  [04:26:02] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jerrell6 Rippin620
+    Location: WESTBOROUGH BEHAVIORAL HEALTHCARE HOSPITAL, LLC
+    Duration: 04:26:02 - 04:41:02
+
+  [04:26:02] OBSERVATION: Treatment status Cancer: Treatment changed (situation)
+
+  [04:26:02] OBSERVATION: Response to cancer treatment: Worsening (qualifier value)
+
+  [04:26:02] MEDICATION PRESCRIBED: Unknown medication
+    Status: completed
+    Prescribed by: Dr. Jerrell6 Rippin620
+
+  [04:26:02] MEDICATION ADMINISTERED: 5 ML fulvestrant 50 MG/ML Prefilled Syringe
+    Status: completed
+
+  [04:26:02] MEDICATION PRESCRIBED: Unknown medication
+    Status: completed
+    Prescribed by: Dr. Jerrell6 Rippin620
+
+  [04:26:02] MEDICATION ADMINISTERED: 5 ML hyaluronidase-oysk 2000 UNT/ML / trastuzumab-oysk 120 MG/ML Injection
+    Status: completed
+
+  [04:26:02] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      1985-03-22
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lourdes258 Irene779 is a 28 year-old hispanic white female.
+      # Social History
+
+  [04:26:02] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:41:02] CLAIM: pharmacy
+    Amount: USD 103.64
+
+  [04:41:02] CLAIM: pharmacy
+    Amount: USD 498.43
+
+  [04:41:02] CLAIM: professional
+    Amount: USD 85.55
+
+
+📅 1985-07-01
+
+  [05:26:02] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jerrell6 Rippin620
+    Location: WESTBOROUGH BEHAVIORAL HEALTHCARE HOSPITAL, LLC
+    Duration: 05:26:02 - 06:01:21
+
+  [05:26:02] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [05:26:02] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      1985-07-01
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lourdes258 Irene779 is a 29 year-old hispanic white female.
+      # Social History
+
+  [05:26:02] DOCUMENT: History and physical note
+    Status: superseded
+
+  [06:01:21] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 1985-10-19
+
+  [06:01:21] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jerrell6 Rippin620
+    Location: WESTBOROUGH BEHAVIORAL HEALTHCARE HOSPITAL, LLC
+    Duration: 06:01:21 - 06:45:27
+
+  [06:01:21] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [06:01:21] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      1985-10-19
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lourdes258 Irene779 is a 29 year-old hispanic white female.
+      # Social History
+
+  [06:01:21] DOCUMENT: History and physical note
+    Status: superseded
+
+  [06:45:27] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 1986-02-01
+
+  [05:46:52] VISIT: Death Certification
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Althea11 Ankunding277
+    Location: MIDDLESEX INTERNAL MEDICINE ASSOCIATES, INC
+    Duration: 05:46:52 - 06:01:52
+
+  [05:46:52] OBSERVATION: Cause of Death [US Standard Certificate of Death]: Malignant neoplasm of breast (disorder)
+
+  [05:46:52] DIAGNOSTIC REPORT: U.S. standard certificate of death - 2003 revision
+
+  [05:46:52] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      1986-02-01
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lourdes258 Irene779 is a 29 year-old hispanic white female.
+      # Social History
+
+  [05:46:52] DOCUMENT: History and physical note
+    Status: current
+
+  [05:46:52] PROVENANCE: Record activity
+    Agents: Dr. Althea11 Ankunding277, Dr. Althea11 Ankunding277
+
+  [06:01:52] CLAIM: professional
+    Amount: USD 211.38
+
+================================================================================
+END OF TIMELINE (312 events)
+================================================================================

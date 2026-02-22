@@ -1,0 +1,1153 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Mrs. Marisol435 Conchita9 Leiva147
+  Patient ID: 105762
+  Date of Birth: 1960-11-08
+  Gender: Female
+  Race: Black or African American
+  Ethnicity: Hispanic or Latino
+  Marital Status: Married
+  Address: 233 Russel Pathway, Seekonk, MA 00000
+  Phone: 555-365-4156
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2002-01-17
+
+  [13:59:17] VISIT: Periodic reevaluation and management of healthy individual (procedure)
+    Reason: Screening for malignant neoplasm of breast (procedure)
+    Provider: Dr. Maricarmen445 Delafuente833
+    Location: ARBOUR-FULLER HOSPITAL
+    Duration: 13:59:17 - 18:49:44
+
+  [13:59:17] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2002-01-17
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Marisol435 Conchita9 is a 41 year-old hispanic black female.
+      # Social History
+
+  [13:59:17] DOCUMENT: History and physical note
+    Status: superseded
+
+  [16:11:44] CONDITION: Malignant neoplasm of breast (disorder) (active)
+
+
+📅 2002-01-19
+
+  [18:49:44] CLAIM: professional
+    Amount: USD 4710.14
+
+
+📅 2016-08-16
+
+  [09:06:34] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Maricarmen445 Delafuente833
+    Location: ARBOUR-FULLER HOSPITAL
+    Duration: 09:06:34 - 09:46:52
+
+  [09:06:34] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [09:06:34] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-08-16
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Marisol435 Conchita9 is a 55 year-old hispanic black female.
+      # Social History
+
+  [09:06:34] DOCUMENT: History and physical note
+    Status: superseded
+
+  [09:46:52] CLAIM: professional
+    Amount: USD 573.98
+
+  [09:46:52] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Maricarmen445 Delafuente833
+    Location: ARBOUR-FULLER HOSPITAL
+    Duration: 09:46:52 - 10:04:02
+
+  [09:46:52] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [09:46:52] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-08-16
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Marisol435 Conchita9 is a 55 year-old hispanic black female.
+      # Social History
+
+  [09:46:52] DOCUMENT: History and physical note
+    Status: superseded
+
+  [10:04:02] CLAIM: professional
+    Amount: USD 211.60
+
+  [10:04:02] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Maricarmen445 Delafuente833
+    Location: ARBOUR-FULLER HOSPITAL
+    Duration: 10:04:02 - 10:31:47
+
+  [10:04:02] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [10:04:02] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-08-16
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Marisol435 Conchita9 is a 55 year-old hispanic black female.
+      # Social History
+
+  [10:04:02] DOCUMENT: History and physical note
+    Status: superseded
+
+  [10:17:15] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [10:31:47] CLAIM: professional
+    Amount: USD 1091.66
+
+
+📅 2016-12-13
+
+  [13:59:17] VISIT: General examination of patient (procedure)
+    Provider: Dr. Morgan564 Marvin195
+    Location: FAMILY MEDICINE ASSOCIATES OF SOUTH ATTLEBORO, P.C.
+    Duration: 13:59:17 - 14:14:17
+
+  [13:59:17] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [13:59:17] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-12-13
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Marisol435 Conchita9 is a 56 year-old hispanic black female.
+      # Social History
+
+  [13:59:17] DOCUMENT: History and physical note
+    Status: superseded
+
+  [14:14:17] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2017-08-23
+
+  [10:31:47] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Maricarmen445 Delafuente833
+    Location: ARBOUR-FULLER HOSPITAL
+    Duration: 10:31:47 - 11:13:08
+
+  [10:31:47] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [10:31:47] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-08-23
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Marisol435 Conchita9 is a 56 year-old hispanic black female.
+      # Social History
+
+  [10:31:47] DOCUMENT: History and physical note
+    Status: superseded
+
+  [11:13:08] CLAIM: professional
+    Amount: USD 573.98
+
+  [11:13:08] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Maricarmen445 Delafuente833
+    Location: ARBOUR-FULLER HOSPITAL
+    Duration: 11:13:08 - 11:36:24
+
+  [11:13:08] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [11:13:08] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-08-23
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Marisol435 Conchita9 is a 56 year-old hispanic black female.
+      # Social History
+
+  [11:13:08] DOCUMENT: History and physical note
+    Status: superseded
+
+  [11:36:24] CLAIM: professional
+    Amount: USD 325.49
+
+  [11:36:24] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Maricarmen445 Delafuente833
+    Location: ARBOUR-FULLER HOSPITAL
+    Duration: 11:36:24 - 12:00:34
+
+  [11:36:24] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [11:36:24] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-08-23
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Marisol435 Conchita9 is a 56 year-old hispanic black female.
+      # Social History
+
+  [11:36:24] DOCUMENT: History and physical note
+    Status: superseded
+
+  [11:48:28] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [12:00:34] CLAIM: professional
+    Amount: USD 1091.66
+
+
+📅 2017-12-19
+
+  [13:59:17] VISIT: General examination of patient (procedure)
+    Provider: Dr. Morgan564 Marvin195
+    Location: FAMILY MEDICINE ASSOCIATES OF SOUTH ATTLEBORO, P.C.
+    Duration: 13:59:17 - 14:14:17
+
+  [13:59:17] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [13:59:17] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-12-19
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Marisol435 Conchita9 is a 57 year-old hispanic black female.
+      # Social History
+
+  [13:59:17] DOCUMENT: History and physical note
+    Status: superseded
+
+  [14:14:17] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2018-09-01
+
+  [12:00:34] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Maricarmen445 Delafuente833
+    Location: ARBOUR-FULLER HOSPITAL
+    Duration: 12:00:34 - 12:41:30
+
+  [12:00:34] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [12:00:34] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-09-01
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Marisol435 Conchita9 is a 57 year-old hispanic black female.
+      # Social History
+
+  [12:00:34] DOCUMENT: History and physical note
+    Status: superseded
+
+  [12:41:30] CLAIM: professional
+    Amount: USD 573.98
+
+  [12:41:30] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Maricarmen445 Delafuente833
+    Location: ARBOUR-FULLER HOSPITAL
+    Duration: 12:41:30 - 13:02:04
+
+  [12:41:30] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [12:41:30] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-09-01
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Marisol435 Conchita9 is a 57 year-old hispanic black female.
+      # Social History
+
+  [12:41:30] DOCUMENT: History and physical note
+    Status: superseded
+
+  [13:02:04] CLAIM: professional
+    Amount: USD 211.60
+
+  [13:02:04] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Maricarmen445 Delafuente833
+    Location: ARBOUR-FULLER HOSPITAL
+    Duration: 13:02:04 - 13:26:17
+
+  [13:02:04] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [13:02:04] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-09-01
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Marisol435 Conchita9 is a 57 year-old hispanic black female.
+      # Social History
+
+  [13:02:04] DOCUMENT: History and physical note
+    Status: superseded
+
+  [13:13:36] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [13:26:17] CLAIM: professional
+    Amount: USD 1857.54
+
+
+📅 2018-12-25
+
+  [13:59:17] VISIT: General examination of patient (procedure)
+    Provider: Dr. Morgan564 Marvin195
+    Location: FAMILY MEDICINE ASSOCIATES OF SOUTH ATTLEBORO, P.C.
+    Duration: 13:59:17 - 14:14:17
+
+  [13:59:17] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [13:59:17] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-12-25
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Marisol435 Conchita9 is a 58 year-old hispanic black female.
+      # Social History
+
+  [13:59:17] DOCUMENT: History and physical note
+    Status: superseded
+
+  [14:14:17] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2019-09-06
+
+  [13:26:17] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Maricarmen445 Delafuente833
+    Location: ARBOUR-FULLER HOSPITAL
+    Duration: 13:26:17 - 14:08:52
+
+  [13:26:17] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [13:26:17] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-09-06
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Marisol435 Conchita9 is a 58 year-old hispanic black female.
+      # Social History
+
+  [13:26:17] DOCUMENT: History and physical note
+    Status: superseded
+
+  [14:08:52] CLAIM: professional
+    Amount: USD 573.98
+
+  [14:08:52] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Maricarmen445 Delafuente833
+    Location: ARBOUR-FULLER HOSPITAL
+    Duration: 14:08:52 - 14:32:59
+
+  [14:08:52] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [14:08:52] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-09-06
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Marisol435 Conchita9 is a 58 year-old hispanic black female.
+      # Social History
+
+  [14:08:52] DOCUMENT: History and physical note
+    Status: superseded
+
+  [14:32:59] CLAIM: professional
+    Amount: USD 211.60
+
+  [14:32:59] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Maricarmen445 Delafuente833
+    Location: ARBOUR-FULLER HOSPITAL
+    Duration: 14:32:59 - 15:05:32
+
+  [14:32:59] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [14:32:59] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-09-06
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Marisol435 Conchita9 is a 58 year-old hispanic black female.
+      # Social History
+
+  [14:32:59] DOCUMENT: History and physical note
+    Status: superseded
+
+  [14:46:45] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [15:05:32] CLAIM: professional
+    Amount: USD 1125.03
+
+
+📅 2019-12-31
+
+  [13:59:17] VISIT: General examination of patient (procedure)
+    Provider: Dr. Morgan564 Marvin195
+    Location: FAMILY MEDICINE ASSOCIATES OF SOUTH ATTLEBORO, P.C.
+    Duration: 13:59:17 - 14:14:17
+
+  [13:59:17] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [13:59:17] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-12-31
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Marisol435 Conchita9 is a 59 year-old hispanic black female.
+      # Social History
+
+  [13:59:17] DOCUMENT: History and physical note
+    Status: superseded
+
+  [14:14:17] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2020-09-07
+
+  [15:05:32] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Maricarmen445 Delafuente833
+    Location: ARBOUR-FULLER HOSPITAL
+    Duration: 15:05:32 - 15:45:18
+
+  [15:05:32] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [15:05:32] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-09-07
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Marisol435 Conchita9 is a 59 year-old hispanic black female.
+      # Social History
+
+  [15:05:32] DOCUMENT: History and physical note
+    Status: superseded
+
+  [15:45:18] CLAIM: professional
+    Amount: USD 573.98
+
+  [15:45:18] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Maricarmen445 Delafuente833
+    Location: ARBOUR-FULLER HOSPITAL
+    Duration: 15:45:18 - 16:08:57
+
+  [15:45:18] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [15:45:18] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-09-07
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Marisol435 Conchita9 is a 59 year-old hispanic black female.
+      # Social History
+
+  [15:45:18] DOCUMENT: History and physical note
+    Status: superseded
+
+  [16:08:57] CLAIM: professional
+    Amount: USD 211.60
+
+  [16:08:57] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Maricarmen445 Delafuente833
+    Location: ARBOUR-FULLER HOSPITAL
+    Duration: 16:08:57 - 16:33:22
+
+  [16:08:57] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [16:08:57] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-09-07
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Marisol435 Conchita9 is a 59 year-old hispanic black female.
+      # Social History
+
+  [16:08:57] DOCUMENT: History and physical note
+    Status: superseded
+
+  [16:21:09] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [16:33:22] CLAIM: professional
+    Amount: USD 3313.71
+
+
+📅 2021-01-05
+
+  [13:59:17] VISIT: General examination of patient (procedure)
+    Provider: Dr. Morgan564 Marvin195
+    Location: FAMILY MEDICINE ASSOCIATES OF SOUTH ATTLEBORO, P.C.
+    Duration: 13:59:17 - 14:14:17
+
+  [13:59:17] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [13:59:17] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-01-05
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Marisol435 Conchita9 is a 60 year-old hispanic black female.
+      # Social History
+
+  [13:59:17] DOCUMENT: History and physical note
+    Status: superseded
+
+  [14:14:17] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2021-04-13
+
+  [14:59:17] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Maricarmen445 Delafuente833
+    Location: ARBOUR-FULLER HOSPITAL
+    Duration: 14:59:17 - 15:14:17
+
+  [14:59:17] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 30 mcg/0.3 mL dose
+    Status: completed
+
+  [14:59:17] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-04-13
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Marisol435 Conchita9 is a 60 year-old hispanic black female.
+      # Social History
+
+  [14:59:17] DOCUMENT: History and physical note
+    Status: superseded
+
+  [15:14:17] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-05-04
+
+  [14:59:17] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Maricarmen445 Delafuente833
+    Location: ARBOUR-FULLER HOSPITAL
+    Duration: 14:59:17 - 15:14:17
+
+  [14:59:17] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 30 mcg/0.3 mL dose
+    Status: completed
+
+  [14:59:17] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-05-04
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Marisol435 Conchita9 is a 60 year-old hispanic black female.
+      # Social History
+
+  [14:59:17] DOCUMENT: History and physical note
+    Status: superseded
+
+  [15:14:17] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-09-27
+
+  [16:33:22] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Maricarmen445 Delafuente833
+    Location: ARBOUR-FULLER HOSPITAL
+    Duration: 16:33:22 - 17:09:39
+
+  [16:33:22] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [16:33:22] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-09-27
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Marisol435 Conchita9 is a 60 year-old hispanic black female.
+      # Social History
+
+  [16:33:22] DOCUMENT: History and physical note
+    Status: superseded
+
+  [17:09:39] CLAIM: professional
+    Amount: USD 573.98
+
+  [17:09:39] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Maricarmen445 Delafuente833
+    Location: ARBOUR-FULLER HOSPITAL
+    Duration: 17:09:39 - 17:33:56
+
+  [17:09:39] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [17:09:39] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-09-27
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Marisol435 Conchita9 is a 60 year-old hispanic black female.
+      # Social History
+
+  [17:09:39] DOCUMENT: History and physical note
+    Status: superseded
+
+  [17:33:56] CLAIM: professional
+    Amount: USD 286.51
+
+  [17:33:56] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Maricarmen445 Delafuente833
+    Location: ARBOUR-FULLER HOSPITAL
+    Duration: 17:33:56 - 18:03:22
+
+  [17:33:56] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [17:33:56] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-09-27
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Marisol435 Conchita9 is a 60 year-old hispanic black female.
+      # Social History
+
+  [17:33:56] DOCUMENT: History and physical note
+    Status: superseded
+
+  [17:47:56] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [18:03:22] CLAIM: professional
+    Amount: USD 2954.49
+
+
+📅 2022-01-11
+
+  [13:59:17] VISIT: General examination of patient (procedure)
+    Provider: Dr. Morgan564 Marvin195
+    Location: FAMILY MEDICINE ASSOCIATES OF SOUTH ATTLEBORO, P.C.
+    Duration: 13:59:17 - 14:14:17
+
+  [13:59:17] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [13:59:17] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [13:59:17] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-01-11
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Marisol435 Conchita9 is a 61 year-old hispanic black female.
+      # Social History
+
+  [13:59:17] DOCUMENT: History and physical note
+    Status: superseded
+
+  [14:14:17] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2022-09-08
+
+  [18:03:22] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Maricarmen445 Delafuente833
+    Location: ARBOUR-FULLER HOSPITAL
+    Duration: 18:03:22 - 18:37:30
+
+  [18:03:22] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [18:03:22] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-09-08
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Marisol435 Conchita9 is a 61 year-old hispanic black female.
+      # Social History
+
+  [18:03:22] DOCUMENT: History and physical note
+    Status: superseded
+
+  [18:37:30] CLAIM: professional
+    Amount: USD 573.98
+
+  [18:37:30] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Maricarmen445 Delafuente833
+    Location: ARBOUR-FULLER HOSPITAL
+    Duration: 18:37:30 - 19:00:40
+
+  [18:37:30] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [18:37:30] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-09-08
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Marisol435 Conchita9 is a 61 year-old hispanic black female.
+      # Social History
+
+  [18:37:30] DOCUMENT: History and physical note
+    Status: superseded
+
+  [19:00:40] CLAIM: professional
+    Amount: USD 211.60
+
+  [19:00:40] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Maricarmen445 Delafuente833
+    Location: ARBOUR-FULLER HOSPITAL
+    Duration: 19:00:40 - 19:25:11
+
+  [19:00:40] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [19:00:40] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-09-08
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Marisol435 Conchita9 is a 61 year-old hispanic black female.
+      # Social History
+
+  [19:00:40] DOCUMENT: History and physical note
+    Status: superseded
+
+  [19:12:22] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [19:25:11] CLAIM: professional
+    Amount: USD 1093.90
+
+
+📅 2023-01-17
+
+  [13:59:17] VISIT: General examination of patient (procedure)
+    Provider: Dr. Morgan564 Marvin195
+    Location: FAMILY MEDICINE ASSOCIATES OF SOUTH ATTLEBORO, P.C.
+    Duration: 13:59:17 - 14:14:17
+
+  [13:59:17] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [13:59:17] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-01-17
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Marisol435 Conchita9 is a 62 year-old hispanic black female.
+      # Social History
+
+  [13:59:17] DOCUMENT: History and physical note
+    Status: superseded
+
+  [14:14:17] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2023-09-23
+
+  [19:25:11] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Maricarmen445 Delafuente833
+    Location: ARBOUR-FULLER HOSPITAL
+    Duration: 19:25:11 - 20:00:13
+
+  [19:25:11] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [19:25:11] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-09-23
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Marisol435 Conchita9 is a 62 year-old hispanic black female.
+      # Social History
+
+  [19:25:11] DOCUMENT: History and physical note
+    Status: superseded
+
+  [20:00:13] CLAIM: professional
+    Amount: USD 573.98
+
+  [20:00:13] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Maricarmen445 Delafuente833
+    Location: ARBOUR-FULLER HOSPITAL
+    Duration: 20:00:13 - 20:23:35
+
+  [20:00:13] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [20:00:13] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-09-23
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Marisol435 Conchita9 is a 62 year-old hispanic black female.
+      # Social History
+
+  [20:00:13] DOCUMENT: History and physical note
+    Status: superseded
+
+  [20:23:35] CLAIM: professional
+    Amount: USD 211.60
+
+  [20:23:35] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Maricarmen445 Delafuente833
+    Location: ARBOUR-FULLER HOSPITAL
+    Duration: 20:23:35 - 20:49:21
+
+  [20:23:35] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [20:23:35] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-09-23
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Marisol435 Conchita9 is a 62 year-old hispanic black female.
+      # Social History
+
+  [20:23:35] DOCUMENT: History and physical note
+    Status: superseded
+
+  [20:35:49] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [20:49:21] CLAIM: professional
+    Amount: USD 3547.49
+
+
+📅 2024-01-23
+
+  [13:59:17] VISIT: General examination of patient (procedure)
+    Provider: Dr. Morgan564 Marvin195
+    Location: FAMILY MEDICINE ASSOCIATES OF SOUTH ATTLEBORO, P.C.
+    Duration: 13:59:17 - 14:14:17
+
+  [13:59:17] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [13:59:17] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-01-23
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Marisol435 Conchita9 is a 63 year-old hispanic black female.
+      # Social History
+
+  [13:59:17] DOCUMENT: History and physical note
+    Status: superseded
+
+  [14:14:17] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2024-08-26
+
+  [20:49:21] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Maricarmen445 Delafuente833
+    Location: ARBOUR-FULLER HOSPITAL
+    Duration: 20:49:21 - 21:22:14
+
+  [20:49:21] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [20:49:21] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-08-26
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Marisol435 Conchita9 is a 63 year-old hispanic black female.
+      # Social History
+
+  [20:49:21] DOCUMENT: History and physical note
+    Status: superseded
+
+  [21:22:14] CLAIM: professional
+    Amount: USD 573.98
+
+  [21:22:14] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Maricarmen445 Delafuente833
+    Location: ARBOUR-FULLER HOSPITAL
+    Duration: 21:22:14 - 21:46:20
+
+  [21:22:14] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [21:22:14] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-08-26
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Marisol435 Conchita9 is a 63 year-old hispanic black female.
+      # Social History
+
+  [21:22:14] DOCUMENT: History and physical note
+    Status: superseded
+
+  [21:46:20] CLAIM: professional
+    Amount: USD 325.49
+
+  [21:46:20] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Maricarmen445 Delafuente833
+    Location: ARBOUR-FULLER HOSPITAL
+    Duration: 21:46:20 - 22:12:06
+
+  [21:46:20] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [21:46:20] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-08-26
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Marisol435 Conchita9 is a 63 year-old hispanic black female.
+      # Social History
+
+  [21:46:20] DOCUMENT: History and physical note
+    Status: superseded
+
+  [21:57:53] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [22:12:06] CLAIM: professional
+    Amount: USD 2236.91
+
+
+📅 2025-01-28
+
+  [13:59:17] VISIT: General examination of patient (procedure)
+    Provider: Dr. Morgan564 Marvin195
+    Location: FAMILY MEDICINE ASSOCIATES OF SOUTH ATTLEBORO, P.C.
+    Duration: 13:59:17 - 14:14:17
+
+  [13:59:17] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [13:59:17] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-01-28
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Marisol435 Conchita9 is a 64 year-old hispanic black female.
+      # Social History
+
+  [13:59:17] DOCUMENT: History and physical note
+    Status: superseded
+
+  [14:14:17] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2025-09-17
+
+  [22:12:06] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Maricarmen445 Delafuente833
+    Location: ARBOUR-FULLER HOSPITAL
+    Duration: 22:12:06 - 22:48:12
+
+  [22:12:06] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [22:12:06] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-09-17
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Marisol435 Conchita9 is a 64 year-old hispanic black female.
+      # Social History
+
+  [22:12:06] DOCUMENT: History and physical note
+    Status: superseded
+
+  [22:48:12] CLAIM: professional
+    Amount: USD 573.98
+
+  [22:48:12] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Maricarmen445 Delafuente833
+    Location: ARBOUR-FULLER HOSPITAL
+    Duration: 22:48:12 - 23:09:30
+
+  [22:48:12] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [22:48:12] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-09-17
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Marisol435 Conchita9 is a 64 year-old hispanic black female.
+      # Social History
+
+  [22:48:12] DOCUMENT: History and physical note
+    Status: superseded
+
+  [23:09:30] CLAIM: professional
+    Amount: USD 325.49
+
+  [23:09:30] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Maricarmen445 Delafuente833
+    Location: ARBOUR-FULLER HOSPITAL
+    Duration: 23:09:30 - 23:30:59
+
+  [23:09:30] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [23:09:30] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-09-17
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Marisol435 Conchita9 is a 64 year-old hispanic black female.
+      # Social History
+
+  [23:09:30] DOCUMENT: History and physical note
+    Status: superseded
+
+  [23:19:31] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [23:30:59] CLAIM: professional
+    Amount: USD 3364.10
+
+
+📅 2026-02-03
+
+  [13:59:17] VISIT: General examination of patient (procedure)
+    Provider: Dr. Morgan564 Marvin195
+    Location: FAMILY MEDICINE ASSOCIATES OF SOUTH ATTLEBORO, P.C.
+    Duration: 13:59:17 - 14:14:17
+
+  [13:59:17] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [13:59:17] IMMUNIZATION: Pneumococcal conjugate PCV 13
+    Status: completed
+
+  [13:59:17] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2026-02-03
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Marisol435 Conchita9 is a 65 year-old hispanic black female.
+      # Social History
+
+  [13:59:17] DOCUMENT: History and physical note
+    Status: current
+
+  [14:14:17] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2026-02-10
+
+  [13:59:17] PROVENANCE: Record activity
+    Agents: Dr. Morgan564 Marvin195, Dr. Morgan564 Marvin195
+
+================================================================================
+END OF TIMELINE (228 events)
+================================================================================

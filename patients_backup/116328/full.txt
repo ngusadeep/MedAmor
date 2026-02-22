@@ -1,0 +1,194 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Mrs. Mónica985 Mariana775 Almaraz628
+  Patient ID: 116328
+  Date of Birth: 1979-03-11
+  Gender: Female
+  Race: White
+  Ethnicity: Hispanic or Latino
+  Marital Status: Married
+  Address: 793 Miller Annex Unit 95, Bellingham, MA 02019
+  Phone: 555-749-7611
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2016-05-29
+
+  [17:01:09] VISIT: General examination of patient (procedure)
+    Provider: Dr. Sharron285 Okuneva707
+    Location: A&A HEALTHCARE LLC
+    Duration: 17:01:09 - 17:16:09
+
+  [17:01:09] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [17:01:09] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-05-29
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Mónica985 Mariana775 is a 37 year-old hispanic white female.
+      # Social History
+
+  [17:01:09] DOCUMENT: History and physical note
+    Status: superseded
+
+  [17:16:09] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2019-03-17
+
+  [17:01:09] VISIT: General examination of patient (procedure)
+    Provider: Dr. Sharron285 Okuneva707
+    Location: A&A HEALTHCARE LLC
+    Duration: 17:01:09 - 17:16:09
+
+  [17:01:09] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [17:01:09] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [17:01:09] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-03-17
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Mónica985 Mariana775 is a 40 year-old hispanic white female.
+      # Social History
+
+  [17:01:09] DOCUMENT: History and physical note
+    Status: superseded
+
+  [17:16:09] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2021-02-21
+
+  [16:01:09] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Bennett146 Rippin620
+    Location: MILFORD REGIONAL MEDICAL CENTER
+    Duration: 16:01:09 - 16:16:09
+
+  [16:01:09] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+    Status: completed
+
+  [16:01:09] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-02-21
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Mónica985 Mariana775 is a 41 year-old hispanic white female.
+      # Social History
+
+  [16:01:09] DOCUMENT: History and physical note
+    Status: superseded
+
+  [16:16:09] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-03-21
+
+  [17:01:09] VISIT: General examination of patient (procedure)
+    Provider: Dr. Sharron285 Okuneva707
+    Location: A&A HEALTHCARE LLC
+    Duration: 17:01:09 - 17:16:09
+
+  [17:01:09] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [17:01:09] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [17:01:09] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [17:01:09] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+    Status: completed
+
+  [17:01:09] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-03-21
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Mónica985 Mariana775 is a 42 year-old hispanic white female.
+      # Social History
+
+  [17:01:09] DOCUMENT: History and physical note
+    Status: superseded
+
+  [17:16:09] CLAIM: professional
+    Amount: USD 680.80
+
+
+📅 2023-03-26
+
+  [17:01:09] VISIT: General examination of patient (procedure)
+    Provider: Dr. Sharron285 Okuneva707
+    Location: A&A HEALTHCARE LLC
+    Duration: 17:01:09 - 17:16:09
+
+  [17:01:09] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [17:01:09] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-03-26
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Mónica985 Mariana775 is a 44 year-old hispanic white female.
+      # Social History
+
+  [17:01:09] DOCUMENT: History and physical note
+    Status: superseded
+
+  [17:16:09] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2025-03-30
+
+  [17:01:09] VISIT: General examination of patient (procedure)
+    Provider: Dr. Sharron285 Okuneva707
+    Location: A&A HEALTHCARE LLC
+    Duration: 17:01:09 - 17:16:09
+
+  [17:01:09] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [17:01:09] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-03-30
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Mónica985 Mariana775 is a 46 year-old hispanic white female.
+      # Social History
+
+  [17:01:09] DOCUMENT: History and physical note
+    Status: current
+
+  [17:16:09] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2026-02-15
+
+  [16:01:09] PROVENANCE: Record activity
+    Agents: Dr. Sharron285 Okuneva707, Dr. Sharron285 Okuneva707
+
+================================================================================
+END OF TIMELINE (35 events)
+================================================================================

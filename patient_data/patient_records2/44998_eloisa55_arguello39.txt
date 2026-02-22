@@ -1,0 +1,217 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Mrs. Eloisa55 Arguello39
+  Patient ID: 44998
+  Date of Birth: 1979-09-15
+  Gender: Female
+  Race: White
+  Ethnicity: Hispanic or Latino
+  Marital Status: Married
+  Address: 901 Collins Light, Rowley, MA 01969
+  Phone: 555-275-1797
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2016-12-03
+
+  [13:52:32] VISIT: General examination of patient (procedure)
+    Provider: Dr. Son314 MacGyver246
+    Location: HOLISTIC FAMILY PRACTICE, INC.
+    Duration: 13:52:32 - 14:07:32
+
+  [13:52:32] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [13:52:32] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-12-03
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Eloisa55 is a 37 year-old hispanic white female.
+      # Social History
+
+  [13:52:32] DOCUMENT: History and physical note
+    Status: superseded
+
+  [14:07:32] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2019-09-21
+
+  [14:52:32] VISIT: General examination of patient (procedure)
+    Provider: Dr. Son314 MacGyver246
+    Location: HOLISTIC FAMILY PRACTICE, INC.
+    Duration: 14:52:32 - 15:07:32
+
+  [14:52:32] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [14:52:32] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [14:52:32] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-09-21
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Eloisa55 is a 40 year-old hispanic white female.
+      # Social History
+
+  [14:52:32] DOCUMENT: History and physical note
+    Status: superseded
+
+  [15:07:32] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2021-03-20
+
+  [14:52:32] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Tracie996 Lesch175
+    Location: ANNA JAQUES HOSPITAL SUBACUTE UNIT
+    Duration: 14:52:32 - 15:07:32
+
+  [14:52:32] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+    Status: completed
+
+  [14:52:32] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-03-20
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Eloisa55 is a 41 year-old hispanic white female.
+      # Social History
+
+  [14:52:32] DOCUMENT: History and physical note
+    Status: superseded
+
+  [15:07:32] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-04-17
+
+  [14:52:32] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Tracie996 Lesch175
+    Location: ANNA JAQUES HOSPITAL SUBACUTE UNIT
+    Duration: 14:52:32 - 15:07:32
+
+  [14:52:32] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+    Status: completed
+
+  [14:52:32] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-04-17
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Eloisa55 is a 41 year-old hispanic white female.
+      # Social History
+
+  [14:52:32] DOCUMENT: History and physical note
+    Status: superseded
+
+  [15:07:32] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-09-25
+
+  [14:52:32] VISIT: General examination of patient (procedure)
+    Provider: Dr. Son314 MacGyver246
+    Location: HOLISTIC FAMILY PRACTICE, INC.
+    Duration: 14:52:32 - 15:07:32
+
+  [14:52:32] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [14:52:32] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [14:52:32] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [14:52:32] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-09-25
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Eloisa55 is a 42 year-old hispanic white female.
+      # Social History
+
+  [14:52:32] DOCUMENT: History and physical note
+    Status: superseded
+
+  [15:07:32] CLAIM: professional
+    Amount: USD 544.80
+
+
+📅 2023-09-30
+
+  [14:52:32] VISIT: General examination of patient (procedure)
+    Provider: Dr. Son314 MacGyver246
+    Location: HOLISTIC FAMILY PRACTICE, INC.
+    Duration: 14:52:32 - 15:07:32
+
+  [14:52:32] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [14:52:32] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-09-30
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Eloisa55 is a 44 year-old hispanic white female.
+      # Social History
+
+  [14:52:32] DOCUMENT: History and physical note
+    Status: superseded
+
+  [15:07:32] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2025-10-04
+
+  [14:52:32] VISIT: General examination of patient (procedure)
+    Provider: Dr. Son314 MacGyver246
+    Location: HOLISTIC FAMILY PRACTICE, INC.
+    Duration: 14:52:32 - 15:07:32
+
+  [14:52:32] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [14:52:32] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-10-04
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Eloisa55 is a 46 year-old hispanic white female.
+      # Social History
+
+  [14:52:32] DOCUMENT: History and physical note
+    Status: current
+
+  [15:07:32] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2026-02-14
+
+  [13:52:32] PROVENANCE: Record activity
+    Agents: Dr. Son314 MacGyver246, Dr. Son314 MacGyver246
+
+================================================================================
+END OF TIMELINE (39 events)
+================================================================================

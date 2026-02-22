@@ -13,6 +13,7 @@ const getBaseUrl = () => {
 export interface UserResponse {
   id: string
   username: string
+  role: string
 }
 
 export interface TokenResponse {
@@ -56,9 +57,13 @@ export async function logout(): Promise<void> {
 }
 
 export async function me(): Promise<UserResponse | null> {
-  const res = await fetch(`${getBaseUrl()}/auth/me`, {
-    credentials: 'include',
-  })
-  if (!res.ok) return null
-  return res.json()
+  try {
+    const res = await fetch(`${getBaseUrl()}/auth/me`, {
+      credentials: 'include',
+    })
+    if (!res.ok) return null
+    return res.json()
+  } catch {
+    return null
+  }
 }

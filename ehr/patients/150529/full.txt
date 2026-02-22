@@ -1,0 +1,136 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Mrs. Tricia672 Kamilah729 Bruen238
+  Patient ID: 150529
+  Date of Birth: 1985-07-03
+  Gender: Female
+  Race: White
+  Ethnicity: Not Hispanic or Latino
+  Marital Status: Married
+  Address: 105 Terry Brook Unit 65, Worcester, MA 01602
+  Phone: 555-491-3783
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2016-09-14
+
+  [08:27:50] VISIT: General examination of patient (procedure)
+    Provider: Dr. Barb55 Renner328
+    Location: AUBURN PRIMARY CARE AND AESTHETICS
+    Duration: 08:27:50 - 08:42:50
+
+  [08:27:50] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [08:27:50] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [08:27:50] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-09-14
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Tricia672 Kamilah729 is a 31 year-old nonhispanic white female.
+      # Social History
+
+  [08:27:50] DOCUMENT: History and physical note
+    Status: superseded
+
+  [08:42:50] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2019-09-18
+
+  [08:27:50] VISIT: General examination of patient (procedure)
+    Provider: Dr. Barb55 Renner328
+    Location: AUBURN PRIMARY CARE AND AESTHETICS
+    Duration: 08:27:50 - 08:42:50
+
+  [08:27:50] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [08:27:50] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-09-18
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Tricia672 Kamilah729 is a 34 year-old nonhispanic white female.
+      # Social History
+
+  [08:27:50] DOCUMENT: History and physical note
+    Status: superseded
+
+  [08:42:50] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2022-09-21
+
+  [08:27:50] VISIT: General examination of patient (procedure)
+    Provider: Dr. Barb55 Renner328
+    Location: AUBURN PRIMARY CARE AND AESTHETICS
+    Duration: 08:27:50 - 08:42:50
+
+  [08:27:50] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [08:27:50] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-09-21
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Tricia672 Kamilah729 is a 37 year-old nonhispanic white female.
+      # Social History
+
+  [08:27:50] DOCUMENT: History and physical note
+    Status: superseded
+
+  [08:42:50] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2025-07-09
+
+  [08:27:50] VISIT: General examination of patient (procedure)
+    Provider: Dr. Barb55 Renner328
+    Location: AUBURN PRIMARY CARE AND AESTHETICS
+    Duration: 08:27:50 - 08:42:50
+
+  [08:27:50] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [08:27:50] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [08:27:50] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-07-09
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Tricia672 Kamilah729 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [08:27:50] DOCUMENT: History and physical note
+    Status: current
+
+  [08:42:50] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2026-02-11
+
+  [07:27:50] PROVENANCE: Record activity
+    Agents: Dr. Barb55 Renner328, Dr. Barb55 Renner328
+
+================================================================================
+END OF TIMELINE (23 events)
+================================================================================

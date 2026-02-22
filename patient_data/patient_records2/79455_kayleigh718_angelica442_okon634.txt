@@ -1,0 +1,191 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Mrs. Kayleigh718 Angelica442 O'Kon634
+  Patient ID: 79455
+  Date of Birth: 1983-06-15
+  Gender: Female
+  Race: White
+  Ethnicity: Hispanic or Latino
+  Marital Status: Widowed
+  Address: 1061 Rath Port Unit 12, Peabody, MA 01960
+  Phone: 555-609-2947
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2017-08-30
+
+  [05:36:35] VISIT: General examination of patient (procedure)
+    Provider: Dr. Alan320 Keeling57
+    Location: PRIMARY CARE NORTH PC
+    Duration: 05:36:35 - 05:51:35
+
+  [05:36:35] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [05:36:35] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-08-30
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kayleigh718 Angelica442 is a 34 year-old hispanic white female.
+      # Social History
+
+  [05:36:35] DOCUMENT: History and physical note
+    Status: superseded
+
+  [05:51:35] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2020-09-02
+
+  [05:36:35] VISIT: General examination of patient (procedure)
+    Provider: Dr. Alan320 Keeling57
+    Location: PRIMARY CARE NORTH PC
+    Duration: 05:36:35 - 05:51:35
+
+  [05:36:35] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [05:36:35] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-09-02
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kayleigh718 Angelica442 is a 37 year-old hispanic white female.
+      # Social History
+
+  [05:36:35] DOCUMENT: History and physical note
+    Status: superseded
+
+  [05:51:35] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2021-02-03
+
+  [04:36:35] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Vicente970 Alonzo487
+    Location: WHITTIER REHABILTATION HOSPITAL
+    Duration: 04:36:35 - 04:51:35
+
+  [04:36:35] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+    Status: completed
+
+  [04:36:35] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-02-03
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kayleigh718 Angelica442 is a 37 year-old hispanic white female.
+      # Social History
+
+  [04:36:35] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:51:35] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-03-03
+
+  [04:36:35] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Vicente970 Alonzo487
+    Location: WHITTIER REHABILTATION HOSPITAL
+    Duration: 04:36:35 - 04:51:35
+
+  [04:36:35] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+    Status: completed
+
+  [04:36:35] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-03-03
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kayleigh718 Angelica442 is a 37 year-old hispanic white female.
+      # Social History
+
+  [04:36:35] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:51:35] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2023-06-21
+
+  [05:36:35] VISIT: General examination of patient (procedure)
+    Provider: Dr. Alan320 Keeling57
+    Location: PRIMARY CARE NORTH PC
+    Duration: 05:36:35 - 05:51:35
+
+  [05:36:35] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [05:36:35] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [05:36:35] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-06-21
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kayleigh718 Angelica442 is a 40 year-old hispanic white female.
+      # Social History
+
+  [05:36:35] DOCUMENT: History and physical note
+    Status: superseded
+
+  [05:51:35] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2025-06-25
+
+  [05:36:35] VISIT: General examination of patient (procedure)
+    Provider: Dr. Alan320 Keeling57
+    Location: PRIMARY CARE NORTH PC
+    Duration: 05:36:35 - 05:51:35
+
+  [05:36:35] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [05:36:35] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [05:36:35] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [05:36:35] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-06-25
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kayleigh718 Angelica442 is a 42 year-old hispanic white female.
+      # Social History
+
+  [05:36:35] DOCUMENT: History and physical note
+    Status: current
+
+  [05:51:35] CLAIM: professional
+    Amount: USD 544.80
+
+
+📅 2026-02-11
+
+  [04:36:35] PROVENANCE: Record activity
+    Agents: Dr. Alan320 Keeling57, Dr. Alan320 Keeling57
+
+================================================================================
+END OF TIMELINE (34 events)
+================================================================================

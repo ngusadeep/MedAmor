@@ -1,0 +1,139 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Mrs. Samira471 Magen68 Dooley940
+  Patient ID: 133106
+  Date of Birth: 1978-11-05
+  Gender: Female
+  Race: White
+  Ethnicity: Hispanic or Latino
+  Marital Status: Married
+  Address: 1042 Robel Junction, Dudley, MA 00000
+  Phone: 555-276-6676
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2018-11-11
+
+  [13:26:11] VISIT: General examination of patient (procedure)
+    Provider: Dr. Monte325 Parisian75
+    Location: RENAISSANCE PRIMARY CARE LLC
+    Duration: 13:26:11 - 13:41:11
+
+  [13:26:11] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [13:26:11] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [13:26:11] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-11-11
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Samira471 Magen68 is a 40 year-old hispanic white female.
+      # Social History
+
+  [13:26:11] DOCUMENT: History and physical note
+    Status: superseded
+
+  [13:41:11] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2020-11-15
+
+  [13:26:11] VISIT: General examination of patient (procedure)
+    Provider: Dr. Monte325 Parisian75
+    Location: RENAISSANCE PRIMARY CARE LLC
+    Duration: 13:26:11 - 13:41:11
+
+  [13:26:11] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [13:26:11] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [13:26:11] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [13:26:11] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-11-15
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Samira471 Magen68 is a 42 year-old hispanic white female.
+      # Social History
+
+  [13:26:11] DOCUMENT: History and physical note
+    Status: superseded
+
+  [13:41:11] CLAIM: professional
+    Amount: USD 544.80
+
+
+📅 2022-11-20
+
+  [13:26:11] VISIT: General examination of patient (procedure)
+    Provider: Dr. Monte325 Parisian75
+    Location: RENAISSANCE PRIMARY CARE LLC
+    Duration: 13:26:11 - 13:41:11
+
+  [13:26:11] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [13:26:11] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-11-20
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Samira471 Magen68 is a 44 year-old hispanic white female.
+      # Social History
+
+  [13:26:11] DOCUMENT: History and physical note
+    Status: superseded
+
+  [13:41:11] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2024-11-24
+
+  [13:26:11] VISIT: General examination of patient (procedure)
+    Provider: Dr. Monte325 Parisian75
+    Location: RENAISSANCE PRIMARY CARE LLC
+    Duration: 13:26:11 - 13:41:11
+
+  [13:26:11] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [13:26:11] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-11-24
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Samira471 Magen68 is a 46 year-old hispanic white female.
+      # Social History
+
+  [13:26:11] DOCUMENT: History and physical note
+    Status: current
+
+  [13:41:11] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2026-02-15
+
+  [13:26:11] PROVENANCE: Record activity
+    Agents: Dr. Monte325 Parisian75, Dr. Monte325 Parisian75
+
+================================================================================
+END OF TIMELINE (24 events)
+================================================================================

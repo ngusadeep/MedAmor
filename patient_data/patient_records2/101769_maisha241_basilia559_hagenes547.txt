@@ -1,0 +1,159 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Mrs. Maisha241 Basilia559 Hagenes547
+  Patient ID: 101769
+  Date of Birth: 1984-08-26
+  Gender: Female
+  Race: Asian
+  Ethnicity: Not Hispanic or Latino
+  Marital Status: Divorced
+  Address: 868 Wilkinson Flat, West Brookfield, MA 01585
+  Phone: 555-196-8289
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2018-11-11
+
+  [09:41:54] VISIT: General examination of patient (procedure)
+    Provider: Dr. Pedro316 Echevarría842
+    Location: BAYSTATE MEDICAL CENTER
+    Duration: 09:41:54 - 09:56:54
+
+  [09:41:54] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [09:41:54] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-11-11
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Maisha241 Basilia559 is a 34 year-old nonhispanic asian female.
+      # Social History
+
+  [09:41:54] DOCUMENT: History and physical note
+    Status: superseded
+
+  [09:56:54] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2021-03-21
+
+  [10:41:54] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Pedro316 Echevarría842
+    Location: BAYSTATE MEDICAL CENTER
+    Duration: 10:41:54 - 10:56:54
+
+  [10:41:54] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+    Status: completed
+
+  [10:41:54] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-03-21
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Maisha241 Basilia559 is a 36 year-old nonhispanic asian female.
+      # Social History
+
+  [10:41:54] DOCUMENT: History and physical note
+    Status: superseded
+
+  [10:56:54] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-04-18
+
+  [10:41:54] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Pedro316 Echevarría842
+    Location: BAYSTATE MEDICAL CENTER
+    Duration: 10:41:54 - 10:56:54
+
+  [10:41:54] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+    Status: completed
+
+  [10:41:54] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-04-18
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Maisha241 Basilia559 is a 36 year-old nonhispanic asian female.
+      # Social History
+
+  [10:41:54] DOCUMENT: History and physical note
+    Status: superseded
+
+  [10:56:54] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-11-14
+
+  [09:41:54] VISIT: General examination of patient (procedure)
+    Provider: Dr. Pedro316 Echevarría842
+    Location: BAYSTATE MEDICAL CENTER
+    Duration: 09:41:54 - 09:56:54
+
+  [09:41:54] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [09:41:54] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-11-14
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Maisha241 Basilia559 is a 37 year-old nonhispanic asian female.
+      # Social History
+
+  [09:41:54] DOCUMENT: History and physical note
+    Status: superseded
+
+  [09:56:54] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2024-09-01
+
+  [10:41:54] VISIT: General examination of patient (procedure)
+    Provider: Dr. Pedro316 Echevarría842
+    Location: BAYSTATE MEDICAL CENTER
+    Duration: 10:41:54 - 10:56:54
+
+  [10:41:54] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [10:41:54] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [10:41:54] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-09-01
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Maisha241 Basilia559 is a 40 year-old nonhispanic asian female.
+      # Social History
+
+  [10:41:54] DOCUMENT: History and physical note
+    Status: current
+
+  [10:56:54] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2026-02-15
+
+  [09:41:54] PROVENANCE: Record activity
+    Agents: Dr. Pedro316 Echevarría842, Dr. Pedro316 Echevarría842
+
+================================================================================
+END OF TIMELINE (27 events)
+================================================================================

@@ -1,17 +1,8 @@
-# Root .dockerignore (used if building from repo root)
-.git/
-.gitignore
+# Reduce build context: don't send patient data or frontend
+ehr/patients
+ehr/fhir
+frontend
+.git
+*.md
 .env
 .env.*
-!.env.example
-.venv/
-venv/
-node_modules/
-frontend/dist/
-backend/__pycache__/
-.cursor/
-*.md
-*.log
-.DS_Store
-.idea/
-.vscode/

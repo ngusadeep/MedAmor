@@ -2,7 +2,7 @@ import { useState } from 'react'
 import { z } from 'zod'
 import { useForm } from 'react-hook-form'
 import { zodResolver } from '@hookform/resolvers/zod'
-import { useNavigate } from '@tanstack/react-router'
+import { Link, useNavigate } from '@tanstack/react-router'
 import { toast } from 'sonner'
 import { cn } from '@/lib/utils'
 import { signup } from '@/lib/auth-api'
@@ -110,6 +110,16 @@ export function SignUpForm({
         <Button className='mt-2' disabled={isLoading}>
           Create Account
         </Button>
+
+        <p className='text-center text-sm text-muted-foreground'>
+          Already have an account?{' '}
+          <Link
+            to='/sign-in'
+            className='font-medium text-primary hover:opacity-75'
+          >
+            Sign in
+          </Link>
+        </p>
 
         {/* <div className='relative my-2'>
           <div className='absolute inset-0 flex items-center'>

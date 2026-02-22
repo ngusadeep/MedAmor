@@ -1,0 +1,1423 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Mrs. Cinda869 Blanda868
+  Patient ID: 29117
+  Date of Birth: 1977-06-19
+  Gender: Female
+  Race: Black or African American
+  Ethnicity: Not Hispanic or Latino
+  Marital Status: Married
+  Address: 529 Nitzsche Wynd Apt 39, Hingham, MA 02043
+  Phone: 555-878-6714
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2017-06-25
+
+  [08:29:22] VISIT: General examination of patient (procedure)
+    Provider: Dr. Todd315 Steuber698
+    Location: HINGHAM MEDICAL CARE INC
+    Duration: 08:29:22 - 08:44:22
+
+  [08:29:22] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [08:29:22] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [08:29:22] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-06-25
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Cinda869 is a 40 year-old nonhispanic black female.
+      # Social History
+
+  [08:29:22] DOCUMENT: History and physical note
+    Status: superseded
+
+  [08:44:22] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2019-06-30
+
+  [08:29:22] VISIT: General examination of patient (procedure)
+    Provider: Dr. Todd315 Steuber698
+    Location: HINGHAM MEDICAL CARE INC
+    Duration: 08:29:22 - 08:44:22
+
+  [08:29:22] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [08:29:22] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [08:29:22] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [08:29:22] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-06-30
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Cinda869 is a 42 year-old nonhispanic black female.
+      # Social History
+
+  [08:29:22] DOCUMENT: History and physical note
+    Status: superseded
+
+  [08:44:22] CLAIM: professional
+    Amount: USD 544.80
+
+
+📅 2021-07-04
+
+  [08:29:22] VISIT: General examination of patient (procedure)
+    Provider: Dr. Todd315 Steuber698
+    Location: HINGHAM MEDICAL CARE INC
+    Duration: 08:29:22 - 08:44:22
+
+  [08:29:22] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [08:29:22] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-07-04
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Cinda869 is a 44 year-old nonhispanic black female.
+      # Social History
+
+  [08:29:22] DOCUMENT: History and physical note
+    Status: superseded
+
+  [08:44:22] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2023-07-09
+
+  [08:29:22] VISIT: General examination of patient (procedure)
+    Provider: Dr. Todd315 Steuber698
+    Location: HINGHAM MEDICAL CARE INC
+    Duration: 08:29:22 - 08:44:22
+
+  [08:29:22] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [08:29:22] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-07-09
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Cinda869 is a 46 year-old nonhispanic black female.
+      # Social History
+
+  [08:29:22] DOCUMENT: History and physical note
+    Status: superseded
+
+  [08:44:22] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2024-06-04
+
+  [08:29:22] VISIT: Periodic reevaluation and management of healthy individual (procedure)
+    Reason: Screening for malignant neoplasm of breast (procedure)
+    Provider: Dr. Cira533 Hane680
+    Location: DANA FARBER CANCER INSTITUTE
+    Duration: 08:29:22 - 03:07:04
+
+  [08:29:22] PROCEDURE: Screening mammography (procedure)
+    Status: completed
+
+  [08:29:22] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-06-04
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Cinda869 is a 46 year-old nonhispanic black female.
+      # Social History
+
+  [08:29:22] DOCUMENT: History and physical note
+    Status: superseded
+
+  [08:44:59] PROCEDURE: Magnetic resonance imaging of breast (procedure)
+    Status: completed
+
+  [10:07:47] PROCEDURE: Biopsy of breast (procedure)
+    Status: completed
+
+  [10:53:04] CONDITION: Malignant neoplasm of breast (disorder) (active)
+
+  [10:53:04] OBSERVATION: Site of distant metastasis in Breast tumor: None (qualifier value)
+
+  [10:53:04] OBSERVATION: Distant metastases.clinical [Class] Cancer: American Joint Committee on Cancer cM0 (qualifier value)
+
+  [10:53:04] OBSERVATION: Size.maximum dimension in Tumor: 1.4688 cm
+
+  [10:53:04] OBSERVATION: Primary tumor.clinical [Class] Cancer: American Joint Committee on Cancer cT1 (qualifier value)
+
+  [10:53:04] OBSERVATION: Lymph nodes with isolated tumor cells [#] in Cancer specimen by Light microscopy: 0 {#}
+
+  [10:53:04] OBSERVATION: Regional lymph nodes.clinical [Class] Cancer: American Joint Committee on Cancer cN0 (qualifier value)
+
+  [10:53:04] PROCEDURE: Human epidermal growth factor receptor 2 gene detection by fluorescence in situ hybridization (procedure)
+    Status: completed
+
+
+📅 2024-06-05
+
+  [23:53:04] PROCEDURE: Human epidermal growth factor receptor 2 gene detection by immunohistochemistry (procedure)
+    Status: completed
+
+
+📅 2024-06-06
+
+  [03:07:04] OBSERVATION: HER2 [Presence] in Breast cancer specimen by Immune stain: Negative (qualifier value)
+
+  [03:07:04] OBSERVATION: ERBB2 gene duplication [Presence] in Breast cancer specimen by FISH: less than 1.8
+
+  [03:07:04] OBSERVATION: Estrogen receptor Ag [Presence] in Breast cancer specimen by Immune stain: Positive (qualifier value)
+
+  [03:07:04] OBSERVATION: Progesterone receptor Ag [Presence] in Breast cancer specimen by Immune stain: Positive (qualifier value)
+
+  [03:07:04] OBSERVATION: Estrogen+Progesterone receptor Ag [Presence] in Tissue by Immune stain: Positive (qualifier value)
+
+  [03:07:04] OBSERVATION: Stage group.clinical Cancer: American Joint Committee on Cancer stage IA (qualifier value)
+
+  [03:07:04] OBSERVATION: Stage group.clinical Cancer: Stage 1 (qualifier value)
+
+  [03:07:04] CLAIM: professional
+    Amount: USD 7325.44
+
+
+📅 2024-06-12
+
+  [15:07:04] VISIT: Discussion about treatment (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Cira533 Hane680
+    Location: DANA FARBER CANCER INSTITUTE
+    Duration: 15:07:04 - 15:58:01
+
+  [15:07:04] PROCEDURE: Discussion about options (procedure)
+    Status: completed
+
+  [15:07:04] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-06-12
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Cinda869 is a 46 year-old nonhispanic black female.
+      # Social History
+
+  [15:07:04] DOCUMENT: History and physical note
+    Status: superseded
+
+  [15:58:01] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2024-06-19
+
+  [04:58:01] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Cira533 Hane680
+    Location: DANA FARBER CANCER INSTITUTE
+    Duration: 04:58:01 - 09:05:01
+
+  [04:58:01] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-06-19
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Cinda869 is a 47 year-old nonhispanic black female.
+      # Social History
+
+  [04:58:01] DOCUMENT: History and physical note
+    Status: superseded
+
+  [06:40:01] PROCEDURE: Excision of lesion of breast (procedure)
+    Status: completed
+
+
+📅 2024-06-24
+
+  [09:05:01] CLAIM: institutional
+    Amount: USD 519.11
+
+
+📅 2024-07-02
+
+  [05:05:01] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Cira533 Hane680
+    Location: DANA FARBER CANCER INSTITUTE
+    Duration: 05:05:01 - 05:28:39
+
+  [05:05:01] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [05:05:01] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-07-02
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Cinda869 is a 47 year-old nonhispanic black female.
+      # Social History
+
+  [05:05:01] DOCUMENT: History and physical note
+    Status: superseded
+
+  [05:28:39] CLAIM: professional
+    Amount: USD 728.16
+
+
+📅 2024-07-03
+
+  [16:20:39] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Cira533 Hane680
+    Location: DANA FARBER CANCER INSTITUTE
+    Duration: 16:20:39 - 16:51:16
+
+  [16:20:39] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [16:20:39] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-07-03
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Cinda869 is a 47 year-old nonhispanic black female.
+      # Social History
+
+  [16:20:39] DOCUMENT: History and physical note
+    Status: superseded
+
+  [16:51:16] CLAIM: professional
+    Amount: USD 1359.90
+
+
+📅 2024-07-04
+
+  [22:45:16] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Cira533 Hane680
+    Location: DANA FARBER CANCER INSTITUTE
+    Duration: 22:45:16 - 23:23:30
+
+  [22:45:16] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [22:45:16] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-07-04
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Cinda869 is a 47 year-old nonhispanic black female.
+      # Social History
+
+  [22:45:16] DOCUMENT: History and physical note
+    Status: superseded
+
+  [23:23:30] CLAIM: professional
+    Amount: USD 873.41
+
+
+📅 2024-07-06
+
+  [00:34:30] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Cira533 Hane680
+    Location: DANA FARBER CANCER INSTITUTE
+    Duration: 00:34:30 - 00:56:08
+
+  [00:34:30] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [00:34:30] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-07-06
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Cinda869 is a 47 year-old nonhispanic black female.
+      # Social History
+
+  [00:34:30] DOCUMENT: History and physical note
+    Status: superseded
+
+  [00:56:08] CLAIM: professional
+    Amount: USD 512.63
+
+
+📅 2024-07-07
+
+  [03:54:08] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Cira533 Hane680
+    Location: DANA FARBER CANCER INSTITUTE
+    Duration: 03:54:08 - 04:11:01
+
+  [03:54:08] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [03:54:08] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-07-07
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Cinda869 is a 47 year-old nonhispanic black female.
+      # Social History
+
+  [03:54:08] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:11:01] CLAIM: professional
+    Amount: USD 1359.90
+
+
+📅 2024-07-08
+
+  [04:46:01] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Cira533 Hane680
+    Location: DANA FARBER CANCER INSTITUTE
+    Duration: 04:46:01 - 05:13:01
+
+  [04:46:01] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [04:46:01] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-07-08
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Cinda869 is a 47 year-old nonhispanic black female.
+      # Social History
+
+  [04:46:01] DOCUMENT: History and physical note
+    Status: superseded
+
+  [05:13:01] CLAIM: professional
+    Amount: USD 760.66
+
+
+📅 2024-07-09
+
+  [12:16:01] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Cira533 Hane680
+    Location: DANA FARBER CANCER INSTITUTE
+    Duration: 12:16:01 - 12:36:39
+
+  [12:16:01] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [12:16:01] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-07-09
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Cinda869 is a 47 year-old nonhispanic black female.
+      # Social History
+
+  [12:16:01] DOCUMENT: History and physical note
+    Status: superseded
+
+  [12:36:39] CLAIM: professional
+    Amount: USD 512.63
+
+
+📅 2024-07-10
+
+  [14:58:39] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Cira533 Hane680
+    Location: DANA FARBER CANCER INSTITUTE
+    Duration: 14:58:39 - 15:15:34
+
+  [14:58:39] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [14:58:39] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-07-10
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Cinda869 is a 47 year-old nonhispanic black female.
+      # Social History
+
+  [14:58:39] DOCUMENT: History and physical note
+    Status: superseded
+
+  [15:15:34] CLAIM: professional
+    Amount: USD 858.32
+
+
+📅 2024-07-11
+
+  [17:57:34] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Cira533 Hane680
+    Location: DANA FARBER CANCER INSTITUTE
+    Duration: 17:57:34 - 18:37:25
+
+  [17:57:34] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [17:57:34] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-07-11
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Cinda869 is a 47 year-old nonhispanic black female.
+      # Social History
+
+  [17:57:34] DOCUMENT: History and physical note
+    Status: superseded
+
+  [18:37:25] CLAIM: professional
+    Amount: USD 512.63
+
+
+📅 2024-07-13
+
+  [01:26:25] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Cira533 Hane680
+    Location: DANA FARBER CANCER INSTITUTE
+    Duration: 01:26:25 - 01:48:11
+
+  [01:26:25] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [01:26:25] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-07-13
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Cinda869 is a 47 year-old nonhispanic black female.
+      # Social History
+
+  [01:26:25] DOCUMENT: History and physical note
+    Status: superseded
+
+  [01:48:11] CLAIM: professional
+    Amount: USD 1359.90
+
+
+📅 2024-07-14
+
+  [06:23:11] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Cira533 Hane680
+    Location: DANA FARBER CANCER INSTITUTE
+    Duration: 06:23:11 - 06:50:01
+
+  [06:23:11] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [06:23:11] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-07-14
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Cinda869 is a 47 year-old nonhispanic black female.
+      # Social History
+
+  [06:23:11] DOCUMENT: History and physical note
+    Status: superseded
+
+  [06:50:01] CLAIM: professional
+    Amount: USD 512.63
+
+
+📅 2024-07-15
+
+  [08:47:01] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Cira533 Hane680
+    Location: DANA FARBER CANCER INSTITUTE
+    Duration: 08:47:01 - 09:17:59
+
+  [08:47:01] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [08:47:01] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-07-15
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Cinda869 is a 47 year-old nonhispanic black female.
+      # Social History
+
+  [08:47:01] DOCUMENT: History and physical note
+    Status: superseded
+
+  [09:17:59] CLAIM: professional
+    Amount: USD 740.62
+
+
+📅 2024-07-16
+
+  [16:10:59] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Cira533 Hane680
+    Location: DANA FARBER CANCER INSTITUTE
+    Duration: 16:10:59 - 16:34:23
+
+  [16:10:59] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [16:10:59] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-07-16
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Cinda869 is a 47 year-old nonhispanic black female.
+      # Social History
+
+  [16:10:59] DOCUMENT: History and physical note
+    Status: superseded
+
+  [16:34:23] CLAIM: professional
+    Amount: USD 512.63
+
+
+📅 2024-07-18
+
+  [02:51:23] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Cira533 Hane680
+    Location: DANA FARBER CANCER INSTITUTE
+    Duration: 02:51:23 - 03:28:22
+
+  [02:51:23] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [02:51:23] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-07-18
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Cinda869 is a 47 year-old nonhispanic black female.
+      # Social History
+
+  [02:51:23] DOCUMENT: History and physical note
+    Status: superseded
+
+  [03:28:22] CLAIM: professional
+    Amount: USD 671.69
+
+
+📅 2024-07-19
+
+  [04:07:22] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Cira533 Hane680
+    Location: DANA FARBER CANCER INSTITUTE
+    Duration: 04:07:22 - 04:37:31
+
+  [04:07:22] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [04:07:22] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-07-19
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Cinda869 is a 47 year-old nonhispanic black female.
+      # Social History
+
+  [04:07:22] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:37:31] CLAIM: professional
+    Amount: USD 994.67
+
+
+📅 2024-07-20
+
+  [10:48:31] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Cira533 Hane680
+    Location: DANA FARBER CANCER INSTITUTE
+    Duration: 10:48:31 - 11:16:42
+
+  [10:48:31] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [10:48:31] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-07-20
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Cinda869 is a 47 year-old nonhispanic black female.
+      # Social History
+
+  [10:48:31] DOCUMENT: History and physical note
+    Status: superseded
+
+  [11:16:42] CLAIM: professional
+    Amount: USD 512.63
+
+
+📅 2024-07-21
+
+  [18:37:42] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Cira533 Hane680
+    Location: DANA FARBER CANCER INSTITUTE
+    Duration: 18:37:42 - 19:10:17
+
+  [18:37:42] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [18:37:42] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-07-21
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Cinda869 is a 47 year-old nonhispanic black female.
+      # Social History
+
+  [18:37:42] DOCUMENT: History and physical note
+    Status: superseded
+
+  [19:10:17] CLAIM: professional
+    Amount: USD 966.37
+
+
+📅 2024-07-23
+
+  [04:33:17] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Cira533 Hane680
+    Location: DANA FARBER CANCER INSTITUTE
+    Duration: 04:33:17 - 05:02:25
+
+  [04:33:17] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [04:33:17] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-07-23
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Cinda869 is a 47 year-old nonhispanic black female.
+      # Social History
+
+  [04:33:17] DOCUMENT: History and physical note
+    Status: superseded
+
+  [05:02:25] CLAIM: professional
+    Amount: USD 575.02
+
+
+📅 2024-07-24
+
+  [05:24:25] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Cira533 Hane680
+    Location: DANA FARBER CANCER INSTITUTE
+    Duration: 05:24:25 - 05:57:13
+
+  [05:24:25] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [05:24:25] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-07-24
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Cinda869 is a 47 year-old nonhispanic black female.
+      # Social History
+
+  [05:24:25] DOCUMENT: History and physical note
+    Status: superseded
+
+  [05:57:13] CLAIM: professional
+    Amount: USD 1359.90
+
+
+📅 2024-07-25
+
+  [09:31:13] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Cira533 Hane680
+    Location: DANA FARBER CANCER INSTITUTE
+    Duration: 09:31:13 - 09:59:24
+
+  [09:31:13] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [09:31:13] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-07-25
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Cinda869 is a 47 year-old nonhispanic black female.
+      # Social History
+
+  [09:31:13] DOCUMENT: History and physical note
+    Status: superseded
+
+  [09:59:24] CLAIM: professional
+    Amount: USD 1359.90
+
+
+📅 2024-07-26
+
+  [15:45:24] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Cira533 Hane680
+    Location: DANA FARBER CANCER INSTITUTE
+    Duration: 15:45:24 - 16:07:37
+
+  [15:45:24] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [15:45:24] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-07-26
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Cinda869 is a 47 year-old nonhispanic black female.
+      # Social History
+
+  [15:45:24] DOCUMENT: History and physical note
+    Status: superseded
+
+  [16:07:37] CLAIM: professional
+    Amount: USD 1359.90
+
+
+📅 2024-07-27
+
+  [19:35:37] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Cira533 Hane680
+    Location: DANA FARBER CANCER INSTITUTE
+    Duration: 19:35:37 - 19:58:11
+
+  [19:35:37] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [19:35:37] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-07-27
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Cinda869 is a 47 year-old nonhispanic black female.
+      # Social History
+
+  [19:35:37] DOCUMENT: History and physical note
+    Status: superseded
+
+  [19:58:11] CLAIM: professional
+    Amount: USD 1359.90
+
+
+📅 2024-07-29
+
+  [04:38:11] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Cira533 Hane680
+    Location: DANA FARBER CANCER INSTITUTE
+    Duration: 04:38:11 - 05:11:33
+
+  [04:38:11] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [04:38:11] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-07-29
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Cinda869 is a 47 year-old nonhispanic black female.
+      # Social History
+
+  [04:38:11] DOCUMENT: History and physical note
+    Status: superseded
+
+  [05:11:33] CLAIM: professional
+    Amount: USD 512.63
+
+
+📅 2024-07-30
+
+  [09:54:33] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Cira533 Hane680
+    Location: DANA FARBER CANCER INSTITUTE
+    Duration: 09:54:33 - 10:12:28
+
+  [09:54:33] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [09:54:33] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-07-30
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Cinda869 is a 47 year-old nonhispanic black female.
+      # Social History
+
+  [09:54:33] DOCUMENT: History and physical note
+    Status: superseded
+
+  [10:12:28] CLAIM: professional
+    Amount: USD 512.63
+
+
+📅 2024-07-31
+
+  [13:47:28] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Cira533 Hane680
+    Location: DANA FARBER CANCER INSTITUTE
+    Duration: 13:47:28 - 14:07:36
+
+  [13:47:28] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [13:47:28] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-07-31
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Cinda869 is a 47 year-old nonhispanic black female.
+      # Social History
+
+  [13:47:28] DOCUMENT: History and physical note
+    Status: superseded
+
+  [14:07:36] CLAIM: professional
+    Amount: USD 1268.79
+
+
+📅 2024-08-01
+
+  [22:26:36] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Cira533 Hane680
+    Location: DANA FARBER CANCER INSTITUTE
+    Duration: 22:26:36 - 22:54:29
+
+  [22:26:36] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [22:26:36] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-08-01
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Cinda869 is a 47 year-old nonhispanic black female.
+      # Social History
+
+  [22:26:36] DOCUMENT: History and physical note
+    Status: superseded
+
+  [22:54:29] CLAIM: professional
+    Amount: USD 512.63
+
+
+📅 2024-08-03
+
+  [02:45:29] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Cira533 Hane680
+    Location: DANA FARBER CANCER INSTITUTE
+    Duration: 02:45:29 - 03:09:59
+
+  [02:45:29] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [02:45:29] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-08-03
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Cinda869 is a 47 year-old nonhispanic black female.
+      # Social History
+
+  [02:45:29] DOCUMENT: History and physical note
+    Status: superseded
+
+  [03:09:59] CLAIM: professional
+    Amount: USD 512.63
+
+
+📅 2024-08-04
+
+  [04:26:59] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Cira533 Hane680
+    Location: DANA FARBER CANCER INSTITUTE
+    Duration: 04:26:59 - 04:47:06
+
+  [04:26:59] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [04:26:59] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-08-04
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Cinda869 is a 47 year-old nonhispanic black female.
+      # Social History
+
+  [04:26:59] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:47:06] CLAIM: professional
+    Amount: USD 1082.53
+
+
+📅 2024-08-05
+
+  [08:13:06] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Cira533 Hane680
+    Location: DANA FARBER CANCER INSTITUTE
+    Duration: 08:13:06 - 08:48:14
+
+  [08:13:06] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [08:13:06] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-08-05
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Cinda869 is a 47 year-old nonhispanic black female.
+      # Social History
+
+  [08:13:06] DOCUMENT: History and physical note
+    Status: superseded
+
+  [08:48:14] CLAIM: professional
+    Amount: USD 1303.39
+
+
+📅 2024-08-06
+
+  [18:47:14] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Cira533 Hane680
+    Location: DANA FARBER CANCER INSTITUTE
+    Duration: 18:47:14 - 19:21:44
+
+  [18:47:14] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [18:47:14] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-08-06
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Cinda869 is a 47 year-old nonhispanic black female.
+      # Social History
+
+  [18:47:14] DOCUMENT: History and physical note
+    Status: superseded
+
+  [19:21:44] CLAIM: professional
+    Amount: USD 1359.90
+
+
+📅 2024-08-08
+
+  [01:59:44] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Cira533 Hane680
+    Location: DANA FARBER CANCER INSTITUTE
+    Duration: 01:59:44 - 02:18:34
+
+  [01:59:44] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [01:59:44] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-08-08
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Cinda869 is a 47 year-old nonhispanic black female.
+      # Social History
+
+  [01:59:44] DOCUMENT: History and physical note
+    Status: superseded
+
+  [02:18:34] CLAIM: professional
+    Amount: USD 769.78
+
+
+📅 2024-08-09
+
+  [07:50:34] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Cira533 Hane680
+    Location: DANA FARBER CANCER INSTITUTE
+    Duration: 07:50:34 - 08:22:45
+
+  [07:50:34] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [07:50:34] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-08-09
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Cinda869 is a 47 year-old nonhispanic black female.
+      # Social History
+
+  [07:50:34] DOCUMENT: History and physical note
+    Status: superseded
+
+  [08:22:45] CLAIM: professional
+    Amount: USD 1359.90
+
+
+📅 2024-08-10
+
+  [16:02:45] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Cira533 Hane680
+    Location: DANA FARBER CANCER INSTITUTE
+    Duration: 16:02:45 - 16:36:18
+
+  [16:02:45] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [16:02:45] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-08-10
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Cinda869 is a 47 year-old nonhispanic black female.
+      # Social History
+
+  [16:02:45] DOCUMENT: History and physical note
+    Status: superseded
+
+  [16:36:18] CLAIM: professional
+    Amount: USD 512.63
+
+
+📅 2024-08-12
+
+  [03:36:18] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Cira533 Hane680
+    Location: DANA FARBER CANCER INSTITUTE
+    Duration: 03:36:18 - 04:02:11
+
+  [03:36:18] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [03:36:18] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-08-12
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Cinda869 is a 47 year-old nonhispanic black female.
+      # Social History
+
+  [03:36:18] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:02:11] CLAIM: professional
+    Amount: USD 594.73
+
+
+📅 2024-08-15
+
+  [01:02:11] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Cira533 Hane680
+    Location: DANA FARBER CANCER INSTITUTE
+    Duration: 01:02:11 - 01:17:11
+
+  [01:02:11] OBSERVATION: Treatment status Cancer: Treatment changed (situation)
+
+  [01:02:11] OBSERVATION: Response to cancer treatment: Improving (qualifier value)
+
+  [01:02:11] MEDICATION PRESCRIBED: Unknown medication
+    Status: completed
+    Prescribed by: Dr. Cira533 Hane680
+
+  [01:02:11] MEDICATION ADMINISTERED: Tamoxifen 10 MG Oral Tablet
+    Status: completed
+    Dosage: 1.0
+
+  [01:02:11] MEDICATION PRESCRIBED: Unknown medication
+    Status: completed
+    Prescribed by: Dr. Cira533 Hane680
+
+  [01:02:11] MEDICATION ADMINISTERED: abemaciclib 100 MG Oral Tablet [Verzenio]
+    Status: completed
+
+  [01:02:11] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-08-15
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Cinda869 is a 47 year-old nonhispanic black female.
+      # Social History
+
+  [01:02:11] DOCUMENT: History and physical note
+    Status: superseded
+
+  [01:17:11] CLAIM: pharmacy
+    Amount: USD 409.20
+
+  [01:17:11] CLAIM: pharmacy
+    Amount: USD 117.93
+
+  [01:17:11] CLAIM: professional
+    Amount: USD 85.55
+
+
+📅 2024-11-23
+
+  [00:02:11] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Cira533 Hane680
+    Location: DANA FARBER CANCER INSTITUTE
+    Duration: 00:02:11 - 00:42:48
+
+  [00:02:11] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [00:02:11] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-11-23
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Cinda869 is a 47 year-old nonhispanic black female.
+      # Social History
+
+  [00:02:11] DOCUMENT: History and physical note
+    Status: superseded
+
+  [00:42:48] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2025-03-13
+
+  [01:42:48] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Cira533 Hane680
+    Location: DANA FARBER CANCER INSTITUTE
+    Duration: 01:42:48 - 02:14:14
+
+  [01:42:48] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [01:42:48] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-03-13
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Cinda869 is a 47 year-old nonhispanic black female.
+      # Social History
+
+  [01:42:48] DOCUMENT: History and physical note
+    Status: superseded
+
+  [02:14:14] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2025-07-13
+
+  [08:29:22] VISIT: General examination of patient (procedure)
+    Provider: Dr. Todd315 Steuber698
+    Location: HINGHAM MEDICAL CARE INC
+    Duration: 08:29:22 - 08:44:22
+
+  [08:29:22] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [08:29:22] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-07-13
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Cinda869 is a 48 year-old nonhispanic black female.
+      # Social History
+
+  [08:29:22] DOCUMENT: History and physical note
+    Status: superseded
+
+  [08:44:22] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2025-07-20
+
+  [08:29:22] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Cira533 Hane680
+    Location: DANA FARBER CANCER INSTITUTE
+    Duration: 08:29:22 - 09:03:04
+
+  [08:29:22] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [08:29:22] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-07-20
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Cinda869 is a 48 year-old nonhispanic black female.
+      # Social History
+
+  [08:29:22] DOCUMENT: History and physical note
+    Status: superseded
+
+  [09:03:04] CLAIM: professional
+    Amount: USD 573.98
+
+  [09:03:04] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Cira533 Hane680
+    Location: DANA FARBER CANCER INSTITUTE
+    Duration: 09:03:04 - 09:23:34
+
+  [09:03:04] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [09:03:04] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-07-20
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Cinda869 is a 48 year-old nonhispanic black female.
+      # Social History
+
+  [09:03:04] DOCUMENT: History and physical note
+    Status: superseded
+
+  [09:23:34] CLAIM: professional
+    Amount: USD 245.76
+
+  [09:23:34] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Cira533 Hane680
+    Location: DANA FARBER CANCER INSTITUTE
+    Duration: 09:23:34 - 09:43:58
+
+  [09:23:34] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [09:23:34] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-07-20
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Cinda869 is a 48 year-old nonhispanic black female.
+      # Social History
+
+  [09:23:34] DOCUMENT: History and physical note
+    Status: superseded
+
+  [09:33:47] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [09:43:58] OBSERVATION: Response to cancer treatment: Improving (qualifier value)
+
+  [09:43:58] CLAIM: professional
+    Amount: USD 1121.33
+
+
+📅 2025-11-15
+
+  [08:43:58] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Cira533 Hane680
+    Location: DANA FARBER CANCER INSTITUTE
+    Duration: 08:43:58 - 09:14:39
+
+  [08:43:58] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [08:43:58] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-11-15
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Cinda869 is a 48 year-old nonhispanic black female.
+      # Social History
+
+  [08:43:58] DOCUMENT: History and physical note
+    Status: current
+
+  [09:14:39] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2026-02-15
+
+  [07:29:22] PROVENANCE: Record activity
+    Agents: Dr. Cira533 Hane680, Dr. Cira533 Hane680
+
+================================================================================
+END OF TIMELINE (276 events)
+================================================================================

@@ -1,0 +1,2013 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Mrs. Juliane376 Rowe323
+  Patient ID: 73467
+  Date of Birth: 1967-08-24
+  Gender: Female
+  Race: Asian
+  Ethnicity: Not Hispanic or Latino
+  Marital Status: Married
+  Address: 169 Denesik Highlands Suite 82, Bellingham, MA 02019
+  Phone: 555-852-6211
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2017-08-24
+
+  [04:44:15] VISIT: General examination of patient (procedure)
+    Provider: Dr. Sharron285 Okuneva707
+    Location: A&A HEALTHCARE LLC
+    Duration: 04:44:15 - 04:59:15
+
+  [04:44:15] IMMUNIZATION: zoster vaccine, live
+    Status: completed
+
+  [04:44:15] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [04:44:15] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-08-24
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Juliane376 is a 50 year-old nonhispanic asian female.
+      # Social History
+
+  [04:44:15] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:59:15] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2018-08-30
+
+  [04:44:15] VISIT: General examination of patient (procedure)
+    Provider: Dr. Sharron285 Okuneva707
+    Location: A&A HEALTHCARE LLC
+    Duration: 04:44:15 - 04:59:15
+
+  [04:44:15] IMMUNIZATION: zoster vaccine, live
+    Status: completed
+
+  [04:44:15] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [04:44:15] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [04:44:15] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-08-30
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Juliane376 is a 51 year-old nonhispanic asian female.
+      # Social History
+
+  [04:44:15] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:59:15] CLAIM: professional
+    Amount: USD 544.80
+
+
+📅 2019-09-05
+
+  [04:44:15] VISIT: General examination of patient (procedure)
+    Provider: Dr. Sharron285 Okuneva707
+    Location: A&A HEALTHCARE LLC
+    Duration: 04:44:15 - 04:59:15
+
+  [04:44:15] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [04:44:15] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-09-05
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Juliane376 is a 52 year-old nonhispanic asian female.
+      # Social History
+
+  [04:44:15] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:59:15] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2020-09-10
+
+  [04:44:15] VISIT: General examination of patient (procedure)
+    Provider: Dr. Sharron285 Okuneva707
+    Location: A&A HEALTHCARE LLC
+    Duration: 04:44:15 - 04:59:15
+
+  [04:44:15] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [04:44:15] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-09-10
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Juliane376 is a 53 year-old nonhispanic asian female.
+      # Social History
+
+  [04:44:15] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:59:15] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2021-03-04
+
+  [03:44:15] VISIT: Periodic reevaluation and management of healthy individual (procedure)
+    Reason: Screening for malignant neoplasm of breast (procedure)
+    Provider: Dr. Bennett146 Rippin620
+    Location: MILFORD REGIONAL MEDICAL CENTER
+    Duration: 03:44:15 - 07:54:27
+
+  [03:44:15] PROCEDURE: Screening mammography (procedure)
+    Status: completed
+
+  [03:44:15] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-03-04
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Juliane376 is a 53 year-old nonhispanic asian female.
+      # Social History
+
+  [03:44:15] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:07:01] PROCEDURE: Ultrasonography of bilateral breasts (procedure)
+    Status: completed
+
+  [04:35:14] PROCEDURE: Biopsy of breast (procedure)
+    Status: completed
+
+  [05:20:27] CONDITION: Malignant neoplasm of breast (disorder) (active)
+
+  [05:20:27] OBSERVATION: Site of distant metastasis in Breast tumor: None (qualifier value)
+
+  [05:20:27] OBSERVATION: Distant metastases.clinical [Class] Cancer: American Joint Committee on Cancer cM0 (qualifier value)
+
+  [05:20:27] OBSERVATION: Size.maximum dimension in Tumor: 1.8058 cm
+
+  [05:20:27] OBSERVATION: Primary tumor.clinical [Class] Cancer: American Joint Committee on Cancer cT1 (qualifier value)
+
+  [05:20:27] OBSERVATION: Lymph nodes with isolated tumor cells [#] in Cancer specimen by Light microscopy: 0 {#}
+
+  [05:20:27] OBSERVATION: Regional lymph nodes.clinical [Class] Cancer: American Joint Committee on Cancer cN0 (qualifier value)
+
+  [05:20:27] PROCEDURE: Human epidermal growth factor receptor 2 gene detection by fluorescence in situ hybridization (procedure)
+    Status: completed
+
+
+📅 2021-03-06
+
+  [04:20:27] PROCEDURE: Human epidermal growth factor receptor 2 gene detection by immunohistochemistry (procedure)
+    Status: completed
+
+  [07:54:27] OBSERVATION: HER2 [Presence] in Breast cancer specimen by Immune stain: Negative (qualifier value)
+
+  [07:54:27] OBSERVATION: ERBB2 gene duplication [Presence] in Breast cancer specimen by FISH: less than 1.8
+
+  [07:54:27] OBSERVATION: Estrogen receptor Ag [Presence] in Breast cancer specimen by Immune stain: Negative (qualifier value)
+
+  [07:54:27] OBSERVATION: Progesterone receptor Ag [Presence] in Breast cancer specimen by Immune stain: Positive (qualifier value)
+
+  [07:54:27] OBSERVATION: Stage group.clinical Cancer: American Joint Committee on Cancer stage IA (qualifier value)
+
+  [07:54:27] OBSERVATION: Stage group.clinical Cancer: Stage 1 (qualifier value)
+
+  [07:54:27] CLAIM: professional
+    Amount: USD 4133.01
+
+
+📅 2021-03-07
+
+  [08:54:27] VISIT: Discussion about treatment (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Bennett146 Rippin620
+    Location: MILFORD REGIONAL MEDICAL CENTER
+    Duration: 08:54:27 - 09:50:37
+
+  [08:54:27] PROCEDURE: Discussion about options (procedure)
+    Status: completed
+
+  [08:54:27] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-03-07
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Juliane376 is a 53 year-old nonhispanic asian female.
+      # Social History
+
+  [08:54:27] DOCUMENT: History and physical note
+    Status: superseded
+
+  [09:50:37] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2021-03-13
+
+  [02:50:37] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Bennett146 Rippin620
+    Location: MILFORD REGIONAL MEDICAL CENTER
+    Duration: 02:50:37 - 06:10:24
+
+  [02:50:37] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-03-13
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Juliane376 is a 53 year-old nonhispanic asian female.
+      # Social History
+
+  [02:50:37] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:33:37] PROCEDURE: Lumpectomy of breast (procedure)
+    Status: completed
+
+
+📅 2021-03-14
+
+  [06:10:24] CLAIM: institutional
+    Amount: USD 25325.38
+
+
+📅 2021-03-26
+
+  [15:10:24] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Bennett146 Rippin620
+    Location: MILFORD REGIONAL MEDICAL CENTER
+    Duration: 15:10:24 - 15:47:42
+
+  [15:10:24] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [15:10:24] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-03-26
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Juliane376 is a 53 year-old nonhispanic asian female.
+      # Social History
+
+  [15:10:24] DOCUMENT: History and physical note
+    Status: superseded
+
+  [15:47:42] CLAIM: professional
+    Amount: USD 1359.90
+
+
+📅 2021-03-27
+
+  [23:42:42] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Bennett146 Rippin620
+    Location: MILFORD REGIONAL MEDICAL CENTER
+    Duration: 23:42:42 - 00:11:06
+
+  [23:42:42] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [23:42:42] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-03-27
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Juliane376 is a 53 year-old nonhispanic asian female.
+      # Social History
+
+  [23:42:42] DOCUMENT: History and physical note
+    Status: superseded
+
+
+📅 2021-03-28
+
+  [00:11:06] CLAIM: professional
+    Amount: USD 1359.90
+
+
+📅 2021-03-29
+
+  [04:38:06] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Bennett146 Rippin620
+    Location: MILFORD REGIONAL MEDICAL CENTER
+    Duration: 04:38:06 - 05:13:52
+
+  [04:38:06] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [04:38:06] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-03-29
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Juliane376 is a 53 year-old nonhispanic asian female.
+      # Social History
+
+  [04:38:06] DOCUMENT: History and physical note
+    Status: superseded
+
+  [05:13:52] CLAIM: professional
+    Amount: USD 512.63
+
+
+📅 2021-03-30
+
+  [07:52:52] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Bennett146 Rippin620
+    Location: MILFORD REGIONAL MEDICAL CENTER
+    Duration: 07:52:52 - 08:19:18
+
+  [07:52:52] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [07:52:52] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-03-30
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Juliane376 is a 53 year-old nonhispanic asian female.
+      # Social History
+
+  [07:52:52] DOCUMENT: History and physical note
+    Status: superseded
+
+  [08:19:18] CLAIM: professional
+    Amount: USD 512.63
+
+
+📅 2021-03-31
+
+  [14:23:18] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Bennett146 Rippin620
+    Location: MILFORD REGIONAL MEDICAL CENTER
+    Duration: 14:23:18 - 14:56:57
+
+  [14:23:18] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [14:23:18] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-03-31
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Juliane376 is a 53 year-old nonhispanic asian female.
+      # Social History
+
+  [14:23:18] DOCUMENT: History and physical note
+    Status: superseded
+
+  [14:56:57] CLAIM: professional
+    Amount: USD 1359.90
+
+
+📅 2021-04-01
+
+  [22:59:57] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Bennett146 Rippin620
+    Location: MILFORD REGIONAL MEDICAL CENTER
+    Duration: 22:59:57 - 23:32:10
+
+  [22:59:57] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [22:59:57] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-04-01
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Juliane376 is a 53 year-old nonhispanic asian female.
+      # Social History
+
+  [22:59:57] DOCUMENT: History and physical note
+    Status: superseded
+
+  [23:32:10] CLAIM: professional
+    Amount: USD 1359.90
+
+
+📅 2021-04-03
+
+  [08:30:10] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Bennett146 Rippin620
+    Location: MILFORD REGIONAL MEDICAL CENTER
+    Duration: 08:30:10 - 09:10:09
+
+  [08:30:10] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [08:30:10] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-04-03
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Juliane376 is a 53 year-old nonhispanic asian female.
+      # Social History
+
+  [08:30:10] DOCUMENT: History and physical note
+    Status: superseded
+
+  [09:10:09] CLAIM: professional
+    Amount: USD 512.63
+
+
+📅 2021-04-04
+
+  [17:50:09] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Bennett146 Rippin620
+    Location: MILFORD REGIONAL MEDICAL CENTER
+    Duration: 17:50:09 - 18:12:24
+
+  [17:50:09] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [17:50:09] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-04-04
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Juliane376 is a 53 year-old nonhispanic asian female.
+      # Social History
+
+  [17:50:09] DOCUMENT: History and physical note
+    Status: superseded
+
+  [18:12:24] CLAIM: professional
+    Amount: USD 532.20
+
+
+📅 2021-04-05
+
+  [19:04:24] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Bennett146 Rippin620
+    Location: MILFORD REGIONAL MEDICAL CENTER
+    Duration: 19:04:24 - 19:38:41
+
+  [19:04:24] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [19:04:24] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-04-05
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Juliane376 is a 53 year-old nonhispanic asian female.
+      # Social History
+
+  [19:04:24] DOCUMENT: History and physical note
+    Status: superseded
+
+  [19:38:41] CLAIM: professional
+    Amount: USD 663.26
+
+
+📅 2021-04-07
+
+  [02:07:41] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Bennett146 Rippin620
+    Location: MILFORD REGIONAL MEDICAL CENTER
+    Duration: 02:07:41 - 02:39:54
+
+  [02:07:41] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [02:07:41] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-04-07
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Juliane376 is a 53 year-old nonhispanic asian female.
+      # Social History
+
+  [02:07:41] DOCUMENT: History and physical note
+    Status: superseded
+
+  [02:39:54] CLAIM: professional
+    Amount: USD 512.63
+
+
+📅 2021-04-08
+
+  [13:13:54] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Bennett146 Rippin620
+    Location: MILFORD REGIONAL MEDICAL CENTER
+    Duration: 13:13:54 - 13:29:09
+
+  [13:13:54] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [13:13:54] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-04-08
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Juliane376 is a 53 year-old nonhispanic asian female.
+      # Social History
+
+  [13:13:54] DOCUMENT: History and physical note
+    Status: superseded
+
+  [13:29:09] CLAIM: professional
+    Amount: USD 512.63
+
+
+📅 2021-04-09
+
+  [16:51:09] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Bennett146 Rippin620
+    Location: MILFORD REGIONAL MEDICAL CENTER
+    Duration: 16:51:09 - 17:14:34
+
+  [16:51:09] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [16:51:09] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-04-09
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Juliane376 is a 53 year-old nonhispanic asian female.
+      # Social History
+
+  [16:51:09] DOCUMENT: History and physical note
+    Status: superseded
+
+  [17:14:34] CLAIM: professional
+    Amount: USD 558.45
+
+
+📅 2021-04-11
+
+  [04:35:34] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Bennett146 Rippin620
+    Location: MILFORD REGIONAL MEDICAL CENTER
+    Duration: 04:35:34 - 05:01:14
+
+  [04:35:34] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [04:35:34] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-04-11
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Juliane376 is a 53 year-old nonhispanic asian female.
+      # Social History
+
+  [04:35:34] DOCUMENT: History and physical note
+    Status: superseded
+
+  [05:01:14] CLAIM: professional
+    Amount: USD 512.63
+
+
+📅 2021-04-12
+
+  [13:46:14] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Bennett146 Rippin620
+    Location: MILFORD REGIONAL MEDICAL CENTER
+    Duration: 13:46:14 - 14:24:52
+
+  [13:46:14] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [13:46:14] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-04-12
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Juliane376 is a 53 year-old nonhispanic asian female.
+      # Social History
+
+  [13:46:14] DOCUMENT: History and physical note
+    Status: superseded
+
+  [14:24:52] CLAIM: professional
+    Amount: USD 589.09
+
+
+📅 2021-04-13
+
+  [18:36:52] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Bennett146 Rippin620
+    Location: MILFORD REGIONAL MEDICAL CENTER
+    Duration: 18:36:52 - 19:07:26
+
+  [18:36:52] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [18:36:52] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-04-13
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Juliane376 is a 53 year-old nonhispanic asian female.
+      # Social History
+
+  [18:36:52] DOCUMENT: History and physical note
+    Status: superseded
+
+  [19:07:26] CLAIM: professional
+    Amount: USD 1088.14
+
+
+📅 2021-04-15
+
+  [06:58:26] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Bennett146 Rippin620
+    Location: MILFORD REGIONAL MEDICAL CENTER
+    Duration: 06:58:26 - 07:31:18
+
+  [06:58:26] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [06:58:26] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-04-15
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Juliane376 is a 53 year-old nonhispanic asian female.
+      # Social History
+
+  [06:58:26] DOCUMENT: History and physical note
+    Status: superseded
+
+  [07:31:18] CLAIM: professional
+    Amount: USD 512.63
+
+
+📅 2021-04-16
+
+  [11:29:18] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Bennett146 Rippin620
+    Location: MILFORD REGIONAL MEDICAL CENTER
+    Duration: 11:29:18 - 11:46:32
+
+  [11:29:18] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [11:29:18] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-04-16
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Juliane376 is a 53 year-old nonhispanic asian female.
+      # Social History
+
+  [11:29:18] DOCUMENT: History and physical note
+    Status: superseded
+
+  [11:46:32] CLAIM: professional
+    Amount: USD 1359.90
+
+
+📅 2021-04-17
+
+  [22:54:32] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Bennett146 Rippin620
+    Location: MILFORD REGIONAL MEDICAL CENTER
+    Duration: 22:54:32 - 23:29:17
+
+  [22:54:32] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [22:54:32] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-04-17
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Juliane376 is a 53 year-old nonhispanic asian female.
+      # Social History
+
+  [22:54:32] DOCUMENT: History and physical note
+    Status: superseded
+
+  [23:29:17] CLAIM: professional
+    Amount: USD 512.63
+
+
+📅 2021-04-19
+
+  [02:30:17] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Bennett146 Rippin620
+    Location: MILFORD REGIONAL MEDICAL CENTER
+    Duration: 02:30:17 - 02:53:16
+
+  [02:30:17] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [02:30:17] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-04-19
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Juliane376 is a 53 year-old nonhispanic asian female.
+      # Social History
+
+  [02:30:17] DOCUMENT: History and physical note
+    Status: superseded
+
+  [02:53:16] CLAIM: professional
+    Amount: USD 1359.90
+
+
+📅 2021-04-20
+
+  [08:54:16] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Bennett146 Rippin620
+    Location: MILFORD REGIONAL MEDICAL CENTER
+    Duration: 08:54:16 - 09:14:17
+
+  [08:54:16] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [08:54:16] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-04-20
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Juliane376 is a 53 year-old nonhispanic asian female.
+      # Social History
+
+  [08:54:16] DOCUMENT: History and physical note
+    Status: superseded
+
+  [09:14:17] CLAIM: professional
+    Amount: USD 1359.90
+
+
+📅 2021-04-21
+
+  [18:53:17] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Bennett146 Rippin620
+    Location: MILFORD REGIONAL MEDICAL CENTER
+    Duration: 18:53:17 - 19:10:01
+
+  [18:53:17] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [18:53:17] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-04-21
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Juliane376 is a 53 year-old nonhispanic asian female.
+      # Social History
+
+  [18:53:17] DOCUMENT: History and physical note
+    Status: superseded
+
+  [19:10:01] CLAIM: professional
+    Amount: USD 1056.76
+
+
+📅 2021-04-23
+
+  [02:45:01] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Bennett146 Rippin620
+    Location: MILFORD REGIONAL MEDICAL CENTER
+    Duration: 02:45:01 - 03:08:13
+
+  [02:45:01] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [02:45:01] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-04-23
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Juliane376 is a 53 year-old nonhispanic asian female.
+      # Social History
+
+  [02:45:01] DOCUMENT: History and physical note
+    Status: superseded
+
+  [03:08:13] CLAIM: professional
+    Amount: USD 786.58
+
+
+📅 2021-04-24
+
+  [05:54:13] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Bennett146 Rippin620
+    Location: MILFORD REGIONAL MEDICAL CENTER
+    Duration: 05:54:13 - 06:20:11
+
+  [05:54:13] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [05:54:13] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-04-24
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Juliane376 is a 53 year-old nonhispanic asian female.
+      # Social History
+
+  [05:54:13] DOCUMENT: History and physical note
+    Status: superseded
+
+  [06:20:11] CLAIM: professional
+    Amount: USD 747.44
+
+
+📅 2021-04-25
+
+  [11:31:11] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Bennett146 Rippin620
+    Location: MILFORD REGIONAL MEDICAL CENTER
+    Duration: 11:31:11 - 12:00:46
+
+  [11:31:11] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [11:31:11] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-04-25
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Juliane376 is a 53 year-old nonhispanic asian female.
+      # Social History
+
+  [11:31:11] DOCUMENT: History and physical note
+    Status: superseded
+
+  [12:00:46] CLAIM: professional
+    Amount: USD 1359.90
+
+
+📅 2021-04-26
+
+  [16:37:46] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Bennett146 Rippin620
+    Location: MILFORD REGIONAL MEDICAL CENTER
+    Duration: 16:37:46 - 16:57:30
+
+  [16:37:46] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [16:37:46] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-04-26
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Juliane376 is a 53 year-old nonhispanic asian female.
+      # Social History
+
+  [16:37:46] DOCUMENT: History and physical note
+    Status: superseded
+
+  [16:57:30] CLAIM: professional
+    Amount: USD 1088.23
+
+
+📅 2021-04-27
+
+  [20:05:30] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Bennett146 Rippin620
+    Location: MILFORD REGIONAL MEDICAL CENTER
+    Duration: 20:05:30 - 20:31:50
+
+  [20:05:30] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [20:05:30] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-04-27
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Juliane376 is a 53 year-old nonhispanic asian female.
+      # Social History
+
+  [20:05:30] DOCUMENT: History and physical note
+    Status: superseded
+
+  [20:31:50] CLAIM: professional
+    Amount: USD 1359.90
+
+
+📅 2021-04-29
+
+  [04:19:50] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Bennett146 Rippin620
+    Location: MILFORD REGIONAL MEDICAL CENTER
+    Duration: 04:19:50 - 04:56:41
+
+  [04:19:50] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [04:19:50] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-04-29
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Juliane376 is a 53 year-old nonhispanic asian female.
+      # Social History
+
+  [04:19:50] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:56:41] CLAIM: professional
+    Amount: USD 1359.90
+
+
+📅 2021-04-30
+
+  [14:21:41] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Bennett146 Rippin620
+    Location: MILFORD REGIONAL MEDICAL CENTER
+    Duration: 14:21:41 - 14:56:46
+
+  [14:21:41] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [14:21:41] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-04-30
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Juliane376 is a 53 year-old nonhispanic asian female.
+      # Social History
+
+  [14:21:41] DOCUMENT: History and physical note
+    Status: superseded
+
+  [14:56:46] CLAIM: professional
+    Amount: USD 1359.90
+
+
+📅 2021-05-01
+
+  [19:56:46] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Bennett146 Rippin620
+    Location: MILFORD REGIONAL MEDICAL CENTER
+    Duration: 19:56:46 - 20:28:46
+
+  [19:56:46] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [19:56:46] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-05-01
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Juliane376 is a 53 year-old nonhispanic asian female.
+      # Social History
+
+  [19:56:46] DOCUMENT: History and physical note
+    Status: superseded
+
+  [20:28:46] CLAIM: professional
+    Amount: USD 512.63
+
+
+📅 2021-05-03
+
+  [06:02:46] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Bennett146 Rippin620
+    Location: MILFORD REGIONAL MEDICAL CENTER
+    Duration: 06:02:46 - 06:21:54
+
+  [06:02:46] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [06:02:46] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-05-03
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Juliane376 is a 53 year-old nonhispanic asian female.
+      # Social History
+
+  [06:02:46] DOCUMENT: History and physical note
+    Status: superseded
+
+  [06:21:54] CLAIM: professional
+    Amount: USD 874.10
+
+
+📅 2021-05-04
+
+  [15:41:54] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Bennett146 Rippin620
+    Location: MILFORD REGIONAL MEDICAL CENTER
+    Duration: 15:41:54 - 16:03:37
+
+  [15:41:54] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [15:41:54] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-05-04
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Juliane376 is a 53 year-old nonhispanic asian female.
+      # Social History
+
+  [15:41:54] DOCUMENT: History and physical note
+    Status: superseded
+
+  [16:03:37] CLAIM: professional
+    Amount: USD 1359.90
+
+
+📅 2021-05-05
+
+  [19:17:37] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Bennett146 Rippin620
+    Location: MILFORD REGIONAL MEDICAL CENTER
+    Duration: 19:17:37 - 19:45:59
+
+  [19:17:37] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [19:17:37] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-05-05
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Juliane376 is a 53 year-old nonhispanic asian female.
+      # Social History
+
+  [19:17:37] DOCUMENT: History and physical note
+    Status: superseded
+
+  [19:45:59] CLAIM: professional
+    Amount: USD 512.63
+
+
+📅 2021-05-06
+
+  [23:59:59] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Bennett146 Rippin620
+    Location: MILFORD REGIONAL MEDICAL CENTER
+    Duration: 23:59:59 - 00:24:30
+
+  [23:59:59] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [23:59:59] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-05-06
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Juliane376 is a 53 year-old nonhispanic asian female.
+      # Social History
+
+  [23:59:59] DOCUMENT: History and physical note
+    Status: superseded
+
+
+📅 2021-05-07
+
+  [00:24:30] CLAIM: professional
+    Amount: USD 1359.90
+
+
+📅 2021-05-08
+
+  [05:53:30] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Bennett146 Rippin620
+    Location: MILFORD REGIONAL MEDICAL CENTER
+    Duration: 05:53:30 - 06:10:27
+
+  [05:53:30] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [05:53:30] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-05-08
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Juliane376 is a 53 year-old nonhispanic asian female.
+      # Social History
+
+  [05:53:30] DOCUMENT: History and physical note
+    Status: superseded
+
+  [06:10:27] CLAIM: professional
+    Amount: USD 1359.90
+
+
+📅 2021-05-13
+
+  [22:10:27] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Bennett146 Rippin620
+    Location: MILFORD REGIONAL MEDICAL CENTER
+    Duration: 22:10:27 - 22:25:27
+
+  [22:10:27] OBSERVATION: Treatment status Cancer: Treatment changed (situation)
+
+  [22:10:27] OBSERVATION: Response to cancer treatment: Improving (qualifier value)
+
+  [22:10:27] MEDICATION PRESCRIBED: Unknown medication
+    Status: completed
+    Prescribed by: Dr. Bennett146 Rippin620
+
+  [22:10:27] MEDICATION ADMINISTERED: exemestane 25 MG Oral Tablet
+    Status: completed
+    Dosage: 1.0
+
+  [22:10:27] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-05-13
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Juliane376 is a 53 year-old nonhispanic asian female.
+      # Social History
+
+  [22:10:27] DOCUMENT: History and physical note
+    Status: superseded
+
+  [22:25:27] CLAIM: pharmacy
+    Amount: USD 13306.72
+
+  [22:25:27] CLAIM: professional
+    Amount: USD 85.55
+
+
+📅 2021-08-31
+
+  [22:10:27] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Bennett146 Rippin620
+    Location: MILFORD REGIONAL MEDICAL CENTER
+    Duration: 22:10:27 - 22:40:38
+
+  [22:10:27] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [22:10:27] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-08-31
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Juliane376 is a 54 year-old nonhispanic asian female.
+      # Social History
+
+  [22:10:27] DOCUMENT: History and physical note
+    Status: superseded
+
+  [22:40:38] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2021-09-16
+
+  [04:44:15] VISIT: General examination of patient (procedure)
+    Provider: Dr. Sharron285 Okuneva707
+    Location: A&A HEALTHCARE LLC
+    Duration: 04:44:15 - 04:59:15
+
+  [04:44:15] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [04:44:15] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-09-16
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Juliane376 is a 54 year-old nonhispanic asian female.
+      # Social History
+
+  [04:44:15] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:59:15] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2021-12-12
+
+  [21:40:38] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Bennett146 Rippin620
+    Location: MILFORD REGIONAL MEDICAL CENTER
+    Duration: 21:40:38 - 22:18:04
+
+  [21:40:38] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [21:40:38] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-12-12
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Juliane376 is a 54 year-old nonhispanic asian female.
+      # Social History
+
+  [21:40:38] DOCUMENT: History and physical note
+    Status: superseded
+
+  [22:18:04] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2022-04-14
+
+  [23:18:04] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Bennett146 Rippin620
+    Location: MILFORD REGIONAL MEDICAL CENTER
+    Duration: 23:18:04 - 23:52:33
+
+  [23:18:04] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [23:18:04] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-04-14
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Juliane376 is a 54 year-old nonhispanic asian female.
+      # Social History
+
+  [23:18:04] DOCUMENT: History and physical note
+    Status: superseded
+
+  [23:52:33] CLAIM: professional
+    Amount: USD 573.98
+
+  [23:52:33] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Bennett146 Rippin620
+    Location: MILFORD REGIONAL MEDICAL CENTER
+    Duration: 23:52:33 - 00:15:34
+
+  [23:52:33] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [23:52:33] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-04-14
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Juliane376 is a 54 year-old nonhispanic asian female.
+      # Social History
+
+  [23:52:33] DOCUMENT: History and physical note
+    Status: superseded
+
+
+📅 2022-04-15
+
+  [00:15:34] CLAIM: professional
+    Amount: USD 237.43
+
+  [00:15:34] VISIT: Follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Bennett146 Rippin620
+    Location: MILFORD REGIONAL MEDICAL CENTER
+    Duration: 00:15:34 - 00:33:43
+
+  [00:15:34] PROCEDURE: Bone density scan (procedure)
+    Status: completed
+
+  [00:15:34] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-04-15
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Juliane376 is a 54 year-old nonhispanic asian female.
+      # Social History
+
+  [00:15:34] DOCUMENT: History and physical note
+    Status: superseded
+
+  [00:33:43] OBSERVATION: Response to cancer treatment: Improving (qualifier value)
+
+  [00:33:43] CLAIM: professional
+    Amount: USD 16468.32
+
+
+📅 2022-08-17
+
+  [00:33:43] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Bennett146 Rippin620
+    Location: MILFORD REGIONAL MEDICAL CENTER
+    Duration: 00:33:43 - 01:05:40
+
+  [00:33:43] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [00:33:43] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-08-17
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Juliane376 is a 54 year-old nonhispanic asian female.
+      # Social History
+
+  [00:33:43] DOCUMENT: History and physical note
+    Status: superseded
+
+  [01:05:40] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2022-09-22
+
+  [04:44:15] VISIT: General examination of patient (procedure)
+    Provider: Dr. Sharron285 Okuneva707
+    Location: A&A HEALTHCARE LLC
+    Duration: 04:44:15 - 04:59:15
+
+  [04:44:15] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [04:44:15] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-09-22
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Juliane376 is a 55 year-old nonhispanic asian female.
+      # Social History
+
+  [04:44:15] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:59:15] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2022-12-13
+
+  [00:05:40] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Bennett146 Rippin620
+    Location: MILFORD REGIONAL MEDICAL CENTER
+    Duration: 00:05:40 - 00:37:50
+
+  [00:05:40] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [00:05:40] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-12-13
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Juliane376 is a 55 year-old nonhispanic asian female.
+      # Social History
+
+  [00:05:40] DOCUMENT: History and physical note
+    Status: superseded
+
+  [00:37:50] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2023-04-15
+
+  [01:37:50] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Bennett146 Rippin620
+    Location: Patient's Home
+    Duration: 01:37:50 - 02:22:28
+
+  [01:37:50] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [01:37:50] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-04-15
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Juliane376 is a 55 year-old nonhispanic asian female.
+      # Social History
+
+  [01:37:50] DOCUMENT: History and physical note
+    Status: superseded
+
+  [02:22:28] CLAIM: institutional
+    Amount: USD 556.40
+
+  [02:22:28] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Bennett146 Rippin620
+    Location: MILFORD REGIONAL MEDICAL CENTER
+    Duration: 02:22:28 - 02:41:05
+
+  [02:22:28] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [02:22:28] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-04-15
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Juliane376 is a 55 year-old nonhispanic asian female.
+      # Social History
+
+  [02:22:28] DOCUMENT: History and physical note
+    Status: superseded
+
+  [02:41:05] CLAIM: professional
+    Amount: USD 311.90
+
+  [02:41:05] VISIT: Follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Bennett146 Rippin620
+    Location: MILFORD REGIONAL MEDICAL CENTER
+    Duration: 02:41:05 - 03:05:59
+
+  [02:41:05] PROCEDURE: Bone density scan (procedure)
+    Status: completed
+
+  [02:41:05] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-04-15
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Juliane376 is a 55 year-old nonhispanic asian female.
+      # Social History
+
+  [02:41:05] DOCUMENT: History and physical note
+    Status: superseded
+
+  [03:05:59] OBSERVATION: Response to cancer treatment: Improving (qualifier value)
+
+  [03:05:59] CLAIM: professional
+    Amount: USD 4181.24
+
+
+📅 2023-07-30
+
+  [03:05:59] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Bennett146 Rippin620
+    Location: MILFORD REGIONAL MEDICAL CENTER
+    Duration: 03:05:59 - 03:44:27
+
+  [03:05:59] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [03:05:59] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-07-30
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Juliane376 is a 55 year-old nonhispanic asian female.
+      # Social History
+
+  [03:05:59] DOCUMENT: History and physical note
+    Status: superseded
+
+  [03:44:27] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2023-09-28
+
+  [04:44:15] VISIT: General examination of patient (procedure)
+    Provider: Dr. Sharron285 Okuneva707
+    Location: A&A HEALTHCARE LLC
+    Duration: 04:44:15 - 04:59:15
+
+  [04:44:15] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [04:44:15] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-09-28
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Juliane376 is a 56 year-old nonhispanic asian female.
+      # Social History
+
+  [04:44:15] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:59:15] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2023-11-21
+
+  [02:44:27] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Bennett146 Rippin620
+    Location: MILFORD REGIONAL MEDICAL CENTER
+    Duration: 02:44:27 - 03:23:10
+
+  [02:44:27] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [02:44:27] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-11-21
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Juliane376 is a 56 year-old nonhispanic asian female.
+      # Social History
+
+  [02:44:27] DOCUMENT: History and physical note
+    Status: superseded
+
+  [03:23:10] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2024-03-20
+
+  [04:23:10] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Bennett146 Rippin620
+    Location: MILFORD REGIONAL MEDICAL CENTER
+    Duration: 04:23:10 - 05:00:24
+
+  [04:23:10] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [04:23:10] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-03-20
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Juliane376 is a 56 year-old nonhispanic asian female.
+      # Social History
+
+  [04:23:10] DOCUMENT: History and physical note
+    Status: superseded
+
+  [05:00:24] CLAIM: professional
+    Amount: USD 573.98
+
+  [05:00:24] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Bennett146 Rippin620
+    Location: MILFORD REGIONAL MEDICAL CENTER
+    Duration: 05:00:24 - 05:22:17
+
+  [05:00:24] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [05:00:24] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-03-20
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Juliane376 is a 56 year-old nonhispanic asian female.
+      # Social History
+
+  [05:00:24] DOCUMENT: History and physical note
+    Status: superseded
+
+  [05:22:17] CLAIM: professional
+    Amount: USD 211.60
+
+  [05:22:17] VISIT: Follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Bennett146 Rippin620
+    Location: MILFORD REGIONAL MEDICAL CENTER
+    Duration: 05:22:17 - 05:37:17
+
+  [05:22:17] PROCEDURE: Bone density scan (procedure)
+    Status: completed
+
+  [05:22:17] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-03-20
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Juliane376 is a 56 year-old nonhispanic asian female.
+      # Social History
+
+  [05:22:17] DOCUMENT: History and physical note
+    Status: superseded
+
+  [05:33:24] OBSERVATION: Response to cancer treatment: Improving (qualifier value)
+
+  [05:37:17] CLAIM: professional
+    Amount: USD 4181.24
+
+
+📅 2024-06-29
+
+  [05:33:24] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Bennett146 Rippin620
+    Location: MILFORD REGIONAL MEDICAL CENTER
+    Duration: 05:33:24 - 06:03:28
+
+  [05:33:24] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [05:33:24] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-06-29
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Juliane376 is a 56 year-old nonhispanic asian female.
+      # Social History
+
+  [05:33:24] DOCUMENT: History and physical note
+    Status: superseded
+
+  [06:03:28] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2024-10-03
+
+  [04:44:15] VISIT: General examination of patient (procedure)
+    Provider: Dr. Sharron285 Okuneva707
+    Location: A&A HEALTHCARE LLC
+    Duration: 04:44:15 - 04:59:15
+
+  [04:44:15] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [04:44:15] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-10-03
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Juliane376 is a 57 year-old nonhispanic asian female.
+      # Social History
+
+  [04:44:15] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:59:15] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2024-10-30
+
+  [06:03:28] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Bennett146 Rippin620
+    Location: MILFORD REGIONAL MEDICAL CENTER
+    Duration: 06:03:28 - 06:48:09
+
+  [06:03:28] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [06:03:28] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-10-30
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Juliane376 is a 57 year-old nonhispanic asian female.
+      # Social History
+
+  [06:03:28] DOCUMENT: History and physical note
+    Status: superseded
+
+  [06:48:09] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2025-02-25
+
+  [05:48:09] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Bennett146 Rippin620
+    Location: MILFORD REGIONAL MEDICAL CENTER
+    Duration: 05:48:09 - 06:31:11
+
+  [05:48:09] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [05:48:09] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-02-25
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Juliane376 is a 57 year-old nonhispanic asian female.
+      # Social History
+
+  [05:48:09] DOCUMENT: History and physical note
+    Status: superseded
+
+  [06:31:11] CLAIM: professional
+    Amount: USD 573.98
+
+  [06:31:11] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Bennett146 Rippin620
+    Location: MILFORD REGIONAL MEDICAL CENTER
+    Duration: 06:31:11 - 06:54:23
+
+  [06:31:11] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [06:31:11] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-02-25
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Juliane376 is a 57 year-old nonhispanic asian female.
+      # Social History
+
+  [06:31:11] DOCUMENT: History and physical note
+    Status: superseded
+
+  [06:54:23] CLAIM: professional
+    Amount: USD 217.58
+
+  [06:54:23] VISIT: Follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Bennett146 Rippin620
+    Location: MILFORD REGIONAL MEDICAL CENTER
+    Duration: 06:54:23 - 07:22:54
+
+  [06:54:23] PROCEDURE: Bone density scan (procedure)
+    Status: completed
+
+  [06:54:23] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-02-25
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Juliane376 is a 57 year-old nonhispanic asian female.
+      # Social History
+
+  [06:54:23] DOCUMENT: History and physical note
+    Status: superseded
+
+  [07:22:54] OBSERVATION: Response to cancer treatment: Improving (qualifier value)
+
+  [07:22:54] CLAIM: professional
+    Amount: USD 5585.75
+
+
+📅 2025-06-04
+
+  [08:22:54] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Bennett146 Rippin620
+    Location: MILFORD REGIONAL MEDICAL CENTER
+    Duration: 08:22:54 - 08:59:25
+
+  [08:22:54] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [08:22:54] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-06-04
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Juliane376 is a 57 year-old nonhispanic asian female.
+      # Social History
+
+  [08:22:54] DOCUMENT: History and physical note
+    Status: superseded
+
+  [08:59:25] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2025-09-18
+
+  [08:59:25] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Bennett146 Rippin620
+    Location: MILFORD REGIONAL MEDICAL CENTER
+    Duration: 08:59:25 - 09:32:22
+
+  [08:59:25] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [08:59:25] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-09-18
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Juliane376 is a 58 year-old nonhispanic asian female.
+      # Social History
+
+  [08:59:25] DOCUMENT: History and physical note
+    Status: superseded
+
+  [09:32:22] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2025-10-09
+
+  [04:44:15] VISIT: General examination of patient (procedure)
+    Provider: Dr. Sharron285 Okuneva707
+    Location: A&A HEALTHCARE LLC
+    Duration: 04:44:15 - 04:59:15
+
+  [04:44:15] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [04:44:15] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-10-09
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Juliane376 is a 58 year-old nonhispanic asian female.
+      # Social History
+
+  [04:44:15] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:59:15] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2026-01-09
+
+  [08:32:22] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Bennett146 Rippin620
+    Location: MILFORD REGIONAL MEDICAL CENTER
+    Duration: 08:32:22 - 09:12:11
+
+  [08:32:22] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [08:32:22] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2026-01-09
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Juliane376 is a 58 year-old nonhispanic asian female.
+      # Social History
+
+  [08:32:22] DOCUMENT: History and physical note
+    Status: superseded
+
+  [09:12:11] CLAIM: professional
+    Amount: USD 573.98
+
+  [09:12:11] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Bennett146 Rippin620
+    Location: MILFORD REGIONAL MEDICAL CENTER
+    Duration: 09:12:11 - 09:28:57
+
+  [09:12:11] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [09:12:11] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2026-01-09
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Juliane376 is a 58 year-old nonhispanic asian female.
+      # Social History
+
+  [09:12:11] DOCUMENT: History and physical note
+    Status: superseded
+
+  [09:28:57] CLAIM: professional
+    Amount: USD 325.49
+
+  [09:28:57] VISIT: Follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Bennett146 Rippin620
+    Location: MILFORD REGIONAL MEDICAL CENTER
+    Duration: 09:28:57 - 09:44:53
+
+  [09:28:57] PROCEDURE: Bone density scan (procedure)
+    Status: completed
+
+  [09:28:57] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2026-01-09
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Juliane376 is a 58 year-old nonhispanic asian female.
+      # Social History
+
+  [09:28:57] DOCUMENT: History and physical note
+    Status: current
+
+  [09:44:53] CLAIM: professional
+    Amount: USD 11859.72
+
+
+📅 2026-02-12
+
+  [03:44:15] PROVENANCE: Record activity
+    Agents: Dr. Bennett146 Rippin620, Dr. Bennett146 Rippin620
+
+================================================================================
+END OF TIMELINE (389 events)
+================================================================================

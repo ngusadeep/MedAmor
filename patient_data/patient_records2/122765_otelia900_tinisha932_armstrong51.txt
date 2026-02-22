@@ -1,0 +1,107 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Ms. Otelia900 Tinisha932 Armstrong51
+  Patient ID: 122765
+  Date of Birth: 1984-03-11
+  Gender: Female
+  Race: Black or African American
+  Ethnicity: Not Hispanic or Latino
+  Marital Status: Never Married
+  Address: 189 Schultz Divide Suite 44, Boston, MA 02199
+  Phone: 555-405-3494
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2018-05-27
+
+  [19:24:23] VISIT: General examination of patient (procedure)
+    Provider: Dr. Felipe97 Tamayo777
+    Location: HARBOR HEALTH SERVICES INC
+    Duration: 19:24:23 - 19:39:23
+
+  [19:24:23] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [19:24:23] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-05-27
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Otelia900 is a 34 year-old nonhispanic black female.
+      # Social History
+
+  [19:24:23] DOCUMENT: History and physical note
+    Status: superseded
+
+  [19:39:23] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2021-05-30
+
+  [19:24:23] VISIT: General examination of patient (procedure)
+    Provider: Dr. Felipe97 Tamayo777
+    Location: HARBOR HEALTH SERVICES INC
+    Duration: 19:24:23 - 19:39:23
+
+  [19:24:23] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [19:24:23] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-05-30
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Otelia900 is a 37 year-old nonhispanic black female.
+      # Social History
+
+  [19:24:23] DOCUMENT: History and physical note
+    Status: superseded
+
+  [19:39:23] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2024-03-17
+
+  [19:24:23] VISIT: General examination of patient (procedure)
+    Provider: Dr. Felipe97 Tamayo777
+    Location: HARBOR HEALTH SERVICES INC
+    Duration: 19:24:23 - 19:39:23
+
+  [19:24:23] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [19:24:23] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [19:24:23] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-03-17
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Otelia900 is a 40 year-old nonhispanic black female.
+      # Social History
+
+  [19:24:23] DOCUMENT: History and physical note
+    Status: current
+
+  [19:39:23] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2026-02-15
+
+  [18:24:23] PROVENANCE: Record activity
+    Agents: Dr. Felipe97 Tamayo777, Dr. Felipe97 Tamayo777
+
+================================================================================
+END OF TIMELINE (17 events)
+================================================================================

@@ -1,0 +1,2327 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Ms. Carolann504 Mickey576 Harris789
+  Patient ID: 24229
+  Date of Birth: 1960-12-28
+  Gender: Female
+  Race: White
+  Ethnicity: Not Hispanic or Latino
+  Marital Status: Never Married
+  Address: 683 Roob Lock, Wareham Center, MA 00000
+  Phone: 555-241-8836
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2017-02-01
+
+  [20:36:08] VISIT: General examination of patient (procedure)
+    Provider: Dr. Sharyl439 Williamson769
+    Location: COMPASSIONATE HEALTH CARE GROUP LLC
+    Duration: 20:36:08 - 20:51:08
+
+  [20:36:08] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [20:36:08] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-02-01
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Carolann504 is a 56 year-old nonhispanic white female.
+      # Social History
+
+  [20:36:08] DOCUMENT: History and physical note
+    Status: superseded
+
+  [20:51:08] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2017-05-24
+
+  [21:36:08] VISIT: Periodic reevaluation and management of healthy individual (procedure)
+    Reason: Screening for malignant neoplasm of breast (procedure)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 21:36:08 - 23:18:06
+
+  [21:36:08] PROCEDURE: Screening mammography (procedure)
+    Status: completed
+
+  [21:36:08] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-05-24
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Carolann504 is a 56 year-old nonhispanic white female.
+      # Social History
+
+  [21:36:08] DOCUMENT: History and physical note
+    Status: superseded
+
+  [21:52:19] PROCEDURE: Magnetic resonance imaging of breast (procedure)
+    Status: completed
+
+  [23:17:09] PROCEDURE: Biopsy of breast (procedure)
+    Status: completed
+
+
+📅 2017-05-25
+
+  [00:13:06] CONDITION: Malignant neoplasm of breast (disorder) (active)
+
+  [00:13:06] OBSERVATION: Site of distant metastasis in Breast tumor: None (qualifier value)
+
+  [00:13:06] OBSERVATION: Distant metastases.clinical [Class] Cancer: American Joint Committee on Cancer cM0 (qualifier value)
+
+  [00:13:06] OBSERVATION: Size.maximum dimension in Tumor: 2.9059 cm
+
+  [00:13:06] OBSERVATION: Primary tumor.clinical [Class] Cancer: American Joint Committee on Cancer cT2 (qualifier value)
+
+  [00:13:06] OBSERVATION: Lymph nodes with isolated tumor cells [#] in Cancer specimen by Light microscopy: 0 {#}
+
+  [00:13:06] OBSERVATION: Regional lymph nodes.clinical [Class] Cancer: American Joint Committee on Cancer cN0 (qualifier value)
+
+  [00:13:06] PROCEDURE: Human epidermal growth factor receptor 2 gene detection by fluorescence in situ hybridization (procedure)
+    Status: completed
+
+
+📅 2017-05-26
+
+  [21:13:06] PROCEDURE: Human epidermal growth factor receptor 2 gene detection by immunohistochemistry (procedure)
+    Status: completed
+
+  [23:18:06] OBSERVATION: HER2 [Presence] in Breast cancer specimen by Immune stain: Positive (qualifier value)
+
+  [23:18:06] OBSERVATION: ERBB2 gene duplication [Presence] in Breast cancer specimen by FISH: greater than 2.2
+
+  [23:18:06] OBSERVATION: Estrogen receptor Ag [Presence] in Breast cancer specimen by Immune stain: Positive (qualifier value)
+
+  [23:18:06] OBSERVATION: Progesterone receptor Ag [Presence] in Breast cancer specimen by Immune stain: Positive (qualifier value)
+
+  [23:18:06] OBSERVATION: Estrogen+Progesterone receptor Ag [Presence] in Tissue by Immune stain: Positive (qualifier value)
+
+  [23:18:06] OBSERVATION: Stage group.clinical Cancer: American Joint Committee on Cancer stage IIA (qualifier value)
+
+  [23:18:06] OBSERVATION: Stage group.clinical Cancer: Stage 2 (qualifier value)
+
+  [23:18:06] CLAIM: professional
+    Amount: USD 5230.66
+
+
+📅 2017-05-31
+
+  [07:18:06] VISIT: Discussion about treatment (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 07:18:06 - 08:11:37
+
+  [07:18:06] PROCEDURE: Discussion about options (procedure)
+    Status: completed
+
+  [07:18:06] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-05-31
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Carolann504 is a 56 year-old nonhispanic white female.
+      # Social History
+
+  [07:18:06] DOCUMENT: History and physical note
+    Status: superseded
+
+  [08:11:37] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2017-06-06
+
+  [06:11:37] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 06:11:37 - 07:41:48
+
+  [06:11:37] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-06-06
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Carolann504 is a 56 year-old nonhispanic white female.
+      # Social History
+
+  [06:11:37] DOCUMENT: History and physical note
+    Status: superseded
+
+  [07:13:37] PROCEDURE: Lumpectomy of breast (procedure)
+    Status: completed
+
+
+📅 2017-06-07
+
+  [07:41:48] CLAIM: institutional
+    Amount: USD 25325.38
+
+
+📅 2017-06-12
+
+  [14:41:48] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 14:41:48 - 15:19:22
+
+  [14:41:48] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [14:41:48] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-06-12
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Carolann504 is a 56 year-old nonhispanic white female.
+      # Social History
+
+  [14:41:48] DOCUMENT: History and physical note
+    Status: superseded
+
+  [15:19:22] CLAIM: professional
+    Amount: USD 512.63
+
+
+📅 2017-06-13
+
+  [17:02:22] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 17:02:22 - 17:26:13
+
+  [17:02:22] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [17:02:22] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-06-13
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Carolann504 is a 56 year-old nonhispanic white female.
+      # Social History
+
+  [17:02:22] DOCUMENT: History and physical note
+    Status: superseded
+
+  [17:26:13] CLAIM: professional
+    Amount: USD 512.63
+
+
+📅 2017-06-14
+
+  [22:56:13] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 22:56:13 - 23:30:20
+
+  [22:56:13] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [22:56:13] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-06-14
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Carolann504 is a 56 year-old nonhispanic white female.
+      # Social History
+
+  [22:56:13] DOCUMENT: History and physical note
+    Status: superseded
+
+  [23:30:20] CLAIM: professional
+    Amount: USD 626.28
+
+
+📅 2017-06-16
+
+  [10:38:20] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 10:38:20 - 11:08:51
+
+  [10:38:20] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [10:38:20] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-06-16
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Carolann504 is a 56 year-old nonhispanic white female.
+      # Social History
+
+  [10:38:20] DOCUMENT: History and physical note
+    Status: superseded
+
+  [11:08:51] CLAIM: professional
+    Amount: USD 1348.21
+
+
+📅 2017-06-17
+
+  [13:15:51] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 13:15:51 - 13:42:57
+
+  [13:15:51] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [13:15:51] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-06-17
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Carolann504 is a 56 year-old nonhispanic white female.
+      # Social History
+
+  [13:15:51] DOCUMENT: History and physical note
+    Status: superseded
+
+  [13:42:57] CLAIM: professional
+    Amount: USD 1359.90
+
+
+📅 2017-06-18
+
+  [20:57:57] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 20:57:57 - 21:36:29
+
+  [20:57:57] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [20:57:57] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-06-18
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Carolann504 is a 56 year-old nonhispanic white female.
+      # Social History
+
+  [20:57:57] DOCUMENT: History and physical note
+    Status: superseded
+
+  [21:36:29] CLAIM: professional
+    Amount: USD 1359.90
+
+
+📅 2017-06-19
+
+  [22:06:29] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 22:06:29 - 22:31:59
+
+  [22:06:29] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [22:06:29] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-06-19
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Carolann504 is a 56 year-old nonhispanic white female.
+      # Social History
+
+  [22:06:29] DOCUMENT: History and physical note
+    Status: superseded
+
+  [22:31:59] CLAIM: professional
+    Amount: USD 1359.90
+
+
+📅 2017-06-21
+
+  [01:35:59] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 01:35:59 - 01:54:17
+
+  [01:35:59] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [01:35:59] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-06-21
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Carolann504 is a 56 year-old nonhispanic white female.
+      # Social History
+
+  [01:35:59] DOCUMENT: History and physical note
+    Status: superseded
+
+  [01:54:17] CLAIM: professional
+    Amount: USD 953.80
+
+
+📅 2017-06-22
+
+  [08:09:17] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 08:09:17 - 08:45:30
+
+  [08:09:17] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [08:09:17] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-06-22
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Carolann504 is a 56 year-old nonhispanic white female.
+      # Social History
+
+  [08:09:17] DOCUMENT: History and physical note
+    Status: superseded
+
+  [08:45:30] CLAIM: professional
+    Amount: USD 1201.64
+
+
+📅 2017-06-23
+
+  [13:25:30] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 13:25:30 - 13:51:24
+
+  [13:25:30] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [13:25:30] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-06-23
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Carolann504 is a 56 year-old nonhispanic white female.
+      # Social History
+
+  [13:25:30] DOCUMENT: History and physical note
+    Status: superseded
+
+  [13:51:24] CLAIM: professional
+    Amount: USD 996.45
+
+
+📅 2017-06-24
+
+  [22:32:24] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 22:32:24 - 22:56:12
+
+  [22:32:24] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [22:32:24] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-06-24
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Carolann504 is a 56 year-old nonhispanic white female.
+      # Social History
+
+  [22:32:24] DOCUMENT: History and physical note
+    Status: superseded
+
+  [22:56:12] CLAIM: professional
+    Amount: USD 512.63
+
+
+📅 2017-06-26
+
+  [05:29:12] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 05:29:12 - 05:44:53
+
+  [05:29:12] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [05:29:12] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-06-26
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Carolann504 is a 56 year-old nonhispanic white female.
+      # Social History
+
+  [05:29:12] DOCUMENT: History and physical note
+    Status: superseded
+
+  [05:44:53] CLAIM: professional
+    Amount: USD 512.63
+
+
+📅 2017-06-27
+
+  [10:07:53] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 10:07:53 - 10:43:19
+
+  [10:07:53] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [10:07:53] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-06-27
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Carolann504 is a 56 year-old nonhispanic white female.
+      # Social History
+
+  [10:07:53] DOCUMENT: History and physical note
+    Status: superseded
+
+  [10:43:19] CLAIM: professional
+    Amount: USD 512.63
+
+
+📅 2017-06-28
+
+  [13:09:19] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 13:09:19 - 13:43:02
+
+  [13:09:19] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [13:09:19] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-06-28
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Carolann504 is a 56 year-old nonhispanic white female.
+      # Social History
+
+  [13:09:19] DOCUMENT: History and physical note
+    Status: superseded
+
+  [13:43:02] CLAIM: professional
+    Amount: USD 1359.90
+
+
+📅 2017-06-29
+
+  [20:48:02] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 20:48:02 - 21:06:34
+
+  [20:48:02] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [20:48:02] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-06-29
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Carolann504 is a 56 year-old nonhispanic white female.
+      # Social History
+
+  [20:48:02] DOCUMENT: History and physical note
+    Status: superseded
+
+  [21:06:34] CLAIM: professional
+    Amount: USD 1044.86
+
+
+📅 2017-07-01
+
+  [03:11:34] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 03:11:34 - 03:26:41
+
+  [03:11:34] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [03:11:34] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-07-01
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Carolann504 is a 56 year-old nonhispanic white female.
+      # Social History
+
+  [03:11:34] DOCUMENT: History and physical note
+    Status: superseded
+
+  [03:26:41] CLAIM: professional
+    Amount: USD 586.71
+
+
+📅 2017-07-02
+
+  [10:21:41] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 10:21:41 - 10:51:41
+
+  [10:21:41] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [10:21:41] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-07-02
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Carolann504 is a 56 year-old nonhispanic white female.
+      # Social History
+
+  [10:21:41] DOCUMENT: History and physical note
+    Status: superseded
+
+  [10:51:41] CLAIM: professional
+    Amount: USD 1359.90
+
+
+📅 2017-07-03
+
+  [22:05:41] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 22:05:41 - 22:27:48
+
+  [22:05:41] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [22:05:41] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-07-03
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Carolann504 is a 56 year-old nonhispanic white female.
+      # Social History
+
+  [22:05:41] DOCUMENT: History and physical note
+    Status: superseded
+
+  [22:27:48] CLAIM: professional
+    Amount: USD 1359.90
+
+
+📅 2017-07-05
+
+  [03:32:48] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 03:32:48 - 03:54:31
+
+  [03:32:48] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [03:32:48] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-07-05
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Carolann504 is a 56 year-old nonhispanic white female.
+      # Social History
+
+  [03:32:48] DOCUMENT: History and physical note
+    Status: superseded
+
+  [03:54:31] CLAIM: professional
+    Amount: USD 512.63
+
+
+📅 2017-07-06
+
+  [13:05:31] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 13:05:31 - 13:38:13
+
+  [13:05:31] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [13:05:31] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-07-06
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Carolann504 is a 56 year-old nonhispanic white female.
+      # Social History
+
+  [13:05:31] DOCUMENT: History and physical note
+    Status: superseded
+
+  [13:38:13] CLAIM: professional
+    Amount: USD 1191.11
+
+
+📅 2017-07-08
+
+  [00:55:13] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 00:55:13 - 01:29:52
+
+  [00:55:13] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [00:55:13] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-07-08
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Carolann504 is a 56 year-old nonhispanic white female.
+      # Social History
+
+  [00:55:13] DOCUMENT: History and physical note
+    Status: superseded
+
+  [01:29:52] CLAIM: professional
+    Amount: USD 1359.90
+
+
+📅 2017-07-09
+
+  [03:18:52] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 03:18:52 - 03:51:13
+
+  [03:18:52] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [03:18:52] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-07-09
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Carolann504 is a 56 year-old nonhispanic white female.
+      # Social History
+
+  [03:18:52] DOCUMENT: History and physical note
+    Status: superseded
+
+  [03:51:13] CLAIM: professional
+    Amount: USD 845.79
+
+
+📅 2017-07-10
+
+  [14:54:13] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 14:54:13 - 15:26:03
+
+  [14:54:13] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [14:54:13] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-07-10
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Carolann504 is a 56 year-old nonhispanic white female.
+      # Social History
+
+  [14:54:13] DOCUMENT: History and physical note
+    Status: superseded
+
+  [15:26:03] CLAIM: professional
+    Amount: USD 894.72
+
+
+📅 2017-07-12
+
+  [02:58:03] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 02:58:03 - 03:30:44
+
+  [02:58:03] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [02:58:03] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-07-12
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Carolann504 is a 56 year-old nonhispanic white female.
+      # Social History
+
+  [02:58:03] DOCUMENT: History and physical note
+    Status: superseded
+
+  [03:30:44] CLAIM: professional
+    Amount: USD 512.63
+
+
+📅 2017-07-13
+
+  [14:27:44] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 14:27:44 - 15:04:22
+
+  [14:27:44] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [14:27:44] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-07-13
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Carolann504 is a 56 year-old nonhispanic white female.
+      # Social History
+
+  [14:27:44] DOCUMENT: History and physical note
+    Status: superseded
+
+  [15:04:22] CLAIM: professional
+    Amount: USD 512.63
+
+
+📅 2017-07-14
+
+  [15:42:22] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 15:42:22 - 16:08:59
+
+  [15:42:22] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [15:42:22] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-07-14
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Carolann504 is a 56 year-old nonhispanic white female.
+      # Social History
+
+  [15:42:22] DOCUMENT: History and physical note
+    Status: superseded
+
+  [16:08:59] CLAIM: professional
+    Amount: USD 681.50
+
+
+📅 2017-07-15
+
+  [16:43:59] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 16:43:59 - 17:06:45
+
+  [16:43:59] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [16:43:59] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-07-15
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Carolann504 is a 56 year-old nonhispanic white female.
+      # Social History
+
+  [16:43:59] DOCUMENT: History and physical note
+    Status: superseded
+
+  [17:06:45] CLAIM: professional
+    Amount: USD 545.92
+
+
+📅 2017-07-16
+
+  [21:51:45] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 21:51:45 - 22:21:09
+
+  [21:51:45] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [21:51:45] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-07-16
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Carolann504 is a 56 year-old nonhispanic white female.
+      # Social History
+
+  [21:51:45] DOCUMENT: History and physical note
+    Status: superseded
+
+  [22:21:09] CLAIM: professional
+    Amount: USD 512.63
+
+
+📅 2017-07-18
+
+  [08:36:09] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 08:36:09 - 08:52:38
+
+  [08:36:09] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [08:36:09] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-07-18
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Carolann504 is a 56 year-old nonhispanic white female.
+      # Social History
+
+  [08:36:09] DOCUMENT: History and physical note
+    Status: superseded
+
+  [08:52:38] CLAIM: professional
+    Amount: USD 1359.90
+
+
+📅 2017-07-19
+
+  [18:57:38] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 18:57:38 - 19:28:39
+
+  [18:57:38] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [18:57:38] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-07-19
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Carolann504 is a 56 year-old nonhispanic white female.
+      # Social History
+
+  [18:57:38] DOCUMENT: History and physical note
+    Status: superseded
+
+  [19:28:39] CLAIM: professional
+    Amount: USD 615.80
+
+
+📅 2017-07-20
+
+  [22:33:39] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 22:33:39 - 23:12:40
+
+  [22:33:39] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [22:33:39] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-07-20
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Carolann504 is a 56 year-old nonhispanic white female.
+      # Social History
+
+  [22:33:39] DOCUMENT: History and physical note
+    Status: superseded
+
+  [23:12:40] CLAIM: professional
+    Amount: USD 1359.90
+
+
+📅 2017-07-21
+
+  [23:15:40] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 23:15:40 - 23:54:39
+
+  [23:15:40] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [23:15:40] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-07-21
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Carolann504 is a 56 year-old nonhispanic white female.
+      # Social History
+
+  [23:15:40] DOCUMENT: History and physical note
+    Status: superseded
+
+  [23:54:39] CLAIM: professional
+    Amount: USD 512.63
+
+
+📅 2017-07-23
+
+  [10:30:39] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 10:30:39 - 10:49:46
+
+  [10:30:39] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [10:30:39] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-07-23
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Carolann504 is a 56 year-old nonhispanic white female.
+      # Social History
+
+  [10:30:39] DOCUMENT: History and physical note
+    Status: superseded
+
+  [10:49:46] CLAIM: professional
+    Amount: USD 978.16
+
+
+📅 2017-07-24
+
+  [21:24:46] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 21:24:46 - 22:04:13
+
+  [21:24:46] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [21:24:46] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-07-24
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Carolann504 is a 56 year-old nonhispanic white female.
+      # Social History
+
+  [21:24:46] DOCUMENT: History and physical note
+    Status: superseded
+
+  [22:04:13] CLAIM: professional
+    Amount: USD 824.13
+
+
+📅 2017-07-30
+
+  [10:04:13] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 10:04:13 - 10:19:13
+
+  [10:04:13] OBSERVATION: Treatment status Cancer: Treatment changed (situation)
+
+  [10:04:13] OBSERVATION: Response to cancer treatment: Improving (qualifier value)
+
+  [10:04:13] MEDICATION PRESCRIBED: Unknown medication
+    Status: completed
+    Prescribed by: Dr. Harland508 Ryan260
+
+  [10:04:13] MEDICATION ADMINISTERED: Tamoxifen 10 MG Oral Tablet
+    Status: completed
+    Dosage: 1.0
+
+  [10:04:13] MEDICATION PRESCRIBED: Unknown medication
+    Status: completed
+    Prescribed by: Dr. Harland508 Ryan260
+
+  [10:04:13] MEDICATION ADMINISTERED: 5 ML hyaluronidase-oysk 2000 UNT/ML / trastuzumab-oysk 120 MG/ML Injection
+    Status: completed
+
+  [10:04:13] MEDICATION PRESCRIBED: Unknown medication
+    Status: completed
+    Prescribed by: Dr. Harland508 Ryan260
+
+  [10:04:13] MEDICATION ADMINISTERED: abemaciclib 100 MG Oral Tablet [Verzenio]
+    Status: completed
+
+  [10:04:13] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-07-30
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Carolann504 is a 56 year-old nonhispanic white female.
+      # Social History
+
+  [10:04:13] DOCUMENT: History and physical note
+    Status: superseded
+
+  [10:19:13] CLAIM: pharmacy
+    Amount: USD 409.20
+
+  [10:19:13] CLAIM: pharmacy
+    Amount: USD 498.43
+
+  [10:19:13] CLAIM: pharmacy
+    Amount: USD 117.93
+
+  [10:19:13] CLAIM: professional
+    Amount: USD 85.55
+
+
+📅 2017-11-27
+
+  [09:04:13] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 09:04:13 - 09:36:05
+
+  [09:04:13] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [09:04:13] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-11-27
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Carolann504 is a 56 year-old nonhispanic white female.
+      # Social History
+
+  [09:04:13] DOCUMENT: History and physical note
+    Status: superseded
+
+  [09:36:05] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2018-02-07
+
+  [20:36:08] VISIT: General examination of patient (procedure)
+    Provider: Dr. Sharyl439 Williamson769
+    Location: COMPASSIONATE HEALTH CARE GROUP LLC
+    Duration: 20:36:08 - 20:51:08
+
+  [20:36:08] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [20:36:08] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-02-07
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Carolann504 is a 57 year-old nonhispanic white female.
+      # Social History
+
+  [20:36:08] DOCUMENT: History and physical note
+    Status: superseded
+
+  [20:51:08] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2018-03-27
+
+  [10:36:05] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 10:36:05 - 11:14:34
+
+  [10:36:05] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [10:36:05] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-03-27
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Carolann504 is a 57 year-old nonhispanic white female.
+      # Social History
+
+  [10:36:05] DOCUMENT: History and physical note
+    Status: superseded
+
+  [11:14:34] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2018-07-19
+
+  [11:14:34] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 11:14:34 - 11:57:14
+
+  [11:14:34] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [11:14:34] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-07-19
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Carolann504 is a 57 year-old nonhispanic white female.
+      # Social History
+
+  [11:14:34] DOCUMENT: History and physical note
+    Status: superseded
+
+  [11:57:14] CLAIM: professional
+    Amount: USD 573.98
+
+  [11:57:14] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 11:57:14 - 12:16:01
+
+  [11:57:14] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [11:57:14] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-07-19
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Carolann504 is a 57 year-old nonhispanic white female.
+      # Social History
+
+  [11:57:14] DOCUMENT: History and physical note
+    Status: superseded
+
+  [12:16:01] CLAIM: professional
+    Amount: USD 211.60
+
+  [12:16:01] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 12:16:01 - 12:48:01
+
+  [12:16:01] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [12:16:01] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-07-19
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Carolann504 is a 57 year-old nonhispanic white female.
+      # Social History
+
+  [12:16:01] DOCUMENT: History and physical note
+    Status: superseded
+
+  [12:28:32] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [12:48:01] OBSERVATION: Response to cancer treatment: Improving (qualifier value)
+
+  [12:48:01] CLAIM: professional
+    Amount: USD 2486.07
+
+
+📅 2018-10-30
+
+  [12:48:01] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 12:48:01 - 13:22:01
+
+  [12:48:01] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [12:48:01] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-10-30
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Carolann504 is a 57 year-old nonhispanic white female.
+      # Social History
+
+  [12:48:01] DOCUMENT: History and physical note
+    Status: superseded
+
+  [13:22:01] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2019-02-13
+
+  [20:36:08] VISIT: General examination of patient (procedure)
+    Provider: Dr. Sharyl439 Williamson769
+    Location: COMPASSIONATE HEALTH CARE GROUP LLC
+    Duration: 20:36:08 - 20:51:08
+
+  [20:36:08] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [20:36:08] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-02-13
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Carolann504 is a 58 year-old nonhispanic white female.
+      # Social History
+
+  [20:36:08] DOCUMENT: History and physical note
+    Status: superseded
+
+  [20:51:08] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2019-02-20
+
+  [20:36:08] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 20:36:08 - 21:10:25
+
+  [20:36:08] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [20:36:08] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-02-20
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Carolann504 is a 58 year-old nonhispanic white female.
+      # Social History
+
+  [20:36:08] DOCUMENT: History and physical note
+    Status: superseded
+
+  [21:10:25] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2019-05-31
+
+  [22:10:25] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 22:10:25 - 22:41:39
+
+  [22:10:25] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [22:10:25] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-05-31
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Carolann504 is a 58 year-old nonhispanic white female.
+      # Social History
+
+  [22:10:25] DOCUMENT: History and physical note
+    Status: superseded
+
+  [22:41:39] CLAIM: professional
+    Amount: USD 573.98
+
+  [22:41:39] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 22:41:39 - 23:06:38
+
+  [22:41:39] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [22:41:39] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-05-31
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Carolann504 is a 58 year-old nonhispanic white female.
+      # Social History
+
+  [22:41:39] DOCUMENT: History and physical note
+    Status: superseded
+
+  [23:06:38] CLAIM: professional
+    Amount: USD 259.62
+
+  [23:06:38] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 23:06:38 - 23:33:22
+
+  [23:06:38] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [23:06:38] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-05-31
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Carolann504 is a 58 year-old nonhispanic white female.
+      # Social History
+
+  [23:06:38] DOCUMENT: History and physical note
+    Status: superseded
+
+  [23:18:38] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [23:33:22] OBSERVATION: Response to cancer treatment: Improving (qualifier value)
+
+  [23:33:22] CLAIM: professional
+    Amount: USD 1157.34
+
+
+📅 2019-09-20
+
+  [23:33:22] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 23:33:22 - 00:06:21
+
+  [23:33:22] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [23:33:22] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-09-20
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Carolann504 is a 58 year-old nonhispanic white female.
+      # Social History
+
+  [23:33:22] DOCUMENT: History and physical note
+    Status: superseded
+
+
+📅 2019-09-21
+
+  [00:06:21] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2020-01-12
+
+  [23:06:21] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 23:06:21 - 23:41:59
+
+  [23:06:21] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [23:06:21] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-01-12
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Carolann504 is a 59 year-old nonhispanic white female.
+      # Social History
+
+  [23:06:21] DOCUMENT: History and physical note
+    Status: superseded
+
+  [23:41:59] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2020-02-19
+
+  [20:36:08] VISIT: General examination of patient (procedure)
+    Provider: Dr. Sharyl439 Williamson769
+    Location: COMPASSIONATE HEALTH CARE GROUP LLC
+    Duration: 20:36:08 - 20:51:08
+
+  [20:36:08] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [20:36:08] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-02-19
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Carolann504 is a 59 year-old nonhispanic white female.
+      # Social History
+
+  [20:36:08] DOCUMENT: History and physical note
+    Status: superseded
+
+  [20:51:08] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2020-04-23
+
+  [00:41:59] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 00:41:59 - 01:17:59
+
+  [00:41:59] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [00:41:59] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-04-23
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Carolann504 is a 59 year-old nonhispanic white female.
+      # Social History
+
+  [00:41:59] DOCUMENT: History and physical note
+    Status: superseded
+
+  [01:17:59] CLAIM: professional
+    Amount: USD 573.98
+
+  [01:17:59] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 01:17:59 - 01:42:27
+
+  [01:17:59] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [01:17:59] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-04-23
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Carolann504 is a 59 year-old nonhispanic white female.
+      # Social History
+
+  [01:17:59] DOCUMENT: History and physical note
+    Status: superseded
+
+  [01:42:27] CLAIM: professional
+    Amount: USD 211.60
+
+  [01:42:27] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 01:42:27 - 02:12:58
+
+  [01:42:27] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [01:42:27] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-04-23
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Carolann504 is a 59 year-old nonhispanic white female.
+      # Social History
+
+  [01:42:27] DOCUMENT: History and physical note
+    Status: superseded
+
+  [01:57:12] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [02:12:58] OBSERVATION: Response to cancer treatment: Improving (qualifier value)
+
+  [02:12:58] CLAIM: professional
+    Amount: USD 3184.05
+
+
+📅 2020-08-22
+
+  [02:12:58] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 02:12:58 - 02:47:31
+
+  [02:12:58] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [02:12:58] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-08-22
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Carolann504 is a 59 year-old nonhispanic white female.
+      # Social History
+
+  [02:12:58] DOCUMENT: History and physical note
+    Status: superseded
+
+  [02:47:31] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2020-12-24
+
+  [01:47:31] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 01:47:31 - 02:24:47
+
+  [01:47:31] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [01:47:31] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-12-24
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Carolann504 is a 59 year-old nonhispanic white female.
+      # Social History
+
+  [01:47:31] DOCUMENT: History and physical note
+    Status: superseded
+
+  [02:24:47] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2021-02-24
+
+  [20:36:08] VISIT: General examination of patient (procedure)
+    Provider: Dr. Sharyl439 Williamson769
+    Location: COMPASSIONATE HEALTH CARE GROUP LLC
+    Duration: 20:36:08 - 20:51:08
+
+  [20:36:08] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [20:36:08] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-02-24
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Carolann504 is a 60 year-old nonhispanic white female.
+      # Social History
+
+  [20:36:08] DOCUMENT: History and physical note
+    Status: superseded
+
+  [20:51:08] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2021-03-17
+
+  [21:36:08] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 21:36:08 - 21:51:08
+
+  [21:36:08] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 30 mcg/0.3 mL dose
+    Status: completed
+
+  [21:36:08] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-03-17
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Carolann504 is a 60 year-old nonhispanic white female.
+      # Social History
+
+  [21:36:08] DOCUMENT: History and physical note
+    Status: superseded
+
+  [21:51:08] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-04-07
+
+  [21:36:08] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 21:36:08 - 21:51:08
+
+  [21:36:08] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 30 mcg/0.3 mL dose
+    Status: completed
+
+  [21:36:08] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-04-07
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Carolann504 is a 60 year-old nonhispanic white female.
+      # Social History
+
+  [21:36:08] DOCUMENT: History and physical note
+    Status: superseded
+
+  [21:51:08] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-04-21
+
+  [03:24:47] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 03:24:47 - 04:09:31
+
+  [03:24:47] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [03:24:47] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-04-21
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Carolann504 is a 60 year-old nonhispanic white female.
+      # Social History
+
+  [03:24:47] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:09:31] CLAIM: professional
+    Amount: USD 573.98
+
+  [04:09:31] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 04:09:31 - 04:28:38
+
+  [04:09:31] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [04:09:31] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-04-21
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Carolann504 is a 60 year-old nonhispanic white female.
+      # Social History
+
+  [04:09:31] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:28:38] CLAIM: professional
+    Amount: USD 268.37
+
+  [04:28:38] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 04:28:38 - 04:55:53
+
+  [04:28:38] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [04:28:38] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-04-21
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Carolann504 is a 60 year-old nonhispanic white female.
+      # Social History
+
+  [04:28:38] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:39:53] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [04:55:53] OBSERVATION: Response to cancer treatment: Improving (qualifier value)
+
+  [04:55:53] CLAIM: professional
+    Amount: USD 1091.66
+
+
+📅 2021-08-18
+
+  [04:55:53] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 04:55:53 - 05:40:37
+
+  [04:55:53] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [04:55:53] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-08-18
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Carolann504 is a 60 year-old nonhispanic white female.
+      # Social History
+
+  [04:55:53] DOCUMENT: History and physical note
+    Status: superseded
+
+  [05:40:37] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2021-12-06
+
+  [04:40:37] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 04:40:37 - 05:18:11
+
+  [04:40:37] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [04:40:37] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-12-06
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Carolann504 is a 60 year-old nonhispanic white female.
+      # Social History
+
+  [04:40:37] DOCUMENT: History and physical note
+    Status: superseded
+
+  [05:18:11] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2022-03-02
+
+  [20:36:08] VISIT: General examination of patient (procedure)
+    Provider: Dr. Sharyl439 Williamson769
+    Location: COMPASSIONATE HEALTH CARE GROUP LLC
+    Duration: 20:36:08 - 20:51:08
+
+  [20:36:08] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [20:36:08] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [20:36:08] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-03-02
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Carolann504 is a 61 year-old nonhispanic white female.
+      # Social History
+
+  [20:36:08] DOCUMENT: History and physical note
+    Status: superseded
+
+  [20:51:08] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2022-04-04
+
+  [06:18:11] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Harland508 Ryan260
+    Location: Patient's Home
+    Duration: 06:18:11 - 06:51:40
+
+  [06:18:11] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [06:18:11] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-04-04
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Carolann504 is a 61 year-old nonhispanic white female.
+      # Social History
+
+  [06:18:11] DOCUMENT: History and physical note
+    Status: superseded
+
+  [06:51:40] CLAIM: institutional
+    Amount: USD 556.40
+
+  [06:51:40] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 06:51:40 - 07:13:09
+
+  [06:51:40] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [06:51:40] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-04-04
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Carolann504 is a 61 year-old nonhispanic white female.
+      # Social History
+
+  [06:51:40] DOCUMENT: History and physical note
+    Status: superseded
+
+  [07:13:09] CLAIM: professional
+    Amount: USD 211.60
+
+  [07:13:09] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 07:13:09 - 07:40:27
+
+  [07:13:09] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [07:13:09] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-04-04
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Carolann504 is a 61 year-old nonhispanic white female.
+      # Social History
+
+  [07:13:09] DOCUMENT: History and physical note
+    Status: superseded
+
+  [07:27:56] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [07:40:27] CLAIM: professional
+    Amount: USD 1615.66
+
+
+📅 2023-03-01
+
+  [06:40:27] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 06:40:27 - 07:12:17
+
+  [06:40:27] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [06:40:27] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-03-01
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Carolann504 is a 62 year-old nonhispanic white female.
+      # Social History
+
+  [06:40:27] DOCUMENT: History and physical note
+    Status: superseded
+
+  [07:12:17] CLAIM: professional
+    Amount: USD 573.98
+
+  [07:12:17] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 07:12:17 - 07:34:30
+
+  [07:12:17] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [07:12:17] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-03-01
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Carolann504 is a 62 year-old nonhispanic white female.
+      # Social History
+
+  [07:12:17] DOCUMENT: History and physical note
+    Status: superseded
+
+  [07:34:30] CLAIM: professional
+    Amount: USD 211.60
+
+  [07:34:30] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 07:34:30 - 08:05:07
+
+  [07:34:30] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [07:34:30] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-03-01
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Carolann504 is a 62 year-old nonhispanic white female.
+      # Social History
+
+  [07:34:30] DOCUMENT: History and physical note
+    Status: superseded
+
+  [07:45:26] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [08:05:07] CLAIM: professional
+    Amount: USD 1091.66
+
+
+📅 2023-03-08
+
+  [20:36:08] VISIT: General examination of patient (procedure)
+    Provider: Dr. Sharyl439 Williamson769
+    Location: COMPASSIONATE HEALTH CARE GROUP LLC
+    Duration: 20:36:08 - 20:51:08
+
+  [20:36:08] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [20:36:08] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-03-08
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Carolann504 is a 62 year-old nonhispanic white female.
+      # Social History
+
+  [20:36:08] DOCUMENT: History and physical note
+    Status: superseded
+
+  [20:51:08] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2024-02-02
+
+  [08:05:07] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 08:05:07 - 08:38:49
+
+  [08:05:07] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [08:05:07] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-02-02
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Carolann504 is a 63 year-old nonhispanic white female.
+      # Social History
+
+  [08:05:07] DOCUMENT: History and physical note
+    Status: superseded
+
+  [08:38:49] CLAIM: professional
+    Amount: USD 573.98
+
+  [08:38:49] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 08:38:49 - 09:01:32
+
+  [08:38:49] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [08:38:49] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-02-02
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Carolann504 is a 63 year-old nonhispanic white female.
+      # Social History
+
+  [08:38:49] DOCUMENT: History and physical note
+    Status: superseded
+
+  [09:01:32] CLAIM: professional
+    Amount: USD 211.60
+
+  [09:01:32] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 09:01:32 - 09:23:04
+
+  [09:01:32] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [09:01:32] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-02-02
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Carolann504 is a 63 year-old nonhispanic white female.
+      # Social History
+
+  [09:01:32] DOCUMENT: History and physical note
+    Status: superseded
+
+  [09:11:49] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [09:23:04] CLAIM: professional
+    Amount: USD 1091.66
+
+
+📅 2024-03-13
+
+  [21:36:08] VISIT: General examination of patient (procedure)
+    Provider: Dr. Sharyl439 Williamson769
+    Location: COMPASSIONATE HEALTH CARE GROUP LLC
+    Duration: 21:36:08 - 21:51:08
+
+  [21:36:08] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [21:36:08] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-03-13
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Carolann504 is a 63 year-old nonhispanic white female.
+      # Social History
+
+  [21:36:08] DOCUMENT: History and physical note
+    Status: superseded
+
+  [21:51:08] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2025-02-15
+
+  [09:23:04] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 09:23:04 - 09:58:04
+
+  [09:23:04] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [09:23:04] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-02-15
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Carolann504 is a 64 year-old nonhispanic white female.
+      # Social History
+
+  [09:23:04] DOCUMENT: History and physical note
+    Status: superseded
+
+  [09:58:04] CLAIM: professional
+    Amount: USD 573.98
+
+  [09:58:04] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 09:58:04 - 10:14:11
+
+  [09:58:04] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [09:58:04] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-02-15
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Carolann504 is a 64 year-old nonhispanic white female.
+      # Social History
+
+  [09:58:04] DOCUMENT: History and physical note
+    Status: superseded
+
+  [10:14:11] CLAIM: professional
+    Amount: USD 280.48
+
+  [10:14:11] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 10:14:11 - 10:44:05
+
+  [10:14:11] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [10:14:11] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-02-15
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Carolann504 is a 64 year-old nonhispanic white female.
+      # Social History
+
+  [10:14:11] DOCUMENT: History and physical note
+    Status: superseded
+
+  [10:26:23] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [10:44:05] CLAIM: professional
+    Amount: USD 3109.79
+
+
+📅 2025-03-19
+
+  [21:36:08] VISIT: General examination of patient (procedure)
+    Provider: Dr. Sharyl439 Williamson769
+    Location: COMPASSIONATE HEALTH CARE GROUP LLC
+    Duration: 21:36:08 - 21:51:08
+
+  [21:36:08] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [21:36:08] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-03-19
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Carolann504 is a 64 year-old nonhispanic white female.
+      # Social History
+
+  [21:36:08] DOCUMENT: History and physical note
+    Status: current
+
+  [21:51:08] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2026-02-11
+
+  [20:36:08] PROVENANCE: Record activity
+    Agents: Dr. Sharyl439 Williamson769, Dr. Sharyl439 Williamson769
+
+================================================================================
+END OF TIMELINE (457 events)
+================================================================================

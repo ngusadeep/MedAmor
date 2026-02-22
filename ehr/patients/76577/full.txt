@@ -1,0 +1,318 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Mrs. Kari181 Maria750 Hagenes547
+  Patient ID: 76577
+  Date of Birth: 1959-12-05
+  Gender: Female
+  Race: White
+  Ethnicity: Not Hispanic or Latino
+  Marital Status: Married
+  Address: 395 Lesch Vale, Attleboro, MA 02861
+  Phone: 555-259-6128
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2017-01-14
+
+  [03:47:12] VISIT: General examination of patient (procedure)
+    Provider: Dr. Wynell591 Mayert710
+    Location: WELLNESS ON WHEELS,PC
+    Duration: 03:47:12 - 04:02:12
+
+  [03:47:12] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [03:47:12] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-01-14
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kari181 Maria750 is a 57 year-old nonhispanic white female.
+      # Social History
+
+  [03:47:12] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:02:12] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2018-01-20
+
+  [03:47:12] VISIT: General examination of patient (procedure)
+    Provider: Dr. Wynell591 Mayert710
+    Location: WELLNESS ON WHEELS,PC
+    Duration: 03:47:12 - 04:02:12
+
+  [03:47:12] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [03:47:12] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-01-20
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kari181 Maria750 is a 58 year-old nonhispanic white female.
+      # Social History
+
+  [03:47:12] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:02:12] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2019-01-26
+
+  [03:47:12] VISIT: General examination of patient (procedure)
+    Provider: Dr. Wynell591 Mayert710
+    Location: WELLNESS ON WHEELS,PC
+    Duration: 03:47:12 - 04:02:12
+
+  [03:47:12] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [03:47:12] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-01-26
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kari181 Maria750 is a 59 year-old nonhispanic white female.
+      # Social History
+
+  [03:47:12] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:02:12] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2020-02-01
+
+  [03:47:12] VISIT: General examination of patient (procedure)
+    Provider: Dr. Wynell591 Mayert710
+    Location: WELLNESS ON WHEELS,PC
+    Duration: 03:47:12 - 04:02:12
+
+  [03:47:12] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [03:47:12] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-02-01
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kari181 Maria750 is a 60 year-old nonhispanic white female.
+      # Social History
+
+  [03:47:12] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:02:12] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2021-02-06
+
+  [03:47:12] VISIT: General examination of patient (procedure)
+    Provider: Dr. Wynell591 Mayert710
+    Location: WELLNESS ON WHEELS,PC
+    Duration: 03:47:12 - 04:02:12
+
+  [03:47:12] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [03:47:12] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [03:47:12] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-02-06
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kari181 Maria750 is a 61 year-old nonhispanic white female.
+      # Social History
+
+  [03:47:12] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:02:12] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2021-11-27
+
+  [03:47:12] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Thanh759 Weber641
+    Location: STURDY MEMORIAL HOSPITAL INC
+    Duration: 03:47:12 - 04:02:12
+
+  [03:47:12] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 30 mcg/0.3 mL dose
+    Status: completed
+
+  [03:47:12] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-11-27
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kari181 Maria750 is a 61 year-old nonhispanic white female.
+      # Social History
+
+  [03:47:12] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:02:12] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-12-18
+
+  [03:47:12] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Thanh759 Weber641
+    Location: STURDY MEMORIAL HOSPITAL INC
+    Duration: 03:47:12 - 04:02:12
+
+  [03:47:12] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 30 mcg/0.3 mL dose
+    Status: completed
+
+  [03:47:12] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-12-18
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kari181 Maria750 is a 62 year-old nonhispanic white female.
+      # Social History
+
+  [03:47:12] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:02:12] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2022-02-12
+
+  [03:47:12] VISIT: General examination of patient (procedure)
+    Provider: Dr. Wynell591 Mayert710
+    Location: WELLNESS ON WHEELS,PC
+    Duration: 03:47:12 - 04:02:12
+
+  [03:47:12] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [03:47:12] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-02-12
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kari181 Maria750 is a 62 year-old nonhispanic white female.
+      # Social History
+
+  [03:47:12] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:02:12] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2023-02-18
+
+  [03:47:12] VISIT: General examination of patient (procedure)
+    Provider: Dr. Wynell591 Mayert710
+    Location: WELLNESS ON WHEELS,PC
+    Duration: 03:47:12 - 04:02:12
+
+  [03:47:12] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [03:47:12] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-02-18
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kari181 Maria750 is a 63 year-old nonhispanic white female.
+      # Social History
+
+  [03:47:12] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:02:12] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2024-02-24
+
+  [03:47:12] VISIT: General examination of patient (procedure)
+    Provider: Dr. Wynell591 Mayert710
+    Location: WELLNESS ON WHEELS,PC
+    Duration: 03:47:12 - 04:02:12
+
+  [03:47:12] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [03:47:12] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-02-24
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kari181 Maria750 is a 64 year-old nonhispanic white female.
+      # Social History
+
+  [03:47:12] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:02:12] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2025-03-01
+
+  [03:47:12] VISIT: General examination of patient (procedure)
+    Provider: Dr. Wynell591 Mayert710
+    Location: WELLNESS ON WHEELS,PC
+    Duration: 03:47:12 - 04:02:12
+
+  [03:47:12] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [03:47:12] IMMUNIZATION: Pneumococcal conjugate PCV 13
+    Status: completed
+
+  [03:47:12] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-03-01
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kari181 Maria750 is a 65 year-old nonhispanic white female.
+      # Social History
+
+  [03:47:12] DOCUMENT: History and physical note
+    Status: current
+
+  [04:02:12] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2026-02-14
+
+  [03:47:12] PROVENANCE: Record activity
+    Agents: Dr. Wynell591 Mayert710, Dr. Wynell591 Mayert710
+
+================================================================================
+END OF TIMELINE (58 events)
+================================================================================

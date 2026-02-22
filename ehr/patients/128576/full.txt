@@ -1,0 +1,191 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Mrs. Rocio28 Lind531
+  Patient ID: 128576
+  Date of Birth: 1978-08-26
+  Gender: Female
+  Race: White
+  Ethnicity: Not Hispanic or Latino
+  Marital Status: Married
+  Address: 848 Weissnat Loaf, Worcester, MA 01583
+  Phone: 555-963-8061
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2018-09-01
+
+  [04:57:20] VISIT: General examination of patient (procedure)
+    Provider: Dr. Barb55 Renner328
+    Location: AUBURN PRIMARY CARE AND AESTHETICS
+    Duration: 04:57:20 - 05:12:20
+
+  [04:57:20] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [04:57:20] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [04:57:20] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-09-01
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Rocio28 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [04:57:20] DOCUMENT: History and physical note
+    Status: superseded
+
+  [05:12:20] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2020-09-05
+
+  [04:57:20] VISIT: General examination of patient (procedure)
+    Provider: Dr. Barb55 Renner328
+    Location: AUBURN PRIMARY CARE AND AESTHETICS
+    Duration: 04:57:20 - 05:12:20
+
+  [04:57:20] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [04:57:20] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [04:57:20] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [04:57:20] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-09-05
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Rocio28 is a 42 year-old nonhispanic white female.
+      # Social History
+
+  [04:57:20] DOCUMENT: History and physical note
+    Status: superseded
+
+  [05:12:20] CLAIM: professional
+    Amount: USD 544.80
+
+
+📅 2021-04-24
+
+  [04:57:20] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Otha286 Roberts511
+    Location: NEW ENGLAND REHABILITATION SERVICES OF CENTRAL MASSACHUSETTS INC
+    Duration: 04:57:20 - 05:12:20
+
+  [04:57:20] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 30 mcg/0.3 mL dose
+    Status: completed
+
+  [04:57:20] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-04-24
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Rocio28 is a 42 year-old nonhispanic white female.
+      # Social History
+
+  [04:57:20] DOCUMENT: History and physical note
+    Status: superseded
+
+  [05:12:20] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-05-15
+
+  [04:57:20] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Otha286 Roberts511
+    Location: NEW ENGLAND REHABILITATION SERVICES OF CENTRAL MASSACHUSETTS INC
+    Duration: 04:57:20 - 05:12:20
+
+  [04:57:20] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 30 mcg/0.3 mL dose
+    Status: completed
+
+  [04:57:20] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-05-15
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Rocio28 is a 42 year-old nonhispanic white female.
+      # Social History
+
+  [04:57:20] DOCUMENT: History and physical note
+    Status: superseded
+
+  [05:12:20] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2022-09-10
+
+  [04:57:20] VISIT: General examination of patient (procedure)
+    Provider: Dr. Barb55 Renner328
+    Location: AUBURN PRIMARY CARE AND AESTHETICS
+    Duration: 04:57:20 - 05:12:20
+
+  [04:57:20] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [04:57:20] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-09-10
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Rocio28 is a 44 year-old nonhispanic white female.
+      # Social History
+
+  [04:57:20] DOCUMENT: History and physical note
+    Status: superseded
+
+  [05:12:20] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2024-09-14
+
+  [04:57:20] VISIT: General examination of patient (procedure)
+    Provider: Dr. Barb55 Renner328
+    Location: AUBURN PRIMARY CARE AND AESTHETICS
+    Duration: 04:57:20 - 05:12:20
+
+  [04:57:20] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [04:57:20] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-09-14
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Rocio28 is a 46 year-old nonhispanic white female.
+      # Social History
+
+  [04:57:20] DOCUMENT: History and physical note
+    Status: current
+
+  [05:12:20] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2026-02-14
+
+  [03:57:20] PROVENANCE: Record activity
+    Agents: Dr. Barb55 Renner328, Dr. Barb55 Renner328
+
+================================================================================
+END OF TIMELINE (34 events)
+================================================================================

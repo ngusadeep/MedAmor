@@ -59,11 +59,11 @@ export function UserAuthForm({
         auth.setAccessToken('ok')
       }
       toast.success(`Welcome back, ${data.email}!`)
-      let targetPath = redirectTo ?? '/'
+      let targetPath = redirectTo ?? '/dashboard'
       try {
         if (targetPath.startsWith('http')) targetPath = new URL(targetPath).pathname
       } catch {
-        targetPath = '/'
+        targetPath = '/dashboard'
       }
       navigate({ to: targetPath, replace: true })
     } catch (err) {
@@ -116,6 +116,17 @@ export function UserAuthForm({
           {isLoading ? <Loader2 className='animate-spin' /> : <LogIn />}
           Sign in
         </Button>
+
+        <p className='text-center text-sm text-muted-foreground'>
+          Don't have an account?{' '}
+          <Link
+            to='/sign-up'
+            className='font-medium text-primary hover:opacity-75'
+          >
+            Sign up
+          </Link>
+        </p>
+
 {/* 
         <div className='relative my-2'>
           <div className='absolute inset-0 flex items-center'>

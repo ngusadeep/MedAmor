@@ -1,0 +1,188 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Mrs. Norah104 Gutkowski940
+  Patient ID: 120875
+  Date of Birth: 1985-03-21
+  Gender: Female
+  Race: White
+  Ethnicity: Not Hispanic or Latino
+  Marital Status: Married
+  Address: 355 Lehner Mews, Lakeville, MA 00000
+  Phone: 555-868-1327
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2016-06-02
+
+  [04:03:46] VISIT: General examination of patient (procedure)
+    Provider: Dr. Jefferey580 Luettgen772
+    Location: TRANQUIL MIND & WELLNESS
+    Duration: 04:03:46 - 04:18:46
+
+  [04:03:46] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [04:03:46] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [04:03:46] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-06-02
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Norah104 is a 31 year-old nonhispanic white female.
+      # Social History
+
+  [04:03:46] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:18:46] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2019-06-06
+
+  [04:03:46] VISIT: General examination of patient (procedure)
+    Provider: Dr. Jefferey580 Luettgen772
+    Location: TRANQUIL MIND & WELLNESS
+    Duration: 04:03:46 - 04:18:46
+
+  [04:03:46] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [04:03:46] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-06-06
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Norah104 is a 34 year-old nonhispanic white female.
+      # Social History
+
+  [04:03:46] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:18:46] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2021-04-15
+
+  [04:03:46] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Mertie42 Lakin515
+    Location: 4499 ACUSHNET AVENUE OPERATING COMPANY, LLC
+    Duration: 04:03:46 - 04:18:46
+
+  [04:03:46] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 30 mcg/0.3 mL dose
+    Status: completed
+
+  [04:03:46] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-04-15
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Norah104 is a 36 year-old nonhispanic white female.
+      # Social History
+
+  [04:03:46] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:18:46] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-05-06
+
+  [04:03:46] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Mertie42 Lakin515
+    Location: 4499 ACUSHNET AVENUE OPERATING COMPANY, LLC
+    Duration: 04:03:46 - 04:18:46
+
+  [04:03:46] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 30 mcg/0.3 mL dose
+    Status: completed
+
+  [04:03:46] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-05-06
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Norah104 is a 36 year-old nonhispanic white female.
+      # Social History
+
+  [04:03:46] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:18:46] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2022-06-09
+
+  [04:03:46] VISIT: General examination of patient (procedure)
+    Provider: Dr. Jefferey580 Luettgen772
+    Location: TRANQUIL MIND & WELLNESS
+    Duration: 04:03:46 - 04:18:46
+
+  [04:03:46] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [04:03:46] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-06-09
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Norah104 is a 37 year-old nonhispanic white female.
+      # Social History
+
+  [04:03:46] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:18:46] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2025-03-27
+
+  [04:03:46] VISIT: General examination of patient (procedure)
+    Provider: Dr. Jefferey580 Luettgen772
+    Location: TRANQUIL MIND & WELLNESS
+    Duration: 04:03:46 - 04:18:46
+
+  [04:03:46] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [04:03:46] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [04:03:46] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-03-27
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Norah104 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [04:03:46] DOCUMENT: History and physical note
+    Status: current
+
+  [04:18:46] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2026-02-12
+
+  [03:03:46] PROVENANCE: Record activity
+    Agents: Dr. Jefferey580 Luettgen772, Dr. Jefferey580 Luettgen772
+
+================================================================================
+END OF TIMELINE (33 events)
+================================================================================

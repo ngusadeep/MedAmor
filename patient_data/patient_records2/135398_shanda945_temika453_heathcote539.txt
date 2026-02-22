@@ -1,0 +1,371 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Mrs. Shanda945 Temika453 Heathcote539
+  Patient ID: 135398
+  Date of Birth: 1956-08-29
+  Gender: Female
+  Race: Black or African American
+  Ethnicity: Not Hispanic or Latino
+  Marital Status: Married
+  Address: 977 Senger Wynd, Framingham, MA 01701
+  Phone: 555-823-4475
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2016-10-26
+
+  [00:59:23] VISIT: General examination of patient (procedure)
+    Provider: Dr. Ariel183 Von197
+    Location: APPLE MEDICAL CLINIC MA INC
+    Duration: 00:59:23 - 01:14:23
+
+  [00:59:23] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [00:59:23] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-10-26
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Shanda945 Temika453 is a 60 year-old nonhispanic black female.
+      # Social History
+
+  [00:59:23] DOCUMENT: History and physical note
+    Status: superseded
+
+  [01:14:23] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2017-11-01
+
+  [00:59:23] VISIT: General examination of patient (procedure)
+    Provider: Dr. Ariel183 Von197
+    Location: APPLE MEDICAL CLINIC MA INC
+    Duration: 00:59:23 - 01:14:23
+
+  [00:59:23] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [00:59:23] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [00:59:23] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-11-01
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Shanda945 Temika453 is a 61 year-old nonhispanic black female.
+      # Social History
+
+  [00:59:23] DOCUMENT: History and physical note
+    Status: superseded
+
+  [01:14:23] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2018-11-06
+
+  [23:59:23] VISIT: General examination of patient (procedure)
+    Provider: Dr. Ariel183 Von197
+    Location: APPLE MEDICAL CLINIC MA INC
+    Duration: 23:59:23 - 00:14:23
+
+  [23:59:23] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [23:59:23] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-11-06
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Shanda945 Temika453 is a 62 year-old nonhispanic black female.
+      # Social History
+
+  [23:59:23] DOCUMENT: History and physical note
+    Status: superseded
+
+
+📅 2018-11-07
+
+  [00:14:23] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2019-11-12
+
+  [23:59:23] VISIT: General examination of patient (procedure)
+    Provider: Dr. Ariel183 Von197
+    Location: APPLE MEDICAL CLINIC MA INC
+    Duration: 23:59:23 - 00:14:23
+
+  [23:59:23] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [23:59:23] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-11-12
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Shanda945 Temika453 is a 63 year-old nonhispanic black female.
+      # Social History
+
+  [23:59:23] DOCUMENT: History and physical note
+    Status: superseded
+
+
+📅 2019-11-13
+
+  [00:14:23] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2020-11-17
+
+  [23:59:23] VISIT: General examination of patient (procedure)
+    Provider: Dr. Ariel183 Von197
+    Location: APPLE MEDICAL CLINIC MA INC
+    Duration: 23:59:23 - 00:14:23
+
+  [23:59:23] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [23:59:23] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-11-17
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Shanda945 Temika453 is a 64 year-old nonhispanic black female.
+      # Social History
+
+  [23:59:23] DOCUMENT: History and physical note
+    Status: superseded
+
+
+📅 2020-11-18
+
+  [00:14:23] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2021-10-13
+
+  [00:59:23] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Leonarda398 Schumm995
+    Location: ENCOMPASS HEALTH BRAINTREE HOSPITAL OF BRAINTREE
+    Duration: 00:59:23 - 01:14:23
+
+  [00:59:23] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 30 mcg/0.3 mL dose
+    Status: completed
+
+  [00:59:23] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-10-13
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Shanda945 Temika453 is a 65 year-old nonhispanic black female.
+      # Social History
+
+  [00:59:23] DOCUMENT: History and physical note
+    Status: superseded
+
+  [01:14:23] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-11-03
+
+  [00:59:23] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Leonarda398 Schumm995
+    Location: ENCOMPASS HEALTH BRAINTREE HOSPITAL OF BRAINTREE
+    Duration: 00:59:23 - 01:14:23
+
+  [00:59:23] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 30 mcg/0.3 mL dose
+    Status: completed
+
+  [00:59:23] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-11-03
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Shanda945 Temika453 is a 65 year-old nonhispanic black female.
+      # Social History
+
+  [00:59:23] DOCUMENT: History and physical note
+    Status: superseded
+
+  [01:14:23] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-11-23
+
+  [23:59:23] VISIT: General examination of patient (procedure)
+    Provider: Dr. Ariel183 Von197
+    Location: APPLE MEDICAL CLINIC MA INC
+    Duration: 23:59:23 - 00:14:23
+
+  [23:59:23] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [23:59:23] IMMUNIZATION: Pneumococcal conjugate PCV 13
+    Status: completed
+
+  [23:59:23] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-11-23
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Shanda945 Temika453 is a 65 year-old nonhispanic black female.
+      # Social History
+
+  [23:59:23] DOCUMENT: History and physical note
+    Status: superseded
+
+
+📅 2021-11-24
+
+  [00:14:23] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2022-11-29
+
+  [23:59:23] VISIT: General examination of patient (procedure)
+    Provider: Dr. Ariel183 Von197
+    Location: APPLE MEDICAL CLINIC MA INC
+    Duration: 23:59:23 - 00:14:23
+
+  [23:59:23] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [23:59:23] IMMUNIZATION: pneumococcal polysaccharide vaccine, 23 valent
+    Status: completed
+
+  [23:59:23] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-11-29
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Shanda945 Temika453 is a 66 year-old nonhispanic black female.
+      # Social History
+
+  [23:59:23] DOCUMENT: History and physical note
+    Status: superseded
+
+
+📅 2022-11-30
+
+  [00:14:23] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2023-12-05
+
+  [23:59:23] VISIT: General examination of patient (procedure)
+    Provider: Dr. Ariel183 Von197
+    Location: APPLE MEDICAL CLINIC MA INC
+    Duration: 23:59:23 - 00:14:23
+
+  [23:59:23] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [23:59:23] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-12-05
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Shanda945 Temika453 is a 67 year-old nonhispanic black female.
+      # Social History
+
+  [23:59:23] DOCUMENT: History and physical note
+    Status: superseded
+
+
+📅 2023-12-06
+
+  [00:14:23] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2024-12-10
+
+  [23:59:23] VISIT: General examination of patient (procedure)
+    Provider: Dr. Ariel183 Von197
+    Location: APPLE MEDICAL CLINIC MA INC
+    Duration: 23:59:23 - 00:14:23
+
+  [23:59:23] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [23:59:23] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-12-10
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Shanda945 Temika453 is a 68 year-old nonhispanic black female.
+      # Social History
+
+  [23:59:23] DOCUMENT: History and physical note
+    Status: superseded
+
+
+📅 2024-12-11
+
+  [00:14:23] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2025-12-16
+
+  [23:59:23] VISIT: General examination of patient (procedure)
+    Provider: Dr. Ariel183 Von197
+    Location: APPLE MEDICAL CLINIC MA INC
+    Duration: 23:59:23 - 00:14:23
+
+  [23:59:23] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [23:59:23] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-12-16
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Shanda945 Temika453 is a 69 year-old nonhispanic black female.
+      # Social History
+
+  [23:59:23] DOCUMENT: History and physical note
+    Status: current
+
+
+📅 2025-12-17
+
+  [00:14:23] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2026-02-10
+
+  [23:59:23] PROVENANCE: Record activity
+    Agents: Dr. Ariel183 Von197, Dr. Ariel183 Von197
+
+================================================================================
+END OF TIMELINE (64 events)
+================================================================================

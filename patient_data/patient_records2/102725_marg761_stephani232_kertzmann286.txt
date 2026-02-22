@@ -1,0 +1,165 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Mrs. Marg761 Stephani232 Kertzmann286
+  Patient ID: 102725
+  Date of Birth: 1978-10-23
+  Gender: Female
+  Race: Asian
+  Ethnicity: Not Hispanic or Latino
+  Marital Status: Divorced
+  Address: 176 Altenwerth Ranch, Winthrop, MA 02152
+  Phone: 555-834-7250
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2018-10-29
+
+  [19:28:03] VISIT: General examination of patient (procedure)
+    Provider: Dr. Evelin941 Ratke343
+    Location: LYNN COMMUNITY HEALTH
+    Duration: 19:28:03 - 19:43:03
+
+  [19:28:03] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [19:28:03] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [19:28:03] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-10-29
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Marg761 Stephani232 is a 40 year-old nonhispanic asian female.
+      # Social History
+
+  [19:28:03] DOCUMENT: History and physical note
+    Status: superseded
+
+  [19:43:03] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2020-11-02
+
+  [18:28:03] VISIT: General examination of patient (procedure)
+    Provider: Dr. Evelin941 Ratke343
+    Location: LYNN COMMUNITY HEALTH
+    Duration: 18:28:03 - 18:43:03
+
+  [18:28:03] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [18:28:03] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [18:28:03] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [18:28:03] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-11-02
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Marg761 Stephani232 is a 42 year-old nonhispanic asian female.
+      # Social History
+
+  [18:28:03] DOCUMENT: History and physical note
+    Status: superseded
+
+  [18:43:03] CLAIM: professional
+    Amount: USD 544.80
+
+
+📅 2021-08-23
+
+  [19:28:03] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Vicente970 Alonzo487
+    Location: WHITTIER REHABILTATION HOSPITAL
+    Duration: 19:28:03 - 19:43:03
+
+  [19:28:03] IMMUNIZATION: COVID-19 vaccine, vector-nr, rS-Ad26, PF, 0.5 mL
+    Status: completed
+
+  [19:28:03] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-08-23
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Marg761 Stephani232 is a 42 year-old nonhispanic asian female.
+      # Social History
+
+  [19:28:03] DOCUMENT: History and physical note
+    Status: superseded
+
+  [19:43:03] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2022-11-07
+
+  [18:28:03] VISIT: General examination of patient (procedure)
+    Provider: Dr. Evelin941 Ratke343
+    Location: LYNN COMMUNITY HEALTH
+    Duration: 18:28:03 - 18:43:03
+
+  [18:28:03] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [18:28:03] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-11-07
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Marg761 Stephani232 is a 44 year-old nonhispanic asian female.
+      # Social History
+
+  [18:28:03] DOCUMENT: History and physical note
+    Status: superseded
+
+  [18:43:03] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2024-11-11
+
+  [18:28:03] VISIT: General examination of patient (procedure)
+    Provider: Dr. Evelin941 Ratke343
+    Location: LYNN COMMUNITY HEALTH
+    Duration: 18:28:03 - 18:43:03
+
+  [18:28:03] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [18:28:03] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-11-11
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Marg761 Stephani232 is a 46 year-old nonhispanic asian female.
+      # Social History
+
+  [18:28:03] DOCUMENT: History and physical note
+    Status: current
+
+  [18:43:03] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2026-02-09
+
+  [18:28:03] PROVENANCE: Record activity
+    Agents: Dr. Evelin941 Ratke343, Dr. Evelin941 Ratke343
+
+================================================================================
+END OF TIMELINE (29 events)
+================================================================================

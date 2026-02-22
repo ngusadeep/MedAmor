@@ -1,0 +1,191 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Mrs. Yaeko585 Lynnette27 Hand679
+  Patient ID: 154651
+  Date of Birth: 1981-05-09
+  Gender: Female
+  Race: Asian
+  Ethnicity: Not Hispanic or Latino
+  Marital Status: Married
+  Address: 1017 Ledner Union Apt 71, Concord, MA 00000
+  Phone: 555-667-3470
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2018-07-28
+
+  [05:16:22] VISIT: General examination of patient (procedure)
+    Provider: Dr. Tori754 Larson43
+    Location: INTEGRATIVE FAMILY MEDICINE ASSOCIATES
+    Duration: 05:16:22 - 05:31:22
+
+  [05:16:22] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [05:16:22] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-07-28
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Yaeko585 Lynnette27 is a 37 year-old nonhispanic asian female.
+      # Social History
+
+  [05:16:22] DOCUMENT: History and physical note
+    Status: superseded
+
+  [05:31:22] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2021-03-20
+
+  [05:16:22] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Marcus77 Schamberger479
+    Location: THE LOWELL GENERAL HOSPITAL
+    Duration: 05:16:22 - 05:31:22
+
+  [05:16:22] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 30 mcg/0.3 mL dose
+    Status: completed
+
+  [05:16:22] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-03-20
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Yaeko585 Lynnette27 is a 39 year-old nonhispanic asian female.
+      # Social History
+
+  [05:16:22] DOCUMENT: History and physical note
+    Status: superseded
+
+  [05:31:22] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-04-10
+
+  [05:16:22] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Marcus77 Schamberger479
+    Location: THE LOWELL GENERAL HOSPITAL
+    Duration: 05:16:22 - 05:31:22
+
+  [05:16:22] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 30 mcg/0.3 mL dose
+    Status: completed
+
+  [05:16:22] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-04-10
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Yaeko585 Lynnette27 is a 39 year-old nonhispanic asian female.
+      # Social History
+
+  [05:16:22] DOCUMENT: History and physical note
+    Status: superseded
+
+  [05:31:22] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-05-15
+
+  [05:16:22] VISIT: General examination of patient (procedure)
+    Provider: Dr. Tori754 Larson43
+    Location: INTEGRATIVE FAMILY MEDICINE ASSOCIATES
+    Duration: 05:16:22 - 05:31:22
+
+  [05:16:22] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [05:16:22] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [05:16:22] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-05-15
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Yaeko585 Lynnette27 is a 40 year-old nonhispanic asian female.
+      # Social History
+
+  [05:16:22] DOCUMENT: History and physical note
+    Status: superseded
+
+  [05:31:22] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2023-05-20
+
+  [05:16:22] VISIT: General examination of patient (procedure)
+    Provider: Dr. Tori754 Larson43
+    Location: INTEGRATIVE FAMILY MEDICINE ASSOCIATES
+    Duration: 05:16:22 - 05:31:22
+
+  [05:16:22] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [05:16:22] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [05:16:22] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [05:16:22] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-05-20
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Yaeko585 Lynnette27 is a 42 year-old nonhispanic asian female.
+      # Social History
+
+  [05:16:22] DOCUMENT: History and physical note
+    Status: superseded
+
+  [05:31:22] CLAIM: professional
+    Amount: USD 544.80
+
+
+📅 2025-05-24
+
+  [05:16:22] VISIT: General examination of patient (procedure)
+    Provider: Dr. Tori754 Larson43
+    Location: INTEGRATIVE FAMILY MEDICINE ASSOCIATES
+    Duration: 05:16:22 - 05:31:22
+
+  [05:16:22] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [05:16:22] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-05-24
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Yaeko585 Lynnette27 is a 44 year-old nonhispanic asian female.
+      # Social History
+
+  [05:16:22] DOCUMENT: History and physical note
+    Status: current
+
+  [05:31:22] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2026-02-14
+
+  [04:16:22] PROVENANCE: Record activity
+    Agents: Dr. Tori754 Larson43, Dr. Tori754 Larson43
+
+================================================================================
+END OF TIMELINE (34 events)
+================================================================================

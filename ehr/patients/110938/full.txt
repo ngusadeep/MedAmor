@@ -1,0 +1,217 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Ms. Mercedes82 Concepción765 Pabón228
+  Patient ID: 110938
+  Date of Birth: 1975-11-07
+  Gender: Female
+  Race: White
+  Ethnicity: Hispanic or Latino
+  Marital Status: Never Married
+  Address: 1021 White Port, Medford, MA 02145
+  Phone: 555-497-3690
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2017-11-17
+
+  [02:23:14] VISIT: General examination of patient (procedure)
+    Provider: Dr. Lourdes258 Agosto501
+    Location: BOSTON HEALTH CARE FOR THE HOMELESS PROGRAM INC
+    Duration: 02:23:14 - 02:38:14
+
+  [02:23:14] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [02:23:14] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [02:23:14] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [02:23:14] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-11-17
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Mercedes82 is a 42 year-old hispanic white female.
+      # Social History
+
+  [02:23:14] DOCUMENT: History and physical note
+    Status: superseded
+
+  [02:38:14] CLAIM: professional
+    Amount: USD 544.80
+
+
+📅 2019-11-22
+
+  [02:23:14] VISIT: General examination of patient (procedure)
+    Provider: Dr. Lourdes258 Agosto501
+    Location: BOSTON HEALTH CARE FOR THE HOMELESS PROGRAM INC
+    Duration: 02:23:14 - 02:38:14
+
+  [02:23:14] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [02:23:14] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-11-22
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Mercedes82 is a 44 year-old hispanic white female.
+      # Social History
+
+  [02:23:14] DOCUMENT: History and physical note
+    Status: superseded
+
+  [02:38:14] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2021-08-27
+
+  [03:23:14] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Sharilyn202 Wolff180
+    Location: THE SHRINERS HOSPITAL FOR CHILDREN
+    Duration: 03:23:14 - 03:38:14
+
+  [03:23:14] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 30 mcg/0.3 mL dose
+    Status: completed
+
+  [03:23:14] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-08-27
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Mercedes82 is a 45 year-old hispanic white female.
+      # Social History
+
+  [03:23:14] DOCUMENT: History and physical note
+    Status: superseded
+
+  [03:38:14] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-09-17
+
+  [03:23:14] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Sharilyn202 Wolff180
+    Location: THE SHRINERS HOSPITAL FOR CHILDREN
+    Duration: 03:23:14 - 03:38:14
+
+  [03:23:14] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 30 mcg/0.3 mL dose
+    Status: completed
+
+  [03:23:14] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-09-17
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Mercedes82 is a 45 year-old hispanic white female.
+      # Social History
+
+  [03:23:14] DOCUMENT: History and physical note
+    Status: superseded
+
+  [03:38:14] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-11-26
+
+  [02:23:14] VISIT: General examination of patient (procedure)
+    Provider: Dr. Lourdes258 Agosto501
+    Location: BOSTON HEALTH CARE FOR THE HOMELESS PROGRAM INC
+    Duration: 02:23:14 - 02:38:14
+
+  [02:23:14] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [02:23:14] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-11-26
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Mercedes82 is a 46 year-old hispanic white female.
+      # Social History
+
+  [02:23:14] DOCUMENT: History and physical note
+    Status: superseded
+
+  [02:38:14] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2023-12-01
+
+  [02:23:14] VISIT: General examination of patient (procedure)
+    Provider: Dr. Lourdes258 Agosto501
+    Location: BOSTON HEALTH CARE FOR THE HOMELESS PROGRAM INC
+    Duration: 02:23:14 - 02:38:14
+
+  [02:23:14] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [02:23:14] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-12-01
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Mercedes82 is a 48 year-old hispanic white female.
+      # Social History
+
+  [02:23:14] DOCUMENT: History and physical note
+    Status: superseded
+
+  [02:38:14] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2025-11-07
+
+  [02:23:14] VISIT: General examination of patient (procedure)
+    Provider: Dr. Lourdes258 Agosto501
+    Location: BOSTON HEALTH CARE FOR THE HOMELESS PROGRAM INC
+    Duration: 02:23:14 - 02:38:14
+
+  [02:23:14] IMMUNIZATION: zoster vaccine, live
+    Status: completed
+
+  [02:23:14] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [02:23:14] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-11-07
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Mercedes82 is a 50 year-old hispanic white female.
+      # Social History
+
+  [02:23:14] DOCUMENT: History and physical note
+    Status: current
+
+  [02:38:14] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2026-02-13
+
+  [02:23:14] PROVENANCE: Record activity
+    Agents: Dr. Lourdes258 Agosto501, Dr. Lourdes258 Agosto501
+
+================================================================================
+END OF TIMELINE (39 events)
+================================================================================

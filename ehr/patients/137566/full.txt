@@ -1,0 +1,785 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Mrs. Shemika942 Siobhan540 Rohan584
+  Patient ID: 137566
+  Date of Birth: 1967-10-24
+  Gender: Female
+  Race: White
+  Ethnicity: Not Hispanic or Latino
+  Marital Status: Married
+  Address: 120 Friesen Port, Winchendon, MA 01475
+  Phone: 555-556-1791
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2017-10-24
+
+  [01:21:21] VISIT: General examination of patient (procedure)
+    Provider: Dr. Kizzie166 Lehner980
+    Location: MOUNTAIN VIEW FAMILY PRACTICE PC
+    Duration: 01:21:21 - 01:36:21
+
+  [01:21:21] IMMUNIZATION: zoster vaccine, live
+    Status: completed
+
+  [01:21:21] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [01:21:21] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-10-24
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Shemika942 Siobhan540 is a 50 year-old nonhispanic white female.
+      # Social History
+
+  [01:21:21] DOCUMENT: History and physical note
+    Status: superseded
+
+  [01:36:21] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2018-10-30
+
+  [01:21:21] VISIT: General examination of patient (procedure)
+    Provider: Dr. Kizzie166 Lehner980
+    Location: MOUNTAIN VIEW FAMILY PRACTICE PC
+    Duration: 01:21:21 - 01:36:21
+
+  [01:21:21] IMMUNIZATION: zoster vaccine, live
+    Status: completed
+
+  [01:21:21] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [01:21:21] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [01:21:21] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-10-30
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Shemika942 Siobhan540 is a 51 year-old nonhispanic white female.
+      # Social History
+
+  [01:21:21] DOCUMENT: History and physical note
+    Status: superseded
+
+  [01:36:21] CLAIM: professional
+    Amount: USD 544.80
+
+
+📅 2019-11-05
+
+  [00:21:21] VISIT: General examination of patient (procedure)
+    Provider: Dr. Kizzie166 Lehner980
+    Location: MOUNTAIN VIEW FAMILY PRACTICE PC
+    Duration: 00:21:21 - 00:36:21
+
+  [00:21:21] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [00:21:21] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-11-05
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Shemika942 Siobhan540 is a 52 year-old nonhispanic white female.
+      # Social History
+
+  [00:21:21] DOCUMENT: History and physical note
+    Status: superseded
+
+  [00:36:21] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2020-11-10
+
+  [00:21:21] VISIT: General examination of patient (procedure)
+    Provider: Dr. Kizzie166 Lehner980
+    Location: MOUNTAIN VIEW FAMILY PRACTICE PC
+    Duration: 00:21:21 - 00:36:21
+
+  [00:21:21] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [00:21:21] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-11-10
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Shemika942 Siobhan540 is a 53 year-old nonhispanic white female.
+      # Social History
+
+  [00:21:21] DOCUMENT: History and physical note
+    Status: superseded
+
+  [00:36:21] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2021-04-13
+
+  [01:21:21] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Antonio44 Niño185
+    Location: HENRY HEYWOOD MEMORIAL HOSPITAL
+    Duration: 01:21:21 - 01:36:21
+
+  [01:21:21] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 30 mcg/0.3 mL dose
+    Status: completed
+
+  [01:21:21] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-04-13
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Shemika942 Siobhan540 is a 53 year-old nonhispanic white female.
+      # Social History
+
+  [01:21:21] DOCUMENT: History and physical note
+    Status: superseded
+
+  [01:36:21] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-05-04
+
+  [01:21:21] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Antonio44 Niño185
+    Location: HENRY HEYWOOD MEMORIAL HOSPITAL
+    Duration: 01:21:21 - 01:36:21
+
+  [01:21:21] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 30 mcg/0.3 mL dose
+    Status: completed
+
+  [01:21:21] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-05-04
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Shemika942 Siobhan540 is a 53 year-old nonhispanic white female.
+      # Social History
+
+  [01:21:21] DOCUMENT: History and physical note
+    Status: superseded
+
+  [01:36:21] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-11-16
+
+  [00:21:21] VISIT: General examination of patient (procedure)
+    Provider: Dr. Kizzie166 Lehner980
+    Location: MOUNTAIN VIEW FAMILY PRACTICE PC
+    Duration: 00:21:21 - 00:36:21
+
+  [00:21:21] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [00:21:21] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-11-16
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Shemika942 Siobhan540 is a 54 year-old nonhispanic white female.
+      # Social History
+
+  [00:21:21] DOCUMENT: History and physical note
+    Status: superseded
+
+  [00:36:21] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2022-11-22
+
+  [00:21:21] VISIT: General examination of patient (procedure)
+    Provider: Dr. Kizzie166 Lehner980
+    Location: MOUNTAIN VIEW FAMILY PRACTICE PC
+    Duration: 00:21:21 - 00:36:21
+
+  [00:21:21] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [00:21:21] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-11-22
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Shemika942 Siobhan540 is a 55 year-old nonhispanic white female.
+      # Social History
+
+  [00:21:21] DOCUMENT: History and physical note
+    Status: superseded
+
+  [00:36:21] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2023-11-28
+
+  [00:21:21] VISIT: General examination of patient (procedure)
+    Provider: Dr. Kizzie166 Lehner980
+    Location: MOUNTAIN VIEW FAMILY PRACTICE PC
+    Duration: 00:21:21 - 00:36:21
+
+  [00:21:21] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [00:21:21] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-11-28
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Shemika942 Siobhan540 is a 56 year-old nonhispanic white female.
+      # Social History
+
+  [00:21:21] DOCUMENT: History and physical note
+    Status: superseded
+
+  [00:36:21] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2024-12-03
+
+  [00:21:21] VISIT: General examination of patient (procedure)
+    Provider: Dr. Kizzie166 Lehner980
+    Location: MOUNTAIN VIEW FAMILY PRACTICE PC
+    Duration: 00:21:21 - 00:36:21
+
+  [00:21:21] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [00:21:21] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-12-03
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Shemika942 Siobhan540 is a 57 year-old nonhispanic white female.
+      # Social History
+
+  [00:21:21] DOCUMENT: History and physical note
+    Status: superseded
+
+  [00:36:21] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2025-06-28
+
+  [01:21:21] VISIT: Periodic reevaluation and management of healthy individual (procedure)
+    Reason: Screening for malignant neoplasm of breast (procedure)
+    Provider: Dr. Antonio44 Niño185
+    Location: HENRY HEYWOOD MEMORIAL HOSPITAL
+    Duration: 01:21:21 - 13:43:16
+
+  [01:21:21] PROCEDURE: Screening mammography (procedure)
+    Status: completed
+
+  [01:21:21] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-06-28
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Shemika942 Siobhan540 is a 57 year-old nonhispanic white female.
+      # Social History
+
+  [01:21:21] DOCUMENT: History and physical note
+    Status: superseded
+
+  [01:43:02] PROCEDURE: Ultrasonography of bilateral breasts (procedure)
+    Status: completed
+
+  [01:59:04] PROCEDURE: Biopsy of breast (procedure)
+    Status: completed
+
+  [02:36:16] CONDITION: Malignant neoplasm of breast (disorder) (active)
+
+  [02:36:16] OBSERVATION: Site of distant metastasis in Breast tumor: None (qualifier value)
+
+  [02:36:16] OBSERVATION: Distant metastases.clinical [Class] Cancer: American Joint Committee on Cancer cM0 (qualifier value)
+
+  [02:36:16] OBSERVATION: Size.maximum dimension in Tumor: 4.3116 cm
+
+  [02:36:16] OBSERVATION: Primary tumor.clinical [Class] Cancer: American Joint Committee on Cancer cT2 (qualifier value)
+
+  [02:36:16] OBSERVATION: Lymph nodes with isolated tumor cells [#] in Cancer specimen by Light microscopy: 0 {#}
+
+  [02:36:16] OBSERVATION: Regional lymph nodes.clinical [Class] Cancer: American Joint Committee on Cancer cN0 (qualifier value)
+
+  [02:36:16] PROCEDURE: Human epidermal growth factor receptor 2 gene detection by fluorescence in situ hybridization (procedure)
+    Status: completed
+
+
+📅 2025-06-29
+
+  [10:36:16] PROCEDURE: Human epidermal growth factor receptor 2 gene detection by immunohistochemistry (procedure)
+    Status: completed
+
+  [13:43:16] OBSERVATION: HER2 [Presence] in Breast cancer specimen by Immune stain: Negative (qualifier value)
+
+  [13:43:16] OBSERVATION: ERBB2 gene duplication [Presence] in Breast cancer specimen by FISH: less than 1.8
+
+  [13:43:16] OBSERVATION: Estrogen receptor Ag [Presence] in Breast cancer specimen by Immune stain: Negative (qualifier value)
+
+  [13:43:16] OBSERVATION: Progesterone receptor Ag [Presence] in Breast cancer specimen by Immune stain: Negative (qualifier value)
+
+  [13:43:16] OBSERVATION: Estrogen+Progesterone receptor Ag [Presence] in Tissue by Immune stain: Negative (qualifier value)
+
+  [13:43:16] OBSERVATION: Tumor marker Cancer: Negative (qualifier value)
+
+  [13:43:16] OBSERVATION: Stage group.clinical Cancer: American Joint Committee on Cancer stage IIA (qualifier value)
+
+  [13:43:16] OBSERVATION: Stage group.clinical Cancer: Stage 2 (qualifier value)
+
+  [13:43:16] CLAIM: professional
+    Amount: USD 4228.26
+
+
+📅 2025-07-01
+
+  [17:43:16] VISIT: Discussion about treatment (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Antonio44 Niño185
+    Location: HENRY HEYWOOD MEMORIAL HOSPITAL
+    Duration: 17:43:16 - 18:42:51
+
+  [17:43:16] PROCEDURE: Discussion about options (procedure)
+    Status: completed
+
+  [17:43:16] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-07-01
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Shemika942 Siobhan540 is a 57 year-old nonhispanic white female.
+      # Social History
+
+  [17:43:16] DOCUMENT: History and physical note
+    Status: superseded
+
+  [18:42:51] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2025-07-07
+
+  [09:42:51] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Antonio44 Niño185
+    Location: HENRY HEYWOOD MEMORIAL HOSPITAL
+    Duration: 09:42:51 - 12:49:17
+
+  [09:42:51] PROCEDURE: Chemotherapy (procedure)
+    Status: completed
+
+  [09:42:51] MEDICATION PRESCRIBED: Unknown medication
+    Status: completed
+    Prescribed by: Dr. Antonio44 Niño185
+
+  [09:42:51] MEDICATION ADMINISTERED: 100 ML Epirubicin Hydrochloride 2 MG/ML Injection
+    Status: completed
+
+  [09:42:51] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-07-07
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Shemika942 Siobhan540 is a 57 year-old nonhispanic white female.
+      # Social History
+
+  [09:42:51] DOCUMENT: History and physical note
+    Status: superseded
+
+  [12:49:17] CLAIM: pharmacy
+    Amount: USD 0.87
+
+  [12:49:17] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2025-07-27
+
+  [12:49:17] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Antonio44 Niño185
+    Location: HENRY HEYWOOD MEMORIAL HOSPITAL
+    Duration: 12:49:17 - 15:38:07
+
+  [12:49:17] PROCEDURE: Chemotherapy (procedure)
+    Status: completed
+
+  [12:49:17] MEDICATION PRESCRIBED: Unknown medication
+    Status: completed
+    Prescribed by: Dr. Antonio44 Niño185
+
+  [12:49:17] MEDICATION ADMINISTERED: 100 ML Epirubicin Hydrochloride 2 MG/ML Injection
+    Status: completed
+
+  [12:49:17] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-07-27
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Shemika942 Siobhan540 is a 57 year-old nonhispanic white female.
+      # Social History
+
+  [12:49:17] DOCUMENT: History and physical note
+    Status: superseded
+
+  [15:38:07] CLAIM: pharmacy
+    Amount: USD 1.19
+
+  [15:38:07] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2025-08-17
+
+  [18:38:07] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Antonio44 Niño185
+    Location: HENRY HEYWOOD MEMORIAL HOSPITAL
+    Duration: 18:38:07 - 21:41:32
+
+  [18:38:07] PROCEDURE: Chemotherapy (procedure)
+    Status: completed
+
+  [18:38:07] MEDICATION PRESCRIBED: Unknown medication
+    Status: completed
+    Prescribed by: Dr. Antonio44 Niño185
+
+  [18:38:07] MEDICATION ADMINISTERED: 100 ML Epirubicin Hydrochloride 2 MG/ML Injection
+    Status: completed
+
+  [18:38:07] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-08-17
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Shemika942 Siobhan540 is a 57 year-old nonhispanic white female.
+      # Social History
+
+  [18:38:07] DOCUMENT: History and physical note
+    Status: superseded
+
+  [21:41:32] CLAIM: pharmacy
+    Amount: USD 0.87
+
+  [21:41:32] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2025-09-07
+
+  [18:41:32] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Antonio44 Niño185
+    Location: HENRY HEYWOOD MEMORIAL HOSPITAL
+    Duration: 18:41:32 - 22:15:01
+
+  [18:41:32] PROCEDURE: Chemotherapy (procedure)
+    Status: completed
+
+  [18:41:32] MEDICATION PRESCRIBED: Unknown medication
+    Status: completed
+    Prescribed by: Dr. Antonio44 Niño185
+
+  [18:41:32] MEDICATION ADMINISTERED: 100 ML Epirubicin Hydrochloride 2 MG/ML Injection
+    Status: completed
+
+  [18:41:32] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-09-07
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Shemika942 Siobhan540 is a 57 year-old nonhispanic white female.
+      # Social History
+
+  [18:41:32] DOCUMENT: History and physical note
+    Status: superseded
+
+  [22:15:01] CLAIM: pharmacy
+    Amount: USD 0.92
+
+  [22:15:01] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2025-09-30
+
+  [05:15:01] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Antonio44 Niño185
+    Location: HENRY HEYWOOD MEMORIAL HOSPITAL
+    Duration: 05:15:01 - 06:39:16
+
+  [05:15:01] PROCEDURE: Chemotherapy (procedure)
+    Status: completed
+
+  [05:15:01] MEDICATION PRESCRIBED: Unknown medication
+    Status: completed
+    Prescribed by: Dr. Antonio44 Niño185
+
+  [05:15:01] MEDICATION ADMINISTERED: 100 ML Epirubicin Hydrochloride 2 MG/ML Injection
+    Status: completed
+
+  [05:15:01] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-09-30
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Shemika942 Siobhan540 is a 57 year-old nonhispanic white female.
+      # Social History
+
+  [05:15:01] DOCUMENT: History and physical note
+    Status: superseded
+
+  [06:39:16] CLAIM: pharmacy
+    Amount: USD 0.87
+
+  [06:39:16] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2025-10-21
+
+  [18:39:16] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Antonio44 Niño185
+    Location: HENRY HEYWOOD MEMORIAL HOSPITAL
+    Duration: 18:39:16 - 21:35:42
+
+  [18:39:16] PROCEDURE: Chemotherapy (procedure)
+    Status: completed
+
+  [18:39:16] MEDICATION PRESCRIBED: Unknown medication
+    Status: completed
+    Prescribed by: Dr. Antonio44 Niño185
+
+  [18:39:16] MEDICATION ADMINISTERED: 100 ML Epirubicin Hydrochloride 2 MG/ML Injection
+    Status: completed
+
+  [18:39:16] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-10-21
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Shemika942 Siobhan540 is a 57 year-old nonhispanic white female.
+      # Social History
+
+  [18:39:16] DOCUMENT: History and physical note
+    Status: superseded
+
+  [21:35:42] CLAIM: pharmacy
+    Amount: USD 0.87
+
+  [21:35:42] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2025-11-13
+
+  [05:35:42] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Antonio44 Niño185
+    Location: HENRY HEYWOOD MEMORIAL HOSPITAL
+    Duration: 05:35:42 - 06:51:24
+
+  [05:35:42] PROCEDURE: Chemotherapy (procedure)
+    Status: completed
+
+  [05:35:42] MEDICATION PRESCRIBED: Unknown medication
+    Status: completed
+    Prescribed by: Dr. Antonio44 Niño185
+
+  [05:35:42] MEDICATION ADMINISTERED: 100 ML Epirubicin Hydrochloride 2 MG/ML Injection
+    Status: completed
+
+  [05:35:42] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-11-13
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Shemika942 Siobhan540 is a 58 year-old nonhispanic white female.
+      # Social History
+
+  [05:35:42] DOCUMENT: History and physical note
+    Status: superseded
+
+  [06:51:24] CLAIM: pharmacy
+    Amount: USD 1.19
+
+  [06:51:24] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2025-12-09
+
+  [00:21:21] VISIT: General examination of patient (procedure)
+    Provider: Dr. Kizzie166 Lehner980
+    Location: MOUNTAIN VIEW FAMILY PRACTICE PC
+    Duration: 00:21:21 - 00:36:21
+
+  [00:21:21] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [00:21:21] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-12-09
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Shemika942 Siobhan540 is a 58 year-old nonhispanic white female.
+      # Social History
+
+  [00:21:21] DOCUMENT: History and physical note
+    Status: superseded
+
+  [00:36:21] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2025-12-16
+
+  [00:21:21] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Antonio44 Niño185
+    Location: HENRY HEYWOOD MEMORIAL HOSPITAL
+    Duration: 00:21:21 - 04:18:14
+
+  [00:21:21] PROCEDURE: Chemotherapy (procedure)
+    Status: completed
+
+  [00:21:21] MEDICATION PRESCRIBED: Unknown medication
+    Status: completed
+    Prescribed by: Dr. Antonio44 Niño185
+
+  [00:21:21] MEDICATION ADMINISTERED: 100 ML Epirubicin Hydrochloride 2 MG/ML Injection
+    Status: completed
+
+  [00:21:21] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-12-16
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Shemika942 Siobhan540 is a 58 year-old nonhispanic white female.
+      # Social History
+
+  [00:21:21] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:18:14] CLAIM: pharmacy
+    Amount: USD 1.19
+
+  [04:18:14] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2026-01-15
+
+  [04:18:14] OBSERVATION: Response to cancer treatment: Improving (qualifier value)
+
+  [04:18:14] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Antonio44 Niño185
+    Location: HENRY HEYWOOD MEMORIAL HOSPITAL
+    Duration: 04:18:14 - 08:21:14
+
+  [04:18:14] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2026-01-15
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Shemika942 Siobhan540 is a 58 year-old nonhispanic white female.
+      # Social History
+
+  [04:18:14] DOCUMENT: History and physical note
+    Status: superseded
+
+  [05:50:14] PROCEDURE: Excision of lesion of breast (procedure)
+    Status: completed
+
+
+📅 2026-01-21
+
+  [08:21:14] CLAIM: institutional
+    Amount: USD 519.11
+
+
+📅 2026-01-30
+
+  [16:21:14] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Antonio44 Niño185
+    Location: HENRY HEYWOOD MEMORIAL HOSPITAL
+    Duration: 16:21:14 - 18:18:14
+
+  [16:21:14] PROCEDURE: Chemotherapy (procedure)
+    Status: completed
+
+  [16:21:14] MEDICATION PRESCRIBED: Unknown medication
+    Status: completed
+    Prescribed by: Dr. Antonio44 Niño185
+
+  [16:21:14] MEDICATION ADMINISTERED: Paclitaxel 100 MG Injection
+    Status: completed
+
+  [16:21:14] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2026-01-30
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Shemika942 Siobhan540 is a 58 year-old nonhispanic white female.
+      # Social History
+
+  [16:21:14] DOCUMENT: History and physical note
+    Status: current
+
+  [18:18:14] CLAIM: pharmacy
+    Amount: USD 0.91
+
+  [18:18:14] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2026-02-10
+
+  [00:21:21] PROVENANCE: Record activity
+    Agents: Dr. Antonio44 Niño185, Dr. Antonio44 Niño185
+
+================================================================================
+END OF TIMELINE (166 events)
+================================================================================

@@ -1,0 +1,165 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Ms. Roselee899 Pam996 Schulist381
+  Patient ID: 131101
+  Date of Birth: 1983-07-06
+  Gender: Female
+  Race: White
+  Ethnicity: Not Hispanic or Latino
+  Marital Status: Never Married
+  Address: 759 Kihn Junction Apt 92, Everett, MA 02149
+  Phone: 555-254-7856
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2017-09-20
+
+  [08:56:34] VISIT: General examination of patient (procedure)
+    Provider: Dr. Raul814 Considine820
+    Location: NORTH END COMMUNITY HEALTH COMMITTEE INC
+    Duration: 08:56:34 - 09:11:34
+
+  [08:56:34] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [08:56:34] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-09-20
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Roselee899 is a 34 year-old nonhispanic white female.
+      # Social History
+
+  [08:56:34] DOCUMENT: History and physical note
+    Status: superseded
+
+  [09:11:34] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2020-09-23
+
+  [08:56:34] VISIT: General examination of patient (procedure)
+    Provider: Dr. Raul814 Considine820
+    Location: NORTH END COMMUNITY HEALTH COMMITTEE INC
+    Duration: 08:56:34 - 09:11:34
+
+  [08:56:34] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [08:56:34] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-09-23
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Roselee899 is a 37 year-old nonhispanic white female.
+      # Social History
+
+  [08:56:34] DOCUMENT: History and physical note
+    Status: superseded
+
+  [09:11:34] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2021-08-11
+
+  [08:56:34] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Sharilyn202 Wolff180
+    Location: THE SHRINERS HOSPITAL FOR CHILDREN
+    Duration: 08:56:34 - 09:11:34
+
+  [08:56:34] IMMUNIZATION: COVID-19 vaccine, vector-nr, rS-Ad26, PF, 0.5 mL
+    Status: completed
+
+  [08:56:34] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-08-11
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Roselee899 is a 38 year-old nonhispanic white female.
+      # Social History
+
+  [08:56:34] DOCUMENT: History and physical note
+    Status: superseded
+
+  [09:11:34] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2023-07-12
+
+  [08:56:34] VISIT: General examination of patient (procedure)
+    Provider: Dr. Raul814 Considine820
+    Location: NORTH END COMMUNITY HEALTH COMMITTEE INC
+    Duration: 08:56:34 - 09:11:34
+
+  [08:56:34] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [08:56:34] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [08:56:34] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-07-12
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Roselee899 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [08:56:34] DOCUMENT: History and physical note
+    Status: superseded
+
+  [09:11:34] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2025-07-16
+
+  [08:56:34] VISIT: General examination of patient (procedure)
+    Provider: Dr. Raul814 Considine820
+    Location: NORTH END COMMUNITY HEALTH COMMITTEE INC
+    Duration: 08:56:34 - 09:11:34
+
+  [08:56:34] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [08:56:34] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [08:56:34] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [08:56:34] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-07-16
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Roselee899 is a 42 year-old nonhispanic white female.
+      # Social History
+
+  [08:56:34] DOCUMENT: History and physical note
+    Status: current
+
+  [09:11:34] CLAIM: professional
+    Amount: USD 544.80
+
+
+📅 2026-02-11
+
+  [07:56:34] PROVENANCE: Record activity
+    Agents: Dr. Raul814 Considine820, Dr. Raul814 Considine820
+
+================================================================================
+END OF TIMELINE (29 events)
+================================================================================

@@ -1,0 +1,191 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Mrs. Micheal721 Crissy767 Ratke343
+  Patient ID: 112370
+  Date of Birth: 1983-08-08
+  Gender: Female
+  Race: White
+  Ethnicity: Not Hispanic or Latino
+  Marital Status: Married
+  Address: 788 Kris Trailer Apt 16, Wellesley, MA 02482
+  Phone: 555-975-8822
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2017-10-23
+
+  [08:32:57] VISIT: General examination of patient (procedure)
+    Provider: Dr. Irene779 Benavides239
+    Location: INTERNISTS ASSOCIATED
+    Duration: 08:32:57 - 08:47:57
+
+  [08:32:57] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [08:32:57] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-10-23
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Micheal721 Crissy767 is a 34 year-old nonhispanic white female.
+      # Social History
+
+  [08:32:57] DOCUMENT: History and physical note
+    Status: superseded
+
+  [08:47:57] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2020-10-26
+
+  [08:32:57] VISIT: General examination of patient (procedure)
+    Provider: Dr. Irene779 Benavides239
+    Location: INTERNISTS ASSOCIATED
+    Duration: 08:32:57 - 08:47:57
+
+  [08:32:57] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [08:32:57] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-10-26
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Micheal721 Crissy767 is a 37 year-old nonhispanic white female.
+      # Social History
+
+  [08:32:57] DOCUMENT: History and physical note
+    Status: superseded
+
+  [08:47:57] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2021-07-05
+
+  [08:32:57] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Eleni953 Franecki195
+    Location: BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM, INC.
+    Duration: 08:32:57 - 08:47:57
+
+  [08:32:57] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+    Status: completed
+
+  [08:32:57] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-07-05
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Micheal721 Crissy767 is a 37 year-old nonhispanic white female.
+      # Social History
+
+  [08:32:57] DOCUMENT: History and physical note
+    Status: superseded
+
+  [08:47:57] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-08-02
+
+  [08:32:57] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Eleni953 Franecki195
+    Location: BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM, INC.
+    Duration: 08:32:57 - 08:47:57
+
+  [08:32:57] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+    Status: completed
+
+  [08:32:57] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-08-02
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Micheal721 Crissy767 is a 37 year-old nonhispanic white female.
+      # Social History
+
+  [08:32:57] DOCUMENT: History and physical note
+    Status: superseded
+
+  [08:47:57] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2023-08-14
+
+  [08:32:57] VISIT: General examination of patient (procedure)
+    Provider: Dr. Irene779 Benavides239
+    Location: INTERNISTS ASSOCIATED
+    Duration: 08:32:57 - 08:47:57
+
+  [08:32:57] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [08:32:57] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [08:32:57] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-08-14
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Micheal721 Crissy767 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [08:32:57] DOCUMENT: History and physical note
+    Status: superseded
+
+  [08:47:57] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2025-08-18
+
+  [08:32:57] VISIT: General examination of patient (procedure)
+    Provider: Dr. Irene779 Benavides239
+    Location: INTERNISTS ASSOCIATED
+    Duration: 08:32:57 - 08:47:57
+
+  [08:32:57] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [08:32:57] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [08:32:57] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [08:32:57] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-08-18
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Micheal721 Crissy767 is a 42 year-old nonhispanic white female.
+      # Social History
+
+  [08:32:57] DOCUMENT: History and physical note
+    Status: current
+
+  [08:47:57] CLAIM: professional
+    Amount: USD 544.80
+
+
+📅 2026-02-16
+
+  [07:32:57] PROVENANCE: Record activity
+    Agents: Dr. Irene779 Benavides239, Dr. Irene779 Benavides239
+
+================================================================================
+END OF TIMELINE (34 events)
+================================================================================

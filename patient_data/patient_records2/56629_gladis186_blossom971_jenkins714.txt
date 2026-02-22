@@ -1,0 +1,139 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Mrs. Gladis186 Blossom971 Jenkins714
+  Patient ID: 56629
+  Date of Birth: 1980-08-18
+  Gender: Female
+  Race: White
+  Ethnicity: Not Hispanic or Latino
+  Marital Status: Married
+  Address: 342 Ferry Mews Unit 98, Milford, MA 01757
+  Phone: 555-822-2014
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2017-11-06
+
+  [15:25:40] VISIT: General examination of patient (procedure)
+    Provider: Dr. Bea654 Schiller186
+    Location: PRIMARY CARE FOR ADULTS PLLC
+    Duration: 15:25:40 - 15:40:40
+
+  [15:25:40] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [15:25:40] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-11-06
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Gladis186 Blossom971 is a 37 year-old nonhispanic white female.
+      # Social History
+
+  [15:25:40] DOCUMENT: History and physical note
+    Status: superseded
+
+  [15:40:40] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2020-08-24
+
+  [16:25:40] VISIT: General examination of patient (procedure)
+    Provider: Dr. Bea654 Schiller186
+    Location: PRIMARY CARE FOR ADULTS PLLC
+    Duration: 16:25:40 - 16:40:40
+
+  [16:25:40] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [16:25:40] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [16:25:40] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-08-24
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Gladis186 Blossom971 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [16:25:40] DOCUMENT: History and physical note
+    Status: superseded
+
+  [16:40:40] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2022-08-29
+
+  [16:25:40] VISIT: General examination of patient (procedure)
+    Provider: Dr. Bea654 Schiller186
+    Location: PRIMARY CARE FOR ADULTS PLLC
+    Duration: 16:25:40 - 16:40:40
+
+  [16:25:40] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [16:25:40] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [16:25:40] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [16:25:40] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-08-29
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Gladis186 Blossom971 is a 42 year-old nonhispanic white female.
+      # Social History
+
+  [16:25:40] DOCUMENT: History and physical note
+    Status: superseded
+
+  [16:40:40] CLAIM: professional
+    Amount: USD 544.80
+
+
+📅 2024-09-02
+
+  [16:25:40] VISIT: General examination of patient (procedure)
+    Provider: Dr. Bea654 Schiller186
+    Location: PRIMARY CARE FOR ADULTS PLLC
+    Duration: 16:25:40 - 16:40:40
+
+  [16:25:40] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [16:25:40] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-09-02
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Gladis186 Blossom971 is a 44 year-old nonhispanic white female.
+      # Social History
+
+  [16:25:40] DOCUMENT: History and physical note
+    Status: current
+
+  [16:40:40] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2026-02-09
+
+  [15:25:40] PROVENANCE: Record activity
+    Agents: Dr. Bea654 Schiller186, Dr. Bea654 Schiller186
+
+================================================================================
+END OF TIMELINE (24 events)
+================================================================================

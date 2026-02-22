@@ -1,0 +1,159 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Mrs. Sandy901 Erika442 Hettinger594
+  Patient ID: 133297
+  Date of Birth: 1984-06-13
+  Gender: Female
+  Race: White
+  Ethnicity: Not Hispanic or Latino
+  Marital Status: Married
+  Address: 471 Kihn Forge Suite 39, Natick, MA 00000
+  Phone: 555-739-6553
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2018-08-29
+
+  [14:49:42] VISIT: General examination of patient (procedure)
+    Provider: Dr. Irene779 Kirlin939
+    Location: NEEDHAM FAMILY PRACTICE ASSOC. P.C.
+    Duration: 14:49:42 - 15:04:42
+
+  [14:49:42] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [14:49:42] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-08-29
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Sandy901 Erika442 is a 34 year-old nonhispanic white female.
+      # Social History
+
+  [14:49:42] DOCUMENT: History and physical note
+    Status: superseded
+
+  [15:04:42] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2021-09-01
+
+  [14:49:42] VISIT: General examination of patient (procedure)
+    Provider: Dr. Irene779 Kirlin939
+    Location: NEEDHAM FAMILY PRACTICE ASSOC. P.C.
+    Duration: 14:49:42 - 15:04:42
+
+  [14:49:42] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [14:49:42] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-09-01
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Sandy901 Erika442 is a 37 year-old nonhispanic white female.
+      # Social History
+
+  [14:49:42] DOCUMENT: History and physical note
+    Status: superseded
+
+  [15:04:42] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2021-11-24
+
+  [13:49:42] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Gerry91 Block661
+    Location: VHS ACQUISITION SUBSIDIARY NUMBER 9, INC.
+    Duration: 13:49:42 - 14:04:42
+
+  [13:49:42] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+    Status: completed
+
+  [13:49:42] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-11-24
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Sandy901 Erika442 is a 37 year-old nonhispanic white female.
+      # Social History
+
+  [13:49:42] DOCUMENT: History and physical note
+    Status: superseded
+
+  [14:04:42] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-12-22
+
+  [13:49:42] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Gerry91 Block661
+    Location: VHS ACQUISITION SUBSIDIARY NUMBER 9, INC.
+    Duration: 13:49:42 - 14:04:42
+
+  [13:49:42] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+    Status: completed
+
+  [13:49:42] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-12-22
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Sandy901 Erika442 is a 37 year-old nonhispanic white female.
+      # Social History
+
+  [13:49:42] DOCUMENT: History and physical note
+    Status: superseded
+
+  [14:04:42] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2024-06-19
+
+  [14:49:42] VISIT: General examination of patient (procedure)
+    Provider: Dr. Irene779 Kirlin939
+    Location: NEEDHAM FAMILY PRACTICE ASSOC. P.C.
+    Duration: 14:49:42 - 15:04:42
+
+  [14:49:42] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [14:49:42] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [14:49:42] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-06-19
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Sandy901 Erika442 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [14:49:42] DOCUMENT: History and physical note
+    Status: current
+
+  [15:04:42] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2026-02-11
+
+  [13:49:42] PROVENANCE: Record activity
+    Agents: Dr. Irene779 Kirlin939, Dr. Irene779 Kirlin939
+
+================================================================================
+END OF TIMELINE (27 events)
+================================================================================

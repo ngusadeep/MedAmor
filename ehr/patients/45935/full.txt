@@ -1,0 +1,322 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Mrs. Elvira561 Dickinson688
+  Patient ID: 45935
+  Date of Birth: 1967-01-06
+  Gender: Female
+  Race: White
+  Ethnicity: Not Hispanic or Latino
+  Marital Status: Married
+  Address: 529 Nicolas Rapid Apt 37, Braintree, MA 02184
+  Phone: 555-780-1251
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2017-01-06
+
+  [23:58:08] VISIT: General examination of patient (procedure)
+    Provider: Dr. Josephine273 Collier206
+    Location: BRAINTREE FAMILY PHYSICIAN INC
+    Duration: 23:58:08 - 00:13:08
+
+  [23:58:08] IMMUNIZATION: zoster vaccine, live
+    Status: completed
+
+  [23:58:08] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [23:58:08] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-01-06
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Elvira561 is a 50 year-old nonhispanic white female.
+      # Social History
+
+  [23:58:08] DOCUMENT: History and physical note
+    Status: superseded
+
+
+📅 2017-01-07
+
+  [00:13:08] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2018-01-12
+
+  [23:58:08] VISIT: General examination of patient (procedure)
+    Provider: Dr. Josephine273 Collier206
+    Location: BRAINTREE FAMILY PHYSICIAN INC
+    Duration: 23:58:08 - 00:13:08
+
+  [23:58:08] IMMUNIZATION: zoster vaccine, live
+    Status: completed
+
+  [23:58:08] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [23:58:08] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [23:58:08] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-01-12
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Elvira561 is a 51 year-old nonhispanic white female.
+      # Social History
+
+  [23:58:08] DOCUMENT: History and physical note
+    Status: superseded
+
+
+📅 2018-01-13
+
+  [00:13:08] CLAIM: professional
+    Amount: USD 544.80
+
+
+📅 2019-01-18
+
+  [23:58:08] VISIT: General examination of patient (procedure)
+    Provider: Dr. Josephine273 Collier206
+    Location: BRAINTREE FAMILY PHYSICIAN INC
+    Duration: 23:58:08 - 00:13:08
+
+  [23:58:08] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [23:58:08] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-01-18
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Elvira561 is a 52 year-old nonhispanic white female.
+      # Social History
+
+  [23:58:08] DOCUMENT: History and physical note
+    Status: superseded
+
+
+📅 2019-01-19
+
+  [00:13:08] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2020-01-24
+
+  [23:58:08] VISIT: General examination of patient (procedure)
+    Provider: Dr. Josephine273 Collier206
+    Location: BRAINTREE FAMILY PHYSICIAN INC
+    Duration: 23:58:08 - 00:13:08
+
+  [23:58:08] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [23:58:08] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-01-24
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Elvira561 is a 53 year-old nonhispanic white female.
+      # Social History
+
+  [23:58:08] DOCUMENT: History and physical note
+    Status: superseded
+
+
+📅 2020-01-25
+
+  [00:13:08] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2021-01-29
+
+  [23:58:08] VISIT: General examination of patient (procedure)
+    Provider: Dr. Josephine273 Collier206
+    Location: BRAINTREE FAMILY PHYSICIAN INC
+    Duration: 23:58:08 - 00:13:08
+
+  [23:58:08] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [23:58:08] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-01-29
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Elvira561 is a 54 year-old nonhispanic white female.
+      # Social History
+
+  [23:58:08] DOCUMENT: History and physical note
+    Status: superseded
+
+
+📅 2021-01-30
+
+  [00:13:08] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2021-04-10
+
+  [00:58:08] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. January966 Roberts511
+    Location: SOUTH SHORE HOSPITAL INC.
+    Duration: 00:58:08 - 01:13:08
+
+  [00:58:08] IMMUNIZATION: COVID-19 vaccine, vector-nr, rS-Ad26, PF, 0.5 mL
+    Status: completed
+
+  [00:58:08] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-04-10
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Elvira561 is a 54 year-old nonhispanic white female.
+      # Social History
+
+  [00:58:08] DOCUMENT: History and physical note
+    Status: superseded
+
+  [01:13:08] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2022-02-04
+
+  [23:58:08] VISIT: General examination of patient (procedure)
+    Provider: Dr. Josephine273 Collier206
+    Location: BRAINTREE FAMILY PHYSICIAN INC
+    Duration: 23:58:08 - 00:13:08
+
+  [23:58:08] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [23:58:08] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-02-04
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Elvira561 is a 55 year-old nonhispanic white female.
+      # Social History
+
+  [23:58:08] DOCUMENT: History and physical note
+    Status: superseded
+
+
+📅 2022-02-05
+
+  [00:13:08] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2023-02-10
+
+  [23:58:08] VISIT: General examination of patient (procedure)
+    Provider: Dr. Josephine273 Collier206
+    Location: BRAINTREE FAMILY PHYSICIAN INC
+    Duration: 23:58:08 - 00:13:08
+
+  [23:58:08] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [23:58:08] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-02-10
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Elvira561 is a 56 year-old nonhispanic white female.
+      # Social History
+
+  [23:58:08] DOCUMENT: History and physical note
+    Status: superseded
+
+
+📅 2023-02-11
+
+  [00:13:08] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2024-02-16
+
+  [23:58:08] VISIT: General examination of patient (procedure)
+    Provider: Dr. Josephine273 Collier206
+    Location: BRAINTREE FAMILY PHYSICIAN INC
+    Duration: 23:58:08 - 00:13:08
+
+  [23:58:08] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [23:58:08] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-02-16
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Elvira561 is a 57 year-old nonhispanic white female.
+      # Social History
+
+  [23:58:08] DOCUMENT: History and physical note
+    Status: superseded
+
+
+📅 2024-02-17
+
+  [00:13:08] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2025-02-21
+
+  [23:58:08] VISIT: General examination of patient (procedure)
+    Provider: Dr. Josephine273 Collier206
+    Location: BRAINTREE FAMILY PHYSICIAN INC
+    Duration: 23:58:08 - 00:13:08
+
+  [23:58:08] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [23:58:08] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-02-21
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Elvira561 is a 58 year-old nonhispanic white female.
+      # Social History
+
+  [23:58:08] DOCUMENT: History and physical note
+    Status: current
+
+
+📅 2025-02-22
+
+  [00:13:08] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2026-02-13
+
+  [23:58:08] PROVENANCE: Record activity
+    Agents: Dr. Josephine273 Collier206, Dr. Josephine273 Collier206
+
+================================================================================
+END OF TIMELINE (54 events)
+================================================================================

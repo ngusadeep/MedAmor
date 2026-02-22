@@ -1,0 +1,2297 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Mrs. Salena230 Lue764 Steuber698
+  Patient ID: 132492
+  Date of Birth: 1972-04-16
+  Gender: Female
+  Race: White
+  Ethnicity: Not Hispanic or Latino
+  Marital Status: Married
+  Address: 103 Tillman Quay Suite 16, Pembroke, MA 00000
+  Phone: 555-251-2165
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2016-05-01
+
+  [07:40:44] VISIT: General examination of patient (procedure)
+    Provider: Dr. Derek111 Erdman779
+    Location: PRIMARY & PREVENTIVE CARE, INC.
+    Duration: 07:40:44 - 07:55:44
+
+  [07:40:44] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [07:40:44] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-05-01
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Salena230 Lue764 is a 44 year-old nonhispanic white female.
+      # Social History
+
+  [07:40:44] DOCUMENT: History and physical note
+    Status: superseded
+
+  [07:55:44] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2017-06-11
+
+  [07:40:44] VISIT: Periodic reevaluation and management of healthy individual (procedure)
+    Reason: Screening for malignant neoplasm of breast (procedure)
+    Provider: Dr. January966 Roberts511
+    Location: SOUTH SHORE HOSPITAL INC.
+    Duration: 07:40:44 - 10:08:06
+
+  [07:40:44] PROCEDURE: Screening mammography (procedure)
+    Status: completed
+
+  [07:40:44] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-06-11
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Salena230 Lue764 is a 45 year-old nonhispanic white female.
+      # Social History
+
+  [07:40:44] DOCUMENT: History and physical note
+    Status: superseded
+
+  [08:05:16] PROCEDURE: Ultrasonography of bilateral breasts (procedure)
+    Status: completed
+
+  [08:29:36] PROCEDURE: Biopsy of breast (procedure)
+    Status: completed
+
+  [09:08:06] CONDITION: Malignant neoplasm of breast (disorder) (active)
+
+  [09:08:06] OBSERVATION: Site of distant metastasis in Breast tumor: None (qualifier value)
+
+  [09:08:06] OBSERVATION: Distant metastases.clinical [Class] Cancer: American Joint Committee on Cancer cM0 (qualifier value)
+
+  [09:08:06] OBSERVATION: Size.maximum dimension in Tumor: 1.54 cm
+
+  [09:08:06] OBSERVATION: Primary tumor.clinical [Class] Cancer: American Joint Committee on Cancer cT1 (qualifier value)
+
+  [09:08:06] OBSERVATION: Lymph nodes with isolated tumor cells [#] in Cancer specimen by Light microscopy: 0 {#}
+
+  [09:08:06] OBSERVATION: Regional lymph nodes.clinical [Class] Cancer: American Joint Committee on Cancer cN0 (qualifier value)
+
+  [09:08:06] PROCEDURE: Human epidermal growth factor receptor 2 gene detection by fluorescence in situ hybridization (procedure)
+    Status: completed
+
+
+📅 2017-06-13
+
+  [08:08:06] PROCEDURE: Human epidermal growth factor receptor 2 gene detection by immunohistochemistry (procedure)
+    Status: completed
+
+  [10:08:06] OBSERVATION: HER2 [Presence] in Breast cancer specimen by Immune stain: Negative (qualifier value)
+
+  [10:08:06] OBSERVATION: ERBB2 gene duplication [Presence] in Breast cancer specimen by FISH: less than 1.8
+
+  [10:08:06] OBSERVATION: Estrogen receptor Ag [Presence] in Breast cancer specimen by Immune stain: Positive (qualifier value)
+
+  [10:08:06] OBSERVATION: Progesterone receptor Ag [Presence] in Breast cancer specimen by Immune stain: Positive (qualifier value)
+
+  [10:08:06] OBSERVATION: Estrogen+Progesterone receptor Ag [Presence] in Tissue by Immune stain: Positive (qualifier value)
+
+  [10:08:06] OBSERVATION: Stage group.clinical Cancer: American Joint Committee on Cancer stage IA (qualifier value)
+
+  [10:08:06] OBSERVATION: Stage group.clinical Cancer: Stage 1 (qualifier value)
+
+  [10:08:06] CLAIM: professional
+    Amount: USD 7569.19
+
+
+📅 2017-06-14
+
+  [13:08:06] VISIT: Discussion about treatment (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. January966 Roberts511
+    Location: SOUTH SHORE HOSPITAL INC.
+    Duration: 13:08:06 - 14:07:40
+
+  [13:08:06] PROCEDURE: Discussion about options (procedure)
+    Status: completed
+
+  [13:08:06] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-06-14
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Salena230 Lue764 is a 45 year-old nonhispanic white female.
+      # Social History
+
+  [13:08:06] DOCUMENT: History and physical note
+    Status: superseded
+
+  [14:07:40] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2017-06-19
+
+  [04:07:40] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. January966 Roberts511
+    Location: SOUTH SHORE HOSPITAL INC.
+    Duration: 04:07:40 - 06:50:40
+
+  [04:07:40] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-06-19
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Salena230 Lue764 is a 45 year-old nonhispanic white female.
+      # Social History
+
+  [04:07:40] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:48:40] PROCEDURE: Excision of lesion of breast (procedure)
+    Status: completed
+
+
+📅 2017-06-22
+
+  [06:50:40] CLAIM: institutional
+    Amount: USD 519.11
+
+
+📅 2017-07-01
+
+  [08:50:40] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. January966 Roberts511
+    Location: SOUTH SHORE HOSPITAL INC.
+    Duration: 08:50:40 - 09:08:44
+
+  [08:50:40] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [08:50:40] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-07-01
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Salena230 Lue764 is a 45 year-old nonhispanic white female.
+      # Social History
+
+  [08:50:40] DOCUMENT: History and physical note
+    Status: superseded
+
+  [09:08:44] CLAIM: professional
+    Amount: USD 512.63
+
+
+📅 2017-07-02
+
+  [10:28:44] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. January966 Roberts511
+    Location: SOUTH SHORE HOSPITAL INC.
+    Duration: 10:28:44 - 10:48:50
+
+  [10:28:44] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [10:28:44] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-07-02
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Salena230 Lue764 is a 45 year-old nonhispanic white female.
+      # Social History
+
+  [10:28:44] DOCUMENT: History and physical note
+    Status: superseded
+
+  [10:48:50] CLAIM: professional
+    Amount: USD 1359.90
+
+
+📅 2017-07-03
+
+  [14:03:50] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. January966 Roberts511
+    Location: SOUTH SHORE HOSPITAL INC.
+    Duration: 14:03:50 - 14:28:43
+
+  [14:03:50] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [14:03:50] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-07-03
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Salena230 Lue764 is a 45 year-old nonhispanic white female.
+      # Social History
+
+  [14:03:50] DOCUMENT: History and physical note
+    Status: superseded
+
+  [14:28:43] CLAIM: professional
+    Amount: USD 1359.90
+
+
+📅 2017-07-04
+
+  [22:00:43] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. January966 Roberts511
+    Location: SOUTH SHORE HOSPITAL INC.
+    Duration: 22:00:43 - 22:25:04
+
+  [22:00:43] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [22:00:43] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-07-04
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Salena230 Lue764 is a 45 year-old nonhispanic white female.
+      # Social History
+
+  [22:00:43] DOCUMENT: History and physical note
+    Status: superseded
+
+  [22:25:04] CLAIM: professional
+    Amount: USD 512.63
+
+
+📅 2017-07-06
+
+  [07:47:04] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. January966 Roberts511
+    Location: SOUTH SHORE HOSPITAL INC.
+    Duration: 07:47:04 - 08:17:44
+
+  [07:47:04] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [07:47:04] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-07-06
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Salena230 Lue764 is a 45 year-old nonhispanic white female.
+      # Social History
+
+  [07:47:04] DOCUMENT: History and physical note
+    Status: superseded
+
+  [08:17:44] CLAIM: professional
+    Amount: USD 512.63
+
+
+📅 2017-07-07
+
+  [14:51:44] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. January966 Roberts511
+    Location: SOUTH SHORE HOSPITAL INC.
+    Duration: 14:51:44 - 15:31:15
+
+  [14:51:44] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [14:51:44] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-07-07
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Salena230 Lue764 is a 45 year-old nonhispanic white female.
+      # Social History
+
+  [14:51:44] DOCUMENT: History and physical note
+    Status: superseded
+
+  [15:31:15] CLAIM: professional
+    Amount: USD 512.63
+
+
+📅 2017-07-08
+
+  [15:36:15] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. January966 Roberts511
+    Location: SOUTH SHORE HOSPITAL INC.
+    Duration: 15:36:15 - 15:59:55
+
+  [15:36:15] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [15:36:15] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-07-08
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Salena230 Lue764 is a 45 year-old nonhispanic white female.
+      # Social History
+
+  [15:36:15] DOCUMENT: History and physical note
+    Status: superseded
+
+  [15:59:55] CLAIM: professional
+    Amount: USD 1359.90
+
+
+📅 2017-07-09
+
+  [21:15:55] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. January966 Roberts511
+    Location: SOUTH SHORE HOSPITAL INC.
+    Duration: 21:15:55 - 21:51:14
+
+  [21:15:55] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [21:15:55] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-07-09
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Salena230 Lue764 is a 45 year-old nonhispanic white female.
+      # Social History
+
+  [21:15:55] DOCUMENT: History and physical note
+    Status: superseded
+
+  [21:51:14] CLAIM: professional
+    Amount: USD 1359.90
+
+
+📅 2017-07-10
+
+  [23:31:14] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. January966 Roberts511
+    Location: SOUTH SHORE HOSPITAL INC.
+    Duration: 23:31:14 - 23:53:22
+
+  [23:31:14] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [23:31:14] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-07-10
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Salena230 Lue764 is a 45 year-old nonhispanic white female.
+      # Social History
+
+  [23:31:14] DOCUMENT: History and physical note
+    Status: superseded
+
+  [23:53:22] CLAIM: professional
+    Amount: USD 1347.91
+
+
+📅 2017-07-12
+
+  [04:12:22] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. January966 Roberts511
+    Location: SOUTH SHORE HOSPITAL INC.
+    Duration: 04:12:22 - 04:27:22
+
+  [04:12:22] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [04:12:22] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-07-12
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Salena230 Lue764 is a 45 year-old nonhispanic white female.
+      # Social History
+
+  [04:12:22] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:27:22] CLAIM: professional
+    Amount: USD 1359.90
+
+
+📅 2017-07-13
+
+  [13:03:22] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. January966 Roberts511
+    Location: SOUTH SHORE HOSPITAL INC.
+    Duration: 13:03:22 - 13:25:41
+
+  [13:03:22] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [13:03:22] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-07-13
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Salena230 Lue764 is a 45 year-old nonhispanic white female.
+      # Social History
+
+  [13:03:22] DOCUMENT: History and physical note
+    Status: superseded
+
+  [13:25:41] CLAIM: professional
+    Amount: USD 793.15
+
+
+📅 2017-07-15
+
+  [00:42:41] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. January966 Roberts511
+    Location: SOUTH SHORE HOSPITAL INC.
+    Duration: 00:42:41 - 01:08:01
+
+  [00:42:41] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [00:42:41] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-07-15
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Salena230 Lue764 is a 45 year-old nonhispanic white female.
+      # Social History
+
+  [00:42:41] DOCUMENT: History and physical note
+    Status: superseded
+
+  [01:08:01] CLAIM: professional
+    Amount: USD 1359.90
+
+
+📅 2017-07-16
+
+  [05:04:01] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. January966 Roberts511
+    Location: SOUTH SHORE HOSPITAL INC.
+    Duration: 05:04:01 - 05:31:23
+
+  [05:04:01] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [05:04:01] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-07-16
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Salena230 Lue764 is a 45 year-old nonhispanic white female.
+      # Social History
+
+  [05:04:01] DOCUMENT: History and physical note
+    Status: superseded
+
+  [05:31:23] CLAIM: professional
+    Amount: USD 846.19
+
+
+📅 2017-07-17
+
+  [16:14:23] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. January966 Roberts511
+    Location: SOUTH SHORE HOSPITAL INC.
+    Duration: 16:14:23 - 16:50:19
+
+  [16:14:23] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [16:14:23] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-07-17
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Salena230 Lue764 is a 45 year-old nonhispanic white female.
+      # Social History
+
+  [16:14:23] DOCUMENT: History and physical note
+    Status: superseded
+
+  [16:50:19] CLAIM: professional
+    Amount: USD 512.63
+
+
+📅 2017-07-18
+
+  [21:52:19] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. January966 Roberts511
+    Location: SOUTH SHORE HOSPITAL INC.
+    Duration: 21:52:19 - 22:31:57
+
+  [21:52:19] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [21:52:19] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-07-18
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Salena230 Lue764 is a 45 year-old nonhispanic white female.
+      # Social History
+
+  [21:52:19] DOCUMENT: History and physical note
+    Status: superseded
+
+  [22:31:57] CLAIM: professional
+    Amount: USD 1359.90
+
+
+📅 2017-07-20
+
+  [06:38:57] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. January966 Roberts511
+    Location: SOUTH SHORE HOSPITAL INC.
+    Duration: 06:38:57 - 07:00:26
+
+  [06:38:57] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [06:38:57] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-07-20
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Salena230 Lue764 is a 45 year-old nonhispanic white female.
+      # Social History
+
+  [06:38:57] DOCUMENT: History and physical note
+    Status: superseded
+
+  [07:00:26] CLAIM: professional
+    Amount: USD 1359.90
+
+
+📅 2017-07-21
+
+  [13:39:26] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. January966 Roberts511
+    Location: SOUTH SHORE HOSPITAL INC.
+    Duration: 13:39:26 - 14:16:19
+
+  [13:39:26] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [13:39:26] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-07-21
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Salena230 Lue764 is a 45 year-old nonhispanic white female.
+      # Social History
+
+  [13:39:26] DOCUMENT: History and physical note
+    Status: superseded
+
+  [14:16:19] CLAIM: professional
+    Amount: USD 512.63
+
+
+📅 2017-07-23
+
+  [01:25:19] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. January966 Roberts511
+    Location: SOUTH SHORE HOSPITAL INC.
+    Duration: 01:25:19 - 01:42:29
+
+  [01:25:19] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [01:25:19] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-07-23
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Salena230 Lue764 is a 45 year-old nonhispanic white female.
+      # Social History
+
+  [01:25:19] DOCUMENT: History and physical note
+    Status: superseded
+
+  [01:42:29] CLAIM: professional
+    Amount: USD 1359.90
+
+
+📅 2017-07-24
+
+  [03:48:29] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. January966 Roberts511
+    Location: SOUTH SHORE HOSPITAL INC.
+    Duration: 03:48:29 - 04:19:55
+
+  [03:48:29] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [03:48:29] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-07-24
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Salena230 Lue764 is a 45 year-old nonhispanic white female.
+      # Social History
+
+  [03:48:29] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:19:55] CLAIM: professional
+    Amount: USD 512.63
+
+
+📅 2017-07-25
+
+  [10:18:55] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. January966 Roberts511
+    Location: SOUTH SHORE HOSPITAL INC.
+    Duration: 10:18:55 - 10:58:41
+
+  [10:18:55] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [10:18:55] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-07-25
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Salena230 Lue764 is a 45 year-old nonhispanic white female.
+      # Social History
+
+  [10:18:55] DOCUMENT: History and physical note
+    Status: superseded
+
+  [10:58:41] CLAIM: professional
+    Amount: USD 512.63
+
+
+📅 2017-07-26
+
+  [15:32:41] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. January966 Roberts511
+    Location: SOUTH SHORE HOSPITAL INC.
+    Duration: 15:32:41 - 16:09:05
+
+  [15:32:41] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [15:32:41] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-07-26
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Salena230 Lue764 is a 45 year-old nonhispanic white female.
+      # Social History
+
+  [15:32:41] DOCUMENT: History and physical note
+    Status: superseded
+
+  [16:09:05] CLAIM: professional
+    Amount: USD 673.06
+
+
+📅 2017-07-27
+
+  [16:20:05] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. January966 Roberts511
+    Location: SOUTH SHORE HOSPITAL INC.
+    Duration: 16:20:05 - 16:53:33
+
+  [16:20:05] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [16:20:05] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-07-27
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Salena230 Lue764 is a 45 year-old nonhispanic white female.
+      # Social History
+
+  [16:20:05] DOCUMENT: History and physical note
+    Status: superseded
+
+  [16:53:33] CLAIM: professional
+    Amount: USD 1359.90
+
+
+📅 2017-07-28
+
+  [23:59:33] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. January966 Roberts511
+    Location: SOUTH SHORE HOSPITAL INC.
+    Duration: 23:59:33 - 00:21:49
+
+  [23:59:33] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [23:59:33] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-07-28
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Salena230 Lue764 is a 45 year-old nonhispanic white female.
+      # Social History
+
+  [23:59:33] DOCUMENT: History and physical note
+    Status: superseded
+
+
+📅 2017-07-29
+
+  [00:21:49] CLAIM: professional
+    Amount: USD 1359.90
+
+
+📅 2017-07-30
+
+  [00:45:49] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. January966 Roberts511
+    Location: SOUTH SHORE HOSPITAL INC.
+    Duration: 00:45:49 - 01:19:21
+
+  [00:45:49] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [00:45:49] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-07-30
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Salena230 Lue764 is a 45 year-old nonhispanic white female.
+      # Social History
+
+  [00:45:49] DOCUMENT: History and physical note
+    Status: superseded
+
+  [01:19:21] CLAIM: professional
+    Amount: USD 1359.90
+
+
+📅 2017-07-31
+
+  [01:59:21] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. January966 Roberts511
+    Location: SOUTH SHORE HOSPITAL INC.
+    Duration: 01:59:21 - 02:28:02
+
+  [01:59:21] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [01:59:21] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-07-31
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Salena230 Lue764 is a 45 year-old nonhispanic white female.
+      # Social History
+
+  [01:59:21] DOCUMENT: History and physical note
+    Status: superseded
+
+  [02:28:02] CLAIM: professional
+    Amount: USD 817.35
+
+
+📅 2017-08-01
+
+  [04:03:02] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. January966 Roberts511
+    Location: SOUTH SHORE HOSPITAL INC.
+    Duration: 04:03:02 - 04:20:40
+
+  [04:03:02] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [04:03:02] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-08-01
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Salena230 Lue764 is a 45 year-old nonhispanic white female.
+      # Social History
+
+  [04:03:02] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:20:40] CLAIM: professional
+    Amount: USD 1236.75
+
+
+📅 2017-08-02
+
+  [15:12:40] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. January966 Roberts511
+    Location: SOUTH SHORE HOSPITAL INC.
+    Duration: 15:12:40 - 15:34:52
+
+  [15:12:40] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [15:12:40] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-08-02
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Salena230 Lue764 is a 45 year-old nonhispanic white female.
+      # Social History
+
+  [15:12:40] DOCUMENT: History and physical note
+    Status: superseded
+
+  [15:34:52] CLAIM: professional
+    Amount: USD 512.63
+
+
+📅 2017-08-03
+
+  [23:45:52] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. January966 Roberts511
+    Location: SOUTH SHORE HOSPITAL INC.
+    Duration: 23:45:52 - 00:10:12
+
+  [23:45:52] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [23:45:52] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-08-03
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Salena230 Lue764 is a 45 year-old nonhispanic white female.
+      # Social History
+
+  [23:45:52] DOCUMENT: History and physical note
+    Status: superseded
+
+
+📅 2017-08-04
+
+  [00:10:12] CLAIM: professional
+    Amount: USD 1359.90
+
+
+📅 2017-08-05
+
+  [04:56:12] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. January966 Roberts511
+    Location: SOUTH SHORE HOSPITAL INC.
+    Duration: 04:56:12 - 05:33:50
+
+  [04:56:12] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [04:56:12] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-08-05
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Salena230 Lue764 is a 45 year-old nonhispanic white female.
+      # Social History
+
+  [04:56:12] DOCUMENT: History and physical note
+    Status: superseded
+
+  [05:33:50] CLAIM: professional
+    Amount: USD 512.63
+
+
+📅 2017-08-06
+
+  [15:22:50] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. January966 Roberts511
+    Location: SOUTH SHORE HOSPITAL INC.
+    Duration: 15:22:50 - 16:00:20
+
+  [15:22:50] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [15:22:50] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-08-06
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Salena230 Lue764 is a 45 year-old nonhispanic white female.
+      # Social History
+
+  [15:22:50] DOCUMENT: History and physical note
+    Status: superseded
+
+  [16:00:20] CLAIM: professional
+    Amount: USD 1359.90
+
+
+📅 2017-08-08
+
+  [02:05:20] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. January966 Roberts511
+    Location: SOUTH SHORE HOSPITAL INC.
+    Duration: 02:05:20 - 02:42:43
+
+  [02:05:20] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [02:05:20] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-08-08
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Salena230 Lue764 is a 45 year-old nonhispanic white female.
+      # Social History
+
+  [02:05:20] DOCUMENT: History and physical note
+    Status: superseded
+
+  [02:42:43] CLAIM: professional
+    Amount: USD 1058.97
+
+
+📅 2017-08-09
+
+  [09:34:43] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. January966 Roberts511
+    Location: SOUTH SHORE HOSPITAL INC.
+    Duration: 09:34:43 - 10:13:14
+
+  [09:34:43] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [09:34:43] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-08-09
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Salena230 Lue764 is a 45 year-old nonhispanic white female.
+      # Social History
+
+  [09:34:43] DOCUMENT: History and physical note
+    Status: superseded
+
+  [10:13:14] CLAIM: professional
+    Amount: USD 512.63
+
+
+📅 2017-08-10
+
+  [12:12:14] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. January966 Roberts511
+    Location: SOUTH SHORE HOSPITAL INC.
+    Duration: 12:12:14 - 12:41:10
+
+  [12:12:14] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [12:12:14] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-08-10
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Salena230 Lue764 is a 45 year-old nonhispanic white female.
+      # Social History
+
+  [12:12:14] DOCUMENT: History and physical note
+    Status: superseded
+
+  [12:41:10] CLAIM: professional
+    Amount: USD 778.38
+
+
+📅 2017-08-11
+
+  [17:46:10] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. January966 Roberts511
+    Location: SOUTH SHORE HOSPITAL INC.
+    Duration: 17:46:10 - 18:07:17
+
+  [17:46:10] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [17:46:10] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-08-11
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Salena230 Lue764 is a 45 year-old nonhispanic white female.
+      # Social History
+
+  [17:46:10] DOCUMENT: History and physical note
+    Status: superseded
+
+  [18:07:17] CLAIM: professional
+    Amount: USD 573.57
+
+
+📅 2017-08-15
+
+  [12:07:17] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. January966 Roberts511
+    Location: SOUTH SHORE HOSPITAL INC.
+    Duration: 12:07:17 - 12:22:17
+
+  [12:07:17] OBSERVATION: Treatment status Cancer: Treatment changed (situation)
+
+  [12:07:17] OBSERVATION: Response to cancer treatment: Improving (qualifier value)
+
+  [12:07:17] MEDICATION PRESCRIBED: Unknown medication
+    Status: completed
+    Prescribed by: Dr. January966 Roberts511
+
+  [12:07:17] MEDICATION ADMINISTERED: Tamoxifen 10 MG Oral Tablet
+    Status: completed
+    Dosage: 1.0
+
+  [12:07:17] MEDICATION PRESCRIBED: Unknown medication
+    Status: completed
+    Prescribed by: Dr. January966 Roberts511
+
+  [12:07:17] MEDICATION ADMINISTERED: abemaciclib 100 MG Oral Tablet [Verzenio]
+    Status: completed
+
+  [12:07:17] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-08-15
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Salena230 Lue764 is a 45 year-old nonhispanic white female.
+      # Social History
+
+  [12:07:17] DOCUMENT: History and physical note
+    Status: superseded
+
+  [12:22:17] CLAIM: pharmacy
+    Amount: USD 353.40
+
+  [12:22:17] CLAIM: pharmacy
+    Amount: USD 117.93
+
+  [12:22:17] CLAIM: professional
+    Amount: USD 85.55
+
+
+📅 2017-12-04
+
+  [11:07:17] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. January966 Roberts511
+    Location: SOUTH SHORE HOSPITAL INC.
+    Duration: 11:07:17 - 11:47:13
+
+  [11:07:17] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [11:07:17] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-12-04
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Salena230 Lue764 is a 45 year-old nonhispanic white female.
+      # Social History
+
+  [11:07:17] DOCUMENT: History and physical note
+    Status: superseded
+
+  [11:47:13] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2018-03-31
+
+  [12:47:13] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. January966 Roberts511
+    Location: SOUTH SHORE HOSPITAL INC.
+    Duration: 12:47:13 - 13:31:45
+
+  [12:47:13] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [12:47:13] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-03-31
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Salena230 Lue764 is a 45 year-old nonhispanic white female.
+      # Social History
+
+  [12:47:13] DOCUMENT: History and physical note
+    Status: superseded
+
+  [13:31:45] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2018-05-06
+
+  [07:40:44] VISIT: General examination of patient (procedure)
+    Provider: Dr. Derek111 Erdman779
+    Location: PRIMARY & PREVENTIVE CARE, INC.
+    Duration: 07:40:44 - 07:55:44
+
+  [07:40:44] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [07:40:44] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-05-06
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Salena230 Lue764 is a 46 year-old nonhispanic white female.
+      # Social History
+
+  [07:40:44] DOCUMENT: History and physical note
+    Status: superseded
+
+  [07:55:44] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2018-07-19
+
+  [13:31:45] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. January966 Roberts511
+    Location: SOUTH SHORE HOSPITAL INC.
+    Duration: 13:31:45 - 14:07:01
+
+  [13:31:45] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [13:31:45] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-07-19
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Salena230 Lue764 is a 46 year-old nonhispanic white female.
+      # Social History
+
+  [13:31:45] DOCUMENT: History and physical note
+    Status: superseded
+
+  [14:07:01] CLAIM: professional
+    Amount: USD 573.98
+
+  [14:07:01] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. January966 Roberts511
+    Location: SOUTH SHORE HOSPITAL INC.
+    Duration: 14:07:01 - 14:22:43
+
+  [14:07:01] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [14:07:01] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-07-19
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Salena230 Lue764 is a 46 year-old nonhispanic white female.
+      # Social History
+
+  [14:07:01] DOCUMENT: History and physical note
+    Status: superseded
+
+  [14:22:43] CLAIM: professional
+    Amount: USD 325.49
+
+  [14:22:43] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. January966 Roberts511
+    Location: SOUTH SHORE HOSPITAL INC.
+    Duration: 14:22:43 - 14:47:32
+
+  [14:22:43] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [14:22:43] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-07-19
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Salena230 Lue764 is a 46 year-old nonhispanic white female.
+      # Social History
+
+  [14:22:43] DOCUMENT: History and physical note
+    Status: superseded
+
+  [14:32:54] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [14:47:32] OBSERVATION: Response to cancer treatment: Improving (qualifier value)
+
+  [14:47:32] CLAIM: professional
+    Amount: USD 1194.97
+
+
+📅 2018-11-16
+
+  [13:47:32] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. January966 Roberts511
+    Location: SOUTH SHORE HOSPITAL INC.
+    Duration: 13:47:32 - 14:20:53
+
+  [13:47:32] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [13:47:32] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-11-16
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Salena230 Lue764 is a 46 year-old nonhispanic white female.
+      # Social History
+
+  [13:47:32] DOCUMENT: History and physical note
+    Status: superseded
+
+  [14:20:53] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2019-03-10
+
+  [15:20:53] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. January966 Roberts511
+    Location: SOUTH SHORE HOSPITAL INC.
+    Duration: 15:20:53 - 16:02:25
+
+  [15:20:53] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [15:20:53] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-03-10
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Salena230 Lue764 is a 46 year-old nonhispanic white female.
+      # Social History
+
+  [15:20:53] DOCUMENT: History and physical note
+    Status: superseded
+
+  [16:02:25] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2019-06-24
+
+  [16:02:25] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. January966 Roberts511
+    Location: SOUTH SHORE HOSPITAL INC.
+    Duration: 16:02:25 - 16:46:47
+
+  [16:02:25] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [16:02:25] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-06-24
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Salena230 Lue764 is a 47 year-old nonhispanic white female.
+      # Social History
+
+  [16:02:25] DOCUMENT: History and physical note
+    Status: superseded
+
+  [16:46:47] CLAIM: professional
+    Amount: USD 573.98
+
+  [16:46:47] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. January966 Roberts511
+    Location: SOUTH SHORE HOSPITAL INC.
+    Duration: 16:46:47 - 17:03:31
+
+  [16:46:47] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [16:46:47] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-06-24
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Salena230 Lue764 is a 47 year-old nonhispanic white female.
+      # Social History
+
+  [16:46:47] DOCUMENT: History and physical note
+    Status: superseded
+
+  [17:03:31] CLAIM: professional
+    Amount: USD 211.60
+
+  [17:03:31] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. January966 Roberts511
+    Location: SOUTH SHORE HOSPITAL INC.
+    Duration: 17:03:31 - 17:28:47
+
+  [17:03:31] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [17:03:31] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-06-24
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Salena230 Lue764 is a 47 year-old nonhispanic white female.
+      # Social History
+
+  [17:03:31] DOCUMENT: History and physical note
+    Status: superseded
+
+  [17:13:51] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [17:28:47] OBSERVATION: Response to cancer treatment: Improving (qualifier value)
+
+  [17:28:47] CLAIM: professional
+    Amount: USD 3031.67
+
+
+📅 2019-10-24
+
+  [17:28:47] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. January966 Roberts511
+    Location: SOUTH SHORE HOSPITAL INC.
+    Duration: 17:28:47 - 18:09:39
+
+  [17:28:47] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [17:28:47] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-10-24
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Salena230 Lue764 is a 47 year-old nonhispanic white female.
+      # Social History
+
+  [17:28:47] DOCUMENT: History and physical note
+    Status: superseded
+
+  [18:09:39] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2020-02-22
+
+  [17:09:39] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. January966 Roberts511
+    Location: SOUTH SHORE HOSPITAL INC.
+    Duration: 17:09:39 - 17:52:00
+
+  [17:09:39] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [17:09:39] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-02-22
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Salena230 Lue764 is a 47 year-old nonhispanic white female.
+      # Social History
+
+  [17:09:39] DOCUMENT: History and physical note
+    Status: superseded
+
+  [17:52:00] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2020-05-10
+
+  [07:40:44] VISIT: General examination of patient (procedure)
+    Provider: Dr. Derek111 Erdman779
+    Location: PRIMARY & PREVENTIVE CARE, INC.
+    Duration: 07:40:44 - 07:55:44
+
+  [07:40:44] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [07:40:44] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-05-10
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Salena230 Lue764 is a 48 year-old nonhispanic white female.
+      # Social History
+
+  [07:40:44] DOCUMENT: History and physical note
+    Status: superseded
+
+  [07:55:44] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2020-06-18
+
+  [18:52:00] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. January966 Roberts511
+    Location: SOUTH SHORE HOSPITAL INC.
+    Duration: 18:52:00 - 19:22:29
+
+  [18:52:00] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [18:52:00] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-06-18
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Salena230 Lue764 is a 48 year-old nonhispanic white female.
+      # Social History
+
+  [18:52:00] DOCUMENT: History and physical note
+    Status: superseded
+
+  [19:22:29] CLAIM: professional
+    Amount: USD 573.98
+
+  [19:22:29] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. January966 Roberts511
+    Location: SOUTH SHORE HOSPITAL INC.
+    Duration: 19:22:29 - 19:47:10
+
+  [19:22:29] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [19:22:29] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-06-18
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Salena230 Lue764 is a 48 year-old nonhispanic white female.
+      # Social History
+
+  [19:22:29] DOCUMENT: History and physical note
+    Status: superseded
+
+  [19:47:10] CLAIM: professional
+    Amount: USD 268.16
+
+  [19:47:10] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. January966 Roberts511
+    Location: SOUTH SHORE HOSPITAL INC.
+    Duration: 19:47:10 - 20:18:45
+
+  [19:47:10] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [19:47:10] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-06-18
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Salena230 Lue764 is a 48 year-old nonhispanic white female.
+      # Social History
+
+  [19:47:10] DOCUMENT: History and physical note
+    Status: superseded
+
+  [20:00:46] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [20:18:45] OBSERVATION: Response to cancer treatment: Improving (qualifier value)
+
+  [20:18:45] CLAIM: professional
+    Amount: USD 1728.51
+
+
+📅 2020-10-17
+
+  [20:18:45] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. January966 Roberts511
+    Location: SOUTH SHORE HOSPITAL INC.
+    Duration: 20:18:45 - 20:56:48
+
+  [20:18:45] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [20:18:45] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-10-17
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Salena230 Lue764 is a 48 year-old nonhispanic white female.
+      # Social History
+
+  [20:18:45] DOCUMENT: History and physical note
+    Status: superseded
+
+  [20:56:48] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2021-01-23
+
+  [19:56:48] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. January966 Roberts511
+    Location: SOUTH SHORE HOSPITAL INC.
+    Duration: 19:56:48 - 20:28:21
+
+  [19:56:48] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [19:56:48] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-01-23
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Salena230 Lue764 is a 48 year-old nonhispanic white female.
+      # Social History
+
+  [19:56:48] DOCUMENT: History and physical note
+    Status: superseded
+
+  [20:28:21] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2021-05-07
+
+  [21:28:21] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. January966 Roberts511
+    Location: SOUTH SHORE HOSPITAL INC.
+    Duration: 21:28:21 - 22:05:55
+
+  [21:28:21] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [21:28:21] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-05-07
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Salena230 Lue764 is a 49 year-old nonhispanic white female.
+      # Social History
+
+  [21:28:21] DOCUMENT: History and physical note
+    Status: superseded
+
+  [22:05:55] CLAIM: professional
+    Amount: USD 573.98
+
+  [22:05:55] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. January966 Roberts511
+    Location: SOUTH SHORE HOSPITAL INC.
+    Duration: 22:05:55 - 22:24:44
+
+  [22:05:55] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [22:05:55] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-05-07
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Salena230 Lue764 is a 49 year-old nonhispanic white female.
+      # Social History
+
+  [22:05:55] DOCUMENT: History and physical note
+    Status: superseded
+
+  [22:24:44] CLAIM: professional
+    Amount: USD 211.60
+
+  [22:24:44] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. January966 Roberts511
+    Location: SOUTH SHORE HOSPITAL INC.
+    Duration: 22:24:44 - 22:56:23
+
+  [22:24:44] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [22:24:44] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-05-07
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Salena230 Lue764 is a 49 year-old nonhispanic white female.
+      # Social History
+
+  [22:24:44] DOCUMENT: History and physical note
+    Status: superseded
+
+  [22:38:16] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [22:56:23] OBSERVATION: Response to cancer treatment: Improving (qualifier value)
+
+  [22:56:23] CLAIM: professional
+    Amount: USD 1314.97
+
+
+📅 2021-08-29
+
+  [22:56:23] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. January966 Roberts511
+    Location: SOUTH SHORE HOSPITAL INC.
+    Duration: 22:56:23 - 23:40:57
+
+  [22:56:23] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [22:56:23] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-08-29
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Salena230 Lue764 is a 49 year-old nonhispanic white female.
+      # Social History
+
+  [22:56:23] DOCUMENT: History and physical note
+    Status: superseded
+
+  [23:40:57] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2021-12-10
+
+  [22:40:57] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. January966 Roberts511
+    Location: SOUTH SHORE HOSPITAL INC.
+    Duration: 22:40:57 - 23:16:29
+
+  [22:40:57] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [22:40:57] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-12-10
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Salena230 Lue764 is a 49 year-old nonhispanic white female.
+      # Social History
+
+  [22:40:57] DOCUMENT: History and physical note
+    Status: superseded
+
+  [23:16:29] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2022-04-17
+
+  [07:40:44] VISIT: General examination of patient (procedure)
+    Provider: Dr. Derek111 Erdman779
+    Location: PRIMARY & PREVENTIVE CARE, INC.
+    Duration: 07:40:44 - 07:55:44
+
+  [07:40:44] IMMUNIZATION: zoster vaccine, live
+    Status: completed
+
+  [07:40:44] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [07:40:44] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-04-17
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Salena230 Lue764 is a 50 year-old nonhispanic white female.
+      # Social History
+
+  [07:40:44] DOCUMENT: History and physical note
+    Status: superseded
+
+  [07:55:44] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2022-04-24
+
+  [07:40:44] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. January966 Roberts511
+    Location: SOUTH SHORE HOSPITAL INC.
+    Duration: 07:40:44 - 08:15:26
+
+  [07:40:44] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [07:40:44] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-04-24
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Salena230 Lue764 is a 50 year-old nonhispanic white female.
+      # Social History
+
+  [07:40:44] DOCUMENT: History and physical note
+    Status: superseded
+
+  [08:15:26] CLAIM: professional
+    Amount: USD 573.98
+
+  [08:15:26] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. January966 Roberts511
+    Location: SOUTH SHORE HOSPITAL INC.
+    Duration: 08:15:26 - 08:39:16
+
+  [08:15:26] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [08:15:26] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-04-24
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Salena230 Lue764 is a 50 year-old nonhispanic white female.
+      # Social History
+
+  [08:15:26] DOCUMENT: History and physical note
+    Status: superseded
+
+  [08:39:16] CLAIM: professional
+    Amount: USD 288.39
+
+  [08:39:16] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. January966 Roberts511
+    Location: SOUTH SHORE HOSPITAL INC.
+    Duration: 08:39:16 - 09:11:32
+
+  [08:39:16] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [08:39:16] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-04-24
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Salena230 Lue764 is a 50 year-old nonhispanic white female.
+      # Social History
+
+  [08:39:16] DOCUMENT: History and physical note
+    Status: superseded
+
+  [08:52:59] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [09:11:32] CLAIM: professional
+    Amount: USD 1495.56
+
+
+📅 2023-03-26
+
+  [09:11:32] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. January966 Roberts511
+    Location: SOUTH SHORE HOSPITAL INC.
+    Duration: 09:11:32 - 09:48:36
+
+  [09:11:32] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [09:11:32] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-03-26
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Salena230 Lue764 is a 50 year-old nonhispanic white female.
+      # Social History
+
+  [09:11:32] DOCUMENT: History and physical note
+    Status: superseded
+
+  [09:48:36] CLAIM: professional
+    Amount: USD 573.98
+
+  [09:48:36] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. January966 Roberts511
+    Location: SOUTH SHORE HOSPITAL INC.
+    Duration: 09:48:36 - 10:04:43
+
+  [09:48:36] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [09:48:36] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-03-26
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Salena230 Lue764 is a 50 year-old nonhispanic white female.
+      # Social History
+
+  [09:48:36] DOCUMENT: History and physical note
+    Status: superseded
+
+  [10:04:43] CLAIM: professional
+    Amount: USD 325.49
+
+  [10:04:43] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. January966 Roberts511
+    Location: SOUTH SHORE HOSPITAL INC.
+    Duration: 10:04:43 - 10:36:07
+
+  [10:04:43] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [10:04:43] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-03-26
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Salena230 Lue764 is a 50 year-old nonhispanic white female.
+      # Social History
+
+  [10:04:43] DOCUMENT: History and physical note
+    Status: superseded
+
+  [10:16:57] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [10:36:07] CLAIM: professional
+    Amount: USD 1145.22
+
+
+📅 2023-04-23
+
+  [07:40:44] VISIT: General examination of patient (procedure)
+    Provider: Dr. Derek111 Erdman779
+    Location: PRIMARY & PREVENTIVE CARE, INC.
+    Duration: 07:40:44 - 07:55:44
+
+  [07:40:44] IMMUNIZATION: zoster vaccine, live
+    Status: completed
+
+  [07:40:44] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [07:40:44] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [07:40:44] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-04-23
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Salena230 Lue764 is a 51 year-old nonhispanic white female.
+      # Social History
+
+  [07:40:44] DOCUMENT: History and physical note
+    Status: superseded
+
+  [07:55:44] CLAIM: professional
+    Amount: USD 544.80
+
+
+📅 2024-02-25
+
+  [09:36:07] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. January966 Roberts511
+    Location: SOUTH SHORE HOSPITAL INC.
+    Duration: 09:36:07 - 10:11:36
+
+  [09:36:07] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [09:36:07] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-02-25
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Salena230 Lue764 is a 51 year-old nonhispanic white female.
+      # Social History
+
+  [09:36:07] DOCUMENT: History and physical note
+    Status: superseded
+
+  [10:11:36] CLAIM: professional
+    Amount: USD 573.98
+
+  [10:11:36] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. January966 Roberts511
+    Location: SOUTH SHORE HOSPITAL INC.
+    Duration: 10:11:36 - 10:32:03
+
+  [10:11:36] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [10:11:36] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-02-25
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Salena230 Lue764 is a 51 year-old nonhispanic white female.
+      # Social History
+
+  [10:11:36] DOCUMENT: History and physical note
+    Status: superseded
+
+  [10:32:03] CLAIM: professional
+    Amount: USD 325.49
+
+  [10:32:03] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. January966 Roberts511
+    Location: SOUTH SHORE HOSPITAL INC.
+    Duration: 10:32:03 - 11:00:22
+
+  [10:32:03] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [10:32:03] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-02-25
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Salena230 Lue764 is a 51 year-old nonhispanic white female.
+      # Social History
+
+  [10:32:03] DOCUMENT: History and physical note
+    Status: superseded
+
+  [10:42:32] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [11:00:22] CLAIM: professional
+    Amount: USD 1221.08
+
+
+📅 2024-04-28
+
+  [07:40:44] VISIT: General examination of patient (procedure)
+    Provider: Dr. Derek111 Erdman779
+    Location: PRIMARY & PREVENTIVE CARE, INC.
+    Duration: 07:40:44 - 07:55:44
+
+  [07:40:44] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [07:40:44] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-04-28
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Salena230 Lue764 is a 52 year-old nonhispanic white female.
+      # Social History
+
+  [07:40:44] DOCUMENT: History and physical note
+    Status: superseded
+
+  [07:55:44] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2025-02-24
+
+  [11:00:22] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. January966 Roberts511
+    Location: SOUTH SHORE HOSPITAL INC.
+    Duration: 11:00:22 - 11:38:07
+
+  [11:00:22] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [11:00:22] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-02-24
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Salena230 Lue764 is a 52 year-old nonhispanic white female.
+      # Social History
+
+  [11:00:22] DOCUMENT: History and physical note
+    Status: superseded
+
+  [11:38:07] CLAIM: professional
+    Amount: USD 573.98
+
+  [11:38:07] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. January966 Roberts511
+    Location: SOUTH SHORE HOSPITAL INC.
+    Duration: 11:38:07 - 12:01:21
+
+  [11:38:07] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [11:38:07] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-02-24
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Salena230 Lue764 is a 52 year-old nonhispanic white female.
+      # Social History
+
+  [11:38:07] DOCUMENT: History and physical note
+    Status: superseded
+
+  [12:01:21] CLAIM: professional
+    Amount: USD 211.60
+
+  [12:01:21] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. January966 Roberts511
+    Location: SOUTH SHORE HOSPITAL INC.
+    Duration: 12:01:21 - 12:25:16
+
+  [12:01:21] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [12:01:21] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-02-24
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Salena230 Lue764 is a 52 year-old nonhispanic white female.
+      # Social History
+
+  [12:01:21] DOCUMENT: History and physical note
+    Status: superseded
+
+  [12:11:51] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [12:25:16] CLAIM: professional
+    Amount: USD 1418.22
+
+
+📅 2025-05-04
+
+  [07:40:44] VISIT: General examination of patient (procedure)
+    Provider: Dr. Derek111 Erdman779
+    Location: PRIMARY & PREVENTIVE CARE, INC.
+    Duration: 07:40:44 - 07:55:44
+
+  [07:40:44] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [07:40:44] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-05-04
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Salena230 Lue764 is a 53 year-old nonhispanic white female.
+      # Social History
+
+  [07:40:44] DOCUMENT: History and physical note
+    Status: superseded
+
+  [07:55:44] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2026-01-23
+
+  [12:25:16] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. January966 Roberts511
+    Location: Patient's Home
+    Duration: 12:25:16 - 12:56:13
+
+  [12:25:16] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [12:25:16] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2026-01-23
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Salena230 Lue764 is a 53 year-old nonhispanic white female.
+      # Social History
+
+  [12:25:16] DOCUMENT: History and physical note
+    Status: superseded
+
+  [12:56:13] CLAIM: institutional
+    Amount: USD 556.40
+
+  [12:56:13] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. January966 Roberts511
+    Location: SOUTH SHORE HOSPITAL INC.
+    Duration: 12:56:13 - 13:15:16
+
+  [12:56:13] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [12:56:13] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2026-01-23
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Salena230 Lue764 is a 53 year-old nonhispanic white female.
+      # Social History
+
+  [12:56:13] DOCUMENT: History and physical note
+    Status: superseded
+
+  [13:15:16] CLAIM: professional
+    Amount: USD 270.32
+
+  [13:15:16] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. January966 Roberts511
+    Location: SOUTH SHORE HOSPITAL INC.
+    Duration: 13:15:16 - 13:41:00
+
+  [13:15:16] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [13:15:16] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2026-01-23
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Salena230 Lue764 is a 53 year-old nonhispanic white female.
+      # Social History
+
+  [13:15:16] DOCUMENT: History and physical note
+    Status: current
+
+  [13:29:53] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [13:41:00] CLAIM: professional
+    Amount: USD 1674.90
+
+
+📅 2026-02-15
+
+  [06:40:44] PROVENANCE: Record activity
+    Agents: Dr. January966 Roberts511, Dr. January966 Roberts511
+
+================================================================================
+END OF TIMELINE (452 events)
+================================================================================

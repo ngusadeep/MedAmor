@@ -1,0 +1,1129 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Mrs. Yolanda648 Manuela585 Coronado577
+  Patient ID: 154828
+  Date of Birth: 1959-07-01
+  Gender: Female
+  Race: White
+  Ethnicity: Hispanic or Latino
+  Marital Status: Divorced
+  Address: 526 Kub Throughway Unit 87, Andover, MA 01810
+  Phone: 555-298-3015
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 1978-02-13
+
+  [16:52:20] VISIT: Periodic reevaluation and management of healthy individual (procedure)
+    Reason: Screening for malignant neoplasm of breast (procedure)
+    Provider: Dr. Carlton317 Koch169
+    Location: TEWKSBURY HOSPITAL
+    Duration: 16:52:20 - 15:18:16
+
+  [16:52:20] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      1978-02-13
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Yolanda648 Manuela585 is a 18 year-old hispanic white female.
+      # Social History
+
+  [16:52:20] DOCUMENT: History and physical note
+    Status: superseded
+
+  [19:01:16] CONDITION: Malignant neoplasm of breast (disorder) (active)
+
+
+📅 1978-02-15
+
+  [15:18:16] CLAIM: professional
+    Amount: USD 9165.89
+
+
+📅 2016-04-28
+
+  [19:57:08] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Carlton317 Koch169
+    Location: TEWKSBURY HOSPITAL
+    Duration: 19:57:08 - 20:40:21
+
+  [19:57:08] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [19:57:08] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-04-28
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Yolanda648 Manuela585 is a 56 year-old hispanic white female.
+      # Social History
+
+  [19:57:08] DOCUMENT: History and physical note
+    Status: superseded
+
+  [20:40:21] CLAIM: professional
+    Amount: USD 573.98
+
+  [20:40:21] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Carlton317 Koch169
+    Location: TEWKSBURY HOSPITAL
+    Duration: 20:40:21 - 21:03:49
+
+  [20:40:21] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [20:40:21] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-04-28
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Yolanda648 Manuela585 is a 56 year-old hispanic white female.
+      # Social History
+
+  [20:40:21] DOCUMENT: History and physical note
+    Status: superseded
+
+  [21:03:49] CLAIM: professional
+    Amount: USD 211.60
+
+  [21:03:49] VISIT: Follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Carlton317 Koch169
+    Location: TEWKSBURY HOSPITAL
+    Duration: 21:03:49 - 21:29:22
+
+  [21:03:49] PROCEDURE: Bone density scan (procedure)
+    Status: completed
+
+  [21:03:49] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-04-28
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Yolanda648 Manuela585 is a 56 year-old hispanic white female.
+      # Social History
+
+  [21:03:49] DOCUMENT: History and physical note
+    Status: superseded
+
+  [21:29:22] CLAIM: professional
+    Amount: USD 16468.32
+
+
+📅 2016-08-10
+
+  [17:52:20] VISIT: General examination of patient (procedure)
+    Provider: Dr. Alfonso758 Nava670
+    Location: GREATER LAWRENCE FAMILY HEALTH CENTER INC
+    Duration: 17:52:20 - 18:07:20
+
+  [17:52:20] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [17:52:20] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-08-10
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Yolanda648 Manuela585 is a 57 year-old hispanic white female.
+      # Social History
+
+  [17:52:20] DOCUMENT: History and physical note
+    Status: superseded
+
+  [18:07:20] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2017-04-15
+
+  [21:29:22] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Carlton317 Koch169
+    Location: TEWKSBURY HOSPITAL
+    Duration: 21:29:22 - 22:10:15
+
+  [21:29:22] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [21:29:22] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-04-15
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Yolanda648 Manuela585 is a 57 year-old hispanic white female.
+      # Social History
+
+  [21:29:22] DOCUMENT: History and physical note
+    Status: superseded
+
+  [22:10:15] CLAIM: professional
+    Amount: USD 573.98
+
+  [22:10:15] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Carlton317 Koch169
+    Location: TEWKSBURY HOSPITAL
+    Duration: 22:10:15 - 22:32:40
+
+  [22:10:15] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [22:10:15] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-04-15
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Yolanda648 Manuela585 is a 57 year-old hispanic white female.
+      # Social History
+
+  [22:10:15] DOCUMENT: History and physical note
+    Status: superseded
+
+  [22:32:40] CLAIM: professional
+    Amount: USD 211.60
+
+  [22:32:40] VISIT: Follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Carlton317 Koch169
+    Location: TEWKSBURY HOSPITAL
+    Duration: 22:32:40 - 23:00:09
+
+  [22:32:40] PROCEDURE: Bone density scan (procedure)
+    Status: completed
+
+  [22:32:40] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-04-15
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Yolanda648 Manuela585 is a 57 year-old hispanic white female.
+      # Social History
+
+  [22:32:40] DOCUMENT: History and physical note
+    Status: superseded
+
+  [23:00:09] CLAIM: professional
+    Amount: USD 16468.32
+
+
+📅 2017-08-16
+
+  [17:52:20] VISIT: General examination of patient (procedure)
+    Provider: Dr. Alfonso758 Nava670
+    Location: GREATER LAWRENCE FAMILY HEALTH CENTER INC
+    Duration: 17:52:20 - 18:07:20
+
+  [17:52:20] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [17:52:20] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-08-16
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Yolanda648 Manuela585 is a 58 year-old hispanic white female.
+      # Social History
+
+  [17:52:20] DOCUMENT: History and physical note
+    Status: superseded
+
+  [18:07:20] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2018-04-01
+
+  [23:00:09] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Carlton317 Koch169
+    Location: TEWKSBURY HOSPITAL
+    Duration: 23:00:09 - 23:35:45
+
+  [23:00:09] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [23:00:09] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-04-01
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Yolanda648 Manuela585 is a 58 year-old hispanic white female.
+      # Social History
+
+  [23:00:09] DOCUMENT: History and physical note
+    Status: superseded
+
+  [23:35:45] CLAIM: professional
+    Amount: USD 573.98
+
+  [23:35:45] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Carlton317 Koch169
+    Location: TEWKSBURY HOSPITAL
+    Duration: 23:35:45 - 23:52:09
+
+  [23:35:45] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [23:35:45] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-04-01
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Yolanda648 Manuela585 is a 58 year-old hispanic white female.
+      # Social History
+
+  [23:35:45] DOCUMENT: History and physical note
+    Status: superseded
+
+  [23:52:09] CLAIM: professional
+    Amount: USD 213.10
+
+  [23:52:09] VISIT: Follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Carlton317 Koch169
+    Location: TEWKSBURY HOSPITAL
+    Duration: 23:52:09 - 00:07:09
+
+  [23:52:09] PROCEDURE: Bone density scan (procedure)
+    Status: completed
+
+  [23:52:09] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-04-01
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Yolanda648 Manuela585 is a 58 year-old hispanic white female.
+      # Social History
+
+  [23:52:09] DOCUMENT: History and physical note
+    Status: superseded
+
+
+📅 2018-04-02
+
+  [00:07:09] CLAIM: professional
+    Amount: USD 16468.32
+
+
+📅 2018-08-22
+
+  [17:52:20] VISIT: General examination of patient (procedure)
+    Provider: Dr. Alfonso758 Nava670
+    Location: GREATER LAWRENCE FAMILY HEALTH CENTER INC
+    Duration: 17:52:20 - 18:07:20
+
+  [17:52:20] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [17:52:20] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-08-22
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Yolanda648 Manuela585 is a 59 year-old hispanic white female.
+      # Social History
+
+  [17:52:20] DOCUMENT: History and physical note
+    Status: superseded
+
+  [18:07:20] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2019-04-08
+
+  [00:04:07] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Carlton317 Koch169
+    Location: TEWKSBURY HOSPITAL
+    Duration: 00:04:07 - 00:38:55
+
+  [00:04:07] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [00:04:07] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-04-08
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Yolanda648 Manuela585 is a 59 year-old hispanic white female.
+      # Social History
+
+  [00:04:07] DOCUMENT: History and physical note
+    Status: superseded
+
+  [00:38:55] CLAIM: professional
+    Amount: USD 573.98
+
+  [00:38:55] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Carlton317 Koch169
+    Location: TEWKSBURY HOSPITAL
+    Duration: 00:38:55 - 00:57:45
+
+  [00:38:55] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [00:38:55] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-04-08
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Yolanda648 Manuela585 is a 59 year-old hispanic white female.
+      # Social History
+
+  [00:38:55] DOCUMENT: History and physical note
+    Status: superseded
+
+  [00:57:45] CLAIM: professional
+    Amount: USD 211.60
+
+  [00:57:45] VISIT: Follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Carlton317 Koch169
+    Location: TEWKSBURY HOSPITAL
+    Duration: 00:57:45 - 01:13:41
+
+  [00:57:45] PROCEDURE: Bone density scan (procedure)
+    Status: completed
+
+  [00:57:45] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-04-08
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Yolanda648 Manuela585 is a 59 year-old hispanic white female.
+      # Social History
+
+  [00:57:45] DOCUMENT: History and physical note
+    Status: superseded
+
+  [01:13:41] CLAIM: professional
+    Amount: USD 4181.24
+
+
+📅 2019-08-28
+
+  [17:52:20] VISIT: General examination of patient (procedure)
+    Provider: Dr. Alfonso758 Nava670
+    Location: GREATER LAWRENCE FAMILY HEALTH CENTER INC
+    Duration: 17:52:20 - 18:07:20
+
+  [17:52:20] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [17:52:20] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-08-28
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Yolanda648 Manuela585 is a 60 year-old hispanic white female.
+      # Social History
+
+  [17:52:20] DOCUMENT: History and physical note
+    Status: superseded
+
+  [18:07:20] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2020-03-04
+
+  [00:13:41] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Carlton317 Koch169
+    Location: TEWKSBURY HOSPITAL
+    Duration: 00:13:41 - 00:51:03
+
+  [00:13:41] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [00:13:41] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-03-04
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Yolanda648 Manuela585 is a 60 year-old hispanic white female.
+      # Social History
+
+  [00:13:41] DOCUMENT: History and physical note
+    Status: superseded
+
+  [00:51:03] CLAIM: professional
+    Amount: USD 573.98
+
+  [00:51:03] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Carlton317 Koch169
+    Location: TEWKSBURY HOSPITAL
+    Duration: 00:51:03 - 01:07:05
+
+  [00:51:03] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [00:51:03] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-03-04
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Yolanda648 Manuela585 is a 60 year-old hispanic white female.
+      # Social History
+
+  [00:51:03] DOCUMENT: History and physical note
+    Status: superseded
+
+  [01:07:05] CLAIM: professional
+    Amount: USD 325.49
+
+  [01:07:05] VISIT: Follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Carlton317 Koch169
+    Location: TEWKSBURY HOSPITAL
+    Duration: 01:07:05 - 01:24:02
+
+  [01:07:05] PROCEDURE: Bone density scan (procedure)
+    Status: completed
+
+  [01:07:05] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-03-04
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Yolanda648 Manuela585 is a 60 year-old hispanic white female.
+      # Social History
+
+  [01:07:05] DOCUMENT: History and physical note
+    Status: superseded
+
+  [01:24:02] CLAIM: professional
+    Amount: USD 16468.32
+
+
+📅 2020-09-02
+
+  [17:52:20] VISIT: General examination of patient (procedure)
+    Provider: Dr. Alfonso758 Nava670
+    Location: GREATER LAWRENCE FAMILY HEALTH CENTER INC
+    Duration: 17:52:20 - 18:07:20
+
+  [17:52:20] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [17:52:20] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [17:52:20] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-09-02
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Yolanda648 Manuela585 is a 61 year-old hispanic white female.
+      # Social History
+
+  [17:52:20] DOCUMENT: History and physical note
+    Status: superseded
+
+  [18:07:20] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2021-01-13
+
+  [16:52:20] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Carlton317 Koch169
+    Location: TEWKSBURY HOSPITAL
+    Duration: 16:52:20 - 17:07:20
+
+  [16:52:20] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+    Status: completed
+
+  [16:52:20] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-01-13
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Yolanda648 Manuela585 is a 61 year-old hispanic white female.
+      # Social History
+
+  [16:52:20] DOCUMENT: History and physical note
+    Status: superseded
+
+  [17:07:20] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-02-10
+
+  [16:52:20] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Carlton317 Koch169
+    Location: TEWKSBURY HOSPITAL
+    Duration: 16:52:20 - 17:07:20
+
+  [16:52:20] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+    Status: completed
+
+  [16:52:20] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-02-10
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Yolanda648 Manuela585 is a 61 year-old hispanic white female.
+      # Social History
+
+  [16:52:20] DOCUMENT: History and physical note
+    Status: superseded
+
+  [17:07:20] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-02-15
+
+  [01:24:02] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Carlton317 Koch169
+    Location: TEWKSBURY HOSPITAL
+    Duration: 01:24:02 - 01:59:04
+
+  [01:24:02] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [01:24:02] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-02-15
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Yolanda648 Manuela585 is a 61 year-old hispanic white female.
+      # Social History
+
+  [01:24:02] DOCUMENT: History and physical note
+    Status: superseded
+
+  [01:59:04] CLAIM: professional
+    Amount: USD 573.98
+
+  [01:59:04] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Carlton317 Koch169
+    Location: TEWKSBURY HOSPITAL
+    Duration: 01:59:04 - 02:20:36
+
+  [01:59:04] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [01:59:04] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-02-15
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Yolanda648 Manuela585 is a 61 year-old hispanic white female.
+      # Social History
+
+  [01:59:04] DOCUMENT: History and physical note
+    Status: superseded
+
+  [02:20:36] CLAIM: professional
+    Amount: USD 211.60
+
+  [02:20:36] VISIT: Follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Carlton317 Koch169
+    Location: TEWKSBURY HOSPITAL
+    Duration: 02:20:36 - 02:48:20
+
+  [02:20:36] PROCEDURE: Bone density scan (procedure)
+    Status: completed
+
+  [02:20:36] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-02-15
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Yolanda648 Manuela585 is a 61 year-old hispanic white female.
+      # Social History
+
+  [02:20:36] DOCUMENT: History and physical note
+    Status: superseded
+
+  [02:48:20] CLAIM: professional
+    Amount: USD 4181.24
+
+
+📅 2021-09-08
+
+  [17:52:20] VISIT: General examination of patient (procedure)
+    Provider: Dr. Alfonso758 Nava670
+    Location: GREATER LAWRENCE FAMILY HEALTH CENTER INC
+    Duration: 17:52:20 - 18:07:20
+
+  [17:52:20] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [17:52:20] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-09-08
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Yolanda648 Manuela585 is a 62 year-old hispanic white female.
+      # Social History
+
+  [17:52:20] DOCUMENT: History and physical note
+    Status: superseded
+
+  [18:07:20] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2022-03-10
+
+  [02:48:20] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Carlton317 Koch169
+    Location: TEWKSBURY HOSPITAL
+    Duration: 02:48:20 - 03:21:43
+
+  [02:48:20] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [02:48:20] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-03-10
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Yolanda648 Manuela585 is a 62 year-old hispanic white female.
+      # Social History
+
+  [02:48:20] DOCUMENT: History and physical note
+    Status: superseded
+
+  [03:21:43] CLAIM: professional
+    Amount: USD 573.98
+
+  [03:21:43] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Carlton317 Koch169
+    Location: TEWKSBURY HOSPITAL
+    Duration: 03:21:43 - 03:36:43
+
+  [03:21:43] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [03:21:43] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-03-10
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Yolanda648 Manuela585 is a 62 year-old hispanic white female.
+      # Social History
+
+  [03:21:43] DOCUMENT: History and physical note
+    Status: superseded
+
+  [03:36:43] CLAIM: professional
+    Amount: USD 211.60
+
+  [03:36:43] VISIT: Follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Carlton317 Koch169
+    Location: TEWKSBURY HOSPITAL
+    Duration: 03:36:43 - 03:51:43
+
+  [03:36:43] PROCEDURE: Bone density scan (procedure)
+    Status: completed
+
+  [03:36:43] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-03-10
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Yolanda648 Manuela585 is a 62 year-old hispanic white female.
+      # Social History
+
+  [03:36:43] DOCUMENT: History and physical note
+    Status: superseded
+
+  [03:51:43] CLAIM: professional
+    Amount: USD 12331.61
+
+
+📅 2022-09-14
+
+  [17:52:20] VISIT: General examination of patient (procedure)
+    Provider: Dr. Alfonso758 Nava670
+    Location: GREATER LAWRENCE FAMILY HEALTH CENTER INC
+    Duration: 17:52:20 - 18:07:20
+
+  [17:52:20] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [17:52:20] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-09-14
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Yolanda648 Manuela585 is a 63 year-old hispanic white female.
+      # Social History
+
+  [17:52:20] DOCUMENT: History and physical note
+    Status: superseded
+
+  [18:07:20] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2023-03-10
+
+  [03:47:30] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Carlton317 Koch169
+    Location: TEWKSBURY HOSPITAL
+    Duration: 03:47:30 - 04:17:54
+
+  [03:47:30] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [03:47:30] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-03-10
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Yolanda648 Manuela585 is a 63 year-old hispanic white female.
+      # Social History
+
+  [03:47:30] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:17:54] CLAIM: professional
+    Amount: USD 573.98
+
+  [04:17:54] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Carlton317 Koch169
+    Location: TEWKSBURY HOSPITAL
+    Duration: 04:17:54 - 04:35:37
+
+  [04:17:54] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [04:17:54] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-03-10
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Yolanda648 Manuela585 is a 63 year-old hispanic white female.
+      # Social History
+
+  [04:17:54] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:35:37] CLAIM: professional
+    Amount: USD 211.60
+
+  [04:35:37] VISIT: Follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Carlton317 Koch169
+    Location: TEWKSBURY HOSPITAL
+    Duration: 04:35:37 - 04:50:48
+
+  [04:35:37] PROCEDURE: Bone density scan (procedure)
+    Status: completed
+
+  [04:35:37] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-03-10
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Yolanda648 Manuela585 is a 63 year-old hispanic white female.
+      # Social History
+
+  [04:35:37] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:50:48] CLAIM: professional
+    Amount: USD 4181.24
+
+
+📅 2023-09-20
+
+  [17:52:20] VISIT: General examination of patient (procedure)
+    Provider: Dr. Alfonso758 Nava670
+    Location: GREATER LAWRENCE FAMILY HEALTH CENTER INC
+    Duration: 17:52:20 - 18:07:20
+
+  [17:52:20] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [17:52:20] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-09-20
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Yolanda648 Manuela585 is a 64 year-old hispanic white female.
+      # Social History
+
+  [17:52:20] DOCUMENT: History and physical note
+    Status: superseded
+
+  [18:07:20] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2024-03-13
+
+  [05:50:48] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Carlton317 Koch169
+    Location: Patient's Home
+    Duration: 05:50:48 - 06:21:12
+
+  [05:50:48] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [05:50:48] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-03-13
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Yolanda648 Manuela585 is a 64 year-old hispanic white female.
+      # Social History
+
+  [05:50:48] DOCUMENT: History and physical note
+    Status: superseded
+
+  [06:21:12] CLAIM: institutional
+    Amount: USD 556.40
+
+  [06:21:12] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Carlton317 Koch169
+    Location: TEWKSBURY HOSPITAL
+    Duration: 06:21:12 - 06:41:57
+
+  [06:21:12] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [06:21:12] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-03-13
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Yolanda648 Manuela585 is a 64 year-old hispanic white female.
+      # Social History
+
+  [06:21:12] DOCUMENT: History and physical note
+    Status: superseded
+
+  [06:41:57] CLAIM: professional
+    Amount: USD 325.49
+
+  [06:41:57] VISIT: Follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Carlton317 Koch169
+    Location: TEWKSBURY HOSPITAL
+    Duration: 06:41:57 - 07:00:25
+
+  [06:41:57] PROCEDURE: Bone density scan (procedure)
+    Status: completed
+
+  [06:41:57] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-03-13
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Yolanda648 Manuela585 is a 64 year-old hispanic white female.
+      # Social History
+
+  [06:41:57] DOCUMENT: History and physical note
+    Status: superseded
+
+  [07:00:25] CLAIM: professional
+    Amount: USD 13910.57
+
+
+📅 2024-09-25
+
+  [17:52:20] VISIT: General examination of patient (procedure)
+    Provider: Dr. Alfonso758 Nava670
+    Location: GREATER LAWRENCE FAMILY HEALTH CENTER INC
+    Duration: 17:52:20 - 18:07:20
+
+  [17:52:20] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [17:52:20] IMMUNIZATION: Pneumococcal conjugate PCV 13
+    Status: completed
+
+  [17:52:20] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-09-25
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Yolanda648 Manuela585 is a 65 year-old hispanic white female.
+      # Social History
+
+  [17:52:20] DOCUMENT: History and physical note
+    Status: superseded
+
+  [18:07:20] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2025-03-17
+
+  [07:00:25] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Carlton317 Koch169
+    Location: TEWKSBURY HOSPITAL
+    Duration: 07:00:25 - 07:36:16
+
+  [07:00:25] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [07:00:25] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-03-17
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Yolanda648 Manuela585 is a 65 year-old hispanic white female.
+      # Social History
+
+  [07:00:25] DOCUMENT: History and physical note
+    Status: superseded
+
+  [07:36:16] CLAIM: professional
+    Amount: USD 573.98
+
+  [07:36:16] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Carlton317 Koch169
+    Location: TEWKSBURY HOSPITAL
+    Duration: 07:36:16 - 07:59:38
+
+  [07:36:16] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [07:36:16] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-03-17
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Yolanda648 Manuela585 is a 65 year-old hispanic white female.
+      # Social History
+
+  [07:36:16] DOCUMENT: History and physical note
+    Status: superseded
+
+  [07:59:38] CLAIM: professional
+    Amount: USD 223.16
+
+  [07:59:38] VISIT: Follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Carlton317 Koch169
+    Location: TEWKSBURY HOSPITAL
+    Duration: 07:59:38 - 08:21:29
+
+  [07:59:38] PROCEDURE: Bone density scan (procedure)
+    Status: completed
+
+  [07:59:38] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-03-17
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Yolanda648 Manuela585 is a 65 year-old hispanic white female.
+      # Social History
+
+  [07:59:38] DOCUMENT: History and physical note
+    Status: superseded
+
+  [08:21:29] CLAIM: professional
+    Amount: USD 6621.01
+
+
+📅 2025-10-01
+
+  [17:52:20] VISIT: General examination of patient (procedure)
+    Provider: Dr. Alfonso758 Nava670
+    Location: GREATER LAWRENCE FAMILY HEALTH CENTER INC
+    Duration: 17:52:20 - 18:07:20
+
+  [17:52:20] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [17:52:20] IMMUNIZATION: pneumococcal polysaccharide vaccine, 23 valent
+    Status: completed
+
+  [17:52:20] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-10-01
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Yolanda648 Manuela585 is a 66 year-old hispanic white female.
+      # Social History
+
+  [17:52:20] DOCUMENT: History and physical note
+    Status: current
+
+  [18:07:20] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2026-02-11
+
+  [16:52:20] PROVENANCE: Record activity
+    Agents: Dr. Alfonso758 Nava670, Dr. Alfonso758 Nava670
+
+================================================================================
+END OF TIMELINE (219 events)
+================================================================================

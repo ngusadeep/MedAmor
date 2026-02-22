@@ -1,0 +1,191 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Mrs. Ronna740 Haag279
+  Patient ID: 129023
+  Date of Birth: 1978-03-09
+  Gender: Female
+  Race: White
+  Ethnicity: Not Hispanic or Latino
+  Marital Status: Married
+  Address: 1063 Lindgren Manor, Northbridge, MA 00000
+  Phone: 555-229-7795
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2018-03-15
+
+  [10:31:18] VISIT: General examination of patient (procedure)
+    Provider: Dr. Colin861 Witting912
+    Location: PALMER FAMILY SERVICES LLC
+    Duration: 10:31:18 - 10:46:18
+
+  [10:31:18] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [10:31:18] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [10:31:18] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-03-15
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Ronna740 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [10:31:18] DOCUMENT: History and physical note
+    Status: superseded
+
+  [10:46:18] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2020-03-19
+
+  [10:31:18] VISIT: General examination of patient (procedure)
+    Provider: Dr. Colin861 Witting912
+    Location: PALMER FAMILY SERVICES LLC
+    Duration: 10:31:18 - 10:46:18
+
+  [10:31:18] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [10:31:18] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [10:31:18] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [10:31:18] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-03-19
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Ronna740 is a 42 year-old nonhispanic white female.
+      # Social History
+
+  [10:31:18] DOCUMENT: History and physical note
+    Status: superseded
+
+  [10:46:18] CLAIM: professional
+    Amount: USD 544.80
+
+
+📅 2021-03-04
+
+  [09:31:18] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Bennett146 Rippin620
+    Location: MILFORD REGIONAL MEDICAL CENTER
+    Duration: 09:31:18 - 09:46:18
+
+  [09:31:18] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+    Status: completed
+
+  [09:31:18] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-03-04
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Ronna740 is a 42 year-old nonhispanic white female.
+      # Social History
+
+  [09:31:18] DOCUMENT: History and physical note
+    Status: superseded
+
+  [09:46:18] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-04-01
+
+  [10:31:18] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Bennett146 Rippin620
+    Location: MILFORD REGIONAL MEDICAL CENTER
+    Duration: 10:31:18 - 10:46:18
+
+  [10:31:18] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+    Status: completed
+
+  [10:31:18] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-04-01
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Ronna740 is a 43 year-old nonhispanic white female.
+      # Social History
+
+  [10:31:18] DOCUMENT: History and physical note
+    Status: superseded
+
+  [10:46:18] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2022-03-24
+
+  [10:31:18] VISIT: General examination of patient (procedure)
+    Provider: Dr. Colin861 Witting912
+    Location: PALMER FAMILY SERVICES LLC
+    Duration: 10:31:18 - 10:46:18
+
+  [10:31:18] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [10:31:18] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-03-24
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Ronna740 is a 44 year-old nonhispanic white female.
+      # Social History
+
+  [10:31:18] DOCUMENT: History and physical note
+    Status: superseded
+
+  [10:46:18] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2024-03-28
+
+  [10:31:18] VISIT: General examination of patient (procedure)
+    Provider: Dr. Colin861 Witting912
+    Location: PALMER FAMILY SERVICES LLC
+    Duration: 10:31:18 - 10:46:18
+
+  [10:31:18] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [10:31:18] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-03-28
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Ronna740 is a 46 year-old nonhispanic white female.
+      # Social History
+
+  [10:31:18] DOCUMENT: History and physical note
+    Status: current
+
+  [10:46:18] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2026-02-12
+
+  [09:31:18] PROVENANCE: Record activity
+    Agents: Dr. Colin861 Witting912, Dr. Colin861 Witting912
+
+================================================================================
+END OF TIMELINE (34 events)
+================================================================================

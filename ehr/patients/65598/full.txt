@@ -1,0 +1,1245 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Mrs. Jama227 Sandy901 Feil794
+  Patient ID: 65598
+  Date of Birth: 1973-01-04
+  Gender: Female
+  Race: White
+  Ethnicity: Not Hispanic or Latino
+  Marital Status: Married
+  Address: 643 Konopelski Park, Barnstable, MA 02630
+  Phone: 555-431-6799
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2013-09-17
+
+  [10:55:01] VISIT: Periodic reevaluation and management of healthy individual (procedure)
+    Reason: Screening for malignant neoplasm of breast (procedure)
+    Provider: Dr. Arden380 Bergstrom287
+    Location: CAPE COD HOSPITAL INC
+    Duration: 10:55:01 - 21:35:53
+
+  [10:55:01] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2013-09-17
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Jama227 Sandy901 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [10:55:01] DOCUMENT: History and physical note
+    Status: superseded
+
+  [12:01:53] CONDITION: Malignant neoplasm of breast (disorder) (active)
+
+
+📅 2013-09-18
+
+  [21:35:53] CLAIM: professional
+    Amount: USD 4212.38
+
+
+📅 2016-04-03
+
+  [16:51:50] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Arden380 Bergstrom287
+    Location: CAPE COD HOSPITAL INC
+    Duration: 16:51:50 - 17:24:23
+
+  [16:51:50] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [16:51:50] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-04-03
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Jama227 Sandy901 is a 43 year-old nonhispanic white female.
+      # Social History
+
+  [16:51:50] DOCUMENT: History and physical note
+    Status: superseded
+
+  [17:24:23] CLAIM: professional
+    Amount: USD 573.98
+
+  [17:24:23] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Arden380 Bergstrom287
+    Location: CAPE COD HOSPITAL INC
+    Duration: 17:24:23 - 17:42:42
+
+  [17:24:23] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [17:24:23] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-04-03
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Jama227 Sandy901 is a 43 year-old nonhispanic white female.
+      # Social History
+
+  [17:24:23] DOCUMENT: History and physical note
+    Status: superseded
+
+  [17:42:42] CLAIM: professional
+    Amount: USD 211.60
+
+  [17:42:42] VISIT: Follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Arden380 Bergstrom287
+    Location: CAPE COD HOSPITAL INC
+    Duration: 17:42:42 - 18:00:00
+
+  [17:42:42] PROCEDURE: Bone density scan (procedure)
+    Status: completed
+
+  [17:42:42] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-04-03
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Jama227 Sandy901 is a 43 year-old nonhispanic white female.
+      # Social History
+
+  [17:42:42] DOCUMENT: History and physical note
+    Status: superseded
+
+  [18:00:00] OBSERVATION: Response to cancer treatment: Improving (qualifier value)
+
+  [18:00:00] CLAIM: professional
+    Amount: USD 4181.24
+
+
+📅 2016-07-27
+
+  [18:00:00] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Arden380 Bergstrom287
+    Location: CAPE COD HOSPITAL INC
+    Duration: 18:00:00 - 18:36:22
+
+  [18:00:00] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [18:00:00] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-07-27
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Jama227 Sandy901 is a 43 year-old nonhispanic white female.
+      # Social History
+
+  [18:00:00] DOCUMENT: History and physical note
+    Status: superseded
+
+  [18:36:22] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2016-11-18
+
+  [17:36:22] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Arden380 Bergstrom287
+    Location: CAPE COD HOSPITAL INC
+    Duration: 17:36:22 - 18:08:10
+
+  [17:36:22] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [17:36:22] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-11-18
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Jama227 Sandy901 is a 43 year-old nonhispanic white female.
+      # Social History
+
+  [17:36:22] DOCUMENT: History and physical note
+    Status: superseded
+
+  [18:08:10] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2017-01-19
+
+  [09:55:01] VISIT: General examination of patient (procedure)
+    Provider: Dr. Kirk871 Erdman779
+    Location: HARBOR HEALTH SERVICES INC
+    Duration: 09:55:01 - 10:10:01
+
+  [09:55:01] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [09:55:01] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-01-19
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Jama227 Sandy901 is a 44 year-old nonhispanic white female.
+      # Social History
+
+  [09:55:01] DOCUMENT: History and physical note
+    Status: superseded
+
+  [10:10:01] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2017-03-23
+
+  [19:08:10] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Arden380 Bergstrom287
+    Location: CAPE COD HOSPITAL INC
+    Duration: 19:08:10 - 19:49:25
+
+  [19:08:10] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [19:08:10] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-03-23
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Jama227 Sandy901 is a 44 year-old nonhispanic white female.
+      # Social History
+
+  [19:08:10] DOCUMENT: History and physical note
+    Status: superseded
+
+  [19:49:25] CLAIM: professional
+    Amount: USD 573.98
+
+  [19:49:25] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Arden380 Bergstrom287
+    Location: CAPE COD HOSPITAL INC
+    Duration: 19:49:25 - 20:10:19
+
+  [19:49:25] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [19:49:25] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-03-23
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Jama227 Sandy901 is a 44 year-old nonhispanic white female.
+      # Social History
+
+  [19:49:25] DOCUMENT: History and physical note
+    Status: superseded
+
+  [20:10:19] CLAIM: professional
+    Amount: USD 325.49
+
+  [20:10:19] VISIT: Follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Arden380 Bergstrom287
+    Location: CAPE COD HOSPITAL INC
+    Duration: 20:10:19 - 20:25:19
+
+  [20:10:19] PROCEDURE: Bone density scan (procedure)
+    Status: completed
+
+  [20:10:19] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-03-23
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Jama227 Sandy901 is a 44 year-old nonhispanic white female.
+      # Social History
+
+  [20:10:19] DOCUMENT: History and physical note
+    Status: superseded
+
+  [20:21:53] OBSERVATION: Response to cancer treatment: Improving (qualifier value)
+
+  [20:25:19] CLAIM: professional
+    Amount: USD 4236.96
+
+
+📅 2017-07-22
+
+  [20:21:53] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Arden380 Bergstrom287
+    Location: CAPE COD HOSPITAL INC
+    Duration: 20:21:53 - 20:54:50
+
+  [20:21:53] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [20:21:53] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-07-22
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Jama227 Sandy901 is a 44 year-old nonhispanic white female.
+      # Social History
+
+  [20:21:53] DOCUMENT: History and physical note
+    Status: superseded
+
+  [20:54:50] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2017-11-08
+
+  [19:54:50] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Arden380 Bergstrom287
+    Location: CAPE COD HOSPITAL INC
+    Duration: 19:54:50 - 20:28:12
+
+  [19:54:50] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [19:54:50] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-11-08
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Jama227 Sandy901 is a 44 year-old nonhispanic white female.
+      # Social History
+
+  [19:54:50] DOCUMENT: History and physical note
+    Status: superseded
+
+  [20:28:12] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2018-02-27
+
+  [20:28:12] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Arden380 Bergstrom287
+    Location: CAPE COD HOSPITAL INC
+    Duration: 20:28:12 - 21:00:12
+
+  [20:28:12] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [20:28:12] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-02-27
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Jama227 Sandy901 is a 45 year-old nonhispanic white female.
+      # Social History
+
+  [20:28:12] DOCUMENT: History and physical note
+    Status: superseded
+
+  [21:00:12] CLAIM: professional
+    Amount: USD 573.98
+
+  [21:00:12] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Arden380 Bergstrom287
+    Location: CAPE COD HOSPITAL INC
+    Duration: 21:00:12 - 21:22:01
+
+  [21:00:12] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [21:00:12] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-02-27
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Jama227 Sandy901 is a 45 year-old nonhispanic white female.
+      # Social History
+
+  [21:00:12] DOCUMENT: History and physical note
+    Status: superseded
+
+  [21:22:01] CLAIM: professional
+    Amount: USD 211.60
+
+  [21:22:01] VISIT: Follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Arden380 Bergstrom287
+    Location: CAPE COD HOSPITAL INC
+    Duration: 21:22:01 - 21:46:26
+
+  [21:22:01] PROCEDURE: Bone density scan (procedure)
+    Status: completed
+
+  [21:22:01] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-02-27
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Jama227 Sandy901 is a 45 year-old nonhispanic white female.
+      # Social History
+
+  [21:22:01] DOCUMENT: History and physical note
+    Status: superseded
+
+  [21:46:26] OBSERVATION: Response to cancer treatment: Improving (qualifier value)
+
+  [21:46:26] CLAIM: professional
+    Amount: USD 16138.23
+
+
+📅 2018-06-22
+
+  [22:46:26] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Arden380 Bergstrom287
+    Location: CAPE COD HOSPITAL INC
+    Duration: 22:46:26 - 23:30:01
+
+  [22:46:26] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [22:46:26] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-06-22
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Jama227 Sandy901 is a 45 year-old nonhispanic white female.
+      # Social History
+
+  [22:46:26] DOCUMENT: History and physical note
+    Status: superseded
+
+  [23:30:01] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2018-10-17
+
+  [23:30:01] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Arden380 Bergstrom287
+    Location: CAPE COD HOSPITAL INC
+    Duration: 23:30:01 - 00:04:31
+
+  [23:30:01] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [23:30:01] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-10-17
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Jama227 Sandy901 is a 45 year-old nonhispanic white female.
+      # Social History
+
+  [23:30:01] DOCUMENT: History and physical note
+    Status: superseded
+
+
+📅 2018-10-18
+
+  [00:04:31] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2019-01-24
+
+  [09:55:01] VISIT: General examination of patient (procedure)
+    Provider: Dr. Kirk871 Erdman779
+    Location: HARBOR HEALTH SERVICES INC
+    Duration: 09:55:01 - 10:10:01
+
+  [09:55:01] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [09:55:01] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-01-24
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Jama227 Sandy901 is a 46 year-old nonhispanic white female.
+      # Social History
+
+  [09:55:01] DOCUMENT: History and physical note
+    Status: superseded
+
+  [10:10:01] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2019-02-12
+
+  [23:04:31] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Arden380 Bergstrom287
+    Location: CAPE COD HOSPITAL INC
+    Duration: 23:04:31 - 23:45:34
+
+  [23:04:31] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [23:04:31] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-02-12
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Jama227 Sandy901 is a 46 year-old nonhispanic white female.
+      # Social History
+
+  [23:04:31] DOCUMENT: History and physical note
+    Status: superseded
+
+  [23:45:34] CLAIM: professional
+    Amount: USD 573.98
+
+  [23:45:34] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Arden380 Bergstrom287
+    Location: CAPE COD HOSPITAL INC
+    Duration: 23:45:34 - 00:04:12
+
+  [23:45:34] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [23:45:34] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-02-12
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Jama227 Sandy901 is a 46 year-old nonhispanic white female.
+      # Social History
+
+  [23:45:34] DOCUMENT: History and physical note
+    Status: superseded
+
+
+📅 2019-02-13
+
+  [00:04:12] CLAIM: professional
+    Amount: USD 211.60
+
+  [00:04:12] VISIT: Follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Arden380 Bergstrom287
+    Location: CAPE COD HOSPITAL INC
+    Duration: 00:04:12 - 00:19:55
+
+  [00:04:12] PROCEDURE: Bone density scan (procedure)
+    Status: completed
+
+  [00:04:12] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-02-13
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Jama227 Sandy901 is a 46 year-old nonhispanic white female.
+      # Social History
+
+  [00:04:12] DOCUMENT: History and physical note
+    Status: superseded
+
+  [00:19:55] CLAIM: professional
+    Amount: USD 5670.44
+
+
+📅 2020-01-16
+
+  [00:19:55] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Arden380 Bergstrom287
+    Location: CAPE COD HOSPITAL INC
+    Duration: 00:19:55 - 00:57:26
+
+  [00:19:55] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [00:19:55] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-01-16
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Jama227 Sandy901 is a 47 year-old nonhispanic white female.
+      # Social History
+
+  [00:19:55] DOCUMENT: History and physical note
+    Status: superseded
+
+  [00:57:26] CLAIM: professional
+    Amount: USD 573.98
+
+  [00:57:26] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Arden380 Bergstrom287
+    Location: CAPE COD HOSPITAL INC
+    Duration: 00:57:26 - 01:19:02
+
+  [00:57:26] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [00:57:26] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-01-16
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Jama227 Sandy901 is a 47 year-old nonhispanic white female.
+      # Social History
+
+  [00:57:26] DOCUMENT: History and physical note
+    Status: superseded
+
+  [01:19:02] CLAIM: professional
+    Amount: USD 325.49
+
+  [01:19:02] VISIT: Follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Arden380 Bergstrom287
+    Location: CAPE COD HOSPITAL INC
+    Duration: 01:19:02 - 01:34:02
+
+  [01:19:02] PROCEDURE: Bone density scan (procedure)
+    Status: completed
+
+  [01:19:02] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-01-16
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Jama227 Sandy901 is a 47 year-old nonhispanic white female.
+      # Social History
+
+  [01:19:02] DOCUMENT: History and physical note
+    Status: superseded
+
+  [01:34:02] CLAIM: professional
+    Amount: USD 14431.86
+
+
+📅 2021-01-16
+
+  [01:33:26] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Arden380 Bergstrom287
+    Location: CAPE COD HOSPITAL INC
+    Duration: 01:33:26 - 02:08:58
+
+  [01:33:26] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [01:33:26] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-01-16
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Jama227 Sandy901 is a 48 year-old nonhispanic white female.
+      # Social History
+
+  [01:33:26] DOCUMENT: History and physical note
+    Status: superseded
+
+  [02:08:58] CLAIM: professional
+    Amount: USD 573.98
+
+  [02:08:58] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Arden380 Bergstrom287
+    Location: CAPE COD HOSPITAL INC
+    Duration: 02:08:58 - 02:32:41
+
+  [02:08:58] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [02:08:58] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-01-16
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Jama227 Sandy901 is a 48 year-old nonhispanic white female.
+      # Social History
+
+  [02:08:58] DOCUMENT: History and physical note
+    Status: superseded
+
+  [02:32:41] CLAIM: professional
+    Amount: USD 211.60
+
+  [02:32:41] VISIT: Follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Arden380 Bergstrom287
+    Location: CAPE COD HOSPITAL INC
+    Duration: 02:32:41 - 02:47:41
+
+  [02:32:41] PROCEDURE: Bone density scan (procedure)
+    Status: completed
+
+  [02:32:41] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-01-16
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Jama227 Sandy901 is a 48 year-old nonhispanic white female.
+      # Social History
+
+  [02:32:41] DOCUMENT: History and physical note
+    Status: superseded
+
+  [02:47:41] CLAIM: professional
+    Amount: USD 4181.24
+
+
+📅 2021-01-28
+
+  [09:55:01] VISIT: General examination of patient (procedure)
+    Provider: Dr. Kirk871 Erdman779
+    Location: HARBOR HEALTH SERVICES INC
+    Duration: 09:55:01 - 10:10:01
+
+  [09:55:01] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [09:55:01] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-01-28
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Jama227 Sandy901 is a 48 year-old nonhispanic white female.
+      # Social History
+
+  [09:55:01] DOCUMENT: History and physical note
+    Status: superseded
+
+  [10:10:01] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2021-12-23
+
+  [02:45:57] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Arden380 Bergstrom287
+    Location: CAPE COD HOSPITAL INC
+    Duration: 02:45:57 - 03:21:08
+
+  [02:45:57] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [02:45:57] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-12-23
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Jama227 Sandy901 is a 48 year-old nonhispanic white female.
+      # Social History
+
+  [02:45:57] DOCUMENT: History and physical note
+    Status: superseded
+
+  [03:21:08] CLAIM: professional
+    Amount: USD 573.98
+
+  [03:21:08] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Arden380 Bergstrom287
+    Location: CAPE COD HOSPITAL INC
+    Duration: 03:21:08 - 03:41:30
+
+  [03:21:08] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [03:21:08] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-12-23
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Jama227 Sandy901 is a 48 year-old nonhispanic white female.
+      # Social History
+
+  [03:21:08] DOCUMENT: History and physical note
+    Status: superseded
+
+  [03:41:30] CLAIM: professional
+    Amount: USD 219.76
+
+  [03:41:30] VISIT: Follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Arden380 Bergstrom287
+    Location: CAPE COD HOSPITAL INC
+    Duration: 03:41:30 - 03:58:45
+
+  [03:41:30] PROCEDURE: Bone density scan (procedure)
+    Status: completed
+
+  [03:41:30] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-12-23
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Jama227 Sandy901 is a 48 year-old nonhispanic white female.
+      # Social History
+
+  [03:41:30] DOCUMENT: History and physical note
+    Status: superseded
+
+  [03:58:45] CLAIM: professional
+    Amount: USD 4181.24
+
+
+📅 2023-01-05
+
+  [09:55:01] VISIT: General examination of patient (procedure)
+    Provider: Dr. Kirk871 Erdman779
+    Location: HARBOR HEALTH SERVICES INC
+    Duration: 09:55:01 - 10:10:01
+
+  [09:55:01] IMMUNIZATION: zoster vaccine, live
+    Status: completed
+
+  [09:55:01] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [09:55:01] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-01-05
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Jama227 Sandy901 is a 50 year-old nonhispanic white female.
+      # Social History
+
+  [09:55:01] DOCUMENT: History and physical note
+    Status: superseded
+
+  [10:10:01] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2023-01-12
+
+  [09:55:01] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Arden380 Bergstrom287
+    Location: CAPE COD HOSPITAL INC
+    Duration: 09:55:01 - 10:34:11
+
+  [09:55:01] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [09:55:01] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-01-12
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Jama227 Sandy901 is a 50 year-old nonhispanic white female.
+      # Social History
+
+  [09:55:01] DOCUMENT: History and physical note
+    Status: superseded
+
+  [10:34:11] CLAIM: professional
+    Amount: USD 573.98
+
+  [10:34:11] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Arden380 Bergstrom287
+    Location: CAPE COD HOSPITAL INC
+    Duration: 10:34:11 - 10:58:11
+
+  [10:34:11] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [10:34:11] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-01-12
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Jama227 Sandy901 is a 50 year-old nonhispanic white female.
+      # Social History
+
+  [10:34:11] DOCUMENT: History and physical note
+    Status: superseded
+
+  [10:58:11] CLAIM: professional
+    Amount: USD 211.60
+
+  [10:58:11] VISIT: Follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Arden380 Bergstrom287
+    Location: CAPE COD HOSPITAL INC
+    Duration: 10:58:11 - 11:22:48
+
+  [10:58:11] PROCEDURE: Bone density scan (procedure)
+    Status: completed
+
+  [10:58:11] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-01-12
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Jama227 Sandy901 is a 50 year-old nonhispanic white female.
+      # Social History
+
+  [10:58:11] DOCUMENT: History and physical note
+    Status: superseded
+
+  [11:22:48] CLAIM: professional
+    Amount: USD 15484.87
+
+
+📅 2023-12-25
+
+  [11:22:48] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Arden380 Bergstrom287
+    Location: CAPE COD HOSPITAL INC
+    Duration: 11:22:48 - 11:53:15
+
+  [11:22:48] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [11:22:48] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-12-25
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Jama227 Sandy901 is a 50 year-old nonhispanic white female.
+      # Social History
+
+  [11:22:48] DOCUMENT: History and physical note
+    Status: superseded
+
+  [11:53:15] CLAIM: professional
+    Amount: USD 573.98
+
+  [11:53:15] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Arden380 Bergstrom287
+    Location: CAPE COD HOSPITAL INC
+    Duration: 11:53:15 - 12:08:56
+
+  [11:53:15] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [11:53:15] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-12-25
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Jama227 Sandy901 is a 50 year-old nonhispanic white female.
+      # Social History
+
+  [11:53:15] DOCUMENT: History and physical note
+    Status: superseded
+
+  [12:08:56] CLAIM: professional
+    Amount: USD 211.60
+
+  [12:08:56] VISIT: Follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Arden380 Bergstrom287
+    Location: CAPE COD HOSPITAL INC
+    Duration: 12:08:56 - 12:23:56
+
+  [12:08:56] PROCEDURE: Bone density scan (procedure)
+    Status: completed
+
+  [12:08:56] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-12-25
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Jama227 Sandy901 is a 50 year-old nonhispanic white female.
+      # Social History
+
+  [12:08:56] DOCUMENT: History and physical note
+    Status: superseded
+
+  [12:23:56] CLAIM: professional
+    Amount: USD 4181.24
+
+
+📅 2024-01-11
+
+  [09:55:01] VISIT: General examination of patient (procedure)
+    Provider: Dr. Kirk871 Erdman779
+    Location: HARBOR HEALTH SERVICES INC
+    Duration: 09:55:01 - 10:10:01
+
+  [09:55:01] IMMUNIZATION: zoster vaccine, live
+    Status: completed
+
+  [09:55:01] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [09:55:01] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [09:55:01] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-01-11
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Jama227 Sandy901 is a 51 year-old nonhispanic white female.
+      # Social History
+
+  [09:55:01] DOCUMENT: History and physical note
+    Status: superseded
+
+  [10:10:01] CLAIM: professional
+    Amount: USD 544.80
+
+
+📅 2024-12-28
+
+  [12:22:58] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Arden380 Bergstrom287
+    Location: CAPE COD HOSPITAL INC
+    Duration: 12:22:58 - 13:03:46
+
+  [12:22:58] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [12:22:58] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-12-28
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Jama227 Sandy901 is a 51 year-old nonhispanic white female.
+      # Social History
+
+  [12:22:58] DOCUMENT: History and physical note
+    Status: superseded
+
+  [13:03:46] CLAIM: professional
+    Amount: USD 573.98
+
+  [13:03:46] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Arden380 Bergstrom287
+    Location: CAPE COD HOSPITAL INC
+    Duration: 13:03:46 - 13:23:42
+
+  [13:03:46] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [13:03:46] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-12-28
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Jama227 Sandy901 is a 51 year-old nonhispanic white female.
+      # Social History
+
+  [13:03:46] DOCUMENT: History and physical note
+    Status: superseded
+
+  [13:23:42] CLAIM: professional
+    Amount: USD 280.85
+
+  [13:23:42] VISIT: Follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Arden380 Bergstrom287
+    Location: CAPE COD HOSPITAL INC
+    Duration: 13:23:42 - 13:47:10
+
+  [13:23:42] PROCEDURE: Bone density scan (procedure)
+    Status: completed
+
+  [13:23:42] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-12-28
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Jama227 Sandy901 is a 51 year-old nonhispanic white female.
+      # Social History
+
+  [13:23:42] DOCUMENT: History and physical note
+    Status: superseded
+
+  [13:47:10] CLAIM: professional
+    Amount: USD 4181.24
+
+
+📅 2025-01-16
+
+  [09:55:01] VISIT: General examination of patient (procedure)
+    Provider: Dr. Kirk871 Erdman779
+    Location: HARBOR HEALTH SERVICES INC
+    Duration: 09:55:01 - 10:10:01
+
+  [09:55:01] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [09:55:01] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-01-16
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Jama227 Sandy901 is a 52 year-old nonhispanic white female.
+      # Social History
+
+  [09:55:01] DOCUMENT: History and physical note
+    Status: superseded
+
+  [10:10:01] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2025-12-26
+
+  [13:47:10] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Arden380 Bergstrom287
+    Location: CAPE COD HOSPITAL INC
+    Duration: 13:47:10 - 14:27:47
+
+  [13:47:10] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [13:47:10] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-12-26
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Jama227 Sandy901 is a 52 year-old nonhispanic white female.
+      # Social History
+
+  [13:47:10] DOCUMENT: History and physical note
+    Status: superseded
+
+  [14:27:47] CLAIM: professional
+    Amount: USD 573.98
+
+  [14:27:47] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Arden380 Bergstrom287
+    Location: CAPE COD HOSPITAL INC
+    Duration: 14:27:47 - 14:44:44
+
+  [14:27:47] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [14:27:47] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-12-26
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Jama227 Sandy901 is a 52 year-old nonhispanic white female.
+      # Social History
+
+  [14:27:47] DOCUMENT: History and physical note
+    Status: superseded
+
+  [14:44:44] CLAIM: professional
+    Amount: USD 211.60
+
+  [14:44:44] VISIT: Follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Arden380 Bergstrom287
+    Location: CAPE COD HOSPITAL INC
+    Duration: 14:44:44 - 14:59:44
+
+  [14:44:44] PROCEDURE: Bone density scan (procedure)
+    Status: completed
+
+  [14:44:44] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-12-26
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Jama227 Sandy901 is a 52 year-old nonhispanic white female.
+      # Social History
+
+  [14:44:44] DOCUMENT: History and physical note
+    Status: superseded
+
+  [14:59:44] CLAIM: professional
+    Amount: USD 6568.98
+
+
+📅 2026-01-22
+
+  [09:55:01] VISIT: General examination of patient (procedure)
+    Provider: Dr. Kirk871 Erdman779
+    Location: HARBOR HEALTH SERVICES INC
+    Duration: 09:55:01 - 10:10:01
+
+  [09:55:01] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [09:55:01] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2026-01-22
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Jama227 Sandy901 is a 53 year-old nonhispanic white female.
+      # Social History
+
+  [09:55:01] DOCUMENT: History and physical note
+    Status: current
+
+  [10:10:01] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2026-02-12
+
+  [09:55:01] PROVENANCE: Record activity
+    Agents: Dr. Kirk871 Erdman779, Dr. Kirk871 Erdman779
+
+================================================================================
+END OF TIMELINE (242 events)
+================================================================================

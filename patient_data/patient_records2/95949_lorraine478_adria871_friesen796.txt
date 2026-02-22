@@ -1,0 +1,1153 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Mrs. Lorraine478 Adria871 Friesen796
+  Patient ID: 95949
+  Date of Birth: 1957-03-30
+  Gender: Female
+  Race: Native Hawaiian or Other Pacific Islander
+  Ethnicity: Not Hispanic or Latino
+  Marital Status: Married
+  Address: 1079 Graham Loaf Suite 94, Milford, MA 01757
+  Phone: 555-545-8330
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2008-11-24
+
+  [04:07:22] VISIT: Periodic reevaluation and management of healthy individual (procedure)
+    Reason: Screening for malignant neoplasm of breast (procedure)
+    Provider: Dr. Bennett146 Rippin620
+    Location: MILFORD REGIONAL MEDICAL CENTER
+    Duration: 04:07:22 - 11:16:28
+
+  [04:07:22] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2008-11-24
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lorraine478 Adria871 is a 51 year-old nonhispanic hawaiian female.
+      # Social History
+
+  [04:07:22] DOCUMENT: History and physical note
+    Status: superseded
+
+  [05:41:28] CONDITION: Malignant neoplasm of breast (disorder) (active)
+
+
+📅 2008-11-25
+
+  [11:16:28] CLAIM: professional
+    Amount: USD 8737.21
+
+
+📅 2016-05-21
+
+  [05:07:22] VISIT: General examination of patient (procedure)
+    Provider: Dr. Colin861 Witting912
+    Location: PALMER FAMILY SERVICES LLC
+    Duration: 05:07:22 - 05:22:22
+
+  [05:07:22] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [05:07:22] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-05-21
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lorraine478 Adria871 is a 59 year-old nonhispanic hawaiian female.
+      # Social History
+
+  [05:07:22] DOCUMENT: History and physical note
+    Status: superseded
+
+  [05:22:22] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2016-09-05
+
+  [03:52:54] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Bennett146 Rippin620
+    Location: MILFORD REGIONAL MEDICAL CENTER
+    Duration: 03:52:54 - 04:28:07
+
+  [03:52:54] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [03:52:54] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-09-05
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lorraine478 Adria871 is a 59 year-old nonhispanic hawaiian female.
+      # Social History
+
+  [03:52:54] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:28:07] CLAIM: professional
+    Amount: USD 573.98
+
+  [04:28:07] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Bennett146 Rippin620
+    Location: MILFORD REGIONAL MEDICAL CENTER
+    Duration: 04:28:07 - 04:52:12
+
+  [04:28:07] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [04:28:07] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-09-05
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lorraine478 Adria871 is a 59 year-old nonhispanic hawaiian female.
+      # Social History
+
+  [04:28:07] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:52:12] CLAIM: professional
+    Amount: USD 299.12
+
+  [04:52:12] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Bennett146 Rippin620
+    Location: MILFORD REGIONAL MEDICAL CENTER
+    Duration: 04:52:12 - 05:24:45
+
+  [04:52:12] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [04:52:12] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-09-05
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lorraine478 Adria871 is a 59 year-old nonhispanic hawaiian female.
+      # Social History
+
+  [04:52:12] DOCUMENT: History and physical note
+    Status: superseded
+
+  [05:06:33] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [05:24:45] CLAIM: professional
+    Amount: USD 3809.48
+
+
+📅 2017-05-27
+
+  [05:07:22] VISIT: General examination of patient (procedure)
+    Provider: Dr. Colin861 Witting912
+    Location: PALMER FAMILY SERVICES LLC
+    Duration: 05:07:22 - 05:22:22
+
+  [05:07:22] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [05:07:22] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-05-27
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lorraine478 Adria871 is a 60 year-old nonhispanic hawaiian female.
+      # Social History
+
+  [05:07:22] DOCUMENT: History and physical note
+    Status: superseded
+
+  [05:22:22] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2017-08-08
+
+  [05:24:45] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Bennett146 Rippin620
+    Location: MILFORD REGIONAL MEDICAL CENTER
+    Duration: 05:24:45 - 05:59:50
+
+  [05:24:45] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [05:24:45] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-08-08
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lorraine478 Adria871 is a 60 year-old nonhispanic hawaiian female.
+      # Social History
+
+  [05:24:45] DOCUMENT: History and physical note
+    Status: superseded
+
+  [05:59:50] CLAIM: professional
+    Amount: USD 573.98
+
+  [05:59:50] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Bennett146 Rippin620
+    Location: MILFORD REGIONAL MEDICAL CENTER
+    Duration: 05:59:50 - 06:15:38
+
+  [05:59:50] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [05:59:50] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-08-08
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lorraine478 Adria871 is a 60 year-old nonhispanic hawaiian female.
+      # Social History
+
+  [05:59:50] DOCUMENT: History and physical note
+    Status: superseded
+
+  [06:15:38] CLAIM: professional
+    Amount: USD 272.30
+
+  [06:15:38] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Bennett146 Rippin620
+    Location: MILFORD REGIONAL MEDICAL CENTER
+    Duration: 06:15:38 - 06:40:46
+
+  [06:15:38] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [06:15:38] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-08-08
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lorraine478 Adria871 is a 60 year-old nonhispanic hawaiian female.
+      # Social History
+
+  [06:15:38] DOCUMENT: History and physical note
+    Status: superseded
+
+  [06:28:05] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [06:40:46] CLAIM: professional
+    Amount: USD 1091.66
+
+
+📅 2018-06-02
+
+  [05:07:22] VISIT: General examination of patient (procedure)
+    Provider: Dr. Colin861 Witting912
+    Location: PALMER FAMILY SERVICES LLC
+    Duration: 05:07:22 - 05:22:22
+
+  [05:07:22] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [05:07:22] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [05:07:22] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-06-02
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lorraine478 Adria871 is a 61 year-old nonhispanic hawaiian female.
+      # Social History
+
+  [05:07:22] DOCUMENT: History and physical note
+    Status: superseded
+
+  [05:22:22] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2018-08-04
+
+  [06:40:46] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Bennett146 Rippin620
+    Location: MILFORD REGIONAL MEDICAL CENTER
+    Duration: 06:40:46 - 07:24:50
+
+  [06:40:46] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [06:40:46] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-08-04
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lorraine478 Adria871 is a 61 year-old nonhispanic hawaiian female.
+      # Social History
+
+  [06:40:46] DOCUMENT: History and physical note
+    Status: superseded
+
+  [07:24:50] CLAIM: professional
+    Amount: USD 573.98
+
+  [07:24:50] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Bennett146 Rippin620
+    Location: MILFORD REGIONAL MEDICAL CENTER
+    Duration: 07:24:50 - 07:45:06
+
+  [07:24:50] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [07:24:50] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-08-04
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lorraine478 Adria871 is a 61 year-old nonhispanic hawaiian female.
+      # Social History
+
+  [07:24:50] DOCUMENT: History and physical note
+    Status: superseded
+
+  [07:45:06] CLAIM: professional
+    Amount: USD 311.19
+
+  [07:45:06] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Bennett146 Rippin620
+    Location: MILFORD REGIONAL MEDICAL CENTER
+    Duration: 07:45:06 - 08:17:49
+
+  [07:45:06] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [07:45:06] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-08-04
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lorraine478 Adria871 is a 61 year-old nonhispanic hawaiian female.
+      # Social History
+
+  [07:45:06] DOCUMENT: History and physical note
+    Status: superseded
+
+  [07:59:49] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [08:17:49] CLAIM: professional
+    Amount: USD 1110.13
+
+
+📅 2019-06-08
+
+  [05:07:22] VISIT: General examination of patient (procedure)
+    Provider: Dr. Colin861 Witting912
+    Location: PALMER FAMILY SERVICES LLC
+    Duration: 05:07:22 - 05:22:22
+
+  [05:07:22] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [05:07:22] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-06-08
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lorraine478 Adria871 is a 62 year-old nonhispanic hawaiian female.
+      # Social History
+
+  [05:07:22] DOCUMENT: History and physical note
+    Status: superseded
+
+  [05:22:22] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2019-08-21
+
+  [08:17:49] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Bennett146 Rippin620
+    Location: MILFORD REGIONAL MEDICAL CENTER
+    Duration: 08:17:49 - 08:58:24
+
+  [08:17:49] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [08:17:49] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-08-21
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lorraine478 Adria871 is a 62 year-old nonhispanic hawaiian female.
+      # Social History
+
+  [08:17:49] DOCUMENT: History and physical note
+    Status: superseded
+
+  [08:58:24] CLAIM: professional
+    Amount: USD 573.98
+
+  [08:58:24] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Bennett146 Rippin620
+    Location: MILFORD REGIONAL MEDICAL CENTER
+    Duration: 08:58:24 - 09:19:53
+
+  [08:58:24] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [08:58:24] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-08-21
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lorraine478 Adria871 is a 62 year-old nonhispanic hawaiian female.
+      # Social History
+
+  [08:58:24] DOCUMENT: History and physical note
+    Status: superseded
+
+  [09:19:53] CLAIM: professional
+    Amount: USD 211.60
+
+  [09:19:53] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Bennett146 Rippin620
+    Location: MILFORD REGIONAL MEDICAL CENTER
+    Duration: 09:19:53 - 09:50:20
+
+  [09:19:53] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [09:19:53] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-08-21
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lorraine478 Adria871 is a 62 year-old nonhispanic hawaiian female.
+      # Social History
+
+  [09:19:53] DOCUMENT: History and physical note
+    Status: superseded
+
+  [09:34:39] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [09:50:20] CLAIM: professional
+    Amount: USD 3680.06
+
+
+📅 2020-06-13
+
+  [05:07:22] VISIT: General examination of patient (procedure)
+    Provider: Dr. Colin861 Witting912
+    Location: PALMER FAMILY SERVICES LLC
+    Duration: 05:07:22 - 05:22:22
+
+  [05:07:22] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [05:07:22] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-06-13
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lorraine478 Adria871 is a 63 year-old nonhispanic hawaiian female.
+      # Social History
+
+  [05:07:22] DOCUMENT: History and physical note
+    Status: superseded
+
+  [05:22:22] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2020-08-12
+
+  [09:50:20] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Bennett146 Rippin620
+    Location: Patient's Home
+    Duration: 09:50:20 - 10:31:18
+
+  [09:50:20] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [09:50:20] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-08-12
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lorraine478 Adria871 is a 63 year-old nonhispanic hawaiian female.
+      # Social History
+
+  [09:50:20] DOCUMENT: History and physical note
+    Status: superseded
+
+  [10:31:18] CLAIM: institutional
+    Amount: USD 556.40
+
+  [10:31:18] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Bennett146 Rippin620
+    Location: MILFORD REGIONAL MEDICAL CENTER
+    Duration: 10:31:18 - 10:51:04
+
+  [10:31:18] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [10:31:18] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-08-12
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lorraine478 Adria871 is a 63 year-old nonhispanic hawaiian female.
+      # Social History
+
+  [10:31:18] DOCUMENT: History and physical note
+    Status: superseded
+
+  [10:51:04] CLAIM: professional
+    Amount: USD 262.25
+
+  [10:51:04] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Bennett146 Rippin620
+    Location: MILFORD REGIONAL MEDICAL CENTER
+    Duration: 10:51:04 - 11:19:44
+
+  [10:51:04] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [10:51:04] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-08-12
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lorraine478 Adria871 is a 63 year-old nonhispanic hawaiian female.
+      # Social History
+
+  [10:51:04] DOCUMENT: History and physical note
+    Status: superseded
+
+  [11:04:13] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [11:19:44] CLAIM: professional
+    Amount: USD 1988.02
+
+
+📅 2021-06-19
+
+  [05:07:22] VISIT: General examination of patient (procedure)
+    Provider: Dr. Colin861 Witting912
+    Location: PALMER FAMILY SERVICES LLC
+    Duration: 05:07:22 - 05:22:22
+
+  [05:07:22] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [05:07:22] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-06-19
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lorraine478 Adria871 is a 64 year-old nonhispanic hawaiian female.
+      # Social History
+
+  [05:07:22] DOCUMENT: History and physical note
+    Status: superseded
+
+  [05:22:22] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2021-07-16
+
+  [11:19:44] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Bennett146 Rippin620
+    Location: MILFORD REGIONAL MEDICAL CENTER
+    Duration: 11:19:44 - 11:57:27
+
+  [11:19:44] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [11:19:44] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-07-16
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lorraine478 Adria871 is a 64 year-old nonhispanic hawaiian female.
+      # Social History
+
+  [11:19:44] DOCUMENT: History and physical note
+    Status: superseded
+
+  [11:57:27] CLAIM: professional
+    Amount: USD 573.98
+
+  [11:57:27] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Bennett146 Rippin620
+    Location: MILFORD REGIONAL MEDICAL CENTER
+    Duration: 11:57:27 - 12:16:11
+
+  [11:57:27] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [11:57:27] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-07-16
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lorraine478 Adria871 is a 64 year-old nonhispanic hawaiian female.
+      # Social History
+
+  [11:57:27] DOCUMENT: History and physical note
+    Status: superseded
+
+  [12:16:11] CLAIM: professional
+    Amount: USD 211.60
+
+  [12:16:11] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Bennett146 Rippin620
+    Location: MILFORD REGIONAL MEDICAL CENTER
+    Duration: 12:16:11 - 12:40:22
+
+  [12:16:11] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [12:16:11] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-07-16
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lorraine478 Adria871 is a 64 year-old nonhispanic hawaiian female.
+      # Social History
+
+  [12:16:11] DOCUMENT: History and physical note
+    Status: superseded
+
+  [12:27:23] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [12:40:22] CLAIM: professional
+    Amount: USD 2490.93
+
+
+📅 2021-07-17
+
+  [05:07:22] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Bennett146 Rippin620
+    Location: MILFORD REGIONAL MEDICAL CENTER
+    Duration: 05:07:22 - 05:22:22
+
+  [05:07:22] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 30 mcg/0.3 mL dose
+    Status: completed
+
+  [05:07:22] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-07-17
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lorraine478 Adria871 is a 64 year-old nonhispanic hawaiian female.
+      # Social History
+
+  [05:07:22] DOCUMENT: History and physical note
+    Status: superseded
+
+  [05:22:22] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-08-07
+
+  [05:07:22] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Bennett146 Rippin620
+    Location: MILFORD REGIONAL MEDICAL CENTER
+    Duration: 05:07:22 - 05:22:22
+
+  [05:07:22] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 30 mcg/0.3 mL dose
+    Status: completed
+
+  [05:07:22] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-08-07
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lorraine478 Adria871 is a 64 year-old nonhispanic hawaiian female.
+      # Social History
+
+  [05:07:22] DOCUMENT: History and physical note
+    Status: superseded
+
+  [05:22:22] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2022-06-25
+
+  [05:07:22] VISIT: General examination of patient (procedure)
+    Provider: Dr. Colin861 Witting912
+    Location: PALMER FAMILY SERVICES LLC
+    Duration: 05:07:22 - 05:22:22
+
+  [05:07:22] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [05:07:22] IMMUNIZATION: Pneumococcal conjugate PCV 13
+    Status: completed
+
+  [05:07:22] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-06-25
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lorraine478 Adria871 is a 65 year-old nonhispanic hawaiian female.
+      # Social History
+
+  [05:07:22] DOCUMENT: History and physical note
+    Status: superseded
+
+  [05:22:22] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2022-07-27
+
+  [12:40:22] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Bennett146 Rippin620
+    Location: MILFORD REGIONAL MEDICAL CENTER
+    Duration: 12:40:22 - 13:20:20
+
+  [12:40:22] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [12:40:22] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-07-27
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lorraine478 Adria871 is a 65 year-old nonhispanic hawaiian female.
+      # Social History
+
+  [12:40:22] DOCUMENT: History and physical note
+    Status: superseded
+
+  [13:20:20] CLAIM: professional
+    Amount: USD 573.98
+
+  [13:20:20] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Bennett146 Rippin620
+    Location: MILFORD REGIONAL MEDICAL CENTER
+    Duration: 13:20:20 - 13:44:41
+
+  [13:20:20] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [13:20:20] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-07-27
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lorraine478 Adria871 is a 65 year-old nonhispanic hawaiian female.
+      # Social History
+
+  [13:20:20] DOCUMENT: History and physical note
+    Status: superseded
+
+  [13:44:41] CLAIM: professional
+    Amount: USD 211.60
+
+  [13:44:41] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Bennett146 Rippin620
+    Location: MILFORD REGIONAL MEDICAL CENTER
+    Duration: 13:44:41 - 14:05:55
+
+  [13:44:41] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [13:44:41] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-07-27
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lorraine478 Adria871 is a 65 year-old nonhispanic hawaiian female.
+      # Social History
+
+  [13:44:41] DOCUMENT: History and physical note
+    Status: superseded
+
+  [13:54:45] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [14:05:55] CLAIM: professional
+    Amount: USD 3680.06
+
+
+📅 2023-07-01
+
+  [05:07:22] VISIT: General examination of patient (procedure)
+    Provider: Dr. Colin861 Witting912
+    Location: PALMER FAMILY SERVICES LLC
+    Duration: 05:07:22 - 05:22:22
+
+  [05:07:22] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [05:07:22] IMMUNIZATION: pneumococcal polysaccharide vaccine, 23 valent
+    Status: completed
+
+  [05:07:22] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-07-01
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lorraine478 Adria871 is a 66 year-old nonhispanic hawaiian female.
+      # Social History
+
+  [05:07:22] DOCUMENT: History and physical note
+    Status: superseded
+
+  [05:22:22] CLAIM: professional
+    Amount: USD 408.80
+
+  [14:05:55] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Bennett146 Rippin620
+    Location: MILFORD REGIONAL MEDICAL CENTER
+    Duration: 14:05:55 - 14:42:31
+
+  [14:05:55] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [14:05:55] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-07-01
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lorraine478 Adria871 is a 66 year-old nonhispanic hawaiian female.
+      # Social History
+
+  [14:05:55] DOCUMENT: History and physical note
+    Status: superseded
+
+  [14:42:31] CLAIM: professional
+    Amount: USD 573.98
+
+  [14:42:31] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Bennett146 Rippin620
+    Location: MILFORD REGIONAL MEDICAL CENTER
+    Duration: 14:42:31 - 14:59:13
+
+  [14:42:31] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [14:42:31] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-07-01
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lorraine478 Adria871 is a 66 year-old nonhispanic hawaiian female.
+      # Social History
+
+  [14:42:31] DOCUMENT: History and physical note
+    Status: superseded
+
+  [14:59:13] CLAIM: professional
+    Amount: USD 211.60
+
+  [14:59:13] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Bennett146 Rippin620
+    Location: MILFORD REGIONAL MEDICAL CENTER
+    Duration: 14:59:13 - 15:25:21
+
+  [14:59:13] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [14:59:13] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-07-01
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lorraine478 Adria871 is a 66 year-old nonhispanic hawaiian female.
+      # Social History
+
+  [14:59:13] DOCUMENT: History and physical note
+    Status: superseded
+
+  [15:12:44] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [15:25:21] CLAIM: professional
+    Amount: USD 1091.66
+
+
+📅 2024-06-23
+
+  [15:25:21] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Bennett146 Rippin620
+    Location: MILFORD REGIONAL MEDICAL CENTER
+    Duration: 15:25:21 - 16:02:31
+
+  [15:25:21] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [15:25:21] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-06-23
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lorraine478 Adria871 is a 67 year-old nonhispanic hawaiian female.
+      # Social History
+
+  [15:25:21] DOCUMENT: History and physical note
+    Status: superseded
+
+  [16:02:31] CLAIM: professional
+    Amount: USD 573.98
+
+  [16:02:31] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Bennett146 Rippin620
+    Location: MILFORD REGIONAL MEDICAL CENTER
+    Duration: 16:02:31 - 16:22:46
+
+  [16:02:31] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [16:02:31] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-06-23
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lorraine478 Adria871 is a 67 year-old nonhispanic hawaiian female.
+      # Social History
+
+  [16:02:31] DOCUMENT: History and physical note
+    Status: superseded
+
+  [16:22:46] CLAIM: professional
+    Amount: USD 211.60
+
+  [16:22:46] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Bennett146 Rippin620
+    Location: MILFORD REGIONAL MEDICAL CENTER
+    Duration: 16:22:46 - 16:51:05
+
+  [16:22:46] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [16:22:46] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-06-23
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lorraine478 Adria871 is a 67 year-old nonhispanic hawaiian female.
+      # Social History
+
+  [16:22:46] DOCUMENT: History and physical note
+    Status: superseded
+
+  [16:36:20] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [16:51:05] CLAIM: professional
+    Amount: USD 1418.39
+
+
+📅 2024-07-06
+
+  [05:07:22] VISIT: General examination of patient (procedure)
+    Provider: Dr. Colin861 Witting912
+    Location: PALMER FAMILY SERVICES LLC
+    Duration: 05:07:22 - 05:22:22
+
+  [05:07:22] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [05:07:22] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-07-06
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lorraine478 Adria871 is a 67 year-old nonhispanic hawaiian female.
+      # Social History
+
+  [05:07:22] DOCUMENT: History and physical note
+    Status: superseded
+
+  [05:22:22] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2025-05-25
+
+  [16:51:05] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Bennett146 Rippin620
+    Location: MILFORD REGIONAL MEDICAL CENTER
+    Duration: 16:51:05 - 17:35:24
+
+  [16:51:05] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [16:51:05] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-05-25
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lorraine478 Adria871 is a 68 year-old nonhispanic hawaiian female.
+      # Social History
+
+  [16:51:05] DOCUMENT: History and physical note
+    Status: superseded
+
+  [17:35:24] CLAIM: professional
+    Amount: USD 573.98
+
+  [17:35:24] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Bennett146 Rippin620
+    Location: MILFORD REGIONAL MEDICAL CENTER
+    Duration: 17:35:24 - 17:54:18
+
+  [17:35:24] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [17:35:24] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-05-25
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lorraine478 Adria871 is a 68 year-old nonhispanic hawaiian female.
+      # Social History
+
+  [17:35:24] DOCUMENT: History and physical note
+    Status: superseded
+
+  [17:54:18] CLAIM: professional
+    Amount: USD 325.49
+
+  [17:54:18] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Bennett146 Rippin620
+    Location: MILFORD REGIONAL MEDICAL CENTER
+    Duration: 17:54:18 - 18:17:27
+
+  [17:54:18] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [17:54:18] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-05-25
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lorraine478 Adria871 is a 68 year-old nonhispanic hawaiian female.
+      # Social History
+
+  [17:54:18] DOCUMENT: History and physical note
+    Status: superseded
+
+  [18:04:40] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [18:17:27] CLAIM: professional
+    Amount: USD 1156.00
+
+
+📅 2025-07-12
+
+  [05:07:22] VISIT: General examination of patient (procedure)
+    Provider: Dr. Colin861 Witting912
+    Location: PALMER FAMILY SERVICES LLC
+    Duration: 05:07:22 - 05:22:22
+
+  [05:07:22] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [05:07:22] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-07-12
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lorraine478 Adria871 is a 68 year-old nonhispanic hawaiian female.
+      # Social History
+
+  [05:07:22] DOCUMENT: History and physical note
+    Status: current
+
+  [05:22:22] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2026-02-14
+
+  [04:07:22] PROVENANCE: Record activity
+    Agents: Dr. Colin861 Witting912, Dr. Colin861 Witting912
+
+================================================================================
+END OF TIMELINE (229 events)
+================================================================================

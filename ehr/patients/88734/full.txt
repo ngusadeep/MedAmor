@@ -1,0 +1,165 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Mrs. Laure395 Tonita173 Oberbrunner298
+  Patient ID: 88734
+  Date of Birth: 1975-04-29
+  Gender: Female
+  Race: Black or African American
+  Ethnicity: Not Hispanic or Latino
+  Marital Status: Divorced
+  Address: 699 Smitham Station Unit 38, Bridgewater, MA 02324
+  Phone: 555-794-6081
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2017-05-09
+
+  [18:11:34] VISIT: General examination of patient (procedure)
+    Provider: Dr. Verda448 Bahringer146
+    Location: HORIZONS HEALTH & WELLNESS LLC
+    Duration: 18:11:34 - 18:26:34
+
+  [18:11:34] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [18:11:34] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [18:11:34] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [18:11:34] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-05-09
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Laure395 Tonita173 is a 42 year-old nonhispanic black female.
+      # Social History
+
+  [18:11:34] DOCUMENT: History and physical note
+    Status: superseded
+
+  [18:26:34] CLAIM: professional
+    Amount: USD 544.80
+
+
+📅 2019-05-14
+
+  [18:11:34] VISIT: General examination of patient (procedure)
+    Provider: Dr. Verda448 Bahringer146
+    Location: HORIZONS HEALTH & WELLNESS LLC
+    Duration: 18:11:34 - 18:26:34
+
+  [18:11:34] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [18:11:34] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-05-14
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Laure395 Tonita173 is a 44 year-old nonhispanic black female.
+      # Social History
+
+  [18:11:34] DOCUMENT: History and physical note
+    Status: superseded
+
+  [18:26:34] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2021-05-18
+
+  [18:11:34] VISIT: General examination of patient (procedure)
+    Provider: Dr. Verda448 Bahringer146
+    Location: HORIZONS HEALTH & WELLNESS LLC
+    Duration: 18:11:34 - 18:26:34
+
+  [18:11:34] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [18:11:34] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-05-18
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Laure395 Tonita173 is a 46 year-old nonhispanic black female.
+      # Social History
+
+  [18:11:34] DOCUMENT: History and physical note
+    Status: superseded
+
+  [18:26:34] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2023-05-23
+
+  [18:11:34] VISIT: General examination of patient (procedure)
+    Provider: Dr. Verda448 Bahringer146
+    Location: HORIZONS HEALTH & WELLNESS LLC
+    Duration: 18:11:34 - 18:26:34
+
+  [18:11:34] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [18:11:34] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-05-23
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Laure395 Tonita173 is a 48 year-old nonhispanic black female.
+      # Social History
+
+  [18:11:34] DOCUMENT: History and physical note
+    Status: superseded
+
+  [18:26:34] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2025-04-29
+
+  [18:11:34] VISIT: General examination of patient (procedure)
+    Provider: Dr. Verda448 Bahringer146
+    Location: HORIZONS HEALTH & WELLNESS LLC
+    Duration: 18:11:34 - 18:26:34
+
+  [18:11:34] IMMUNIZATION: zoster vaccine, live
+    Status: completed
+
+  [18:11:34] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [18:11:34] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-04-29
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Laure395 Tonita173 is a 50 year-old nonhispanic black female.
+      # Social History
+
+  [18:11:34] DOCUMENT: History and physical note
+    Status: current
+
+  [18:26:34] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2026-02-10
+
+  [17:11:34] PROVENANCE: Record activity
+    Agents: Dr. Verda448 Bahringer146, Dr. Verda448 Bahringer146
+
+================================================================================
+END OF TIMELINE (29 events)
+================================================================================

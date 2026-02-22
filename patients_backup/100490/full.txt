@@ -1,0 +1,191 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Mrs. Madelaine318 Alethea978 Donnelly343
+  Patient ID: 100490
+  Date of Birth: 1978-07-18
+  Gender: Female
+  Race: Black or African American
+  Ethnicity: Hispanic or Latino
+  Marital Status: Married
+  Address: 619 Nolan Landing Apt 96, Springfield, MA 01106
+  Phone: 555-363-7908
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2018-07-24
+
+  [03:03:45] VISIT: General examination of patient (procedure)
+    Provider: Dr. Frederica279 Roberts511
+    Location: HOLYOKE HEALTH CENTER INC
+    Duration: 03:03:45 - 03:18:45
+
+  [03:03:45] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [03:03:45] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [03:03:45] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-07-24
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Madelaine318 Alethea978 is a 40 year-old hispanic black female.
+      # Social History
+
+  [03:03:45] DOCUMENT: History and physical note
+    Status: superseded
+
+  [03:18:45] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2020-07-28
+
+  [03:03:45] VISIT: General examination of patient (procedure)
+    Provider: Dr. Frederica279 Roberts511
+    Location: HOLYOKE HEALTH CENTER INC
+    Duration: 03:03:45 - 03:18:45
+
+  [03:03:45] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [03:03:45] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [03:03:45] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [03:03:45] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-07-28
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Madelaine318 Alethea978 is a 42 year-old hispanic black female.
+      # Social History
+
+  [03:03:45] DOCUMENT: History and physical note
+    Status: superseded
+
+  [03:18:45] CLAIM: professional
+    Amount: USD 544.80
+
+
+📅 2021-07-13
+
+  [03:03:45] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Jean712 Koelpin146
+    Location: THE SHRINERS HOSPITAL FOR CHILDREN
+    Duration: 03:03:45 - 03:18:45
+
+  [03:03:45] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 30 mcg/0.3 mL dose
+    Status: completed
+
+  [03:03:45] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-07-13
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Madelaine318 Alethea978 is a 42 year-old hispanic black female.
+      # Social History
+
+  [03:03:45] DOCUMENT: History and physical note
+    Status: superseded
+
+  [03:18:45] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-08-03
+
+  [03:03:45] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Jean712 Koelpin146
+    Location: THE SHRINERS HOSPITAL FOR CHILDREN
+    Duration: 03:03:45 - 03:18:45
+
+  [03:03:45] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 30 mcg/0.3 mL dose
+    Status: completed
+
+  [03:03:45] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-08-03
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Madelaine318 Alethea978 is a 43 year-old hispanic black female.
+      # Social History
+
+  [03:03:45] DOCUMENT: History and physical note
+    Status: superseded
+
+  [03:18:45] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2022-08-02
+
+  [03:03:45] VISIT: General examination of patient (procedure)
+    Provider: Dr. Frederica279 Roberts511
+    Location: HOLYOKE HEALTH CENTER INC
+    Duration: 03:03:45 - 03:18:45
+
+  [03:03:45] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [03:03:45] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-08-02
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Madelaine318 Alethea978 is a 44 year-old hispanic black female.
+      # Social History
+
+  [03:03:45] DOCUMENT: History and physical note
+    Status: superseded
+
+  [03:18:45] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2024-08-06
+
+  [03:03:45] VISIT: General examination of patient (procedure)
+    Provider: Dr. Frederica279 Roberts511
+    Location: HOLYOKE HEALTH CENTER INC
+    Duration: 03:03:45 - 03:18:45
+
+  [03:03:45] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [03:03:45] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-08-06
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Madelaine318 Alethea978 is a 46 year-old hispanic black female.
+      # Social History
+
+  [03:03:45] DOCUMENT: History and physical note
+    Status: current
+
+  [03:18:45] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2026-02-10
+
+  [02:03:45] PROVENANCE: Record activity
+    Agents: Dr. Frederica279 Roberts511, Dr. Frederica279 Roberts511
+
+================================================================================
+END OF TIMELINE (34 events)
+================================================================================

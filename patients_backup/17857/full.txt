@@ -1,0 +1,217 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Mrs. Becky854 Rebbeca432 Sipes176
+  Patient ID: 17857
+  Date of Birth: 1980-01-13
+  Gender: Female
+  Race: Asian
+  Ethnicity: Not Hispanic or Latino
+  Marital Status: Married
+  Address: 845 Kutch Overpass, Tewksbury, MA 00000
+  Phone: 555-473-9746
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2017-04-02
+
+  [20:31:37] VISIT: General examination of patient (procedure)
+    Provider: Dr. Chris95 Haag279
+    Location: GREATER LOWELL FAMILY PRACTICE PC
+    Duration: 20:31:37 - 20:46:37
+
+  [20:31:37] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [20:31:37] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-04-02
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Becky854 Rebbeca432 is a 37 year-old nonhispanic asian female.
+      # Social History
+
+  [20:31:37] DOCUMENT: History and physical note
+    Status: superseded
+
+  [20:46:37] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2020-01-19
+
+  [19:31:37] VISIT: General examination of patient (procedure)
+    Provider: Dr. Chris95 Haag279
+    Location: GREATER LOWELL FAMILY PRACTICE PC
+    Duration: 19:31:37 - 19:46:37
+
+  [19:31:37] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [19:31:37] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [19:31:37] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-01-19
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Becky854 Rebbeca432 is a 40 year-old nonhispanic asian female.
+      # Social History
+
+  [19:31:37] DOCUMENT: History and physical note
+    Status: superseded
+
+  [19:46:37] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2021-03-28
+
+  [20:31:37] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Carlton317 Koch169
+    Location: TEWKSBURY HOSPITAL
+    Duration: 20:31:37 - 20:46:37
+
+  [20:31:37] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+    Status: completed
+
+  [20:31:37] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-03-28
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Becky854 Rebbeca432 is a 41 year-old nonhispanic asian female.
+      # Social History
+
+  [20:31:37] DOCUMENT: History and physical note
+    Status: superseded
+
+  [20:46:37] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-04-25
+
+  [20:31:37] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Carlton317 Koch169
+    Location: TEWKSBURY HOSPITAL
+    Duration: 20:31:37 - 20:46:37
+
+  [20:31:37] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+    Status: completed
+
+  [20:31:37] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-04-25
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Becky854 Rebbeca432 is a 41 year-old nonhispanic asian female.
+      # Social History
+
+  [20:31:37] DOCUMENT: History and physical note
+    Status: superseded
+
+  [20:46:37] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2022-01-23
+
+  [19:31:37] VISIT: General examination of patient (procedure)
+    Provider: Dr. Chris95 Haag279
+    Location: GREATER LOWELL FAMILY PRACTICE PC
+    Duration: 19:31:37 - 19:46:37
+
+  [19:31:37] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [19:31:37] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [19:31:37] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [19:31:37] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-01-23
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Becky854 Rebbeca432 is a 42 year-old nonhispanic asian female.
+      # Social History
+
+  [19:31:37] DOCUMENT: History and physical note
+    Status: superseded
+
+  [19:46:37] CLAIM: professional
+    Amount: USD 544.80
+
+
+📅 2024-01-28
+
+  [19:31:37] VISIT: General examination of patient (procedure)
+    Provider: Dr. Chris95 Haag279
+    Location: GREATER LOWELL FAMILY PRACTICE PC
+    Duration: 19:31:37 - 19:46:37
+
+  [19:31:37] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [19:31:37] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-01-28
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Becky854 Rebbeca432 is a 44 year-old nonhispanic asian female.
+      # Social History
+
+  [19:31:37] DOCUMENT: History and physical note
+    Status: superseded
+
+  [19:46:37] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2026-02-01
+
+  [19:31:37] VISIT: General examination of patient (procedure)
+    Provider: Dr. Chris95 Haag279
+    Location: GREATER LOWELL FAMILY PRACTICE PC
+    Duration: 19:31:37 - 19:46:37
+
+  [19:31:37] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [19:31:37] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2026-02-01
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Becky854 Rebbeca432 is a 46 year-old nonhispanic asian female.
+      # Social History
+
+  [19:31:37] DOCUMENT: History and physical note
+    Status: current
+
+  [19:46:37] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2026-02-15
+
+  [19:31:37] PROVENANCE: Record activity
+    Agents: Dr. Chris95 Haag279, Dr. Chris95 Haag279
+
+================================================================================
+END OF TIMELINE (39 events)
+================================================================================

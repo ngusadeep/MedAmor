@@ -1,1 +1,0 @@
-"""MedArmor backend application package."""

@@ -1,0 +1,295 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Mrs. Kandice471 Edelmira985 Collins926
+  Patient ID: 75779
+  Date of Birth: 1969-10-22
+  Gender: Female
+  Race: White
+  Ethnicity: Not Hispanic or Latino
+  Marital Status: Divorced
+  Address: 313 Ritchie Trace, New Bedford, MA 02747
+  Phone: 555-495-1432
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2017-11-15
+
+  [20:47:17] VISIT: General examination of patient (procedure)
+    Provider: Dr. Assunta351 Haley279
+    Location: CHILD & FAMILY SERVICES, INC.
+    Duration: 20:47:17 - 21:02:17
+
+  [20:47:17] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [20:47:17] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-11-15
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kandice471 Edelmira985 is a 48 year-old nonhispanic white female.
+      # Social History
+
+  [20:47:17] DOCUMENT: History and physical note
+    Status: superseded
+
+  [21:02:17] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2019-10-23
+
+  [21:47:17] VISIT: General examination of patient (procedure)
+    Provider: Dr. Assunta351 Haley279
+    Location: CHILD & FAMILY SERVICES, INC.
+    Duration: 21:47:17 - 22:02:17
+
+  [21:47:17] IMMUNIZATION: zoster vaccine, live
+    Status: completed
+
+  [21:47:17] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [21:47:17] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-10-23
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kandice471 Edelmira985 is a 50 year-old nonhispanic white female.
+      # Social History
+
+  [21:47:17] DOCUMENT: History and physical note
+    Status: superseded
+
+  [22:02:17] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2020-10-28
+
+  [21:47:17] VISIT: General examination of patient (procedure)
+    Provider: Dr. Assunta351 Haley279
+    Location: CHILD & FAMILY SERVICES, INC.
+    Duration: 21:47:17 - 22:02:17
+
+  [21:47:17] IMMUNIZATION: zoster vaccine, live
+    Status: completed
+
+  [21:47:17] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [21:47:17] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [21:47:17] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-10-28
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kandice471 Edelmira985 is a 51 year-old nonhispanic white female.
+      # Social History
+
+  [21:47:17] DOCUMENT: History and physical note
+    Status: superseded
+
+  [22:02:17] CLAIM: professional
+    Amount: USD 544.80
+
+
+📅 2021-02-17
+
+  [20:47:17] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Ramiro608 Anderson154
+    Location: NORTHEAST BEHAVIORAL HEALTH LLC
+    Duration: 20:47:17 - 21:02:17
+
+  [20:47:17] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+    Status: completed
+
+  [20:47:17] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-02-17
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kandice471 Edelmira985 is a 51 year-old nonhispanic white female.
+      # Social History
+
+  [20:47:17] DOCUMENT: History and physical note
+    Status: superseded
+
+  [21:02:17] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-03-17
+
+  [21:47:17] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Ramiro608 Anderson154
+    Location: NORTHEAST BEHAVIORAL HEALTH LLC
+    Duration: 21:47:17 - 22:02:17
+
+  [21:47:17] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+    Status: completed
+
+  [21:47:17] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-03-17
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kandice471 Edelmira985 is a 51 year-old nonhispanic white female.
+      # Social History
+
+  [21:47:17] DOCUMENT: History and physical note
+    Status: superseded
+
+  [22:02:17] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-11-03
+
+  [21:47:17] VISIT: General examination of patient (procedure)
+    Provider: Dr. Assunta351 Haley279
+    Location: CHILD & FAMILY SERVICES, INC.
+    Duration: 21:47:17 - 22:02:17
+
+  [21:47:17] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [21:47:17] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-11-03
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kandice471 Edelmira985 is a 52 year-old nonhispanic white female.
+      # Social History
+
+  [21:47:17] DOCUMENT: History and physical note
+    Status: superseded
+
+  [22:02:17] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2022-11-09
+
+  [20:47:17] VISIT: General examination of patient (procedure)
+    Provider: Dr. Assunta351 Haley279
+    Location: CHILD & FAMILY SERVICES, INC.
+    Duration: 20:47:17 - 21:02:17
+
+  [20:47:17] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [20:47:17] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-11-09
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kandice471 Edelmira985 is a 53 year-old nonhispanic white female.
+      # Social History
+
+  [20:47:17] DOCUMENT: History and physical note
+    Status: superseded
+
+  [21:02:17] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2023-11-15
+
+  [20:47:17] VISIT: General examination of patient (procedure)
+    Provider: Dr. Assunta351 Haley279
+    Location: CHILD & FAMILY SERVICES, INC.
+    Duration: 20:47:17 - 21:02:17
+
+  [20:47:17] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [20:47:17] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-11-15
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kandice471 Edelmira985 is a 54 year-old nonhispanic white female.
+      # Social History
+
+  [20:47:17] DOCUMENT: History and physical note
+    Status: superseded
+
+  [21:02:17] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2024-11-20
+
+  [20:47:17] VISIT: General examination of patient (procedure)
+    Provider: Dr. Assunta351 Haley279
+    Location: CHILD & FAMILY SERVICES, INC.
+    Duration: 20:47:17 - 21:02:17
+
+  [20:47:17] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [20:47:17] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-11-20
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kandice471 Edelmira985 is a 55 year-old nonhispanic white female.
+      # Social History
+
+  [20:47:17] DOCUMENT: History and physical note
+    Status: superseded
+
+  [21:02:17] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2025-11-26
+
+  [20:47:17] VISIT: General examination of patient (procedure)
+    Provider: Dr. Assunta351 Haley279
+    Location: CHILD & FAMILY SERVICES, INC.
+    Duration: 20:47:17 - 21:02:17
+
+  [20:47:17] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [20:47:17] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-11-26
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kandice471 Edelmira985 is a 56 year-old nonhispanic white female.
+      # Social History
+
+  [20:47:17] DOCUMENT: History and physical note
+    Status: current
+
+  [21:02:17] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2026-02-11
+
+  [20:47:17] PROVENANCE: Record activity
+    Agents: Dr. Assunta351 Haley279, Dr. Assunta351 Haley279
+
+================================================================================
+END OF TIMELINE (54 events)
+================================================================================

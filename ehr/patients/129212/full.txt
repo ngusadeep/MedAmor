@@ -1,0 +1,860 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Mrs. Rosalia943 Guillermina633 Ibarra303
+  Patient ID: 129212
+  Date of Birth: 1956-12-21
+  Gender: Female
+  Race: White
+  Ethnicity: Hispanic or Latino
+  Marital Status: Married
+  Address: 480 Brown Throughway, Essex, MA 01929
+  Phone: 555-370-3091
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 1976-07-26
+
+  [11:21:37] VISIT: Periodic reevaluation and management of healthy individual (procedure)
+    Reason: Screening for malignant neoplasm of breast (procedure)
+    Provider: Dr. Silva841 Grimes165
+    Location: ANNA JAQUES HOSPITAL SUBACUTE UNIT
+    Duration: 11:21:37 - 09:24:08
+
+  [11:21:37] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      1976-07-26
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Rosalia943 Guillermina633 is a 19 year-old hispanic white female.
+      # Social History
+
+  [11:21:37] DOCUMENT: History and physical note
+    Status: superseded
+
+  [12:31:08] CONDITION: Malignant neoplasm of breast (disorder) (active)
+
+
+📅 1976-07-28
+
+  [09:24:08] CLAIM: professional
+    Amount: USD 7567.43
+
+
+📅 2016-06-13
+
+  [12:38:46] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Silva841 Grimes165
+    Location: ANNA JAQUES HOSPITAL SUBACUTE UNIT
+    Duration: 12:38:46 - 13:22:09
+
+  [12:38:46] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [12:38:46] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-06-13
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Rosalia943 Guillermina633 is a 59 year-old hispanic white female.
+      # Social History
+
+  [12:38:46] DOCUMENT: History and physical note
+    Status: superseded
+
+  [13:22:09] CLAIM: professional
+    Amount: USD 573.98
+
+  [13:22:09] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Silva841 Grimes165
+    Location: ANNA JAQUES HOSPITAL SUBACUTE UNIT
+    Duration: 13:22:09 - 13:39:20
+
+  [13:22:09] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [13:22:09] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-06-13
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Rosalia943 Guillermina633 is a 59 year-old hispanic white female.
+      # Social History
+
+  [13:22:09] DOCUMENT: History and physical note
+    Status: superseded
+
+  [13:39:20] CLAIM: professional
+    Amount: USD 325.49
+
+
+📅 2017-02-17
+
+  [10:21:37] VISIT: General examination of patient (procedure)
+    Provider: Dr. Allen322 Veum823
+    Location: CAPE ANN MEDICAL CENTER LLC
+    Duration: 10:21:37 - 10:36:37
+
+  [10:21:37] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [10:21:37] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-02-17
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Rosalia943 Guillermina633 is a 60 year-old hispanic white female.
+      # Social History
+
+  [10:21:37] DOCUMENT: History and physical note
+    Status: superseded
+
+  [10:36:37] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2017-05-31
+
+  [13:39:20] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Silva841 Grimes165
+    Location: ANNA JAQUES HOSPITAL SUBACUTE UNIT
+    Duration: 13:39:20 - 14:17:08
+
+  [13:39:20] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [13:39:20] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-05-31
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Rosalia943 Guillermina633 is a 60 year-old hispanic white female.
+      # Social History
+
+  [13:39:20] DOCUMENT: History and physical note
+    Status: superseded
+
+  [14:17:08] CLAIM: professional
+    Amount: USD 573.98
+
+  [14:17:08] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Silva841 Grimes165
+    Location: ANNA JAQUES HOSPITAL SUBACUTE UNIT
+    Duration: 14:17:08 - 14:40:26
+
+  [14:17:08] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [14:17:08] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-05-31
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Rosalia943 Guillermina633 is a 60 year-old hispanic white female.
+      # Social History
+
+  [14:17:08] DOCUMENT: History and physical note
+    Status: superseded
+
+  [14:40:26] CLAIM: professional
+    Amount: USD 211.60
+
+
+📅 2018-02-23
+
+  [10:21:37] VISIT: General examination of patient (procedure)
+    Provider: Dr. Allen322 Veum823
+    Location: CAPE ANN MEDICAL CENTER LLC
+    Duration: 10:21:37 - 10:36:37
+
+  [10:21:37] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [10:21:37] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [10:21:37] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-02-23
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Rosalia943 Guillermina633 is a 61 year-old hispanic white female.
+      # Social History
+
+  [10:21:37] DOCUMENT: History and physical note
+    Status: superseded
+
+  [10:36:37] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2018-05-15
+
+  [14:40:26] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Silva841 Grimes165
+    Location: ANNA JAQUES HOSPITAL SUBACUTE UNIT
+    Duration: 14:40:26 - 15:15:03
+
+  [14:40:26] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [14:40:26] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-05-15
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Rosalia943 Guillermina633 is a 61 year-old hispanic white female.
+      # Social History
+
+  [14:40:26] DOCUMENT: History and physical note
+    Status: superseded
+
+  [15:15:03] CLAIM: professional
+    Amount: USD 573.98
+
+  [15:15:03] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Silva841 Grimes165
+    Location: ANNA JAQUES HOSPITAL SUBACUTE UNIT
+    Duration: 15:15:03 - 15:33:24
+
+  [15:15:03] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [15:15:03] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-05-15
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Rosalia943 Guillermina633 is a 61 year-old hispanic white female.
+      # Social History
+
+  [15:15:03] DOCUMENT: History and physical note
+    Status: superseded
+
+  [15:33:24] CLAIM: professional
+    Amount: USD 211.60
+
+
+📅 2019-03-01
+
+  [10:21:37] VISIT: General examination of patient (procedure)
+    Provider: Dr. Allen322 Veum823
+    Location: CAPE ANN MEDICAL CENTER LLC
+    Duration: 10:21:37 - 10:36:37
+
+  [10:21:37] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [10:21:37] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-03-01
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Rosalia943 Guillermina633 is a 62 year-old hispanic white female.
+      # Social History
+
+  [10:21:37] DOCUMENT: History and physical note
+    Status: superseded
+
+  [10:36:37] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2019-05-11
+
+  [15:33:24] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Silva841 Grimes165
+    Location: ANNA JAQUES HOSPITAL SUBACUTE UNIT
+    Duration: 15:33:24 - 16:09:36
+
+  [15:33:24] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [15:33:24] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-05-11
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Rosalia943 Guillermina633 is a 62 year-old hispanic white female.
+      # Social History
+
+  [15:33:24] DOCUMENT: History and physical note
+    Status: superseded
+
+  [16:09:36] CLAIM: professional
+    Amount: USD 573.98
+
+  [16:09:36] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Silva841 Grimes165
+    Location: ANNA JAQUES HOSPITAL SUBACUTE UNIT
+    Duration: 16:09:36 - 16:28:59
+
+  [16:09:36] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [16:09:36] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-05-11
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Rosalia943 Guillermina633 is a 62 year-old hispanic white female.
+      # Social History
+
+  [16:09:36] DOCUMENT: History and physical note
+    Status: superseded
+
+  [16:28:59] CLAIM: professional
+    Amount: USD 325.49
+
+
+📅 2020-03-06
+
+  [10:21:37] VISIT: General examination of patient (procedure)
+    Provider: Dr. Allen322 Veum823
+    Location: CAPE ANN MEDICAL CENTER LLC
+    Duration: 10:21:37 - 10:36:37
+
+  [10:21:37] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [10:21:37] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-03-06
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Rosalia943 Guillermina633 is a 63 year-old hispanic white female.
+      # Social History
+
+  [10:21:37] DOCUMENT: History and physical note
+    Status: superseded
+
+  [10:36:37] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2020-04-07
+
+  [16:28:59] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Silva841 Grimes165
+    Location: ANNA JAQUES HOSPITAL SUBACUTE UNIT
+    Duration: 16:28:59 - 17:08:12
+
+  [16:28:59] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [16:28:59] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-04-07
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Rosalia943 Guillermina633 is a 63 year-old hispanic white female.
+      # Social History
+
+  [16:28:59] DOCUMENT: History and physical note
+    Status: superseded
+
+  [17:08:12] CLAIM: professional
+    Amount: USD 573.98
+
+  [17:08:12] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Silva841 Grimes165
+    Location: ANNA JAQUES HOSPITAL SUBACUTE UNIT
+    Duration: 17:08:12 - 17:28:38
+
+  [17:08:12] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [17:08:12] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-04-07
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Rosalia943 Guillermina633 is a 63 year-old hispanic white female.
+      # Social History
+
+  [17:08:12] DOCUMENT: History and physical note
+    Status: superseded
+
+  [17:28:38] CLAIM: professional
+    Amount: USD 211.60
+
+
+📅 2021-03-12
+
+  [10:21:37] VISIT: General examination of patient (procedure)
+    Provider: Dr. Allen322 Veum823
+    Location: CAPE ANN MEDICAL CENTER LLC
+    Duration: 10:21:37 - 10:36:37
+
+  [10:21:37] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [10:21:37] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-03-12
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Rosalia943 Guillermina633 is a 64 year-old hispanic white female.
+      # Social History
+
+  [10:21:37] DOCUMENT: History and physical note
+    Status: superseded
+
+  [10:36:37] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2021-03-19
+
+  [11:21:37] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Silva841 Grimes165
+    Location: Patient's Home
+    Duration: 11:21:37 - 12:04:58
+
+  [11:21:37] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [11:21:37] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-03-19
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Rosalia943 Guillermina633 is a 64 year-old hispanic white female.
+      # Social History
+
+  [11:21:37] DOCUMENT: History and physical note
+    Status: superseded
+
+  [12:04:58] CLAIM: institutional
+    Amount: USD 556.40
+
+  [12:04:58] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Silva841 Grimes165
+    Location: ANNA JAQUES HOSPITAL SUBACUTE UNIT
+    Duration: 12:04:58 - 12:22:03
+
+  [12:04:58] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [12:04:58] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-03-19
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Rosalia943 Guillermina633 is a 64 year-old hispanic white female.
+      # Social History
+
+  [12:04:58] DOCUMENT: History and physical note
+    Status: superseded
+
+  [12:22:03] CLAIM: professional
+    Amount: USD 279.62
+
+
+📅 2021-07-02
+
+  [11:21:37] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Silva841 Grimes165
+    Location: ANNA JAQUES HOSPITAL SUBACUTE UNIT
+    Duration: 11:21:37 - 11:36:37
+
+  [11:21:37] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 30 mcg/0.3 mL dose
+    Status: completed
+
+  [11:21:37] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-07-02
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Rosalia943 Guillermina633 is a 64 year-old hispanic white female.
+      # Social History
+
+  [11:21:37] DOCUMENT: History and physical note
+    Status: superseded
+
+  [11:36:37] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-07-23
+
+  [11:21:37] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Silva841 Grimes165
+    Location: ANNA JAQUES HOSPITAL SUBACUTE UNIT
+    Duration: 11:21:37 - 11:36:37
+
+  [11:21:37] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 30 mcg/0.3 mL dose
+    Status: completed
+
+  [11:21:37] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-07-23
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Rosalia943 Guillermina633 is a 64 year-old hispanic white female.
+      # Social History
+
+  [11:21:37] DOCUMENT: History and physical note
+    Status: superseded
+
+  [11:36:37] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2022-03-18
+
+  [11:21:37] VISIT: General examination of patient (procedure)
+    Provider: Dr. Allen322 Veum823
+    Location: CAPE ANN MEDICAL CENTER LLC
+    Duration: 11:21:37 - 11:36:37
+
+  [11:21:37] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [11:21:37] IMMUNIZATION: Pneumococcal conjugate PCV 13
+    Status: completed
+
+  [11:21:37] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-03-18
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Rosalia943 Guillermina633 is a 65 year-old hispanic white female.
+      # Social History
+
+  [11:21:37] DOCUMENT: History and physical note
+    Status: superseded
+
+  [11:36:37] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2022-04-10
+
+  [12:22:03] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Silva841 Grimes165
+    Location: ANNA JAQUES HOSPITAL SUBACUTE UNIT
+    Duration: 12:22:03 - 12:57:32
+
+  [12:22:03] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [12:22:03] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-04-10
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Rosalia943 Guillermina633 is a 65 year-old hispanic white female.
+      # Social History
+
+  [12:22:03] DOCUMENT: History and physical note
+    Status: superseded
+
+  [12:57:32] CLAIM: professional
+    Amount: USD 573.98
+
+  [12:57:32] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Silva841 Grimes165
+    Location: ANNA JAQUES HOSPITAL SUBACUTE UNIT
+    Duration: 12:57:32 - 13:21:55
+
+  [12:57:32] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [12:57:32] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-04-10
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Rosalia943 Guillermina633 is a 65 year-old hispanic white female.
+      # Social History
+
+  [12:57:32] DOCUMENT: History and physical note
+    Status: superseded
+
+  [13:21:55] CLAIM: professional
+    Amount: USD 325.49
+
+
+📅 2023-03-24
+
+  [11:21:37] VISIT: General examination of patient (procedure)
+    Provider: Dr. Allen322 Veum823
+    Location: CAPE ANN MEDICAL CENTER LLC
+    Duration: 11:21:37 - 11:36:37
+
+  [11:21:37] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [11:21:37] IMMUNIZATION: pneumococcal polysaccharide vaccine, 23 valent
+    Status: completed
+
+  [11:21:37] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-03-24
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Rosalia943 Guillermina633 is a 66 year-old hispanic white female.
+      # Social History
+
+  [11:21:37] DOCUMENT: History and physical note
+    Status: superseded
+
+  [11:36:37] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2023-04-22
+
+  [13:21:55] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Silva841 Grimes165
+    Location: ANNA JAQUES HOSPITAL SUBACUTE UNIT
+    Duration: 13:21:55 - 13:58:40
+
+  [13:21:55] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [13:21:55] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-04-22
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Rosalia943 Guillermina633 is a 66 year-old hispanic white female.
+      # Social History
+
+  [13:21:55] DOCUMENT: History and physical note
+    Status: superseded
+
+  [13:58:40] CLAIM: professional
+    Amount: USD 573.98
+
+  [13:58:40] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Silva841 Grimes165
+    Location: ANNA JAQUES HOSPITAL SUBACUTE UNIT
+    Duration: 13:58:40 - 14:19:04
+
+  [13:58:40] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [13:58:40] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-04-22
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Rosalia943 Guillermina633 is a 66 year-old hispanic white female.
+      # Social History
+
+  [13:58:40] DOCUMENT: History and physical note
+    Status: superseded
+
+  [14:19:04] CLAIM: professional
+    Amount: USD 211.60
+
+
+📅 2024-03-29
+
+  [11:21:37] VISIT: General examination of patient (procedure)
+    Provider: Dr. Allen322 Veum823
+    Location: CAPE ANN MEDICAL CENTER LLC
+    Duration: 11:21:37 - 11:36:37
+
+  [11:21:37] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [11:21:37] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-03-29
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Rosalia943 Guillermina633 is a 67 year-old hispanic white female.
+      # Social History
+
+  [11:21:37] DOCUMENT: History and physical note
+    Status: superseded
+
+  [11:36:37] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2024-04-18
+
+  [14:19:04] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Silva841 Grimes165
+    Location: ANNA JAQUES HOSPITAL SUBACUTE UNIT
+    Duration: 14:19:04 - 14:54:01
+
+  [14:19:04] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [14:19:04] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-04-18
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Rosalia943 Guillermina633 is a 67 year-old hispanic white female.
+      # Social History
+
+  [14:19:04] DOCUMENT: History and physical note
+    Status: superseded
+
+  [14:54:01] CLAIM: professional
+    Amount: USD 573.98
+
+  [14:54:01] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Silva841 Grimes165
+    Location: ANNA JAQUES HOSPITAL SUBACUTE UNIT
+    Duration: 14:54:01 - 15:09:01
+
+  [14:54:01] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [14:54:01] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-04-18
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Rosalia943 Guillermina633 is a 67 year-old hispanic white female.
+      # Social History
+
+  [14:54:01] DOCUMENT: History and physical note
+    Status: superseded
+
+  [15:09:01] CLAIM: professional
+    Amount: USD 211.60
+
+
+📅 2025-04-04
+
+  [11:21:37] VISIT: General examination of patient (procedure)
+    Provider: Dr. Allen322 Veum823
+    Location: CAPE ANN MEDICAL CENTER LLC
+    Duration: 11:21:37 - 11:36:37
+
+  [11:21:37] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [11:21:37] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-04-04
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Rosalia943 Guillermina633 is a 68 year-old hispanic white female.
+      # Social History
+
+  [11:21:37] DOCUMENT: History and physical note
+    Status: superseded
+
+  [11:36:37] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2025-04-27
+
+  [15:09:01] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Silva841 Grimes165
+    Location: ANNA JAQUES HOSPITAL SUBACUTE UNIT
+    Duration: 15:09:01 - 15:43:53
+
+  [15:09:01] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [15:09:01] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-04-27
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Rosalia943 Guillermina633 is a 68 year-old hispanic white female.
+      # Social History
+
+  [15:09:01] DOCUMENT: History and physical note
+    Status: superseded
+
+  [15:43:53] CLAIM: professional
+    Amount: USD 573.98
+
+  [15:43:53] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Silva841 Grimes165
+    Location: ANNA JAQUES HOSPITAL SUBACUTE UNIT
+    Duration: 15:43:53 - 16:02:07
+
+  [15:43:53] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [15:43:53] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-04-27
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Rosalia943 Guillermina633 is a 68 year-old hispanic white female.
+      # Social History
+
+  [15:43:53] DOCUMENT: History and physical note
+    Status: current
+
+  [16:02:07] CLAIM: professional
+    Amount: USD 241.11
+
+
+📅 2026-02-13
+
+  [10:21:37] PROVENANCE: Record activity
+    Agents: Dr. Silva841 Grimes165, Dr. Silva841 Grimes165
+
+================================================================================
+END OF TIMELINE (164 events)
+================================================================================

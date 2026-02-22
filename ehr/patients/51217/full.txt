@@ -1,0 +1,139 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Mrs. Fernande593 Hope196 Daugherty69
+  Patient ID: 51217
+  Date of Birth: 1983-02-22
+  Gender: Female
+  Race: Asian
+  Ethnicity: Not Hispanic or Latino
+  Marital Status: Married
+  Address: 509 Torp Gate Suite 50, Gardner, MA 01440
+  Phone: 555-915-4879
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2017-05-09
+
+  [19:43:14] VISIT: General examination of patient (procedure)
+    Provider: Dr. Teodoro374 Koss676
+    Location: COMMUNITY HEALTH CONNECTIONS, INC
+    Duration: 19:43:14 - 19:58:14
+
+  [19:43:14] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [19:43:14] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-05-09
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Fernande593 Hope196 is a 34 year-old nonhispanic asian female.
+      # Social History
+
+  [19:43:14] DOCUMENT: History and physical note
+    Status: superseded
+
+  [19:58:14] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2020-05-12
+
+  [19:43:14] VISIT: General examination of patient (procedure)
+    Provider: Dr. Teodoro374 Koss676
+    Location: COMMUNITY HEALTH CONNECTIONS, INC
+    Duration: 19:43:14 - 19:58:14
+
+  [19:43:14] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [19:43:14] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-05-12
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Fernande593 Hope196 is a 37 year-old nonhispanic asian female.
+      # Social History
+
+  [19:43:14] DOCUMENT: History and physical note
+    Status: superseded
+
+  [19:58:14] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2023-02-28
+
+  [18:43:14] VISIT: General examination of patient (procedure)
+    Provider: Dr. Teodoro374 Koss676
+    Location: COMMUNITY HEALTH CONNECTIONS, INC
+    Duration: 18:43:14 - 18:58:14
+
+  [18:43:14] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [18:43:14] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [18:43:14] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-02-28
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Fernande593 Hope196 is a 40 year-old nonhispanic asian female.
+      # Social History
+
+  [18:43:14] DOCUMENT: History and physical note
+    Status: superseded
+
+  [18:58:14] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2025-03-04
+
+  [18:43:14] VISIT: General examination of patient (procedure)
+    Provider: Dr. Teodoro374 Koss676
+    Location: COMMUNITY HEALTH CONNECTIONS, INC
+    Duration: 18:43:14 - 18:58:14
+
+  [18:43:14] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [18:43:14] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [18:43:14] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [18:43:14] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-03-04
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Fernande593 Hope196 is a 42 year-old nonhispanic asian female.
+      # Social History
+
+  [18:43:14] DOCUMENT: History and physical note
+    Status: current
+
+  [18:58:14] CLAIM: professional
+    Amount: USD 544.80
+
+
+📅 2026-02-10
+
+  [18:43:14] PROVENANCE: Record activity
+    Agents: Dr. Teodoro374 Koss676, Dr. Teodoro374 Koss676
+
+================================================================================
+END OF TIMELINE (24 events)
+================================================================================

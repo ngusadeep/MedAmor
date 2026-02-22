@@ -1,0 +1,217 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Ms. Francene766 Zulema784 Quitzon246
+  Patient ID: 51966
+  Date of Birth: 1975-06-18
+  Gender: Female
+  Race: White
+  Ethnicity: Hispanic or Latino
+  Marital Status: Never Married
+  Address: 207 Spinka Track Suite 97, Boston, MA 02128
+  Phone: 555-156-8003
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2017-06-28
+
+  [17:35:47] VISIT: General examination of patient (procedure)
+    Provider: Dr. Hue920 Block661
+    Location: HARVARD STREET NEIGHBORHOOD HEALTH CENTER
+    Duration: 17:35:47 - 17:50:47
+
+  [17:35:47] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [17:35:47] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [17:35:47] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [17:35:47] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-06-28
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Francene766 is a 42 year-old hispanic white female.
+      # Social History
+
+  [17:35:47] DOCUMENT: History and physical note
+    Status: superseded
+
+  [17:50:47] CLAIM: professional
+    Amount: USD 544.80
+
+
+📅 2019-07-03
+
+  [17:35:47] VISIT: General examination of patient (procedure)
+    Provider: Dr. Hue920 Block661
+    Location: HARVARD STREET NEIGHBORHOOD HEALTH CENTER
+    Duration: 17:35:47 - 17:50:47
+
+  [17:35:47] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [17:35:47] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-07-03
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Francene766 is a 44 year-old hispanic white female.
+      # Social History
+
+  [17:35:47] DOCUMENT: History and physical note
+    Status: superseded
+
+  [17:50:47] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2021-03-24
+
+  [17:35:47] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Daniela614 Hinojosa147
+    Location: LEMUEL SHATTUCK HOSPITAL
+    Duration: 17:35:47 - 17:50:47
+
+  [17:35:47] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+    Status: completed
+
+  [17:35:47] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-03-24
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Francene766 is a 45 year-old hispanic white female.
+      # Social History
+
+  [17:35:47] DOCUMENT: History and physical note
+    Status: superseded
+
+  [17:50:47] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-04-21
+
+  [17:35:47] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Daniela614 Hinojosa147
+    Location: LEMUEL SHATTUCK HOSPITAL
+    Duration: 17:35:47 - 17:50:47
+
+  [17:35:47] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+    Status: completed
+
+  [17:35:47] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-04-21
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Francene766 is a 45 year-old hispanic white female.
+      # Social History
+
+  [17:35:47] DOCUMENT: History and physical note
+    Status: superseded
+
+  [17:50:47] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-07-07
+
+  [17:35:47] VISIT: General examination of patient (procedure)
+    Provider: Dr. Hue920 Block661
+    Location: HARVARD STREET NEIGHBORHOOD HEALTH CENTER
+    Duration: 17:35:47 - 17:50:47
+
+  [17:35:47] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [17:35:47] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-07-07
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Francene766 is a 46 year-old hispanic white female.
+      # Social History
+
+  [17:35:47] DOCUMENT: History and physical note
+    Status: superseded
+
+  [17:50:47] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2023-07-12
+
+  [17:35:47] VISIT: General examination of patient (procedure)
+    Provider: Dr. Hue920 Block661
+    Location: HARVARD STREET NEIGHBORHOOD HEALTH CENTER
+    Duration: 17:35:47 - 17:50:47
+
+  [17:35:47] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [17:35:47] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-07-12
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Francene766 is a 48 year-old hispanic white female.
+      # Social History
+
+  [17:35:47] DOCUMENT: History and physical note
+    Status: superseded
+
+  [17:50:47] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2025-06-18
+
+  [17:35:47] VISIT: General examination of patient (procedure)
+    Provider: Dr. Hue920 Block661
+    Location: HARVARD STREET NEIGHBORHOOD HEALTH CENTER
+    Duration: 17:35:47 - 17:50:47
+
+  [17:35:47] IMMUNIZATION: zoster vaccine, live
+    Status: completed
+
+  [17:35:47] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [17:35:47] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-06-18
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Francene766 is a 50 year-old hispanic white female.
+      # Social History
+
+  [17:35:47] DOCUMENT: History and physical note
+    Status: current
+
+  [17:50:47] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2026-02-11
+
+  [16:35:47] PROVENANCE: Record activity
+    Agents: Dr. Hue920 Block661, Dr. Hue920 Block661
+
+================================================================================
+END OF TIMELINE (39 events)
+================================================================================

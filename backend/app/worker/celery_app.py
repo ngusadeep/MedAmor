@@ -1,6 +1,7 @@
-"""Celery app: broker RabbitMQ, task queue for audit jobs."""
+"""Celery app: broker, task queue, and Beat schedule for audit jobs."""
 
 from celery import Celery
+from celery.schedules import crontab
 
 from app.core.config import settings
 
@@ -18,4 +19,10 @@ celery_app.conf.update(
     timezone="UTC",
     enable_utc=True,
     task_track_started=True,
+    beat_schedule={
+        "create-scheduled-audit-jobs-daily": {
+            "task": "app.worker.tasks.create_scheduled_audit_jobs",
+            "schedule": crontab(hour=6, minute=0),
+        },
+    },
 )

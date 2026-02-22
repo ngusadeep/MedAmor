@@ -1,0 +1,136 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Mrs. Xenia801 Scott935 Reynolds644
+  Patient ID: 154243
+  Date of Birth: 1985-11-05
+  Gender: Female
+  Race: White
+  Ethnicity: Not Hispanic or Latino
+  Marital Status: Married
+  Address: 565 Heaney Parade, Weston, MA 00000
+  Phone: 555-838-5483
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2017-01-17
+
+  [20:59:00] VISIT: General examination of patient (procedure)
+    Provider: Dr. Jesse626 Medhurst46
+    Location: WEST SUBURBAN INTERNISTS INC
+    Duration: 20:59:00 - 21:14:00
+
+  [20:59:00] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [20:59:00] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [20:59:00] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-01-17
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Xenia801 Scott935 is a 31 year-old nonhispanic white female.
+      # Social History
+
+  [20:59:00] DOCUMENT: History and physical note
+    Status: superseded
+
+  [21:14:00] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2020-01-21
+
+  [20:59:00] VISIT: General examination of patient (procedure)
+    Provider: Dr. Jesse626 Medhurst46
+    Location: WEST SUBURBAN INTERNISTS INC
+    Duration: 20:59:00 - 21:14:00
+
+  [20:59:00] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [20:59:00] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-01-21
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Xenia801 Scott935 is a 34 year-old nonhispanic white female.
+      # Social History
+
+  [20:59:00] DOCUMENT: History and physical note
+    Status: superseded
+
+  [21:14:00] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2023-01-24
+
+  [20:59:00] VISIT: General examination of patient (procedure)
+    Provider: Dr. Jesse626 Medhurst46
+    Location: WEST SUBURBAN INTERNISTS INC
+    Duration: 20:59:00 - 21:14:00
+
+  [20:59:00] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [20:59:00] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-01-24
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Xenia801 Scott935 is a 37 year-old nonhispanic white female.
+      # Social History
+
+  [20:59:00] DOCUMENT: History and physical note
+    Status: superseded
+
+  [21:14:00] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2025-11-11
+
+  [20:59:00] VISIT: General examination of patient (procedure)
+    Provider: Dr. Jesse626 Medhurst46
+    Location: WEST SUBURBAN INTERNISTS INC
+    Duration: 20:59:00 - 21:14:00
+
+  [20:59:00] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [20:59:00] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [20:59:00] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-11-11
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Xenia801 Scott935 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [20:59:00] DOCUMENT: History and physical note
+    Status: current
+
+  [21:14:00] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2026-02-10
+
+  [20:59:00] PROVENANCE: Record activity
+    Agents: Dr. Jesse626 Medhurst46, Dr. Jesse626 Medhurst46
+
+================================================================================
+END OF TIMELINE (23 events)
+================================================================================

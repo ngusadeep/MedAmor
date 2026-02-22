@@ -1,0 +1,159 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Mrs. Wilda367 Reagan466 Zboncak558
+  Patient ID: 154210
+  Date of Birth: 1984-02-05
+  Gender: Female
+  Race: Black or African American
+  Ethnicity: Not Hispanic or Latino
+  Marital Status: Divorced
+  Address: 616 Rutherford Skyway, New Bedford, MA 02747
+  Phone: 555-906-4059
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2018-04-22
+
+  [01:05:04] VISIT: General examination of patient (procedure)
+    Provider: Dr. Assunta351 Haley279
+    Location: CHILD & FAMILY SERVICES, INC.
+    Duration: 01:05:04 - 01:20:04
+
+  [01:05:04] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [01:05:04] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-04-22
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Wilda367 Reagan466 is a 34 year-old nonhispanic black female.
+      # Social History
+
+  [01:05:04] DOCUMENT: History and physical note
+    Status: superseded
+
+  [01:20:04] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2021-01-03
+
+  [00:05:04] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Ramiro608 Anderson154
+    Location: NORTHEAST BEHAVIORAL HEALTH LLC
+    Duration: 00:05:04 - 00:20:04
+
+  [00:05:04] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 30 mcg/0.3 mL dose
+    Status: completed
+
+  [00:05:04] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-01-03
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Wilda367 Reagan466 is a 36 year-old nonhispanic black female.
+      # Social History
+
+  [00:05:04] DOCUMENT: History and physical note
+    Status: superseded
+
+  [00:20:04] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-01-24
+
+  [00:05:04] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Ramiro608 Anderson154
+    Location: NORTHEAST BEHAVIORAL HEALTH LLC
+    Duration: 00:05:04 - 00:20:04
+
+  [00:05:04] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 30 mcg/0.3 mL dose
+    Status: completed
+
+  [00:05:04] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-01-24
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Wilda367 Reagan466 is a 36 year-old nonhispanic black female.
+      # Social History
+
+  [00:05:04] DOCUMENT: History and physical note
+    Status: superseded
+
+  [00:20:04] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-04-25
+
+  [01:05:04] VISIT: General examination of patient (procedure)
+    Provider: Dr. Assunta351 Haley279
+    Location: CHILD & FAMILY SERVICES, INC.
+    Duration: 01:05:04 - 01:20:04
+
+  [01:05:04] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [01:05:04] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-04-25
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Wilda367 Reagan466 is a 37 year-old nonhispanic black female.
+      # Social History
+
+  [01:05:04] DOCUMENT: History and physical note
+    Status: superseded
+
+  [01:20:04] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2024-02-11
+
+  [00:05:04] VISIT: General examination of patient (procedure)
+    Provider: Dr. Assunta351 Haley279
+    Location: CHILD & FAMILY SERVICES, INC.
+    Duration: 00:05:04 - 00:20:04
+
+  [00:05:04] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [00:05:04] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [00:05:04] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-02-11
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Wilda367 Reagan466 is a 40 year-old nonhispanic black female.
+      # Social History
+
+  [00:05:04] DOCUMENT: History and physical note
+    Status: current
+
+  [00:20:04] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2026-02-15
+
+  [00:05:04] PROVENANCE: Record activity
+    Agents: Dr. Assunta351 Haley279, Dr. Assunta351 Haley279
+
+================================================================================
+END OF TIMELINE (27 events)
+================================================================================

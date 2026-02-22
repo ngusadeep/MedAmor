@@ -1,0 +1,347 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Mrs. Kerry175 Polly738 Walter473
+  Patient ID: 82920
+  Date of Birth: 1966-08-09
+  Gender: Female
+  Race: White
+  Ethnicity: Not Hispanic or Latino
+  Marital Status: Widowed
+  Address: 865 Thompson Light Unit 12, Watertown, MA 02472
+  Phone: 555-785-2367
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2016-08-09
+
+  [04:38:40] VISIT: General examination of patient (procedure)
+    Provider: Dr. Pamelia915 Kilback373
+    Location: ONE CALL HEALTHCARE PLLC
+    Duration: 04:38:40 - 04:53:40
+
+  [04:38:40] IMMUNIZATION: zoster vaccine, live
+    Status: completed
+
+  [04:38:40] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [04:38:40] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-08-09
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kerry175 Polly738 is a 50 year-old nonhispanic white female.
+      # Social History
+
+  [04:38:40] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:53:40] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2017-08-15
+
+  [04:38:40] VISIT: General examination of patient (procedure)
+    Provider: Dr. Pamelia915 Kilback373
+    Location: ONE CALL HEALTHCARE PLLC
+    Duration: 04:38:40 - 04:53:40
+
+  [04:38:40] IMMUNIZATION: zoster vaccine, live
+    Status: completed
+
+  [04:38:40] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [04:38:40] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [04:38:40] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-08-15
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kerry175 Polly738 is a 51 year-old nonhispanic white female.
+      # Social History
+
+  [04:38:40] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:53:40] CLAIM: professional
+    Amount: USD 544.80
+
+
+📅 2018-08-21
+
+  [04:38:40] VISIT: General examination of patient (procedure)
+    Provider: Dr. Pamelia915 Kilback373
+    Location: ONE CALL HEALTHCARE PLLC
+    Duration: 04:38:40 - 04:53:40
+
+  [04:38:40] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [04:38:40] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-08-21
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kerry175 Polly738 is a 52 year-old nonhispanic white female.
+      # Social History
+
+  [04:38:40] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:53:40] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2019-08-27
+
+  [04:38:40] VISIT: General examination of patient (procedure)
+    Provider: Dr. Pamelia915 Kilback373
+    Location: ONE CALL HEALTHCARE PLLC
+    Duration: 04:38:40 - 04:53:40
+
+  [04:38:40] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [04:38:40] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-08-27
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kerry175 Polly738 is a 53 year-old nonhispanic white female.
+      # Social History
+
+  [04:38:40] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:53:40] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2020-09-01
+
+  [04:38:40] VISIT: General examination of patient (procedure)
+    Provider: Dr. Pamelia915 Kilback373
+    Location: ONE CALL HEALTHCARE PLLC
+    Duration: 04:38:40 - 04:53:40
+
+  [04:38:40] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [04:38:40] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-09-01
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kerry175 Polly738 is a 54 year-old nonhispanic white female.
+      # Social History
+
+  [04:38:40] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:53:40] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2021-03-30
+
+  [04:38:40] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Cira533 Jakubowski832
+    Location: ENCOMPASS HEALTH REHABILITATION HOSP OF NEW ENGLAN
+    Duration: 04:38:40 - 04:53:40
+
+  [04:38:40] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 30 mcg/0.3 mL dose
+    Status: completed
+
+  [04:38:40] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-03-30
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kerry175 Polly738 is a 54 year-old nonhispanic white female.
+      # Social History
+
+  [04:38:40] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:53:40] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-04-20
+
+  [04:38:40] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Cira533 Jakubowski832
+    Location: ENCOMPASS HEALTH REHABILITATION HOSP OF NEW ENGLAN
+    Duration: 04:38:40 - 04:53:40
+
+  [04:38:40] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 30 mcg/0.3 mL dose
+    Status: completed
+
+  [04:38:40] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-04-20
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kerry175 Polly738 is a 54 year-old nonhispanic white female.
+      # Social History
+
+  [04:38:40] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:53:40] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-09-07
+
+  [04:38:40] VISIT: General examination of patient (procedure)
+    Provider: Dr. Pamelia915 Kilback373
+    Location: ONE CALL HEALTHCARE PLLC
+    Duration: 04:38:40 - 04:53:40
+
+  [04:38:40] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [04:38:40] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-09-07
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kerry175 Polly738 is a 55 year-old nonhispanic white female.
+      # Social History
+
+  [04:38:40] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:53:40] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2022-09-13
+
+  [04:38:40] VISIT: General examination of patient (procedure)
+    Provider: Dr. Pamelia915 Kilback373
+    Location: ONE CALL HEALTHCARE PLLC
+    Duration: 04:38:40 - 04:53:40
+
+  [04:38:40] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [04:38:40] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-09-13
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kerry175 Polly738 is a 56 year-old nonhispanic white female.
+      # Social History
+
+  [04:38:40] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:53:40] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2023-09-19
+
+  [04:38:40] VISIT: General examination of patient (procedure)
+    Provider: Dr. Pamelia915 Kilback373
+    Location: ONE CALL HEALTHCARE PLLC
+    Duration: 04:38:40 - 04:53:40
+
+  [04:38:40] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [04:38:40] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-09-19
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kerry175 Polly738 is a 57 year-old nonhispanic white female.
+      # Social History
+
+  [04:38:40] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:53:40] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2024-09-24
+
+  [04:38:40] VISIT: General examination of patient (procedure)
+    Provider: Dr. Pamelia915 Kilback373
+    Location: ONE CALL HEALTHCARE PLLC
+    Duration: 04:38:40 - 04:53:40
+
+  [04:38:40] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [04:38:40] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-09-24
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kerry175 Polly738 is a 58 year-old nonhispanic white female.
+      # Social History
+
+  [04:38:40] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:53:40] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2025-09-30
+
+  [04:38:40] VISIT: General examination of patient (procedure)
+    Provider: Dr. Pamelia915 Kilback373
+    Location: ONE CALL HEALTHCARE PLLC
+    Duration: 04:38:40 - 04:53:40
+
+  [04:38:40] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [04:38:40] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-09-30
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kerry175 Polly738 is a 59 year-old nonhispanic white female.
+      # Social History
+
+  [04:38:40] DOCUMENT: History and physical note
+    Status: current
+
+  [04:53:40] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2026-02-10
+
+  [03:38:40] PROVENANCE: Record activity
+    Agents: Dr. Pamelia915 Kilback373, Dr. Pamelia915 Kilback373
+
+================================================================================
+END OF TIMELINE (64 events)
+================================================================================

@@ -1,0 +1,321 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Mrs. Michal596 Wendy149 Bins636
+  Patient ID: 112299
+  Date of Birth: 1957-11-17
+  Gender: Female
+  Race: White
+  Ethnicity: Not Hispanic or Latino
+  Marital Status: Married
+  Address: 1028 Quigley Branch, Swampscott, MA 01907
+  Phone: 555-562-9286
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2017-01-08
+
+  [03:25:08] VISIT: General examination of patient (procedure)
+    Provider: Dr. Palmer257 Kuphal363
+    Location: NORTH SHORE MEDICAL CENTER INC
+    Duration: 03:25:08 - 03:40:08
+
+  [03:25:08] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [03:25:08] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-01-08
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Michal596 Wendy149 is a 59 year-old nonhispanic white female.
+      # Social History
+
+  [03:25:08] DOCUMENT: History and physical note
+    Status: superseded
+
+  [03:40:08] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2018-01-14
+
+  [03:25:08] VISIT: General examination of patient (procedure)
+    Provider: Dr. Palmer257 Kuphal363
+    Location: NORTH SHORE MEDICAL CENTER INC
+    Duration: 03:25:08 - 03:40:08
+
+  [03:25:08] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [03:25:08] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-01-14
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Michal596 Wendy149 is a 60 year-old nonhispanic white female.
+      # Social History
+
+  [03:25:08] DOCUMENT: History and physical note
+    Status: superseded
+
+  [03:40:08] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2019-01-20
+
+  [03:25:08] VISIT: General examination of patient (procedure)
+    Provider: Dr. Palmer257 Kuphal363
+    Location: NORTH SHORE MEDICAL CENTER INC
+    Duration: 03:25:08 - 03:40:08
+
+  [03:25:08] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [03:25:08] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [03:25:08] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-01-20
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Michal596 Wendy149 is a 61 year-old nonhispanic white female.
+      # Social History
+
+  [03:25:08] DOCUMENT: History and physical note
+    Status: superseded
+
+  [03:40:08] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2020-01-26
+
+  [03:25:08] VISIT: General examination of patient (procedure)
+    Provider: Dr. Palmer257 Kuphal363
+    Location: NORTH SHORE MEDICAL CENTER INC
+    Duration: 03:25:08 - 03:40:08
+
+  [03:25:08] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [03:25:08] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-01-26
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Michal596 Wendy149 is a 62 year-old nonhispanic white female.
+      # Social History
+
+  [03:25:08] DOCUMENT: History and physical note
+    Status: superseded
+
+  [03:40:08] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2021-01-31
+
+  [03:25:08] VISIT: General examination of patient (procedure)
+    Provider: Dr. Palmer257 Kuphal363
+    Location: NORTH SHORE MEDICAL CENTER INC
+    Duration: 03:25:08 - 03:40:08
+
+  [03:25:08] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [03:25:08] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-01-31
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Michal596 Wendy149 is a 63 year-old nonhispanic white female.
+      # Social History
+
+  [03:25:08] DOCUMENT: History and physical note
+    Status: superseded
+
+  [03:40:08] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2021-03-07
+
+  [03:25:08] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Palmer257 Kuphal363
+    Location: NORTH SHORE MEDICAL CENTER INC
+    Duration: 03:25:08 - 03:40:08
+
+  [03:25:08] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 30 mcg/0.3 mL dose
+    Status: completed
+
+  [03:25:08] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-03-07
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Michal596 Wendy149 is a 63 year-old nonhispanic white female.
+      # Social History
+
+  [03:25:08] DOCUMENT: History and physical note
+    Status: superseded
+
+  [03:40:08] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-03-28
+
+  [04:25:08] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Palmer257 Kuphal363
+    Location: NORTH SHORE MEDICAL CENTER INC
+    Duration: 04:25:08 - 04:40:08
+
+  [04:25:08] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 30 mcg/0.3 mL dose
+    Status: completed
+
+  [04:25:08] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-03-28
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Michal596 Wendy149 is a 63 year-old nonhispanic white female.
+      # Social History
+
+  [04:25:08] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:40:08] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2022-02-06
+
+  [03:25:08] VISIT: General examination of patient (procedure)
+    Provider: Dr. Palmer257 Kuphal363
+    Location: NORTH SHORE MEDICAL CENTER INC
+    Duration: 03:25:08 - 03:40:08
+
+  [03:25:08] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [03:25:08] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-02-06
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Michal596 Wendy149 is a 64 year-old nonhispanic white female.
+      # Social History
+
+  [03:25:08] DOCUMENT: History and physical note
+    Status: superseded
+
+  [03:40:08] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2023-02-12
+
+  [03:25:08] VISIT: General examination of patient (procedure)
+    Provider: Dr. Palmer257 Kuphal363
+    Location: NORTH SHORE MEDICAL CENTER INC
+    Duration: 03:25:08 - 03:40:08
+
+  [03:25:08] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [03:25:08] IMMUNIZATION: Pneumococcal conjugate PCV 13
+    Status: completed
+
+  [03:25:08] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-02-12
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Michal596 Wendy149 is a 65 year-old nonhispanic white female.
+      # Social History
+
+  [03:25:08] DOCUMENT: History and physical note
+    Status: superseded
+
+  [03:40:08] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2024-02-18
+
+  [03:25:08] VISIT: General examination of patient (procedure)
+    Provider: Dr. Palmer257 Kuphal363
+    Location: NORTH SHORE MEDICAL CENTER INC
+    Duration: 03:25:08 - 03:40:08
+
+  [03:25:08] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [03:25:08] IMMUNIZATION: pneumococcal polysaccharide vaccine, 23 valent
+    Status: completed
+
+  [03:25:08] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-02-18
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Michal596 Wendy149 is a 66 year-old nonhispanic white female.
+      # Social History
+
+  [03:25:08] DOCUMENT: History and physical note
+    Status: superseded
+
+  [03:40:08] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2025-02-23
+
+  [03:25:08] VISIT: General examination of patient (procedure)
+    Provider: Dr. Palmer257 Kuphal363
+    Location: NORTH SHORE MEDICAL CENTER INC
+    Duration: 03:25:08 - 03:40:08
+
+  [03:25:08] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [03:25:08] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-02-23
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Michal596 Wendy149 is a 67 year-old nonhispanic white female.
+      # Social History
+
+  [03:25:08] DOCUMENT: History and physical note
+    Status: current
+
+  [03:40:08] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2026-02-15
+
+  [03:25:08] PROVENANCE: Record activity
+    Agents: Dr. Palmer257 Kuphal363, Dr. Palmer257 Kuphal363
+
+================================================================================
+END OF TIMELINE (59 events)
+================================================================================

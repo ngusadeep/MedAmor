@@ -1,0 +1,318 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Ms. Madie300 Ellamae709 Steuber698
+  Patient ID: 101007
+  Date of Birth: 1966-01-13
+  Gender: Female
+  Race: White
+  Ethnicity: Not Hispanic or Latino
+  Marital Status: Never Married
+  Address: 824 Jakubowski Grove, Salem, MA 01907
+  Phone: 555-457-7240
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2017-01-19
+
+  [04:17:15] VISIT: General examination of patient (procedure)
+    Provider: Dr. Lita714 White193
+    Location: PODIATRIC HEALTHCARE PC
+    Duration: 04:17:15 - 04:32:15
+
+  [04:17:15] IMMUNIZATION: zoster vaccine, live
+    Status: completed
+
+  [04:17:15] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [04:17:15] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [04:17:15] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-01-19
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Madie300 is a 51 year-old nonhispanic white female.
+      # Social History
+
+  [04:17:15] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:32:15] CLAIM: professional
+    Amount: USD 544.80
+
+
+📅 2018-01-25
+
+  [04:17:15] VISIT: General examination of patient (procedure)
+    Provider: Dr. Lita714 White193
+    Location: PODIATRIC HEALTHCARE PC
+    Duration: 04:17:15 - 04:32:15
+
+  [04:17:15] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [04:17:15] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-01-25
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Madie300 is a 52 year-old nonhispanic white female.
+      # Social History
+
+  [04:17:15] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:32:15] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2019-01-31
+
+  [04:17:15] VISIT: General examination of patient (procedure)
+    Provider: Dr. Lita714 White193
+    Location: PODIATRIC HEALTHCARE PC
+    Duration: 04:17:15 - 04:32:15
+
+  [04:17:15] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [04:17:15] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-01-31
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Madie300 is a 53 year-old nonhispanic white female.
+      # Social History
+
+  [04:17:15] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:32:15] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2020-02-06
+
+  [04:17:15] VISIT: General examination of patient (procedure)
+    Provider: Dr. Lita714 White193
+    Location: PODIATRIC HEALTHCARE PC
+    Duration: 04:17:15 - 04:32:15
+
+  [04:17:15] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [04:17:15] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-02-06
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Madie300 is a 54 year-old nonhispanic white female.
+      # Social History
+
+  [04:17:15] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:32:15] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2021-02-11
+
+  [04:17:15] VISIT: General examination of patient (procedure)
+    Provider: Dr. Lita714 White193
+    Location: PODIATRIC HEALTHCARE PC
+    Duration: 04:17:15 - 04:32:15
+
+  [04:17:15] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [04:17:15] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-02-11
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Madie300 is a 55 year-old nonhispanic white female.
+      # Social History
+
+  [04:17:15] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:32:15] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2021-08-12
+
+  [05:17:15] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Trevor374 Walker122
+    Location: NORTH SHORE MEDICAL CENTER INC
+    Duration: 05:17:15 - 05:32:15
+
+  [05:17:15] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+    Status: completed
+
+  [05:17:15] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-08-12
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Madie300 is a 55 year-old nonhispanic white female.
+      # Social History
+
+  [05:17:15] DOCUMENT: History and physical note
+    Status: superseded
+
+  [05:32:15] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-09-09
+
+  [05:17:15] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Trevor374 Walker122
+    Location: NORTH SHORE MEDICAL CENTER INC
+    Duration: 05:17:15 - 05:32:15
+
+  [05:17:15] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+    Status: completed
+
+  [05:17:15] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-09-09
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Madie300 is a 55 year-old nonhispanic white female.
+      # Social History
+
+  [05:17:15] DOCUMENT: History and physical note
+    Status: superseded
+
+  [05:32:15] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2022-02-17
+
+  [04:17:15] VISIT: General examination of patient (procedure)
+    Provider: Dr. Lita714 White193
+    Location: PODIATRIC HEALTHCARE PC
+    Duration: 04:17:15 - 04:32:15
+
+  [04:17:15] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [04:17:15] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-02-17
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Madie300 is a 56 year-old nonhispanic white female.
+      # Social History
+
+  [04:17:15] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:32:15] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2023-02-23
+
+  [04:17:15] VISIT: General examination of patient (procedure)
+    Provider: Dr. Lita714 White193
+    Location: PODIATRIC HEALTHCARE PC
+    Duration: 04:17:15 - 04:32:15
+
+  [04:17:15] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [04:17:15] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-02-23
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Madie300 is a 57 year-old nonhispanic white female.
+      # Social History
+
+  [04:17:15] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:32:15] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2024-02-29
+
+  [04:17:15] VISIT: General examination of patient (procedure)
+    Provider: Dr. Lita714 White193
+    Location: PODIATRIC HEALTHCARE PC
+    Duration: 04:17:15 - 04:32:15
+
+  [04:17:15] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [04:17:15] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-02-29
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Madie300 is a 58 year-old nonhispanic white female.
+      # Social History
+
+  [04:17:15] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:32:15] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2025-03-06
+
+  [04:17:15] VISIT: General examination of patient (procedure)
+    Provider: Dr. Lita714 White193
+    Location: PODIATRIC HEALTHCARE PC
+    Duration: 04:17:15 - 04:32:15
+
+  [04:17:15] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [04:17:15] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-03-06
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Madie300 is a 59 year-old nonhispanic white female.
+      # Social History
+
+  [04:17:15] DOCUMENT: History and physical note
+    Status: current
+
+  [04:32:15] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2026-02-12
+
+  [04:17:15] PROVENANCE: Record activity
+    Agents: Dr. Lita714 White193, Dr. Lita714 White193
+
+================================================================================
+END OF TIMELINE (58 events)
+================================================================================

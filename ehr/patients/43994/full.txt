@@ -1,0 +1,191 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Mrs. Elizebeth108 Tiera511 Leffler128
+  Patient ID: 43994
+  Date of Birth: 1980-10-29
+  Gender: Female
+  Race: White
+  Ethnicity: Not Hispanic or Latino
+  Marital Status: Married
+  Address: 198 Donnelly Dam, Boston, MA 02113
+  Phone: 555-145-7277
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2018-01-17
+
+  [05:30:37] VISIT: General examination of patient (procedure)
+    Provider: Dr. Felipe97 Tamayo777
+    Location: HARBOR HEALTH SERVICES INC
+    Duration: 05:30:37 - 05:45:37
+
+  [05:30:37] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [05:30:37] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-01-17
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Elizebeth108 Tiera511 is a 37 year-old nonhispanic white female.
+      # Social History
+
+  [05:30:37] DOCUMENT: History and physical note
+    Status: superseded
+
+  [05:45:37] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2020-11-04
+
+  [05:30:37] VISIT: General examination of patient (procedure)
+    Provider: Dr. Felipe97 Tamayo777
+    Location: HARBOR HEALTH SERVICES INC
+    Duration: 05:30:37 - 05:45:37
+
+  [05:30:37] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [05:30:37] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [05:30:37] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-11-04
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Elizebeth108 Tiera511 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [05:30:37] DOCUMENT: History and physical note
+    Status: superseded
+
+  [05:45:37] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2021-05-05
+
+  [06:30:37] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Latoyia537 Lindgren255
+    Location: DR SOLOMON CARTER FULLER MENTAL HEALTH CENTER
+    Duration: 06:30:37 - 06:45:37
+
+  [06:30:37] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 30 mcg/0.3 mL dose
+    Status: completed
+
+  [06:30:37] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-05-05
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Elizebeth108 Tiera511 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [06:30:37] DOCUMENT: History and physical note
+    Status: superseded
+
+  [06:45:37] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-05-26
+
+  [06:30:37] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Latoyia537 Lindgren255
+    Location: DR SOLOMON CARTER FULLER MENTAL HEALTH CENTER
+    Duration: 06:30:37 - 06:45:37
+
+  [06:30:37] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 30 mcg/0.3 mL dose
+    Status: completed
+
+  [06:30:37] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-05-26
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Elizebeth108 Tiera511 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [06:30:37] DOCUMENT: History and physical note
+    Status: superseded
+
+  [06:45:37] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2022-11-09
+
+  [05:30:37] VISIT: General examination of patient (procedure)
+    Provider: Dr. Felipe97 Tamayo777
+    Location: HARBOR HEALTH SERVICES INC
+    Duration: 05:30:37 - 05:45:37
+
+  [05:30:37] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [05:30:37] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [05:30:37] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [05:30:37] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-11-09
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Elizebeth108 Tiera511 is a 42 year-old nonhispanic white female.
+      # Social History
+
+  [05:30:37] DOCUMENT: History and physical note
+    Status: superseded
+
+  [05:45:37] CLAIM: professional
+    Amount: USD 544.80
+
+
+📅 2024-11-13
+
+  [05:30:37] VISIT: General examination of patient (procedure)
+    Provider: Dr. Felipe97 Tamayo777
+    Location: HARBOR HEALTH SERVICES INC
+    Duration: 05:30:37 - 05:45:37
+
+  [05:30:37] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [05:30:37] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-11-13
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Elizebeth108 Tiera511 is a 44 year-old nonhispanic white female.
+      # Social History
+
+  [05:30:37] DOCUMENT: History and physical note
+    Status: current
+
+  [05:45:37] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2026-02-11
+
+  [05:30:37] PROVENANCE: Record activity
+    Agents: Dr. Felipe97 Tamayo777, Dr. Felipe97 Tamayo777
+
+================================================================================
+END OF TIMELINE (34 events)
+================================================================================

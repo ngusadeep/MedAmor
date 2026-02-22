@@ -1,0 +1,191 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Ms. Carmina141 Lyndia317 Fisher429
+  Patient ID: 24159
+  Date of Birth: 1983-03-30
+  Gender: Female
+  Race: White
+  Ethnicity: Not Hispanic or Latino
+  Marital Status: Never Married
+  Address: 786 Waelchi Dam Apt 3, Dracut, MA 00000
+  Phone: 555-512-7346
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2017-06-14
+
+  [16:32:56] VISIT: General examination of patient (procedure)
+    Provider: Dr. Aura483 Bruen238
+    Location: DRACUT FAMILY HEALTHCARE
+    Duration: 16:32:56 - 16:47:56
+
+  [16:32:56] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [16:32:56] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-06-14
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Carmina141 is a 34 year-old nonhispanic white female.
+      # Social History
+
+  [16:32:56] DOCUMENT: History and physical note
+    Status: superseded
+
+  [16:47:56] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2020-06-17
+
+  [16:32:56] VISIT: General examination of patient (procedure)
+    Provider: Dr. Aura483 Bruen238
+    Location: DRACUT FAMILY HEALTHCARE
+    Duration: 16:32:56 - 16:47:56
+
+  [16:32:56] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [16:32:56] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-06-17
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Carmina141 is a 37 year-old nonhispanic white female.
+      # Social History
+
+  [16:32:56] DOCUMENT: History and physical note
+    Status: superseded
+
+  [16:47:56] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2021-10-13
+
+  [16:32:56] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Carlton317 Koch169
+    Location: TEWKSBURY HOSPITAL
+    Duration: 16:32:56 - 16:47:56
+
+  [16:32:56] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 30 mcg/0.3 mL dose
+    Status: completed
+
+  [16:32:56] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-10-13
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Carmina141 is a 38 year-old nonhispanic white female.
+      # Social History
+
+  [16:32:56] DOCUMENT: History and physical note
+    Status: superseded
+
+  [16:47:56] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-11-03
+
+  [16:32:56] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Carlton317 Koch169
+    Location: TEWKSBURY HOSPITAL
+    Duration: 16:32:56 - 16:47:56
+
+  [16:32:56] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 30 mcg/0.3 mL dose
+    Status: completed
+
+  [16:32:56] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-11-03
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Carmina141 is a 38 year-old nonhispanic white female.
+      # Social History
+
+  [16:32:56] DOCUMENT: History and physical note
+    Status: superseded
+
+  [16:47:56] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2023-04-05
+
+  [16:32:56] VISIT: General examination of patient (procedure)
+    Provider: Dr. Aura483 Bruen238
+    Location: DRACUT FAMILY HEALTHCARE
+    Duration: 16:32:56 - 16:47:56
+
+  [16:32:56] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [16:32:56] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [16:32:56] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-04-05
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Carmina141 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [16:32:56] DOCUMENT: History and physical note
+    Status: superseded
+
+  [16:47:56] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2025-04-09
+
+  [16:32:56] VISIT: General examination of patient (procedure)
+    Provider: Dr. Aura483 Bruen238
+    Location: DRACUT FAMILY HEALTHCARE
+    Duration: 16:32:56 - 16:47:56
+
+  [16:32:56] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [16:32:56] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [16:32:56] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [16:32:56] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-04-09
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Carmina141 is a 42 year-old nonhispanic white female.
+      # Social History
+
+  [16:32:56] DOCUMENT: History and physical note
+    Status: current
+
+  [16:47:56] CLAIM: professional
+    Amount: USD 544.80
+
+
+📅 2026-02-11
+
+  [15:32:56] PROVENANCE: Record activity
+    Agents: Dr. Aura483 Bruen238, Dr. Aura483 Bruen238
+
+================================================================================
+END OF TIMELINE (34 events)
+================================================================================

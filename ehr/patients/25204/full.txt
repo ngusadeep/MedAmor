@@ -1,0 +1,217 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Mrs. Casandra937 Schowalter414
+  Patient ID: 25204
+  Date of Birth: 1977-02-08
+  Gender: Female
+  Race: White
+  Ethnicity: Not Hispanic or Latino
+  Marital Status: Married
+  Address: 846 Dach Extension Apt 57, Beverly, MA 01915
+  Phone: 555-857-2195
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2017-02-14
+
+  [14:36:05] VISIT: General examination of patient (procedure)
+    Provider: Dr. Larisa542 Kris249
+    Location: HARBORLIGHT FAMILY MEDICINE, PC
+    Duration: 14:36:05 - 14:51:05
+
+  [14:36:05] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [14:36:05] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [14:36:05] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-02-14
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Casandra937 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [14:36:05] DOCUMENT: History and physical note
+    Status: superseded
+
+  [14:51:05] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2019-02-19
+
+  [14:36:05] VISIT: General examination of patient (procedure)
+    Provider: Dr. Larisa542 Kris249
+    Location: HARBORLIGHT FAMILY MEDICINE, PC
+    Duration: 14:36:05 - 14:51:05
+
+  [14:36:05] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [14:36:05] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [14:36:05] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [14:36:05] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-02-19
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Casandra937 is a 42 year-old nonhispanic white female.
+      # Social History
+
+  [14:36:05] DOCUMENT: History and physical note
+    Status: superseded
+
+  [14:51:05] CLAIM: professional
+    Amount: USD 544.80
+
+
+📅 2021-02-23
+
+  [14:36:05] VISIT: General examination of patient (procedure)
+    Provider: Dr. Larisa542 Kris249
+    Location: HARBORLIGHT FAMILY MEDICINE, PC
+    Duration: 14:36:05 - 14:51:05
+
+  [14:36:05] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [14:36:05] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-02-23
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Casandra937 is a 44 year-old nonhispanic white female.
+      # Social History
+
+  [14:36:05] DOCUMENT: History and physical note
+    Status: superseded
+
+  [14:51:05] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2021-10-12
+
+  [15:36:05] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Trevor374 Walker122
+    Location: NORTH SHORE MEDICAL CENTER INC
+    Duration: 15:36:05 - 15:51:05
+
+  [15:36:05] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 30 mcg/0.3 mL dose
+    Status: completed
+
+  [15:36:05] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-10-12
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Casandra937 is a 44 year-old nonhispanic white female.
+      # Social History
+
+  [15:36:05] DOCUMENT: History and physical note
+    Status: superseded
+
+  [15:51:05] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-11-02
+
+  [15:36:05] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Trevor374 Walker122
+    Location: NORTH SHORE MEDICAL CENTER INC
+    Duration: 15:36:05 - 15:51:05
+
+  [15:36:05] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 30 mcg/0.3 mL dose
+    Status: completed
+
+  [15:36:05] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-11-02
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Casandra937 is a 44 year-old nonhispanic white female.
+      # Social History
+
+  [15:36:05] DOCUMENT: History and physical note
+    Status: superseded
+
+  [15:51:05] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2023-02-28
+
+  [14:36:05] VISIT: General examination of patient (procedure)
+    Provider: Dr. Larisa542 Kris249
+    Location: HARBORLIGHT FAMILY MEDICINE, PC
+    Duration: 14:36:05 - 14:51:05
+
+  [14:36:05] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [14:36:05] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-02-28
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Casandra937 is a 46 year-old nonhispanic white female.
+      # Social History
+
+  [14:36:05] DOCUMENT: History and physical note
+    Status: superseded
+
+  [14:51:05] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2025-03-04
+
+  [14:36:05] VISIT: General examination of patient (procedure)
+    Provider: Dr. Larisa542 Kris249
+    Location: HARBORLIGHT FAMILY MEDICINE, PC
+    Duration: 14:36:05 - 14:51:05
+
+  [14:36:05] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [14:36:05] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-03-04
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Casandra937 is a 48 year-old nonhispanic white female.
+      # Social History
+
+  [14:36:05] DOCUMENT: History and physical note
+    Status: current
+
+  [14:51:05] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2026-02-10
+
+  [14:36:05] PROVENANCE: Record activity
+    Agents: Dr. Larisa542 Kris249, Dr. Larisa542 Kris249
+
+================================================================================
+END OF TIMELINE (39 events)
+================================================================================

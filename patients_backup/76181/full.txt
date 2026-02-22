@@ -1,0 +1,139 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Ms. Kanisha187 Alix578 Rolfson709
+  Patient ID: 76181
+  Date of Birth: 1980-04-04
+  Gender: Female
+  Race: Black or African American
+  Ethnicity: Not Hispanic or Latino
+  Marital Status: Never Married
+  Address: 1016 Stanton Key Apt 47, Westfield, MA 01085
+  Phone: 555-385-9221
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2017-06-23
+
+  [22:03:02] VISIT: General examination of patient (procedure)
+    Provider: Dr. Kaila152 Dibbert990
+    Location: PRIMARY CARE MEDICINE AND PEDIATRICS, LLC
+    Duration: 22:03:02 - 22:18:02
+
+  [22:03:02] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [22:03:02] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-06-23
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kanisha187 is a 37 year-old nonhispanic black female.
+      # Social History
+
+  [22:03:02] DOCUMENT: History and physical note
+    Status: superseded
+
+  [22:18:02] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2020-04-10
+
+  [22:03:02] VISIT: General examination of patient (procedure)
+    Provider: Dr. Kaila152 Dibbert990
+    Location: PRIMARY CARE MEDICINE AND PEDIATRICS, LLC
+    Duration: 22:03:02 - 22:18:02
+
+  [22:03:02] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [22:03:02] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [22:03:02] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-04-10
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kanisha187 is a 40 year-old nonhispanic black female.
+      # Social History
+
+  [22:03:02] DOCUMENT: History and physical note
+    Status: superseded
+
+  [22:18:02] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2022-04-15
+
+  [22:03:02] VISIT: General examination of patient (procedure)
+    Provider: Dr. Kaila152 Dibbert990
+    Location: PRIMARY CARE MEDICINE AND PEDIATRICS, LLC
+    Duration: 22:03:02 - 22:18:02
+
+  [22:03:02] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [22:03:02] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [22:03:02] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [22:03:02] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-04-15
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kanisha187 is a 42 year-old nonhispanic black female.
+      # Social History
+
+  [22:03:02] DOCUMENT: History and physical note
+    Status: superseded
+
+  [22:18:02] CLAIM: professional
+    Amount: USD 544.80
+
+
+📅 2024-04-19
+
+  [22:03:02] VISIT: General examination of patient (procedure)
+    Provider: Dr. Kaila152 Dibbert990
+    Location: PRIMARY CARE MEDICINE AND PEDIATRICS, LLC
+    Duration: 22:03:02 - 22:18:02
+
+  [22:03:02] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [22:03:02] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-04-19
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kanisha187 is a 44 year-old nonhispanic black female.
+      # Social History
+
+  [22:03:02] DOCUMENT: History and physical note
+    Status: current
+
+  [22:18:02] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2026-02-13
+
+  [21:03:02] PROVENANCE: Record activity
+    Agents: Dr. Kaila152 Dibbert990, Dr. Kaila152 Dibbert990
+
+================================================================================
+END OF TIMELINE (24 events)
+================================================================================

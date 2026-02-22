@@ -1,0 +1,781 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Ms. Joette227 Borer986
+  Patient ID: 69048
+  Date of Birth: 1980-02-18
+  Gender: Female
+  Race: White
+  Ethnicity: Not Hispanic or Latino
+  Marital Status: Never Married
+  Address: 889 Bayer Vale Apt 81, Yarmouth, MA 00000
+  Phone: 555-838-5253
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 1999-12-13
+
+  [01:30:34] VISIT: Periodic reevaluation and management of healthy individual (procedure)
+    Reason: Screening for malignant neoplasm of breast (procedure)
+    Provider: Dr. Arden380 Bergstrom287
+    Location: CAPE COD HOSPITAL INC
+    Duration: 01:30:34 - 01:53:40
+
+  [01:30:34] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      1999-12-13
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Joette227 is a 19 year-old nonhispanic white female.
+      # Social History
+
+  [01:30:34] DOCUMENT: History and physical note
+    Status: superseded
+
+  [02:46:40] CONDITION: Malignant neoplasm of breast (disorder) (active)
+
+
+📅 1999-12-15
+
+  [01:53:40] CLAIM: professional
+    Amount: USD 9574.86
+
+
+📅 2016-05-15
+
+  [04:37:17] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Arden380 Bergstrom287
+    Location: CAPE COD HOSPITAL INC
+    Duration: 04:37:17 - 05:12:48
+
+  [04:37:17] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [04:37:17] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-05-15
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Joette227 is a 36 year-old nonhispanic white female.
+      # Social History
+
+  [04:37:17] DOCUMENT: History and physical note
+    Status: superseded
+
+  [05:12:48] CLAIM: professional
+    Amount: USD 573.98
+
+  [05:12:48] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Arden380 Bergstrom287
+    Location: CAPE COD HOSPITAL INC
+    Duration: 05:12:48 - 05:27:53
+
+  [05:12:48] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [05:12:48] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-05-15
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Joette227 is a 36 year-old nonhispanic white female.
+      # Social History
+
+  [05:12:48] DOCUMENT: History and physical note
+    Status: superseded
+
+  [05:27:53] CLAIM: professional
+    Amount: USD 245.67
+
+
+📅 2017-05-08
+
+  [02:30:34] VISIT: General examination of patient (procedure)
+    Provider: Dr. Jacinta658 Wintheiser220
+    Location: CAPE COD PRIMARY CARE LLC
+    Duration: 02:30:34 - 02:45:34
+
+  [02:30:34] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [02:30:34] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-05-08
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Joette227 is a 37 year-old nonhispanic white female.
+      # Social History
+
+  [02:30:34] DOCUMENT: History and physical note
+    Status: superseded
+
+  [02:45:34] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2017-05-31
+
+  [05:27:53] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Arden380 Bergstrom287
+    Location: CAPE COD HOSPITAL INC
+    Duration: 05:27:53 - 06:06:23
+
+  [05:27:53] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [05:27:53] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-05-31
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Joette227 is a 37 year-old nonhispanic white female.
+      # Social History
+
+  [05:27:53] DOCUMENT: History and physical note
+    Status: superseded
+
+  [06:06:23] CLAIM: professional
+    Amount: USD 573.98
+
+  [06:06:23] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Arden380 Bergstrom287
+    Location: CAPE COD HOSPITAL INC
+    Duration: 06:06:23 - 06:26:53
+
+  [06:06:23] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [06:06:23] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-05-31
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Joette227 is a 37 year-old nonhispanic white female.
+      # Social History
+
+  [06:06:23] DOCUMENT: History and physical note
+    Status: superseded
+
+  [06:26:53] CLAIM: professional
+    Amount: USD 211.60
+
+
+📅 2018-06-10
+
+  [06:26:53] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Arden380 Bergstrom287
+    Location: CAPE COD HOSPITAL INC
+    Duration: 06:26:53 - 07:10:38
+
+  [06:26:53] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [06:26:53] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-06-10
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Joette227 is a 38 year-old nonhispanic white female.
+      # Social History
+
+  [06:26:53] DOCUMENT: History and physical note
+    Status: superseded
+
+  [07:10:38] CLAIM: professional
+    Amount: USD 573.98
+
+  [07:10:38] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Arden380 Bergstrom287
+    Location: CAPE COD HOSPITAL INC
+    Duration: 07:10:38 - 07:29:21
+
+  [07:10:38] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [07:10:38] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-06-10
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Joette227 is a 38 year-old nonhispanic white female.
+      # Social History
+
+  [07:10:38] DOCUMENT: History and physical note
+    Status: superseded
+
+  [07:29:21] CLAIM: professional
+    Amount: USD 211.60
+
+
+📅 2019-05-09
+
+  [07:29:21] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Arden380 Bergstrom287
+    Location: CAPE COD HOSPITAL INC
+    Duration: 07:29:21 - 08:12:27
+
+  [07:29:21] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [07:29:21] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-05-09
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Joette227 is a 39 year-old nonhispanic white female.
+      # Social History
+
+  [07:29:21] DOCUMENT: History and physical note
+    Status: superseded
+
+  [08:12:27] CLAIM: professional
+    Amount: USD 573.98
+
+  [08:12:27] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Arden380 Bergstrom287
+    Location: CAPE COD HOSPITAL INC
+    Duration: 08:12:27 - 08:32:23
+
+  [08:12:27] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [08:12:27] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-05-09
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Joette227 is a 39 year-old nonhispanic white female.
+      # Social History
+
+  [08:12:27] DOCUMENT: History and physical note
+    Status: superseded
+
+  [08:32:23] CLAIM: professional
+    Amount: USD 211.60
+
+
+📅 2020-02-24
+
+  [01:30:34] VISIT: General examination of patient (procedure)
+    Provider: Dr. Jacinta658 Wintheiser220
+    Location: CAPE COD PRIMARY CARE LLC
+    Duration: 01:30:34 - 01:45:34
+
+  [01:30:34] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [01:30:34] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [01:30:34] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-02-24
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Joette227 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [01:30:34] DOCUMENT: History and physical note
+    Status: superseded
+
+  [01:45:34] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2020-04-03
+
+  [08:32:23] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Arden380 Bergstrom287
+    Location: CAPE COD HOSPITAL INC
+    Duration: 08:32:23 - 09:13:18
+
+  [08:32:23] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [08:32:23] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-04-03
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Joette227 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [08:32:23] DOCUMENT: History and physical note
+    Status: superseded
+
+  [09:13:18] CLAIM: professional
+    Amount: USD 573.98
+
+  [09:13:18] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Arden380 Bergstrom287
+    Location: CAPE COD HOSPITAL INC
+    Duration: 09:13:18 - 09:32:34
+
+  [09:13:18] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [09:13:18] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-04-03
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Joette227 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [09:13:18] DOCUMENT: History and physical note
+    Status: superseded
+
+  [09:32:34] CLAIM: professional
+    Amount: USD 211.60
+
+
+📅 2021-04-27
+
+  [09:32:34] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Arden380 Bergstrom287
+    Location: CAPE COD HOSPITAL INC
+    Duration: 09:32:34 - 10:08:42
+
+  [09:32:34] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [09:32:34] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-04-27
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Joette227 is a 41 year-old nonhispanic white female.
+      # Social History
+
+  [09:32:34] DOCUMENT: History and physical note
+    Status: superseded
+
+  [10:08:42] CLAIM: professional
+    Amount: USD 573.98
+
+  [10:08:42] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Arden380 Bergstrom287
+    Location: CAPE COD HOSPITAL INC
+    Duration: 10:08:42 - 10:26:52
+
+  [10:08:42] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [10:08:42] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-04-27
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Joette227 is a 41 year-old nonhispanic white female.
+      # Social History
+
+  [10:08:42] DOCUMENT: History and physical note
+    Status: superseded
+
+  [10:26:52] CLAIM: professional
+    Amount: USD 325.49
+
+
+📅 2021-10-18
+
+  [02:30:34] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Arden380 Bergstrom287
+    Location: CAPE COD HOSPITAL INC
+    Duration: 02:30:34 - 02:45:34
+
+  [02:30:34] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 30 mcg/0.3 mL dose
+    Status: completed
+
+  [02:30:34] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-10-18
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Joette227 is a 41 year-old nonhispanic white female.
+      # Social History
+
+  [02:30:34] DOCUMENT: History and physical note
+    Status: superseded
+
+  [02:45:34] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-11-08
+
+  [01:30:34] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Arden380 Bergstrom287
+    Location: CAPE COD HOSPITAL INC
+    Duration: 01:30:34 - 01:45:34
+
+  [01:30:34] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 30 mcg/0.3 mL dose
+    Status: completed
+
+  [01:30:34] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-11-08
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Joette227 is a 41 year-old nonhispanic white female.
+      # Social History
+
+  [01:30:34] DOCUMENT: History and physical note
+    Status: superseded
+
+  [01:45:34] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2022-02-28
+
+  [01:30:34] VISIT: General examination of patient (procedure)
+    Provider: Dr. Jacinta658 Wintheiser220
+    Location: CAPE COD PRIMARY CARE LLC
+    Duration: 01:30:34 - 01:45:34
+
+  [01:30:34] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [01:30:34] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [01:30:34] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [01:30:34] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-02-28
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Joette227 is a 42 year-old nonhispanic white female.
+      # Social History
+
+  [01:30:34] DOCUMENT: History and physical note
+    Status: superseded
+
+  [01:45:34] CLAIM: professional
+    Amount: USD 544.80
+
+
+📅 2022-04-01
+
+  [10:26:52] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Arden380 Bergstrom287
+    Location: CAPE COD HOSPITAL INC
+    Duration: 10:26:52 - 10:59:40
+
+  [10:26:52] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [10:26:52] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-04-01
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Joette227 is a 42 year-old nonhispanic white female.
+      # Social History
+
+  [10:26:52] DOCUMENT: History and physical note
+    Status: superseded
+
+  [10:59:40] CLAIM: professional
+    Amount: USD 573.98
+
+  [10:59:40] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Arden380 Bergstrom287
+    Location: CAPE COD HOSPITAL INC
+    Duration: 10:59:40 - 11:22:50
+
+  [10:59:40] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [10:59:40] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-04-01
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Joette227 is a 42 year-old nonhispanic white female.
+      # Social History
+
+  [10:59:40] DOCUMENT: History and physical note
+    Status: superseded
+
+  [11:22:50] CLAIM: professional
+    Amount: USD 211.60
+
+
+📅 2023-03-08
+
+  [10:22:50] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Arden380 Bergstrom287
+    Location: CAPE COD HOSPITAL INC
+    Duration: 10:22:50 - 10:58:23
+
+  [10:22:50] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [10:22:50] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-03-08
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Joette227 is a 43 year-old nonhispanic white female.
+      # Social History
+
+  [10:22:50] DOCUMENT: History and physical note
+    Status: superseded
+
+  [10:58:23] CLAIM: professional
+    Amount: USD 573.98
+
+  [10:58:23] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Arden380 Bergstrom287
+    Location: CAPE COD HOSPITAL INC
+    Duration: 10:58:23 - 11:21:23
+
+  [10:58:23] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [10:58:23] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-03-08
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Joette227 is a 43 year-old nonhispanic white female.
+      # Social History
+
+  [10:58:23] DOCUMENT: History and physical note
+    Status: superseded
+
+  [11:21:23] CLAIM: professional
+    Amount: USD 325.49
+
+
+📅 2024-02-17
+
+  [11:21:23] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Arden380 Bergstrom287
+    Location: CAPE COD HOSPITAL INC
+    Duration: 11:21:23 - 11:54:12
+
+  [11:21:23] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [11:21:23] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-02-17
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Joette227 is a 43 year-old nonhispanic white female.
+      # Social History
+
+  [11:21:23] DOCUMENT: History and physical note
+    Status: superseded
+
+  [11:54:12] CLAIM: professional
+    Amount: USD 573.98
+
+  [11:54:12] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Arden380 Bergstrom287
+    Location: CAPE COD HOSPITAL INC
+    Duration: 11:54:12 - 12:16:53
+
+  [11:54:12] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [11:54:12] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-02-17
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Joette227 is a 43 year-old nonhispanic white female.
+      # Social History
+
+  [11:54:12] DOCUMENT: History and physical note
+    Status: superseded
+
+  [12:16:53] CLAIM: professional
+    Amount: USD 264.30
+
+
+📅 2024-03-04
+
+  [01:30:34] VISIT: General examination of patient (procedure)
+    Provider: Dr. Jacinta658 Wintheiser220
+    Location: CAPE COD PRIMARY CARE LLC
+    Duration: 01:30:34 - 01:45:34
+
+  [01:30:34] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [01:30:34] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-03-04
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Joette227 is a 44 year-old nonhispanic white female.
+      # Social History
+
+  [01:30:34] DOCUMENT: History and physical note
+    Status: superseded
+
+  [01:45:34] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2025-01-30
+
+  [12:16:53] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Arden380 Bergstrom287
+    Location: CAPE COD HOSPITAL INC
+    Duration: 12:16:53 - 12:59:21
+
+  [12:16:53] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [12:16:53] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-01-30
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Joette227 is a 44 year-old nonhispanic white female.
+      # Social History
+
+  [12:16:53] DOCUMENT: History and physical note
+    Status: superseded
+
+  [12:59:21] CLAIM: professional
+    Amount: USD 573.98
+
+  [12:59:21] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Arden380 Bergstrom287
+    Location: CAPE COD HOSPITAL INC
+    Duration: 12:59:21 - 13:16:16
+
+  [12:59:21] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [12:59:21] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-01-30
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Joette227 is a 44 year-old nonhispanic white female.
+      # Social History
+
+  [12:59:21] DOCUMENT: History and physical note
+    Status: superseded
+
+  [13:16:16] CLAIM: professional
+    Amount: USD 255.93
+
+
+📅 2026-01-05
+
+  [13:16:16] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Arden380 Bergstrom287
+    Location: CAPE COD HOSPITAL INC
+    Duration: 13:16:16 - 13:48:12
+
+  [13:16:16] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [13:16:16] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2026-01-05
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Joette227 is a 45 year-old nonhispanic white female.
+      # Social History
+
+  [13:16:16] DOCUMENT: History and physical note
+    Status: superseded
+
+  [13:48:12] CLAIM: professional
+    Amount: USD 573.98
+
+  [13:48:12] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Arden380 Bergstrom287
+    Location: CAPE COD HOSPITAL INC
+    Duration: 13:48:12 - 14:09:03
+
+  [13:48:12] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [13:48:12] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2026-01-05
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Joette227 is a 45 year-old nonhispanic white female.
+      # Social History
+
+  [13:48:12] DOCUMENT: History and physical note
+    Status: current
+
+  [14:09:03] CLAIM: professional
+    Amount: USD 292.06
+
+
+📅 2026-02-16
+
+  [01:30:34] PROVENANCE: Record activity
+    Agents: Dr. Arden380 Bergstrom287, Dr. Arden380 Bergstrom287
+
+================================================================================
+END OF TIMELINE (149 events)
+================================================================================

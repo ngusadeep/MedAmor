@@ -1,0 +1,2129 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Mrs. Kathlene786 Bailey598 Shanahan202
+  Patient ID: 78512
+  Date of Birth: 1960-12-31
+  Gender: Female
+  Race: White
+  Ethnicity: Hispanic or Latino
+  Marital Status: Married
+  Address: 424 Erdman Club, Cochituate, MA 00000
+  Phone: 555-498-4902
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2016-12-28
+
+  [16:32:59] VISIT: Periodic reevaluation and management of healthy individual (procedure)
+    Reason: Screening for malignant neoplasm of breast (procedure)
+    Provider: Dr. Gerry91 Block661
+    Location: VHS ACQUISITION SUBSIDIARY NUMBER 9, INC.
+    Duration: 16:32:59 - 08:54:27
+
+  [16:32:59] PROCEDURE: Screening mammography (procedure)
+    Status: completed
+
+  [16:32:59] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-12-28
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kathlene786 Bailey598 is a 55 year-old hispanic white female.
+      # Social History
+
+  [16:32:59] DOCUMENT: History and physical note
+    Status: superseded
+
+  [16:57:22] PROCEDURE: Magnetic resonance imaging of breast (procedure)
+    Status: completed
+
+  [18:23:18] PROCEDURE: Biopsy of breast (procedure)
+    Status: completed
+
+  [19:18:27] CONDITION: Malignant neoplasm of breast (disorder) (active)
+
+  [19:18:27] OBSERVATION: Site of distant metastasis in Breast tumor: None (qualifier value)
+
+  [19:18:27] OBSERVATION: Distant metastases.clinical [Class] Cancer: American Joint Committee on Cancer cM0 (qualifier value)
+
+  [19:18:27] OBSERVATION: Size.maximum dimension in Tumor: 0.23896 cm
+
+  [19:18:27] OBSERVATION: Primary tumor.clinical [Class] Cancer: American Joint Committee on Cancer cT1 (qualifier value)
+
+  [19:18:27] OBSERVATION: Lymph nodes with isolated tumor cells [#] in Cancer specimen by Light microscopy: 0 {#}
+
+  [19:18:27] OBSERVATION: Regional lymph nodes.clinical [Class] Cancer: American Joint Committee on Cancer cN0 (qualifier value)
+
+  [19:18:27] PROCEDURE: Human epidermal growth factor receptor 2 gene detection by fluorescence in situ hybridization (procedure)
+    Status: completed
+
+
+📅 2016-12-30
+
+  [05:18:27] PROCEDURE: Human epidermal growth factor receptor 2 gene detection by immunohistochemistry (procedure)
+    Status: completed
+
+  [08:54:27] OBSERVATION: HER2 [Presence] in Breast cancer specimen by Immune stain: Positive (qualifier value)
+
+  [08:54:27] OBSERVATION: ERBB2 gene duplication [Presence] in Breast cancer specimen by FISH: greater than 2.2
+
+  [08:54:27] OBSERVATION: Estrogen receptor Ag [Presence] in Breast cancer specimen by Immune stain: Positive (qualifier value)
+
+  [08:54:27] OBSERVATION: Progesterone receptor Ag [Presence] in Breast cancer specimen by Immune stain: Negative (qualifier value)
+
+  [08:54:27] OBSERVATION: Stage group.clinical Cancer: American Joint Committee on Cancer stage IA (qualifier value)
+
+  [08:54:27] OBSERVATION: Stage group.clinical Cancer: Stage 1 (qualifier value)
+
+  [08:54:27] CLAIM: professional
+    Amount: USD 6404.47
+
+
+📅 2017-01-03
+
+  [13:54:27] VISIT: Discussion about treatment (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Gerry91 Block661
+    Location: VHS ACQUISITION SUBSIDIARY NUMBER 9, INC.
+    Duration: 13:54:27 - 14:47:59
+
+  [13:54:27] PROCEDURE: Discussion about options (procedure)
+    Status: completed
+
+  [13:54:27] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-01-03
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kathlene786 Bailey598 is a 56 year-old hispanic white female.
+      # Social History
+
+  [13:54:27] DOCUMENT: History and physical note
+    Status: superseded
+
+  [14:47:59] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2017-01-05
+
+  [05:47:59] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Gerry91 Block661
+    Location: VHS ACQUISITION SUBSIDIARY NUMBER 9, INC.
+    Duration: 05:47:59 - 07:44:43
+
+  [05:47:59] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-01-05
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kathlene786 Bailey598 is a 56 year-old hispanic white female.
+      # Social History
+
+  [05:47:59] DOCUMENT: History and physical note
+    Status: superseded
+
+  [07:07:59] PROCEDURE: Lumpectomy of breast (procedure)
+    Status: completed
+
+
+📅 2017-01-08
+
+  [07:44:43] CLAIM: institutional
+    Amount: USD 32679.89
+
+
+📅 2017-01-17
+
+  [21:44:43] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Gerry91 Block661
+    Location: VHS ACQUISITION SUBSIDIARY NUMBER 9, INC.
+    Duration: 21:44:43 - 22:24:17
+
+  [21:44:43] PROCEDURE: Radiotherapy (procedure)
+    Status: completed
+
+  [21:44:43] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-01-17
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kathlene786 Bailey598 is a 56 year-old hispanic white female.
+      # Social History
+
+  [21:44:43] DOCUMENT: History and physical note
+    Status: superseded
+
+  [22:24:17] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2017-01-19
+
+  [04:27:17] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Gerry91 Block661
+    Location: VHS ACQUISITION SUBSIDIARY NUMBER 9, INC.
+    Duration: 04:27:17 - 04:44:35
+
+  [04:27:17] PROCEDURE: Radiotherapy (procedure)
+    Status: completed
+
+  [04:27:17] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-01-19
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kathlene786 Bailey598 is a 56 year-old hispanic white female.
+      # Social History
+
+  [04:27:17] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:44:35] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2017-01-20
+
+  [15:55:35] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Gerry91 Block661
+    Location: VHS ACQUISITION SUBSIDIARY NUMBER 9, INC.
+    Duration: 15:55:35 - 16:13:18
+
+  [15:55:35] PROCEDURE: Radiotherapy (procedure)
+    Status: completed
+
+  [15:55:35] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-01-20
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kathlene786 Bailey598 is a 56 year-old hispanic white female.
+      # Social History
+
+  [15:55:35] DOCUMENT: History and physical note
+    Status: superseded
+
+  [16:13:18] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2017-01-22
+
+  [02:27:18] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Gerry91 Block661
+    Location: VHS ACQUISITION SUBSIDIARY NUMBER 9, INC.
+    Duration: 02:27:18 - 02:50:37
+
+  [02:27:18] PROCEDURE: Radiotherapy (procedure)
+    Status: completed
+
+  [02:27:18] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-01-22
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kathlene786 Bailey598 is a 56 year-old hispanic white female.
+      # Social History
+
+  [02:27:18] DOCUMENT: History and physical note
+    Status: superseded
+
+  [02:50:37] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2017-01-23
+
+  [14:18:37] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Gerry91 Block661
+    Location: VHS ACQUISITION SUBSIDIARY NUMBER 9, INC.
+    Duration: 14:18:37 - 14:40:10
+
+  [14:18:37] PROCEDURE: Radiotherapy (procedure)
+    Status: completed
+
+  [14:18:37] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-01-23
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kathlene786 Bailey598 is a 56 year-old hispanic white female.
+      # Social History
+
+  [14:18:37] DOCUMENT: History and physical note
+    Status: superseded
+
+  [14:40:10] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2017-01-25
+
+  [01:34:10] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Gerry91 Block661
+    Location: VHS ACQUISITION SUBSIDIARY NUMBER 9, INC.
+    Duration: 01:34:10 - 02:01:37
+
+  [01:34:10] PROCEDURE: Radiotherapy (procedure)
+    Status: completed
+
+  [01:34:10] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-01-25
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kathlene786 Bailey598 is a 56 year-old hispanic white female.
+      # Social History
+
+  [01:34:10] DOCUMENT: History and physical note
+    Status: superseded
+
+  [02:01:37] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2017-01-26
+
+  [14:00:37] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Gerry91 Block661
+    Location: VHS ACQUISITION SUBSIDIARY NUMBER 9, INC.
+    Duration: 14:00:37 - 14:16:16
+
+  [14:00:37] PROCEDURE: Radiotherapy (procedure)
+    Status: completed
+
+  [14:00:37] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-01-26
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kathlene786 Bailey598 is a 56 year-old hispanic white female.
+      # Social History
+
+  [14:00:37] DOCUMENT: History and physical note
+    Status: superseded
+
+  [14:16:16] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2017-01-27
+
+  [22:45:16] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Gerry91 Block661
+    Location: VHS ACQUISITION SUBSIDIARY NUMBER 9, INC.
+    Duration: 22:45:16 - 23:01:12
+
+  [22:45:16] PROCEDURE: Radiotherapy (procedure)
+    Status: completed
+
+  [22:45:16] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-01-27
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kathlene786 Bailey598 is a 56 year-old hispanic white female.
+      # Social History
+
+  [22:45:16] DOCUMENT: History and physical note
+    Status: superseded
+
+  [23:01:12] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2017-02-04
+
+  [16:32:59] VISIT: General examination of patient (procedure)
+    Provider: Dr. Heath320 Leuschke194
+    Location: WESTON PRIMARY CARE, PC
+    Duration: 16:32:59 - 16:47:59
+
+  [16:32:59] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [16:32:59] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-02-04
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kathlene786 Bailey598 is a 56 year-old hispanic white female.
+      # Social History
+
+  [16:32:59] DOCUMENT: History and physical note
+    Status: superseded
+
+  [16:47:59] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2017-02-11
+
+  [16:32:59] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Gerry91 Block661
+    Location: VHS ACQUISITION SUBSIDIARY NUMBER 9, INC.
+    Duration: 16:32:59 - 16:49:50
+
+  [16:32:59] PROCEDURE: Radiotherapy (procedure)
+    Status: completed
+
+  [16:32:59] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-02-11
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kathlene786 Bailey598 is a 56 year-old hispanic white female.
+      # Social History
+
+  [16:32:59] DOCUMENT: History and physical note
+    Status: superseded
+
+  [16:49:50] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2017-02-12
+
+  [20:25:50] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Gerry91 Block661
+    Location: VHS ACQUISITION SUBSIDIARY NUMBER 9, INC.
+    Duration: 20:25:50 - 20:56:46
+
+  [20:25:50] PROCEDURE: Radiotherapy (procedure)
+    Status: completed
+
+  [20:25:50] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-02-12
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kathlene786 Bailey598 is a 56 year-old hispanic white female.
+      # Social History
+
+  [20:25:50] DOCUMENT: History and physical note
+    Status: superseded
+
+  [20:56:46] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2017-02-13
+
+  [21:59:46] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Gerry91 Block661
+    Location: VHS ACQUISITION SUBSIDIARY NUMBER 9, INC.
+    Duration: 21:59:46 - 22:37:01
+
+  [21:59:46] PROCEDURE: Radiotherapy (procedure)
+    Status: completed
+
+  [21:59:46] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-02-13
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kathlene786 Bailey598 is a 56 year-old hispanic white female.
+      # Social History
+
+  [21:59:46] DOCUMENT: History and physical note
+    Status: superseded
+
+  [22:37:01] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2017-02-14
+
+  [23:37:01] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Gerry91 Block661
+    Location: VHS ACQUISITION SUBSIDIARY NUMBER 9, INC.
+    Duration: 23:37:01 - 00:11:32
+
+  [23:37:01] PROCEDURE: Radiotherapy (procedure)
+    Status: completed
+
+  [23:37:01] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-02-14
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kathlene786 Bailey598 is a 56 year-old hispanic white female.
+      # Social History
+
+  [23:37:01] DOCUMENT: History and physical note
+    Status: superseded
+
+
+📅 2017-02-15
+
+  [00:11:32] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2017-02-16
+
+  [02:46:32] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Gerry91 Block661
+    Location: VHS ACQUISITION SUBSIDIARY NUMBER 9, INC.
+    Duration: 02:46:32 - 03:11:29
+
+  [02:46:32] PROCEDURE: Radiotherapy (procedure)
+    Status: completed
+
+  [02:46:32] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-02-16
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kathlene786 Bailey598 is a 56 year-old hispanic white female.
+      # Social History
+
+  [02:46:32] DOCUMENT: History and physical note
+    Status: superseded
+
+  [03:11:29] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2017-02-17
+
+  [11:12:29] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Gerry91 Block661
+    Location: VHS ACQUISITION SUBSIDIARY NUMBER 9, INC.
+    Duration: 11:12:29 - 11:52:03
+
+  [11:12:29] PROCEDURE: Radiotherapy (procedure)
+    Status: completed
+
+  [11:12:29] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-02-17
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kathlene786 Bailey598 is a 56 year-old hispanic white female.
+      # Social History
+
+  [11:12:29] DOCUMENT: History and physical note
+    Status: superseded
+
+  [11:52:03] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2017-02-18
+
+  [21:53:03] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Gerry91 Block661
+    Location: VHS ACQUISITION SUBSIDIARY NUMBER 9, INC.
+    Duration: 21:53:03 - 22:11:04
+
+  [21:53:03] PROCEDURE: Radiotherapy (procedure)
+    Status: completed
+
+  [21:53:03] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-02-18
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kathlene786 Bailey598 is a 56 year-old hispanic white female.
+      # Social History
+
+  [21:53:03] DOCUMENT: History and physical note
+    Status: superseded
+
+  [22:11:04] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2017-02-20
+
+  [09:40:04] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Gerry91 Block661
+    Location: VHS ACQUISITION SUBSIDIARY NUMBER 9, INC.
+    Duration: 09:40:04 - 10:11:48
+
+  [09:40:04] PROCEDURE: Radiotherapy (procedure)
+    Status: completed
+
+  [09:40:04] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-02-20
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kathlene786 Bailey598 is a 56 year-old hispanic white female.
+      # Social History
+
+  [09:40:04] DOCUMENT: History and physical note
+    Status: superseded
+
+  [10:11:48] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2017-02-21
+
+  [13:29:48] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Gerry91 Block661
+    Location: VHS ACQUISITION SUBSIDIARY NUMBER 9, INC.
+    Duration: 13:29:48 - 13:54:02
+
+  [13:29:48] PROCEDURE: Radiotherapy (procedure)
+    Status: completed
+
+  [13:29:48] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-02-21
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kathlene786 Bailey598 is a 56 year-old hispanic white female.
+      # Social History
+
+  [13:29:48] DOCUMENT: History and physical note
+    Status: superseded
+
+  [13:54:02] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2017-02-22
+
+  [23:45:02] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Gerry91 Block661
+    Location: VHS ACQUISITION SUBSIDIARY NUMBER 9, INC.
+    Duration: 23:45:02 - 00:13:25
+
+  [23:45:02] PROCEDURE: Radiotherapy (procedure)
+    Status: completed
+
+  [23:45:02] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-02-22
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kathlene786 Bailey598 is a 56 year-old hispanic white female.
+      # Social History
+
+  [23:45:02] DOCUMENT: History and physical note
+    Status: superseded
+
+
+📅 2017-02-23
+
+  [00:13:25] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2017-02-24
+
+  [08:25:25] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Gerry91 Block661
+    Location: VHS ACQUISITION SUBSIDIARY NUMBER 9, INC.
+    Duration: 08:25:25 - 08:40:25
+
+  [08:25:25] PROCEDURE: Radiotherapy (procedure)
+    Status: completed
+
+  [08:25:25] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-02-24
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kathlene786 Bailey598 is a 56 year-old hispanic white female.
+      # Social History
+
+  [08:25:25] DOCUMENT: History and physical note
+    Status: superseded
+
+  [08:40:25] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2017-02-25
+
+  [16:27:25] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Gerry91 Block661
+    Location: VHS ACQUISITION SUBSIDIARY NUMBER 9, INC.
+    Duration: 16:27:25 - 16:47:49
+
+  [16:27:25] PROCEDURE: Radiotherapy (procedure)
+    Status: completed
+
+  [16:27:25] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-02-25
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kathlene786 Bailey598 is a 56 year-old hispanic white female.
+      # Social History
+
+  [16:27:25] DOCUMENT: History and physical note
+    Status: superseded
+
+  [16:47:49] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2017-02-26
+
+  [23:27:49] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Gerry91 Block661
+    Location: VHS ACQUISITION SUBSIDIARY NUMBER 9, INC.
+    Duration: 23:27:49 - 23:53:31
+
+  [23:27:49] PROCEDURE: Radiotherapy (procedure)
+    Status: completed
+
+  [23:27:49] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-02-26
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kathlene786 Bailey598 is a 56 year-old hispanic white female.
+      # Social History
+
+  [23:27:49] DOCUMENT: History and physical note
+    Status: superseded
+
+  [23:53:31] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2017-02-28
+
+  [06:43:31] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Gerry91 Block661
+    Location: VHS ACQUISITION SUBSIDIARY NUMBER 9, INC.
+    Duration: 06:43:31 - 07:22:00
+
+  [06:43:31] PROCEDURE: Radiotherapy (procedure)
+    Status: completed
+
+  [06:43:31] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-02-28
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kathlene786 Bailey598 is a 56 year-old hispanic white female.
+      # Social History
+
+  [06:43:31] DOCUMENT: History and physical note
+    Status: superseded
+
+  [07:22:00] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2017-03-01
+
+  [12:44:00] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Gerry91 Block661
+    Location: VHS ACQUISITION SUBSIDIARY NUMBER 9, INC.
+    Duration: 12:44:00 - 13:20:11
+
+  [12:44:00] PROCEDURE: Radiotherapy (procedure)
+    Status: completed
+
+  [12:44:00] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-03-01
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kathlene786 Bailey598 is a 56 year-old hispanic white female.
+      # Social History
+
+  [12:44:00] DOCUMENT: History and physical note
+    Status: superseded
+
+  [13:20:11] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2017-03-02
+
+  [22:09:11] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Gerry91 Block661
+    Location: VHS ACQUISITION SUBSIDIARY NUMBER 9, INC.
+    Duration: 22:09:11 - 22:44:27
+
+  [22:09:11] PROCEDURE: Radiotherapy (procedure)
+    Status: completed
+
+  [22:09:11] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-03-02
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kathlene786 Bailey598 is a 56 year-old hispanic white female.
+      # Social History
+
+  [22:09:11] DOCUMENT: History and physical note
+    Status: superseded
+
+  [22:44:27] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2017-03-04
+
+  [08:30:27] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Gerry91 Block661
+    Location: VHS ACQUISITION SUBSIDIARY NUMBER 9, INC.
+    Duration: 08:30:27 - 08:49:46
+
+  [08:30:27] PROCEDURE: Radiotherapy (procedure)
+    Status: completed
+
+  [08:30:27] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-03-04
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kathlene786 Bailey598 is a 56 year-old hispanic white female.
+      # Social History
+
+  [08:30:27] DOCUMENT: History and physical note
+    Status: superseded
+
+  [08:49:46] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2017-03-05
+
+  [09:32:46] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Gerry91 Block661
+    Location: VHS ACQUISITION SUBSIDIARY NUMBER 9, INC.
+    Duration: 09:32:46 - 10:08:39
+
+  [09:32:46] PROCEDURE: Radiotherapy (procedure)
+    Status: completed
+
+  [09:32:46] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-03-05
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kathlene786 Bailey598 is a 56 year-old hispanic white female.
+      # Social History
+
+  [09:32:46] DOCUMENT: History and physical note
+    Status: superseded
+
+  [10:08:39] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2017-03-06
+
+  [12:58:39] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Gerry91 Block661
+    Location: VHS ACQUISITION SUBSIDIARY NUMBER 9, INC.
+    Duration: 12:58:39 - 13:23:53
+
+  [12:58:39] PROCEDURE: Radiotherapy (procedure)
+    Status: completed
+
+  [12:58:39] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-03-06
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kathlene786 Bailey598 is a 56 year-old hispanic white female.
+      # Social History
+
+  [12:58:39] DOCUMENT: History and physical note
+    Status: superseded
+
+  [13:23:53] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2017-03-07
+
+  [16:44:53] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Gerry91 Block661
+    Location: VHS ACQUISITION SUBSIDIARY NUMBER 9, INC.
+    Duration: 16:44:53 - 17:08:29
+
+  [16:44:53] PROCEDURE: Radiotherapy (procedure)
+    Status: completed
+
+  [16:44:53] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-03-07
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kathlene786 Bailey598 is a 56 year-old hispanic white female.
+      # Social History
+
+  [16:44:53] DOCUMENT: History and physical note
+    Status: superseded
+
+  [17:08:29] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2017-03-08
+
+  [22:34:29] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Gerry91 Block661
+    Location: VHS ACQUISITION SUBSIDIARY NUMBER 9, INC.
+    Duration: 22:34:29 - 22:55:34
+
+  [22:34:29] PROCEDURE: Radiotherapy (procedure)
+    Status: completed
+
+  [22:34:29] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-03-08
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kathlene786 Bailey598 is a 56 year-old hispanic white female.
+      # Social History
+
+  [22:34:29] DOCUMENT: History and physical note
+    Status: superseded
+
+  [22:55:34] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2017-03-09
+
+  [23:51:34] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Gerry91 Block661
+    Location: VHS ACQUISITION SUBSIDIARY NUMBER 9, INC.
+    Duration: 23:51:34 - 00:21:39
+
+  [23:51:34] PROCEDURE: Radiotherapy (procedure)
+    Status: completed
+
+  [23:51:34] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-03-09
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kathlene786 Bailey598 is a 56 year-old hispanic white female.
+      # Social History
+
+  [23:51:34] DOCUMENT: History and physical note
+    Status: superseded
+
+
+📅 2017-03-10
+
+  [00:21:39] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2017-03-11
+
+  [04:23:39] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Gerry91 Block661
+    Location: VHS ACQUISITION SUBSIDIARY NUMBER 9, INC.
+    Duration: 04:23:39 - 05:01:39
+
+  [04:23:39] PROCEDURE: Radiotherapy (procedure)
+    Status: completed
+
+  [04:23:39] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-03-11
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kathlene786 Bailey598 is a 56 year-old hispanic white female.
+      # Social History
+
+  [04:23:39] DOCUMENT: History and physical note
+    Status: superseded
+
+  [05:01:39] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2017-03-12
+
+  [14:21:39] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Gerry91 Block661
+    Location: VHS ACQUISITION SUBSIDIARY NUMBER 9, INC.
+    Duration: 14:21:39 - 14:54:12
+
+  [14:21:39] PROCEDURE: Radiotherapy (procedure)
+    Status: completed
+
+  [14:21:39] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-03-12
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kathlene786 Bailey598 is a 56 year-old hispanic white female.
+      # Social History
+
+  [14:21:39] DOCUMENT: History and physical note
+    Status: superseded
+
+  [14:54:12] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2017-03-14
+
+  [01:06:12] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Gerry91 Block661
+    Location: VHS ACQUISITION SUBSIDIARY NUMBER 9, INC.
+    Duration: 01:06:12 - 01:44:22
+
+  [01:06:12] PROCEDURE: Radiotherapy (procedure)
+    Status: completed
+
+  [01:06:12] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-03-14
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kathlene786 Bailey598 is a 56 year-old hispanic white female.
+      # Social History
+
+  [01:06:12] DOCUMENT: History and physical note
+    Status: superseded
+
+  [01:44:22] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2017-03-15
+
+  [09:17:22] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Gerry91 Block661
+    Location: VHS ACQUISITION SUBSIDIARY NUMBER 9, INC.
+    Duration: 09:17:22 - 09:38:19
+
+  [09:17:22] PROCEDURE: Radiotherapy (procedure)
+    Status: completed
+
+  [09:17:22] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-03-15
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kathlene786 Bailey598 is a 56 year-old hispanic white female.
+      # Social History
+
+  [09:17:22] DOCUMENT: History and physical note
+    Status: superseded
+
+  [09:38:19] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2017-03-22
+
+  [03:38:19] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Gerry91 Block661
+    Location: VHS ACQUISITION SUBSIDIARY NUMBER 9, INC.
+    Duration: 03:38:19 - 03:53:19
+
+  [03:38:19] OBSERVATION: Treatment status Cancer: Treatment changed (situation)
+
+  [03:38:19] OBSERVATION: Response to cancer treatment: Improving (qualifier value)
+
+  [03:38:19] MEDICATION PRESCRIBED: Unknown medication
+    Status: completed
+    Prescribed by: Dr. Gerry91 Block661
+
+  [03:38:19] MEDICATION ADMINISTERED: 5 ML fulvestrant 50 MG/ML Prefilled Syringe
+    Status: completed
+
+  [03:38:19] MEDICATION PRESCRIBED: Unknown medication
+    Status: completed
+    Prescribed by: Dr. Gerry91 Block661
+
+  [03:38:19] MEDICATION ADMINISTERED: 5 ML hyaluronidase-oysk 2000 UNT/ML / trastuzumab-oysk 120 MG/ML Injection
+    Status: completed
+
+  [03:38:19] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-03-22
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kathlene786 Bailey598 is a 56 year-old hispanic white female.
+      # Social History
+
+  [03:38:19] DOCUMENT: History and physical note
+    Status: superseded
+
+  [03:53:19] CLAIM: pharmacy
+    Amount: USD 103.64
+
+  [03:53:19] CLAIM: pharmacy
+    Amount: USD 498.43
+
+  [03:53:19] CLAIM: professional
+    Amount: USD 85.55
+
+
+📅 2017-07-23
+
+  [03:38:19] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Gerry91 Block661
+    Location: VHS ACQUISITION SUBSIDIARY NUMBER 9, INC.
+    Duration: 03:38:19 - 04:17:44
+
+  [03:38:19] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [03:38:19] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-07-23
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kathlene786 Bailey598 is a 56 year-old hispanic white female.
+      # Social History
+
+  [03:38:19] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:17:44] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2017-11-20
+
+  [03:17:44] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Gerry91 Block661
+    Location: VHS ACQUISITION SUBSIDIARY NUMBER 9, INC.
+    Duration: 03:17:44 - 04:01:00
+
+  [03:17:44] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [03:17:44] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-11-20
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kathlene786 Bailey598 is a 56 year-old hispanic white female.
+      # Social History
+
+  [03:17:44] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:01:00] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2018-02-10
+
+  [16:32:59] VISIT: General examination of patient (procedure)
+    Provider: Dr. Heath320 Leuschke194
+    Location: WESTON PRIMARY CARE, PC
+    Duration: 16:32:59 - 16:47:59
+
+  [16:32:59] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [16:32:59] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-02-10
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kathlene786 Bailey598 is a 57 year-old hispanic white female.
+      # Social History
+
+  [16:32:59] DOCUMENT: History and physical note
+    Status: superseded
+
+  [16:47:59] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2018-03-18
+
+  [05:01:00] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Gerry91 Block661
+    Location: VHS ACQUISITION SUBSIDIARY NUMBER 9, INC.
+    Duration: 05:01:00 - 05:44:41
+
+  [05:01:00] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [05:01:00] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-03-18
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kathlene786 Bailey598 is a 57 year-old hispanic white female.
+      # Social History
+
+  [05:01:00] DOCUMENT: History and physical note
+    Status: superseded
+
+  [05:44:41] CLAIM: professional
+    Amount: USD 573.98
+
+  [05:44:41] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Gerry91 Block661
+    Location: VHS ACQUISITION SUBSIDIARY NUMBER 9, INC.
+    Duration: 05:44:41 - 06:08:33
+
+  [05:44:41] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [05:44:41] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-03-18
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kathlene786 Bailey598 is a 57 year-old hispanic white female.
+      # Social History
+
+  [05:44:41] DOCUMENT: History and physical note
+    Status: superseded
+
+  [06:08:33] OBSERVATION: Response to cancer treatment: Improving (qualifier value)
+
+  [06:08:33] CLAIM: professional
+    Amount: USD 253.05
+
+
+📅 2018-06-30
+
+  [06:08:33] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Gerry91 Block661
+    Location: VHS ACQUISITION SUBSIDIARY NUMBER 9, INC.
+    Duration: 06:08:33 - 06:49:03
+
+  [06:08:33] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [06:08:33] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-06-30
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kathlene786 Bailey598 is a 57 year-old hispanic white female.
+      # Social History
+
+  [06:08:33] DOCUMENT: History and physical note
+    Status: superseded
+
+  [06:49:03] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2018-10-16
+
+  [06:49:03] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Gerry91 Block661
+    Location: VHS ACQUISITION SUBSIDIARY NUMBER 9, INC.
+    Duration: 06:49:03 - 07:28:27
+
+  [06:49:03] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [06:49:03] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-10-16
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kathlene786 Bailey598 is a 57 year-old hispanic white female.
+      # Social History
+
+  [06:49:03] DOCUMENT: History and physical note
+    Status: superseded
+
+  [07:28:27] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2019-02-16
+
+  [16:32:59] VISIT: General examination of patient (procedure)
+    Provider: Dr. Heath320 Leuschke194
+    Location: WESTON PRIMARY CARE, PC
+    Duration: 16:32:59 - 16:47:59
+
+  [16:32:59] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [16:32:59] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-02-16
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kathlene786 Bailey598 is a 58 year-old hispanic white female.
+      # Social History
+
+  [16:32:59] DOCUMENT: History and physical note
+    Status: superseded
+
+  [16:47:59] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2019-02-23
+
+  [16:32:59] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Gerry91 Block661
+    Location: VHS ACQUISITION SUBSIDIARY NUMBER 9, INC.
+    Duration: 16:32:59 - 17:16:09
+
+  [16:32:59] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [16:32:59] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-02-23
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kathlene786 Bailey598 is a 58 year-old hispanic white female.
+      # Social History
+
+  [16:32:59] DOCUMENT: History and physical note
+    Status: superseded
+
+  [17:16:09] CLAIM: professional
+    Amount: USD 573.98
+
+  [17:16:09] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Gerry91 Block661
+    Location: VHS ACQUISITION SUBSIDIARY NUMBER 9, INC.
+    Duration: 17:16:09 - 17:34:27
+
+  [17:16:09] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [17:16:09] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-02-23
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kathlene786 Bailey598 is a 58 year-old hispanic white female.
+      # Social History
+
+  [17:16:09] DOCUMENT: History and physical note
+    Status: superseded
+
+  [17:34:27] OBSERVATION: Response to cancer treatment: Improving (qualifier value)
+
+  [17:34:27] CLAIM: professional
+    Amount: USD 211.60
+
+
+📅 2019-06-24
+
+  [18:34:27] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Gerry91 Block661
+    Location: VHS ACQUISITION SUBSIDIARY NUMBER 9, INC.
+    Duration: 18:34:27 - 19:18:55
+
+  [18:34:27] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [18:34:27] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-06-24
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kathlene786 Bailey598 is a 58 year-old hispanic white female.
+      # Social History
+
+  [18:34:27] DOCUMENT: History and physical note
+    Status: superseded
+
+  [19:18:55] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2019-10-24
+
+  [19:18:55] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Gerry91 Block661
+    Location: VHS ACQUISITION SUBSIDIARY NUMBER 9, INC.
+    Duration: 19:18:55 - 19:53:04
+
+  [19:18:55] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [19:18:55] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-10-24
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kathlene786 Bailey598 is a 58 year-old hispanic white female.
+      # Social History
+
+  [19:18:55] DOCUMENT: History and physical note
+    Status: superseded
+
+  [19:53:04] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2020-02-22
+
+  [16:32:59] VISIT: General examination of patient (procedure)
+    Provider: Dr. Heath320 Leuschke194
+    Location: WESTON PRIMARY CARE, PC
+    Duration: 16:32:59 - 16:47:59
+
+  [16:32:59] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [16:32:59] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-02-22
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kathlene786 Bailey598 is a 59 year-old hispanic white female.
+      # Social History
+
+  [16:32:59] DOCUMENT: History and physical note
+    Status: superseded
+
+  [16:47:59] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2020-02-29
+
+  [16:32:59] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Gerry91 Block661
+    Location: VHS ACQUISITION SUBSIDIARY NUMBER 9, INC.
+    Duration: 16:32:59 - 17:10:23
+
+  [16:32:59] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [16:32:59] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-02-29
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kathlene786 Bailey598 is a 59 year-old hispanic white female.
+      # Social History
+
+  [16:32:59] DOCUMENT: History and physical note
+    Status: superseded
+
+  [17:10:23] CLAIM: professional
+    Amount: USD 573.98
+
+  [17:10:23] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Gerry91 Block661
+    Location: VHS ACQUISITION SUBSIDIARY NUMBER 9, INC.
+    Duration: 17:10:23 - 17:31:22
+
+  [17:10:23] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [17:10:23] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-02-29
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kathlene786 Bailey598 is a 59 year-old hispanic white female.
+      # Social History
+
+  [17:10:23] DOCUMENT: History and physical note
+    Status: superseded
+
+  [17:31:22] OBSERVATION: Response to cancer treatment: Improving (qualifier value)
+
+  [17:31:22] CLAIM: professional
+    Amount: USD 211.60
+
+
+📅 2020-06-19
+
+  [18:31:22] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Gerry91 Block661
+    Location: VHS ACQUISITION SUBSIDIARY NUMBER 9, INC.
+    Duration: 18:31:22 - 19:11:15
+
+  [18:31:22] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [18:31:22] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-06-19
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kathlene786 Bailey598 is a 59 year-old hispanic white female.
+      # Social History
+
+  [18:31:22] DOCUMENT: History and physical note
+    Status: superseded
+
+  [19:11:15] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2020-10-10
+
+  [19:11:15] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Gerry91 Block661
+    Location: VHS ACQUISITION SUBSIDIARY NUMBER 9, INC.
+    Duration: 19:11:15 - 19:42:56
+
+  [19:11:15] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [19:11:15] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-10-10
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kathlene786 Bailey598 is a 59 year-old hispanic white female.
+      # Social History
+
+  [19:11:15] DOCUMENT: History and physical note
+    Status: superseded
+
+  [19:42:56] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2021-01-23
+
+  [18:42:56] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Gerry91 Block661
+    Location: Patient's Home
+    Duration: 18:42:56 - 19:24:15
+
+  [18:42:56] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [18:42:56] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-01-23
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kathlene786 Bailey598 is a 60 year-old hispanic white female.
+      # Social History
+
+  [18:42:56] DOCUMENT: History and physical note
+    Status: superseded
+
+  [19:24:15] CLAIM: institutional
+    Amount: USD 556.40
+
+  [19:24:15] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Gerry91 Block661
+    Location: VHS ACQUISITION SUBSIDIARY NUMBER 9, INC.
+    Duration: 19:24:15 - 19:44:02
+
+  [19:24:15] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [19:24:15] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-01-23
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kathlene786 Bailey598 is a 60 year-old hispanic white female.
+      # Social History
+
+  [19:24:15] DOCUMENT: History and physical note
+    Status: superseded
+
+  [19:44:02] OBSERVATION: Response to cancer treatment: Improving (qualifier value)
+
+  [19:44:02] CLAIM: professional
+    Amount: USD 249.88
+
+
+📅 2021-02-27
+
+  [16:32:59] VISIT: General examination of patient (procedure)
+    Provider: Dr. Heath320 Leuschke194
+    Location: WESTON PRIMARY CARE, PC
+    Duration: 16:32:59 - 16:47:59
+
+  [16:32:59] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [16:32:59] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-02-27
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kathlene786 Bailey598 is a 60 year-old hispanic white female.
+      # Social History
+
+  [16:32:59] DOCUMENT: History and physical note
+    Status: superseded
+
+  [16:47:59] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2021-03-27
+
+  [17:32:59] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Gerry91 Block661
+    Location: VHS ACQUISITION SUBSIDIARY NUMBER 9, INC.
+    Duration: 17:32:59 - 17:47:59
+
+  [17:32:59] IMMUNIZATION: COVID-19 vaccine, vector-nr, rS-Ad26, PF, 0.5 mL
+    Status: completed
+
+  [17:32:59] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-03-27
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kathlene786 Bailey598 is a 60 year-old hispanic white female.
+      # Social History
+
+  [17:32:59] DOCUMENT: History and physical note
+    Status: superseded
+
+  [17:47:59] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-05-07
+
+  [20:44:02] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Gerry91 Block661
+    Location: VHS ACQUISITION SUBSIDIARY NUMBER 9, INC.
+    Duration: 20:44:02 - 21:25:38
+
+  [20:44:02] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [20:44:02] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-05-07
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kathlene786 Bailey598 is a 60 year-old hispanic white female.
+      # Social History
+
+  [20:44:02] DOCUMENT: History and physical note
+    Status: superseded
+
+  [21:25:38] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2021-09-02
+
+  [21:25:38] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Gerry91 Block661
+    Location: VHS ACQUISITION SUBSIDIARY NUMBER 9, INC.
+    Duration: 21:25:38 - 21:56:14
+
+  [21:25:38] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [21:25:38] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-09-02
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kathlene786 Bailey598 is a 60 year-old hispanic white female.
+      # Social History
+
+  [21:25:38] DOCUMENT: History and physical note
+    Status: superseded
+
+  [21:56:14] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2022-01-05
+
+  [20:56:14] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Gerry91 Block661
+    Location: VHS ACQUISITION SUBSIDIARY NUMBER 9, INC.
+    Duration: 20:56:14 - 21:37:35
+
+  [20:56:14] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [20:56:14] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-01-05
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kathlene786 Bailey598 is a 61 year-old hispanic white female.
+      # Social History
+
+  [20:56:14] DOCUMENT: History and physical note
+    Status: superseded
+
+  [21:37:35] CLAIM: professional
+    Amount: USD 573.98
+
+  [21:37:35] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Gerry91 Block661
+    Location: VHS ACQUISITION SUBSIDIARY NUMBER 9, INC.
+    Duration: 21:37:35 - 22:02:22
+
+  [21:37:35] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [21:37:35] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-01-05
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kathlene786 Bailey598 is a 61 year-old hispanic white female.
+      # Social History
+
+  [21:37:35] DOCUMENT: History and physical note
+    Status: superseded
+
+  [22:02:22] CLAIM: professional
+    Amount: USD 211.60
+
+
+📅 2022-03-05
+
+  [16:32:59] VISIT: General examination of patient (procedure)
+    Provider: Dr. Heath320 Leuschke194
+    Location: WESTON PRIMARY CARE, PC
+    Duration: 16:32:59 - 16:47:59
+
+  [16:32:59] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [16:32:59] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [16:32:59] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-03-05
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kathlene786 Bailey598 is a 61 year-old hispanic white female.
+      # Social History
+
+  [16:32:59] DOCUMENT: History and physical note
+    Status: superseded
+
+  [16:47:59] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2023-01-16
+
+  [22:02:22] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Gerry91 Block661
+    Location: VHS ACQUISITION SUBSIDIARY NUMBER 9, INC.
+    Duration: 22:02:22 - 22:37:43
+
+  [22:02:22] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [22:02:22] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-01-16
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kathlene786 Bailey598 is a 62 year-old hispanic white female.
+      # Social History
+
+  [22:02:22] DOCUMENT: History and physical note
+    Status: superseded
+
+  [22:37:43] CLAIM: professional
+    Amount: USD 573.98
+
+  [22:37:43] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Gerry91 Block661
+    Location: VHS ACQUISITION SUBSIDIARY NUMBER 9, INC.
+    Duration: 22:37:43 - 22:55:15
+
+  [22:37:43] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [22:37:43] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-01-16
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kathlene786 Bailey598 is a 62 year-old hispanic white female.
+      # Social History
+
+  [22:37:43] DOCUMENT: History and physical note
+    Status: superseded
+
+  [22:55:15] CLAIM: professional
+    Amount: USD 325.49
+
+
+📅 2023-03-11
+
+  [16:32:59] VISIT: General examination of patient (procedure)
+    Provider: Dr. Heath320 Leuschke194
+    Location: WESTON PRIMARY CARE, PC
+    Duration: 16:32:59 - 16:47:59
+
+  [16:32:59] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [16:32:59] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-03-11
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kathlene786 Bailey598 is a 62 year-old hispanic white female.
+      # Social History
+
+  [16:32:59] DOCUMENT: History and physical note
+    Status: superseded
+
+  [16:47:59] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2024-01-29
+
+  [22:55:15] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Gerry91 Block661
+    Location: VHS ACQUISITION SUBSIDIARY NUMBER 9, INC.
+    Duration: 22:55:15 - 23:36:34
+
+  [22:55:15] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [22:55:15] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-01-29
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kathlene786 Bailey598 is a 63 year-old hispanic white female.
+      # Social History
+
+  [22:55:15] DOCUMENT: History and physical note
+    Status: superseded
+
+  [23:36:34] CLAIM: professional
+    Amount: USD 573.98
+
+  [23:36:34] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Gerry91 Block661
+    Location: VHS ACQUISITION SUBSIDIARY NUMBER 9, INC.
+    Duration: 23:36:34 - 23:53:08
+
+  [23:36:34] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [23:36:34] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-01-29
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kathlene786 Bailey598 is a 63 year-old hispanic white female.
+      # Social History
+
+  [23:36:34] DOCUMENT: History and physical note
+    Status: superseded
+
+  [23:53:08] CLAIM: professional
+    Amount: USD 212.69
+
+
+📅 2024-03-16
+
+  [17:32:59] VISIT: General examination of patient (procedure)
+    Provider: Dr. Heath320 Leuschke194
+    Location: WESTON PRIMARY CARE, PC
+    Duration: 17:32:59 - 17:47:59
+
+  [17:32:59] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [17:32:59] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-03-16
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kathlene786 Bailey598 is a 63 year-old hispanic white female.
+      # Social History
+
+  [17:32:59] DOCUMENT: History and physical note
+    Status: superseded
+
+  [17:47:59] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2025-01-22
+
+  [23:53:08] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Gerry91 Block661
+    Location: VHS ACQUISITION SUBSIDIARY NUMBER 9, INC.
+    Duration: 23:53:08 - 00:25:20
+
+  [23:53:08] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [23:53:08] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-01-22
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kathlene786 Bailey598 is a 64 year-old hispanic white female.
+      # Social History
+
+  [23:53:08] DOCUMENT: History and physical note
+    Status: superseded
+
+
+📅 2025-01-23
+
+  [00:25:20] CLAIM: professional
+    Amount: USD 573.98
+
+  [00:25:20] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Gerry91 Block661
+    Location: VHS ACQUISITION SUBSIDIARY NUMBER 9, INC.
+    Duration: 00:25:20 - 00:44:41
+
+  [00:25:20] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [00:25:20] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-01-23
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kathlene786 Bailey598 is a 64 year-old hispanic white female.
+      # Social History
+
+  [00:25:20] DOCUMENT: History and physical note
+    Status: superseded
+
+  [00:44:41] CLAIM: professional
+    Amount: USD 283.24
+
+
+📅 2025-03-22
+
+  [17:32:59] VISIT: General examination of patient (procedure)
+    Provider: Dr. Heath320 Leuschke194
+    Location: WESTON PRIMARY CARE, PC
+    Duration: 17:32:59 - 17:47:59
+
+  [17:32:59] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [17:32:59] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-03-22
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kathlene786 Bailey598 is a 64 year-old hispanic white female.
+      # Social History
+
+  [17:32:59] DOCUMENT: History and physical note
+    Status: superseded
+
+  [17:47:59] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2025-12-21
+
+  [00:44:41] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Gerry91 Block661
+    Location: VHS ACQUISITION SUBSIDIARY NUMBER 9, INC.
+    Duration: 00:44:41 - 01:16:02
+
+  [00:44:41] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [00:44:41] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-12-21
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kathlene786 Bailey598 is a 64 year-old hispanic white female.
+      # Social History
+
+  [00:44:41] DOCUMENT: History and physical note
+    Status: superseded
+
+  [01:16:02] CLAIM: professional
+    Amount: USD 573.98
+
+  [01:16:02] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Gerry91 Block661
+    Location: VHS ACQUISITION SUBSIDIARY NUMBER 9, INC.
+    Duration: 01:16:02 - 01:35:36
+
+  [01:16:02] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [01:16:02] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-12-21
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kathlene786 Bailey598 is a 64 year-old hispanic white female.
+      # Social History
+
+  [01:16:02] DOCUMENT: History and physical note
+    Status: current
+
+  [01:35:36] CLAIM: professional
+    Amount: USD 325.49
+
+
+📅 2026-02-14
+
+  [16:32:59] PROVENANCE: Record activity
+    Agents: Dr. Gerry91 Block661, Dr. Gerry91 Block661
+
+================================================================================
+END OF TIMELINE (410 events)
+================================================================================

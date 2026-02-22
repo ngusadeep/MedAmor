@@ -1,0 +1,191 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Mrs. Delcie812 Nicky270 Davis923
+  Patient ID: 37104
+  Date of Birth: 1983-07-05
+  Gender: Female
+  Race: Native Hawaiian or Other Pacific Islander
+  Ethnicity: Not Hispanic or Latino
+  Marital Status: Married
+  Address: 292 Kulas Glen Suite 38, Holbrook, MA 02368
+  Phone: 555-211-1390
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2017-09-19
+
+  [23:30:45] VISIT: General examination of patient (procedure)
+    Provider: Dr. Josephine273 Collier206
+    Location: BRAINTREE FAMILY PHYSICIAN INC
+    Duration: 23:30:45 - 23:45:45
+
+  [23:30:45] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [23:30:45] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-09-19
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Delcie812 Nicky270 is a 34 year-old nonhispanic hawaiian female.
+      # Social History
+
+  [23:30:45] DOCUMENT: History and physical note
+    Status: superseded
+
+  [23:45:45] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2020-09-22
+
+  [23:30:45] VISIT: General examination of patient (procedure)
+    Provider: Dr. Josephine273 Collier206
+    Location: BRAINTREE FAMILY PHYSICIAN INC
+    Duration: 23:30:45 - 23:45:45
+
+  [23:30:45] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [23:30:45] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-09-22
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Delcie812 Nicky270 is a 37 year-old nonhispanic hawaiian female.
+      # Social History
+
+  [23:30:45] DOCUMENT: History and physical note
+    Status: superseded
+
+  [23:45:45] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2021-06-22
+
+  [23:30:45] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. January966 Roberts511
+    Location: SOUTH SHORE HOSPITAL INC.
+    Duration: 23:30:45 - 23:45:45
+
+  [23:30:45] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 30 mcg/0.3 mL dose
+    Status: completed
+
+  [23:30:45] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-06-22
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Delcie812 Nicky270 is a 37 year-old nonhispanic hawaiian female.
+      # Social History
+
+  [23:30:45] DOCUMENT: History and physical note
+    Status: superseded
+
+  [23:45:45] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-07-13
+
+  [23:30:45] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. January966 Roberts511
+    Location: SOUTH SHORE HOSPITAL INC.
+    Duration: 23:30:45 - 23:45:45
+
+  [23:30:45] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 30 mcg/0.3 mL dose
+    Status: completed
+
+  [23:30:45] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-07-13
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Delcie812 Nicky270 is a 38 year-old nonhispanic hawaiian female.
+      # Social History
+
+  [23:30:45] DOCUMENT: History and physical note
+    Status: superseded
+
+  [23:45:45] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2023-07-11
+
+  [23:30:45] VISIT: General examination of patient (procedure)
+    Provider: Dr. Josephine273 Collier206
+    Location: BRAINTREE FAMILY PHYSICIAN INC
+    Duration: 23:30:45 - 23:45:45
+
+  [23:30:45] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [23:30:45] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [23:30:45] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-07-11
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Delcie812 Nicky270 is a 40 year-old nonhispanic hawaiian female.
+      # Social History
+
+  [23:30:45] DOCUMENT: History and physical note
+    Status: superseded
+
+  [23:45:45] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2025-07-15
+
+  [23:30:45] VISIT: General examination of patient (procedure)
+    Provider: Dr. Josephine273 Collier206
+    Location: BRAINTREE FAMILY PHYSICIAN INC
+    Duration: 23:30:45 - 23:45:45
+
+  [23:30:45] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [23:30:45] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [23:30:45] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [23:30:45] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-07-15
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Delcie812 Nicky270 is a 42 year-old nonhispanic hawaiian female.
+      # Social History
+
+  [23:30:45] DOCUMENT: History and physical note
+    Status: current
+
+  [23:45:45] CLAIM: professional
+    Amount: USD 544.80
+
+
+📅 2026-02-10
+
+  [22:30:45] PROVENANCE: Record activity
+    Agents: Dr. Josephine273 Collier206, Dr. Josephine273 Collier206
+
+================================================================================
+END OF TIMELINE (34 events)
+================================================================================

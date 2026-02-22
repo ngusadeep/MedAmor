@@ -1,0 +1,1738 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Mrs. Raquel318 Mandie666 Treutel973
+  Patient ID: 125374
+  Date of Birth: 1956-05-08
+  Gender: Female
+  Race: White
+  Ethnicity: Not Hispanic or Latino
+  Marital Status: Married
+  Address: 525 Jacobson Heights Unit 34, Fitchburg, MA 01420
+  Phone: 555-558-7348
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2002-05-28
+
+  [16:37:17] VISIT: General examination of patient (procedure)
+    Provider: Dr. Raleigh478 Hauck852
+    Location: COMMUNITY HEALTH CONNECTIONS, INC
+    Duration: 16:37:17 - 16:52:17
+
+  [16:37:17] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [16:37:17] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2002-05-28
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Raquel318 Mandie666 is a 46 year-old nonhispanic white female.
+      # Social History
+
+  [16:37:17] DOCUMENT: History and physical note
+    Status: superseded
+
+  [16:52:17] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2004-06-01
+
+  [16:37:17] VISIT: General examination of patient (procedure)
+    Provider: Dr. Raleigh478 Hauck852
+    Location: COMMUNITY HEALTH CONNECTIONS, INC
+    Duration: 16:37:17 - 16:52:17
+
+  [16:37:17] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [16:37:17] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2004-06-01
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Raquel318 Mandie666 is a 48 year-old nonhispanic white female.
+      # Social History
+
+  [16:37:17] DOCUMENT: History and physical note
+    Status: superseded
+
+  [16:52:17] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2006-05-09
+
+  [16:37:17] VISIT: General examination of patient (procedure)
+    Provider: Dr. Raleigh478 Hauck852
+    Location: COMMUNITY HEALTH CONNECTIONS, INC
+    Duration: 16:37:17 - 16:52:17
+
+  [16:37:17] IMMUNIZATION: zoster vaccine, live
+    Status: completed
+
+  [16:37:17] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [16:37:17] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2006-05-09
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Raquel318 Mandie666 is a 50 year-old nonhispanic white female.
+      # Social History
+
+  [16:37:17] DOCUMENT: History and physical note
+    Status: superseded
+
+  [16:52:17] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2007-05-15
+
+  [16:37:17] VISIT: General examination of patient (procedure)
+    Provider: Dr. Raleigh478 Hauck852
+    Location: COMMUNITY HEALTH CONNECTIONS, INC
+    Duration: 16:37:17 - 16:52:17
+
+  [16:37:17] IMMUNIZATION: zoster vaccine, live
+    Status: completed
+
+  [16:37:17] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [16:37:17] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [16:37:17] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2007-05-15
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Raquel318 Mandie666 is a 51 year-old nonhispanic white female.
+      # Social History
+
+  [16:37:17] DOCUMENT: History and physical note
+    Status: superseded
+
+  [16:52:17] CLAIM: professional
+    Amount: USD 544.80
+
+
+📅 2007-07-09
+
+  [16:37:17] VISIT: Periodic reevaluation and management of healthy individual (procedure)
+    Reason: Screening for malignant neoplasm of breast (procedure)
+    Provider: Dr. Jules135 Emard19
+    Location: UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC
+    Duration: 16:37:17 - 10:23:08
+
+  [16:37:17] PROCEDURE: Screening mammography (procedure)
+    Status: completed
+
+  [16:37:17] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2007-07-09
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Raquel318 Mandie666 is a 51 year-old nonhispanic white female.
+      # Social History
+
+  [16:37:17] DOCUMENT: History and physical note
+    Status: superseded
+
+  [16:57:48] PROCEDURE: Ultrasonography of bilateral breasts (procedure)
+    Status: completed
+
+  [17:19:55] PROCEDURE: Biopsy of breast (procedure)
+    Status: completed
+
+  [17:42:08] CONDITION: Malignant neoplasm of breast (disorder) (active)
+
+  [17:42:08] OBSERVATION: Site of distant metastasis in Breast tumor: None (qualifier value)
+
+  [17:42:08] OBSERVATION: Distant metastases.clinical [Class] Cancer: American Joint Committee on Cancer cM0 (qualifier value)
+
+  [17:42:08] OBSERVATION: Size.maximum dimension in Tumor: 3.7929 cm
+
+  [17:42:08] OBSERVATION: Primary tumor.clinical [Class] Cancer: American Joint Committee on Cancer cT2 (qualifier value)
+
+  [17:42:08] OBSERVATION: Lymph nodes with micrometastases [#] in Cancer specimen by Light microscopy: 2.066 {#}
+
+  [17:42:08] OBSERVATION: Regional lymph nodes.clinical [Class] Cancer: American Joint Committee on Cancer cN1 (qualifier value)
+
+  [17:42:08] PROCEDURE: Human epidermal growth factor receptor 2 gene detection by fluorescence in situ hybridization (procedure)
+    Status: completed
+
+
+📅 2007-07-11
+
+  [06:42:08] PROCEDURE: Human epidermal growth factor receptor 2 gene detection by immunohistochemistry (procedure)
+    Status: completed
+
+  [10:23:08] OBSERVATION: HER2 [Presence] in Breast cancer specimen by Immune stain: Negative (qualifier value)
+
+  [10:23:08] OBSERVATION: ERBB2 gene duplication [Presence] in Breast cancer specimen by FISH: less than 1.8
+
+  [10:23:08] OBSERVATION: Estrogen receptor Ag [Presence] in Breast cancer specimen by Immune stain: Positive (qualifier value)
+
+  [10:23:08] OBSERVATION: Progesterone receptor Ag [Presence] in Breast cancer specimen by Immune stain: Positive (qualifier value)
+
+  [10:23:08] OBSERVATION: Estrogen+Progesterone receptor Ag [Presence] in Tissue by Immune stain: Positive (qualifier value)
+
+  [10:23:08] OBSERVATION: Stage group.clinical Cancer: American Joint Committee on Cancer stage IIB (qualifier value)
+
+  [10:23:08] OBSERVATION: Stage group.clinical Cancer: Stage 2 (qualifier value)
+
+  [10:23:08] CLAIM: professional
+    Amount: USD 9175.66
+
+
+📅 2007-07-15
+
+  [00:23:08] VISIT: Discussion about treatment (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jules135 Emard19
+    Location: UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC
+    Duration: 00:23:08 - 01:16:29
+
+  [00:23:08] PROCEDURE: Discussion about options (procedure)
+    Status: completed
+
+  [00:23:08] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2007-07-15
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Raquel318 Mandie666 is a 51 year-old nonhispanic white female.
+      # Social History
+
+  [00:23:08] DOCUMENT: History and physical note
+    Status: superseded
+
+  [01:16:29] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2007-07-16
+
+  [02:16:29] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jules135 Emard19
+    Location: UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC
+    Duration: 02:16:29 - 06:57:03
+
+  [02:16:29] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2007-07-16
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Raquel318 Mandie666 is a 51 year-old nonhispanic white female.
+      # Social History
+
+  [02:16:29] DOCUMENT: History and physical note
+    Status: superseded
+
+  [03:23:29] PROCEDURE: Excision of axillary lymph node (procedure)
+    Status: completed
+
+  [06:39:52] PROCEDURE: Lumpectomy of breast (procedure)
+    Status: completed
+
+
+📅 2007-07-20
+
+  [06:57:03] CLAIM: institutional
+    Amount: USD 33542.69
+
+
+📅 2007-07-29
+
+  [05:57:03] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jules135 Emard19
+    Location: UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC
+    Duration: 05:57:03 - 06:32:04
+
+  [05:57:03] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [05:57:03] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2007-07-29
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Raquel318 Mandie666 is a 51 year-old nonhispanic white female.
+      # Social History
+
+  [05:57:03] DOCUMENT: History and physical note
+    Status: superseded
+
+  [06:32:04] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2007-07-30
+
+  [17:28:04] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jules135 Emard19
+    Location: UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC
+    Duration: 17:28:04 - 17:44:48
+
+  [17:28:04] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [17:28:04] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2007-07-30
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Raquel318 Mandie666 is a 51 year-old nonhispanic white female.
+      # Social History
+
+  [17:28:04] DOCUMENT: History and physical note
+    Status: superseded
+
+  [17:44:48] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2007-08-01
+
+  [05:03:48] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jules135 Emard19
+    Location: UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC
+    Duration: 05:03:48 - 05:33:55
+
+  [05:03:48] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [05:03:48] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2007-08-01
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Raquel318 Mandie666 is a 51 year-old nonhispanic white female.
+      # Social History
+
+  [05:03:48] DOCUMENT: History and physical note
+    Status: superseded
+
+  [05:33:55] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2007-08-02
+
+  [16:37:55] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jules135 Emard19
+    Location: UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC
+    Duration: 16:37:55 - 16:56:09
+
+  [16:37:55] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [16:37:55] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2007-08-02
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Raquel318 Mandie666 is a 51 year-old nonhispanic white female.
+      # Social History
+
+  [16:37:55] DOCUMENT: History and physical note
+    Status: superseded
+
+  [16:56:09] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2007-08-03
+
+  [21:43:09] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jules135 Emard19
+    Location: UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC
+    Duration: 21:43:09 - 22:19:43
+
+  [21:43:09] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [21:43:09] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2007-08-03
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Raquel318 Mandie666 is a 51 year-old nonhispanic white female.
+      # Social History
+
+  [21:43:09] DOCUMENT: History and physical note
+    Status: superseded
+
+  [22:19:43] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2007-08-05
+
+  [02:11:43] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jules135 Emard19
+    Location: UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC
+    Duration: 02:11:43 - 02:43:49
+
+  [02:11:43] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [02:11:43] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2007-08-05
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Raquel318 Mandie666 is a 51 year-old nonhispanic white female.
+      # Social History
+
+  [02:11:43] DOCUMENT: History and physical note
+    Status: superseded
+
+  [02:43:49] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2007-08-06
+
+  [06:34:49] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jules135 Emard19
+    Location: UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC
+    Duration: 06:34:49 - 06:54:17
+
+  [06:34:49] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [06:34:49] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2007-08-06
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Raquel318 Mandie666 is a 51 year-old nonhispanic white female.
+      # Social History
+
+  [06:34:49] DOCUMENT: History and physical note
+    Status: superseded
+
+  [06:54:17] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2007-08-07
+
+  [13:40:17] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jules135 Emard19
+    Location: UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC
+    Duration: 13:40:17 - 14:02:22
+
+  [13:40:17] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [13:40:17] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2007-08-07
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Raquel318 Mandie666 is a 51 year-old nonhispanic white female.
+      # Social History
+
+  [13:40:17] DOCUMENT: History and physical note
+    Status: superseded
+
+  [14:02:22] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2007-08-08
+
+  [20:06:22] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jules135 Emard19
+    Location: UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC
+    Duration: 20:06:22 - 20:41:59
+
+  [20:06:22] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [20:06:22] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2007-08-08
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Raquel318 Mandie666 is a 51 year-old nonhispanic white female.
+      # Social History
+
+  [20:06:22] DOCUMENT: History and physical note
+    Status: superseded
+
+  [20:41:59] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2007-08-10
+
+  [00:57:59] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jules135 Emard19
+    Location: UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC
+    Duration: 00:57:59 - 01:16:42
+
+  [00:57:59] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [00:57:59] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2007-08-10
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Raquel318 Mandie666 is a 51 year-old nonhispanic white female.
+      # Social History
+
+  [00:57:59] DOCUMENT: History and physical note
+    Status: superseded
+
+  [01:16:42] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2007-08-11
+
+  [12:50:42] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jules135 Emard19
+    Location: UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC
+    Duration: 12:50:42 - 13:13:17
+
+  [12:50:42] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [12:50:42] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2007-08-11
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Raquel318 Mandie666 is a 51 year-old nonhispanic white female.
+      # Social History
+
+  [12:50:42] DOCUMENT: History and physical note
+    Status: superseded
+
+  [13:13:17] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2007-08-12
+
+  [16:46:17] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jules135 Emard19
+    Location: UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC
+    Duration: 16:46:17 - 17:06:31
+
+  [16:46:17] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [16:46:17] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2007-08-12
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Raquel318 Mandie666 is a 51 year-old nonhispanic white female.
+      # Social History
+
+  [16:46:17] DOCUMENT: History and physical note
+    Status: superseded
+
+  [17:06:31] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2007-08-13
+
+  [19:32:31] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jules135 Emard19
+    Location: UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC
+    Duration: 19:32:31 - 20:00:17
+
+  [19:32:31] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [19:32:31] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2007-08-13
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Raquel318 Mandie666 is a 51 year-old nonhispanic white female.
+      # Social History
+
+  [19:32:31] DOCUMENT: History and physical note
+    Status: superseded
+
+  [20:00:17] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2007-08-15
+
+  [07:40:17] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jules135 Emard19
+    Location: UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC
+    Duration: 07:40:17 - 08:03:56
+
+  [07:40:17] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [07:40:17] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2007-08-15
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Raquel318 Mandie666 is a 51 year-old nonhispanic white female.
+      # Social History
+
+  [07:40:17] DOCUMENT: History and physical note
+    Status: superseded
+
+  [08:03:56] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2007-08-16
+
+  [18:28:56] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jules135 Emard19
+    Location: UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC
+    Duration: 18:28:56 - 19:08:05
+
+  [18:28:56] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [18:28:56] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2007-08-16
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Raquel318 Mandie666 is a 51 year-old nonhispanic white female.
+      # Social History
+
+  [18:28:56] DOCUMENT: History and physical note
+    Status: superseded
+
+  [19:08:05] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2007-08-17
+
+  [19:28:05] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jules135 Emard19
+    Location: UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC
+    Duration: 19:28:05 - 19:50:40
+
+  [19:28:05] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [19:28:05] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2007-08-17
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Raquel318 Mandie666 is a 51 year-old nonhispanic white female.
+      # Social History
+
+  [19:28:05] DOCUMENT: History and physical note
+    Status: superseded
+
+  [19:50:40] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2007-08-19
+
+  [02:47:40] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jules135 Emard19
+    Location: UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC
+    Duration: 02:47:40 - 03:08:37
+
+  [02:47:40] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [02:47:40] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2007-08-19
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Raquel318 Mandie666 is a 51 year-old nonhispanic white female.
+      # Social History
+
+  [02:47:40] DOCUMENT: History and physical note
+    Status: superseded
+
+  [03:08:37] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2007-08-20
+
+  [12:14:37] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jules135 Emard19
+    Location: UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC
+    Duration: 12:14:37 - 12:40:18
+
+  [12:14:37] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [12:14:37] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2007-08-20
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Raquel318 Mandie666 is a 51 year-old nonhispanic white female.
+      # Social History
+
+  [12:14:37] DOCUMENT: History and physical note
+    Status: superseded
+
+  [12:40:18] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2007-08-21
+
+  [21:32:18] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jules135 Emard19
+    Location: UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC
+    Duration: 21:32:18 - 22:01:50
+
+  [21:32:18] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [21:32:18] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2007-08-21
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Raquel318 Mandie666 is a 51 year-old nonhispanic white female.
+      # Social History
+
+  [21:32:18] DOCUMENT: History and physical note
+    Status: superseded
+
+  [22:01:50] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2007-08-23
+
+  [04:32:50] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jules135 Emard19
+    Location: UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC
+    Duration: 04:32:50 - 04:51:16
+
+  [04:32:50] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [04:32:50] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2007-08-23
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Raquel318 Mandie666 is a 51 year-old nonhispanic white female.
+      # Social History
+
+  [04:32:50] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:51:16] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2007-08-24
+
+  [15:10:16] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jules135 Emard19
+    Location: UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC
+    Duration: 15:10:16 - 15:31:33
+
+  [15:10:16] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [15:10:16] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2007-08-24
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Raquel318 Mandie666 is a 51 year-old nonhispanic white female.
+      # Social History
+
+  [15:10:16] DOCUMENT: History and physical note
+    Status: superseded
+
+  [15:31:33] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2007-08-25
+
+  [21:10:33] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jules135 Emard19
+    Location: UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC
+    Duration: 21:10:33 - 21:30:33
+
+  [21:10:33] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [21:10:33] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2007-08-25
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Raquel318 Mandie666 is a 51 year-old nonhispanic white female.
+      # Social History
+
+  [21:10:33] DOCUMENT: History and physical note
+    Status: superseded
+
+  [21:30:33] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2007-08-27
+
+  [05:08:33] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jules135 Emard19
+    Location: UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC
+    Duration: 05:08:33 - 05:25:31
+
+  [05:08:33] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [05:08:33] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2007-08-27
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Raquel318 Mandie666 is a 51 year-old nonhispanic white female.
+      # Social History
+
+  [05:08:33] DOCUMENT: History and physical note
+    Status: superseded
+
+  [05:25:31] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2007-08-28
+
+  [06:59:31] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jules135 Emard19
+    Location: UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC
+    Duration: 06:59:31 - 07:37:33
+
+  [06:59:31] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [06:59:31] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2007-08-28
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Raquel318 Mandie666 is a 51 year-old nonhispanic white female.
+      # Social History
+
+  [06:59:31] DOCUMENT: History and physical note
+    Status: superseded
+
+  [07:37:33] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2007-08-29
+
+  [08:02:33] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jules135 Emard19
+    Location: UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC
+    Duration: 08:02:33 - 08:23:36
+
+  [08:02:33] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [08:02:33] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2007-08-29
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Raquel318 Mandie666 is a 51 year-old nonhispanic white female.
+      # Social History
+
+  [08:02:33] DOCUMENT: History and physical note
+    Status: superseded
+
+  [08:23:36] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2007-08-30
+
+  [08:40:36] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jules135 Emard19
+    Location: UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC
+    Duration: 08:40:36 - 09:07:43
+
+  [08:40:36] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [08:40:36] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2007-08-30
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Raquel318 Mandie666 is a 51 year-old nonhispanic white female.
+      # Social History
+
+  [08:40:36] DOCUMENT: History and physical note
+    Status: superseded
+
+  [09:07:43] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2007-08-31
+
+  [16:11:43] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jules135 Emard19
+    Location: UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC
+    Duration: 16:11:43 - 16:47:05
+
+  [16:11:43] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [16:11:43] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2007-08-31
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Raquel318 Mandie666 is a 51 year-old nonhispanic white female.
+      # Social History
+
+  [16:11:43] DOCUMENT: History and physical note
+    Status: superseded
+
+  [16:47:05] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2007-09-01
+
+  [22:09:05] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jules135 Emard19
+    Location: UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC
+    Duration: 22:09:05 - 22:37:44
+
+  [22:09:05] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [22:09:05] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2007-09-01
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Raquel318 Mandie666 is a 51 year-old nonhispanic white female.
+      # Social History
+
+  [22:09:05] DOCUMENT: History and physical note
+    Status: superseded
+
+  [22:37:44] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2007-09-03
+
+  [09:00:44] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jules135 Emard19
+    Location: UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC
+    Duration: 09:00:44 - 09:37:23
+
+  [09:00:44] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [09:00:44] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2007-09-03
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Raquel318 Mandie666 is a 51 year-old nonhispanic white female.
+      # Social History
+
+  [09:00:44] DOCUMENT: History and physical note
+    Status: superseded
+
+  [09:37:23] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2007-09-04
+
+  [18:36:23] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jules135 Emard19
+    Location: UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC
+    Duration: 18:36:23 - 19:14:54
+
+  [18:36:23] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [18:36:23] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2007-09-04
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Raquel318 Mandie666 is a 51 year-old nonhispanic white female.
+      # Social History
+
+  [18:36:23] DOCUMENT: History and physical note
+    Status: superseded
+
+  [19:14:54] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2007-09-06
+
+  [02:55:54] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jules135 Emard19
+    Location: UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC
+    Duration: 02:55:54 - 03:32:46
+
+  [02:55:54] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [02:55:54] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2007-09-06
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Raquel318 Mandie666 is a 51 year-old nonhispanic white female.
+      # Social History
+
+  [02:55:54] DOCUMENT: History and physical note
+    Status: superseded
+
+  [03:32:46] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2007-09-07
+
+  [07:38:46] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jules135 Emard19
+    Location: UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC
+    Duration: 07:38:46 - 07:56:42
+
+  [07:38:46] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [07:38:46] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2007-09-07
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Raquel318 Mandie666 is a 51 year-old nonhispanic white female.
+      # Social History
+
+  [07:38:46] DOCUMENT: History and physical note
+    Status: superseded
+
+  [07:56:42] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2007-09-08
+
+  [14:09:42] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jules135 Emard19
+    Location: UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC
+    Duration: 14:09:42 - 14:43:04
+
+  [14:09:42] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [14:09:42] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2007-09-08
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Raquel318 Mandie666 is a 51 year-old nonhispanic white female.
+      # Social History
+
+  [14:09:42] DOCUMENT: History and physical note
+    Status: superseded
+
+  [14:43:04] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2007-09-10
+
+  [01:51:04] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jules135 Emard19
+    Location: UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC
+    Duration: 01:51:04 - 02:08:30
+
+  [01:51:04] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [01:51:04] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2007-09-10
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Raquel318 Mandie666 is a 51 year-old nonhispanic white female.
+      # Social History
+
+  [01:51:04] DOCUMENT: History and physical note
+    Status: superseded
+
+  [02:08:30] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2007-09-13
+
+  [19:08:30] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jules135 Emard19
+    Location: UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC
+    Duration: 19:08:30 - 19:23:30
+
+  [19:08:30] OBSERVATION: Treatment status Cancer: Treatment changed (situation)
+
+  [19:08:30] OBSERVATION: Response to cancer treatment: Worsening (qualifier value)
+
+  [19:08:30] MEDICATION PRESCRIBED: Unknown medication
+    Status: completed
+    Prescribed by: Dr. Jules135 Emard19
+
+  [19:08:30] MEDICATION ADMINISTERED: anastrozole 1 MG Oral Tablet
+    Status: completed
+    Dosage: 1.0
+
+  [19:08:30] MEDICATION PRESCRIBED: Unknown medication
+    Status: completed
+    Prescribed by: Dr. Jules135 Emard19
+
+  [19:08:30] MEDICATION ADMINISTERED: ribociclib 200 MG Oral Tablet
+    Status: completed
+
+  [19:08:30] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2007-09-13
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Raquel318 Mandie666 is a 51 year-old nonhispanic white female.
+      # Social History
+
+  [19:08:30] DOCUMENT: History and physical note
+    Status: superseded
+
+  [19:23:30] CLAIM: pharmacy
+    Amount: USD 273.42
+
+  [19:23:30] CLAIM: pharmacy
+    Amount: USD 111.91
+
+  [19:23:30] CLAIM: professional
+    Amount: USD 85.55
+
+
+📅 2007-12-30
+
+  [18:08:30] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jules135 Emard19
+    Location: UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC
+    Duration: 18:08:30 - 18:48:29
+
+  [18:08:30] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [18:08:30] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2007-12-30
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Raquel318 Mandie666 is a 51 year-old nonhispanic white female.
+      # Social History
+
+  [18:08:30] DOCUMENT: History and physical note
+    Status: superseded
+
+  [18:48:29] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2008-04-15
+
+  [19:48:29] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jules135 Emard19
+    Location: UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC
+    Duration: 19:48:29 - 20:26:12
+
+  [19:48:29] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [19:48:29] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2008-04-15
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Raquel318 Mandie666 is a 51 year-old nonhispanic white female.
+      # Social History
+
+  [19:48:29] DOCUMENT: History and physical note
+    Status: superseded
+
+  [20:26:12] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2008-05-20
+
+  [16:37:17] VISIT: General examination of patient (procedure)
+    Provider: Dr. Raleigh478 Hauck852
+    Location: COMMUNITY HEALTH CONNECTIONS, INC
+    Duration: 16:37:17 - 16:52:17
+
+  [16:37:17] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [16:37:17] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2008-05-20
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Raquel318 Mandie666 is a 52 year-old nonhispanic white female.
+      # Social History
+
+  [16:37:17] DOCUMENT: History and physical note
+    Status: superseded
+
+  [16:52:17] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2008-07-24
+
+  [20:26:12] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jules135 Emard19
+    Location: UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC
+    Duration: 20:26:12 - 20:59:08
+
+  [20:26:12] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [20:26:12] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2008-07-24
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Raquel318 Mandie666 is a 52 year-old nonhispanic white female.
+      # Social History
+
+  [20:26:12] DOCUMENT: History and physical note
+    Status: superseded
+
+  [20:59:08] CLAIM: professional
+    Amount: USD 573.98
+
+  [20:59:08] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jules135 Emard19
+    Location: UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC
+    Duration: 20:59:08 - 21:15:54
+
+  [20:59:08] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [20:59:08] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2008-07-24
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Raquel318 Mandie666 is a 52 year-old nonhispanic white female.
+      # Social History
+
+  [20:59:08] DOCUMENT: History and physical note
+    Status: superseded
+
+  [21:15:54] CLAIM: professional
+    Amount: USD 211.60
+
+  [21:15:54] VISIT: Follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jules135 Emard19
+    Location: UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC
+    Duration: 21:15:54 - 21:44:46
+
+  [21:15:54] PROCEDURE: Bone density scan (procedure)
+    Status: completed
+
+  [21:15:54] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2008-07-24
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Raquel318 Mandie666 is a 52 year-old nonhispanic white female.
+      # Social History
+
+  [21:15:54] DOCUMENT: History and physical note
+    Status: superseded
+
+  [21:44:46] OBSERVATION: Response to cancer treatment: Worsening (qualifier value)
+
+  [21:44:46] CLAIM: professional
+    Amount: USD 16468.32
+
+
+📅 2008-11-07
+
+  [20:44:46] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jules135 Emard19
+    Location: UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC
+    Duration: 20:44:46 - 21:28:36
+
+  [20:44:46] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [20:44:46] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2008-11-07
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Raquel318 Mandie666 is a 52 year-old nonhispanic white female.
+      # Social History
+
+  [20:44:46] DOCUMENT: History and physical note
+    Status: superseded
+
+  [21:28:36] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2009-03-01
+
+  [21:28:36] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jules135 Emard19
+    Location: UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC
+    Duration: 21:28:36 - 22:00:08
+
+  [21:28:36] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [21:28:36] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2009-03-01
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Raquel318 Mandie666 is a 52 year-old nonhispanic white female.
+      # Social History
+
+  [21:28:36] DOCUMENT: History and physical note
+    Status: superseded
+
+  [22:00:08] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2009-05-26
+
+  [16:37:17] VISIT: General examination of patient (procedure)
+    Provider: Dr. Raleigh478 Hauck852
+    Location: COMMUNITY HEALTH CONNECTIONS, INC
+    Duration: 16:37:17 - 16:52:17
+
+  [16:37:17] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [16:37:17] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2009-05-26
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Raquel318 Mandie666 is a 53 year-old nonhispanic white female.
+      # Social History
+
+  [16:37:17] DOCUMENT: History and physical note
+    Status: superseded
+
+  [16:52:17] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2009-06-09
+
+  [23:00:08] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jules135 Emard19
+    Location: UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC
+    Duration: 23:00:08 - 23:31:43
+
+  [23:00:08] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [23:00:08] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2009-06-09
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Raquel318 Mandie666 is a 53 year-old nonhispanic white female.
+      # Social History
+
+  [23:00:08] DOCUMENT: History and physical note
+    Status: superseded
+
+  [23:31:43] CLAIM: professional
+    Amount: USD 573.98
+
+  [23:31:43] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jules135 Emard19
+    Location: UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC
+    Duration: 23:31:43 - 23:51:05
+
+  [23:31:43] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [23:31:43] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2009-06-09
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Raquel318 Mandie666 is a 53 year-old nonhispanic white female.
+      # Social History
+
+  [23:31:43] DOCUMENT: History and physical note
+    Status: superseded
+
+  [23:51:05] CLAIM: professional
+    Amount: USD 223.01
+
+  [23:51:05] VISIT: Follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jules135 Emard19
+    Location: UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC
+    Duration: 23:51:05 - 00:17:22
+
+  [23:51:05] PROCEDURE: Bone density scan (procedure)
+    Status: completed
+
+  [23:51:05] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2009-06-09
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Raquel318 Mandie666 is a 53 year-old nonhispanic white female.
+      # Social History
+
+  [23:51:05] DOCUMENT: History and physical note
+    Status: superseded
+
+
+📅 2009-06-10
+
+  [00:17:22] OBSERVATION: Response to cancer treatment: Worsening (qualifier value)
+
+  [00:17:22] CLAIM: professional
+    Amount: USD 4682.36
+
+
+📅 2009-10-07
+
+  [00:17:22] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jules135 Emard19
+    Location: UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC
+    Duration: 00:17:22 - 00:59:15
+
+  [00:17:22] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [00:17:22] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2009-10-07
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Raquel318 Mandie666 is a 53 year-old nonhispanic white female.
+      # Social History
+
+  [00:17:22] DOCUMENT: History and physical note
+    Status: superseded
+
+  [00:59:15] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2010-01-30
+
+  [23:59:15] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jules135 Emard19
+    Location: UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC
+    Duration: 23:59:15 - 00:39:45
+
+  [23:59:15] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [23:59:15] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2010-01-30
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Raquel318 Mandie666 is a 53 year-old nonhispanic white female.
+      # Social History
+
+  [23:59:15] DOCUMENT: History and physical note
+    Status: superseded
+
+
+📅 2010-01-31
+
+  [00:39:45] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2010-06-01
+
+  [16:37:17] VISIT: General examination of patient (procedure)
+    Provider: Dr. Raleigh478 Hauck852
+    Location: COMMUNITY HEALTH CONNECTIONS, INC
+    Duration: 16:37:17 - 16:52:17
+
+  [16:37:17] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [16:37:17] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2010-06-01
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Raquel318 Mandie666 is a 54 year-old nonhispanic white female.
+      # Social History
+
+  [16:37:17] DOCUMENT: History and physical note
+    Status: superseded
+
+  [16:52:17] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2010-06-08
+
+  [16:37:17] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jules135 Emard19
+    Location: UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC
+    Duration: 16:37:17 - 17:11:16
+
+  [16:37:17] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [16:37:17] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2010-06-08
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Raquel318 Mandie666 is a 54 year-old nonhispanic white female.
+      # Social History
+
+  [16:37:17] DOCUMENT: History and physical note
+    Status: superseded
+
+  [17:11:16] CLAIM: professional
+    Amount: USD 573.98
+
+  [17:11:16] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jules135 Emard19
+    Location: UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC
+    Duration: 17:11:16 - 17:33:14
+
+  [17:11:16] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [17:11:16] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2010-06-08
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Raquel318 Mandie666 is a 54 year-old nonhispanic white female.
+      # Social History
+
+  [17:11:16] DOCUMENT: History and physical note
+    Status: superseded
+
+  [17:33:14] CLAIM: professional
+    Amount: USD 325.49
+
+  [17:33:14] VISIT: Follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Jules135 Emard19
+    Location: UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC
+    Duration: 17:33:14 - 17:52:42
+
+  [17:33:14] PROCEDURE: Bone density scan (procedure)
+    Status: completed
+
+  [17:33:14] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2010-06-08
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Raquel318 Mandie666 is a 54 year-old nonhispanic white female.
+      # Social History
+
+  [17:33:14] DOCUMENT: History and physical note
+    Status: superseded
+
+  [17:52:42] OBSERVATION: Response to cancer treatment: Worsening (qualifier value)
+
+  [17:52:42] CLAIM: professional
+    Amount: USD 6939.67
+
+
+📅 2010-08-17
+
+  [16:37:17] VISIT: Death Certification
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Raleigh478 Hauck852
+    Location: COMMUNITY HEALTH CONNECTIONS, INC
+    Duration: 16:37:17 - 16:52:17
+
+  [16:37:17] OBSERVATION: Cause of Death [US Standard Certificate of Death]: Malignant neoplasm of breast (disorder)
+
+  [16:37:17] DIAGNOSTIC REPORT: U.S. standard certificate of death - 2003 revision
+
+  [16:37:17] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2010-08-17
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Raquel318 Mandie666 is a 54 year-old nonhispanic white female.
+      # Social History
+
+  [16:37:17] DOCUMENT: History and physical note
+    Status: current
+
+  [16:37:17] PROVENANCE: Record activity
+    Agents: Dr. Raleigh478 Hauck852, Dr. Raleigh478 Hauck852
+
+  [16:52:17] CLAIM: professional
+    Amount: USD 211.38
+
+================================================================================
+END OF TIMELINE (339 events)
+================================================================================

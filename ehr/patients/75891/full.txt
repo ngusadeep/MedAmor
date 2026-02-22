@@ -1,0 +1,1234 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Mrs. Kandy733 Tran115 Okuneva707
+  Patient ID: 75891
+  Date of Birth: 1964-04-29
+  Gender: Female
+  Race: Asian
+  Ethnicity: Not Hispanic or Latino
+  Marital Status: Married
+  Address: 1046 Gibson Wall Apt 48, Quincy, MA 02169
+  Phone: 555-917-4357
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2005-09-09
+
+  [10:24:27] VISIT: Periodic reevaluation and management of healthy individual (procedure)
+    Reason: Screening for malignant neoplasm of breast (procedure)
+    Provider: Dr. Leland44 Bernier607
+    Location: WALDEN BEHAVIORAL CARE LLC
+    Duration: 10:24:27 - 09:16:11
+
+  [10:24:27] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2005-09-09
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kandy733 Tran115 is a 41 year-old nonhispanic asian female.
+      # Social History
+
+  [10:24:27] DOCUMENT: History and physical note
+    Status: superseded
+
+  [11:35:11] CONDITION: Malignant neoplasm of breast (disorder) (active)
+
+
+📅 2005-09-11
+
+  [09:16:11] CLAIM: professional
+    Amount: USD 6603.61
+
+
+📅 2016-05-11
+
+  [10:24:27] VISIT: General examination of patient (procedure)
+    Provider: Dr. Dong972 Gibson10
+    Location: PATHWAYS HEALTHCARE LLC
+    Duration: 10:24:27 - 10:39:27
+
+  [10:24:27] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [10:24:27] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-05-11
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kandy733 Tran115 is a 52 year-old nonhispanic asian female.
+      # Social History
+
+  [10:24:27] DOCUMENT: History and physical note
+    Status: superseded
+
+  [10:39:27] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2016-06-06
+
+  [16:10:03] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Leland44 Bernier607
+    Location: WALDEN BEHAVIORAL CARE LLC
+    Duration: 16:10:03 - 16:48:20
+
+  [16:10:03] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [16:10:03] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-06-06
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kandy733 Tran115 is a 52 year-old nonhispanic asian female.
+      # Social History
+
+  [16:10:03] DOCUMENT: History and physical note
+    Status: superseded
+
+  [16:48:20] CLAIM: professional
+    Amount: USD 573.98
+
+  [16:48:20] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Leland44 Bernier607
+    Location: WALDEN BEHAVIORAL CARE LLC
+    Duration: 16:48:20 - 17:05:06
+
+  [16:48:20] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [16:48:20] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-06-06
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kandy733 Tran115 is a 52 year-old nonhispanic asian female.
+      # Social History
+
+  [16:48:20] DOCUMENT: History and physical note
+    Status: superseded
+
+  [17:05:06] CLAIM: professional
+    Amount: USD 211.60
+
+  [17:05:06] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Leland44 Bernier607
+    Location: WALDEN BEHAVIORAL CARE LLC
+    Duration: 17:05:06 - 17:36:16
+
+  [17:05:06] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [17:05:06] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-06-06
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kandy733 Tran115 is a 52 year-old nonhispanic asian female.
+      # Social History
+
+  [17:05:06] DOCUMENT: History and physical note
+    Status: superseded
+
+  [17:18:14] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [17:36:16] CLAIM: professional
+    Amount: USD 3057.71
+
+
+📅 2017-05-02
+
+  [17:36:16] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Leland44 Bernier607
+    Location: WALDEN BEHAVIORAL CARE LLC
+    Duration: 17:36:16 - 18:10:39
+
+  [17:36:16] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [17:36:16] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-05-02
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kandy733 Tran115 is a 53 year-old nonhispanic asian female.
+      # Social History
+
+  [17:36:16] DOCUMENT: History and physical note
+    Status: superseded
+
+  [18:10:39] CLAIM: professional
+    Amount: USD 573.98
+
+  [18:10:39] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Leland44 Bernier607
+    Location: WALDEN BEHAVIORAL CARE LLC
+    Duration: 18:10:39 - 18:29:17
+
+  [18:10:39] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [18:10:39] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-05-02
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kandy733 Tran115 is a 53 year-old nonhispanic asian female.
+      # Social History
+
+  [18:10:39] DOCUMENT: History and physical note
+    Status: superseded
+
+  [18:29:17] CLAIM: professional
+    Amount: USD 216.69
+
+  [18:29:17] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Leland44 Bernier607
+    Location: WALDEN BEHAVIORAL CARE LLC
+    Duration: 18:29:17 - 19:02:39
+
+  [18:29:17] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [18:29:17] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-05-02
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kandy733 Tran115 is a 53 year-old nonhispanic asian female.
+      # Social History
+
+  [18:29:17] DOCUMENT: History and physical note
+    Status: superseded
+
+  [18:43:03] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [19:02:39] CLAIM: professional
+    Amount: USD 1091.66
+
+
+📅 2017-05-17
+
+  [10:24:27] VISIT: General examination of patient (procedure)
+    Provider: Dr. Dong972 Gibson10
+    Location: PATHWAYS HEALTHCARE LLC
+    Duration: 10:24:27 - 10:39:27
+
+  [10:24:27] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [10:24:27] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-05-17
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kandy733 Tran115 is a 53 year-old nonhispanic asian female.
+      # Social History
+
+  [10:24:27] DOCUMENT: History and physical note
+    Status: superseded
+
+  [10:39:27] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2018-03-30
+
+  [19:02:39] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Leland44 Bernier607
+    Location: WALDEN BEHAVIORAL CARE LLC
+    Duration: 19:02:39 - 19:42:07
+
+  [19:02:39] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [19:02:39] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-03-30
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kandy733 Tran115 is a 53 year-old nonhispanic asian female.
+      # Social History
+
+  [19:02:39] DOCUMENT: History and physical note
+    Status: superseded
+
+  [19:42:07] CLAIM: professional
+    Amount: USD 573.98
+
+  [19:42:07] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Leland44 Bernier607
+    Location: WALDEN BEHAVIORAL CARE LLC
+    Duration: 19:42:07 - 20:06:22
+
+  [19:42:07] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [19:42:07] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-03-30
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kandy733 Tran115 is a 53 year-old nonhispanic asian female.
+      # Social History
+
+  [19:42:07] DOCUMENT: History and physical note
+    Status: superseded
+
+  [20:06:22] CLAIM: professional
+    Amount: USD 211.60
+
+  [20:06:22] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Leland44 Bernier607
+    Location: WALDEN BEHAVIORAL CARE LLC
+    Duration: 20:06:22 - 20:32:12
+
+  [20:06:22] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [20:06:22] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-03-30
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kandy733 Tran115 is a 53 year-old nonhispanic asian female.
+      # Social History
+
+  [20:06:22] DOCUMENT: History and physical note
+    Status: superseded
+
+  [20:19:01] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [20:32:12] CLAIM: professional
+    Amount: USD 1091.66
+
+
+📅 2018-05-23
+
+  [10:24:27] VISIT: General examination of patient (procedure)
+    Provider: Dr. Dong972 Gibson10
+    Location: PATHWAYS HEALTHCARE LLC
+    Duration: 10:24:27 - 10:39:27
+
+  [10:24:27] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [10:24:27] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-05-23
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kandy733 Tran115 is a 54 year-old nonhispanic asian female.
+      # Social History
+
+  [10:24:27] DOCUMENT: History and physical note
+    Status: superseded
+
+  [10:39:27] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2019-03-29
+
+  [20:32:12] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Leland44 Bernier607
+    Location: WALDEN BEHAVIORAL CARE LLC
+    Duration: 20:32:12 - 21:17:04
+
+  [20:32:12] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [20:32:12] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-03-29
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kandy733 Tran115 is a 54 year-old nonhispanic asian female.
+      # Social History
+
+  [20:32:12] DOCUMENT: History and physical note
+    Status: superseded
+
+  [21:17:04] CLAIM: professional
+    Amount: USD 573.98
+
+  [21:17:04] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Leland44 Bernier607
+    Location: WALDEN BEHAVIORAL CARE LLC
+    Duration: 21:17:04 - 21:41:01
+
+  [21:17:04] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [21:17:04] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-03-29
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kandy733 Tran115 is a 54 year-old nonhispanic asian female.
+      # Social History
+
+  [21:17:04] DOCUMENT: History and physical note
+    Status: superseded
+
+  [21:41:01] CLAIM: professional
+    Amount: USD 325.49
+
+  [21:41:01] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Leland44 Bernier607
+    Location: WALDEN BEHAVIORAL CARE LLC
+    Duration: 21:41:01 - 22:12:40
+
+  [21:41:01] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [21:41:01] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-03-29
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kandy733 Tran115 is a 54 year-old nonhispanic asian female.
+      # Social History
+
+  [21:41:01] DOCUMENT: History and physical note
+    Status: superseded
+
+  [21:54:34] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [22:12:40] CLAIM: professional
+    Amount: USD 1218.48
+
+
+📅 2019-05-29
+
+  [10:24:27] VISIT: General examination of patient (procedure)
+    Provider: Dr. Dong972 Gibson10
+    Location: PATHWAYS HEALTHCARE LLC
+    Duration: 10:24:27 - 10:39:27
+
+  [10:24:27] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [10:24:27] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-05-29
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kandy733 Tran115 is a 55 year-old nonhispanic asian female.
+      # Social History
+
+  [10:24:27] DOCUMENT: History and physical note
+    Status: superseded
+
+  [10:39:27] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2020-04-08
+
+  [22:12:40] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Leland44 Bernier607
+    Location: WALDEN BEHAVIORAL CARE LLC
+    Duration: 22:12:40 - 22:50:27
+
+  [22:12:40] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [22:12:40] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-04-08
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kandy733 Tran115 is a 55 year-old nonhispanic asian female.
+      # Social History
+
+  [22:12:40] DOCUMENT: History and physical note
+    Status: superseded
+
+  [22:50:27] CLAIM: professional
+    Amount: USD 573.98
+
+  [22:50:27] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Leland44 Bernier607
+    Location: WALDEN BEHAVIORAL CARE LLC
+    Duration: 22:50:27 - 23:07:03
+
+  [22:50:27] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [22:50:27] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-04-08
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kandy733 Tran115 is a 55 year-old nonhispanic asian female.
+      # Social History
+
+  [22:50:27] DOCUMENT: History and physical note
+    Status: superseded
+
+  [23:07:03] CLAIM: professional
+    Amount: USD 246.83
+
+  [23:07:03] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Leland44 Bernier607
+    Location: WALDEN BEHAVIORAL CARE LLC
+    Duration: 23:07:03 - 23:31:09
+
+  [23:07:03] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [23:07:03] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-04-08
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kandy733 Tran115 is a 55 year-old nonhispanic asian female.
+      # Social History
+
+  [23:07:03] DOCUMENT: History and physical note
+    Status: superseded
+
+  [23:17:07] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [23:31:09] CLAIM: professional
+    Amount: USD 1091.66
+
+
+📅 2020-06-03
+
+  [10:24:27] VISIT: General examination of patient (procedure)
+    Provider: Dr. Dong972 Gibson10
+    Location: PATHWAYS HEALTHCARE LLC
+    Duration: 10:24:27 - 10:39:27
+
+  [10:24:27] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [10:24:27] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-06-03
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kandy733 Tran115 is a 56 year-old nonhispanic asian female.
+      # Social History
+
+  [10:24:27] DOCUMENT: History and physical note
+    Status: superseded
+
+  [10:39:27] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2021-04-06
+
+  [23:31:09] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Leland44 Bernier607
+    Location: WALDEN BEHAVIORAL CARE LLC
+    Duration: 23:31:09 - 00:07:05
+
+  [23:31:09] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [23:31:09] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-04-06
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kandy733 Tran115 is a 56 year-old nonhispanic asian female.
+      # Social History
+
+  [23:31:09] DOCUMENT: History and physical note
+    Status: superseded
+
+
+📅 2021-04-07
+
+  [00:07:05] CLAIM: professional
+    Amount: USD 573.98
+
+  [00:07:05] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Leland44 Bernier607
+    Location: WALDEN BEHAVIORAL CARE LLC
+    Duration: 00:07:05 - 00:27:06
+
+  [00:07:05] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [00:07:05] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-04-07
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kandy733 Tran115 is a 56 year-old nonhispanic asian female.
+      # Social History
+
+  [00:07:05] DOCUMENT: History and physical note
+    Status: superseded
+
+  [00:27:06] CLAIM: professional
+    Amount: USD 308.28
+
+  [00:27:06] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Leland44 Bernier607
+    Location: WALDEN BEHAVIORAL CARE LLC
+    Duration: 00:27:06 - 00:50:17
+
+  [00:27:06] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [00:27:06] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-04-07
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kandy733 Tran115 is a 56 year-old nonhispanic asian female.
+      # Social History
+
+  [00:27:06] DOCUMENT: History and physical note
+    Status: superseded
+
+  [00:39:07] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [00:50:17] CLAIM: professional
+    Amount: USD 2217.27
+
+
+📅 2021-05-05
+
+  [10:24:27] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Leland44 Bernier607
+    Location: WALDEN BEHAVIORAL CARE LLC
+    Duration: 10:24:27 - 10:39:27
+
+  [10:24:27] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+    Status: completed
+
+  [10:24:27] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-05-05
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kandy733 Tran115 is a 57 year-old nonhispanic asian female.
+      # Social History
+
+  [10:24:27] DOCUMENT: History and physical note
+    Status: superseded
+
+  [10:39:27] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-06-02
+
+  [10:24:27] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Leland44 Bernier607
+    Location: WALDEN BEHAVIORAL CARE LLC
+    Duration: 10:24:27 - 10:39:27
+
+  [10:24:27] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+    Status: completed
+
+  [10:24:27] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-06-02
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kandy733 Tran115 is a 57 year-old nonhispanic asian female.
+      # Social History
+
+  [10:24:27] DOCUMENT: History and physical note
+    Status: superseded
+
+  [10:39:27] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-06-09
+
+  [10:24:27] VISIT: General examination of patient (procedure)
+    Provider: Dr. Dong972 Gibson10
+    Location: PATHWAYS HEALTHCARE LLC
+    Duration: 10:24:27 - 10:39:27
+
+  [10:24:27] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [10:24:27] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-06-09
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kandy733 Tran115 is a 57 year-old nonhispanic asian female.
+      # Social History
+
+  [10:24:27] DOCUMENT: History and physical note
+    Status: superseded
+
+  [10:39:27] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2022-03-11
+
+  [23:50:17] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Leland44 Bernier607
+    Location: Patient's Home
+    Duration: 23:50:17 - 00:34:30
+
+  [23:50:17] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [23:50:17] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-03-11
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kandy733 Tran115 is a 57 year-old nonhispanic asian female.
+      # Social History
+
+  [23:50:17] DOCUMENT: History and physical note
+    Status: superseded
+
+
+📅 2022-03-12
+
+  [00:34:30] CLAIM: institutional
+    Amount: USD 556.40
+
+  [00:34:30] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Leland44 Bernier607
+    Location: WALDEN BEHAVIORAL CARE LLC
+    Duration: 00:34:30 - 00:54:24
+
+  [00:34:30] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [00:34:30] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-03-12
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kandy733 Tran115 is a 57 year-old nonhispanic asian female.
+      # Social History
+
+  [00:34:30] DOCUMENT: History and physical note
+    Status: superseded
+
+  [00:54:24] CLAIM: professional
+    Amount: USD 325.49
+
+  [00:54:24] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Leland44 Bernier607
+    Location: WALDEN BEHAVIORAL CARE LLC
+    Duration: 00:54:24 - 01:24:07
+
+  [00:54:24] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [00:54:24] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-03-12
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kandy733 Tran115 is a 57 year-old nonhispanic asian female.
+      # Social History
+
+  [00:54:24] DOCUMENT: History and physical note
+    Status: superseded
+
+  [01:04:47] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [01:24:07] CLAIM: professional
+    Amount: USD 1563.64
+
+
+📅 2022-06-15
+
+  [10:24:27] VISIT: General examination of patient (procedure)
+    Provider: Dr. Dong972 Gibson10
+    Location: PATHWAYS HEALTHCARE LLC
+    Duration: 10:24:27 - 10:39:27
+
+  [10:24:27] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [10:24:27] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-06-15
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kandy733 Tran115 is a 58 year-old nonhispanic asian female.
+      # Social History
+
+  [10:24:27] DOCUMENT: History and physical note
+    Status: superseded
+
+  [10:39:27] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2023-03-02
+
+  [01:24:07] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Leland44 Bernier607
+    Location: Patient's Home
+    Duration: 01:24:07 - 02:00:14
+
+  [01:24:07] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [01:24:07] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-03-02
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kandy733 Tran115 is a 58 year-old nonhispanic asian female.
+      # Social History
+
+  [01:24:07] DOCUMENT: History and physical note
+    Status: superseded
+
+  [02:00:14] CLAIM: institutional
+    Amount: USD 556.40
+
+  [02:00:14] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Leland44 Bernier607
+    Location: WALDEN BEHAVIORAL CARE LLC
+    Duration: 02:00:14 - 02:23:44
+
+  [02:00:14] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [02:00:14] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-03-02
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kandy733 Tran115 is a 58 year-old nonhispanic asian female.
+      # Social History
+
+  [02:00:14] DOCUMENT: History and physical note
+    Status: superseded
+
+  [02:23:44] CLAIM: professional
+    Amount: USD 325.49
+
+  [02:23:44] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Leland44 Bernier607
+    Location: WALDEN BEHAVIORAL CARE LLC
+    Duration: 02:23:44 - 02:51:09
+
+  [02:23:44] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [02:23:44] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-03-02
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kandy733 Tran115 is a 58 year-old nonhispanic asian female.
+      # Social History
+
+  [02:23:44] DOCUMENT: History and physical note
+    Status: superseded
+
+  [02:35:24] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [02:51:09] CLAIM: professional
+    Amount: USD 3472.35
+
+
+📅 2023-06-21
+
+  [10:24:27] VISIT: General examination of patient (procedure)
+    Provider: Dr. Dong972 Gibson10
+    Location: PATHWAYS HEALTHCARE LLC
+    Duration: 10:24:27 - 10:39:27
+
+  [10:24:27] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [10:24:27] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-06-21
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kandy733 Tran115 is a 59 year-old nonhispanic asian female.
+      # Social History
+
+  [10:24:27] DOCUMENT: History and physical note
+    Status: superseded
+
+  [10:39:27] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2024-02-16
+
+  [02:51:09] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Leland44 Bernier607
+    Location: WALDEN BEHAVIORAL CARE LLC
+    Duration: 02:51:09 - 03:27:44
+
+  [02:51:09] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [02:51:09] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-02-16
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kandy733 Tran115 is a 59 year-old nonhispanic asian female.
+      # Social History
+
+  [02:51:09] DOCUMENT: History and physical note
+    Status: superseded
+
+  [03:27:44] CLAIM: professional
+    Amount: USD 573.98
+
+  [03:27:44] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Leland44 Bernier607
+    Location: WALDEN BEHAVIORAL CARE LLC
+    Duration: 03:27:44 - 03:45:43
+
+  [03:27:44] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [03:27:44] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-02-16
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kandy733 Tran115 is a 59 year-old nonhispanic asian female.
+      # Social History
+
+  [03:27:44] DOCUMENT: History and physical note
+    Status: superseded
+
+  [03:45:43] CLAIM: professional
+    Amount: USD 211.60
+
+  [03:45:43] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Leland44 Bernier607
+    Location: WALDEN BEHAVIORAL CARE LLC
+    Duration: 03:45:43 - 04:13:14
+
+  [03:45:43] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [03:45:43] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-02-16
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kandy733 Tran115 is a 59 year-old nonhispanic asian female.
+      # Social History
+
+  [03:45:43] DOCUMENT: History and physical note
+    Status: superseded
+
+  [03:59:16] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [04:13:14] CLAIM: professional
+    Amount: USD 1652.34
+
+
+📅 2024-06-26
+
+  [10:24:27] VISIT: General examination of patient (procedure)
+    Provider: Dr. Dong972 Gibson10
+    Location: PATHWAYS HEALTHCARE LLC
+    Duration: 10:24:27 - 10:39:27
+
+  [10:24:27] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [10:24:27] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-06-26
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kandy733 Tran115 is a 60 year-old nonhispanic asian female.
+      # Social History
+
+  [10:24:27] DOCUMENT: History and physical note
+    Status: superseded
+
+  [10:39:27] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2025-03-02
+
+  [04:13:14] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Leland44 Bernier607
+    Location: WALDEN BEHAVIORAL CARE LLC
+    Duration: 04:13:14 - 04:48:21
+
+  [04:13:14] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [04:13:14] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-03-02
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kandy733 Tran115 is a 60 year-old nonhispanic asian female.
+      # Social History
+
+  [04:13:14] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:48:21] CLAIM: professional
+    Amount: USD 573.98
+
+  [04:48:21] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Leland44 Bernier607
+    Location: WALDEN BEHAVIORAL CARE LLC
+    Duration: 04:48:21 - 05:06:19
+
+  [04:48:21] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [04:48:21] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-03-02
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kandy733 Tran115 is a 60 year-old nonhispanic asian female.
+      # Social History
+
+  [04:48:21] DOCUMENT: History and physical note
+    Status: superseded
+
+  [05:06:19] CLAIM: professional
+    Amount: USD 271.35
+
+  [05:06:19] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Leland44 Bernier607
+    Location: WALDEN BEHAVIORAL CARE LLC
+    Duration: 05:06:19 - 05:35:36
+
+  [05:06:19] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [05:06:19] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-03-02
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kandy733 Tran115 is a 60 year-old nonhispanic asian female.
+      # Social History
+
+  [05:06:19] DOCUMENT: History and physical note
+    Status: superseded
+
+  [05:20:32] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [05:35:36] CLAIM: professional
+    Amount: USD 1091.66
+
+
+📅 2025-07-02
+
+  [10:24:27] VISIT: General examination of patient (procedure)
+    Provider: Dr. Dong972 Gibson10
+    Location: PATHWAYS HEALTHCARE LLC
+    Duration: 10:24:27 - 10:39:27
+
+  [10:24:27] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [10:24:27] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [10:24:27] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-07-02
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kandy733 Tran115 is a 61 year-old nonhispanic asian female.
+      # Social History
+
+  [10:24:27] DOCUMENT: History and physical note
+    Status: superseded
+
+  [10:39:27] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2026-02-01
+
+  [05:35:36] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Leland44 Bernier607
+    Location: WALDEN BEHAVIORAL CARE LLC
+    Duration: 05:35:36 - 06:17:34
+
+  [05:35:36] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [05:35:36] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2026-02-01
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kandy733 Tran115 is a 61 year-old nonhispanic asian female.
+      # Social History
+
+  [05:35:36] DOCUMENT: History and physical note
+    Status: superseded
+
+  [06:17:34] CLAIM: professional
+    Amount: USD 573.98
+
+  [06:17:34] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Leland44 Bernier607
+    Location: WALDEN BEHAVIORAL CARE LLC
+    Duration: 06:17:34 - 06:41:56
+
+  [06:17:34] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [06:17:34] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2026-02-01
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kandy733 Tran115 is a 61 year-old nonhispanic asian female.
+      # Social History
+
+  [06:17:34] DOCUMENT: History and physical note
+    Status: superseded
+
+  [06:41:56] CLAIM: professional
+    Amount: USD 211.60
+
+  [06:41:56] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Leland44 Bernier607
+    Location: WALDEN BEHAVIORAL CARE LLC
+    Duration: 06:41:56 - 07:06:22
+
+  [06:41:56] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [06:41:56] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2026-02-01
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kandy733 Tran115 is a 61 year-old nonhispanic asian female.
+      # Social History
+
+  [06:41:56] DOCUMENT: History and physical note
+    Status: current
+
+  [06:56:22] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [07:06:22] CLAIM: professional
+    Amount: USD 1713.70
+
+
+📅 2026-02-11
+
+  [09:24:27] PROVENANCE: Record activity
+    Agents: Dr. Leland44 Bernier607, Dr. Leland44 Bernier607
+
+================================================================================
+END OF TIMELINE (243 events)
+================================================================================

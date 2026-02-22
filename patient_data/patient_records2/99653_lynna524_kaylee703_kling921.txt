@@ -1,0 +1,2537 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Ms. Lynna524 Kaylee703 Kling921
+  Patient ID: 99653
+  Date of Birth: 1972-06-07
+  Gender: Female
+  Race: White
+  Ethnicity: Not Hispanic or Latino
+  Marital Status: Never Married
+  Address: 183 Prosacco Wall, Quincy, MA 02171
+  Phone: 555-161-4787
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2016-06-22
+
+  [03:33:58] VISIT: General examination of patient (procedure)
+    Provider: Dr. Bryon392 Mills423
+    Location: DEARBORN WELLNESS, LLC
+    Duration: 03:33:58 - 03:48:58
+
+  [03:33:58] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [03:33:58] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-06-22
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lynna524 is a 44 year-old nonhispanic white female.
+      # Social History
+
+  [03:33:58] DOCUMENT: History and physical note
+    Status: superseded
+
+  [03:48:58] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2018-01-21
+
+  [02:33:58] VISIT: Periodic reevaluation and management of healthy individual (procedure)
+    Reason: Screening for malignant neoplasm of breast (procedure)
+    Provider: Dr. Xochitl483 Haley279
+    Location: ARBOUR HOSPITAL, THE
+    Duration: 02:33:58 - 17:25:30
+
+  [02:33:58] PROCEDURE: Screening mammography (procedure)
+    Status: completed
+
+  [02:33:58] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-01-21
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lynna524 is a 45 year-old nonhispanic white female.
+      # Social History
+
+  [02:33:58] DOCUMENT: History and physical note
+    Status: superseded
+
+  [02:52:39] PROCEDURE: Ultrasonography of bilateral breasts (procedure)
+    Status: completed
+
+  [03:22:33] PROCEDURE: Biopsy of breast (procedure)
+    Status: completed
+
+  [03:55:30] CONDITION: Malignant neoplasm of breast (disorder) (active)
+
+  [03:55:30] OBSERVATION: Site of distant metastasis in Breast tumor: None (qualifier value)
+
+  [03:55:30] OBSERVATION: Distant metastases.clinical [Class] Cancer: American Joint Committee on Cancer cM0 (qualifier value)
+
+  [03:55:30] OBSERVATION: Size.maximum dimension in Tumor: 0.23687 cm
+
+  [03:55:30] OBSERVATION: Primary tumor.clinical [Class] Cancer: American Joint Committee on Cancer cT1 (qualifier value)
+
+  [03:55:30] OBSERVATION: Lymph nodes with isolated tumor cells [#] in Cancer specimen by Light microscopy: 0 {#}
+
+  [03:55:30] OBSERVATION: Regional lymph nodes.clinical [Class] Cancer: American Joint Committee on Cancer cN0 (qualifier value)
+
+  [03:55:30] PROCEDURE: Human epidermal growth factor receptor 2 gene detection by fluorescence in situ hybridization (procedure)
+    Status: completed
+
+
+📅 2018-01-22
+
+  [13:55:30] PROCEDURE: Human epidermal growth factor receptor 2 gene detection by immunohistochemistry (procedure)
+    Status: completed
+
+  [17:25:30] OBSERVATION: HER2 [Presence] in Breast cancer specimen by Immune stain: Negative (qualifier value)
+
+  [17:25:30] OBSERVATION: ERBB2 gene duplication [Presence] in Breast cancer specimen by FISH: less than 1.8
+
+  [17:25:30] OBSERVATION: Estrogen receptor Ag [Presence] in Breast cancer specimen by Immune stain: Negative (qualifier value)
+
+  [17:25:30] OBSERVATION: Progesterone receptor Ag [Presence] in Breast cancer specimen by Immune stain: Negative (qualifier value)
+
+  [17:25:30] OBSERVATION: Estrogen+Progesterone receptor Ag [Presence] in Tissue by Immune stain: Negative (qualifier value)
+
+  [17:25:30] OBSERVATION: Tumor marker Cancer: Negative (qualifier value)
+
+  [17:25:30] OBSERVATION: Stage group.clinical Cancer: American Joint Committee on Cancer stage IA (qualifier value)
+
+  [17:25:30] OBSERVATION: Stage group.clinical Cancer: Stage 1 (qualifier value)
+
+  [17:25:30] CLAIM: professional
+    Amount: USD 4122.24
+
+
+📅 2018-01-28
+
+  [20:25:30] VISIT: Discussion about treatment (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Xochitl483 Haley279
+    Location: ARBOUR HOSPITAL, THE
+    Duration: 20:25:30 - 21:14:35
+
+  [20:25:30] PROCEDURE: Discussion about options (procedure)
+    Status: completed
+
+  [20:25:30] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-01-28
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lynna524 is a 45 year-old nonhispanic white female.
+      # Social History
+
+  [20:25:30] DOCUMENT: History and physical note
+    Status: superseded
+
+  [21:14:35] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2018-02-03
+
+  [23:14:35] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Xochitl483 Haley279
+    Location: ARBOUR HOSPITAL, THE
+    Duration: 23:14:35 - 02:38:09
+
+  [23:14:35] PROCEDURE: Chemotherapy (procedure)
+    Status: completed
+
+  [23:14:35] MEDICATION PRESCRIBED: Unknown medication
+    Status: completed
+    Prescribed by: Dr. Xochitl483 Haley279
+
+  [23:14:35] MEDICATION ADMINISTERED: 10 ML Doxorubicin Hydrochloride 2 MG/ML Injection
+    Status: completed
+
+  [23:14:35] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-02-03
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lynna524 is a 45 year-old nonhispanic white female.
+      # Social History
+
+  [23:14:35] DOCUMENT: History and physical note
+    Status: superseded
+
+
+📅 2018-02-04
+
+  [02:38:09] CLAIM: pharmacy
+    Amount: USD 1.34
+
+  [02:38:09] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2018-02-25
+
+  [11:38:09] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Xochitl483 Haley279
+    Location: ARBOUR HOSPITAL, THE
+    Duration: 11:38:09 - 14:51:23
+
+  [11:38:09] PROCEDURE: Chemotherapy (procedure)
+    Status: completed
+
+  [11:38:09] MEDICATION PRESCRIBED: Unknown medication
+    Status: completed
+    Prescribed by: Dr. Xochitl483 Haley279
+
+  [11:38:09] MEDICATION ADMINISTERED: 10 ML Doxorubicin Hydrochloride 2 MG/ML Injection
+    Status: completed
+
+  [11:38:09] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-02-25
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lynna524 is a 45 year-old nonhispanic white female.
+      # Social History
+
+  [11:38:09] DOCUMENT: History and physical note
+    Status: superseded
+
+  [14:51:23] CLAIM: pharmacy
+    Amount: USD 1.59
+
+  [14:51:23] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2018-03-16
+
+  [16:51:23] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Xochitl483 Haley279
+    Location: ARBOUR HOSPITAL, THE
+    Duration: 16:51:23 - 17:44:25
+
+  [16:51:23] PROCEDURE: Chemotherapy (procedure)
+    Status: completed
+
+  [16:51:23] MEDICATION PRESCRIBED: Unknown medication
+    Status: completed
+    Prescribed by: Dr. Xochitl483 Haley279
+
+  [16:51:23] MEDICATION ADMINISTERED: 10 ML Doxorubicin Hydrochloride 2 MG/ML Injection
+    Status: completed
+
+  [16:51:23] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-03-16
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lynna524 is a 45 year-old nonhispanic white female.
+      # Social History
+
+  [16:51:23] DOCUMENT: History and physical note
+    Status: superseded
+
+  [17:44:25] CLAIM: pharmacy
+    Amount: USD 1.34
+
+  [17:44:25] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2018-04-07
+
+  [03:44:25] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Xochitl483 Haley279
+    Location: ARBOUR HOSPITAL, THE
+    Duration: 03:44:25 - 06:09:37
+
+  [03:44:25] PROCEDURE: Chemotherapy (procedure)
+    Status: completed
+
+  [03:44:25] MEDICATION PRESCRIBED: Unknown medication
+    Status: completed
+    Prescribed by: Dr. Xochitl483 Haley279
+
+  [03:44:25] MEDICATION ADMINISTERED: 10 ML Doxorubicin Hydrochloride 2 MG/ML Injection
+    Status: completed
+
+  [03:44:25] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-04-07
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lynna524 is a 45 year-old nonhispanic white female.
+      # Social History
+
+  [03:44:25] DOCUMENT: History and physical note
+    Status: superseded
+
+  [06:09:37] CLAIM: pharmacy
+    Amount: USD 1.59
+
+  [06:09:37] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2018-04-29
+
+  [06:09:37] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Xochitl483 Haley279
+    Location: ARBOUR HOSPITAL, THE
+    Duration: 06:09:37 - 08:11:52
+
+  [06:09:37] PROCEDURE: Chemotherapy (procedure)
+    Status: completed
+
+  [06:09:37] MEDICATION PRESCRIBED: Unknown medication
+    Status: completed
+    Prescribed by: Dr. Xochitl483 Haley279
+
+  [06:09:37] MEDICATION ADMINISTERED: 10 ML Doxorubicin Hydrochloride 2 MG/ML Injection
+    Status: completed
+
+  [06:09:37] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-04-29
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lynna524 is a 45 year-old nonhispanic white female.
+      # Social History
+
+  [06:09:37] DOCUMENT: History and physical note
+    Status: superseded
+
+  [08:11:52] CLAIM: pharmacy
+    Amount: USD 1.34
+
+  [08:11:52] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2018-05-20
+
+  [04:11:52] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Xochitl483 Haley279
+    Location: ARBOUR HOSPITAL, THE
+    Duration: 04:11:52 - 05:32:34
+
+  [04:11:52] PROCEDURE: Chemotherapy (procedure)
+    Status: completed
+
+  [04:11:52] MEDICATION PRESCRIBED: Unknown medication
+    Status: completed
+    Prescribed by: Dr. Xochitl483 Haley279
+
+  [04:11:52] MEDICATION ADMINISTERED: 10 ML Doxorubicin Hydrochloride 2 MG/ML Injection
+    Status: completed
+
+  [04:11:52] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-05-20
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lynna524 is a 45 year-old nonhispanic white female.
+      # Social History
+
+  [04:11:52] DOCUMENT: History and physical note
+    Status: superseded
+
+  [05:32:34] CLAIM: pharmacy
+    Amount: USD 1.34
+
+  [05:32:34] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2018-06-10
+
+  [21:32:34] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Xochitl483 Haley279
+    Location: ARBOUR HOSPITAL, THE
+    Duration: 21:32:34 - 01:11:43
+
+  [21:32:34] PROCEDURE: Chemotherapy (procedure)
+    Status: completed
+
+  [21:32:34] MEDICATION PRESCRIBED: Unknown medication
+    Status: completed
+    Prescribed by: Dr. Xochitl483 Haley279
+
+  [21:32:34] MEDICATION ADMINISTERED: 10 ML Doxorubicin Hydrochloride 2 MG/ML Injection
+    Status: completed
+
+  [21:32:34] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-06-10
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lynna524 is a 46 year-old nonhispanic white female.
+      # Social History
+
+  [21:32:34] DOCUMENT: History and physical note
+    Status: superseded
+
+
+📅 2018-06-11
+
+  [01:11:43] CLAIM: pharmacy
+    Amount: USD 1.34
+
+  [01:11:43] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2018-06-27
+
+  [03:33:58] VISIT: General examination of patient (procedure)
+    Provider: Dr. Bryon392 Mills423
+    Location: DEARBORN WELLNESS, LLC
+    Duration: 03:33:58 - 03:48:58
+
+  [03:33:58] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [03:33:58] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-06-27
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lynna524 is a 46 year-old nonhispanic white female.
+      # Social History
+
+  [03:33:58] DOCUMENT: History and physical note
+    Status: superseded
+
+  [03:48:58] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2018-07-01
+
+  [21:11:43] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Xochitl483 Haley279
+    Location: ARBOUR HOSPITAL, THE
+    Duration: 21:11:43 - 22:52:09
+
+  [21:11:43] PROCEDURE: Chemotherapy (procedure)
+    Status: completed
+
+  [21:11:43] MEDICATION PRESCRIBED: Unknown medication
+    Status: completed
+    Prescribed by: Dr. Xochitl483 Haley279
+
+  [21:11:43] MEDICATION ADMINISTERED: 10 ML Doxorubicin Hydrochloride 2 MG/ML Injection
+    Status: completed
+
+  [21:11:43] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-07-01
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lynna524 is a 46 year-old nonhispanic white female.
+      # Social History
+
+  [21:11:43] DOCUMENT: History and physical note
+    Status: superseded
+
+  [22:52:09] CLAIM: pharmacy
+    Amount: USD 1.59
+
+  [22:52:09] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2018-07-30
+
+  [22:52:09] OBSERVATION: Response to cancer treatment: Improving (qualifier value)
+
+  [22:52:09] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Xochitl483 Haley279
+    Location: ARBOUR HOSPITAL, THE
+    Duration: 22:52:09 - 00:27:36
+
+  [22:52:09] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-07-30
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lynna524 is a 46 year-old nonhispanic white female.
+      # Social History
+
+  [22:52:09] DOCUMENT: History and physical note
+    Status: superseded
+
+
+📅 2018-07-31
+
+  [00:04:09] PROCEDURE: Lumpectomy of breast (procedure)
+    Status: completed
+
+
+📅 2018-08-07
+
+  [00:27:36] CLAIM: institutional
+    Amount: USD 32679.89
+
+
+📅 2018-08-14
+
+  [07:27:36] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Xochitl483 Haley279
+    Location: ARBOUR HOSPITAL, THE
+    Duration: 07:27:36 - 08:58:36
+
+  [07:27:36] PROCEDURE: Chemotherapy (procedure)
+    Status: completed
+
+  [07:27:36] MEDICATION PRESCRIBED: Unknown medication
+    Status: completed
+    Prescribed by: Dr. Xochitl483 Haley279
+
+  [07:27:36] MEDICATION ADMINISTERED: 10 ML Doxorubicin Hydrochloride 2 MG/ML Injection
+    Status: completed
+
+  [07:27:36] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-08-14
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lynna524 is a 46 year-old nonhispanic white female.
+      # Social History
+
+  [07:27:36] DOCUMENT: History and physical note
+    Status: superseded
+
+  [08:58:36] CLAIM: pharmacy
+    Amount: USD 1.59
+
+  [08:58:36] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2018-09-03
+
+  [12:58:36] VISIT: Encounter for problem (procedure)
+    Provider: Dr. Xochitl483 Haley279
+    Location: ARBOUR HOSPITAL, THE
+    Duration: 12:58:36 - 14:01:36
+
+  [12:58:36] PROCEDURE: Chemotherapy (procedure)
+    Status: completed
+
+  [12:58:36] MEDICATION PRESCRIBED: Unknown medication
+    Status: completed
+    Prescribed by: Dr. Xochitl483 Haley279
+
+  [12:58:36] MEDICATION ADMINISTERED: 10 ML Doxorubicin Hydrochloride 2 MG/ML Injection
+    Status: completed
+
+  [12:58:36] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-09-03
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lynna524 is a 46 year-old nonhispanic white female.
+      # Social History
+
+  [12:58:36] DOCUMENT: History and physical note
+    Status: superseded
+
+  [14:01:36] CLAIM: pharmacy
+    Amount: USD 1.39
+
+  [14:01:36] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2018-09-24
+
+  [13:01:36] VISIT: Encounter for problem (procedure)
+    Provider: Dr. Xochitl483 Haley279
+    Location: ARBOUR HOSPITAL, THE
+    Duration: 13:01:36 - 14:13:36
+
+  [13:01:36] PROCEDURE: Chemotherapy (procedure)
+    Status: completed
+
+  [13:01:36] MEDICATION PRESCRIBED: Unknown medication
+    Status: completed
+    Prescribed by: Dr. Xochitl483 Haley279
+
+  [13:01:36] MEDICATION ADMINISTERED: 10 ML Doxorubicin Hydrochloride 2 MG/ML Injection
+    Status: completed
+
+  [13:01:36] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-09-24
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lynna524 is a 46 year-old nonhispanic white female.
+      # Social History
+
+  [13:01:36] DOCUMENT: History and physical note
+    Status: superseded
+
+  [14:13:36] CLAIM: pharmacy
+    Amount: USD 1.34
+
+  [14:13:36] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2018-10-17
+
+  [02:13:36] VISIT: Encounter for problem (procedure)
+    Provider: Dr. Xochitl483 Haley279
+    Location: ARBOUR HOSPITAL, THE
+    Duration: 02:13:36 - 03:15:36
+
+  [02:13:36] PROCEDURE: Chemotherapy (procedure)
+    Status: completed
+
+  [02:13:36] MEDICATION PRESCRIBED: Unknown medication
+    Status: completed
+    Prescribed by: Dr. Xochitl483 Haley279
+
+  [02:13:36] MEDICATION ADMINISTERED: 10 ML Doxorubicin Hydrochloride 2 MG/ML Injection
+    Status: completed
+
+  [02:13:36] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-10-17
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lynna524 is a 46 year-old nonhispanic white female.
+      # Social History
+
+  [02:13:36] DOCUMENT: History and physical note
+    Status: superseded
+
+  [03:15:36] CLAIM: pharmacy
+    Amount: USD 1.59
+
+  [03:15:36] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2018-11-08
+
+  [18:15:36] VISIT: Encounter for problem (procedure)
+    Provider: Dr. Xochitl483 Haley279
+    Location: ARBOUR HOSPITAL, THE
+    Duration: 18:15:36 - 18:30:36
+
+  [18:15:36] PROCEDURE: Chemotherapy (procedure)
+    Status: completed
+
+  [18:15:36] MEDICATION PRESCRIBED: Unknown medication
+    Status: completed
+    Prescribed by: Dr. Xochitl483 Haley279
+
+  [18:15:36] MEDICATION ADMINISTERED: 10 ML Doxorubicin Hydrochloride 2 MG/ML Injection
+    Status: completed
+
+  [18:15:36] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-11-08
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lynna524 is a 46 year-old nonhispanic white female.
+      # Social History
+
+  [18:15:36] DOCUMENT: History and physical note
+    Status: superseded
+
+  [18:30:36] CLAIM: pharmacy
+    Amount: USD 1.59
+
+  [18:30:36] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2018-12-01
+
+  [00:25:36] VISIT: Encounter for problem (procedure)
+    Provider: Dr. Xochitl483 Haley279
+    Location: ARBOUR HOSPITAL, THE
+    Duration: 00:25:36 - 01:46:36
+
+  [00:25:36] PROCEDURE: Chemotherapy (procedure)
+    Status: completed
+
+  [00:25:36] MEDICATION PRESCRIBED: Unknown medication
+    Status: completed
+    Prescribed by: Dr. Xochitl483 Haley279
+
+  [00:25:36] MEDICATION ADMINISTERED: 10 ML Doxorubicin Hydrochloride 2 MG/ML Injection
+    Status: completed
+
+  [00:25:36] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-12-01
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lynna524 is a 46 year-old nonhispanic white female.
+      # Social History
+
+  [00:25:36] DOCUMENT: History and physical note
+    Status: superseded
+
+  [01:46:36] CLAIM: pharmacy
+    Amount: USD 1.59
+
+  [01:46:36] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2018-12-20
+
+  [12:46:36] VISIT: Encounter for problem (procedure)
+    Provider: Dr. Xochitl483 Haley279
+    Location: ARBOUR HOSPITAL, THE
+    Duration: 12:46:36 - 14:43:36
+
+  [12:46:36] PROCEDURE: Chemotherapy (procedure)
+    Status: completed
+
+  [12:46:36] MEDICATION PRESCRIBED: Unknown medication
+    Status: completed
+    Prescribed by: Dr. Xochitl483 Haley279
+
+  [12:46:36] MEDICATION ADMINISTERED: 10 ML Doxorubicin Hydrochloride 2 MG/ML Injection
+    Status: completed
+
+  [12:46:36] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-12-20
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lynna524 is a 46 year-old nonhispanic white female.
+      # Social History
+
+  [12:46:36] DOCUMENT: History and physical note
+    Status: superseded
+
+  [14:43:36] CLAIM: pharmacy
+    Amount: USD 1.59
+
+  [14:43:36] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2019-01-09
+
+  [18:43:36] VISIT: Encounter for problem (procedure)
+    Provider: Dr. Xochitl483 Haley279
+    Location: ARBOUR HOSPITAL, THE
+    Duration: 18:43:36 - 19:51:36
+
+  [18:43:36] PROCEDURE: Chemotherapy (procedure)
+    Status: completed
+
+  [18:43:36] MEDICATION PRESCRIBED: Unknown medication
+    Status: completed
+    Prescribed by: Dr. Xochitl483 Haley279
+
+  [18:43:36] MEDICATION ADMINISTERED: 10 ML Doxorubicin Hydrochloride 2 MG/ML Injection
+    Status: completed
+
+  [18:43:36] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-01-09
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lynna524 is a 46 year-old nonhispanic white female.
+      # Social History
+
+  [18:43:36] DOCUMENT: History and physical note
+    Status: superseded
+
+  [19:51:36] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [19:51:36] CLAIM: pharmacy
+    Amount: USD 1.59
+
+  [19:51:36] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2019-01-10
+
+  [21:38:04] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Xochitl483 Haley279
+    Location: ARBOUR HOSPITAL, THE
+    Duration: 21:38:04 - 22:00:45
+
+  [21:38:04] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [21:38:04] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-01-10
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lynna524 is a 46 year-old nonhispanic white female.
+      # Social History
+
+  [21:38:04] DOCUMENT: History and physical note
+    Status: superseded
+
+  [22:00:45] CLAIM: professional
+    Amount: USD 1359.90
+
+
+📅 2019-01-12
+
+  [08:30:45] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Xochitl483 Haley279
+    Location: ARBOUR HOSPITAL, THE
+    Duration: 08:30:45 - 09:00:00
+
+  [08:30:45] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [08:30:45] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-01-12
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lynna524 is a 46 year-old nonhispanic white female.
+      # Social History
+
+  [08:30:45] DOCUMENT: History and physical note
+    Status: superseded
+
+  [09:00:00] CLAIM: professional
+    Amount: USD 512.63
+
+
+📅 2019-01-13
+
+  [10:06:00] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Xochitl483 Haley279
+    Location: ARBOUR HOSPITAL, THE
+    Duration: 10:06:00 - 10:35:45
+
+  [10:06:00] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [10:06:00] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-01-13
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lynna524 is a 46 year-old nonhispanic white female.
+      # Social History
+
+  [10:06:00] DOCUMENT: History and physical note
+    Status: superseded
+
+  [10:35:45] CLAIM: professional
+    Amount: USD 1359.90
+
+
+📅 2019-01-14
+
+  [19:35:45] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Xochitl483 Haley279
+    Location: ARBOUR HOSPITAL, THE
+    Duration: 19:35:45 - 20:10:10
+
+  [19:35:45] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [19:35:45] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-01-14
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lynna524 is a 46 year-old nonhispanic white female.
+      # Social History
+
+  [19:35:45] DOCUMENT: History and physical note
+    Status: superseded
+
+  [20:10:10] CLAIM: professional
+    Amount: USD 512.63
+
+
+📅 2019-01-16
+
+  [05:14:10] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Xochitl483 Haley279
+    Location: ARBOUR HOSPITAL, THE
+    Duration: 05:14:10 - 05:40:52
+
+  [05:14:10] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [05:14:10] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-01-16
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lynna524 is a 46 year-old nonhispanic white female.
+      # Social History
+
+  [05:14:10] DOCUMENT: History and physical note
+    Status: superseded
+
+  [05:40:52] CLAIM: professional
+    Amount: USD 1359.90
+
+
+📅 2019-01-17
+
+  [12:59:52] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Xochitl483 Haley279
+    Location: ARBOUR HOSPITAL, THE
+    Duration: 12:59:52 - 13:35:05
+
+  [12:59:52] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [12:59:52] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-01-17
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lynna524 is a 46 year-old nonhispanic white female.
+      # Social History
+
+  [12:59:52] DOCUMENT: History and physical note
+    Status: superseded
+
+  [13:35:05] CLAIM: professional
+    Amount: USD 512.63
+
+
+📅 2019-01-18
+
+  [23:08:05] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Xochitl483 Haley279
+    Location: ARBOUR HOSPITAL, THE
+    Duration: 23:08:05 - 23:42:54
+
+  [23:08:05] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [23:08:05] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-01-18
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lynna524 is a 46 year-old nonhispanic white female.
+      # Social History
+
+  [23:08:05] DOCUMENT: History and physical note
+    Status: superseded
+
+  [23:42:54] CLAIM: professional
+    Amount: USD 512.63
+
+
+📅 2019-01-20
+
+  [06:53:54] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Xochitl483 Haley279
+    Location: ARBOUR HOSPITAL, THE
+    Duration: 06:53:54 - 07:15:07
+
+  [06:53:54] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [06:53:54] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-01-20
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lynna524 is a 46 year-old nonhispanic white female.
+      # Social History
+
+  [06:53:54] DOCUMENT: History and physical note
+    Status: superseded
+
+  [07:15:07] CLAIM: professional
+    Amount: USD 1359.90
+
+
+📅 2019-01-21
+
+  [12:02:07] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Xochitl483 Haley279
+    Location: ARBOUR HOSPITAL, THE
+    Duration: 12:02:07 - 12:28:30
+
+  [12:02:07] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [12:02:07] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-01-21
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lynna524 is a 46 year-old nonhispanic white female.
+      # Social History
+
+  [12:02:07] DOCUMENT: History and physical note
+    Status: superseded
+
+  [12:28:30] CLAIM: professional
+    Amount: USD 1359.90
+
+
+📅 2019-01-22
+
+  [20:11:30] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Xochitl483 Haley279
+    Location: ARBOUR HOSPITAL, THE
+    Duration: 20:11:30 - 20:39:22
+
+  [20:11:30] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [20:11:30] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-01-22
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lynna524 is a 46 year-old nonhispanic white female.
+      # Social History
+
+  [20:11:30] DOCUMENT: History and physical note
+    Status: superseded
+
+  [20:39:22] CLAIM: professional
+    Amount: USD 1359.90
+
+
+📅 2019-01-24
+
+  [00:36:22] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Xochitl483 Haley279
+    Location: ARBOUR HOSPITAL, THE
+    Duration: 00:36:22 - 01:11:07
+
+  [00:36:22] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [00:36:22] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-01-24
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lynna524 is a 46 year-old nonhispanic white female.
+      # Social History
+
+  [00:36:22] DOCUMENT: History and physical note
+    Status: superseded
+
+  [01:11:07] CLAIM: professional
+    Amount: USD 521.56
+
+
+📅 2019-01-25
+
+  [06:39:07] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Xochitl483 Haley279
+    Location: ARBOUR HOSPITAL, THE
+    Duration: 06:39:07 - 07:09:25
+
+  [06:39:07] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [06:39:07] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-01-25
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lynna524 is a 46 year-old nonhispanic white female.
+      # Social History
+
+  [06:39:07] DOCUMENT: History and physical note
+    Status: superseded
+
+  [07:09:25] CLAIM: professional
+    Amount: USD 1359.90
+
+
+📅 2019-01-26
+
+  [08:54:25] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Xochitl483 Haley279
+    Location: ARBOUR HOSPITAL, THE
+    Duration: 08:54:25 - 09:26:40
+
+  [08:54:25] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [08:54:25] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-01-26
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lynna524 is a 46 year-old nonhispanic white female.
+      # Social History
+
+  [08:54:25] DOCUMENT: History and physical note
+    Status: superseded
+
+  [09:26:40] CLAIM: professional
+    Amount: USD 1359.90
+
+
+📅 2019-01-27
+
+  [14:33:40] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Xochitl483 Haley279
+    Location: ARBOUR HOSPITAL, THE
+    Duration: 14:33:40 - 15:13:07
+
+  [14:33:40] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [14:33:40] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-01-27
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lynna524 is a 46 year-old nonhispanic white female.
+      # Social History
+
+  [14:33:40] DOCUMENT: History and physical note
+    Status: superseded
+
+  [15:13:07] CLAIM: professional
+    Amount: USD 944.74
+
+
+📅 2019-01-28
+
+  [22:13:07] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Xochitl483 Haley279
+    Location: ARBOUR HOSPITAL, THE
+    Duration: 22:13:07 - 22:32:46
+
+  [22:13:07] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [22:13:07] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-01-28
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lynna524 is a 46 year-old nonhispanic white female.
+      # Social History
+
+  [22:13:07] DOCUMENT: History and physical note
+    Status: superseded
+
+  [22:32:46] CLAIM: professional
+    Amount: USD 512.63
+
+
+📅 2019-01-30
+
+  [08:29:46] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Xochitl483 Haley279
+    Location: ARBOUR HOSPITAL, THE
+    Duration: 08:29:46 - 09:07:52
+
+  [08:29:46] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [08:29:46] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-01-30
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lynna524 is a 46 year-old nonhispanic white female.
+      # Social History
+
+  [08:29:46] DOCUMENT: History and physical note
+    Status: superseded
+
+  [09:07:52] CLAIM: professional
+    Amount: USD 512.63
+
+
+📅 2019-01-31
+
+  [20:02:52] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Xochitl483 Haley279
+    Location: ARBOUR HOSPITAL, THE
+    Duration: 20:02:52 - 20:18:18
+
+  [20:02:52] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [20:02:52] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-01-31
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lynna524 is a 46 year-old nonhispanic white female.
+      # Social History
+
+  [20:02:52] DOCUMENT: History and physical note
+    Status: superseded
+
+  [20:18:18] CLAIM: professional
+    Amount: USD 512.63
+
+
+📅 2019-02-02
+
+  [04:57:18] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Xochitl483 Haley279
+    Location: ARBOUR HOSPITAL, THE
+    Duration: 04:57:18 - 05:28:09
+
+  [04:57:18] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [04:57:18] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-02-02
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lynna524 is a 46 year-old nonhispanic white female.
+      # Social History
+
+  [04:57:18] DOCUMENT: History and physical note
+    Status: superseded
+
+  [05:28:09] CLAIM: professional
+    Amount: USD 532.64
+
+
+📅 2019-02-03
+
+  [16:42:09] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Xochitl483 Haley279
+    Location: ARBOUR HOSPITAL, THE
+    Duration: 16:42:09 - 17:15:27
+
+  [16:42:09] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [16:42:09] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-02-03
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lynna524 is a 46 year-old nonhispanic white female.
+      # Social History
+
+  [16:42:09] DOCUMENT: History and physical note
+    Status: superseded
+
+  [17:15:27] CLAIM: professional
+    Amount: USD 1359.90
+
+
+📅 2019-02-04
+
+  [18:35:27] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Xochitl483 Haley279
+    Location: ARBOUR HOSPITAL, THE
+    Duration: 18:35:27 - 18:56:26
+
+  [18:35:27] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [18:35:27] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-02-04
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lynna524 is a 46 year-old nonhispanic white female.
+      # Social History
+
+  [18:35:27] DOCUMENT: History and physical note
+    Status: superseded
+
+  [18:56:26] CLAIM: professional
+    Amount: USD 512.63
+
+
+📅 2019-02-05
+
+  [23:45:26] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Xochitl483 Haley279
+    Location: ARBOUR HOSPITAL, THE
+    Duration: 23:45:26 - 00:20:01
+
+  [23:45:26] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [23:45:26] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-02-05
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lynna524 is a 46 year-old nonhispanic white female.
+      # Social History
+
+  [23:45:26] DOCUMENT: History and physical note
+    Status: superseded
+
+
+📅 2019-02-06
+
+  [00:20:01] CLAIM: professional
+    Amount: USD 1250.35
+
+
+📅 2019-02-07
+
+  [01:28:01] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Xochitl483 Haley279
+    Location: ARBOUR HOSPITAL, THE
+    Duration: 01:28:01 - 01:44:07
+
+  [01:28:01] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [01:28:01] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-02-07
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lynna524 is a 46 year-old nonhispanic white female.
+      # Social History
+
+  [01:28:01] DOCUMENT: History and physical note
+    Status: superseded
+
+  [01:44:07] CLAIM: professional
+    Amount: USD 1166.18
+
+
+📅 2019-02-08
+
+  [07:47:07] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Xochitl483 Haley279
+    Location: ARBOUR HOSPITAL, THE
+    Duration: 07:47:07 - 08:14:31
+
+  [07:47:07] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [07:47:07] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-02-08
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lynna524 is a 46 year-old nonhispanic white female.
+      # Social History
+
+  [07:47:07] DOCUMENT: History and physical note
+    Status: superseded
+
+  [08:14:31] CLAIM: professional
+    Amount: USD 1027.45
+
+
+📅 2019-02-09
+
+  [12:47:31] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Xochitl483 Haley279
+    Location: ARBOUR HOSPITAL, THE
+    Duration: 12:47:31 - 13:16:35
+
+  [12:47:31] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [12:47:31] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-02-09
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lynna524 is a 46 year-old nonhispanic white female.
+      # Social History
+
+  [12:47:31] DOCUMENT: History and physical note
+    Status: superseded
+
+  [13:16:35] CLAIM: professional
+    Amount: USD 512.63
+
+
+📅 2019-02-10
+
+  [19:47:35] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Xochitl483 Haley279
+    Location: ARBOUR HOSPITAL, THE
+    Duration: 19:47:35 - 20:25:45
+
+  [19:47:35] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [19:47:35] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-02-10
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lynna524 is a 46 year-old nonhispanic white female.
+      # Social History
+
+  [19:47:35] DOCUMENT: History and physical note
+    Status: superseded
+
+  [20:25:45] CLAIM: professional
+    Amount: USD 1235.19
+
+
+📅 2019-02-12
+
+  [03:31:45] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Xochitl483 Haley279
+    Location: ARBOUR HOSPITAL, THE
+    Duration: 03:31:45 - 04:09:18
+
+  [03:31:45] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [03:31:45] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-02-12
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lynna524 is a 46 year-old nonhispanic white female.
+      # Social History
+
+  [03:31:45] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:09:18] CLAIM: professional
+    Amount: USD 1359.90
+
+
+📅 2019-02-13
+
+  [13:07:18] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Xochitl483 Haley279
+    Location: ARBOUR HOSPITAL, THE
+    Duration: 13:07:18 - 13:25:13
+
+  [13:07:18] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [13:07:18] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-02-13
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lynna524 is a 46 year-old nonhispanic white female.
+      # Social History
+
+  [13:07:18] DOCUMENT: History and physical note
+    Status: superseded
+
+  [13:25:13] CLAIM: professional
+    Amount: USD 512.63
+
+
+📅 2019-02-14
+
+  [15:36:13] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Xochitl483 Haley279
+    Location: ARBOUR HOSPITAL, THE
+    Duration: 15:36:13 - 15:52:44
+
+  [15:36:13] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [15:36:13] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-02-14
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lynna524 is a 46 year-old nonhispanic white female.
+      # Social History
+
+  [15:36:13] DOCUMENT: History and physical note
+    Status: superseded
+
+  [15:52:44] CLAIM: professional
+    Amount: USD 1270.11
+
+
+📅 2019-02-15
+
+  [22:56:44] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Xochitl483 Haley279
+    Location: ARBOUR HOSPITAL, THE
+    Duration: 22:56:44 - 23:31:23
+
+  [22:56:44] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [22:56:44] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-02-15
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lynna524 is a 46 year-old nonhispanic white female.
+      # Social History
+
+  [22:56:44] DOCUMENT: History and physical note
+    Status: superseded
+
+  [23:31:23] CLAIM: professional
+    Amount: USD 1041.23
+
+
+📅 2019-02-16
+
+  [23:54:23] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Xochitl483 Haley279
+    Location: ARBOUR HOSPITAL, THE
+    Duration: 23:54:23 - 00:31:20
+
+  [23:54:23] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [23:54:23] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-02-16
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lynna524 is a 46 year-old nonhispanic white female.
+      # Social History
+
+  [23:54:23] DOCUMENT: History and physical note
+    Status: superseded
+
+
+📅 2019-02-17
+
+  [00:31:20] CLAIM: professional
+    Amount: USD 1182.58
+
+
+📅 2019-02-18
+
+  [08:44:20] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Xochitl483 Haley279
+    Location: ARBOUR HOSPITAL, THE
+    Duration: 08:44:20 - 09:09:20
+
+  [08:44:20] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [08:44:20] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-02-18
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lynna524 is a 46 year-old nonhispanic white female.
+      # Social History
+
+  [08:44:20] DOCUMENT: History and physical note
+    Status: superseded
+
+  [09:09:20] CLAIM: professional
+    Amount: USD 524.84
+
+
+📅 2019-02-19
+
+  [09:50:20] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Xochitl483 Haley279
+    Location: ARBOUR HOSPITAL, THE
+    Duration: 09:50:20 - 10:16:36
+
+  [09:50:20] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [09:50:20] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-02-19
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lynna524 is a 46 year-old nonhispanic white female.
+      # Social History
+
+  [09:50:20] DOCUMENT: History and physical note
+    Status: superseded
+
+  [10:16:36] CLAIM: professional
+    Amount: USD 1359.90
+
+
+📅 2019-02-20
+
+  [19:45:36] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Xochitl483 Haley279
+    Location: ARBOUR HOSPITAL, THE
+    Duration: 19:45:36 - 20:21:32
+
+  [19:45:36] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [19:45:36] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-02-20
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lynna524 is a 46 year-old nonhispanic white female.
+      # Social History
+
+  [19:45:36] DOCUMENT: History and physical note
+    Status: superseded
+
+  [20:21:32] CLAIM: professional
+    Amount: USD 1359.90
+
+
+📅 2019-02-26
+
+  [22:21:32] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Xochitl483 Haley279
+    Location: ARBOUR HOSPITAL, THE
+    Duration: 22:21:32 - 22:36:32
+
+  [22:21:32] OBSERVATION: Treatment status Cancer: Treatment changed (situation)
+
+  [22:21:32] OBSERVATION: Response to cancer treatment: Improving (qualifier value)
+
+  [22:21:32] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-02-26
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lynna524 is a 46 year-old nonhispanic white female.
+      # Social History
+
+  [22:21:32] DOCUMENT: History and physical note
+    Status: superseded
+
+  [22:36:32] CLAIM: professional
+    Amount: USD 85.55
+
+
+📅 2019-06-09
+
+  [23:21:32] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Xochitl483 Haley279
+    Location: ARBOUR HOSPITAL, THE
+    Duration: 23:21:32 - 00:04:07
+
+  [23:21:32] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [23:21:32] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-06-09
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lynna524 is a 47 year-old nonhispanic white female.
+      # Social History
+
+  [23:21:32] DOCUMENT: History and physical note
+    Status: superseded
+
+
+📅 2019-06-10
+
+  [00:04:07] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2019-10-07
+
+  [00:04:07] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Xochitl483 Haley279
+    Location: ARBOUR HOSPITAL, THE
+    Duration: 00:04:07 - 00:36:21
+
+  [00:04:07] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [00:04:07] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-10-07
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lynna524 is a 47 year-old nonhispanic white female.
+      # Social History
+
+  [00:04:07] DOCUMENT: History and physical note
+    Status: superseded
+
+  [00:36:21] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2020-02-08
+
+  [23:36:21] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Xochitl483 Haley279
+    Location: ARBOUR HOSPITAL, THE
+    Duration: 23:36:21 - 00:06:51
+
+  [23:36:21] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [23:36:21] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-02-08
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lynna524 is a 47 year-old nonhispanic white female.
+      # Social History
+
+  [23:36:21] DOCUMENT: History and physical note
+    Status: superseded
+
+
+📅 2020-02-09
+
+  [00:06:51] CLAIM: professional
+    Amount: USD 573.98
+
+  [00:06:51] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Xochitl483 Haley279
+    Location: ARBOUR HOSPITAL, THE
+    Duration: 00:06:51 - 00:23:06
+
+  [00:06:51] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [00:06:51] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-02-09
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lynna524 is a 47 year-old nonhispanic white female.
+      # Social History
+
+  [00:06:51] DOCUMENT: History and physical note
+    Status: superseded
+
+  [00:23:06] OBSERVATION: Response to cancer treatment: Improving (qualifier value)
+
+  [00:23:06] CLAIM: professional
+    Amount: USD 310.68
+
+
+📅 2020-06-12
+
+  [01:23:06] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Xochitl483 Haley279
+    Location: ARBOUR HOSPITAL, THE
+    Duration: 01:23:06 - 01:59:21
+
+  [01:23:06] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [01:23:06] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-06-12
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lynna524 is a 48 year-old nonhispanic white female.
+      # Social History
+
+  [01:23:06] DOCUMENT: History and physical note
+    Status: superseded
+
+  [01:59:21] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2020-07-01
+
+  [03:33:58] VISIT: General examination of patient (procedure)
+    Provider: Dr. Bryon392 Mills423
+    Location: DEARBORN WELLNESS, LLC
+    Duration: 03:33:58 - 03:48:58
+
+  [03:33:58] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [03:33:58] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-07-01
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lynna524 is a 48 year-old nonhispanic white female.
+      # Social History
+
+  [03:33:58] DOCUMENT: History and physical note
+    Status: superseded
+
+  [03:48:58] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2020-09-25
+
+  [01:59:21] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Xochitl483 Haley279
+    Location: ARBOUR HOSPITAL, THE
+    Duration: 01:59:21 - 02:34:26
+
+  [01:59:21] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [01:59:21] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-09-25
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lynna524 is a 48 year-old nonhispanic white female.
+      # Social History
+
+  [01:59:21] DOCUMENT: History and physical note
+    Status: superseded
+
+  [02:34:26] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2021-01-26
+
+  [01:34:26] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Xochitl483 Haley279
+    Location: ARBOUR HOSPITAL, THE
+    Duration: 01:34:26 - 02:06:54
+
+  [01:34:26] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [01:34:26] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-01-26
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lynna524 is a 48 year-old nonhispanic white female.
+      # Social History
+
+  [01:34:26] DOCUMENT: History and physical note
+    Status: superseded
+
+  [02:06:54] CLAIM: professional
+    Amount: USD 573.98
+
+  [02:06:54] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Xochitl483 Haley279
+    Location: ARBOUR HOSPITAL, THE
+    Duration: 02:06:54 - 02:25:01
+
+  [02:06:54] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [02:06:54] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-01-26
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lynna524 is a 48 year-old nonhispanic white female.
+      # Social History
+
+  [02:06:54] DOCUMENT: History and physical note
+    Status: superseded
+
+  [02:25:01] OBSERVATION: Response to cancer treatment: Improving (qualifier value)
+
+  [02:25:01] CLAIM: professional
+    Amount: USD 211.60
+
+
+📅 2021-04-07
+
+  [03:33:58] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Margaret865 Reinger292
+    Location: CARNEY HOSPITAL
+    Duration: 03:33:58 - 03:48:58
+
+  [03:33:58] IMMUNIZATION: COVID-19 vaccine, vector-nr, rS-Ad26, PF, 0.5 mL
+    Status: completed
+
+  [03:33:58] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-04-07
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lynna524 is a 48 year-old nonhispanic white female.
+      # Social History
+
+  [03:33:58] DOCUMENT: History and physical note
+    Status: superseded
+
+  [03:48:58] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-05-10
+
+  [03:25:01] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Xochitl483 Haley279
+    Location: ARBOUR HOSPITAL, THE
+    Duration: 03:25:01 - 04:04:45
+
+  [03:25:01] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [03:25:01] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-05-10
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lynna524 is a 48 year-old nonhispanic white female.
+      # Social History
+
+  [03:25:01] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:04:45] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2021-08-22
+
+  [04:04:45] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Xochitl483 Haley279
+    Location: ARBOUR HOSPITAL, THE
+    Duration: 04:04:45 - 04:43:24
+
+  [04:04:45] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [04:04:45] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-08-22
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lynna524 is a 49 year-old nonhispanic white female.
+      # Social History
+
+  [04:04:45] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:43:24] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2021-12-13
+
+  [03:43:24] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Xochitl483 Haley279
+    Location: ARBOUR HOSPITAL, THE
+    Duration: 03:43:24 - 04:23:51
+
+  [03:43:24] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [03:43:24] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-12-13
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lynna524 is a 49 year-old nonhispanic white female.
+      # Social History
+
+  [03:43:24] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:23:51] CLAIM: professional
+    Amount: USD 573.98
+
+  [04:23:51] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Xochitl483 Haley279
+    Location: ARBOUR HOSPITAL, THE
+    Duration: 04:23:51 - 04:47:52
+
+  [04:23:51] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [04:23:51] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-12-13
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lynna524 is a 49 year-old nonhispanic white female.
+      # Social History
+
+  [04:23:51] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:47:52] OBSERVATION: Response to cancer treatment: Improving (qualifier value)
+
+  [04:47:52] CLAIM: professional
+    Amount: USD 238.34
+
+
+📅 2022-04-09
+
+  [05:47:52] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Xochitl483 Haley279
+    Location: ARBOUR HOSPITAL, THE
+    Duration: 05:47:52 - 06:28:46
+
+  [05:47:52] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [05:47:52] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-04-09
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lynna524 is a 49 year-old nonhispanic white female.
+      # Social History
+
+  [05:47:52] DOCUMENT: History and physical note
+    Status: superseded
+
+  [06:28:46] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2022-06-08
+
+  [03:33:58] VISIT: General examination of patient (procedure)
+    Provider: Dr. Bryon392 Mills423
+    Location: DEARBORN WELLNESS, LLC
+    Duration: 03:33:58 - 03:48:58
+
+  [03:33:58] IMMUNIZATION: zoster vaccine, live
+    Status: completed
+
+  [03:33:58] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [03:33:58] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-06-08
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lynna524 is a 50 year-old nonhispanic white female.
+      # Social History
+
+  [03:33:58] DOCUMENT: History and physical note
+    Status: superseded
+
+  [03:48:58] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2022-07-27
+
+  [06:28:46] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Xochitl483 Haley279
+    Location: ARBOUR HOSPITAL, THE
+    Duration: 06:28:46 - 07:04:06
+
+  [06:28:46] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [06:28:46] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-07-27
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lynna524 is a 50 year-old nonhispanic white female.
+      # Social History
+
+  [06:28:46] DOCUMENT: History and physical note
+    Status: superseded
+
+  [07:04:06] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2022-11-03
+
+  [07:04:06] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Xochitl483 Haley279
+    Location: ARBOUR HOSPITAL, THE
+    Duration: 07:04:06 - 07:40:58
+
+  [07:04:06] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [07:04:06] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-11-03
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lynna524 is a 50 year-old nonhispanic white female.
+      # Social History
+
+  [07:04:06] DOCUMENT: History and physical note
+    Status: superseded
+
+  [07:40:58] CLAIM: professional
+    Amount: USD 573.98
+
+  [07:40:58] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Xochitl483 Haley279
+    Location: ARBOUR HOSPITAL, THE
+    Duration: 07:40:58 - 08:00:27
+
+  [07:40:58] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [07:40:58] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-11-03
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lynna524 is a 50 year-old nonhispanic white female.
+      # Social History
+
+  [07:40:58] DOCUMENT: History and physical note
+    Status: superseded
+
+  [08:00:27] OBSERVATION: Response to cancer treatment: Improving (qualifier value)
+
+  [08:00:27] CLAIM: professional
+    Amount: USD 325.49
+
+
+📅 2023-02-20
+
+  [07:00:27] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Xochitl483 Haley279
+    Location: ARBOUR HOSPITAL, THE
+    Duration: 07:00:27 - 07:42:22
+
+  [07:00:27] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [07:00:27] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-02-20
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lynna524 is a 50 year-old nonhispanic white female.
+      # Social History
+
+  [07:00:27] DOCUMENT: History and physical note
+    Status: superseded
+
+  [07:42:22] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2023-06-01
+
+  [08:42:22] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Xochitl483 Haley279
+    Location: Patient's Home
+    Duration: 08:42:22 - 09:14:08
+
+  [08:42:22] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [08:42:22] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-06-01
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lynna524 is a 50 year-old nonhispanic white female.
+      # Social History
+
+  [08:42:22] DOCUMENT: History and physical note
+    Status: superseded
+
+  [09:14:08] CLAIM: institutional
+    Amount: USD 556.40
+
+
+📅 2023-06-14
+
+  [03:33:58] VISIT: General examination of patient (procedure)
+    Provider: Dr. Bryon392 Mills423
+    Location: DEARBORN WELLNESS, LLC
+    Duration: 03:33:58 - 03:48:58
+
+  [03:33:58] IMMUNIZATION: zoster vaccine, live
+    Status: completed
+
+  [03:33:58] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [03:33:58] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [03:33:58] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-06-14
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lynna524 is a 51 year-old nonhispanic white female.
+      # Social History
+
+  [03:33:58] DOCUMENT: History and physical note
+    Status: superseded
+
+  [03:48:58] CLAIM: professional
+    Amount: USD 544.80
+
+
+📅 2023-09-10
+
+  [09:14:08] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Xochitl483 Haley279
+    Location: ARBOUR HOSPITAL, THE
+    Duration: 09:14:08 - 09:53:53
+
+  [09:14:08] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [09:14:08] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-09-10
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lynna524 is a 51 year-old nonhispanic white female.
+      # Social History
+
+  [09:14:08] DOCUMENT: History and physical note
+    Status: superseded
+
+  [09:53:53] CLAIM: professional
+    Amount: USD 573.98
+
+  [09:53:53] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Xochitl483 Haley279
+    Location: ARBOUR HOSPITAL, THE
+    Duration: 09:53:53 - 10:12:17
+
+  [09:53:53] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [09:53:53] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-09-10
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lynna524 is a 51 year-old nonhispanic white female.
+      # Social History
+
+  [09:53:53] DOCUMENT: History and physical note
+    Status: superseded
+
+  [10:12:17] CLAIM: professional
+    Amount: USD 325.49
+
+
+📅 2024-06-19
+
+  [03:33:58] VISIT: General examination of patient (procedure)
+    Provider: Dr. Bryon392 Mills423
+    Location: DEARBORN WELLNESS, LLC
+    Duration: 03:33:58 - 03:48:58
+
+  [03:33:58] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [03:33:58] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-06-19
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lynna524 is a 52 year-old nonhispanic white female.
+      # Social History
+
+  [03:33:58] DOCUMENT: History and physical note
+    Status: superseded
+
+  [03:48:58] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2024-08-24
+
+  [10:12:17] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Xochitl483 Haley279
+    Location: ARBOUR HOSPITAL, THE
+    Duration: 10:12:17 - 10:43:44
+
+  [10:12:17] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [10:12:17] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-08-24
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lynna524 is a 52 year-old nonhispanic white female.
+      # Social History
+
+  [10:12:17] DOCUMENT: History and physical note
+    Status: superseded
+
+  [10:43:44] CLAIM: professional
+    Amount: USD 573.98
+
+  [10:43:44] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Xochitl483 Haley279
+    Location: ARBOUR HOSPITAL, THE
+    Duration: 10:43:44 - 11:00:08
+
+  [10:43:44] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [10:43:44] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-08-24
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lynna524 is a 52 year-old nonhispanic white female.
+      # Social History
+
+  [10:43:44] DOCUMENT: History and physical note
+    Status: superseded
+
+  [11:00:08] CLAIM: professional
+    Amount: USD 211.60
+
+
+📅 2025-06-25
+
+  [03:33:58] VISIT: General examination of patient (procedure)
+    Provider: Dr. Bryon392 Mills423
+    Location: DEARBORN WELLNESS, LLC
+    Duration: 03:33:58 - 03:48:58
+
+  [03:33:58] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [03:33:58] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-06-25
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lynna524 is a 53 year-old nonhispanic white female.
+      # Social History
+
+  [03:33:58] DOCUMENT: History and physical note
+    Status: superseded
+
+  [03:48:58] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2025-09-17
+
+  [11:00:08] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Xochitl483 Haley279
+    Location: ARBOUR HOSPITAL, THE
+    Duration: 11:00:08 - 11:33:34
+
+  [11:00:08] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [11:00:08] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-09-17
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lynna524 is a 53 year-old nonhispanic white female.
+      # Social History
+
+  [11:00:08] DOCUMENT: History and physical note
+    Status: superseded
+
+  [11:33:34] CLAIM: professional
+    Amount: USD 573.98
+
+  [11:33:34] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Xochitl483 Haley279
+    Location: ARBOUR HOSPITAL, THE
+    Duration: 11:33:34 - 11:51:36
+
+  [11:33:34] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [11:33:34] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-09-17
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lynna524 is a 53 year-old nonhispanic white female.
+      # Social History
+
+  [11:33:34] DOCUMENT: History and physical note
+    Status: current
+
+  [11:51:36] CLAIM: professional
+    Amount: USD 211.60
+
+
+📅 2026-02-11
+
+  [02:33:58] PROVENANCE: Record activity
+    Agents: Dr. Xochitl483 Haley279, Dr. Xochitl483 Haley279
+
+================================================================================
+END OF TIMELINE (503 events)
+================================================================================

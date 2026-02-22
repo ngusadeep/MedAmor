@@ -1,0 +1,2661 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Mrs. Inocencia535 Bea654 Hartmann983
+  Patient ID: 62864
+  Date of Birth: 1958-05-10
+  Gender: Female
+  Race: White
+  Ethnicity: Not Hispanic or Latino
+  Marital Status: Divorced
+  Address: 526 Effertz Dale Suite 18, Carver, MA 00000
+  Phone: 555-438-7171
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2016-05-16
+
+  [06:50:50] VISIT: Periodic reevaluation and management of healthy individual (procedure)
+    Reason: Screening for malignant neoplasm of breast (procedure)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 06:50:50 - 14:07:05
+
+  [06:50:50] PROCEDURE: Screening mammography (procedure)
+    Status: completed
+
+  [06:50:50] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-05-16
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Inocencia535 Bea654 is a 58 year-old nonhispanic white female.
+      # Social History
+
+  [06:50:50] DOCUMENT: History and physical note
+    Status: superseded
+
+  [07:11:20] PROCEDURE: Ultrasonography of bilateral breasts (procedure)
+    Status: completed
+
+  [07:35:31] PROCEDURE: Biopsy of breast (procedure)
+    Status: completed
+
+  [08:05:05] CONDITION: Malignant neoplasm of breast (disorder) (active)
+
+  [08:05:05] OBSERVATION: Site of distant metastasis in Breast tumor: None (qualifier value)
+
+  [08:05:05] OBSERVATION: Distant metastases.clinical [Class] Cancer: American Joint Committee on Cancer cM0 (qualifier value)
+
+  [08:05:05] OBSERVATION: Size.maximum dimension in Tumor: 3.3371 cm
+
+  [08:05:05] OBSERVATION: Primary tumor.clinical [Class] Cancer: American Joint Committee on Cancer cT2 (qualifier value)
+
+  [08:05:05] OBSERVATION: Lymph nodes with macrometastases [#] in Cancer specimen by Light microscopy: 27.541 {#}
+
+  [08:05:05] OBSERVATION: Regional lymph nodes.clinical [Class] Cancer: American Joint Committee on Cancer cN3 (qualifier value)
+
+  [08:05:05] PROCEDURE: Human epidermal growth factor receptor 2 gene detection by fluorescence in situ hybridization (procedure)
+    Status: completed
+
+
+📅 2016-05-17
+
+  [12:05:05] PROCEDURE: Human epidermal growth factor receptor 2 gene detection by immunohistochemistry (procedure)
+    Status: completed
+
+  [14:07:05] OBSERVATION: HER2 [Presence] in Breast cancer specimen by Immune stain: Negative (qualifier value)
+
+  [14:07:05] OBSERVATION: ERBB2 gene duplication [Presence] in Breast cancer specimen by FISH: less than 1.8
+
+  [14:07:05] OBSERVATION: Estrogen receptor Ag [Presence] in Breast cancer specimen by Immune stain: Positive (qualifier value)
+
+  [14:07:05] OBSERVATION: Progesterone receptor Ag [Presence] in Breast cancer specimen by Immune stain: Negative (qualifier value)
+
+  [14:07:05] OBSERVATION: Stage group.clinical Cancer: American Joint Committee on Cancer stage IIIC (qualifier value)
+
+  [14:07:05] OBSERVATION: Stage group.clinical Cancer: Stage 3 (qualifier value)
+
+  [14:07:05] CLAIM: professional
+    Amount: USD 5195.96
+
+
+📅 2016-05-23
+
+  [05:07:05] VISIT: Discussion about treatment (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 05:07:05 - 06:05:44
+
+  [05:07:05] PROCEDURE: Discussion about options (procedure)
+    Status: completed
+
+  [05:07:05] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-05-23
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Inocencia535 Bea654 is a 58 year-old nonhispanic white female.
+      # Social History
+
+  [05:07:05] DOCUMENT: History and physical note
+    Status: superseded
+
+  [06:05:44] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2016-05-24
+
+  [12:05:44] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 12:05:44 - 15:22:14
+
+  [12:05:44] PROCEDURE: Chemotherapy (procedure)
+    Status: completed
+
+  [12:05:44] MEDICATION PRESCRIBED: Unknown medication
+    Status: completed
+    Prescribed by: Dr. Harland508 Ryan260
+
+  [12:05:44] MEDICATION ADMINISTERED: Paclitaxel 100 MG Injection
+    Status: completed
+
+  [12:05:44] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-05-24
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Inocencia535 Bea654 is a 58 year-old nonhispanic white female.
+      # Social History
+
+  [12:05:44] DOCUMENT: History and physical note
+    Status: superseded
+
+  [15:22:14] CLAIM: pharmacy
+    Amount: USD 0.91
+
+  [15:22:14] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2016-06-13
+
+  [00:22:14] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 00:22:14 - 02:10:28
+
+  [00:22:14] PROCEDURE: Chemotherapy (procedure)
+    Status: completed
+
+  [00:22:14] MEDICATION PRESCRIBED: Unknown medication
+    Status: completed
+    Prescribed by: Dr. Harland508 Ryan260
+
+  [00:22:14] MEDICATION ADMINISTERED: Paclitaxel 100 MG Injection
+    Status: completed
+
+  [00:22:14] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-06-13
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Inocencia535 Bea654 is a 58 year-old nonhispanic white female.
+      # Social History
+
+  [00:22:14] DOCUMENT: History and physical note
+    Status: superseded
+
+  [02:10:28] CLAIM: pharmacy
+    Amount: USD 0.91
+
+  [02:10:28] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2016-06-25
+
+  [06:50:50] VISIT: General examination of patient (procedure)
+    Provider: Dr. Sharyl439 Williamson769
+    Location: COMPASSIONATE HEALTH CARE GROUP LLC
+    Duration: 06:50:50 - 07:05:50
+
+  [06:50:50] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [06:50:50] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-06-25
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Inocencia535 Bea654 is a 58 year-old nonhispanic white female.
+      # Social History
+
+  [06:50:50] DOCUMENT: History and physical note
+    Status: superseded
+
+  [07:05:50] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2016-07-05
+
+  [20:10:28] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 20:10:28 - 23:42:47
+
+  [20:10:28] PROCEDURE: Chemotherapy (procedure)
+    Status: completed
+
+  [20:10:28] MEDICATION PRESCRIBED: Unknown medication
+    Status: completed
+    Prescribed by: Dr. Harland508 Ryan260
+
+  [20:10:28] MEDICATION ADMINISTERED: Paclitaxel 100 MG Injection
+    Status: completed
+
+  [20:10:28] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-07-05
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Inocencia535 Bea654 is a 58 year-old nonhispanic white female.
+      # Social History
+
+  [20:10:28] DOCUMENT: History and physical note
+    Status: superseded
+
+  [23:42:47] CLAIM: pharmacy
+    Amount: USD 1.65
+
+  [23:42:47] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2016-07-25
+
+  [12:42:47] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 12:42:47 - 13:37:00
+
+  [12:42:47] PROCEDURE: Chemotherapy (procedure)
+    Status: completed
+
+  [12:42:47] MEDICATION PRESCRIBED: Unknown medication
+    Status: completed
+    Prescribed by: Dr. Harland508 Ryan260
+
+  [12:42:47] MEDICATION ADMINISTERED: Paclitaxel 100 MG Injection
+    Status: completed
+
+  [12:42:47] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-07-25
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Inocencia535 Bea654 is a 58 year-old nonhispanic white female.
+      # Social History
+
+  [12:42:47] DOCUMENT: History and physical note
+    Status: superseded
+
+  [13:37:00] CLAIM: pharmacy
+    Amount: USD 2.75
+
+  [13:37:00] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2016-08-15
+
+  [11:37:00] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 11:37:00 - 14:34:18
+
+  [11:37:00] PROCEDURE: Chemotherapy (procedure)
+    Status: completed
+
+  [11:37:00] MEDICATION PRESCRIBED: Unknown medication
+    Status: completed
+    Prescribed by: Dr. Harland508 Ryan260
+
+  [11:37:00] MEDICATION ADMINISTERED: Paclitaxel 100 MG Injection
+    Status: completed
+
+  [11:37:00] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-08-15
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Inocencia535 Bea654 is a 58 year-old nonhispanic white female.
+      # Social History
+
+  [11:37:00] DOCUMENT: History and physical note
+    Status: superseded
+
+  [14:34:18] CLAIM: pharmacy
+    Amount: USD 3.65
+
+  [14:34:18] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2016-09-05
+
+  [13:34:18] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 13:34:18 - 15:47:22
+
+  [13:34:18] PROCEDURE: Chemotherapy (procedure)
+    Status: completed
+
+  [13:34:18] MEDICATION PRESCRIBED: Unknown medication
+    Status: completed
+    Prescribed by: Dr. Harland508 Ryan260
+
+  [13:34:18] MEDICATION ADMINISTERED: Paclitaxel 100 MG Injection
+    Status: completed
+
+  [13:34:18] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-09-05
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Inocencia535 Bea654 is a 58 year-old nonhispanic white female.
+      # Social History
+
+  [13:34:18] DOCUMENT: History and physical note
+    Status: superseded
+
+  [15:47:22] CLAIM: pharmacy
+    Amount: USD 0.91
+
+  [15:47:22] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2016-09-25
+
+  [20:47:22] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 20:47:22 - 00:10:45
+
+  [20:47:22] PROCEDURE: Chemotherapy (procedure)
+    Status: completed
+
+  [20:47:22] MEDICATION PRESCRIBED: Unknown medication
+    Status: completed
+    Prescribed by: Dr. Harland508 Ryan260
+
+  [20:47:22] MEDICATION ADMINISTERED: Paclitaxel 100 MG Injection
+    Status: completed
+
+  [20:47:22] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-09-25
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Inocencia535 Bea654 is a 58 year-old nonhispanic white female.
+      # Social History
+
+  [20:47:22] DOCUMENT: History and physical note
+    Status: superseded
+
+
+📅 2016-09-26
+
+  [00:10:45] CLAIM: pharmacy
+    Amount: USD 0.91
+
+  [00:10:45] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2016-10-17
+
+  [09:10:45] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 09:10:45 - 11:49:05
+
+  [09:10:45] PROCEDURE: Chemotherapy (procedure)
+    Status: completed
+
+  [09:10:45] MEDICATION PRESCRIBED: Unknown medication
+    Status: completed
+    Prescribed by: Dr. Harland508 Ryan260
+
+  [09:10:45] MEDICATION ADMINISTERED: Paclitaxel 100 MG Injection
+    Status: completed
+
+  [09:10:45] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-10-17
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Inocencia535 Bea654 is a 58 year-old nonhispanic white female.
+      # Social History
+
+  [09:10:45] DOCUMENT: History and physical note
+    Status: superseded
+
+  [11:49:05] CLAIM: pharmacy
+    Amount: USD 3.65
+
+  [11:49:05] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2016-11-09
+
+  [10:49:05] OBSERVATION: Response to cancer treatment: Improving (qualifier value)
+
+  [10:49:05] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 10:49:05 - 13:00:56
+
+  [10:49:05] PROCEDURE: Excision of axillary lymph node (procedure)
+    Status: completed
+
+  [10:49:05] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-11-09
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Inocencia535 Bea654 is a 58 year-old nonhispanic white female.
+      # Social History
+
+  [10:49:05] DOCUMENT: History and physical note
+    Status: superseded
+
+  [12:45:39] PROCEDURE: Lumpectomy of breast (procedure)
+    Status: completed
+
+
+📅 2016-11-13
+
+  [13:00:56] CLAIM: institutional
+    Amount: USD 26290.82
+
+
+📅 2016-11-20
+
+  [09:00:56] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 09:00:56 - 09:26:57
+
+  [09:00:56] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [09:00:56] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-11-20
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Inocencia535 Bea654 is a 58 year-old nonhispanic white female.
+      # Social History
+
+  [09:00:56] DOCUMENT: History and physical note
+    Status: superseded
+
+  [09:26:57] CLAIM: professional
+    Amount: USD 1359.90
+
+
+📅 2016-11-21
+
+  [11:03:57] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 11:03:57 - 11:30:20
+
+  [11:03:57] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [11:03:57] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-11-21
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Inocencia535 Bea654 is a 58 year-old nonhispanic white female.
+      # Social History
+
+  [11:03:57] DOCUMENT: History and physical note
+    Status: superseded
+
+  [11:30:20] CLAIM: professional
+    Amount: USD 512.63
+
+
+📅 2016-11-22
+
+  [17:41:20] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 17:41:20 - 18:14:18
+
+  [17:41:20] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [17:41:20] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-11-22
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Inocencia535 Bea654 is a 58 year-old nonhispanic white female.
+      # Social History
+
+  [17:41:20] DOCUMENT: History and physical note
+    Status: superseded
+
+  [18:14:18] CLAIM: professional
+    Amount: USD 1359.90
+
+
+📅 2016-11-24
+
+  [00:20:18] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 00:20:18 - 00:42:16
+
+  [00:20:18] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [00:20:18] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-11-24
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Inocencia535 Bea654 is a 58 year-old nonhispanic white female.
+      # Social History
+
+  [00:20:18] DOCUMENT: History and physical note
+    Status: superseded
+
+  [00:42:16] CLAIM: professional
+    Amount: USD 1359.90
+
+
+📅 2016-11-25
+
+  [03:03:16] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 03:03:16 - 03:30:09
+
+  [03:03:16] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [03:03:16] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-11-25
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Inocencia535 Bea654 is a 58 year-old nonhispanic white female.
+      # Social History
+
+  [03:03:16] DOCUMENT: History and physical note
+    Status: superseded
+
+  [03:30:09] CLAIM: professional
+    Amount: USD 512.63
+
+
+📅 2016-11-26
+
+  [03:58:09] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 03:58:09 - 04:22:15
+
+  [03:58:09] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [03:58:09] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-11-26
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Inocencia535 Bea654 is a 58 year-old nonhispanic white female.
+      # Social History
+
+  [03:58:09] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:22:15] CLAIM: professional
+    Amount: USD 512.63
+
+
+📅 2016-11-27
+
+  [14:27:15] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 14:27:15 - 14:59:11
+
+  [14:27:15] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [14:27:15] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-11-27
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Inocencia535 Bea654 is a 58 year-old nonhispanic white female.
+      # Social History
+
+  [14:27:15] DOCUMENT: History and physical note
+    Status: superseded
+
+  [14:59:11] CLAIM: professional
+    Amount: USD 512.63
+
+
+📅 2016-11-28
+
+  [20:35:11] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 20:35:11 - 20:57:38
+
+  [20:35:11] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [20:35:11] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-11-28
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Inocencia535 Bea654 is a 58 year-old nonhispanic white female.
+      # Social History
+
+  [20:35:11] DOCUMENT: History and physical note
+    Status: superseded
+
+  [20:57:38] CLAIM: professional
+    Amount: USD 512.63
+
+
+📅 2016-11-30
+
+  [01:41:38] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 01:41:38 - 02:13:09
+
+  [01:41:38] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [01:41:38] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-11-30
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Inocencia535 Bea654 is a 58 year-old nonhispanic white female.
+      # Social History
+
+  [01:41:38] DOCUMENT: History and physical note
+    Status: superseded
+
+  [02:13:09] CLAIM: professional
+    Amount: USD 1359.90
+
+
+📅 2016-12-01
+
+  [12:17:09] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 12:17:09 - 12:48:30
+
+  [12:17:09] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [12:17:09] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-12-01
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Inocencia535 Bea654 is a 58 year-old nonhispanic white female.
+      # Social History
+
+  [12:17:09] DOCUMENT: History and physical note
+    Status: superseded
+
+  [12:48:30] CLAIM: professional
+    Amount: USD 512.63
+
+
+📅 2016-12-02
+
+  [22:13:30] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 22:13:30 - 22:38:33
+
+  [22:13:30] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [22:13:30] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-12-02
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Inocencia535 Bea654 is a 58 year-old nonhispanic white female.
+      # Social History
+
+  [22:13:30] DOCUMENT: History and physical note
+    Status: superseded
+
+  [22:38:33] CLAIM: professional
+    Amount: USD 512.63
+
+
+📅 2016-12-04
+
+  [08:19:33] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 08:19:33 - 08:34:43
+
+  [08:19:33] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [08:19:33] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-12-04
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Inocencia535 Bea654 is a 58 year-old nonhispanic white female.
+      # Social History
+
+  [08:19:33] DOCUMENT: History and physical note
+    Status: superseded
+
+  [08:34:43] CLAIM: professional
+    Amount: USD 1359.90
+
+
+📅 2016-12-05
+
+  [19:10:43] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 19:10:43 - 19:28:14
+
+  [19:10:43] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [19:10:43] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-12-05
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Inocencia535 Bea654 is a 58 year-old nonhispanic white female.
+      # Social History
+
+  [19:10:43] DOCUMENT: History and physical note
+    Status: superseded
+
+  [19:28:14] CLAIM: professional
+    Amount: USD 512.63
+
+
+📅 2016-12-06
+
+  [22:37:14] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 22:37:14 - 22:56:55
+
+  [22:37:14] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [22:37:14] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-12-06
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Inocencia535 Bea654 is a 58 year-old nonhispanic white female.
+      # Social History
+
+  [22:37:14] DOCUMENT: History and physical note
+    Status: superseded
+
+  [22:56:55] CLAIM: professional
+    Amount: USD 1359.90
+
+
+📅 2016-12-08
+
+  [00:51:55] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 00:51:55 - 01:08:16
+
+  [00:51:55] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [00:51:55] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-12-08
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Inocencia535 Bea654 is a 58 year-old nonhispanic white female.
+      # Social History
+
+  [00:51:55] DOCUMENT: History and physical note
+    Status: superseded
+
+  [01:08:16] CLAIM: professional
+    Amount: USD 1359.90
+
+
+📅 2016-12-09
+
+  [12:37:16] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 12:37:16 - 12:56:51
+
+  [12:37:16] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [12:37:16] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-12-09
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Inocencia535 Bea654 is a 58 year-old nonhispanic white female.
+      # Social History
+
+  [12:37:16] DOCUMENT: History and physical note
+    Status: superseded
+
+  [12:56:51] CLAIM: professional
+    Amount: USD 1359.90
+
+
+📅 2016-12-11
+
+  [00:19:51] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 00:19:51 - 00:45:14
+
+  [00:19:51] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [00:19:51] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-12-11
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Inocencia535 Bea654 is a 58 year-old nonhispanic white female.
+      # Social History
+
+  [00:19:51] DOCUMENT: History and physical note
+    Status: superseded
+
+  [00:45:14] CLAIM: professional
+    Amount: USD 512.63
+
+
+📅 2016-12-12
+
+  [06:25:14] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 06:25:14 - 06:52:59
+
+  [06:25:14] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [06:25:14] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-12-12
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Inocencia535 Bea654 is a 58 year-old nonhispanic white female.
+      # Social History
+
+  [06:25:14] DOCUMENT: History and physical note
+    Status: superseded
+
+  [06:52:59] CLAIM: professional
+    Amount: USD 512.63
+
+
+📅 2016-12-13
+
+  [10:25:59] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 10:25:59 - 10:54:39
+
+  [10:25:59] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [10:25:59] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-12-13
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Inocencia535 Bea654 is a 58 year-old nonhispanic white female.
+      # Social History
+
+  [10:25:59] DOCUMENT: History and physical note
+    Status: superseded
+
+  [10:54:39] CLAIM: professional
+    Amount: USD 527.35
+
+
+📅 2016-12-14
+
+  [21:08:39] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 21:08:39 - 21:40:47
+
+  [21:08:39] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [21:08:39] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-12-14
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Inocencia535 Bea654 is a 58 year-old nonhispanic white female.
+      # Social History
+
+  [21:08:39] DOCUMENT: History and physical note
+    Status: superseded
+
+  [21:40:47] CLAIM: professional
+    Amount: USD 1359.90
+
+
+📅 2016-12-16
+
+  [05:22:47] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 05:22:47 - 05:57:37
+
+  [05:22:47] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [05:22:47] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-12-16
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Inocencia535 Bea654 is a 58 year-old nonhispanic white female.
+      # Social History
+
+  [05:22:47] DOCUMENT: History and physical note
+    Status: superseded
+
+  [05:57:37] CLAIM: professional
+    Amount: USD 1359.90
+
+
+📅 2016-12-17
+
+  [13:33:37] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 13:33:37 - 14:10:48
+
+  [13:33:37] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [13:33:37] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-12-17
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Inocencia535 Bea654 is a 58 year-old nonhispanic white female.
+      # Social History
+
+  [13:33:37] DOCUMENT: History and physical note
+    Status: superseded
+
+  [14:10:48] CLAIM: professional
+    Amount: USD 512.63
+
+
+📅 2016-12-18
+
+  [15:55:48] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 15:55:48 - 16:20:50
+
+  [15:55:48] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [15:55:48] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-12-18
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Inocencia535 Bea654 is a 58 year-old nonhispanic white female.
+      # Social History
+
+  [15:55:48] DOCUMENT: History and physical note
+    Status: superseded
+
+  [16:20:50] CLAIM: professional
+    Amount: USD 1359.90
+
+
+📅 2016-12-19
+
+  [17:35:50] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 17:35:50 - 17:59:25
+
+  [17:35:50] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [17:35:50] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-12-19
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Inocencia535 Bea654 is a 58 year-old nonhispanic white female.
+      # Social History
+
+  [17:35:50] DOCUMENT: History and physical note
+    Status: superseded
+
+  [17:59:25] CLAIM: professional
+    Amount: USD 894.24
+
+
+📅 2016-12-21
+
+  [05:38:25] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 05:38:25 - 06:01:26
+
+  [05:38:25] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [05:38:25] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-12-21
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Inocencia535 Bea654 is a 58 year-old nonhispanic white female.
+      # Social History
+
+  [05:38:25] DOCUMENT: History and physical note
+    Status: superseded
+
+  [06:01:26] CLAIM: professional
+    Amount: USD 1246.22
+
+
+📅 2016-12-22
+
+  [14:04:26] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 14:04:26 - 14:40:45
+
+  [14:04:26] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [14:04:26] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-12-22
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Inocencia535 Bea654 is a 58 year-old nonhispanic white female.
+      # Social History
+
+  [14:04:26] DOCUMENT: History and physical note
+    Status: superseded
+
+  [14:40:45] CLAIM: professional
+    Amount: USD 1359.90
+
+
+📅 2016-12-23
+
+  [15:50:45] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 15:50:45 - 16:06:37
+
+  [15:50:45] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [15:50:45] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-12-23
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Inocencia535 Bea654 is a 58 year-old nonhispanic white female.
+      # Social History
+
+  [15:50:45] DOCUMENT: History and physical note
+    Status: superseded
+
+  [16:06:37] CLAIM: professional
+    Amount: USD 1077.40
+
+
+📅 2016-12-24
+
+  [20:09:37] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 20:09:37 - 20:33:44
+
+  [20:09:37] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [20:09:37] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-12-24
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Inocencia535 Bea654 is a 58 year-old nonhispanic white female.
+      # Social History
+
+  [20:09:37] DOCUMENT: History and physical note
+    Status: superseded
+
+  [20:33:44] CLAIM: professional
+    Amount: USD 690.80
+
+
+📅 2016-12-26
+
+  [02:13:44] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 02:13:44 - 02:50:43
+
+  [02:13:44] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [02:13:44] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-12-26
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Inocencia535 Bea654 is a 58 year-old nonhispanic white female.
+      # Social History
+
+  [02:13:44] DOCUMENT: History and physical note
+    Status: superseded
+
+  [02:50:43] CLAIM: professional
+    Amount: USD 607.67
+
+
+📅 2016-12-27
+
+  [07:54:43] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 07:54:43 - 08:20:08
+
+  [07:54:43] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [07:54:43] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-12-27
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Inocencia535 Bea654 is a 58 year-old nonhispanic white female.
+      # Social History
+
+  [07:54:43] DOCUMENT: History and physical note
+    Status: superseded
+
+  [08:20:08] CLAIM: professional
+    Amount: USD 512.63
+
+
+📅 2016-12-28
+
+  [18:03:08] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 18:03:08 - 18:27:17
+
+  [18:03:08] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [18:03:08] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-12-28
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Inocencia535 Bea654 is a 58 year-old nonhispanic white female.
+      # Social History
+
+  [18:03:08] DOCUMENT: History and physical note
+    Status: superseded
+
+  [18:27:17] CLAIM: professional
+    Amount: USD 512.63
+
+
+📅 2016-12-30
+
+  [02:18:17] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 02:18:17 - 02:43:11
+
+  [02:18:17] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [02:18:17] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-12-30
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Inocencia535 Bea654 is a 58 year-old nonhispanic white female.
+      # Social History
+
+  [02:18:17] DOCUMENT: History and physical note
+    Status: superseded
+
+  [02:43:11] CLAIM: professional
+    Amount: USD 512.63
+
+
+📅 2016-12-31
+
+  [13:05:11] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 13:05:11 - 13:29:36
+
+  [13:05:11] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [13:05:11] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-12-31
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Inocencia535 Bea654 is a 58 year-old nonhispanic white female.
+      # Social History
+
+  [13:05:11] DOCUMENT: History and physical note
+    Status: superseded
+
+  [13:29:36] CLAIM: professional
+    Amount: USD 512.63
+
+
+📅 2017-01-01
+
+  [14:09:36] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 14:09:36 - 14:40:29
+
+  [14:09:36] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [14:09:36] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-01-01
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Inocencia535 Bea654 is a 58 year-old nonhispanic white female.
+      # Social History
+
+  [14:09:36] DOCUMENT: History and physical note
+    Status: superseded
+
+  [14:40:29] CLAIM: professional
+    Amount: USD 1327.72
+
+
+📅 2017-01-05
+
+  [17:40:29] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 17:40:29 - 17:55:29
+
+  [17:40:29] OBSERVATION: Treatment status Cancer: Treatment changed (situation)
+
+  [17:40:29] OBSERVATION: Response to cancer treatment: Improving (qualifier value)
+
+  [17:40:29] MEDICATION PRESCRIBED: Unknown medication
+    Status: completed
+    Prescribed by: Dr. Harland508 Ryan260
+
+  [17:40:29] MEDICATION ADMINISTERED: Tamoxifen 10 MG Oral Tablet
+    Status: completed
+    Dosage: 1.0
+
+  [17:40:29] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-01-05
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Inocencia535 Bea654 is a 58 year-old nonhispanic white female.
+      # Social History
+
+  [17:40:29] DOCUMENT: History and physical note
+    Status: superseded
+
+  [17:55:29] CLAIM: pharmacy
+    Amount: USD 353.40
+
+  [17:55:29] CLAIM: professional
+    Amount: USD 85.55
+
+
+📅 2017-05-07
+
+  [18:40:29] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 18:40:29 - 19:21:35
+
+  [18:40:29] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [18:40:29] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-05-07
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Inocencia535 Bea654 is a 58 year-old nonhispanic white female.
+      # Social History
+
+  [18:40:29] DOCUMENT: History and physical note
+    Status: superseded
+
+  [19:21:35] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2017-07-01
+
+  [06:50:50] VISIT: General examination of patient (procedure)
+    Provider: Dr. Sharyl439 Williamson769
+    Location: COMPASSIONATE HEALTH CARE GROUP LLC
+    Duration: 06:50:50 - 07:05:50
+
+  [06:50:50] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [06:50:50] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-07-01
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Inocencia535 Bea654 is a 59 year-old nonhispanic white female.
+      # Social History
+
+  [06:50:50] DOCUMENT: History and physical note
+    Status: superseded
+
+  [07:05:50] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2017-08-31
+
+  [19:21:35] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 19:21:35 - 20:06:18
+
+  [19:21:35] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [19:21:35] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-08-31
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Inocencia535 Bea654 is a 59 year-old nonhispanic white female.
+      # Social History
+
+  [19:21:35] DOCUMENT: History and physical note
+    Status: superseded
+
+  [20:06:18] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2017-12-13
+
+  [19:06:18] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 19:06:18 - 19:47:17
+
+  [19:06:18] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [19:06:18] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-12-13
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Inocencia535 Bea654 is a 59 year-old nonhispanic white female.
+      # Social History
+
+  [19:06:18] DOCUMENT: History and physical note
+    Status: superseded
+
+  [19:47:17] CLAIM: professional
+    Amount: USD 573.98
+
+  [19:47:17] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 19:47:17 - 20:11:45
+
+  [19:47:17] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [19:47:17] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-12-13
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Inocencia535 Bea654 is a 59 year-old nonhispanic white female.
+      # Social History
+
+  [19:47:17] DOCUMENT: History and physical note
+    Status: superseded
+
+  [20:11:45] CLAIM: professional
+    Amount: USD 243.55
+
+  [20:11:45] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 20:11:45 - 20:33:34
+
+  [20:11:45] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [20:11:45] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-12-13
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Inocencia535 Bea654 is a 59 year-old nonhispanic white female.
+      # Social History
+
+  [20:11:45] DOCUMENT: History and physical note
+    Status: superseded
+
+  [20:22:29] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [20:33:34] OBSERVATION: Response to cancer treatment: Improving (qualifier value)
+
+  [20:33:34] CLAIM: professional
+    Amount: USD 1117.53
+
+
+📅 2018-04-07
+
+  [21:33:34] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 21:33:34 - 22:15:48
+
+  [21:33:34] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [21:33:34] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-04-07
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Inocencia535 Bea654 is a 59 year-old nonhispanic white female.
+      # Social History
+
+  [21:33:34] DOCUMENT: History and physical note
+    Status: superseded
+
+  [22:15:48] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2018-07-07
+
+  [06:50:50] VISIT: General examination of patient (procedure)
+    Provider: Dr. Sharyl439 Williamson769
+    Location: COMPASSIONATE HEALTH CARE GROUP LLC
+    Duration: 06:50:50 - 07:05:50
+
+  [06:50:50] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [06:50:50] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-07-07
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Inocencia535 Bea654 is a 60 year-old nonhispanic white female.
+      # Social History
+
+  [06:50:50] DOCUMENT: History and physical note
+    Status: superseded
+
+  [07:05:50] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2018-08-02
+
+  [22:15:48] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 22:15:48 - 22:57:31
+
+  [22:15:48] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [22:15:48] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-08-02
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Inocencia535 Bea654 is a 60 year-old nonhispanic white female.
+      # Social History
+
+  [22:15:48] DOCUMENT: History and physical note
+    Status: superseded
+
+  [22:57:31] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2018-11-08
+
+  [21:57:31] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 21:57:31 - 22:41:55
+
+  [21:57:31] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [21:57:31] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-11-08
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Inocencia535 Bea654 is a 60 year-old nonhispanic white female.
+      # Social History
+
+  [21:57:31] DOCUMENT: History and physical note
+    Status: superseded
+
+  [22:41:55] CLAIM: professional
+    Amount: USD 573.98
+
+  [22:41:55] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 22:41:55 - 22:59:34
+
+  [22:41:55] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [22:41:55] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-11-08
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Inocencia535 Bea654 is a 60 year-old nonhispanic white female.
+      # Social History
+
+  [22:41:55] DOCUMENT: History and physical note
+    Status: superseded
+
+  [22:59:34] CLAIM: professional
+    Amount: USD 283.64
+
+  [22:59:34] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 22:59:34 - 23:25:23
+
+  [22:59:34] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [22:59:34] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-11-08
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Inocencia535 Bea654 is a 60 year-old nonhispanic white female.
+      # Social History
+
+  [22:59:34] DOCUMENT: History and physical note
+    Status: superseded
+
+  [23:10:57] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [23:25:23] OBSERVATION: Response to cancer treatment: Improving (qualifier value)
+
+  [23:25:23] CLAIM: professional
+    Amount: USD 1466.58
+
+
+📅 2019-03-01
+
+  [23:25:23] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 23:25:23 - 23:57:14
+
+  [23:25:23] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [23:25:23] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-03-01
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Inocencia535 Bea654 is a 60 year-old nonhispanic white female.
+      # Social History
+
+  [23:25:23] DOCUMENT: History and physical note
+    Status: superseded
+
+  [23:57:14] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2019-06-10
+
+  [00:57:14] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 00:57:14 - 01:35:30
+
+  [00:57:14] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [00:57:14] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-06-10
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Inocencia535 Bea654 is a 61 year-old nonhispanic white female.
+      # Social History
+
+  [00:57:14] DOCUMENT: History and physical note
+    Status: superseded
+
+  [01:35:30] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2019-07-13
+
+  [06:50:50] VISIT: General examination of patient (procedure)
+    Provider: Dr. Sharyl439 Williamson769
+    Location: COMPASSIONATE HEALTH CARE GROUP LLC
+    Duration: 06:50:50 - 07:05:50
+
+  [06:50:50] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [06:50:50] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [06:50:50] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-07-13
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Inocencia535 Bea654 is a 61 year-old nonhispanic white female.
+      # Social History
+
+  [06:50:50] DOCUMENT: History and physical note
+    Status: superseded
+
+  [07:05:50] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2019-09-30
+
+  [01:35:30] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 01:35:30 - 02:11:54
+
+  [01:35:30] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [01:35:30] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-09-30
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Inocencia535 Bea654 is a 61 year-old nonhispanic white female.
+      # Social History
+
+  [01:35:30] DOCUMENT: History and physical note
+    Status: superseded
+
+  [02:11:54] CLAIM: professional
+    Amount: USD 573.98
+
+  [02:11:54] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 02:11:54 - 02:35:25
+
+  [02:11:54] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [02:11:54] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-09-30
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Inocencia535 Bea654 is a 61 year-old nonhispanic white female.
+      # Social History
+
+  [02:11:54] DOCUMENT: History and physical note
+    Status: superseded
+
+  [02:35:25] CLAIM: professional
+    Amount: USD 211.60
+
+  [02:35:25] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 02:35:25 - 03:07:50
+
+  [02:35:25] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [02:35:25] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-09-30
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Inocencia535 Bea654 is a 61 year-old nonhispanic white female.
+      # Social History
+
+  [02:35:25] DOCUMENT: History and physical note
+    Status: superseded
+
+  [02:49:50] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [03:07:50] OBSERVATION: Response to cancer treatment: Improving (qualifier value)
+
+  [03:07:50] CLAIM: professional
+    Amount: USD 2893.24
+
+
+📅 2020-01-11
+
+  [02:07:50] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 02:07:50 - 02:51:32
+
+  [02:07:50] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [02:07:50] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-01-11
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Inocencia535 Bea654 is a 61 year-old nonhispanic white female.
+      # Social History
+
+  [02:07:50] DOCUMENT: History and physical note
+    Status: superseded
+
+  [02:51:32] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2020-05-02
+
+  [03:51:32] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 03:51:32 - 04:29:50
+
+  [03:51:32] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [03:51:32] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-05-02
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Inocencia535 Bea654 is a 61 year-old nonhispanic white female.
+      # Social History
+
+  [03:51:32] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:29:50] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2020-07-18
+
+  [06:50:50] VISIT: General examination of patient (procedure)
+    Provider: Dr. Sharyl439 Williamson769
+    Location: COMPASSIONATE HEALTH CARE GROUP LLC
+    Duration: 06:50:50 - 07:05:50
+
+  [06:50:50] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [06:50:50] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-07-18
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Inocencia535 Bea654 is a 62 year-old nonhispanic white female.
+      # Social History
+
+  [06:50:50] DOCUMENT: History and physical note
+    Status: superseded
+
+  [07:05:50] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2020-08-09
+
+  [04:29:50] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 04:29:50 - 05:00:52
+
+  [04:29:50] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [04:29:50] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-08-09
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Inocencia535 Bea654 is a 62 year-old nonhispanic white female.
+      # Social History
+
+  [04:29:50] DOCUMENT: History and physical note
+    Status: superseded
+
+  [05:00:52] CLAIM: professional
+    Amount: USD 573.98
+
+  [05:00:52] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 05:00:52 - 05:23:52
+
+  [05:00:52] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [05:00:52] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-08-09
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Inocencia535 Bea654 is a 62 year-old nonhispanic white female.
+      # Social History
+
+  [05:00:52] DOCUMENT: History and physical note
+    Status: superseded
+
+  [05:23:52] CLAIM: professional
+    Amount: USD 211.60
+
+  [05:23:52] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 05:23:52 - 05:48:57
+
+  [05:23:52] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [05:23:52] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-08-09
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Inocencia535 Bea654 is a 62 year-old nonhispanic white female.
+      # Social History
+
+  [05:23:52] DOCUMENT: History and physical note
+    Status: superseded
+
+  [05:34:54] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [05:48:57] OBSERVATION: Response to cancer treatment: Improving (qualifier value)
+
+  [05:48:57] CLAIM: professional
+    Amount: USD 2601.87
+
+
+📅 2020-11-17
+
+  [04:48:57] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 04:48:57 - 05:29:23
+
+  [04:48:57] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [04:48:57] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-11-17
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Inocencia535 Bea654 is a 62 year-old nonhispanic white female.
+      # Social History
+
+  [04:48:57] DOCUMENT: History and physical note
+    Status: superseded
+
+  [05:29:23] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2021-02-26
+
+  [05:29:23] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 05:29:23 - 06:02:59
+
+  [05:29:23] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [05:29:23] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-02-26
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Inocencia535 Bea654 is a 62 year-old nonhispanic white female.
+      # Social History
+
+  [05:29:23] DOCUMENT: History and physical note
+    Status: superseded
+
+  [06:02:59] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2021-06-11
+
+  [07:02:59] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 07:02:59 - 07:47:28
+
+  [07:02:59] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [07:02:59] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-06-11
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Inocencia535 Bea654 is a 63 year-old nonhispanic white female.
+      # Social History
+
+  [07:02:59] DOCUMENT: History and physical note
+    Status: superseded
+
+  [07:47:28] CLAIM: professional
+    Amount: USD 573.98
+
+  [07:47:28] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 07:47:28 - 08:04:37
+
+  [07:47:28] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [07:47:28] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-06-11
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Inocencia535 Bea654 is a 63 year-old nonhispanic white female.
+      # Social History
+
+  [07:47:28] DOCUMENT: History and physical note
+    Status: superseded
+
+  [08:04:37] CLAIM: professional
+    Amount: USD 234.86
+
+  [08:04:37] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 08:04:37 - 08:27:36
+
+  [08:04:37] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [08:04:37] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-06-11
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Inocencia535 Bea654 is a 63 year-old nonhispanic white female.
+      # Social History
+
+  [08:04:37] DOCUMENT: History and physical note
+    Status: superseded
+
+  [08:15:38] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [08:27:36] CLAIM: professional
+    Amount: USD 1091.66
+
+
+📅 2021-07-24
+
+  [06:50:50] VISIT: General examination of patient (procedure)
+    Provider: Dr. Sharyl439 Williamson769
+    Location: COMPASSIONATE HEALTH CARE GROUP LLC
+    Duration: 06:50:50 - 07:05:50
+
+  [06:50:50] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [06:50:50] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-07-24
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Inocencia535 Bea654 is a 63 year-old nonhispanic white female.
+      # Social History
+
+  [06:50:50] DOCUMENT: History and physical note
+    Status: superseded
+
+  [07:05:50] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2022-05-14
+
+  [08:27:36] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 08:27:36 - 09:08:47
+
+  [08:27:36] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [08:27:36] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-05-14
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Inocencia535 Bea654 is a 64 year-old nonhispanic white female.
+      # Social History
+
+  [08:27:36] DOCUMENT: History and physical note
+    Status: superseded
+
+  [09:08:47] CLAIM: professional
+    Amount: USD 573.98
+
+  [09:08:47] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 09:08:47 - 09:29:09
+
+  [09:08:47] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [09:08:47] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-05-14
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Inocencia535 Bea654 is a 64 year-old nonhispanic white female.
+      # Social History
+
+  [09:08:47] DOCUMENT: History and physical note
+    Status: superseded
+
+  [09:29:09] CLAIM: professional
+    Amount: USD 325.49
+
+  [09:29:09] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 09:29:09 - 09:58:13
+
+  [09:29:09] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [09:29:09] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-05-14
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Inocencia535 Bea654 is a 64 year-old nonhispanic white female.
+      # Social History
+
+  [09:29:09] DOCUMENT: History and physical note
+    Status: superseded
+
+  [09:40:25] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [09:58:13] CLAIM: professional
+    Amount: USD 2959.29
+
+
+📅 2022-07-30
+
+  [06:50:50] VISIT: General examination of patient (procedure)
+    Provider: Dr. Sharyl439 Williamson769
+    Location: COMPASSIONATE HEALTH CARE GROUP LLC
+    Duration: 06:50:50 - 07:05:50
+
+  [06:50:50] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [06:50:50] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-07-30
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Inocencia535 Bea654 is a 64 year-old nonhispanic white female.
+      # Social History
+
+  [06:50:50] DOCUMENT: History and physical note
+    Status: superseded
+
+  [07:05:50] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2023-05-25
+
+  [09:58:13] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 09:58:13 - 10:40:39
+
+  [09:58:13] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [09:58:13] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-05-25
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Inocencia535 Bea654 is a 65 year-old nonhispanic white female.
+      # Social History
+
+  [09:58:13] DOCUMENT: History and physical note
+    Status: superseded
+
+  [10:40:39] CLAIM: professional
+    Amount: USD 573.98
+
+  [10:40:39] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 10:40:39 - 10:58:13
+
+  [10:40:39] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [10:40:39] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-05-25
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Inocencia535 Bea654 is a 65 year-old nonhispanic white female.
+      # Social History
+
+  [10:40:39] DOCUMENT: History and physical note
+    Status: superseded
+
+  [10:58:13] CLAIM: professional
+    Amount: USD 325.49
+
+  [10:58:13] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 10:58:13 - 11:30:31
+
+  [10:58:13] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [10:58:13] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-05-25
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Inocencia535 Bea654 is a 65 year-old nonhispanic white female.
+      # Social History
+
+  [10:58:13] DOCUMENT: History and physical note
+    Status: superseded
+
+  [11:11:39] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [11:30:31] CLAIM: professional
+    Amount: USD 1952.72
+
+
+📅 2023-08-05
+
+  [06:50:50] VISIT: General examination of patient (procedure)
+    Provider: Dr. Sharyl439 Williamson769
+    Location: COMPASSIONATE HEALTH CARE GROUP LLC
+    Duration: 06:50:50 - 07:05:50
+
+  [06:50:50] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [06:50:50] IMMUNIZATION: Pneumococcal conjugate PCV 13
+    Status: completed
+
+  [06:50:50] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-08-05
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Inocencia535 Bea654 is a 65 year-old nonhispanic white female.
+      # Social History
+
+  [06:50:50] DOCUMENT: History and physical note
+    Status: superseded
+
+  [07:05:50] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2024-04-19
+
+  [11:30:31] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 11:30:31 - 12:14:10
+
+  [11:30:31] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [11:30:31] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-04-19
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Inocencia535 Bea654 is a 65 year-old nonhispanic white female.
+      # Social History
+
+  [11:30:31] DOCUMENT: History and physical note
+    Status: superseded
+
+  [12:14:10] CLAIM: professional
+    Amount: USD 573.98
+
+  [12:14:10] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 12:14:10 - 12:30:46
+
+  [12:14:10] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [12:14:10] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-04-19
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Inocencia535 Bea654 is a 65 year-old nonhispanic white female.
+      # Social History
+
+  [12:14:10] DOCUMENT: History and physical note
+    Status: superseded
+
+  [12:30:46] CLAIM: professional
+    Amount: USD 211.60
+
+  [12:30:46] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 12:30:46 - 13:04:42
+
+  [12:30:46] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [12:30:46] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-04-19
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Inocencia535 Bea654 is a 65 year-old nonhispanic white female.
+      # Social History
+
+  [12:30:46] DOCUMENT: History and physical note
+    Status: superseded
+
+  [12:45:03] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [13:04:42] CLAIM: professional
+    Amount: USD 1124.92
+
+
+📅 2024-08-10
+
+  [06:50:50] VISIT: General examination of patient (procedure)
+    Provider: Dr. Sharyl439 Williamson769
+    Location: COMPASSIONATE HEALTH CARE GROUP LLC
+    Duration: 06:50:50 - 07:05:50
+
+  [06:50:50] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [06:50:50] IMMUNIZATION: pneumococcal polysaccharide vaccine, 23 valent
+    Status: completed
+
+  [06:50:50] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-08-10
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Inocencia535 Bea654 is a 66 year-old nonhispanic white female.
+      # Social History
+
+  [06:50:50] DOCUMENT: History and physical note
+    Status: superseded
+
+  [07:05:50] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2025-04-09
+
+  [13:04:42] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 13:04:42 - 13:43:15
+
+  [13:04:42] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [13:04:42] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-04-09
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Inocencia535 Bea654 is a 66 year-old nonhispanic white female.
+      # Social History
+
+  [13:04:42] DOCUMENT: History and physical note
+    Status: superseded
+
+  [13:43:15] CLAIM: professional
+    Amount: USD 573.98
+
+  [13:43:15] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 13:43:15 - 13:58:15
+
+  [13:43:15] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [13:43:15] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-04-09
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Inocencia535 Bea654 is a 66 year-old nonhispanic white female.
+      # Social History
+
+  [13:43:15] DOCUMENT: History and physical note
+    Status: superseded
+
+  [13:58:15] CLAIM: professional
+    Amount: USD 233.08
+
+  [13:58:15] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 13:58:15 - 14:29:45
+
+  [13:58:15] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [13:58:15] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-04-09
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Inocencia535 Bea654 is a 66 year-old nonhispanic white female.
+      # Social History
+
+  [13:58:15] DOCUMENT: History and physical note
+    Status: superseded
+
+  [14:11:45] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [14:29:45] CLAIM: professional
+    Amount: USD 1221.08
+
+
+📅 2025-08-16
+
+  [06:50:50] VISIT: General examination of patient (procedure)
+    Provider: Dr. Sharyl439 Williamson769
+    Location: COMPASSIONATE HEALTH CARE GROUP LLC
+    Duration: 06:50:50 - 07:05:50
+
+  [06:50:50] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [06:50:50] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-08-16
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Inocencia535 Bea654 is a 67 year-old nonhispanic white female.
+      # Social History
+
+  [06:50:50] DOCUMENT: History and physical note
+    Status: current
+
+  [07:05:50] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2026-02-14
+
+  [05:50:50] PROVENANCE: Record activity
+    Agents: Dr. Sharyl439 Williamson769, Dr. Sharyl439 Williamson769
+
+================================================================================
+END OF TIMELINE (529 events)
+================================================================================

@@ -1,0 +1,191 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Mrs. Minh326 Tamera164 Koch169
+  Patient ID: 114781
+  Date of Birth: 1972-01-23
+  Gender: Female
+  Race: White
+  Ethnicity: Not Hispanic or Latino
+  Marital Status: Married
+  Address: 759 Robel Grove, Stockbridge, MA 00000
+  Phone: 555-389-7566
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2018-02-11
+
+  [09:54:07] VISIT: General examination of patient (procedure)
+    Provider: Dr. Gene733 Boyle917
+    Location: SUBURBAN INTERNAL MEDICINE, INC.
+    Duration: 09:54:07 - 10:09:07
+
+  [09:54:07] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [09:54:07] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-02-11
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Minh326 Tamera164 is a 46 year-old nonhispanic white female.
+      # Social History
+
+  [09:54:07] DOCUMENT: History and physical note
+    Status: superseded
+
+  [10:09:07] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2020-02-16
+
+  [09:54:07] VISIT: General examination of patient (procedure)
+    Provider: Dr. Gene733 Boyle917
+    Location: SUBURBAN INTERNAL MEDICINE, INC.
+    Duration: 09:54:07 - 10:09:07
+
+  [09:54:07] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [09:54:07] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-02-16
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Minh326 Tamera164 is a 48 year-old nonhispanic white female.
+      # Social History
+
+  [09:54:07] DOCUMENT: History and physical note
+    Status: superseded
+
+  [10:09:07] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2022-01-23
+
+  [09:54:07] VISIT: General examination of patient (procedure)
+    Provider: Dr. Gene733 Boyle917
+    Location: SUBURBAN INTERNAL MEDICINE, INC.
+    Duration: 09:54:07 - 10:09:07
+
+  [09:54:07] IMMUNIZATION: zoster vaccine, live
+    Status: completed
+
+  [09:54:07] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [09:54:07] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-01-23
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Minh326 Tamera164 is a 50 year-old nonhispanic white female.
+      # Social History
+
+  [09:54:07] DOCUMENT: History and physical note
+    Status: superseded
+
+  [10:09:07] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2023-01-29
+
+  [09:54:07] VISIT: General examination of patient (procedure)
+    Provider: Dr. Gene733 Boyle917
+    Location: SUBURBAN INTERNAL MEDICINE, INC.
+    Duration: 09:54:07 - 10:09:07
+
+  [09:54:07] IMMUNIZATION: zoster vaccine, live
+    Status: completed
+
+  [09:54:07] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [09:54:07] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [09:54:07] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-01-29
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Minh326 Tamera164 is a 51 year-old nonhispanic white female.
+      # Social History
+
+  [09:54:07] DOCUMENT: History and physical note
+    Status: superseded
+
+  [10:09:07] CLAIM: professional
+    Amount: USD 544.80
+
+
+📅 2024-02-04
+
+  [09:54:07] VISIT: General examination of patient (procedure)
+    Provider: Dr. Gene733 Boyle917
+    Location: SUBURBAN INTERNAL MEDICINE, INC.
+    Duration: 09:54:07 - 10:09:07
+
+  [09:54:07] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [09:54:07] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-02-04
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Minh326 Tamera164 is a 52 year-old nonhispanic white female.
+      # Social History
+
+  [09:54:07] DOCUMENT: History and physical note
+    Status: superseded
+
+  [10:09:07] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2025-02-09
+
+  [09:54:07] VISIT: General examination of patient (procedure)
+    Provider: Dr. Gene733 Boyle917
+    Location: SUBURBAN INTERNAL MEDICINE, INC.
+    Duration: 09:54:07 - 10:09:07
+
+  [09:54:07] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [09:54:07] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-02-09
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Minh326 Tamera164 is a 53 year-old nonhispanic white female.
+      # Social History
+
+  [09:54:07] DOCUMENT: History and physical note
+    Status: current
+
+  [10:09:07] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2026-02-15
+
+  [09:54:07] PROVENANCE: Record activity
+    Agents: Dr. Gene733 Boyle917, Dr. Gene733 Boyle917
+
+================================================================================
+END OF TIMELINE (34 events)
+================================================================================

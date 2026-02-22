@@ -1,0 +1,165 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Mrs. Ninfa662 Digna973 Baumbach677
+  Patient ID: 119791
+  Date of Birth: 1977-10-28
+  Gender: Female
+  Race: Black or African American
+  Ethnicity: Not Hispanic or Latino
+  Marital Status: Married
+  Address: 578 Becker Extension, Boston, MA 02134
+  Phone: 555-534-6132
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2017-11-03
+
+  [01:48:03] VISIT: General examination of patient (procedure)
+    Provider: Dr. Amalia471 Ceja441
+    Location: MEASURED WELLNESS LLC
+    Duration: 01:48:03 - 02:03:03
+
+  [01:48:03] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [01:48:03] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [01:48:03] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-11-03
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Ninfa662 Digna973 is a 40 year-old nonhispanic black female.
+      # Social History
+
+  [01:48:03] DOCUMENT: History and physical note
+    Status: superseded
+
+  [02:03:03] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2019-11-08
+
+  [00:48:03] VISIT: General examination of patient (procedure)
+    Provider: Dr. Amalia471 Ceja441
+    Location: MEASURED WELLNESS LLC
+    Duration: 00:48:03 - 01:03:03
+
+  [00:48:03] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [00:48:03] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [00:48:03] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [00:48:03] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-11-08
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Ninfa662 Digna973 is a 42 year-old nonhispanic black female.
+      # Social History
+
+  [00:48:03] DOCUMENT: History and physical note
+    Status: superseded
+
+  [01:03:03] CLAIM: professional
+    Amount: USD 544.80
+
+
+📅 2021-11-12
+
+  [00:48:03] VISIT: General examination of patient (procedure)
+    Provider: Dr. Amalia471 Ceja441
+    Location: MEASURED WELLNESS LLC
+    Duration: 00:48:03 - 01:03:03
+
+  [00:48:03] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [00:48:03] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-11-12
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Ninfa662 Digna973 is a 44 year-old nonhispanic black female.
+      # Social History
+
+  [00:48:03] DOCUMENT: History and physical note
+    Status: superseded
+
+  [01:03:03] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2023-11-17
+
+  [00:48:03] VISIT: General examination of patient (procedure)
+    Provider: Dr. Amalia471 Ceja441
+    Location: MEASURED WELLNESS LLC
+    Duration: 00:48:03 - 01:03:03
+
+  [00:48:03] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [00:48:03] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-11-17
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Ninfa662 Digna973 is a 46 year-old nonhispanic black female.
+      # Social History
+
+  [00:48:03] DOCUMENT: History and physical note
+    Status: superseded
+
+  [01:03:03] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2025-11-21
+
+  [00:48:03] VISIT: General examination of patient (procedure)
+    Provider: Dr. Amalia471 Ceja441
+    Location: MEASURED WELLNESS LLC
+    Duration: 00:48:03 - 01:03:03
+
+  [00:48:03] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [00:48:03] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-11-21
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Ninfa662 Digna973 is a 48 year-old nonhispanic black female.
+      # Social History
+
+  [00:48:03] DOCUMENT: History and physical note
+    Status: current
+
+  [01:03:03] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2026-02-13
+
+  [00:48:03] PROVENANCE: Record activity
+    Agents: Dr. Amalia471 Ceja441, Dr. Amalia471 Ceja441
+
+================================================================================
+END OF TIMELINE (29 events)
+================================================================================

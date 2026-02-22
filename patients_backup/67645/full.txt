@@ -1,0 +1,191 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Mrs. Jeraldine574 Sarah635 Oberbrunner298
+  Patient ID: 67645
+  Date of Birth: 1980-01-30
+  Gender: Female
+  Race: Black or African American
+  Ethnicity: Not Hispanic or Latino
+  Marital Status: Divorced
+  Address: 593 Swaniawski Heights, Boston, MA 02108
+  Phone: 555-507-3434
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2017-04-19
+
+  [05:42:51] VISIT: General examination of patient (procedure)
+    Provider: Dr. Astrid395 Huels583
+    Location: SOUTH SHORE INTERNAL MEDICINE ASSOCIATES INC.
+    Duration: 05:42:51 - 05:57:51
+
+  [05:42:51] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [05:42:51] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-04-19
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Jeraldine574 Sarah635 is a 37 year-old nonhispanic black female.
+      # Social History
+
+  [05:42:51] DOCUMENT: History and physical note
+    Status: superseded
+
+  [05:57:51] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2020-02-05
+
+  [04:42:51] VISIT: General examination of patient (procedure)
+    Provider: Dr. Astrid395 Huels583
+    Location: SOUTH SHORE INTERNAL MEDICINE ASSOCIATES INC.
+    Duration: 04:42:51 - 04:57:51
+
+  [04:42:51] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [04:42:51] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [04:42:51] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-02-05
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Jeraldine574 Sarah635 is a 40 year-old nonhispanic black female.
+      # Social History
+
+  [04:42:51] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:57:51] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2021-04-07
+
+  [05:42:51] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Rudolf736 Vandervort697
+    Location: BETH ISRAEL DEACONESS HOSPITAL MILTON INC
+    Duration: 05:42:51 - 05:57:51
+
+  [05:42:51] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+    Status: completed
+
+  [05:42:51] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-04-07
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Jeraldine574 Sarah635 is a 41 year-old nonhispanic black female.
+      # Social History
+
+  [05:42:51] DOCUMENT: History and physical note
+    Status: superseded
+
+  [05:57:51] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-05-05
+
+  [05:42:51] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Rudolf736 Vandervort697
+    Location: BETH ISRAEL DEACONESS HOSPITAL MILTON INC
+    Duration: 05:42:51 - 05:57:51
+
+  [05:42:51] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+    Status: completed
+
+  [05:42:51] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-05-05
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Jeraldine574 Sarah635 is a 41 year-old nonhispanic black female.
+      # Social History
+
+  [05:42:51] DOCUMENT: History and physical note
+    Status: superseded
+
+  [05:57:51] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2022-02-09
+
+  [04:42:51] VISIT: General examination of patient (procedure)
+    Provider: Dr. Astrid395 Huels583
+    Location: SOUTH SHORE INTERNAL MEDICINE ASSOCIATES INC.
+    Duration: 04:42:51 - 04:57:51
+
+  [04:42:51] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [04:42:51] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [04:42:51] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [04:42:51] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-02-09
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Jeraldine574 Sarah635 is a 42 year-old nonhispanic black female.
+      # Social History
+
+  [04:42:51] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:57:51] CLAIM: professional
+    Amount: USD 544.80
+
+
+📅 2024-02-14
+
+  [04:42:51] VISIT: General examination of patient (procedure)
+    Provider: Dr. Astrid395 Huels583
+    Location: SOUTH SHORE INTERNAL MEDICINE ASSOCIATES INC.
+    Duration: 04:42:51 - 04:57:51
+
+  [04:42:51] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [04:42:51] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-02-14
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Jeraldine574 Sarah635 is a 44 year-old nonhispanic black female.
+      # Social History
+
+  [04:42:51] DOCUMENT: History and physical note
+    Status: current
+
+  [04:57:51] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2026-02-11
+
+  [04:42:51] PROVENANCE: Record activity
+    Agents: Dr. Astrid395 Huels583, Dr. Astrid395 Huels583
+
+================================================================================
+END OF TIMELINE (34 events)
+================================================================================

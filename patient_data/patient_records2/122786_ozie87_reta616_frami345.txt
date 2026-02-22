@@ -1,0 +1,191 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Mrs. Ozie87 Reta616 Frami345
+  Patient ID: 122786
+  Date of Birth: 1981-10-07
+  Gender: Female
+  Race: Black or African American
+  Ethnicity: Not Hispanic or Latino
+  Marital Status: Married
+  Address: 489 Brown Skyway, Marshfield, MA 02050
+  Phone: 555-544-7750
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2018-12-26
+
+  [12:27:35] VISIT: General examination of patient (procedure)
+    Provider: Dr. Regenia619 Bosco882
+    Location: UNITED MEDICAL CARE LLC
+    Duration: 12:27:35 - 12:42:35
+
+  [12:27:35] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [12:27:35] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-12-26
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Ozie87 Reta616 is a 37 year-old nonhispanic black female.
+      # Social History
+
+  [12:27:35] DOCUMENT: History and physical note
+    Status: superseded
+
+  [12:42:35] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2021-06-09
+
+  [13:27:35] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Crystle668 McCullough561
+    Location: BETH ISRAEL DEACONESS HOSPITAL PLYMOUTH INC
+    Duration: 13:27:35 - 13:42:35
+
+  [13:27:35] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+    Status: completed
+
+  [13:27:35] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-06-09
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Ozie87 Reta616 is a 39 year-old nonhispanic black female.
+      # Social History
+
+  [13:27:35] DOCUMENT: History and physical note
+    Status: superseded
+
+  [13:42:35] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-07-07
+
+  [13:27:35] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Crystle668 McCullough561
+    Location: BETH ISRAEL DEACONESS HOSPITAL PLYMOUTH INC
+    Duration: 13:27:35 - 13:42:35
+
+  [13:27:35] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+    Status: completed
+
+  [13:27:35] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-07-07
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Ozie87 Reta616 is a 39 year-old nonhispanic black female.
+      # Social History
+
+  [13:27:35] DOCUMENT: History and physical note
+    Status: superseded
+
+  [13:42:35] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-10-13
+
+  [13:27:35] VISIT: General examination of patient (procedure)
+    Provider: Dr. Regenia619 Bosco882
+    Location: UNITED MEDICAL CARE LLC
+    Duration: 13:27:35 - 13:42:35
+
+  [13:27:35] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [13:27:35] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [13:27:35] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-10-13
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Ozie87 Reta616 is a 40 year-old nonhispanic black female.
+      # Social History
+
+  [13:27:35] DOCUMENT: History and physical note
+    Status: superseded
+
+  [13:42:35] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2023-10-18
+
+  [13:27:35] VISIT: General examination of patient (procedure)
+    Provider: Dr. Regenia619 Bosco882
+    Location: UNITED MEDICAL CARE LLC
+    Duration: 13:27:35 - 13:42:35
+
+  [13:27:35] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [13:27:35] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [13:27:35] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [13:27:35] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-10-18
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Ozie87 Reta616 is a 42 year-old nonhispanic black female.
+      # Social History
+
+  [13:27:35] DOCUMENT: History and physical note
+    Status: superseded
+
+  [13:42:35] CLAIM: professional
+    Amount: USD 544.80
+
+
+📅 2025-10-22
+
+  [13:27:35] VISIT: General examination of patient (procedure)
+    Provider: Dr. Regenia619 Bosco882
+    Location: UNITED MEDICAL CARE LLC
+    Duration: 13:27:35 - 13:42:35
+
+  [13:27:35] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [13:27:35] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-10-22
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Ozie87 Reta616 is a 44 year-old nonhispanic black female.
+      # Social History
+
+  [13:27:35] DOCUMENT: History and physical note
+    Status: current
+
+  [13:42:35] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2026-02-11
+
+  [12:27:35] PROVENANCE: Record activity
+    Agents: Dr. Regenia619 Bosco882, Dr. Regenia619 Bosco882
+
+================================================================================
+END OF TIMELINE (34 events)
+================================================================================

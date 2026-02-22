@@ -1,0 +1,217 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Mrs. Jeanette800 Lorenza655 Gusikowski974
+  Patient ID: 66869
+  Date of Birth: 1977-01-31
+  Gender: Female
+  Race: White
+  Ethnicity: Not Hispanic or Latino
+  Marital Status: Married
+  Address: 754 Auer Junction, Gardner, MA 01440
+  Phone: 555-684-5684
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2017-02-06
+
+  [18:37:52] VISIT: General examination of patient (procedure)
+    Provider: Dr. Manda751 Hamill307
+    Location: MERCY FAMILY PRACTICE PC
+    Duration: 18:37:52 - 18:52:52
+
+  [18:37:52] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [18:37:52] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [18:37:52] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-02-06
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Jeanette800 Lorenza655 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [18:37:52] DOCUMENT: History and physical note
+    Status: superseded
+
+  [18:52:52] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2019-02-11
+
+  [18:37:52] VISIT: General examination of patient (procedure)
+    Provider: Dr. Manda751 Hamill307
+    Location: MERCY FAMILY PRACTICE PC
+    Duration: 18:37:52 - 18:52:52
+
+  [18:37:52] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [18:37:52] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [18:37:52] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [18:37:52] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-02-11
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Jeanette800 Lorenza655 is a 42 year-old nonhispanic white female.
+      # Social History
+
+  [18:37:52] DOCUMENT: History and physical note
+    Status: superseded
+
+  [18:52:52] CLAIM: professional
+    Amount: USD 544.80
+
+
+📅 2021-02-15
+
+  [18:37:52] VISIT: General examination of patient (procedure)
+    Provider: Dr. Manda751 Hamill307
+    Location: MERCY FAMILY PRACTICE PC
+    Duration: 18:37:52 - 18:52:52
+
+  [18:37:52] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [18:37:52] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-02-15
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Jeanette800 Lorenza655 is a 44 year-old nonhispanic white female.
+      # Social History
+
+  [18:37:52] DOCUMENT: History and physical note
+    Status: superseded
+
+  [18:52:52] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2021-04-26
+
+  [19:37:52] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Kristina583 Bashirian201
+    Location: HENRY HEYWOOD MEMORIAL HOSPITAL
+    Duration: 19:37:52 - 19:52:52
+
+  [19:37:52] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+    Status: completed
+
+  [19:37:52] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-04-26
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Jeanette800 Lorenza655 is a 44 year-old nonhispanic white female.
+      # Social History
+
+  [19:37:52] DOCUMENT: History and physical note
+    Status: superseded
+
+  [19:52:52] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-05-24
+
+  [19:37:52] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Kristina583 Bashirian201
+    Location: HENRY HEYWOOD MEMORIAL HOSPITAL
+    Duration: 19:37:52 - 19:52:52
+
+  [19:37:52] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+    Status: completed
+
+  [19:37:52] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-05-24
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Jeanette800 Lorenza655 is a 44 year-old nonhispanic white female.
+      # Social History
+
+  [19:37:52] DOCUMENT: History and physical note
+    Status: superseded
+
+  [19:52:52] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2023-02-20
+
+  [18:37:52] VISIT: General examination of patient (procedure)
+    Provider: Dr. Manda751 Hamill307
+    Location: MERCY FAMILY PRACTICE PC
+    Duration: 18:37:52 - 18:52:52
+
+  [18:37:52] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [18:37:52] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-02-20
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Jeanette800 Lorenza655 is a 46 year-old nonhispanic white female.
+      # Social History
+
+  [18:37:52] DOCUMENT: History and physical note
+    Status: superseded
+
+  [18:52:52] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2025-02-24
+
+  [18:37:52] VISIT: General examination of patient (procedure)
+    Provider: Dr. Manda751 Hamill307
+    Location: MERCY FAMILY PRACTICE PC
+    Duration: 18:37:52 - 18:52:52
+
+  [18:37:52] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [18:37:52] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-02-24
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Jeanette800 Lorenza655 is a 48 year-old nonhispanic white female.
+      # Social History
+
+  [18:37:52] DOCUMENT: History and physical note
+    Status: current
+
+  [18:52:52] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2026-02-09
+
+  [18:37:52] PROVENANCE: Record activity
+    Agents: Dr. Manda751 Hamill307, Dr. Manda751 Hamill307
+
+================================================================================
+END OF TIMELINE (39 events)
+================================================================================

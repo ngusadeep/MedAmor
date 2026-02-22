@@ -1,0 +1,191 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Mrs. Frieda277 Heller342
+  Patient ID: 53560
+  Date of Birth: 1981-08-21
+  Gender: Female
+  Race: White
+  Ethnicity: Not Hispanic or Latino
+  Marital Status: Married
+  Address: 747 Dooley Lock Suite 87, Springfield, MA 01151
+  Phone: 555-105-8215
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2018-11-09
+
+  [20:01:32] VISIT: General examination of patient (procedure)
+    Provider: Dr. Fritz267 Farrell962
+    Location: CARING HEALTH CENTER, INC
+    Duration: 20:01:32 - 20:16:32
+
+  [20:01:32] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [20:01:32] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-11-09
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Frieda277 is a 37 year-old nonhispanic white female.
+      # Social History
+
+  [20:01:32] DOCUMENT: History and physical note
+    Status: superseded
+
+  [20:16:32] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2021-04-02
+
+  [21:01:32] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Domenic627 Blick895
+    Location: VIBRA HOSPITAL OF WESTERN MASS - CENTRAL CAMPUS
+    Duration: 21:01:32 - 21:16:32
+
+  [21:01:32] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+    Status: completed
+
+  [21:01:32] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-04-02
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Frieda277 is a 39 year-old nonhispanic white female.
+      # Social History
+
+  [21:01:32] DOCUMENT: History and physical note
+    Status: superseded
+
+  [21:16:32] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-04-30
+
+  [21:01:32] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Domenic627 Blick895
+    Location: VIBRA HOSPITAL OF WESTERN MASS - CENTRAL CAMPUS
+    Duration: 21:01:32 - 21:16:32
+
+  [21:01:32] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+    Status: completed
+
+  [21:01:32] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-04-30
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Frieda277 is a 39 year-old nonhispanic white female.
+      # Social History
+
+  [21:01:32] DOCUMENT: History and physical note
+    Status: superseded
+
+  [21:16:32] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-08-27
+
+  [21:01:32] VISIT: General examination of patient (procedure)
+    Provider: Dr. Fritz267 Farrell962
+    Location: CARING HEALTH CENTER, INC
+    Duration: 21:01:32 - 21:16:32
+
+  [21:01:32] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [21:01:32] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [21:01:32] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-08-27
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Frieda277 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [21:01:32] DOCUMENT: History and physical note
+    Status: superseded
+
+  [21:16:32] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2023-09-01
+
+  [21:01:32] VISIT: General examination of patient (procedure)
+    Provider: Dr. Fritz267 Farrell962
+    Location: CARING HEALTH CENTER, INC
+    Duration: 21:01:32 - 21:16:32
+
+  [21:01:32] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [21:01:32] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [21:01:32] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [21:01:32] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-09-01
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Frieda277 is a 42 year-old nonhispanic white female.
+      # Social History
+
+  [21:01:32] DOCUMENT: History and physical note
+    Status: superseded
+
+  [21:16:32] CLAIM: professional
+    Amount: USD 544.80
+
+
+📅 2025-09-05
+
+  [21:01:32] VISIT: General examination of patient (procedure)
+    Provider: Dr. Fritz267 Farrell962
+    Location: CARING HEALTH CENTER, INC
+    Duration: 21:01:32 - 21:16:32
+
+  [21:01:32] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [21:01:32] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-09-05
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Frieda277 is a 44 year-old nonhispanic white female.
+      # Social History
+
+  [21:01:32] DOCUMENT: History and physical note
+    Status: current
+
+  [21:16:32] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2026-02-13
+
+  [20:01:32] PROVENANCE: Record activity
+    Agents: Dr. Fritz267 Farrell962, Dr. Fritz267 Farrell962
+
+================================================================================
+END OF TIMELINE (34 events)
+================================================================================

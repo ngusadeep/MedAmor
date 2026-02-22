@@ -1,0 +1,191 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Mrs. Josephine273 Maryalice613 Koelpin146
+  Patient ID: 71410
+  Date of Birth: 1982-12-27
+  Gender: Female
+  Race: White
+  Ethnicity: Not Hispanic or Latino
+  Marital Status: Married
+  Address: 971 Quigley Trail, Williamstown, MA 01267
+  Phone: 555-160-2010
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2017-03-13
+
+  [03:23:16] VISIT: General examination of patient (procedure)
+    Provider: Dr. Roxanna261 Gleichner915
+    Location: FAIRVIEW HOSPITAL
+    Duration: 03:23:16 - 03:38:16
+
+  [03:23:16] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [03:23:16] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-03-13
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Josephine273 Maryalice613 is a 34 year-old nonhispanic white female.
+      # Social History
+
+  [03:23:16] DOCUMENT: History and physical note
+    Status: superseded
+
+  [03:38:16] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2020-03-16
+
+  [03:23:16] VISIT: General examination of patient (procedure)
+    Provider: Dr. Roxanna261 Gleichner915
+    Location: FAIRVIEW HOSPITAL
+    Duration: 03:23:16 - 03:38:16
+
+  [03:23:16] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [03:23:16] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-03-16
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Josephine273 Maryalice613 is a 37 year-old nonhispanic white female.
+      # Social History
+
+  [03:23:16] DOCUMENT: History and physical note
+    Status: superseded
+
+  [03:38:16] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2021-10-18
+
+  [03:23:16] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Carroll471 Eichmann909
+    Location: BERKSHIRE MEDICAL CENTER INC
+    Duration: 03:23:16 - 03:38:16
+
+  [03:23:16] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+    Status: completed
+
+  [03:23:16] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-10-18
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Josephine273 Maryalice613 is a 38 year-old nonhispanic white female.
+      # Social History
+
+  [03:23:16] DOCUMENT: History and physical note
+    Status: superseded
+
+  [03:38:16] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-11-15
+
+  [02:23:16] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Carroll471 Eichmann909
+    Location: BERKSHIRE MEDICAL CENTER INC
+    Duration: 02:23:16 - 02:38:16
+
+  [02:23:16] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+    Status: completed
+
+  [02:23:16] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-11-15
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Josephine273 Maryalice613 is a 38 year-old nonhispanic white female.
+      # Social History
+
+  [02:23:16] DOCUMENT: History and physical note
+    Status: superseded
+
+  [02:38:16] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2023-01-02
+
+  [02:23:16] VISIT: General examination of patient (procedure)
+    Provider: Dr. Roxanna261 Gleichner915
+    Location: FAIRVIEW HOSPITAL
+    Duration: 02:23:16 - 02:38:16
+
+  [02:23:16] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [02:23:16] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [02:23:16] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-01-02
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Josephine273 Maryalice613 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [02:23:16] DOCUMENT: History and physical note
+    Status: superseded
+
+  [02:38:16] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2025-01-06
+
+  [02:23:16] VISIT: General examination of patient (procedure)
+    Provider: Dr. Roxanna261 Gleichner915
+    Location: FAIRVIEW HOSPITAL
+    Duration: 02:23:16 - 02:38:16
+
+  [02:23:16] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [02:23:16] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [02:23:16] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [02:23:16] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-01-06
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Josephine273 Maryalice613 is a 42 year-old nonhispanic white female.
+      # Social History
+
+  [02:23:16] DOCUMENT: History and physical note
+    Status: current
+
+  [02:38:16] CLAIM: professional
+    Amount: USD 544.80
+
+
+📅 2026-02-16
+
+  [02:23:16] PROVENANCE: Record activity
+    Agents: Dr. Roxanna261 Gleichner915, Dr. Roxanna261 Gleichner915
+
+================================================================================
+END OF TIMELINE (34 events)
+================================================================================

@@ -1,0 +1,2416 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Mrs. Candi549 Season349 Kertzmann286
+  Patient ID: 22220
+  Date of Birth: 1959-01-06
+  Gender: Female
+  Race: White
+  Ethnicity: Not Hispanic or Latino
+  Marital Status: Divorced
+  Address: 285 Weimann Annex, Newton, MA 02458
+  Phone: 555-393-3825
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2016-02-16
+
+  [15:39:06] VISIT: General examination of patient (procedure)
+    Provider: Dr. Elvin140 Marks830
+    Location: STANFORD HEALTH CARE
+    Duration: 15:39:06 - 15:54:06
+
+  [15:39:06] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [15:39:06] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-02-16
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Candi549 Season349 is a 57 year-old nonhispanic white female.
+      # Social History
+
+  [15:39:06] DOCUMENT: History and physical note
+    Status: superseded
+
+  [15:54:06] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2017-02-21
+
+  [15:39:06] VISIT: General examination of patient (procedure)
+    Provider: Dr. Elvin140 Marks830
+    Location: STANFORD HEALTH CARE
+    Duration: 15:39:06 - 15:54:06
+
+  [15:39:06] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [15:39:06] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-02-21
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Candi549 Season349 is a 58 year-old nonhispanic white female.
+      # Social History
+
+  [15:39:06] DOCUMENT: History and physical note
+    Status: superseded
+
+  [15:54:06] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2018-02-27
+
+  [15:39:06] VISIT: General examination of patient (procedure)
+    Provider: Dr. Elvin140 Marks830
+    Location: STANFORD HEALTH CARE
+    Duration: 15:39:06 - 15:54:06
+
+  [15:39:06] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [15:39:06] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-02-27
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Candi549 Season349 is a 59 year-old nonhispanic white female.
+      # Social History
+
+  [15:39:06] DOCUMENT: History and physical note
+    Status: superseded
+
+  [15:54:06] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2019-03-05
+
+  [15:39:06] VISIT: General examination of patient (procedure)
+    Provider: Dr. Elvin140 Marks830
+    Location: STANFORD HEALTH CARE
+    Duration: 15:39:06 - 15:54:06
+
+  [15:39:06] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [15:39:06] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-03-05
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Candi549 Season349 is a 60 year-old nonhispanic white female.
+      # Social History
+
+  [15:39:06] DOCUMENT: History and physical note
+    Status: superseded
+
+  [15:54:06] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2020-02-18
+
+  [15:39:06] VISIT: Periodic reevaluation and management of healthy individual (procedure)
+    Reason: Screening for malignant neoplasm of breast (procedure)
+    Provider: Dr. Darnell564 Leannon79
+    Location: CHILDREN'S HOSPITAL CORPORATION
+    Duration: 15:39:06 - 01:23:00
+
+  [15:39:06] PROCEDURE: Screening mammography (procedure)
+    Status: completed
+
+  [15:39:06] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-02-18
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Candi549 Season349 is a 61 year-old nonhispanic white female.
+      # Social History
+
+  [15:39:06] DOCUMENT: History and physical note
+    Status: superseded
+
+  [16:02:17] PROCEDURE: Ultrasonography of bilateral breasts (procedure)
+    Status: completed
+
+  [16:21:50] PROCEDURE: Biopsy of breast (procedure)
+    Status: completed
+
+  [16:54:00] CONDITION: Malignant neoplasm of breast (disorder) (active)
+
+  [16:54:00] OBSERVATION: Site of distant metastasis in Breast tumor: None (qualifier value)
+
+  [16:54:00] OBSERVATION: Distant metastases.clinical [Class] Cancer: American Joint Committee on Cancer cM0 (qualifier value)
+
+  [16:54:00] OBSERVATION: Size.maximum dimension in Tumor: 0.8687 cm
+
+  [16:54:00] OBSERVATION: Primary tumor.clinical [Class] Cancer: American Joint Committee on Cancer cT1 (qualifier value)
+
+  [16:54:00] OBSERVATION: Lymph nodes with macrometastases [#] in Cancer specimen by Light microscopy: 7.1979 {#}
+
+  [16:54:00] OBSERVATION: Regional lymph nodes.clinical [Class] Cancer: American Joint Committee on Cancer cN2 (qualifier value)
+
+  [16:54:00] PROCEDURE: Human epidermal growth factor receptor 2 gene detection by fluorescence in situ hybridization (procedure)
+    Status: completed
+
+
+📅 2020-02-19
+
+  [21:54:00] PROCEDURE: Human epidermal growth factor receptor 2 gene detection by immunohistochemistry (procedure)
+    Status: completed
+
+
+📅 2020-02-20
+
+  [01:23:00] OBSERVATION: HER2 [Presence] in Breast cancer specimen by Immune stain: Negative (qualifier value)
+
+  [01:23:00] OBSERVATION: ERBB2 gene duplication [Presence] in Breast cancer specimen by FISH: less than 1.8
+
+  [01:23:00] OBSERVATION: Estrogen receptor Ag [Presence] in Breast cancer specimen by Immune stain: Negative (qualifier value)
+
+  [01:23:00] OBSERVATION: Progesterone receptor Ag [Presence] in Breast cancer specimen by Immune stain: Positive (qualifier value)
+
+  [01:23:00] OBSERVATION: Stage group.clinical Cancer: American Joint Committee on Cancer stage IIIA (qualifier value)
+
+  [01:23:00] OBSERVATION: Stage group.clinical Cancer: Stage 3 (qualifier value)
+
+  [01:23:00] CLAIM: professional
+    Amount: USD 4930.25
+
+
+📅 2020-02-21
+
+  [06:23:00] VISIT: Discussion about treatment (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Darnell564 Leannon79
+    Location: CHILDREN'S HOSPITAL CORPORATION
+    Duration: 06:23:00 - 07:18:56
+
+  [06:23:00] PROCEDURE: Discussion about options (procedure)
+    Status: completed
+
+  [06:23:00] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-02-21
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Candi549 Season349 is a 61 year-old nonhispanic white female.
+      # Social History
+
+  [06:23:00] DOCUMENT: History and physical note
+    Status: superseded
+
+  [07:18:56] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2020-02-22
+
+  [08:18:56] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Darnell564 Leannon79
+    Location: CHILDREN'S HOSPITAL CORPORATION
+    Duration: 08:18:56 - 10:16:59
+
+  [08:18:56] PROCEDURE: Chemotherapy (procedure)
+    Status: completed
+
+  [08:18:56] MEDICATION PRESCRIBED: Unknown medication
+    Status: completed
+    Prescribed by: Dr. Darnell564 Leannon79
+
+  [08:18:56] MEDICATION ADMINISTERED: 100 ML Epirubicin Hydrochloride 2 MG/ML Injection
+    Status: completed
+
+  [08:18:56] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-02-22
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Candi549 Season349 is a 61 year-old nonhispanic white female.
+      # Social History
+
+  [08:18:56] DOCUMENT: History and physical note
+    Status: superseded
+
+  [10:16:59] CLAIM: pharmacy
+    Amount: USD 0.87
+
+  [10:16:59] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2020-03-10
+
+  [16:39:06] VISIT: General examination of patient (procedure)
+    Provider: Dr. Elvin140 Marks830
+    Location: STANFORD HEALTH CARE
+    Duration: 16:39:06 - 16:54:06
+
+  [16:39:06] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [16:39:06] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [16:39:06] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-03-10
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Candi549 Season349 is a 61 year-old nonhispanic white female.
+      # Social History
+
+  [16:39:06] DOCUMENT: History and physical note
+    Status: superseded
+
+  [16:54:06] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2020-03-16
+
+  [01:16:59] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Darnell564 Leannon79
+    Location: CHILDREN'S HOSPITAL CORPORATION
+    Duration: 01:16:59 - 03:18:35
+
+  [01:16:59] PROCEDURE: Chemotherapy (procedure)
+    Status: completed
+
+  [01:16:59] MEDICATION PRESCRIBED: Unknown medication
+    Status: completed
+    Prescribed by: Dr. Darnell564 Leannon79
+
+  [01:16:59] MEDICATION ADMINISTERED: 100 ML Epirubicin Hydrochloride 2 MG/ML Injection
+    Status: completed
+
+  [01:16:59] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-03-16
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Candi549 Season349 is a 61 year-old nonhispanic white female.
+      # Social History
+
+  [01:16:59] DOCUMENT: History and physical note
+    Status: superseded
+
+  [03:18:35] CLAIM: pharmacy
+    Amount: USD 0.87
+
+  [03:18:35] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2020-04-07
+
+  [11:18:35] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Darnell564 Leannon79
+    Location: CHILDREN'S HOSPITAL CORPORATION
+    Duration: 11:18:35 - 13:21:01
+
+  [11:18:35] PROCEDURE: Chemotherapy (procedure)
+    Status: completed
+
+  [11:18:35] MEDICATION PRESCRIBED: Unknown medication
+    Status: completed
+    Prescribed by: Dr. Darnell564 Leannon79
+
+  [11:18:35] MEDICATION ADMINISTERED: 100 ML Epirubicin Hydrochloride 2 MG/ML Injection
+    Status: completed
+
+  [11:18:35] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-04-07
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Candi549 Season349 is a 61 year-old nonhispanic white female.
+      # Social History
+
+  [11:18:35] DOCUMENT: History and physical note
+    Status: superseded
+
+  [13:21:01] CLAIM: pharmacy
+    Amount: USD 0.87
+
+  [13:21:01] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2020-04-28
+
+  [00:21:01] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Darnell564 Leannon79
+    Location: CHILDREN'S HOSPITAL CORPORATION
+    Duration: 00:21:01 - 02:35:34
+
+  [00:21:01] PROCEDURE: Chemotherapy (procedure)
+    Status: completed
+
+  [00:21:01] MEDICATION PRESCRIBED: Unknown medication
+    Status: completed
+    Prescribed by: Dr. Darnell564 Leannon79
+
+  [00:21:01] MEDICATION ADMINISTERED: 100 ML Epirubicin Hydrochloride 2 MG/ML Injection
+    Status: completed
+
+  [00:21:01] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-04-28
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Candi549 Season349 is a 61 year-old nonhispanic white female.
+      # Social History
+
+  [00:21:01] DOCUMENT: History and physical note
+    Status: superseded
+
+  [02:35:34] CLAIM: pharmacy
+    Amount: USD 0.87
+
+  [02:35:34] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2020-05-17
+
+  [13:35:34] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Darnell564 Leannon79
+    Location: CHILDREN'S HOSPITAL CORPORATION
+    Duration: 13:35:34 - 14:29:58
+
+  [13:35:34] PROCEDURE: Chemotherapy (procedure)
+    Status: completed
+
+  [13:35:34] MEDICATION PRESCRIBED: Unknown medication
+    Status: completed
+    Prescribed by: Dr. Darnell564 Leannon79
+
+  [13:35:34] MEDICATION ADMINISTERED: 100 ML Epirubicin Hydrochloride 2 MG/ML Injection
+    Status: completed
+
+  [13:35:34] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-05-17
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Candi549 Season349 is a 61 year-old nonhispanic white female.
+      # Social History
+
+  [13:35:34] DOCUMENT: History and physical note
+    Status: superseded
+
+  [14:29:58] CLAIM: pharmacy
+    Amount: USD 1.19
+
+  [14:29:58] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2020-06-08
+
+  [07:29:58] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Darnell564 Leannon79
+    Location: CHILDREN'S HOSPITAL CORPORATION
+    Duration: 07:29:58 - 09:32:58
+
+  [07:29:58] PROCEDURE: Chemotherapy (procedure)
+    Status: completed
+
+  [07:29:58] MEDICATION PRESCRIBED: Unknown medication
+    Status: completed
+    Prescribed by: Dr. Darnell564 Leannon79
+
+  [07:29:58] MEDICATION ADMINISTERED: 100 ML Epirubicin Hydrochloride 2 MG/ML Injection
+    Status: completed
+
+  [07:29:58] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-06-08
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Candi549 Season349 is a 61 year-old nonhispanic white female.
+      # Social History
+
+  [07:29:58] DOCUMENT: History and physical note
+    Status: superseded
+
+  [09:32:58] CLAIM: pharmacy
+    Amount: USD 0.96
+
+  [09:32:58] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2020-06-28
+
+  [13:32:58] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Darnell564 Leannon79
+    Location: CHILDREN'S HOSPITAL CORPORATION
+    Duration: 13:32:58 - 16:21:27
+
+  [13:32:58] PROCEDURE: Chemotherapy (procedure)
+    Status: completed
+
+  [13:32:58] MEDICATION PRESCRIBED: Unknown medication
+    Status: completed
+    Prescribed by: Dr. Darnell564 Leannon79
+
+  [13:32:58] MEDICATION ADMINISTERED: 100 ML Epirubicin Hydrochloride 2 MG/ML Injection
+    Status: completed
+
+  [13:32:58] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-06-28
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Candi549 Season349 is a 61 year-old nonhispanic white female.
+      # Social History
+
+  [13:32:58] DOCUMENT: History and physical note
+    Status: superseded
+
+  [16:21:27] CLAIM: pharmacy
+    Amount: USD 1.19
+
+  [16:21:27] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2020-07-20
+
+  [23:21:27] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Darnell564 Leannon79
+    Location: CHILDREN'S HOSPITAL CORPORATION
+    Duration: 23:21:27 - 02:49:12
+
+  [23:21:27] PROCEDURE: Chemotherapy (procedure)
+    Status: completed
+
+  [23:21:27] MEDICATION PRESCRIBED: Unknown medication
+    Status: completed
+    Prescribed by: Dr. Darnell564 Leannon79
+
+  [23:21:27] MEDICATION ADMINISTERED: 100 ML Epirubicin Hydrochloride 2 MG/ML Injection
+    Status: completed
+
+  [23:21:27] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-07-20
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Candi549 Season349 is a 61 year-old nonhispanic white female.
+      # Social History
+
+  [23:21:27] DOCUMENT: History and physical note
+    Status: superseded
+
+
+📅 2020-07-21
+
+  [02:49:12] CLAIM: pharmacy
+    Amount: USD 1.19
+
+  [02:49:12] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2020-08-07
+
+  [02:49:12] OBSERVATION: Response to cancer treatment: Improving (qualifier value)
+
+  [02:49:12] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Paris331 Ruecker817
+    Location: THE GENERAL HOSPITAL CORPORATION
+    Duration: 02:49:12 - 08:59:44
+
+  [02:49:12] PROCEDURE: Sentinel lymph node biopsy (procedure)
+    Status: completed
+
+  [02:49:12] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-08-07
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Candi549 Season349 is a 61 year-old nonhispanic white female.
+      # Social History
+
+  [02:49:12] DOCUMENT: History and physical note
+    Status: superseded
+
+  [03:30:12] PROCEDURE: Excision of sentinel lymph node (procedure)
+    Status: completed
+
+  [06:45:44] PROCEDURE: Excision of lesion of breast (procedure)
+    Status: completed
+
+
+📅 2020-08-08
+
+  [08:59:44] CLAIM: institutional
+    Amount: USD 22364.33
+
+
+📅 2020-08-17
+
+  [19:59:44] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Darnell564 Leannon79
+    Location: CHILDREN'S HOSPITAL CORPORATION
+    Duration: 19:59:44 - 20:29:08
+
+  [19:59:44] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [19:59:44] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-08-17
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Candi549 Season349 is a 61 year-old nonhispanic white female.
+      # Social History
+
+  [19:59:44] DOCUMENT: History and physical note
+    Status: superseded
+
+  [20:29:08] CLAIM: professional
+    Amount: USD 1359.90
+
+
+📅 2020-08-19
+
+  [03:13:08] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Darnell564 Leannon79
+    Location: CHILDREN'S HOSPITAL CORPORATION
+    Duration: 03:13:08 - 03:36:00
+
+  [03:13:08] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [03:13:08] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-08-19
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Candi549 Season349 is a 61 year-old nonhispanic white female.
+      # Social History
+
+  [03:13:08] DOCUMENT: History and physical note
+    Status: superseded
+
+  [03:36:00] CLAIM: professional
+    Amount: USD 717.41
+
+
+📅 2020-08-20
+
+  [12:34:00] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Darnell564 Leannon79
+    Location: CHILDREN'S HOSPITAL CORPORATION
+    Duration: 12:34:00 - 12:57:45
+
+  [12:34:00] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [12:34:00] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-08-20
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Candi549 Season349 is a 61 year-old nonhispanic white female.
+      # Social History
+
+  [12:34:00] DOCUMENT: History and physical note
+    Status: superseded
+
+  [12:57:45] CLAIM: professional
+    Amount: USD 1359.90
+
+
+📅 2020-08-21
+
+  [16:40:45] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Darnell564 Leannon79
+    Location: CHILDREN'S HOSPITAL CORPORATION
+    Duration: 16:40:45 - 17:11:11
+
+  [16:40:45] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [16:40:45] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-08-21
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Candi549 Season349 is a 61 year-old nonhispanic white female.
+      # Social History
+
+  [16:40:45] DOCUMENT: History and physical note
+    Status: superseded
+
+  [17:11:11] CLAIM: professional
+    Amount: USD 1359.90
+
+
+📅 2020-08-22
+
+  [21:42:11] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Darnell564 Leannon79
+    Location: CHILDREN'S HOSPITAL CORPORATION
+    Duration: 21:42:11 - 22:19:30
+
+  [21:42:11] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [21:42:11] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-08-22
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Candi549 Season349 is a 61 year-old nonhispanic white female.
+      # Social History
+
+  [21:42:11] DOCUMENT: History and physical note
+    Status: superseded
+
+  [22:19:30] CLAIM: professional
+    Amount: USD 1359.90
+
+
+📅 2020-08-24
+
+  [08:48:30] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Darnell564 Leannon79
+    Location: CHILDREN'S HOSPITAL CORPORATION
+    Duration: 08:48:30 - 09:18:48
+
+  [08:48:30] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [08:48:30] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-08-24
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Candi549 Season349 is a 61 year-old nonhispanic white female.
+      # Social History
+
+  [08:48:30] DOCUMENT: History and physical note
+    Status: superseded
+
+  [09:18:48] CLAIM: professional
+    Amount: USD 1359.90
+
+
+📅 2020-08-25
+
+  [20:31:48] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Darnell564 Leannon79
+    Location: CHILDREN'S HOSPITAL CORPORATION
+    Duration: 20:31:48 - 20:59:12
+
+  [20:31:48] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [20:31:48] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-08-25
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Candi549 Season349 is a 61 year-old nonhispanic white female.
+      # Social History
+
+  [20:31:48] DOCUMENT: History and physical note
+    Status: superseded
+
+  [20:59:12] CLAIM: professional
+    Amount: USD 890.83
+
+
+📅 2020-08-27
+
+  [06:32:12] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Darnell564 Leannon79
+    Location: CHILDREN'S HOSPITAL CORPORATION
+    Duration: 06:32:12 - 06:59:35
+
+  [06:32:12] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [06:32:12] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-08-27
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Candi549 Season349 is a 61 year-old nonhispanic white female.
+      # Social History
+
+  [06:32:12] DOCUMENT: History and physical note
+    Status: superseded
+
+  [06:59:35] CLAIM: professional
+    Amount: USD 836.58
+
+
+📅 2020-08-28
+
+  [16:16:35] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Darnell564 Leannon79
+    Location: CHILDREN'S HOSPITAL CORPORATION
+    Duration: 16:16:35 - 16:43:17
+
+  [16:16:35] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [16:16:35] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-08-28
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Candi549 Season349 is a 61 year-old nonhispanic white female.
+      # Social History
+
+  [16:16:35] DOCUMENT: History and physical note
+    Status: superseded
+
+  [16:43:17] CLAIM: professional
+    Amount: USD 512.63
+
+
+📅 2020-08-30
+
+  [03:54:17] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Darnell564 Leannon79
+    Location: CHILDREN'S HOSPITAL CORPORATION
+    Duration: 03:54:17 - 04:18:37
+
+  [03:54:17] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [03:54:17] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-08-30
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Candi549 Season349 is a 61 year-old nonhispanic white female.
+      # Social History
+
+  [03:54:17] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:18:37] CLAIM: professional
+    Amount: USD 604.06
+
+
+📅 2020-08-31
+
+  [06:20:37] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Darnell564 Leannon79
+    Location: CHILDREN'S HOSPITAL CORPORATION
+    Duration: 06:20:37 - 06:39:45
+
+  [06:20:37] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [06:20:37] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-08-31
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Candi549 Season349 is a 61 year-old nonhispanic white female.
+      # Social History
+
+  [06:20:37] DOCUMENT: History and physical note
+    Status: superseded
+
+  [06:39:45] CLAIM: professional
+    Amount: USD 512.63
+
+
+📅 2020-09-01
+
+  [18:22:45] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Darnell564 Leannon79
+    Location: CHILDREN'S HOSPITAL CORPORATION
+    Duration: 18:22:45 - 18:57:57
+
+  [18:22:45] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [18:22:45] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-09-01
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Candi549 Season349 is a 61 year-old nonhispanic white female.
+      # Social History
+
+  [18:22:45] DOCUMENT: History and physical note
+    Status: superseded
+
+  [18:57:57] CLAIM: professional
+    Amount: USD 512.63
+
+
+📅 2020-09-02
+
+  [22:30:57] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Darnell564 Leannon79
+    Location: CHILDREN'S HOSPITAL CORPORATION
+    Duration: 22:30:57 - 22:52:50
+
+  [22:30:57] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [22:30:57] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-09-02
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Candi549 Season349 is a 61 year-old nonhispanic white female.
+      # Social History
+
+  [22:30:57] DOCUMENT: History and physical note
+    Status: superseded
+
+  [22:52:50] CLAIM: professional
+    Amount: USD 1359.90
+
+
+📅 2020-09-04
+
+  [07:15:50] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Darnell564 Leannon79
+    Location: CHILDREN'S HOSPITAL CORPORATION
+    Duration: 07:15:50 - 07:49:17
+
+  [07:15:50] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [07:15:50] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-09-04
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Candi549 Season349 is a 61 year-old nonhispanic white female.
+      # Social History
+
+  [07:15:50] DOCUMENT: History and physical note
+    Status: superseded
+
+  [07:49:17] CLAIM: professional
+    Amount: USD 990.68
+
+
+📅 2020-09-05
+
+  [17:16:17] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Darnell564 Leannon79
+    Location: CHILDREN'S HOSPITAL CORPORATION
+    Duration: 17:16:17 - 17:42:14
+
+  [17:16:17] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [17:16:17] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-09-05
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Candi549 Season349 is a 61 year-old nonhispanic white female.
+      # Social History
+
+  [17:16:17] DOCUMENT: History and physical note
+    Status: superseded
+
+  [17:42:14] CLAIM: professional
+    Amount: USD 512.63
+
+
+📅 2020-09-06
+
+  [20:30:14] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Darnell564 Leannon79
+    Location: CHILDREN'S HOSPITAL CORPORATION
+    Duration: 20:30:14 - 20:53:17
+
+  [20:30:14] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [20:30:14] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-09-06
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Candi549 Season349 is a 61 year-old nonhispanic white female.
+      # Social History
+
+  [20:30:14] DOCUMENT: History and physical note
+    Status: superseded
+
+  [20:53:17] CLAIM: professional
+    Amount: USD 512.63
+
+
+📅 2020-09-08
+
+  [06:05:17] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Darnell564 Leannon79
+    Location: CHILDREN'S HOSPITAL CORPORATION
+    Duration: 06:05:17 - 06:32:18
+
+  [06:05:17] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [06:05:17] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-09-08
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Candi549 Season349 is a 61 year-old nonhispanic white female.
+      # Social History
+
+  [06:05:17] DOCUMENT: History and physical note
+    Status: superseded
+
+  [06:32:18] CLAIM: professional
+    Amount: USD 512.63
+
+
+📅 2020-09-09
+
+  [09:04:18] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Darnell564 Leannon79
+    Location: CHILDREN'S HOSPITAL CORPORATION
+    Duration: 09:04:18 - 09:23:12
+
+  [09:04:18] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [09:04:18] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-09-09
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Candi549 Season349 is a 61 year-old nonhispanic white female.
+      # Social History
+
+  [09:04:18] DOCUMENT: History and physical note
+    Status: superseded
+
+  [09:23:12] CLAIM: professional
+    Amount: USD 938.97
+
+
+📅 2020-09-10
+
+  [19:20:12] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Darnell564 Leannon79
+    Location: CHILDREN'S HOSPITAL CORPORATION
+    Duration: 19:20:12 - 19:56:56
+
+  [19:20:12] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [19:20:12] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-09-10
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Candi549 Season349 is a 61 year-old nonhispanic white female.
+      # Social History
+
+  [19:20:12] DOCUMENT: History and physical note
+    Status: superseded
+
+  [19:56:56] CLAIM: professional
+    Amount: USD 1359.90
+
+
+📅 2020-09-11
+
+  [22:47:56] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Darnell564 Leannon79
+    Location: CHILDREN'S HOSPITAL CORPORATION
+    Duration: 22:47:56 - 23:09:01
+
+  [22:47:56] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [22:47:56] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-09-11
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Candi549 Season349 is a 61 year-old nonhispanic white female.
+      # Social History
+
+  [22:47:56] DOCUMENT: History and physical note
+    Status: superseded
+
+  [23:09:01] CLAIM: professional
+    Amount: USD 512.63
+
+
+📅 2020-09-13
+
+  [00:11:01] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Darnell564 Leannon79
+    Location: CHILDREN'S HOSPITAL CORPORATION
+    Duration: 00:11:01 - 00:44:55
+
+  [00:11:01] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [00:11:01] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-09-13
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Candi549 Season349 is a 61 year-old nonhispanic white female.
+      # Social History
+
+  [00:11:01] DOCUMENT: History and physical note
+    Status: superseded
+
+  [00:44:55] CLAIM: professional
+    Amount: USD 1359.90
+
+
+📅 2020-09-14
+
+  [03:47:55] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Darnell564 Leannon79
+    Location: CHILDREN'S HOSPITAL CORPORATION
+    Duration: 03:47:55 - 04:26:11
+
+  [03:47:55] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [03:47:55] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-09-14
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Candi549 Season349 is a 61 year-old nonhispanic white female.
+      # Social History
+
+  [03:47:55] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:26:11] CLAIM: professional
+    Amount: USD 512.63
+
+
+📅 2020-09-15
+
+  [14:03:11] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Darnell564 Leannon79
+    Location: CHILDREN'S HOSPITAL CORPORATION
+    Duration: 14:03:11 - 14:26:59
+
+  [14:03:11] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [14:03:11] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-09-15
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Candi549 Season349 is a 61 year-old nonhispanic white female.
+      # Social History
+
+  [14:03:11] DOCUMENT: History and physical note
+    Status: superseded
+
+  [14:26:59] CLAIM: professional
+    Amount: USD 1359.90
+
+
+📅 2020-09-16
+
+  [16:33:59] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Darnell564 Leannon79
+    Location: CHILDREN'S HOSPITAL CORPORATION
+    Duration: 16:33:59 - 16:54:33
+
+  [16:33:59] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [16:33:59] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-09-16
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Candi549 Season349 is a 61 year-old nonhispanic white female.
+      # Social History
+
+  [16:33:59] DOCUMENT: History and physical note
+    Status: superseded
+
+  [16:54:33] CLAIM: professional
+    Amount: USD 512.63
+
+
+📅 2020-09-17
+
+  [23:41:33] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Darnell564 Leannon79
+    Location: CHILDREN'S HOSPITAL CORPORATION
+    Duration: 23:41:33 - 00:10:00
+
+  [23:41:33] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [23:41:33] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-09-17
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Candi549 Season349 is a 61 year-old nonhispanic white female.
+      # Social History
+
+  [23:41:33] DOCUMENT: History and physical note
+    Status: superseded
+
+
+📅 2020-09-18
+
+  [00:10:00] CLAIM: professional
+    Amount: USD 512.63
+
+
+📅 2020-09-19
+
+  [02:09:00] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Darnell564 Leannon79
+    Location: CHILDREN'S HOSPITAL CORPORATION
+    Duration: 02:09:00 - 02:43:52
+
+  [02:09:00] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [02:09:00] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-09-19
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Candi549 Season349 is a 61 year-old nonhispanic white female.
+      # Social History
+
+  [02:09:00] DOCUMENT: History and physical note
+    Status: superseded
+
+  [02:43:52] CLAIM: professional
+    Amount: USD 1031.35
+
+
+📅 2020-09-20
+
+  [05:23:52] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Darnell564 Leannon79
+    Location: CHILDREN'S HOSPITAL CORPORATION
+    Duration: 05:23:52 - 05:58:58
+
+  [05:23:52] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [05:23:52] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-09-20
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Candi549 Season349 is a 61 year-old nonhispanic white female.
+      # Social History
+
+  [05:23:52] DOCUMENT: History and physical note
+    Status: superseded
+
+  [05:58:58] CLAIM: professional
+    Amount: USD 609.98
+
+
+📅 2020-09-21
+
+  [09:25:58] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Darnell564 Leannon79
+    Location: CHILDREN'S HOSPITAL CORPORATION
+    Duration: 09:25:58 - 09:47:59
+
+  [09:25:58] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [09:25:58] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-09-21
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Candi549 Season349 is a 61 year-old nonhispanic white female.
+      # Social History
+
+  [09:25:58] DOCUMENT: History and physical note
+    Status: superseded
+
+  [09:47:59] CLAIM: professional
+    Amount: USD 848.66
+
+
+📅 2020-09-22
+
+  [21:16:59] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Darnell564 Leannon79
+    Location: CHILDREN'S HOSPITAL CORPORATION
+    Duration: 21:16:59 - 21:41:58
+
+  [21:16:59] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [21:16:59] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-09-22
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Candi549 Season349 is a 61 year-old nonhispanic white female.
+      # Social History
+
+  [21:16:59] DOCUMENT: History and physical note
+    Status: superseded
+
+  [21:41:58] CLAIM: professional
+    Amount: USD 1359.90
+
+
+📅 2020-09-24
+
+  [06:14:58] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Darnell564 Leannon79
+    Location: CHILDREN'S HOSPITAL CORPORATION
+    Duration: 06:14:58 - 06:33:31
+
+  [06:14:58] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [06:14:58] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-09-24
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Candi549 Season349 is a 61 year-old nonhispanic white female.
+      # Social History
+
+  [06:14:58] DOCUMENT: History and physical note
+    Status: superseded
+
+  [06:33:31] CLAIM: professional
+    Amount: USD 512.63
+
+
+📅 2020-09-25
+
+  [16:21:31] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Darnell564 Leannon79
+    Location: CHILDREN'S HOSPITAL CORPORATION
+    Duration: 16:21:31 - 16:46:45
+
+  [16:21:31] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [16:21:31] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-09-25
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Candi549 Season349 is a 61 year-old nonhispanic white female.
+      # Social History
+
+  [16:21:31] DOCUMENT: History and physical note
+    Status: superseded
+
+  [16:46:45] CLAIM: professional
+    Amount: USD 812.11
+
+
+📅 2020-09-26
+
+  [23:30:45] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Darnell564 Leannon79
+    Location: CHILDREN'S HOSPITAL CORPORATION
+    Duration: 23:30:45 - 23:47:22
+
+  [23:30:45] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [23:30:45] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-09-26
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Candi549 Season349 is a 61 year-old nonhispanic white female.
+      # Social History
+
+  [23:30:45] DOCUMENT: History and physical note
+    Status: superseded
+
+  [23:47:22] CLAIM: professional
+    Amount: USD 512.63
+
+
+📅 2020-09-28
+
+  [04:15:22] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Darnell564 Leannon79
+    Location: CHILDREN'S HOSPITAL CORPORATION
+    Duration: 04:15:22 - 04:54:15
+
+  [04:15:22] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [04:15:22] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-09-28
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Candi549 Season349 is a 61 year-old nonhispanic white female.
+      # Social History
+
+  [04:15:22] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:54:15] CLAIM: professional
+    Amount: USD 512.63
+
+
+📅 2020-09-29
+
+  [08:45:15] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Darnell564 Leannon79
+    Location: CHILDREN'S HOSPITAL CORPORATION
+    Duration: 08:45:15 - 09:19:11
+
+  [08:45:15] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [08:45:15] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-09-29
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Candi549 Season349 is a 61 year-old nonhispanic white female.
+      # Social History
+
+  [08:45:15] DOCUMENT: History and physical note
+    Status: superseded
+
+  [09:19:11] CLAIM: professional
+    Amount: USD 551.78
+
+
+📅 2020-10-05
+
+  [22:19:11] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Darnell564 Leannon79
+    Location: CHILDREN'S HOSPITAL CORPORATION
+    Duration: 22:19:11 - 22:34:11
+
+  [22:19:11] OBSERVATION: Treatment status Cancer: Treatment changed (situation)
+
+  [22:19:11] OBSERVATION: Response to cancer treatment: Improving (qualifier value)
+
+  [22:19:11] MEDICATION PRESCRIBED: Unknown medication
+    Status: completed
+    Prescribed by: Dr. Darnell564 Leannon79
+
+  [22:19:11] MEDICATION ADMINISTERED: Tamoxifen 10 MG Oral Tablet
+    Status: completed
+    Dosage: 1.0
+
+  [22:19:11] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-10-05
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Candi549 Season349 is a 61 year-old nonhispanic white female.
+      # Social History
+
+  [22:19:11] DOCUMENT: History and physical note
+    Status: superseded
+
+  [22:34:11] CLAIM: pharmacy
+    Amount: USD 353.40
+
+  [22:34:11] CLAIM: professional
+    Amount: USD 85.55
+
+
+📅 2021-01-13
+
+  [21:19:11] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Haywood675 Strosin214
+    Location: Patient's Home
+    Duration: 21:19:11 - 21:55:21
+
+  [21:19:11] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [21:19:11] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-01-13
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Candi549 Season349 is a 62 year-old nonhispanic white female.
+      # Social History
+
+  [21:19:11] DOCUMENT: History and physical note
+    Status: superseded
+
+  [21:55:21] CLAIM: institutional
+    Amount: USD 556.40
+
+
+📅 2021-03-16
+
+  [16:39:06] VISIT: General examination of patient (procedure)
+    Provider: Dr. Elvin140 Marks830
+    Location: STANFORD HEALTH CARE
+    Duration: 16:39:06 - 16:54:06
+
+  [16:39:06] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [16:39:06] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-03-16
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Candi549 Season349 is a 62 year-old nonhispanic white female.
+      # Social History
+
+  [16:39:06] DOCUMENT: History and physical note
+    Status: superseded
+
+  [16:54:06] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2021-05-06
+
+  [22:55:21] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Darnell564 Leannon79
+    Location: CHILDREN'S HOSPITAL CORPORATION
+    Duration: 22:55:21 - 23:31:38
+
+  [22:55:21] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [22:55:21] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-05-06
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Candi549 Season349 is a 62 year-old nonhispanic white female.
+      # Social History
+
+  [22:55:21] DOCUMENT: History and physical note
+    Status: superseded
+
+  [23:31:38] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2021-08-31
+
+  [23:31:38] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Darnell564 Leannon79
+    Location: CHILDREN'S HOSPITAL CORPORATION
+    Duration: 23:31:38 - 00:08:05
+
+  [23:31:38] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [23:31:38] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-08-31
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Candi549 Season349 is a 62 year-old nonhispanic white female.
+      # Social History
+
+  [23:31:38] DOCUMENT: History and physical note
+    Status: superseded
+
+
+📅 2021-09-01
+
+  [00:08:05] CLAIM: professional
+    Amount: USD 573.98
+
+  [00:08:05] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Darnell564 Leannon79
+    Location: CHILDREN'S HOSPITAL CORPORATION
+    Duration: 00:08:05 - 00:25:34
+
+  [00:08:05] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [00:08:05] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-09-01
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Candi549 Season349 is a 62 year-old nonhispanic white female.
+      # Social History
+
+  [00:08:05] DOCUMENT: History and physical note
+    Status: superseded
+
+  [00:25:34] CLAIM: professional
+    Amount: USD 266.55
+
+  [00:25:34] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Darnell564 Leannon79
+    Location: CHILDREN'S HOSPITAL CORPORATION
+    Duration: 00:25:34 - 00:52:55
+
+  [00:25:34] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [00:25:34] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-09-01
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Candi549 Season349 is a 62 year-old nonhispanic white female.
+      # Social History
+
+  [00:25:34] DOCUMENT: History and physical note
+    Status: superseded
+
+  [00:37:29] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [00:52:55] OBSERVATION: Response to cancer treatment: Improving (qualifier value)
+
+  [00:52:55] CLAIM: professional
+    Amount: USD 2444.00
+
+
+📅 2021-09-14
+
+  [16:39:06] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Dewayne363 Lemke654
+    Location: MOUNT AUBURN HOSPITAL
+    Duration: 16:39:06 - 16:54:06
+
+  [16:39:06] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 30 mcg/0.3 mL dose
+    Status: completed
+
+  [16:39:06] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-09-14
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Candi549 Season349 is a 62 year-old nonhispanic white female.
+      # Social History
+
+  [16:39:06] DOCUMENT: History and physical note
+    Status: superseded
+
+  [16:54:06] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-10-05
+
+  [16:39:06] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Dewayne363 Lemke654
+    Location: MOUNT AUBURN HOSPITAL
+    Duration: 16:39:06 - 16:54:06
+
+  [16:39:06] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 30 mcg/0.3 mL dose
+    Status: completed
+
+  [16:39:06] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-10-05
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Candi549 Season349 is a 62 year-old nonhispanic white female.
+      # Social History
+
+  [16:39:06] DOCUMENT: History and physical note
+    Status: superseded
+
+  [16:54:06] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-12-13
+
+  [23:52:55] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Darnell564 Leannon79
+    Location: CHILDREN'S HOSPITAL CORPORATION
+    Duration: 23:52:55 - 00:24:08
+
+  [23:52:55] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [23:52:55] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-12-13
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Candi549 Season349 is a 62 year-old nonhispanic white female.
+      # Social History
+
+  [23:52:55] DOCUMENT: History and physical note
+    Status: superseded
+
+
+📅 2021-12-14
+
+  [00:24:08] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2022-03-22
+
+  [16:39:06] VISIT: General examination of patient (procedure)
+    Provider: Dr. Elvin140 Marks830
+    Location: STANFORD HEALTH CARE
+    Duration: 16:39:06 - 16:54:06
+
+  [16:39:06] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [16:39:06] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-03-22
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Candi549 Season349 is a 63 year-old nonhispanic white female.
+      # Social History
+
+  [16:39:06] DOCUMENT: History and physical note
+    Status: superseded
+
+  [16:54:06] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2022-04-06
+
+  [01:24:08] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Darnell564 Leannon79
+    Location: CHILDREN'S HOSPITAL CORPORATION
+    Duration: 01:24:08 - 02:08:23
+
+  [01:24:08] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [01:24:08] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-04-06
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Candi549 Season349 is a 63 year-old nonhispanic white female.
+      # Social History
+
+  [01:24:08] DOCUMENT: History and physical note
+    Status: superseded
+
+  [02:08:23] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2022-07-18
+
+  [02:08:23] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Darnell564 Leannon79
+    Location: CHILDREN'S HOSPITAL CORPORATION
+    Duration: 02:08:23 - 02:40:50
+
+  [02:08:23] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [02:08:23] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-07-18
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Candi549 Season349 is a 63 year-old nonhispanic white female.
+      # Social History
+
+  [02:08:23] DOCUMENT: History and physical note
+    Status: superseded
+
+  [02:40:50] CLAIM: professional
+    Amount: USD 573.98
+
+  [02:40:50] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Darnell564 Leannon79
+    Location: CHILDREN'S HOSPITAL CORPORATION
+    Duration: 02:40:50 - 02:58:47
+
+  [02:40:50] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [02:40:50] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-07-18
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Candi549 Season349 is a 63 year-old nonhispanic white female.
+      # Social History
+
+  [02:40:50] DOCUMENT: History and physical note
+    Status: superseded
+
+  [02:58:47] CLAIM: professional
+    Amount: USD 325.49
+
+  [02:58:47] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Darnell564 Leannon79
+    Location: CHILDREN'S HOSPITAL CORPORATION
+    Duration: 02:58:47 - 03:26:55
+
+  [02:58:47] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [02:58:47] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-07-18
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Candi549 Season349 is a 63 year-old nonhispanic white female.
+      # Social History
+
+  [02:58:47] DOCUMENT: History and physical note
+    Status: superseded
+
+  [03:10:07] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [03:26:55] OBSERVATION: Response to cancer treatment: Improving (qualifier value)
+
+  [03:26:55] CLAIM: professional
+    Amount: USD 2503.70
+
+
+📅 2022-11-04
+
+  [03:26:55] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Darnell564 Leannon79
+    Location: CHILDREN'S HOSPITAL CORPORATION
+    Duration: 03:26:55 - 04:05:23
+
+  [03:26:55] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [03:26:55] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-11-04
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Candi549 Season349 is a 63 year-old nonhispanic white female.
+      # Social History
+
+  [03:26:55] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:05:23] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2023-02-16
+
+  [03:05:23] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Darnell564 Leannon79
+    Location: CHILDREN'S HOSPITAL CORPORATION
+    Duration: 03:05:23 - 03:38:44
+
+  [03:05:23] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [03:05:23] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-02-16
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Candi549 Season349 is a 64 year-old nonhispanic white female.
+      # Social History
+
+  [03:05:23] DOCUMENT: History and physical note
+    Status: superseded
+
+  [03:38:44] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2023-03-28
+
+  [16:39:06] VISIT: General examination of patient (procedure)
+    Provider: Dr. Elvin140 Marks830
+    Location: STANFORD HEALTH CARE
+    Duration: 16:39:06 - 16:54:06
+
+  [16:39:06] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [16:39:06] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-03-28
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Candi549 Season349 is a 64 year-old nonhispanic white female.
+      # Social History
+
+  [16:39:06] DOCUMENT: History and physical note
+    Status: superseded
+
+  [16:54:06] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2023-05-30
+
+  [04:38:44] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Darnell564 Leannon79
+    Location: CHILDREN'S HOSPITAL CORPORATION
+    Duration: 04:38:44 - 05:14:43
+
+  [04:38:44] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [04:38:44] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-05-30
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Candi549 Season349 is a 64 year-old nonhispanic white female.
+      # Social History
+
+  [04:38:44] DOCUMENT: History and physical note
+    Status: superseded
+
+  [05:14:43] CLAIM: professional
+    Amount: USD 573.98
+
+  [05:14:43] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Darnell564 Leannon79
+    Location: CHILDREN'S HOSPITAL CORPORATION
+    Duration: 05:14:43 - 05:33:31
+
+  [05:14:43] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [05:14:43] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-05-30
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Candi549 Season349 is a 64 year-old nonhispanic white female.
+      # Social History
+
+  [05:14:43] DOCUMENT: History and physical note
+    Status: superseded
+
+  [05:33:31] CLAIM: professional
+    Amount: USD 211.60
+
+  [05:33:31] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Darnell564 Leannon79
+    Location: CHILDREN'S HOSPITAL CORPORATION
+    Duration: 05:33:31 - 06:02:56
+
+  [05:33:31] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [05:33:31] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-05-30
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Candi549 Season349 is a 64 year-old nonhispanic white female.
+      # Social History
+
+  [05:33:31] DOCUMENT: History and physical note
+    Status: superseded
+
+  [05:47:01] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [06:02:56] OBSERVATION: Response to cancer treatment: Improving (qualifier value)
+
+  [06:02:56] CLAIM: professional
+    Amount: USD 1221.08
+
+
+📅 2023-10-01
+
+  [06:02:56] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Darnell564 Leannon79
+    Location: CHILDREN'S HOSPITAL CORPORATION
+    Duration: 06:02:56 - 06:44:07
+
+  [06:02:56] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [06:02:56] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-10-01
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Candi549 Season349 is a 64 year-old nonhispanic white female.
+      # Social History
+
+  [06:02:56] DOCUMENT: History and physical note
+    Status: superseded
+
+  [06:44:07] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2024-01-30
+
+  [05:44:07] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Darnell564 Leannon79
+    Location: CHILDREN'S HOSPITAL CORPORATION
+    Duration: 05:44:07 - 06:25:27
+
+  [05:44:07] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [05:44:07] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-01-30
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Candi549 Season349 is a 65 year-old nonhispanic white female.
+      # Social History
+
+  [05:44:07] DOCUMENT: History and physical note
+    Status: superseded
+
+  [06:25:27] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2024-04-02
+
+  [16:39:06] VISIT: General examination of patient (procedure)
+    Provider: Dr. Elvin140 Marks830
+    Location: STANFORD HEALTH CARE
+    Duration: 16:39:06 - 16:54:06
+
+  [16:39:06] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [16:39:06] IMMUNIZATION: Pneumococcal conjugate PCV 13
+    Status: completed
+
+  [16:39:06] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-04-02
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Candi549 Season349 is a 65 year-old nonhispanic white female.
+      # Social History
+
+  [16:39:06] DOCUMENT: History and physical note
+    Status: superseded
+
+  [16:54:06] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2024-06-03
+
+  [07:25:27] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Darnell564 Leannon79
+    Location: CHILDREN'S HOSPITAL CORPORATION
+    Duration: 07:25:27 - 08:08:43
+
+  [07:25:27] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [07:25:27] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-06-03
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Candi549 Season349 is a 65 year-old nonhispanic white female.
+      # Social History
+
+  [07:25:27] DOCUMENT: History and physical note
+    Status: superseded
+
+  [08:08:43] CLAIM: professional
+    Amount: USD 573.98
+
+  [08:08:43] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Darnell564 Leannon79
+    Location: CHILDREN'S HOSPITAL CORPORATION
+    Duration: 08:08:43 - 08:29:41
+
+  [08:08:43] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [08:08:43] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-06-03
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Candi549 Season349 is a 65 year-old nonhispanic white female.
+      # Social History
+
+  [08:08:43] DOCUMENT: History and physical note
+    Status: superseded
+
+  [08:29:41] CLAIM: professional
+    Amount: USD 211.60
+
+  [08:29:41] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Darnell564 Leannon79
+    Location: CHILDREN'S HOSPITAL CORPORATION
+    Duration: 08:29:41 - 09:03:18
+
+  [08:29:41] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [08:29:41] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-06-03
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Candi549 Season349 is a 65 year-old nonhispanic white female.
+      # Social History
+
+  [08:29:41] DOCUMENT: History and physical note
+    Status: superseded
+
+  [08:43:55] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [09:03:18] OBSERVATION: Response to cancer treatment: Improving (qualifier value)
+
+  [09:03:18] CLAIM: professional
+    Amount: USD 1091.66
+
+
+📅 2024-09-23
+
+  [09:03:18] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Haywood675 Strosin214
+    Location: Patient's Home
+    Duration: 09:03:18 - 09:44:25
+
+  [09:03:18] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [09:03:18] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-09-23
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Candi549 Season349 is a 65 year-old nonhispanic white female.
+      # Social History
+
+  [09:03:18] DOCUMENT: History and physical note
+    Status: superseded
+
+  [09:44:25] CLAIM: institutional
+    Amount: USD 556.40
+
+
+📅 2025-01-21
+
+  [08:44:25] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Darnell564 Leannon79
+    Location: CHILDREN'S HOSPITAL CORPORATION
+    Duration: 08:44:25 - 09:16:42
+
+  [08:44:25] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [08:44:25] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-01-21
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Candi549 Season349 is a 66 year-old nonhispanic white female.
+      # Social History
+
+  [08:44:25] DOCUMENT: History and physical note
+    Status: superseded
+
+  [09:16:42] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2025-04-08
+
+  [16:39:06] VISIT: General examination of patient (procedure)
+    Provider: Dr. Elvin140 Marks830
+    Location: STANFORD HEALTH CARE
+    Duration: 16:39:06 - 16:54:06
+
+  [16:39:06] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [16:39:06] IMMUNIZATION: pneumococcal polysaccharide vaccine, 23 valent
+    Status: completed
+
+  [16:39:06] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-04-08
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Candi549 Season349 is a 66 year-old nonhispanic white female.
+      # Social History
+
+  [16:39:06] DOCUMENT: History and physical note
+    Status: superseded
+
+  [16:54:06] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2025-05-09
+
+  [10:16:42] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Haywood675 Strosin214
+    Location: Patient's Home
+    Duration: 10:16:42 - 10:57:50
+
+  [10:16:42] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [10:16:42] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-05-09
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Candi549 Season349 is a 66 year-old nonhispanic white female.
+      # Social History
+
+  [10:16:42] DOCUMENT: History and physical note
+    Status: superseded
+
+  [10:57:50] CLAIM: institutional
+    Amount: USD 556.40
+
+  [10:57:50] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Darnell564 Leannon79
+    Location: CHILDREN'S HOSPITAL CORPORATION
+    Duration: 10:57:50 - 11:15:55
+
+  [10:57:50] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [10:57:50] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-05-09
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Candi549 Season349 is a 66 year-old nonhispanic white female.
+      # Social History
+
+  [10:57:50] DOCUMENT: History and physical note
+    Status: superseded
+
+  [11:15:55] CLAIM: professional
+    Amount: USD 239.93
+
+  [11:15:55] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Darnell564 Leannon79
+    Location: CHILDREN'S HOSPITAL CORPORATION
+    Duration: 11:15:55 - 11:42:01
+
+  [11:15:55] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [11:15:55] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-05-09
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Candi549 Season349 is a 66 year-old nonhispanic white female.
+      # Social History
+
+  [11:15:55] DOCUMENT: History and physical note
+    Status: current
+
+  [11:30:24] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [11:42:01] CLAIM: professional
+    Amount: USD 2427.59
+
+
+📅 2026-02-10
+
+  [15:39:06] PROVENANCE: Record activity
+    Agents: Dr. Darnell564 Leannon79, Dr. Darnell564 Leannon79
+
+================================================================================
+END OF TIMELINE (476 events)
+================================================================================

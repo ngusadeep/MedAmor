@@ -1,0 +1,1268 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Mrs. Johanne551 Torp761
+  Patient ID: 69227
+  Date of Birth: 1959-04-20
+  Gender: Female
+  Race: White
+  Ethnicity: Not Hispanic or Latino
+  Marital Status: Married
+  Address: 184 Kshlerin Knoll, Fall River, MA 02721
+  Phone: 555-408-3210
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2013-04-26
+
+  [17:22:57] VISIT: Periodic reevaluation and management of healthy individual (procedure)
+    Reason: Screening for malignant neoplasm of breast (procedure)
+    Provider: Dr. Josef103 Klein929
+    Location: AP MEDICAL LLC
+    Duration: 17:22:57 - 23:29:42
+
+  [17:22:57] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2013-04-26
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Johanne551 is a 54 year-old nonhispanic white female.
+      # Social History
+
+  [17:22:57] DOCUMENT: History and physical note
+    Status: superseded
+
+  [18:32:42] CONDITION: Malignant neoplasm of breast (disorder) (active)
+
+
+📅 2013-04-27
+
+  [23:29:42] CLAIM: professional
+    Amount: USD 4871.02
+
+
+📅 2016-04-16
+
+  [00:59:39] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Josef103 Klein929
+    Location: AP MEDICAL LLC
+    Duration: 00:59:39 - 01:38:06
+
+  [00:59:39] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [00:59:39] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-04-16
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Johanne551 is a 56 year-old nonhispanic white female.
+      # Social History
+
+  [00:59:39] DOCUMENT: History and physical note
+    Status: superseded
+
+  [01:38:06] CLAIM: professional
+    Amount: USD 573.98
+
+  [01:38:06] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Josef103 Klein929
+    Location: AP MEDICAL LLC
+    Duration: 01:38:06 - 02:00:03
+
+  [01:38:06] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [01:38:06] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-04-16
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Johanne551 is a 56 year-old nonhispanic white female.
+      # Social History
+
+  [01:38:06] DOCUMENT: History and physical note
+    Status: superseded
+
+  [02:00:03] CLAIM: professional
+    Amount: USD 211.60
+
+  [02:00:03] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Josef103 Klein929
+    Location: AP MEDICAL LLC
+    Duration: 02:00:03 - 02:28:10
+
+  [02:00:03] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [02:00:03] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-04-16
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Johanne551 is a 56 year-old nonhispanic white female.
+      # Social History
+
+  [02:00:03] DOCUMENT: History and physical note
+    Status: superseded
+
+  [02:13:15] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [02:28:10] OBSERVATION: Response to cancer treatment: Improving (qualifier value)
+
+  [02:28:10] CLAIM: professional
+    Amount: USD 3074.56
+
+
+📅 2016-05-30
+
+  [17:22:57] VISIT: General examination of patient (procedure)
+    Provider: Dr. Irina619 Stiedemann542
+    Location: NEW BEDFORD INTERNAL MEDICINE & GERIATRICS, LLC
+    Duration: 17:22:57 - 17:37:57
+
+  [17:22:57] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [17:22:57] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-05-30
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Johanne551 is a 57 year-old nonhispanic white female.
+      # Social History
+
+  [17:22:57] DOCUMENT: History and physical note
+    Status: superseded
+
+  [17:37:57] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2016-08-10
+
+  [02:28:10] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Josef103 Klein929
+    Location: AP MEDICAL LLC
+    Duration: 02:28:10 - 03:05:11
+
+  [02:28:10] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [02:28:10] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-08-10
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Johanne551 is a 57 year-old nonhispanic white female.
+      # Social History
+
+  [02:28:10] DOCUMENT: History and physical note
+    Status: superseded
+
+  [03:05:11] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2016-12-02
+
+  [02:05:11] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Josef103 Klein929
+    Location: AP MEDICAL LLC
+    Duration: 02:05:11 - 02:38:20
+
+  [02:05:11] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [02:05:11] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-12-02
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Johanne551 is a 57 year-old nonhispanic white female.
+      # Social History
+
+  [02:05:11] DOCUMENT: History and physical note
+    Status: superseded
+
+  [02:38:20] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2017-04-02
+
+  [03:38:20] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Josef103 Klein929
+    Location: AP MEDICAL LLC
+    Duration: 03:38:20 - 04:11:35
+
+  [03:38:20] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [03:38:20] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-04-02
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Johanne551 is a 57 year-old nonhispanic white female.
+      # Social History
+
+  [03:38:20] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:11:35] CLAIM: professional
+    Amount: USD 573.98
+
+  [04:11:35] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Josef103 Klein929
+    Location: AP MEDICAL LLC
+    Duration: 04:11:35 - 04:31:22
+
+  [04:11:35] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [04:11:35] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-04-02
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Johanne551 is a 57 year-old nonhispanic white female.
+      # Social History
+
+  [04:11:35] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:31:22] CLAIM: professional
+    Amount: USD 211.60
+
+  [04:31:22] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Josef103 Klein929
+    Location: AP MEDICAL LLC
+    Duration: 04:31:22 - 04:56:56
+
+  [04:31:22] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [04:31:22] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-04-02
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Johanne551 is a 57 year-old nonhispanic white female.
+      # Social History
+
+  [04:31:22] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:42:50] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [04:56:56] OBSERVATION: Response to cancer treatment: Improving (qualifier value)
+
+  [04:56:56] CLAIM: professional
+    Amount: USD 1150.79
+
+
+📅 2017-06-05
+
+  [17:22:57] VISIT: General examination of patient (procedure)
+    Provider: Dr. Irina619 Stiedemann542
+    Location: NEW BEDFORD INTERNAL MEDICINE & GERIATRICS, LLC
+    Duration: 17:22:57 - 17:37:57
+
+  [17:22:57] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [17:22:57] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-06-05
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Johanne551 is a 58 year-old nonhispanic white female.
+      # Social History
+
+  [17:22:57] DOCUMENT: History and physical note
+    Status: superseded
+
+  [17:37:57] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2017-07-23
+
+  [04:56:56] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Josef103 Klein929
+    Location: AP MEDICAL LLC
+    Duration: 04:56:56 - 05:39:28
+
+  [04:56:56] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [04:56:56] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-07-23
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Johanne551 is a 58 year-old nonhispanic white female.
+      # Social History
+
+  [04:56:56] DOCUMENT: History and physical note
+    Status: superseded
+
+  [05:39:28] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2017-11-24
+
+  [04:39:28] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Josef103 Klein929
+    Location: AP MEDICAL LLC
+    Duration: 04:39:28 - 05:11:31
+
+  [04:39:28] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [04:39:28] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-11-24
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Johanne551 is a 58 year-old nonhispanic white female.
+      # Social History
+
+  [04:39:28] DOCUMENT: History and physical note
+    Status: superseded
+
+  [05:11:31] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2018-03-15
+
+  [06:11:31] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Josef103 Klein929
+    Location: AP MEDICAL LLC
+    Duration: 06:11:31 - 06:44:24
+
+  [06:11:31] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [06:11:31] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-03-15
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Johanne551 is a 58 year-old nonhispanic white female.
+      # Social History
+
+  [06:11:31] DOCUMENT: History and physical note
+    Status: superseded
+
+  [06:44:24] CLAIM: professional
+    Amount: USD 573.98
+
+  [06:44:24] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Josef103 Klein929
+    Location: AP MEDICAL LLC
+    Duration: 06:44:24 - 07:06:04
+
+  [06:44:24] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [06:44:24] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-03-15
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Johanne551 is a 58 year-old nonhispanic white female.
+      # Social History
+
+  [06:44:24] DOCUMENT: History and physical note
+    Status: superseded
+
+  [07:06:04] CLAIM: professional
+    Amount: USD 211.60
+
+  [07:06:04] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Josef103 Klein929
+    Location: AP MEDICAL LLC
+    Duration: 07:06:04 - 07:34:20
+
+  [07:06:04] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [07:06:04] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-03-15
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Johanne551 is a 58 year-old nonhispanic white female.
+      # Social History
+
+  [07:06:04] DOCUMENT: History and physical note
+    Status: superseded
+
+  [07:19:20] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [07:34:20] CLAIM: professional
+    Amount: USD 3680.06
+
+
+📅 2018-06-11
+
+  [17:22:57] VISIT: General examination of patient (procedure)
+    Provider: Dr. Irina619 Stiedemann542
+    Location: NEW BEDFORD INTERNAL MEDICINE & GERIATRICS, LLC
+    Duration: 17:22:57 - 17:37:57
+
+  [17:22:57] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [17:22:57] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-06-11
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Johanne551 is a 59 year-old nonhispanic white female.
+      # Social History
+
+  [17:22:57] DOCUMENT: History and physical note
+    Status: superseded
+
+  [17:37:57] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2019-03-23
+
+  [07:34:20] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Josef103 Klein929
+    Location: AP MEDICAL LLC
+    Duration: 07:34:20 - 08:10:25
+
+  [07:34:20] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [07:34:20] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-03-23
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Johanne551 is a 59 year-old nonhispanic white female.
+      # Social History
+
+  [07:34:20] DOCUMENT: History and physical note
+    Status: superseded
+
+  [08:10:25] CLAIM: professional
+    Amount: USD 573.98
+
+  [08:10:25] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Josef103 Klein929
+    Location: AP MEDICAL LLC
+    Duration: 08:10:25 - 08:29:23
+
+  [08:10:25] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [08:10:25] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-03-23
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Johanne551 is a 59 year-old nonhispanic white female.
+      # Social History
+
+  [08:10:25] DOCUMENT: History and physical note
+    Status: superseded
+
+  [08:29:23] CLAIM: professional
+    Amount: USD 211.60
+
+  [08:29:23] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Josef103 Klein929
+    Location: AP MEDICAL LLC
+    Duration: 08:29:23 - 08:57:50
+
+  [08:29:23] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [08:29:23] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-03-23
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Johanne551 is a 59 year-old nonhispanic white female.
+      # Social History
+
+  [08:29:23] DOCUMENT: History and physical note
+    Status: superseded
+
+  [08:41:16] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [08:57:50] CLAIM: professional
+    Amount: USD 1091.66
+
+
+📅 2019-06-17
+
+  [17:22:57] VISIT: General examination of patient (procedure)
+    Provider: Dr. Irina619 Stiedemann542
+    Location: NEW BEDFORD INTERNAL MEDICINE & GERIATRICS, LLC
+    Duration: 17:22:57 - 17:37:57
+
+  [17:22:57] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [17:22:57] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-06-17
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Johanne551 is a 60 year-old nonhispanic white female.
+      # Social History
+
+  [17:22:57] DOCUMENT: History and physical note
+    Status: superseded
+
+  [17:37:57] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2020-03-10
+
+  [08:57:50] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Josef103 Klein929
+    Location: AP MEDICAL LLC
+    Duration: 08:57:50 - 09:42:26
+
+  [08:57:50] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [08:57:50] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-03-10
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Johanne551 is a 60 year-old nonhispanic white female.
+      # Social History
+
+  [08:57:50] DOCUMENT: History and physical note
+    Status: superseded
+
+  [09:42:26] CLAIM: professional
+    Amount: USD 573.98
+
+  [09:42:26] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Josef103 Klein929
+    Location: AP MEDICAL LLC
+    Duration: 09:42:26 - 10:06:05
+
+  [09:42:26] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [09:42:26] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-03-10
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Johanne551 is a 60 year-old nonhispanic white female.
+      # Social History
+
+  [09:42:26] DOCUMENT: History and physical note
+    Status: superseded
+
+  [10:06:05] CLAIM: professional
+    Amount: USD 325.49
+
+  [10:06:05] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Josef103 Klein929
+    Location: AP MEDICAL LLC
+    Duration: 10:06:05 - 10:31:22
+
+  [10:06:05] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [10:06:05] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-03-10
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Johanne551 is a 60 year-old nonhispanic white female.
+      # Social History
+
+  [10:06:05] DOCUMENT: History and physical note
+    Status: superseded
+
+  [10:20:14] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [10:31:22] CLAIM: professional
+    Amount: USD 2538.59
+
+
+📅 2020-06-22
+
+  [17:22:57] VISIT: General examination of patient (procedure)
+    Provider: Dr. Irina619 Stiedemann542
+    Location: NEW BEDFORD INTERNAL MEDICINE & GERIATRICS, LLC
+    Duration: 17:22:57 - 17:37:57
+
+  [17:22:57] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [17:22:57] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [17:22:57] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-06-22
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Johanne551 is a 61 year-old nonhispanic white female.
+      # Social History
+
+  [17:22:57] DOCUMENT: History and physical note
+    Status: superseded
+
+  [17:37:57] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2021-02-22
+
+  [16:22:57] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Josef103 Klein929
+    Location: AP MEDICAL LLC
+    Duration: 16:22:57 - 16:37:57
+
+  [16:22:57] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 30 mcg/0.3 mL dose
+    Status: completed
+
+  [16:22:57] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-02-22
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Johanne551 is a 61 year-old nonhispanic white female.
+      # Social History
+
+  [16:22:57] DOCUMENT: History and physical note
+    Status: superseded
+
+  [16:37:57] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-03-15
+
+  [17:22:57] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Josef103 Klein929
+    Location: AP MEDICAL LLC
+    Duration: 17:22:57 - 17:37:57
+
+  [17:22:57] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 30 mcg/0.3 mL dose
+    Status: completed
+
+  [17:22:57] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-03-15
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Johanne551 is a 61 year-old nonhispanic white female.
+      # Social History
+
+  [17:22:57] DOCUMENT: History and physical note
+    Status: superseded
+
+  [17:37:57] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-04-03
+
+  [10:31:22] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Josef103 Klein929
+    Location: AP MEDICAL LLC
+    Duration: 10:31:22 - 11:02:54
+
+  [10:31:22] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [10:31:22] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-04-03
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Johanne551 is a 61 year-old nonhispanic white female.
+      # Social History
+
+  [10:31:22] DOCUMENT: History and physical note
+    Status: superseded
+
+  [11:02:54] CLAIM: professional
+    Amount: USD 573.98
+
+  [11:02:54] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Josef103 Klein929
+    Location: AP MEDICAL LLC
+    Duration: 11:02:54 - 11:25:57
+
+  [11:02:54] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [11:02:54] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-04-03
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Johanne551 is a 61 year-old nonhispanic white female.
+      # Social History
+
+  [11:02:54] DOCUMENT: History and physical note
+    Status: superseded
+
+  [11:25:57] CLAIM: professional
+    Amount: USD 313.33
+
+  [11:25:57] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Josef103 Klein929
+    Location: AP MEDICAL LLC
+    Duration: 11:25:57 - 11:53:12
+
+  [11:25:57] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [11:25:57] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-04-03
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Johanne551 is a 61 year-old nonhispanic white female.
+      # Social History
+
+  [11:25:57] DOCUMENT: History and physical note
+    Status: superseded
+
+  [11:40:46] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [11:53:12] CLAIM: professional
+    Amount: USD 3680.06
+
+
+📅 2021-06-28
+
+  [17:22:57] VISIT: General examination of patient (procedure)
+    Provider: Dr. Irina619 Stiedemann542
+    Location: NEW BEDFORD INTERNAL MEDICINE & GERIATRICS, LLC
+    Duration: 17:22:57 - 17:37:57
+
+  [17:22:57] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [17:22:57] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-06-28
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Johanne551 is a 62 year-old nonhispanic white female.
+      # Social History
+
+  [17:22:57] DOCUMENT: History and physical note
+    Status: superseded
+
+  [17:37:57] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2022-04-20
+
+  [11:53:12] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Josef103 Klein929
+    Location: AP MEDICAL LLC
+    Duration: 11:53:12 - 12:34:11
+
+  [11:53:12] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [11:53:12] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-04-20
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Johanne551 is a 62 year-old nonhispanic white female.
+      # Social History
+
+  [11:53:12] DOCUMENT: History and physical note
+    Status: superseded
+
+  [12:34:11] CLAIM: professional
+    Amount: USD 573.98
+
+  [12:34:11] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Josef103 Klein929
+    Location: AP MEDICAL LLC
+    Duration: 12:34:11 - 12:49:50
+
+  [12:34:11] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [12:34:11] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-04-20
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Johanne551 is a 62 year-old nonhispanic white female.
+      # Social History
+
+  [12:34:11] DOCUMENT: History and physical note
+    Status: superseded
+
+  [12:49:50] CLAIM: professional
+    Amount: USD 271.29
+
+  [12:49:50] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Josef103 Klein929
+    Location: AP MEDICAL LLC
+    Duration: 12:49:50 - 13:14:56
+
+  [12:49:50] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [12:49:50] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-04-20
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Johanne551 is a 62 year-old nonhispanic white female.
+      # Social History
+
+  [12:49:50] DOCUMENT: History and physical note
+    Status: superseded
+
+  [13:00:43] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [13:14:56] CLAIM: professional
+    Amount: USD 1091.66
+
+
+📅 2022-07-04
+
+  [17:22:57] VISIT: General examination of patient (procedure)
+    Provider: Dr. Irina619 Stiedemann542
+    Location: NEW BEDFORD INTERNAL MEDICINE & GERIATRICS, LLC
+    Duration: 17:22:57 - 17:37:57
+
+  [17:22:57] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [17:22:57] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-07-04
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Johanne551 is a 63 year-old nonhispanic white female.
+      # Social History
+
+  [17:22:57] DOCUMENT: History and physical note
+    Status: superseded
+
+  [17:37:57] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2023-04-22
+
+  [13:14:56] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Josef103 Klein929
+    Location: AP MEDICAL LLC
+    Duration: 13:14:56 - 13:48:33
+
+  [13:14:56] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [13:14:56] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-04-22
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Johanne551 is a 64 year-old nonhispanic white female.
+      # Social History
+
+  [13:14:56] DOCUMENT: History and physical note
+    Status: superseded
+
+  [13:48:33] CLAIM: professional
+    Amount: USD 573.98
+
+  [13:48:33] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Josef103 Klein929
+    Location: AP MEDICAL LLC
+    Duration: 13:48:33 - 14:05:07
+
+  [13:48:33] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [13:48:33] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-04-22
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Johanne551 is a 64 year-old nonhispanic white female.
+      # Social History
+
+  [13:48:33] DOCUMENT: History and physical note
+    Status: superseded
+
+  [14:05:07] CLAIM: professional
+    Amount: USD 239.66
+
+  [14:05:07] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Josef103 Klein929
+    Location: AP MEDICAL LLC
+    Duration: 14:05:07 - 14:37:49
+
+  [14:05:07] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [14:05:07] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-04-22
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Johanne551 is a 64 year-old nonhispanic white female.
+      # Social History
+
+  [14:05:07] DOCUMENT: History and physical note
+    Status: superseded
+
+  [14:18:16] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [14:37:49] CLAIM: professional
+    Amount: USD 1278.84
+
+
+📅 2023-07-10
+
+  [17:22:57] VISIT: General examination of patient (procedure)
+    Provider: Dr. Irina619 Stiedemann542
+    Location: NEW BEDFORD INTERNAL MEDICINE & GERIATRICS, LLC
+    Duration: 17:22:57 - 17:37:57
+
+  [17:22:57] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [17:22:57] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-07-10
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Johanne551 is a 64 year-old nonhispanic white female.
+      # Social History
+
+  [17:22:57] DOCUMENT: History and physical note
+    Status: superseded
+
+  [17:37:57] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2024-04-26
+
+  [14:37:49] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Josef103 Klein929
+    Location: AP MEDICAL LLC
+    Duration: 14:37:49 - 15:12:14
+
+  [14:37:49] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [14:37:49] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-04-26
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Johanne551 is a 65 year-old nonhispanic white female.
+      # Social History
+
+  [14:37:49] DOCUMENT: History and physical note
+    Status: superseded
+
+  [15:12:14] CLAIM: professional
+    Amount: USD 573.98
+
+  [15:12:14] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Josef103 Klein929
+    Location: AP MEDICAL LLC
+    Duration: 15:12:14 - 15:29:53
+
+  [15:12:14] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [15:12:14] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-04-26
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Johanne551 is a 65 year-old nonhispanic white female.
+      # Social History
+
+  [15:12:14] DOCUMENT: History and physical note
+    Status: superseded
+
+  [15:29:53] CLAIM: professional
+    Amount: USD 211.60
+
+  [15:29:53] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Josef103 Klein929
+    Location: AP MEDICAL LLC
+    Duration: 15:29:53 - 15:58:04
+
+  [15:29:53] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [15:29:53] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-04-26
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Johanne551 is a 65 year-old nonhispanic white female.
+      # Social History
+
+  [15:29:53] DOCUMENT: History and physical note
+    Status: superseded
+
+  [15:42:29] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [15:58:04] CLAIM: professional
+    Amount: USD 1097.91
+
+
+📅 2024-07-15
+
+  [17:22:57] VISIT: General examination of patient (procedure)
+    Provider: Dr. Irina619 Stiedemann542
+    Location: NEW BEDFORD INTERNAL MEDICINE & GERIATRICS, LLC
+    Duration: 17:22:57 - 17:37:57
+
+  [17:22:57] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [17:22:57] IMMUNIZATION: Pneumococcal conjugate PCV 13
+    Status: completed
+
+  [17:22:57] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-07-15
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Johanne551 is a 65 year-old nonhispanic white female.
+      # Social History
+
+  [17:22:57] DOCUMENT: History and physical note
+    Status: superseded
+
+  [17:37:57] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2025-04-12
+
+  [15:58:04] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Josef103 Klein929
+    Location: AP MEDICAL LLC
+    Duration: 15:58:04 - 16:29:55
+
+  [15:58:04] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [15:58:04] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-04-12
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Johanne551 is a 65 year-old nonhispanic white female.
+      # Social History
+
+  [15:58:04] DOCUMENT: History and physical note
+    Status: superseded
+
+  [16:29:55] CLAIM: professional
+    Amount: USD 573.98
+
+  [16:29:55] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Josef103 Klein929
+    Location: AP MEDICAL LLC
+    Duration: 16:29:55 - 16:52:50
+
+  [16:29:55] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [16:29:55] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-04-12
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Johanne551 is a 65 year-old nonhispanic white female.
+      # Social History
+
+  [16:29:55] DOCUMENT: History and physical note
+    Status: superseded
+
+  [16:52:50] CLAIM: professional
+    Amount: USD 211.60
+
+  [16:52:50] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Josef103 Klein929
+    Location: AP MEDICAL LLC
+    Duration: 16:52:50 - 17:23:50
+
+  [16:52:50] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [16:52:50] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-04-12
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Johanne551 is a 65 year-old nonhispanic white female.
+      # Social History
+
+  [16:52:50] DOCUMENT: History and physical note
+    Status: superseded
+
+  [17:06:13] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [17:23:50] CLAIM: professional
+    Amount: USD 1957.86
+
+
+📅 2025-07-21
+
+  [17:22:57] VISIT: General examination of patient (procedure)
+    Provider: Dr. Irina619 Stiedemann542
+    Location: NEW BEDFORD INTERNAL MEDICINE & GERIATRICS, LLC
+    Duration: 17:22:57 - 17:37:57
+
+  [17:22:57] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [17:22:57] IMMUNIZATION: pneumococcal polysaccharide vaccine, 23 valent
+    Status: completed
+
+  [17:22:57] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-07-21
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Johanne551 is a 66 year-old nonhispanic white female.
+      # Social History
+
+  [17:22:57] DOCUMENT: History and physical note
+    Status: current
+
+  [17:37:57] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2026-02-09
+
+  [16:22:57] PROVENANCE: Record activity
+    Agents: Dr. Irina619 Stiedemann542, Dr. Irina619 Stiedemann542
+
+================================================================================
+END OF TIMELINE (251 events)
+================================================================================

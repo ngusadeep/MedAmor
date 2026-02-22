@@ -1,0 +1,220 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Mrs. Patricia625 Luz785 Ozuna605
+  Patient ID: 123142
+  Date of Birth: 1977-03-18
+  Gender: Female
+  Race: White
+  Ethnicity: Hispanic or Latino
+  Marital Status: Married
+  Address: 267 Jaskolski Skyway Suite 64, Chicopee, MA 01022
+  Phone: 555-653-4078
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2017-03-25
+
+  [00:57:20] VISIT: General examination of patient (procedure)
+    Provider: Dr. Bennett146 Hartmann983
+    Location: HOLYOKE HEALTH CENTER INC
+    Duration: 00:57:20 - 01:12:20
+
+  [00:57:20] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [00:57:20] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [00:57:20] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-03-25
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Patricia625 Luz785 is a 40 year-old hispanic white female.
+      # Social History
+
+  [00:57:20] DOCUMENT: History and physical note
+    Status: superseded
+
+  [01:12:20] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2019-03-30
+
+  [00:57:20] VISIT: General examination of patient (procedure)
+    Provider: Dr. Bennett146 Hartmann983
+    Location: HOLYOKE HEALTH CENTER INC
+    Duration: 00:57:20 - 01:12:20
+
+  [00:57:20] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [00:57:20] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [00:57:20] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [00:57:20] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-03-30
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Patricia625 Luz785 is a 42 year-old hispanic white female.
+      # Social History
+
+  [00:57:20] DOCUMENT: History and physical note
+    Status: superseded
+
+  [01:12:20] CLAIM: professional
+    Amount: USD 544.80
+
+
+📅 2021-04-03
+
+  [00:57:20] VISIT: General examination of patient (procedure)
+    Provider: Dr. Bennett146 Hartmann983
+    Location: HOLYOKE HEALTH CENTER INC
+    Duration: 00:57:20 - 01:12:20
+
+  [00:57:20] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [00:57:20] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-04-03
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Patricia625 Luz785 is a 44 year-old hispanic white female.
+      # Social History
+
+  [00:57:20] DOCUMENT: History and physical note
+    Status: superseded
+
+  [01:12:20] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2021-11-06
+
+  [00:57:20] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Kala987 Wolf938
+    Location: HOLYOKE MEDICAL CENTER INC
+    Duration: 00:57:20 - 01:12:20
+
+  [00:57:20] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+    Status: completed
+
+  [00:57:20] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-11-06
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Patricia625 Luz785 is a 44 year-old hispanic white female.
+      # Social History
+
+  [00:57:20] DOCUMENT: History and physical note
+    Status: superseded
+
+  [01:12:20] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-12-03
+
+  [23:57:20] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Kala987 Wolf938
+    Location: HOLYOKE MEDICAL CENTER INC
+    Duration: 23:57:20 - 00:12:20
+
+  [23:57:20] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+    Status: completed
+
+  [23:57:20] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-12-03
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Patricia625 Luz785 is a 44 year-old hispanic white female.
+      # Social History
+
+  [23:57:20] DOCUMENT: History and physical note
+    Status: superseded
+
+
+📅 2021-12-04
+
+  [00:12:20] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2023-04-08
+
+  [00:57:20] VISIT: General examination of patient (procedure)
+    Provider: Dr. Bennett146 Hartmann983
+    Location: HOLYOKE HEALTH CENTER INC
+    Duration: 00:57:20 - 01:12:20
+
+  [00:57:20] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [00:57:20] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-04-08
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Patricia625 Luz785 is a 46 year-old hispanic white female.
+      # Social History
+
+  [00:57:20] DOCUMENT: History and physical note
+    Status: superseded
+
+  [01:12:20] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2025-04-12
+
+  [00:57:20] VISIT: General examination of patient (procedure)
+    Provider: Dr. Bennett146 Hartmann983
+    Location: HOLYOKE HEALTH CENTER INC
+    Duration: 00:57:20 - 01:12:20
+
+  [00:57:20] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [00:57:20] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-04-12
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Patricia625 Luz785 is a 48 year-old hispanic white female.
+      # Social History
+
+  [00:57:20] DOCUMENT: History and physical note
+    Status: current
+
+  [01:12:20] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2026-02-13
+
+  [23:57:20] PROVENANCE: Record activity
+    Agents: Dr. Bennett146 Hartmann983, Dr. Bennett146 Hartmann983
+
+================================================================================
+END OF TIMELINE (39 events)
+================================================================================

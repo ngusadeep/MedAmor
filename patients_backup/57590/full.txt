@@ -1,0 +1,1295 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Mrs. Grace552 Marianne327 Raynor401
+  Patient ID: 57590
+  Date of Birth: 1958-03-15
+  Gender: Female
+  Race: White
+  Ethnicity: Not Hispanic or Latino
+  Marital Status: Married
+  Address: 849 Mosciski Rapid Apt 99, Wilbraham, MA 01095
+  Phone: 555-730-2732
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2013-08-24
+
+  [13:25:46] VISIT: Periodic reevaluation and management of healthy individual (procedure)
+    Reason: Screening for malignant neoplasm of breast (procedure)
+    Provider: Dr. Miyoko154 Paucek755
+    Location: ENCOMPASS HEALTH REHAB HOSPITAL OF WESTERN MASS
+    Duration: 13:25:46 - 17:29:43
+
+  [13:25:46] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2013-08-24
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Grace552 Marianne327 is a 55 year-old nonhispanic white female.
+      # Social History
+
+  [13:25:46] DOCUMENT: History and physical note
+    Status: superseded
+
+  [14:32:43] CONDITION: Malignant neoplasm of breast (disorder) (active)
+
+
+📅 2013-08-26
+
+  [17:29:43] CLAIM: professional
+    Amount: USD 10405.17
+
+
+📅 2016-03-26
+
+  [17:53:38] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Miyoko154 Paucek755
+    Location: ENCOMPASS HEALTH REHAB HOSPITAL OF WESTERN MASS
+    Duration: 17:53:38 - 18:28:57
+
+  [17:53:38] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [17:53:38] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-03-26
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Grace552 Marianne327 is a 58 year-old nonhispanic white female.
+      # Social History
+
+  [17:53:38] DOCUMENT: History and physical note
+    Status: superseded
+
+  [18:28:57] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2016-04-30
+
+  [13:25:46] VISIT: General examination of patient (procedure)
+    Provider: Dr. Arla414 Fritsch593
+    Location: RIVER'S EDGE PRIMARY CARE LLC
+    Duration: 13:25:46 - 13:40:46
+
+  [13:25:46] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [13:25:46] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-04-30
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Grace552 Marianne327 is a 58 year-old nonhispanic white female.
+      # Social History
+
+  [13:25:46] DOCUMENT: History and physical note
+    Status: superseded
+
+  [13:40:46] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2016-07-16
+
+  [18:28:57] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Miyoko154 Paucek755
+    Location: ENCOMPASS HEALTH REHAB HOSPITAL OF WESTERN MASS
+    Duration: 18:28:57 - 19:08:42
+
+  [18:28:57] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [18:28:57] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-07-16
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Grace552 Marianne327 is a 58 year-old nonhispanic white female.
+      # Social History
+
+  [18:28:57] DOCUMENT: History and physical note
+    Status: superseded
+
+  [19:08:42] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2016-11-08
+
+  [18:08:42] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Miyoko154 Paucek755
+    Location: ENCOMPASS HEALTH REHAB HOSPITAL OF WESTERN MASS
+    Duration: 18:08:42 - 18:51:08
+
+  [18:08:42] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [18:08:42] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-11-08
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Grace552 Marianne327 is a 58 year-old nonhispanic white female.
+      # Social History
+
+  [18:08:42] DOCUMENT: History and physical note
+    Status: superseded
+
+  [18:51:08] CLAIM: professional
+    Amount: USD 573.98
+
+  [18:51:08] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Miyoko154 Paucek755
+    Location: ENCOMPASS HEALTH REHAB HOSPITAL OF WESTERN MASS
+    Duration: 18:51:08 - 19:07:20
+
+  [18:51:08] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [18:51:08] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-11-08
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Grace552 Marianne327 is a 58 year-old nonhispanic white female.
+      # Social History
+
+  [18:51:08] DOCUMENT: History and physical note
+    Status: superseded
+
+  [19:07:20] CLAIM: professional
+    Amount: USD 211.60
+
+  [19:07:20] VISIT: Follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Miyoko154 Paucek755
+    Location: ENCOMPASS HEALTH REHAB HOSPITAL OF WESTERN MASS
+    Duration: 19:07:20 - 19:35:07
+
+  [19:07:20] PROCEDURE: Bone density scan (procedure)
+    Status: completed
+
+  [19:07:20] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-11-08
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Grace552 Marianne327 is a 58 year-old nonhispanic white female.
+      # Social History
+
+  [19:07:20] DOCUMENT: History and physical note
+    Status: superseded
+
+  [19:35:07] OBSERVATION: Response to cancer treatment: Improving (qualifier value)
+
+  [19:35:07] CLAIM: professional
+    Amount: USD 4181.24
+
+
+📅 2017-02-22
+
+  [19:35:07] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Miyoko154 Paucek755
+    Location: ENCOMPASS HEALTH REHAB HOSPITAL OF WESTERN MASS
+    Duration: 19:35:07 - 20:16:02
+
+  [19:35:07] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [19:35:07] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-02-22
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Grace552 Marianne327 is a 58 year-old nonhispanic white female.
+      # Social History
+
+  [19:35:07] DOCUMENT: History and physical note
+    Status: superseded
+
+  [20:16:02] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2017-05-06
+
+  [13:25:46] VISIT: General examination of patient (procedure)
+    Provider: Dr. Arla414 Fritsch593
+    Location: RIVER'S EDGE PRIMARY CARE LLC
+    Duration: 13:25:46 - 13:40:46
+
+  [13:25:46] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [13:25:46] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-05-06
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Grace552 Marianne327 is a 59 year-old nonhispanic white female.
+      # Social History
+
+  [13:25:46] DOCUMENT: History and physical note
+    Status: superseded
+
+  [13:40:46] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2017-06-07
+
+  [21:16:02] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Miyoko154 Paucek755
+    Location: ENCOMPASS HEALTH REHAB HOSPITAL OF WESTERN MASS
+    Duration: 21:16:02 - 21:55:56
+
+  [21:16:02] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [21:16:02] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-06-07
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Grace552 Marianne327 is a 59 year-old nonhispanic white female.
+      # Social History
+
+  [21:16:02] DOCUMENT: History and physical note
+    Status: superseded
+
+  [21:55:56] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2017-10-09
+
+  [21:55:56] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Miyoko154 Paucek755
+    Location: ENCOMPASS HEALTH REHAB HOSPITAL OF WESTERN MASS
+    Duration: 21:55:56 - 22:36:15
+
+  [21:55:56] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [21:55:56] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-10-09
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Grace552 Marianne327 is a 59 year-old nonhispanic white female.
+      # Social History
+
+  [21:55:56] DOCUMENT: History and physical note
+    Status: superseded
+
+  [22:36:15] CLAIM: professional
+    Amount: USD 573.98
+
+  [22:36:15] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Miyoko154 Paucek755
+    Location: ENCOMPASS HEALTH REHAB HOSPITAL OF WESTERN MASS
+    Duration: 22:36:15 - 22:58:22
+
+  [22:36:15] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [22:36:15] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-10-09
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Grace552 Marianne327 is a 59 year-old nonhispanic white female.
+      # Social History
+
+  [22:36:15] DOCUMENT: History and physical note
+    Status: superseded
+
+  [22:58:22] CLAIM: professional
+    Amount: USD 222.12
+
+  [22:58:22] VISIT: Follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Miyoko154 Paucek755
+    Location: ENCOMPASS HEALTH REHAB HOSPITAL OF WESTERN MASS
+    Duration: 22:58:22 - 23:13:22
+
+  [22:58:22] PROCEDURE: Bone density scan (procedure)
+    Status: completed
+
+  [22:58:22] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-10-09
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Grace552 Marianne327 is a 59 year-old nonhispanic white female.
+      # Social History
+
+  [22:58:22] DOCUMENT: History and physical note
+    Status: superseded
+
+  [23:11:14] OBSERVATION: Response to cancer treatment: Improving (qualifier value)
+
+  [23:13:22] CLAIM: professional
+    Amount: USD 5903.20
+
+
+📅 2018-02-07
+
+  [22:11:14] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Miyoko154 Paucek755
+    Location: ENCOMPASS HEALTH REHAB HOSPITAL OF WESTERN MASS
+    Duration: 22:11:14 - 22:47:42
+
+  [22:11:14] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [22:11:14] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-02-07
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Grace552 Marianne327 is a 59 year-old nonhispanic white female.
+      # Social History
+
+  [22:11:14] DOCUMENT: History and physical note
+    Status: superseded
+
+  [22:47:42] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2018-05-12
+
+  [13:25:46] VISIT: General examination of patient (procedure)
+    Provider: Dr. Arla414 Fritsch593
+    Location: RIVER'S EDGE PRIMARY CARE LLC
+    Duration: 13:25:46 - 13:40:46
+
+  [13:25:46] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [13:25:46] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-05-12
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Grace552 Marianne327 is a 60 year-old nonhispanic white female.
+      # Social History
+
+  [13:25:46] DOCUMENT: History and physical note
+    Status: superseded
+
+  [13:40:46] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2018-06-12
+
+  [23:47:42] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Miyoko154 Paucek755
+    Location: ENCOMPASS HEALTH REHAB HOSPITAL OF WESTERN MASS
+    Duration: 23:47:42 - 00:26:41
+
+  [23:47:42] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [23:47:42] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-06-12
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Grace552 Marianne327 is a 60 year-old nonhispanic white female.
+      # Social History
+
+  [23:47:42] DOCUMENT: History and physical note
+    Status: superseded
+
+
+📅 2018-06-13
+
+  [00:26:41] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2018-09-21
+
+  [00:26:41] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Miyoko154 Paucek755
+    Location: ENCOMPASS HEALTH REHAB HOSPITAL OF WESTERN MASS
+    Duration: 00:26:41 - 01:03:33
+
+  [00:26:41] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [00:26:41] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-09-21
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Grace552 Marianne327 is a 60 year-old nonhispanic white female.
+      # Social History
+
+  [00:26:41] DOCUMENT: History and physical note
+    Status: superseded
+
+  [01:03:33] CLAIM: professional
+    Amount: USD 573.98
+
+  [01:03:33] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Miyoko154 Paucek755
+    Location: ENCOMPASS HEALTH REHAB HOSPITAL OF WESTERN MASS
+    Duration: 01:03:33 - 01:25:50
+
+  [01:03:33] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [01:03:33] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-09-21
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Grace552 Marianne327 is a 60 year-old nonhispanic white female.
+      # Social History
+
+  [01:03:33] DOCUMENT: History and physical note
+    Status: superseded
+
+  [01:25:50] CLAIM: professional
+    Amount: USD 325.49
+
+  [01:25:50] VISIT: Follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Miyoko154 Paucek755
+    Location: ENCOMPASS HEALTH REHAB HOSPITAL OF WESTERN MASS
+    Duration: 01:25:50 - 01:40:50
+
+  [01:25:50] PROCEDURE: Bone density scan (procedure)
+    Status: completed
+
+  [01:25:50] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-09-21
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Grace552 Marianne327 is a 60 year-old nonhispanic white female.
+      # Social History
+
+  [01:25:50] DOCUMENT: History and physical note
+    Status: superseded
+
+  [01:40:50] CLAIM: professional
+    Amount: USD 4181.24
+
+
+📅 2019-05-18
+
+  [13:25:46] VISIT: General examination of patient (procedure)
+    Provider: Dr. Arla414 Fritsch593
+    Location: RIVER'S EDGE PRIMARY CARE LLC
+    Duration: 13:25:46 - 13:40:46
+
+  [13:25:46] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [13:25:46] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [13:25:46] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-05-18
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Grace552 Marianne327 is a 61 year-old nonhispanic white female.
+      # Social History
+
+  [13:25:46] DOCUMENT: History and physical note
+    Status: superseded
+
+  [13:40:46] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2019-08-19
+
+  [01:40:25] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Miyoko154 Paucek755
+    Location: ENCOMPASS HEALTH REHAB HOSPITAL OF WESTERN MASS
+    Duration: 01:40:25 - 02:12:54
+
+  [01:40:25] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [01:40:25] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-08-19
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Grace552 Marianne327 is a 61 year-old nonhispanic white female.
+      # Social History
+
+  [01:40:25] DOCUMENT: History and physical note
+    Status: superseded
+
+  [02:12:54] CLAIM: professional
+    Amount: USD 573.98
+
+  [02:12:54] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Miyoko154 Paucek755
+    Location: ENCOMPASS HEALTH REHAB HOSPITAL OF WESTERN MASS
+    Duration: 02:12:54 - 02:29:21
+
+  [02:12:54] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [02:12:54] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-08-19
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Grace552 Marianne327 is a 61 year-old nonhispanic white female.
+      # Social History
+
+  [02:12:54] DOCUMENT: History and physical note
+    Status: superseded
+
+  [02:29:21] CLAIM: professional
+    Amount: USD 211.60
+
+  [02:29:21] VISIT: Follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Miyoko154 Paucek755
+    Location: ENCOMPASS HEALTH REHAB HOSPITAL OF WESTERN MASS
+    Duration: 02:29:21 - 02:44:21
+
+  [02:29:21] PROCEDURE: Bone density scan (procedure)
+    Status: completed
+
+  [02:29:21] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-08-19
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Grace552 Marianne327 is a 61 year-old nonhispanic white female.
+      # Social History
+
+  [02:29:21] DOCUMENT: History and physical note
+    Status: superseded
+
+  [02:44:21] CLAIM: professional
+    Amount: USD 4857.23
+
+
+📅 2020-05-23
+
+  [13:25:46] VISIT: General examination of patient (procedure)
+    Provider: Dr. Arla414 Fritsch593
+    Location: RIVER'S EDGE PRIMARY CARE LLC
+    Duration: 13:25:46 - 13:40:46
+
+  [13:25:46] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [13:25:46] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-05-23
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Grace552 Marianne327 is a 62 year-old nonhispanic white female.
+      # Social History
+
+  [13:25:46] DOCUMENT: History and physical note
+    Status: superseded
+
+  [13:40:46] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2020-08-11
+
+  [02:41:42] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Miyoko154 Paucek755
+    Location: Patient's Home
+    Duration: 02:41:42 - 03:17:43
+
+  [02:41:42] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [02:41:42] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-08-11
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Grace552 Marianne327 is a 62 year-old nonhispanic white female.
+      # Social History
+
+  [02:41:42] DOCUMENT: History and physical note
+    Status: superseded
+
+  [03:17:43] CLAIM: institutional
+    Amount: USD 556.40
+
+  [03:17:43] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Miyoko154 Paucek755
+    Location: ENCOMPASS HEALTH REHAB HOSPITAL OF WESTERN MASS
+    Duration: 03:17:43 - 03:34:07
+
+  [03:17:43] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [03:17:43] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-08-11
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Grace552 Marianne327 is a 62 year-old nonhispanic white female.
+      # Social History
+
+  [03:17:43] DOCUMENT: History and physical note
+    Status: superseded
+
+  [03:34:07] CLAIM: professional
+    Amount: USD 211.60
+
+  [03:34:07] VISIT: Follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Miyoko154 Paucek755
+    Location: ENCOMPASS HEALTH REHAB HOSPITAL OF WESTERN MASS
+    Duration: 03:34:07 - 04:03:29
+
+  [03:34:07] PROCEDURE: Bone density scan (procedure)
+    Status: completed
+
+  [03:34:07] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-08-11
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Grace552 Marianne327 is a 62 year-old nonhispanic white female.
+      # Social History
+
+  [03:34:07] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:03:29] CLAIM: professional
+    Amount: USD 4181.24
+
+
+📅 2021-05-29
+
+  [13:25:46] VISIT: General examination of patient (procedure)
+    Provider: Dr. Arla414 Fritsch593
+    Location: RIVER'S EDGE PRIMARY CARE LLC
+    Duration: 13:25:46 - 13:40:46
+
+  [13:25:46] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [13:25:46] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-05-29
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Grace552 Marianne327 is a 63 year-old nonhispanic white female.
+      # Social History
+
+  [13:25:46] DOCUMENT: History and physical note
+    Status: superseded
+
+  [13:40:46] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2021-08-21
+
+  [04:03:29] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Miyoko154 Paucek755
+    Location: ENCOMPASS HEALTH REHAB HOSPITAL OF WESTERN MASS
+    Duration: 04:03:29 - 04:39:37
+
+  [04:03:29] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [04:03:29] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-08-21
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Grace552 Marianne327 is a 63 year-old nonhispanic white female.
+      # Social History
+
+  [04:03:29] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:39:37] CLAIM: professional
+    Amount: USD 573.98
+
+  [04:39:37] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Miyoko154 Paucek755
+    Location: ENCOMPASS HEALTH REHAB HOSPITAL OF WESTERN MASS
+    Duration: 04:39:37 - 05:00:51
+
+  [04:39:37] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [04:39:37] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-08-21
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Grace552 Marianne327 is a 63 year-old nonhispanic white female.
+      # Social History
+
+  [04:39:37] DOCUMENT: History and physical note
+    Status: superseded
+
+  [05:00:51] CLAIM: professional
+    Amount: USD 325.49
+
+  [05:00:51] VISIT: Follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Miyoko154 Paucek755
+    Location: ENCOMPASS HEALTH REHAB HOSPITAL OF WESTERN MASS
+    Duration: 05:00:51 - 05:24:11
+
+  [05:00:51] PROCEDURE: Bone density scan (procedure)
+    Status: completed
+
+  [05:00:51] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-08-21
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Grace552 Marianne327 is a 63 year-old nonhispanic white female.
+      # Social History
+
+  [05:00:51] DOCUMENT: History and physical note
+    Status: superseded
+
+  [05:24:11] CLAIM: professional
+    Amount: USD 4924.77
+
+
+📅 2021-11-06
+
+  [13:25:46] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Miyoko154 Paucek755
+    Location: ENCOMPASS HEALTH REHAB HOSPITAL OF WESTERN MASS
+    Duration: 13:25:46 - 13:40:46
+
+  [13:25:46] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+    Status: completed
+
+  [13:25:46] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-11-06
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Grace552 Marianne327 is a 63 year-old nonhispanic white female.
+      # Social History
+
+  [13:25:46] DOCUMENT: History and physical note
+    Status: superseded
+
+  [13:40:46] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-12-04
+
+  [12:25:46] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Miyoko154 Paucek755
+    Location: ENCOMPASS HEALTH REHAB HOSPITAL OF WESTERN MASS
+    Duration: 12:25:46 - 12:40:46
+
+  [12:25:46] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+    Status: completed
+
+  [12:25:46] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-12-04
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Grace552 Marianne327 is a 63 year-old nonhispanic white female.
+      # Social History
+
+  [12:25:46] DOCUMENT: History and physical note
+    Status: superseded
+
+  [12:40:46] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2022-06-04
+
+  [13:25:46] VISIT: General examination of patient (procedure)
+    Provider: Dr. Arla414 Fritsch593
+    Location: RIVER'S EDGE PRIMARY CARE LLC
+    Duration: 13:25:46 - 13:40:46
+
+  [13:25:46] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [13:25:46] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-06-04
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Grace552 Marianne327 is a 64 year-old nonhispanic white female.
+      # Social History
+
+  [13:25:46] DOCUMENT: History and physical note
+    Status: superseded
+
+  [13:40:46] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2022-09-03
+
+  [05:24:11] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Miyoko154 Paucek755
+    Location: ENCOMPASS HEALTH REHAB HOSPITAL OF WESTERN MASS
+    Duration: 05:24:11 - 06:07:22
+
+  [05:24:11] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [05:24:11] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-09-03
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Grace552 Marianne327 is a 64 year-old nonhispanic white female.
+      # Social History
+
+  [05:24:11] DOCUMENT: History and physical note
+    Status: superseded
+
+  [06:07:22] CLAIM: professional
+    Amount: USD 573.98
+
+  [06:07:22] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Miyoko154 Paucek755
+    Location: ENCOMPASS HEALTH REHAB HOSPITAL OF WESTERN MASS
+    Duration: 06:07:22 - 06:31:03
+
+  [06:07:22] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [06:07:22] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-09-03
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Grace552 Marianne327 is a 64 year-old nonhispanic white female.
+      # Social History
+
+  [06:07:22] DOCUMENT: History and physical note
+    Status: superseded
+
+  [06:31:03] CLAIM: professional
+    Amount: USD 211.60
+
+  [06:31:03] VISIT: Follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Miyoko154 Paucek755
+    Location: ENCOMPASS HEALTH REHAB HOSPITAL OF WESTERN MASS
+    Duration: 06:31:03 - 06:46:03
+
+  [06:31:03] PROCEDURE: Bone density scan (procedure)
+    Status: completed
+
+  [06:31:03] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-09-03
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Grace552 Marianne327 is a 64 year-old nonhispanic white female.
+      # Social History
+
+  [06:31:03] DOCUMENT: History and physical note
+    Status: superseded
+
+  [06:46:03] CLAIM: professional
+    Amount: USD 4181.24
+
+
+📅 2023-06-10
+
+  [13:25:46] VISIT: General examination of patient (procedure)
+    Provider: Dr. Arla414 Fritsch593
+    Location: RIVER'S EDGE PRIMARY CARE LLC
+    Duration: 13:25:46 - 13:40:46
+
+  [13:25:46] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [13:25:46] IMMUNIZATION: Pneumococcal conjugate PCV 13
+    Status: completed
+
+  [13:25:46] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-06-10
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Grace552 Marianne327 is a 65 year-old nonhispanic white female.
+      # Social History
+
+  [13:25:46] DOCUMENT: History and physical note
+    Status: superseded
+
+  [13:40:46] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2023-08-15
+
+  [06:42:28] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Miyoko154 Paucek755
+    Location: ENCOMPASS HEALTH REHAB HOSPITAL OF WESTERN MASS
+    Duration: 06:42:28 - 07:19:33
+
+  [06:42:28] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [06:42:28] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-08-15
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Grace552 Marianne327 is a 65 year-old nonhispanic white female.
+      # Social History
+
+  [06:42:28] DOCUMENT: History and physical note
+    Status: superseded
+
+  [07:19:33] CLAIM: professional
+    Amount: USD 573.98
+
+  [07:19:33] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Miyoko154 Paucek755
+    Location: ENCOMPASS HEALTH REHAB HOSPITAL OF WESTERN MASS
+    Duration: 07:19:33 - 07:41:01
+
+  [07:19:33] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [07:19:33] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-08-15
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Grace552 Marianne327 is a 65 year-old nonhispanic white female.
+      # Social History
+
+  [07:19:33] DOCUMENT: History and physical note
+    Status: superseded
+
+  [07:41:01] CLAIM: professional
+    Amount: USD 211.60
+
+  [07:41:01] VISIT: Follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Miyoko154 Paucek755
+    Location: ENCOMPASS HEALTH REHAB HOSPITAL OF WESTERN MASS
+    Duration: 07:41:01 - 07:59:37
+
+  [07:41:01] PROCEDURE: Bone density scan (procedure)
+    Status: completed
+
+  [07:41:01] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-08-15
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Grace552 Marianne327 is a 65 year-old nonhispanic white female.
+      # Social History
+
+  [07:41:01] DOCUMENT: History and physical note
+    Status: superseded
+
+  [07:59:37] CLAIM: professional
+    Amount: USD 12506.00
+
+
+📅 2024-06-15
+
+  [13:25:46] VISIT: General examination of patient (procedure)
+    Provider: Dr. Arla414 Fritsch593
+    Location: RIVER'S EDGE PRIMARY CARE LLC
+    Duration: 13:25:46 - 13:40:46
+
+  [13:25:46] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [13:25:46] IMMUNIZATION: pneumococcal polysaccharide vaccine, 23 valent
+    Status: completed
+
+  [13:25:46] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-06-15
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Grace552 Marianne327 is a 66 year-old nonhispanic white female.
+      # Social History
+
+  [13:25:46] DOCUMENT: History and physical note
+    Status: superseded
+
+  [13:40:46] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2024-08-09
+
+  [07:59:37] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Miyoko154 Paucek755
+    Location: Patient's Home
+    Duration: 07:59:37 - 08:35:11
+
+  [07:59:37] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [07:59:37] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-08-09
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Grace552 Marianne327 is a 66 year-old nonhispanic white female.
+      # Social History
+
+  [07:59:37] DOCUMENT: History and physical note
+    Status: superseded
+
+  [08:35:11] CLAIM: institutional
+    Amount: USD 556.40
+
+  [08:35:11] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Miyoko154 Paucek755
+    Location: ENCOMPASS HEALTH REHAB HOSPITAL OF WESTERN MASS
+    Duration: 08:35:11 - 08:50:29
+
+  [08:35:11] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [08:35:11] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-08-09
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Grace552 Marianne327 is a 66 year-old nonhispanic white female.
+      # Social History
+
+  [08:35:11] DOCUMENT: History and physical note
+    Status: superseded
+
+  [08:50:29] CLAIM: professional
+    Amount: USD 211.60
+
+  [08:50:29] VISIT: Follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Miyoko154 Paucek755
+    Location: ENCOMPASS HEALTH REHAB HOSPITAL OF WESTERN MASS
+    Duration: 08:50:29 - 09:08:46
+
+  [08:50:29] PROCEDURE: Bone density scan (procedure)
+    Status: completed
+
+  [08:50:29] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-08-09
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Grace552 Marianne327 is a 66 year-old nonhispanic white female.
+      # Social History
+
+  [08:50:29] DOCUMENT: History and physical note
+    Status: superseded
+
+  [09:08:46] CLAIM: professional
+    Amount: USD 4196.63
+
+
+📅 2025-06-21
+
+  [13:25:46] VISIT: General examination of patient (procedure)
+    Provider: Dr. Arla414 Fritsch593
+    Location: RIVER'S EDGE PRIMARY CARE LLC
+    Duration: 13:25:46 - 13:40:46
+
+  [13:25:46] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [13:25:46] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-06-21
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Grace552 Marianne327 is a 67 year-old nonhispanic white female.
+      # Social History
+
+  [13:25:46] DOCUMENT: History and physical note
+    Status: superseded
+
+  [13:40:46] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2025-07-06
+
+  [09:08:46] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Miyoko154 Paucek755
+    Location: Patient's Home
+    Duration: 09:08:46 - 09:47:04
+
+  [09:08:46] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [09:08:46] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-07-06
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Grace552 Marianne327 is a 67 year-old nonhispanic white female.
+      # Social History
+
+  [09:08:46] DOCUMENT: History and physical note
+    Status: superseded
+
+  [09:47:04] CLAIM: institutional
+    Amount: USD 556.40
+
+  [09:47:04] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Miyoko154 Paucek755
+    Location: ENCOMPASS HEALTH REHAB HOSPITAL OF WESTERN MASS
+    Duration: 09:47:04 - 10:06:57
+
+  [09:47:04] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [09:47:04] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-07-06
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Grace552 Marianne327 is a 67 year-old nonhispanic white female.
+      # Social History
+
+  [09:47:04] DOCUMENT: History and physical note
+    Status: superseded
+
+  [10:06:57] CLAIM: professional
+    Amount: USD 211.60
+
+  [10:06:57] VISIT: Follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Miyoko154 Paucek755
+    Location: ENCOMPASS HEALTH REHAB HOSPITAL OF WESTERN MASS
+    Duration: 10:06:57 - 10:28:51
+
+  [10:06:57] PROCEDURE: Bone density scan (procedure)
+    Status: completed
+
+  [10:06:57] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-07-06
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Grace552 Marianne327 is a 67 year-old nonhispanic white female.
+      # Social History
+
+  [10:06:57] DOCUMENT: History and physical note
+    Status: current
+
+  [10:28:51] CLAIM: professional
+    Amount: USD 4181.24
+
+
+📅 2026-02-14
+
+  [12:25:46] PROVENANCE: Record activity
+    Agents: Dr. Miyoko154 Paucek755, Dr. Miyoko154 Paucek755
+
+================================================================================
+END OF TIMELINE (251 events)
+================================================================================

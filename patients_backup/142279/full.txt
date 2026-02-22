@@ -1,0 +1,354 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Mrs. Stacia109 Tamar361 Parisian75
+  Patient ID: 142279
+  Date of Birth: 1968-04-25
+  Gender: Female
+  Race: White
+  Ethnicity: Not Hispanic or Latino
+  Marital Status: Married
+  Address: 501 Labadie Dam Apt 59, Lawrence, MA 01843
+  Phone: 555-679-7182
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2016-05-19
+
+  [23:51:41] VISIT: General examination of patient (procedure)
+    Provider: Dr. Jeana169 Cronin387
+    Location: BLUEPRINT HEALTHCARE LLC
+    Duration: 23:51:41 - 00:06:41
+
+  [23:51:41] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [23:51:41] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-05-19
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Stacia109 Tamar361 is a 48 year-old nonhispanic white female.
+      # Social History
+
+  [23:51:41] DOCUMENT: History and physical note
+    Status: superseded
+
+
+📅 2016-05-20
+
+  [00:06:41] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2018-04-26
+
+  [23:51:41] VISIT: General examination of patient (procedure)
+    Provider: Dr. Jeana169 Cronin387
+    Location: BLUEPRINT HEALTHCARE LLC
+    Duration: 23:51:41 - 00:06:41
+
+  [23:51:41] IMMUNIZATION: zoster vaccine, live
+    Status: completed
+
+  [23:51:41] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [23:51:41] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-04-26
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Stacia109 Tamar361 is a 50 year-old nonhispanic white female.
+      # Social History
+
+  [23:51:41] DOCUMENT: History and physical note
+    Status: superseded
+
+
+📅 2018-04-27
+
+  [00:06:41] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2019-05-02
+
+  [23:51:41] VISIT: General examination of patient (procedure)
+    Provider: Dr. Jeana169 Cronin387
+    Location: BLUEPRINT HEALTHCARE LLC
+    Duration: 23:51:41 - 00:06:41
+
+  [23:51:41] IMMUNIZATION: zoster vaccine, live
+    Status: completed
+
+  [23:51:41] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [23:51:41] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [23:51:41] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-05-02
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Stacia109 Tamar361 is a 51 year-old nonhispanic white female.
+      # Social History
+
+  [23:51:41] DOCUMENT: History and physical note
+    Status: superseded
+
+
+📅 2019-05-03
+
+  [00:06:41] CLAIM: professional
+    Amount: USD 544.80
+
+
+📅 2020-05-07
+
+  [23:51:41] VISIT: General examination of patient (procedure)
+    Provider: Dr. Jeana169 Cronin387
+    Location: BLUEPRINT HEALTHCARE LLC
+    Duration: 23:51:41 - 00:06:41
+
+  [23:51:41] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [23:51:41] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-05-07
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Stacia109 Tamar361 is a 52 year-old nonhispanic white female.
+      # Social History
+
+  [23:51:41] DOCUMENT: History and physical note
+    Status: superseded
+
+
+📅 2020-05-08
+
+  [00:06:41] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2021-03-18
+
+  [23:51:41] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Carisa395 Kutch271
+    Location: LAWRENCE GENERAL HOSPITAL
+    Duration: 23:51:41 - 00:06:41
+
+  [23:51:41] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 30 mcg/0.3 mL dose
+    Status: completed
+
+  [23:51:41] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-03-18
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Stacia109 Tamar361 is a 52 year-old nonhispanic white female.
+      # Social History
+
+  [23:51:41] DOCUMENT: History and physical note
+    Status: superseded
+
+
+📅 2021-03-19
+
+  [00:06:41] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-04-08
+
+  [23:51:41] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Carisa395 Kutch271
+    Location: LAWRENCE GENERAL HOSPITAL
+    Duration: 23:51:41 - 00:06:41
+
+  [23:51:41] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 30 mcg/0.3 mL dose
+    Status: completed
+
+  [23:51:41] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-04-08
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Stacia109 Tamar361 is a 52 year-old nonhispanic white female.
+      # Social History
+
+  [23:51:41] DOCUMENT: History and physical note
+    Status: superseded
+
+
+📅 2021-04-09
+
+  [00:06:41] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-05-13
+
+  [23:51:41] VISIT: General examination of patient (procedure)
+    Provider: Dr. Jeana169 Cronin387
+    Location: BLUEPRINT HEALTHCARE LLC
+    Duration: 23:51:41 - 00:06:41
+
+  [23:51:41] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [23:51:41] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-05-13
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Stacia109 Tamar361 is a 53 year-old nonhispanic white female.
+      # Social History
+
+  [23:51:41] DOCUMENT: History and physical note
+    Status: superseded
+
+
+📅 2021-05-14
+
+  [00:06:41] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2022-05-19
+
+  [23:51:41] VISIT: General examination of patient (procedure)
+    Provider: Dr. Jeana169 Cronin387
+    Location: BLUEPRINT HEALTHCARE LLC
+    Duration: 23:51:41 - 00:06:41
+
+  [23:51:41] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [23:51:41] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-05-19
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Stacia109 Tamar361 is a 54 year-old nonhispanic white female.
+      # Social History
+
+  [23:51:41] DOCUMENT: History and physical note
+    Status: superseded
+
+
+📅 2022-05-20
+
+  [00:06:41] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2023-05-25
+
+  [23:51:41] VISIT: General examination of patient (procedure)
+    Provider: Dr. Jeana169 Cronin387
+    Location: BLUEPRINT HEALTHCARE LLC
+    Duration: 23:51:41 - 00:06:41
+
+  [23:51:41] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [23:51:41] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-05-25
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Stacia109 Tamar361 is a 55 year-old nonhispanic white female.
+      # Social History
+
+  [23:51:41] DOCUMENT: History and physical note
+    Status: superseded
+
+
+📅 2023-05-26
+
+  [00:06:41] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2024-05-30
+
+  [23:51:41] VISIT: General examination of patient (procedure)
+    Provider: Dr. Jeana169 Cronin387
+    Location: BLUEPRINT HEALTHCARE LLC
+    Duration: 23:51:41 - 00:06:41
+
+  [23:51:41] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [23:51:41] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-05-30
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Stacia109 Tamar361 is a 56 year-old nonhispanic white female.
+      # Social History
+
+  [23:51:41] DOCUMENT: History and physical note
+    Status: superseded
+
+
+📅 2024-05-31
+
+  [00:06:41] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2025-06-05
+
+  [23:51:41] VISIT: General examination of patient (procedure)
+    Provider: Dr. Jeana169 Cronin387
+    Location: BLUEPRINT HEALTHCARE LLC
+    Duration: 23:51:41 - 00:06:41
+
+  [23:51:41] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [23:51:41] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-06-05
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Stacia109 Tamar361 is a 57 year-old nonhispanic white female.
+      # Social History
+
+  [23:51:41] DOCUMENT: History and physical note
+    Status: current
+
+
+📅 2025-06-06
+
+  [00:06:41] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2026-02-12
+
+  [22:51:41] PROVENANCE: Record activity
+    Agents: Dr. Jeana169 Cronin387, Dr. Jeana169 Cronin387
+
+================================================================================
+END OF TIMELINE (59 events)
+================================================================================

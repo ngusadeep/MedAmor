@@ -1,0 +1,2072 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Ms. Tori754 Ammie189 Larkin917
+  Patient ID: 149178
+  Date of Birth: 1979-12-11
+  Gender: Female
+  Race: White
+  Ethnicity: Not Hispanic or Latino
+  Marital Status: Never Married
+  Address: 615 Rau Plaza, Auburn, MA 00000
+  Phone: 555-401-4087
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2017-02-28
+
+  [10:29:36] VISIT: General examination of patient (procedure)
+    Provider: Dr. Franklin857 Pfannerstill264
+    Location: EASTERN & WESTERN MEDICAL CENTER PC
+    Duration: 10:29:36 - 10:44:36
+
+  [10:29:36] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [10:29:36] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-02-28
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Tori754 is a 37 year-old nonhispanic white female.
+      # Social History
+
+  [10:29:36] DOCUMENT: History and physical note
+    Status: superseded
+
+  [10:44:36] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2019-11-30
+
+  [10:29:36] VISIT: Periodic reevaluation and management of healthy individual (procedure)
+    Reason: Screening for malignant neoplasm of breast (procedure)
+    Provider: Dr. Otha286 Roberts511
+    Location: NEW ENGLAND REHABILITATION SERVICES OF CENTRAL MASSACHUSETTS INC
+    Duration: 10:29:36 - 19:31:17
+
+  [10:29:36] PROCEDURE: Screening mammography (procedure)
+    Status: completed
+
+  [10:29:36] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-11-30
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Tori754 is a 39 year-old nonhispanic white female.
+      # Social History
+
+  [10:29:36] DOCUMENT: History and physical note
+    Status: superseded
+
+  [10:46:51] PROCEDURE: Ultrasonography of bilateral breasts (procedure)
+    Status: completed
+
+  [11:08:12] PROCEDURE: Biopsy of breast (procedure)
+    Status: completed
+
+  [11:57:17] CONDITION: Malignant neoplasm of breast (disorder) (active)
+
+  [11:57:17] OBSERVATION: Site of distant metastasis in Breast tumor: None (qualifier value)
+
+  [11:57:17] OBSERVATION: Distant metastases.clinical [Class] Cancer: American Joint Committee on Cancer cM0 (qualifier value)
+
+  [11:57:17] OBSERVATION: Size.maximum dimension in Tumor: 1.5957 cm
+
+  [11:57:17] OBSERVATION: Primary tumor.clinical [Class] Cancer: American Joint Committee on Cancer cT1 (qualifier value)
+
+  [11:57:17] OBSERVATION: Lymph nodes with micrometastases [#] in Cancer specimen by Light microscopy: 1.0779 {#}
+
+  [11:57:17] OBSERVATION: Regional lymph nodes.clinical [Class] Cancer: American Joint Committee on Cancer cN1 (qualifier value)
+
+  [11:57:17] PROCEDURE: Human epidermal growth factor receptor 2 gene detection by fluorescence in situ hybridization (procedure)
+    Status: completed
+
+
+📅 2019-12-01
+
+  [15:57:17] PROCEDURE: Human epidermal growth factor receptor 2 gene detection by immunohistochemistry (procedure)
+    Status: completed
+
+  [19:31:17] OBSERVATION: HER2 [Presence] in Breast cancer specimen by Immune stain: Negative (qualifier value)
+
+  [19:31:17] OBSERVATION: ERBB2 gene duplication [Presence] in Breast cancer specimen by FISH: less than 1.8
+
+  [19:31:17] OBSERVATION: Estrogen receptor Ag [Presence] in Breast cancer specimen by Immune stain: Positive (qualifier value)
+
+  [19:31:17] OBSERVATION: Progesterone receptor Ag [Presence] in Breast cancer specimen by Immune stain: Positive (qualifier value)
+
+  [19:31:17] OBSERVATION: Estrogen+Progesterone receptor Ag [Presence] in Tissue by Immune stain: Positive (qualifier value)
+
+  [19:31:17] OBSERVATION: Stage group.clinical Cancer: American Joint Committee on Cancer stage IIA (qualifier value)
+
+  [19:31:17] OBSERVATION: Stage group.clinical Cancer: Stage 2 (qualifier value)
+
+  [19:31:17] CLAIM: professional
+    Amount: USD 4415.94
+
+
+📅 2019-12-03
+
+  [23:31:17] VISIT: Discussion about treatment (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Otha286 Roberts511
+    Location: NEW ENGLAND REHABILITATION SERVICES OF CENTRAL MASSACHUSETTS INC
+    Duration: 23:31:17 - 00:21:35
+
+  [23:31:17] PROCEDURE: Discussion about options (procedure)
+    Status: completed
+
+  [23:31:17] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-12-03
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Tori754 is a 39 year-old nonhispanic white female.
+      # Social History
+
+  [23:31:17] DOCUMENT: History and physical note
+    Status: superseded
+
+
+📅 2019-12-04
+
+  [00:21:35] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2019-12-07
+
+  [00:21:35] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Otha286 Roberts511
+    Location: NEW ENGLAND REHABILITATION SERVICES OF CENTRAL MASSACHUSETTS INC
+    Duration: 00:21:35 - 02:31:59
+
+  [00:21:35] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-12-07
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Tori754 is a 39 year-old nonhispanic white female.
+      # Social History
+
+  [00:21:35] DOCUMENT: History and physical note
+    Status: superseded
+
+  [00:43:35] PROCEDURE: Excision of axillary lymph node (procedure)
+    Status: completed
+
+  [02:09:55] PROCEDURE: Lumpectomy of breast (procedure)
+    Status: completed
+
+
+📅 2019-12-08
+
+  [02:31:59] CLAIM: institutional
+    Amount: USD 33542.69
+
+
+📅 2019-12-17
+
+  [10:29:36] VISIT: General examination of patient (procedure)
+    Provider: Dr. Franklin857 Pfannerstill264
+    Location: EASTERN & WESTERN MEDICAL CENTER PC
+    Duration: 10:29:36 - 10:44:36
+
+  [10:29:36] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [10:29:36] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [10:29:36] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-12-17
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Tori754 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [10:29:36] DOCUMENT: History and physical note
+    Status: superseded
+
+  [10:44:36] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2019-12-19
+
+  [15:31:59] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Otha286 Roberts511
+    Location: NEW ENGLAND REHABILITATION SERVICES OF CENTRAL MASSACHUSETTS INC
+    Duration: 15:31:59 - 16:04:39
+
+  [15:31:59] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [15:31:59] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-12-19
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Tori754 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [15:31:59] DOCUMENT: History and physical note
+    Status: superseded
+
+  [16:04:39] CLAIM: professional
+    Amount: USD 1214.43
+
+
+📅 2019-12-20
+
+  [21:35:39] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Otha286 Roberts511
+    Location: NEW ENGLAND REHABILITATION SERVICES OF CENTRAL MASSACHUSETTS INC
+    Duration: 21:35:39 - 22:03:59
+
+  [21:35:39] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [21:35:39] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-12-20
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Tori754 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [21:35:39] DOCUMENT: History and physical note
+    Status: superseded
+
+  [22:03:59] CLAIM: professional
+    Amount: USD 875.60
+
+
+📅 2019-12-22
+
+  [05:22:59] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Otha286 Roberts511
+    Location: NEW ENGLAND REHABILITATION SERVICES OF CENTRAL MASSACHUSETTS INC
+    Duration: 05:22:59 - 05:41:50
+
+  [05:22:59] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [05:22:59] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-12-22
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Tori754 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [05:22:59] DOCUMENT: History and physical note
+    Status: superseded
+
+  [05:41:50] CLAIM: professional
+    Amount: USD 650.64
+
+
+📅 2019-12-23
+
+  [15:20:50] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Otha286 Roberts511
+    Location: NEW ENGLAND REHABILITATION SERVICES OF CENTRAL MASSACHUSETTS INC
+    Duration: 15:20:50 - 15:43:48
+
+  [15:20:50] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [15:20:50] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-12-23
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Tori754 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [15:20:50] DOCUMENT: History and physical note
+    Status: superseded
+
+  [15:43:48] CLAIM: professional
+    Amount: USD 1359.90
+
+
+📅 2019-12-25
+
+  [00:51:48] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Otha286 Roberts511
+    Location: NEW ENGLAND REHABILITATION SERVICES OF CENTRAL MASSACHUSETTS INC
+    Duration: 00:51:48 - 01:25:44
+
+  [00:51:48] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [00:51:48] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-12-25
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Tori754 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [00:51:48] DOCUMENT: History and physical note
+    Status: superseded
+
+  [01:25:44] CLAIM: professional
+    Amount: USD 1359.90
+
+
+📅 2019-12-26
+
+  [03:19:44] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Otha286 Roberts511
+    Location: NEW ENGLAND REHABILITATION SERVICES OF CENTRAL MASSACHUSETTS INC
+    Duration: 03:19:44 - 03:42:56
+
+  [03:19:44] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [03:19:44] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-12-26
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Tori754 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [03:19:44] DOCUMENT: History and physical note
+    Status: superseded
+
+  [03:42:56] CLAIM: professional
+    Amount: USD 1359.90
+
+
+📅 2019-12-27
+
+  [13:58:56] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Otha286 Roberts511
+    Location: NEW ENGLAND REHABILITATION SERVICES OF CENTRAL MASSACHUSETTS INC
+    Duration: 13:58:56 - 14:25:06
+
+  [13:58:56] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [13:58:56] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-12-27
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Tori754 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [13:58:56] DOCUMENT: History and physical note
+    Status: superseded
+
+  [14:25:06] CLAIM: professional
+    Amount: USD 824.20
+
+
+📅 2019-12-28
+
+  [15:19:06] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Otha286 Roberts511
+    Location: NEW ENGLAND REHABILITATION SERVICES OF CENTRAL MASSACHUSETTS INC
+    Duration: 15:19:06 - 15:47:22
+
+  [15:19:06] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [15:19:06] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-12-28
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Tori754 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [15:19:06] DOCUMENT: History and physical note
+    Status: superseded
+
+  [15:47:22] CLAIM: professional
+    Amount: USD 1359.90
+
+
+📅 2019-12-30
+
+  [03:22:22] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Otha286 Roberts511
+    Location: NEW ENGLAND REHABILITATION SERVICES OF CENTRAL MASSACHUSETTS INC
+    Duration: 03:22:22 - 03:40:11
+
+  [03:22:22] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [03:22:22] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-12-30
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Tori754 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [03:22:22] DOCUMENT: History and physical note
+    Status: superseded
+
+  [03:40:11] CLAIM: professional
+    Amount: USD 512.63
+
+
+📅 2019-12-31
+
+  [11:45:11] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Otha286 Roberts511
+    Location: NEW ENGLAND REHABILITATION SERVICES OF CENTRAL MASSACHUSETTS INC
+    Duration: 11:45:11 - 12:15:46
+
+  [11:45:11] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [11:45:11] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-12-31
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Tori754 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [11:45:11] DOCUMENT: History and physical note
+    Status: superseded
+
+  [12:15:46] CLAIM: professional
+    Amount: USD 1359.90
+
+
+📅 2020-01-01
+
+  [13:35:46] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Otha286 Roberts511
+    Location: NEW ENGLAND REHABILITATION SERVICES OF CENTRAL MASSACHUSETTS INC
+    Duration: 13:35:46 - 14:05:29
+
+  [13:35:46] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [13:35:46] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-01-01
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Tori754 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [13:35:46] DOCUMENT: History and physical note
+    Status: superseded
+
+  [14:05:29] CLAIM: professional
+    Amount: USD 1359.90
+
+
+📅 2020-01-02
+
+  [17:13:29] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Otha286 Roberts511
+    Location: NEW ENGLAND REHABILITATION SERVICES OF CENTRAL MASSACHUSETTS INC
+    Duration: 17:13:29 - 17:48:13
+
+  [17:13:29] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [17:13:29] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-01-02
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Tori754 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [17:13:29] DOCUMENT: History and physical note
+    Status: superseded
+
+  [17:48:13] CLAIM: professional
+    Amount: USD 1336.95
+
+
+📅 2020-01-03
+
+  [19:24:13] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Otha286 Roberts511
+    Location: NEW ENGLAND REHABILITATION SERVICES OF CENTRAL MASSACHUSETTS INC
+    Duration: 19:24:13 - 19:55:29
+
+  [19:24:13] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [19:24:13] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-01-03
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Tori754 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [19:24:13] DOCUMENT: History and physical note
+    Status: superseded
+
+  [19:55:29] CLAIM: professional
+    Amount: USD 602.21
+
+
+📅 2020-01-05
+
+  [06:59:29] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Otha286 Roberts511
+    Location: NEW ENGLAND REHABILITATION SERVICES OF CENTRAL MASSACHUSETTS INC
+    Duration: 06:59:29 - 07:28:53
+
+  [06:59:29] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [06:59:29] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-01-05
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Tori754 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [06:59:29] DOCUMENT: History and physical note
+    Status: superseded
+
+  [07:28:53] CLAIM: professional
+    Amount: USD 512.63
+
+
+📅 2020-01-06
+
+  [17:15:53] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Otha286 Roberts511
+    Location: NEW ENGLAND REHABILITATION SERVICES OF CENTRAL MASSACHUSETTS INC
+    Duration: 17:15:53 - 17:45:18
+
+  [17:15:53] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [17:15:53] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-01-06
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Tori754 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [17:15:53] DOCUMENT: History and physical note
+    Status: superseded
+
+  [17:45:18] CLAIM: professional
+    Amount: USD 1359.90
+
+
+📅 2020-01-08
+
+  [04:50:18] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Otha286 Roberts511
+    Location: NEW ENGLAND REHABILITATION SERVICES OF CENTRAL MASSACHUSETTS INC
+    Duration: 04:50:18 - 05:23:00
+
+  [04:50:18] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [04:50:18] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-01-08
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Tori754 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [04:50:18] DOCUMENT: History and physical note
+    Status: superseded
+
+  [05:23:00] CLAIM: professional
+    Amount: USD 869.28
+
+
+📅 2020-01-09
+
+  [12:23:00] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Otha286 Roberts511
+    Location: NEW ENGLAND REHABILITATION SERVICES OF CENTRAL MASSACHUSETTS INC
+    Duration: 12:23:00 - 12:52:09
+
+  [12:23:00] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [12:23:00] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-01-09
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Tori754 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [12:23:00] DOCUMENT: History and physical note
+    Status: superseded
+
+  [12:52:09] CLAIM: professional
+    Amount: USD 512.63
+
+
+📅 2020-01-10
+
+  [17:10:09] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Otha286 Roberts511
+    Location: NEW ENGLAND REHABILITATION SERVICES OF CENTRAL MASSACHUSETTS INC
+    Duration: 17:10:09 - 17:39:16
+
+  [17:10:09] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [17:10:09] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-01-10
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Tori754 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [17:10:09] DOCUMENT: History and physical note
+    Status: superseded
+
+  [17:39:16] CLAIM: professional
+    Amount: USD 520.80
+
+
+📅 2020-01-12
+
+  [00:51:16] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Otha286 Roberts511
+    Location: NEW ENGLAND REHABILITATION SERVICES OF CENTRAL MASSACHUSETTS INC
+    Duration: 00:51:16 - 01:09:38
+
+  [00:51:16] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [00:51:16] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-01-12
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Tori754 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [00:51:16] DOCUMENT: History and physical note
+    Status: superseded
+
+  [01:09:38] CLAIM: professional
+    Amount: USD 711.05
+
+
+📅 2020-01-13
+
+  [10:59:38] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Otha286 Roberts511
+    Location: NEW ENGLAND REHABILITATION SERVICES OF CENTRAL MASSACHUSETTS INC
+    Duration: 10:59:38 - 11:33:16
+
+  [10:59:38] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [10:59:38] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-01-13
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Tori754 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [10:59:38] DOCUMENT: History and physical note
+    Status: superseded
+
+  [11:33:16] CLAIM: professional
+    Amount: USD 1359.90
+
+
+📅 2020-01-14
+
+  [23:10:16] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Otha286 Roberts511
+    Location: NEW ENGLAND REHABILITATION SERVICES OF CENTRAL MASSACHUSETTS INC
+    Duration: 23:10:16 - 23:27:18
+
+  [23:10:16] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [23:10:16] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-01-14
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Tori754 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [23:10:16] DOCUMENT: History and physical note
+    Status: superseded
+
+  [23:27:18] CLAIM: professional
+    Amount: USD 547.72
+
+
+📅 2020-01-16
+
+  [04:17:18] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Otha286 Roberts511
+    Location: NEW ENGLAND REHABILITATION SERVICES OF CENTRAL MASSACHUSETTS INC
+    Duration: 04:17:18 - 04:51:40
+
+  [04:17:18] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [04:17:18] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-01-16
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Tori754 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [04:17:18] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:51:40] CLAIM: professional
+    Amount: USD 1359.90
+
+
+📅 2020-01-17
+
+  [07:41:40] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Otha286 Roberts511
+    Location: NEW ENGLAND REHABILITATION SERVICES OF CENTRAL MASSACHUSETTS INC
+    Duration: 07:41:40 - 07:56:44
+
+  [07:41:40] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [07:41:40] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-01-17
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Tori754 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [07:41:40] DOCUMENT: History and physical note
+    Status: superseded
+
+  [07:56:44] CLAIM: professional
+    Amount: USD 512.63
+
+
+📅 2020-01-18
+
+  [19:08:44] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Otha286 Roberts511
+    Location: NEW ENGLAND REHABILITATION SERVICES OF CENTRAL MASSACHUSETTS INC
+    Duration: 19:08:44 - 19:33:07
+
+  [19:08:44] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [19:08:44] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-01-18
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Tori754 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [19:08:44] DOCUMENT: History and physical note
+    Status: superseded
+
+  [19:33:07] CLAIM: professional
+    Amount: USD 1359.90
+
+
+📅 2020-01-20
+
+  [06:45:07] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Otha286 Roberts511
+    Location: NEW ENGLAND REHABILITATION SERVICES OF CENTRAL MASSACHUSETTS INC
+    Duration: 06:45:07 - 07:02:17
+
+  [06:45:07] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [06:45:07] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-01-20
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Tori754 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [06:45:07] DOCUMENT: History and physical note
+    Status: superseded
+
+  [07:02:17] CLAIM: professional
+    Amount: USD 512.63
+
+
+📅 2020-01-21
+
+  [18:42:17] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Otha286 Roberts511
+    Location: NEW ENGLAND REHABILITATION SERVICES OF CENTRAL MASSACHUSETTS INC
+    Duration: 18:42:17 - 19:21:54
+
+  [18:42:17] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [18:42:17] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-01-21
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Tori754 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [18:42:17] DOCUMENT: History and physical note
+    Status: superseded
+
+  [19:21:54] CLAIM: professional
+    Amount: USD 512.63
+
+
+📅 2020-01-22
+
+  [22:45:54] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Otha286 Roberts511
+    Location: NEW ENGLAND REHABILITATION SERVICES OF CENTRAL MASSACHUSETTS INC
+    Duration: 22:45:54 - 23:20:19
+
+  [22:45:54] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [22:45:54] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-01-22
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Tori754 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [22:45:54] DOCUMENT: History and physical note
+    Status: superseded
+
+  [23:20:19] CLAIM: professional
+    Amount: USD 530.77
+
+
+📅 2020-01-24
+
+  [09:48:19] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Otha286 Roberts511
+    Location: NEW ENGLAND REHABILITATION SERVICES OF CENTRAL MASSACHUSETTS INC
+    Duration: 09:48:19 - 10:23:38
+
+  [09:48:19] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [09:48:19] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-01-24
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Tori754 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [09:48:19] DOCUMENT: History and physical note
+    Status: superseded
+
+  [10:23:38] CLAIM: professional
+    Amount: USD 1357.97
+
+
+📅 2020-01-25
+
+  [15:29:38] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Otha286 Roberts511
+    Location: NEW ENGLAND REHABILITATION SERVICES OF CENTRAL MASSACHUSETTS INC
+    Duration: 15:29:38 - 15:46:52
+
+  [15:29:38] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [15:29:38] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-01-25
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Tori754 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [15:29:38] DOCUMENT: History and physical note
+    Status: superseded
+
+  [15:46:52] CLAIM: professional
+    Amount: USD 512.63
+
+
+📅 2020-01-26
+
+  [16:41:52] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Otha286 Roberts511
+    Location: NEW ENGLAND REHABILITATION SERVICES OF CENTRAL MASSACHUSETTS INC
+    Duration: 16:41:52 - 17:12:38
+
+  [16:41:52] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [16:41:52] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-01-26
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Tori754 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [16:41:52] DOCUMENT: History and physical note
+    Status: superseded
+
+  [17:12:38] CLAIM: professional
+    Amount: USD 1359.90
+
+
+📅 2020-01-27
+
+  [22:21:38] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Otha286 Roberts511
+    Location: NEW ENGLAND REHABILITATION SERVICES OF CENTRAL MASSACHUSETTS INC
+    Duration: 22:21:38 - 23:01:17
+
+  [22:21:38] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [22:21:38] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-01-27
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Tori754 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [22:21:38] DOCUMENT: History and physical note
+    Status: superseded
+
+  [23:01:17] CLAIM: professional
+    Amount: USD 517.09
+
+
+📅 2020-01-29
+
+  [10:55:17] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Otha286 Roberts511
+    Location: NEW ENGLAND REHABILITATION SERVICES OF CENTRAL MASSACHUSETTS INC
+    Duration: 10:55:17 - 11:34:29
+
+  [10:55:17] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [10:55:17] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-01-29
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Tori754 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [10:55:17] DOCUMENT: History and physical note
+    Status: superseded
+
+  [11:34:29] CLAIM: professional
+    Amount: USD 1308.81
+
+
+📅 2020-01-30
+
+  [11:57:29] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Otha286 Roberts511
+    Location: NEW ENGLAND REHABILITATION SERVICES OF CENTRAL MASSACHUSETTS INC
+    Duration: 11:57:29 - 12:31:01
+
+  [11:57:29] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [11:57:29] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-01-30
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Tori754 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [11:57:29] DOCUMENT: History and physical note
+    Status: superseded
+
+  [12:31:01] CLAIM: professional
+    Amount: USD 512.63
+
+
+📅 2020-01-31
+
+  [23:46:01] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Otha286 Roberts511
+    Location: NEW ENGLAND REHABILITATION SERVICES OF CENTRAL MASSACHUSETTS INC
+    Duration: 23:46:01 - 00:20:41
+
+  [23:46:01] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [23:46:01] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-01-31
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Tori754 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [23:46:01] DOCUMENT: History and physical note
+    Status: superseded
+
+
+📅 2020-02-01
+
+  [00:20:41] CLAIM: professional
+    Amount: USD 1359.90
+
+
+📅 2020-02-04
+
+  [19:20:41] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Otha286 Roberts511
+    Location: NEW ENGLAND REHABILITATION SERVICES OF CENTRAL MASSACHUSETTS INC
+    Duration: 19:20:41 - 19:35:41
+
+  [19:20:41] OBSERVATION: Treatment status Cancer: Treatment changed (situation)
+
+  [19:20:41] OBSERVATION: Response to cancer treatment: Improving (qualifier value)
+
+  [19:20:41] MEDICATION PRESCRIBED: Unknown medication
+    Status: completed
+    Prescribed by: Dr. Otha286 Roberts511
+
+  [19:20:41] MEDICATION ADMINISTERED: Tamoxifen 10 MG Oral Tablet
+    Status: completed
+    Dosage: 1.0
+
+  [19:20:41] MEDICATION PRESCRIBED: Unknown medication
+    Status: completed
+    Prescribed by: Dr. Otha286 Roberts511
+
+  [19:20:41] MEDICATION ADMINISTERED: ribociclib 200 MG Oral Tablet
+    Status: completed
+
+  [19:20:41] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-02-04
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Tori754 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [19:20:41] DOCUMENT: History and physical note
+    Status: superseded
+
+  [19:35:41] CLAIM: pharmacy
+    Amount: USD 353.40
+
+  [19:35:41] CLAIM: pharmacy
+    Amount: USD 134.43
+
+  [19:35:41] CLAIM: professional
+    Amount: USD 85.55
+
+
+📅 2020-05-27
+
+  [20:20:41] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Otha286 Roberts511
+    Location: NEW ENGLAND REHABILITATION SERVICES OF CENTRAL MASSACHUSETTS INC
+    Duration: 20:20:41 - 20:52:24
+
+  [20:20:41] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [20:20:41] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-05-27
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Tori754 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [20:20:41] DOCUMENT: History and physical note
+    Status: superseded
+
+  [20:52:24] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2020-09-05
+
+  [20:52:24] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Otha286 Roberts511
+    Location: NEW ENGLAND REHABILITATION SERVICES OF CENTRAL MASSACHUSETTS INC
+    Duration: 20:52:24 - 21:25:54
+
+  [20:52:24] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [20:52:24] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-09-05
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Tori754 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [20:52:24] DOCUMENT: History and physical note
+    Status: superseded
+
+  [21:25:54] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2021-01-04
+
+  [20:25:54] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Otha286 Roberts511
+    Location: NEW ENGLAND REHABILITATION SERVICES OF CENTRAL MASSACHUSETTS INC
+    Duration: 20:25:54 - 20:58:32
+
+  [20:25:54] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [20:25:54] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-01-04
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Tori754 is a 41 year-old nonhispanic white female.
+      # Social History
+
+  [20:25:54] DOCUMENT: History and physical note
+    Status: superseded
+
+  [20:58:32] CLAIM: professional
+    Amount: USD 573.98
+
+  [20:58:32] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Otha286 Roberts511
+    Location: NEW ENGLAND REHABILITATION SERVICES OF CENTRAL MASSACHUSETTS INC
+    Duration: 20:58:32 - 21:18:07
+
+  [20:58:32] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [20:58:32] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-01-04
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Tori754 is a 41 year-old nonhispanic white female.
+      # Social History
+
+  [20:58:32] DOCUMENT: History and physical note
+    Status: superseded
+
+  [21:18:07] CLAIM: professional
+    Amount: USD 262.03
+
+  [21:18:07] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Otha286 Roberts511
+    Location: NEW ENGLAND REHABILITATION SERVICES OF CENTRAL MASSACHUSETTS INC
+    Duration: 21:18:07 - 21:50:32
+
+  [21:18:07] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [21:18:07] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-01-04
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Tori754 is a 41 year-old nonhispanic white female.
+      # Social History
+
+  [21:18:07] DOCUMENT: History and physical note
+    Status: superseded
+
+  [21:32:28] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [21:50:32] OBSERVATION: Response to cancer treatment: Improving (qualifier value)
+
+  [21:50:32] CLAIM: professional
+    Amount: USD 2413.54
+
+
+📅 2021-05-06
+
+  [22:50:32] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Otha286 Roberts511
+    Location: NEW ENGLAND REHABILITATION SERVICES OF CENTRAL MASSACHUSETTS INC
+    Duration: 22:50:32 - 23:29:06
+
+  [22:50:32] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [22:50:32] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-05-06
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Tori754 is a 41 year-old nonhispanic white female.
+      # Social History
+
+  [22:50:32] DOCUMENT: History and physical note
+    Status: superseded
+
+  [23:29:06] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2021-08-10
+
+  [11:29:36] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Otha286 Roberts511
+    Location: NEW ENGLAND REHABILITATION SERVICES OF CENTRAL MASSACHUSETTS INC
+    Duration: 11:29:36 - 11:44:36
+
+  [11:29:36] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 30 mcg/0.3 mL dose
+    Status: completed
+
+  [11:29:36] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-08-10
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Tori754 is a 41 year-old nonhispanic white female.
+      # Social History
+
+  [11:29:36] DOCUMENT: History and physical note
+    Status: superseded
+
+  [11:44:36] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-08-22
+
+  [23:29:06] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Otha286 Roberts511
+    Location: NEW ENGLAND REHABILITATION SERVICES OF CENTRAL MASSACHUSETTS INC
+    Duration: 23:29:06 - 00:13:54
+
+  [23:29:06] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [23:29:06] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-08-22
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Tori754 is a 41 year-old nonhispanic white female.
+      # Social History
+
+  [23:29:06] DOCUMENT: History and physical note
+    Status: superseded
+
+
+📅 2021-08-23
+
+  [00:13:54] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2021-08-31
+
+  [11:29:36] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Otha286 Roberts511
+    Location: NEW ENGLAND REHABILITATION SERVICES OF CENTRAL MASSACHUSETTS INC
+    Duration: 11:29:36 - 11:44:36
+
+  [11:29:36] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 30 mcg/0.3 mL dose
+    Status: completed
+
+  [11:29:36] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-08-31
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Tori754 is a 41 year-old nonhispanic white female.
+      # Social History
+
+  [11:29:36] DOCUMENT: History and physical note
+    Status: superseded
+
+  [11:44:36] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-12-09
+
+  [23:13:54] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Otha286 Roberts511
+    Location: NEW ENGLAND REHABILITATION SERVICES OF CENTRAL MASSACHUSETTS INC
+    Duration: 23:13:54 - 23:57:19
+
+  [23:13:54] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [23:13:54] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-12-09
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Tori754 is a 41 year-old nonhispanic white female.
+      # Social History
+
+  [23:13:54] DOCUMENT: History and physical note
+    Status: superseded
+
+  [23:57:19] CLAIM: professional
+    Amount: USD 573.98
+
+  [23:57:19] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Otha286 Roberts511
+    Location: NEW ENGLAND REHABILITATION SERVICES OF CENTRAL MASSACHUSETTS INC
+    Duration: 23:57:19 - 00:12:56
+
+  [23:57:19] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [23:57:19] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-12-09
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Tori754 is a 41 year-old nonhispanic white female.
+      # Social History
+
+  [23:57:19] DOCUMENT: History and physical note
+    Status: superseded
+
+
+📅 2021-12-10
+
+  [00:12:56] CLAIM: professional
+    Amount: USD 211.60
+
+  [00:12:56] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Otha286 Roberts511
+    Location: NEW ENGLAND REHABILITATION SERVICES OF CENTRAL MASSACHUSETTS INC
+    Duration: 00:12:56 - 00:41:41
+
+  [00:12:56] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [00:12:56] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-12-10
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Tori754 is a 41 year-old nonhispanic white female.
+      # Social History
+
+  [00:12:56] DOCUMENT: History and physical note
+    Status: superseded
+
+  [00:27:31] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [00:41:41] OBSERVATION: Response to cancer treatment: Improving (qualifier value)
+
+  [00:41:41] CLAIM: professional
+    Amount: USD 1312.15
+
+
+📅 2021-12-21
+
+  [10:29:36] VISIT: General examination of patient (procedure)
+    Provider: Dr. Franklin857 Pfannerstill264
+    Location: EASTERN & WESTERN MEDICAL CENTER PC
+    Duration: 10:29:36 - 10:44:36
+
+  [10:29:36] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [10:29:36] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [10:29:36] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [10:29:36] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-12-21
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Tori754 is a 42 year-old nonhispanic white female.
+      # Social History
+
+  [10:29:36] DOCUMENT: History and physical note
+    Status: superseded
+
+  [10:44:36] CLAIM: professional
+    Amount: USD 544.80
+
+
+📅 2022-03-30
+
+  [01:41:41] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Otha286 Roberts511
+    Location: NEW ENGLAND REHABILITATION SERVICES OF CENTRAL MASSACHUSETTS INC
+    Duration: 01:41:41 - 02:14:14
+
+  [01:41:41] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [01:41:41] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-03-30
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Tori754 is a 42 year-old nonhispanic white female.
+      # Social History
+
+  [01:41:41] DOCUMENT: History and physical note
+    Status: superseded
+
+  [02:14:14] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2022-07-22
+
+  [02:14:14] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Otha286 Roberts511
+    Location: NEW ENGLAND REHABILITATION SERVICES OF CENTRAL MASSACHUSETTS INC
+    Duration: 02:14:14 - 02:50:37
+
+  [02:14:14] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [02:14:14] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-07-22
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Tori754 is a 42 year-old nonhispanic white female.
+      # Social History
+
+  [02:14:14] DOCUMENT: History and physical note
+    Status: superseded
+
+  [02:50:37] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2022-11-23
+
+  [01:50:37] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Otha286 Roberts511
+    Location: NEW ENGLAND REHABILITATION SERVICES OF CENTRAL MASSACHUSETTS INC
+    Duration: 01:50:37 - 02:21:47
+
+  [01:50:37] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [01:50:37] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-11-23
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Tori754 is a 42 year-old nonhispanic white female.
+      # Social History
+
+  [01:50:37] DOCUMENT: History and physical note
+    Status: superseded
+
+  [02:21:47] CLAIM: professional
+    Amount: USD 573.98
+
+  [02:21:47] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Otha286 Roberts511
+    Location: NEW ENGLAND REHABILITATION SERVICES OF CENTRAL MASSACHUSETTS INC
+    Duration: 02:21:47 - 02:38:25
+
+  [02:21:47] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [02:21:47] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-11-23
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Tori754 is a 42 year-old nonhispanic white female.
+      # Social History
+
+  [02:21:47] DOCUMENT: History and physical note
+    Status: superseded
+
+  [02:38:25] CLAIM: professional
+    Amount: USD 211.60
+
+  [02:38:25] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Otha286 Roberts511
+    Location: NEW ENGLAND REHABILITATION SERVICES OF CENTRAL MASSACHUSETTS INC
+    Duration: 02:38:25 - 03:05:01
+
+  [02:38:25] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [02:38:25] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-11-23
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Tori754 is a 42 year-old nonhispanic white female.
+      # Social History
+
+  [02:38:25] DOCUMENT: History and physical note
+    Status: superseded
+
+  [02:50:40] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [03:05:01] OBSERVATION: Response to cancer treatment: Improving (qualifier value)
+
+  [03:05:01] CLAIM: professional
+    Amount: USD 1891.72
+
+
+📅 2023-03-16
+
+  [04:05:01] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Otha286 Roberts511
+    Location: NEW ENGLAND REHABILITATION SERVICES OF CENTRAL MASSACHUSETTS INC
+    Duration: 04:05:01 - 04:49:58
+
+  [04:05:01] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [04:05:01] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-03-16
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Tori754 is a 43 year-old nonhispanic white female.
+      # Social History
+
+  [04:05:01] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:49:58] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2023-07-10
+
+  [04:49:58] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Otha286 Roberts511
+    Location: NEW ENGLAND REHABILITATION SERVICES OF CENTRAL MASSACHUSETTS INC
+    Duration: 04:49:58 - 05:30:41
+
+  [04:49:58] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [04:49:58] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-07-10
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Tori754 is a 43 year-old nonhispanic white female.
+      # Social History
+
+  [04:49:58] DOCUMENT: History and physical note
+    Status: superseded
+
+  [05:30:41] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2023-11-11
+
+  [04:30:41] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Otha286 Roberts511
+    Location: Patient's Home
+    Duration: 04:30:41 - 05:05:16
+
+  [04:30:41] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [04:30:41] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-11-11
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Tori754 is a 43 year-old nonhispanic white female.
+      # Social History
+
+  [04:30:41] DOCUMENT: History and physical note
+    Status: superseded
+
+  [05:05:16] CLAIM: institutional
+    Amount: USD 556.40
+
+  [05:05:16] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Otha286 Roberts511
+    Location: NEW ENGLAND REHABILITATION SERVICES OF CENTRAL MASSACHUSETTS INC
+    Duration: 05:05:16 - 05:24:22
+
+  [05:05:16] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [05:05:16] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-11-11
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Tori754 is a 43 year-old nonhispanic white female.
+      # Social History
+
+  [05:05:16] DOCUMENT: History and physical note
+    Status: superseded
+
+  [05:24:22] CLAIM: professional
+    Amount: USD 325.49
+
+  [05:24:22] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Otha286 Roberts511
+    Location: NEW ENGLAND REHABILITATION SERVICES OF CENTRAL MASSACHUSETTS INC
+    Duration: 05:24:22 - 05:52:31
+
+  [05:24:22] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [05:24:22] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-11-11
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Tori754 is a 43 year-old nonhispanic white female.
+      # Social History
+
+  [05:24:22] DOCUMENT: History and physical note
+    Status: superseded
+
+  [05:35:00] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [05:52:31] OBSERVATION: Response to cancer treatment: Improving (qualifier value)
+
+  [05:52:31] CLAIM: professional
+    Amount: USD 1096.09
+
+
+📅 2023-12-26
+
+  [10:29:36] VISIT: General examination of patient (procedure)
+    Provider: Dr. Franklin857 Pfannerstill264
+    Location: EASTERN & WESTERN MEDICAL CENTER PC
+    Duration: 10:29:36 - 10:44:36
+
+  [10:29:36] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [10:29:36] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-12-26
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Tori754 is a 44 year-old nonhispanic white female.
+      # Social History
+
+  [10:29:36] DOCUMENT: History and physical note
+    Status: superseded
+
+  [10:44:36] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2024-03-03
+
+  [05:52:31] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Otha286 Roberts511
+    Location: NEW ENGLAND REHABILITATION SERVICES OF CENTRAL MASSACHUSETTS INC
+    Duration: 05:52:31 - 06:25:23
+
+  [05:52:31] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [05:52:31] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-03-03
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Tori754 is a 44 year-old nonhispanic white female.
+      # Social History
+
+  [05:52:31] DOCUMENT: History and physical note
+    Status: superseded
+
+  [06:25:23] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2024-06-28
+
+  [07:25:23] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Otha286 Roberts511
+    Location: NEW ENGLAND REHABILITATION SERVICES OF CENTRAL MASSACHUSETTS INC
+    Duration: 07:25:23 - 07:58:52
+
+  [07:25:23] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [07:25:23] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-06-28
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Tori754 is a 44 year-old nonhispanic white female.
+      # Social History
+
+  [07:25:23] DOCUMENT: History and physical note
+    Status: superseded
+
+  [07:58:52] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2024-10-07
+
+  [07:58:52] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Otha286 Roberts511
+    Location: NEW ENGLAND REHABILITATION SERVICES OF CENTRAL MASSACHUSETTS INC
+    Duration: 07:58:52 - 08:32:01
+
+  [07:58:52] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [07:58:52] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-10-07
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Tori754 is a 44 year-old nonhispanic white female.
+      # Social History
+
+  [07:58:52] DOCUMENT: History and physical note
+    Status: superseded
+
+  [08:32:01] CLAIM: professional
+    Amount: USD 573.98
+
+  [08:32:01] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Otha286 Roberts511
+    Location: NEW ENGLAND REHABILITATION SERVICES OF CENTRAL MASSACHUSETTS INC
+    Duration: 08:32:01 - 08:56:17
+
+  [08:32:01] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [08:32:01] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-10-07
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Tori754 is a 44 year-old nonhispanic white female.
+      # Social History
+
+  [08:32:01] DOCUMENT: History and physical note
+    Status: superseded
+
+  [08:56:17] CLAIM: professional
+    Amount: USD 211.60
+
+  [08:56:17] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Otha286 Roberts511
+    Location: NEW ENGLAND REHABILITATION SERVICES OF CENTRAL MASSACHUSETTS INC
+    Duration: 08:56:17 - 09:27:07
+
+  [08:56:17] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [08:56:17] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-10-07
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Tori754 is a 44 year-old nonhispanic white female.
+      # Social History
+
+  [08:56:17] DOCUMENT: History and physical note
+    Status: superseded
+
+  [09:08:35] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [09:27:07] CLAIM: professional
+    Amount: USD 1091.66
+
+
+📅 2025-09-09
+
+  [09:27:07] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Otha286 Roberts511
+    Location: NEW ENGLAND REHABILITATION SERVICES OF CENTRAL MASSACHUSETTS INC
+    Duration: 09:27:07 - 10:04:29
+
+  [09:27:07] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [09:27:07] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-09-09
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Tori754 is a 45 year-old nonhispanic white female.
+      # Social History
+
+  [09:27:07] DOCUMENT: History and physical note
+    Status: superseded
+
+  [10:04:29] CLAIM: professional
+    Amount: USD 573.98
+
+  [10:04:29] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Otha286 Roberts511
+    Location: NEW ENGLAND REHABILITATION SERVICES OF CENTRAL MASSACHUSETTS INC
+    Duration: 10:04:29 - 10:23:32
+
+  [10:04:29] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [10:04:29] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-09-09
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Tori754 is a 45 year-old nonhispanic white female.
+      # Social History
+
+  [10:04:29] DOCUMENT: History and physical note
+    Status: superseded
+
+  [10:23:32] CLAIM: professional
+    Amount: USD 221.74
+
+  [10:23:32] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Otha286 Roberts511
+    Location: NEW ENGLAND REHABILITATION SERVICES OF CENTRAL MASSACHUSETTS INC
+    Duration: 10:23:32 - 10:47:47
+
+  [10:23:32] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [10:23:32] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-09-09
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Tori754 is a 45 year-old nonhispanic white female.
+      # Social History
+
+  [10:23:32] DOCUMENT: History and physical note
+    Status: superseded
+
+  [10:36:31] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [10:47:47] CLAIM: professional
+    Amount: USD 1327.89
+
+
+📅 2025-12-30
+
+  [10:29:36] VISIT: General examination of patient (procedure)
+    Provider: Dr. Franklin857 Pfannerstill264
+    Location: EASTERN & WESTERN MEDICAL CENTER PC
+    Duration: 10:29:36 - 10:44:36
+
+  [10:29:36] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [10:29:36] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-12-30
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Tori754 is a 46 year-old nonhispanic white female.
+      # Social History
+
+  [10:29:36] DOCUMENT: History and physical note
+    Status: current
+
+  [10:44:36] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2026-02-10
+
+  [10:29:36] PROVENANCE: Record activity
+    Agents: Dr. Franklin857 Pfannerstill264, Dr. Franklin857 Pfannerstill264
+
+================================================================================
+END OF TIMELINE (405 events)
+================================================================================

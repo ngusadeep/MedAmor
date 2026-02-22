@@ -1,0 +1,136 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Mrs. Eloise59 Mante251
+  Patient ID: 45585
+  Date of Birth: 1985-05-03
+  Gender: Female
+  Race: White
+  Ethnicity: Not Hispanic or Latino
+  Marital Status: Married
+  Address: 869 Ruecker Key Apt 83, North Andover, MA 00000
+  Phone: 555-153-9365
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2016-07-15
+
+  [20:05:21] VISIT: General examination of patient (procedure)
+    Provider: Dr. Gertha313 Sanford861
+    Location: HOLY FAMILY MEDICAL SPECIALTY PRACTICE PLLC
+    Duration: 20:05:21 - 20:20:21
+
+  [20:05:21] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [20:05:21] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [20:05:21] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-07-15
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Eloise59 is a 31 year-old nonhispanic white female.
+      # Social History
+
+  [20:05:21] DOCUMENT: History and physical note
+    Status: superseded
+
+  [20:20:21] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2019-07-19
+
+  [20:05:21] VISIT: General examination of patient (procedure)
+    Provider: Dr. Gertha313 Sanford861
+    Location: HOLY FAMILY MEDICAL SPECIALTY PRACTICE PLLC
+    Duration: 20:05:21 - 20:20:21
+
+  [20:05:21] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [20:05:21] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-07-19
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Eloise59 is a 34 year-old nonhispanic white female.
+      # Social History
+
+  [20:05:21] DOCUMENT: History and physical note
+    Status: superseded
+
+  [20:20:21] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2022-07-22
+
+  [20:05:21] VISIT: General examination of patient (procedure)
+    Provider: Dr. Gertha313 Sanford861
+    Location: HOLY FAMILY MEDICAL SPECIALTY PRACTICE PLLC
+    Duration: 20:05:21 - 20:20:21
+
+  [20:05:21] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [20:05:21] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-07-22
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Eloise59 is a 37 year-old nonhispanic white female.
+      # Social History
+
+  [20:05:21] DOCUMENT: History and physical note
+    Status: superseded
+
+  [20:20:21] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2025-05-09
+
+  [20:05:21] VISIT: General examination of patient (procedure)
+    Provider: Dr. Gertha313 Sanford861
+    Location: HOLY FAMILY MEDICAL SPECIALTY PRACTICE PLLC
+    Duration: 20:05:21 - 20:20:21
+
+  [20:05:21] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [20:05:21] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [20:05:21] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-05-09
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Eloise59 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [20:05:21] DOCUMENT: History and physical note
+    Status: current
+
+  [20:20:21] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2026-02-13
+
+  [19:05:21] PROVENANCE: Record activity
+    Agents: Dr. Gertha313 Sanford861, Dr. Gertha313 Sanford861
+
+================================================================================
+END OF TIMELINE (23 events)
+================================================================================

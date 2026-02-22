@@ -1,0 +1,350 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Mrs. Celsa248 Keebler762
+  Patient ID: 26504
+  Date of Birth: 1956-06-25
+  Gender: Female
+  Race: White
+  Ethnicity: Not Hispanic or Latino
+  Marital Status: Married
+  Address: 958 Prosacco Pathway Suite 16, Worcester, MA 01605
+  Phone: 555-599-3992
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2016-08-22
+
+  [00:45:39] VISIT: General examination of patient (procedure)
+    Provider: Dr. Florance664 Leannon79
+    Location: SUNRISE HEALTHCARE LLC
+    Duration: 00:45:39 - 01:00:39
+
+  [00:45:39] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [00:45:39] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-08-22
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Celsa248 is a 60 year-old nonhispanic white female.
+      # Social History
+
+  [00:45:39] DOCUMENT: History and physical note
+    Status: superseded
+
+  [01:00:39] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2017-08-28
+
+  [00:45:39] VISIT: General examination of patient (procedure)
+    Provider: Dr. Florance664 Leannon79
+    Location: SUNRISE HEALTHCARE LLC
+    Duration: 00:45:39 - 01:00:39
+
+  [00:45:39] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [00:45:39] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [00:45:39] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-08-28
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Celsa248 is a 61 year-old nonhispanic white female.
+      # Social History
+
+  [00:45:39] DOCUMENT: History and physical note
+    Status: superseded
+
+  [01:00:39] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2018-09-03
+
+  [00:45:39] VISIT: General examination of patient (procedure)
+    Provider: Dr. Florance664 Leannon79
+    Location: SUNRISE HEALTHCARE LLC
+    Duration: 00:45:39 - 01:00:39
+
+  [00:45:39] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [00:45:39] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-09-03
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Celsa248 is a 62 year-old nonhispanic white female.
+      # Social History
+
+  [00:45:39] DOCUMENT: History and physical note
+    Status: superseded
+
+  [01:00:39] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2019-09-09
+
+  [00:45:39] VISIT: General examination of patient (procedure)
+    Provider: Dr. Florance664 Leannon79
+    Location: SUNRISE HEALTHCARE LLC
+    Duration: 00:45:39 - 01:00:39
+
+  [00:45:39] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [00:45:39] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-09-09
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Celsa248 is a 63 year-old nonhispanic white female.
+      # Social History
+
+  [00:45:39] DOCUMENT: History and physical note
+    Status: superseded
+
+  [01:00:39] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2020-09-14
+
+  [00:45:39] VISIT: General examination of patient (procedure)
+    Provider: Dr. Florance664 Leannon79
+    Location: SUNRISE HEALTHCARE LLC
+    Duration: 00:45:39 - 01:00:39
+
+  [00:45:39] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [00:45:39] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-09-14
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Celsa248 is a 64 year-old nonhispanic white female.
+      # Social History
+
+  [00:45:39] DOCUMENT: History and physical note
+    Status: superseded
+
+  [01:00:39] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2021-02-14
+
+  [23:45:39] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Federico589 Kuhic920
+    Location: UNIVERSITY OF MA MED CTR-ESRD
+    Duration: 23:45:39 - 00:00:39
+
+  [23:45:39] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+    Status: completed
+
+  [23:45:39] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-02-14
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Celsa248 is a 64 year-old nonhispanic white female.
+      # Social History
+
+  [23:45:39] DOCUMENT: History and physical note
+    Status: superseded
+
+
+📅 2021-02-15
+
+  [00:00:39] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-03-15
+
+  [00:45:39] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Federico589 Kuhic920
+    Location: UNIVERSITY OF MA MED CTR-ESRD
+    Duration: 00:45:39 - 01:00:39
+
+  [00:45:39] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+    Status: completed
+
+  [00:45:39] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-03-15
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Celsa248 is a 64 year-old nonhispanic white female.
+      # Social History
+
+  [00:45:39] DOCUMENT: History and physical note
+    Status: superseded
+
+  [01:00:39] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-09-20
+
+  [00:45:39] VISIT: General examination of patient (procedure)
+    Provider: Dr. Florance664 Leannon79
+    Location: SUNRISE HEALTHCARE LLC
+    Duration: 00:45:39 - 01:00:39
+
+  [00:45:39] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [00:45:39] IMMUNIZATION: Pneumococcal conjugate PCV 13
+    Status: completed
+
+  [00:45:39] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-09-20
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Celsa248 is a 65 year-old nonhispanic white female.
+      # Social History
+
+  [00:45:39] DOCUMENT: History and physical note
+    Status: superseded
+
+  [01:00:39] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2022-09-26
+
+  [00:45:39] VISIT: General examination of patient (procedure)
+    Provider: Dr. Florance664 Leannon79
+    Location: SUNRISE HEALTHCARE LLC
+    Duration: 00:45:39 - 01:00:39
+
+  [00:45:39] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [00:45:39] IMMUNIZATION: pneumococcal polysaccharide vaccine, 23 valent
+    Status: completed
+
+  [00:45:39] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-09-26
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Celsa248 is a 66 year-old nonhispanic white female.
+      # Social History
+
+  [00:45:39] DOCUMENT: History and physical note
+    Status: superseded
+
+  [01:00:39] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2023-10-02
+
+  [00:45:39] VISIT: General examination of patient (procedure)
+    Provider: Dr. Florance664 Leannon79
+    Location: SUNRISE HEALTHCARE LLC
+    Duration: 00:45:39 - 01:00:39
+
+  [00:45:39] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [00:45:39] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-10-02
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Celsa248 is a 67 year-old nonhispanic white female.
+      # Social History
+
+  [00:45:39] DOCUMENT: History and physical note
+    Status: superseded
+
+  [01:00:39] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2024-10-07
+
+  [00:45:39] VISIT: General examination of patient (procedure)
+    Provider: Dr. Florance664 Leannon79
+    Location: SUNRISE HEALTHCARE LLC
+    Duration: 00:45:39 - 01:00:39
+
+  [00:45:39] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [00:45:39] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-10-07
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Celsa248 is a 68 year-old nonhispanic white female.
+      # Social History
+
+  [00:45:39] DOCUMENT: History and physical note
+    Status: superseded
+
+  [01:00:39] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2025-10-13
+
+  [00:45:39] VISIT: General examination of patient (procedure)
+    Provider: Dr. Florance664 Leannon79
+    Location: SUNRISE HEALTHCARE LLC
+    Duration: 00:45:39 - 01:00:39
+
+  [00:45:39] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [00:45:39] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-10-13
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Celsa248 is a 69 year-old nonhispanic white female.
+      # Social History
+
+  [00:45:39] DOCUMENT: History and physical note
+    Status: current
+
+  [01:00:39] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2026-02-15
+
+  [23:45:39] PROVENANCE: Record activity
+    Agents: Dr. Florance664 Leannon79, Dr. Florance664 Leannon79
+
+================================================================================
+END OF TIMELINE (64 events)
+================================================================================

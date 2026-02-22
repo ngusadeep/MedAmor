@@ -1,0 +1,1410 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Ms. Reba58 Phylicia571 Gibson10
+  Patient ID: 126439
+  Date of Birth: 1984-12-17
+  Gender: Female
+  Race: Asian
+  Ethnicity: Not Hispanic or Latino
+  Marital Status: Never Married
+  Address: 1055 Anderson Parade, Tewksbury, MA 00000
+  Phone: 555-470-5156
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2016-02-29
+
+  [01:38:41] VISIT: General examination of patient (procedure)
+    Provider: Dr. Chris95 Haag279
+    Location: GREATER LOWELL FAMILY PRACTICE PC
+    Duration: 01:38:41 - 01:53:41
+
+  [01:38:41] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [01:38:41] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [01:38:41] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-02-29
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Reba58 is a 31 year-old nonhispanic asian female.
+      # Social History
+
+  [01:38:41] DOCUMENT: History and physical note
+    Status: superseded
+
+  [01:53:41] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2019-03-04
+
+  [01:38:41] VISIT: General examination of patient (procedure)
+    Provider: Dr. Chris95 Haag279
+    Location: GREATER LOWELL FAMILY PRACTICE PC
+    Duration: 01:38:41 - 01:53:41
+
+  [01:38:41] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [01:38:41] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-03-04
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Reba58 is a 34 year-old nonhispanic asian female.
+      # Social History
+
+  [01:38:41] DOCUMENT: History and physical note
+    Status: superseded
+
+  [01:53:41] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2021-03-29
+
+  [02:38:41] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Carlton317 Koch169
+    Location: TEWKSBURY HOSPITAL
+    Duration: 02:38:41 - 02:53:41
+
+  [02:38:41] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 30 mcg/0.3 mL dose
+    Status: completed
+
+  [02:38:41] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-03-29
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Reba58 is a 36 year-old nonhispanic asian female.
+      # Social History
+
+  [02:38:41] DOCUMENT: History and physical note
+    Status: superseded
+
+  [02:53:41] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-04-19
+
+  [02:38:41] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Carlton317 Koch169
+    Location: TEWKSBURY HOSPITAL
+    Duration: 02:38:41 - 02:53:41
+
+  [02:38:41] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 30 mcg/0.3 mL dose
+    Status: completed
+
+  [02:38:41] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-04-19
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Reba58 is a 36 year-old nonhispanic asian female.
+      # Social History
+
+  [02:38:41] DOCUMENT: History and physical note
+    Status: superseded
+
+  [02:53:41] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2022-03-07
+
+  [01:38:41] VISIT: General examination of patient (procedure)
+    Provider: Dr. Chris95 Haag279
+    Location: GREATER LOWELL FAMILY PRACTICE PC
+    Duration: 01:38:41 - 01:53:41
+
+  [01:38:41] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [01:38:41] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-03-07
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Reba58 is a 37 year-old nonhispanic asian female.
+      # Social History
+
+  [01:38:41] DOCUMENT: History and physical note
+    Status: superseded
+
+  [01:53:41] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2024-09-29
+
+  [02:38:41] VISIT: Periodic reevaluation and management of healthy individual (procedure)
+    Reason: Screening for malignant neoplasm of breast (procedure)
+    Provider: Dr. Carlton317 Koch169
+    Location: TEWKSBURY HOSPITAL
+    Duration: 02:38:41 - 16:33:37
+
+  [02:38:41] PROCEDURE: Screening mammography (procedure)
+    Status: completed
+
+  [02:38:41] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-09-29
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Reba58 is a 39 year-old nonhispanic asian female.
+      # Social History
+
+  [02:38:41] DOCUMENT: History and physical note
+    Status: superseded
+
+  [02:58:38] PROCEDURE: Ultrasonography of bilateral breasts (procedure)
+    Status: completed
+
+  [03:25:57] PROCEDURE: Biopsy of breast (procedure)
+    Status: completed
+
+  [04:18:37] CONDITION: Malignant neoplasm of breast (disorder) (active)
+
+  [04:18:37] OBSERVATION: Site of distant metastasis in Breast tumor: None (qualifier value)
+
+  [04:18:37] OBSERVATION: Distant metastases.clinical [Class] Cancer: American Joint Committee on Cancer cM0 (qualifier value)
+
+  [04:18:37] OBSERVATION: Size.maximum dimension in Tumor: 1.0321 cm
+
+  [04:18:37] OBSERVATION: Primary tumor.clinical [Class] Cancer: American Joint Committee on Cancer cT1 (qualifier value)
+
+  [04:18:37] OBSERVATION: Lymph nodes with isolated tumor cells [#] in Cancer specimen by Light microscopy: 0 {#}
+
+  [04:18:37] OBSERVATION: Regional lymph nodes.clinical [Class] Cancer: American Joint Committee on Cancer cN0 (qualifier value)
+
+  [04:18:37] PROCEDURE: Human epidermal growth factor receptor 2 gene detection by fluorescence in situ hybridization (procedure)
+    Status: completed
+
+
+📅 2024-09-30
+
+  [13:18:37] PROCEDURE: Human epidermal growth factor receptor 2 gene detection by immunohistochemistry (procedure)
+    Status: completed
+
+  [16:33:37] OBSERVATION: HER2 [Presence] in Breast cancer specimen by Immune stain: Negative (qualifier value)
+
+  [16:33:37] OBSERVATION: ERBB2 gene duplication [Presence] in Breast cancer specimen by FISH: less than 1.8
+
+  [16:33:37] OBSERVATION: Estrogen receptor Ag [Presence] in Breast cancer specimen by Immune stain: Negative (qualifier value)
+
+  [16:33:37] OBSERVATION: Progesterone receptor Ag [Presence] in Breast cancer specimen by Immune stain: Positive (qualifier value)
+
+  [16:33:37] OBSERVATION: Stage group.clinical Cancer: American Joint Committee on Cancer stage IA (qualifier value)
+
+  [16:33:37] OBSERVATION: Stage group.clinical Cancer: Stage 1 (qualifier value)
+
+  [16:33:37] CLAIM: professional
+    Amount: USD 4175.87
+
+
+📅 2024-10-06
+
+  [23:33:37] VISIT: Discussion about treatment (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Carlton317 Koch169
+    Location: TEWKSBURY HOSPITAL
+    Duration: 23:33:37 - 00:32:57
+
+  [23:33:37] PROCEDURE: Discussion about options (procedure)
+    Status: completed
+
+  [23:33:37] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-10-06
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Reba58 is a 39 year-old nonhispanic asian female.
+      # Social History
+
+  [23:33:37] DOCUMENT: History and physical note
+    Status: superseded
+
+
+📅 2024-10-07
+
+  [00:32:57] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2024-10-09
+
+  [23:32:57] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Carlton317 Koch169
+    Location: TEWKSBURY HOSPITAL
+    Duration: 23:32:57 - 02:24:03
+
+  [23:32:57] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-10-09
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Reba58 is a 39 year-old nonhispanic asian female.
+      # Social History
+
+  [23:32:57] DOCUMENT: History and physical note
+    Status: superseded
+
+
+📅 2024-10-10
+
+  [02:04:57] PROCEDURE: Lumpectomy of breast (procedure)
+    Status: completed
+
+
+📅 2024-10-11
+
+  [02:24:03] CLAIM: institutional
+    Amount: USD 25325.38
+
+
+📅 2024-10-19
+
+  [16:24:03] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Carlton317 Koch169
+    Location: TEWKSBURY HOSPITAL
+    Duration: 16:24:03 - 16:44:33
+
+  [16:24:03] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [16:24:03] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-10-19
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Reba58 is a 39 year-old nonhispanic asian female.
+      # Social History
+
+  [16:24:03] DOCUMENT: History and physical note
+    Status: superseded
+
+  [16:44:33] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2024-10-21
+
+  [02:50:33] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Carlton317 Koch169
+    Location: TEWKSBURY HOSPITAL
+    Duration: 02:50:33 - 03:18:17
+
+  [02:50:33] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [02:50:33] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-10-21
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Reba58 is a 39 year-old nonhispanic asian female.
+      # Social History
+
+  [02:50:33] DOCUMENT: History and physical note
+    Status: superseded
+
+  [03:18:17] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2024-10-22
+
+  [12:00:17] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Carlton317 Koch169
+    Location: TEWKSBURY HOSPITAL
+    Duration: 12:00:17 - 12:27:24
+
+  [12:00:17] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [12:00:17] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-10-22
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Reba58 is a 39 year-old nonhispanic asian female.
+      # Social History
+
+  [12:00:17] DOCUMENT: History and physical note
+    Status: superseded
+
+  [12:27:24] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2024-10-23
+
+  [14:55:24] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Carlton317 Koch169
+    Location: TEWKSBURY HOSPITAL
+    Duration: 14:55:24 - 15:22:14
+
+  [14:55:24] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [14:55:24] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-10-23
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Reba58 is a 39 year-old nonhispanic asian female.
+      # Social History
+
+  [14:55:24] DOCUMENT: History and physical note
+    Status: superseded
+
+  [15:22:14] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2024-10-24
+
+  [19:06:14] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Carlton317 Koch169
+    Location: TEWKSBURY HOSPITAL
+    Duration: 19:06:14 - 19:28:11
+
+  [19:06:14] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [19:06:14] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-10-24
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Reba58 is a 39 year-old nonhispanic asian female.
+      # Social History
+
+  [19:06:14] DOCUMENT: History and physical note
+    Status: superseded
+
+  [19:28:11] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2024-10-25
+
+  [23:58:11] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Carlton317 Koch169
+    Location: TEWKSBURY HOSPITAL
+    Duration: 23:58:11 - 00:36:10
+
+  [23:58:11] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [23:58:11] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-10-25
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Reba58 is a 39 year-old nonhispanic asian female.
+      # Social History
+
+  [23:58:11] DOCUMENT: History and physical note
+    Status: superseded
+
+
+📅 2024-10-26
+
+  [00:36:10] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2024-10-27
+
+  [01:21:10] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Carlton317 Koch169
+    Location: TEWKSBURY HOSPITAL
+    Duration: 01:21:10 - 01:39:12
+
+  [01:21:10] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [01:21:10] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-10-27
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Reba58 is a 39 year-old nonhispanic asian female.
+      # Social History
+
+  [01:21:10] DOCUMENT: History and physical note
+    Status: superseded
+
+  [01:39:12] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2024-10-28
+
+  [05:28:12] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Carlton317 Koch169
+    Location: TEWKSBURY HOSPITAL
+    Duration: 05:28:12 - 05:59:55
+
+  [05:28:12] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [05:28:12] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-10-28
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Reba58 is a 39 year-old nonhispanic asian female.
+      # Social History
+
+  [05:28:12] DOCUMENT: History and physical note
+    Status: superseded
+
+  [05:59:55] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2024-10-29
+
+  [16:53:55] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Carlton317 Koch169
+    Location: TEWKSBURY HOSPITAL
+    Duration: 16:53:55 - 17:33:07
+
+  [16:53:55] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [16:53:55] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-10-29
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Reba58 is a 39 year-old nonhispanic asian female.
+      # Social History
+
+  [16:53:55] DOCUMENT: History and physical note
+    Status: superseded
+
+  [17:33:07] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2024-10-30
+
+  [20:55:07] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Carlton317 Koch169
+    Location: TEWKSBURY HOSPITAL
+    Duration: 20:55:07 - 21:19:52
+
+  [20:55:07] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [20:55:07] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-10-30
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Reba58 is a 39 year-old nonhispanic asian female.
+      # Social History
+
+  [20:55:07] DOCUMENT: History and physical note
+    Status: superseded
+
+  [21:19:52] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2024-11-01
+
+  [03:36:52] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Carlton317 Koch169
+    Location: TEWKSBURY HOSPITAL
+    Duration: 03:36:52 - 04:08:36
+
+  [03:36:52] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [03:36:52] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-11-01
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Reba58 is a 39 year-old nonhispanic asian female.
+      # Social History
+
+  [03:36:52] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:08:36] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2024-11-02
+
+  [04:14:36] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Carlton317 Koch169
+    Location: TEWKSBURY HOSPITAL
+    Duration: 04:14:36 - 04:45:43
+
+  [04:14:36] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [04:14:36] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-11-02
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Reba58 is a 39 year-old nonhispanic asian female.
+      # Social History
+
+  [04:14:36] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:45:43] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2024-11-03
+
+  [04:12:43] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Carlton317 Koch169
+    Location: TEWKSBURY HOSPITAL
+    Duration: 04:12:43 - 04:45:23
+
+  [04:12:43] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [04:12:43] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-11-03
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Reba58 is a 39 year-old nonhispanic asian female.
+      # Social History
+
+  [04:12:43] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:45:23] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2024-11-04
+
+  [16:09:23] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Carlton317 Koch169
+    Location: TEWKSBURY HOSPITAL
+    Duration: 16:09:23 - 16:37:06
+
+  [16:09:23] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [16:09:23] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-11-04
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Reba58 is a 39 year-old nonhispanic asian female.
+      # Social History
+
+  [16:09:23] DOCUMENT: History and physical note
+    Status: superseded
+
+  [16:37:06] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2024-11-06
+
+  [01:22:06] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Carlton317 Koch169
+    Location: TEWKSBURY HOSPITAL
+    Duration: 01:22:06 - 01:50:28
+
+  [01:22:06] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [01:22:06] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-11-06
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Reba58 is a 39 year-old nonhispanic asian female.
+      # Social History
+
+  [01:22:06] DOCUMENT: History and physical note
+    Status: superseded
+
+  [01:50:28] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2024-11-07
+
+  [11:58:28] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Carlton317 Koch169
+    Location: TEWKSBURY HOSPITAL
+    Duration: 11:58:28 - 12:24:08
+
+  [11:58:28] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [11:58:28] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-11-07
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Reba58 is a 39 year-old nonhispanic asian female.
+      # Social History
+
+  [11:58:28] DOCUMENT: History and physical note
+    Status: superseded
+
+  [12:24:08] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2024-11-08
+
+  [19:37:08] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Carlton317 Koch169
+    Location: TEWKSBURY HOSPITAL
+    Duration: 19:37:08 - 20:16:10
+
+  [19:37:08] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [19:37:08] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-11-08
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Reba58 is a 39 year-old nonhispanic asian female.
+      # Social History
+
+  [19:37:08] DOCUMENT: History and physical note
+    Status: superseded
+
+  [20:16:10] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2024-11-10
+
+  [03:53:10] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Carlton317 Koch169
+    Location: TEWKSBURY HOSPITAL
+    Duration: 03:53:10 - 04:23:57
+
+  [03:53:10] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [03:53:10] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-11-10
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Reba58 is a 39 year-old nonhispanic asian female.
+      # Social History
+
+  [03:53:10] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:23:57] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2024-11-11
+
+  [09:24:57] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Carlton317 Koch169
+    Location: TEWKSBURY HOSPITAL
+    Duration: 09:24:57 - 09:54:25
+
+  [09:24:57] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [09:24:57] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-11-11
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Reba58 is a 39 year-old nonhispanic asian female.
+      # Social History
+
+  [09:24:57] DOCUMENT: History and physical note
+    Status: superseded
+
+  [09:54:25] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2024-11-12
+
+  [12:22:25] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Carlton317 Koch169
+    Location: TEWKSBURY HOSPITAL
+    Duration: 12:22:25 - 12:54:29
+
+  [12:22:25] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [12:22:25] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-11-12
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Reba58 is a 39 year-old nonhispanic asian female.
+      # Social History
+
+  [12:22:25] DOCUMENT: History and physical note
+    Status: superseded
+
+  [12:54:29] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2024-11-13
+
+  [18:57:29] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Carlton317 Koch169
+    Location: TEWKSBURY HOSPITAL
+    Duration: 18:57:29 - 19:23:03
+
+  [18:57:29] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [18:57:29] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-11-13
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Reba58 is a 39 year-old nonhispanic asian female.
+      # Social History
+
+  [18:57:29] DOCUMENT: History and physical note
+    Status: superseded
+
+  [19:23:03] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2024-11-15
+
+  [06:04:03] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Carlton317 Koch169
+    Location: TEWKSBURY HOSPITAL
+    Duration: 06:04:03 - 06:19:12
+
+  [06:04:03] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [06:04:03] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-11-15
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Reba58 is a 39 year-old nonhispanic asian female.
+      # Social History
+
+  [06:04:03] DOCUMENT: History and physical note
+    Status: superseded
+
+  [06:19:12] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2024-11-16
+
+  [14:32:12] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Carlton317 Koch169
+    Location: TEWKSBURY HOSPITAL
+    Duration: 14:32:12 - 15:00:00
+
+  [14:32:12] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [14:32:12] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-11-16
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Reba58 is a 39 year-old nonhispanic asian female.
+      # Social History
+
+  [14:32:12] DOCUMENT: History and physical note
+    Status: superseded
+
+  [15:00:00] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2024-11-18
+
+  [01:11:00] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Carlton317 Koch169
+    Location: TEWKSBURY HOSPITAL
+    Duration: 01:11:00 - 01:43:34
+
+  [01:11:00] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [01:11:00] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-11-18
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Reba58 is a 39 year-old nonhispanic asian female.
+      # Social History
+
+  [01:11:00] DOCUMENT: History and physical note
+    Status: superseded
+
+  [01:43:34] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2024-11-19
+
+  [04:06:34] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Carlton317 Koch169
+    Location: TEWKSBURY HOSPITAL
+    Duration: 04:06:34 - 04:25:17
+
+  [04:06:34] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [04:06:34] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-11-19
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Reba58 is a 39 year-old nonhispanic asian female.
+      # Social History
+
+  [04:06:34] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:25:17] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2024-11-20
+
+  [11:25:17] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Carlton317 Koch169
+    Location: TEWKSBURY HOSPITAL
+    Duration: 11:25:17 - 12:04:19
+
+  [11:25:17] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [11:25:17] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-11-20
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Reba58 is a 39 year-old nonhispanic asian female.
+      # Social History
+
+  [11:25:17] DOCUMENT: History and physical note
+    Status: superseded
+
+  [12:04:19] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2024-11-21
+
+  [18:31:19] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Carlton317 Koch169
+    Location: TEWKSBURY HOSPITAL
+    Duration: 18:31:19 - 19:10:09
+
+  [18:31:19] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [18:31:19] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-11-21
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Reba58 is a 39 year-old nonhispanic asian female.
+      # Social History
+
+  [18:31:19] DOCUMENT: History and physical note
+    Status: superseded
+
+  [19:10:09] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2024-11-22
+
+  [23:16:09] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Carlton317 Koch169
+    Location: TEWKSBURY HOSPITAL
+    Duration: 23:16:09 - 23:42:47
+
+  [23:16:09] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [23:16:09] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-11-22
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Reba58 is a 39 year-old nonhispanic asian female.
+      # Social History
+
+  [23:16:09] DOCUMENT: History and physical note
+    Status: superseded
+
+  [23:42:47] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2024-11-24
+
+  [08:58:47] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Carlton317 Koch169
+    Location: TEWKSBURY HOSPITAL
+    Duration: 08:58:47 - 09:17:14
+
+  [08:58:47] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [08:58:47] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-11-24
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Reba58 is a 39 year-old nonhispanic asian female.
+      # Social History
+
+  [08:58:47] DOCUMENT: History and physical note
+    Status: superseded
+
+  [09:17:14] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2024-11-25
+
+  [19:39:14] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Carlton317 Koch169
+    Location: TEWKSBURY HOSPITAL
+    Duration: 19:39:14 - 20:13:47
+
+  [19:39:14] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [19:39:14] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-11-25
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Reba58 is a 39 year-old nonhispanic asian female.
+      # Social History
+
+  [19:39:14] DOCUMENT: History and physical note
+    Status: superseded
+
+  [20:13:47] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2024-11-27
+
+  [04:52:47] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Carlton317 Koch169
+    Location: TEWKSBURY HOSPITAL
+    Duration: 04:52:47 - 05:21:49
+
+  [04:52:47] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [04:52:47] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-11-27
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Reba58 is a 39 year-old nonhispanic asian female.
+      # Social History
+
+  [04:52:47] DOCUMENT: History and physical note
+    Status: superseded
+
+  [05:21:49] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2024-11-28
+
+  [16:22:49] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Carlton317 Koch169
+    Location: TEWKSBURY HOSPITAL
+    Duration: 16:22:49 - 16:54:24
+
+  [16:22:49] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [16:22:49] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-11-28
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Reba58 is a 39 year-old nonhispanic asian female.
+      # Social History
+
+  [16:22:49] DOCUMENT: History and physical note
+    Status: superseded
+
+  [16:54:24] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2024-11-29
+
+  [22:04:24] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Carlton317 Koch169
+    Location: TEWKSBURY HOSPITAL
+    Duration: 22:04:24 - 22:44:16
+
+  [22:04:24] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [22:04:24] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-11-29
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Reba58 is a 39 year-old nonhispanic asian female.
+      # Social History
+
+  [22:04:24] DOCUMENT: History and physical note
+    Status: superseded
+
+  [22:44:16] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2024-12-01
+
+  [00:21:16] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Carlton317 Koch169
+    Location: TEWKSBURY HOSPITAL
+    Duration: 00:21:16 - 00:44:20
+
+  [00:21:16] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [00:21:16] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-12-01
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Reba58 is a 39 year-old nonhispanic asian female.
+      # Social History
+
+  [00:21:16] DOCUMENT: History and physical note
+    Status: superseded
+
+  [00:44:20] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2024-12-03
+
+  [11:44:20] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Carlton317 Koch169
+    Location: TEWKSBURY HOSPITAL
+    Duration: 11:44:20 - 11:59:20
+
+  [11:44:20] OBSERVATION: Treatment status Cancer: Treatment changed (situation)
+
+  [11:44:20] OBSERVATION: Response to cancer treatment: Improving (qualifier value)
+
+  [11:44:20] MEDICATION PRESCRIBED: Unknown medication
+    Status: completed
+    Prescribed by: Dr. Carlton317 Koch169
+
+  [11:44:20] MEDICATION ADMINISTERED: anastrozole 1 MG Oral Tablet
+    Status: completed
+    Dosage: 1.0
+
+  [11:44:20] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-12-03
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Reba58 is a 39 year-old nonhispanic asian female.
+      # Social History
+
+  [11:44:20] DOCUMENT: History and physical note
+    Status: superseded
+
+  [11:59:20] CLAIM: pharmacy
+    Amount: USD 156.24
+
+  [11:59:20] CLAIM: professional
+    Amount: USD 85.55
+
+
+📅 2024-12-23
+
+  [01:38:41] VISIT: General examination of patient (procedure)
+    Provider: Dr. Chris95 Haag279
+    Location: GREATER LOWELL FAMILY PRACTICE PC
+    Duration: 01:38:41 - 01:53:41
+
+  [01:38:41] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [01:38:41] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [01:38:41] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-12-23
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Reba58 is a 40 year-old nonhispanic asian female.
+      # Social History
+
+  [01:38:41] DOCUMENT: History and physical note
+    Status: superseded
+
+  [01:53:41] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2025-03-20
+
+  [12:44:20] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Carlton317 Koch169
+    Location: Patient's Home
+    Duration: 12:44:20 - 13:17:20
+
+  [12:44:20] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [12:44:20] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-03-20
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Reba58 is a 40 year-old nonhispanic asian female.
+      # Social History
+
+  [12:44:20] DOCUMENT: History and physical note
+    Status: superseded
+
+  [13:17:20] CLAIM: institutional
+    Amount: USD 556.40
+
+
+📅 2025-07-04
+
+  [13:17:20] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Carlton317 Koch169
+    Location: TEWKSBURY HOSPITAL
+    Duration: 13:17:20 - 13:56:04
+
+  [13:17:20] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [13:17:20] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-07-04
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Reba58 is a 40 year-old nonhispanic asian female.
+      # Social History
+
+  [13:17:20] DOCUMENT: History and physical note
+    Status: superseded
+
+  [13:56:04] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2025-10-30
+
+  [13:56:04] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Carlton317 Koch169
+    Location: TEWKSBURY HOSPITAL
+    Duration: 13:56:04 - 14:27:18
+
+  [13:56:04] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [13:56:04] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-10-30
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Reba58 is a 40 year-old nonhispanic asian female.
+      # Social History
+
+  [13:56:04] DOCUMENT: History and physical note
+    Status: superseded
+
+  [14:27:18] CLAIM: professional
+    Amount: USD 573.98
+
+  [14:27:18] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Carlton317 Koch169
+    Location: TEWKSBURY HOSPITAL
+    Duration: 14:27:18 - 14:48:58
+
+  [14:27:18] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [14:27:18] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-10-30
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Reba58 is a 40 year-old nonhispanic asian female.
+      # Social History
+
+  [14:27:18] DOCUMENT: History and physical note
+    Status: superseded
+
+  [14:48:58] CLAIM: professional
+    Amount: USD 211.60
+
+  [14:48:58] VISIT: Follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Carlton317 Koch169
+    Location: TEWKSBURY HOSPITAL
+    Duration: 14:48:58 - 15:12:43
+
+  [14:48:58] PROCEDURE: Bone density scan (procedure)
+    Status: completed
+
+  [14:48:58] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-10-30
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Reba58 is a 40 year-old nonhispanic asian female.
+      # Social History
+
+  [14:48:58] DOCUMENT: History and physical note
+    Status: current
+
+  [15:12:43] OBSERVATION: Response to cancer treatment: Improving (qualifier value)
+
+  [15:12:43] CLAIM: professional
+    Amount: USD 15974.55
+
+
+📅 2026-02-16
+
+  [01:38:41] PROVENANCE: Record activity
+    Agents: Dr. Carlton317 Koch169, Dr. Carlton317 Koch169
+
+================================================================================
+END OF TIMELINE (270 events)
+================================================================================

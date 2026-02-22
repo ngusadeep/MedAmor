@@ -1,0 +1,1159 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Mrs. Alpha246 Shalanda398 Bayer639
+  Patient ID: 7788
+  Date of Birth: 1956-10-08
+  Gender: Female
+  Race: White
+  Ethnicity: Not Hispanic or Latino
+  Marital Status: Married
+  Address: 527 O'Conner Estate, Fairhaven, MA 00000
+  Phone: 555-514-9551
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2006-01-14
+
+  [04:23:41] VISIT: Periodic reevaluation and management of healthy individual (procedure)
+    Reason: Screening for malignant neoplasm of breast (procedure)
+    Provider: Dr. Josef103 Klein929
+    Location: AP MEDICAL LLC
+    Duration: 04:23:41 - 01:21:26
+
+  [04:23:41] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2006-01-14
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Alpha246 Shalanda398 is a 49 year-old nonhispanic white female.
+      # Social History
+
+  [04:23:41] DOCUMENT: History and physical note
+    Status: superseded
+
+  [05:44:26] CONDITION: Malignant neoplasm of breast (disorder) (active)
+
+
+📅 2006-01-16
+
+  [01:21:26] CLAIM: professional
+    Amount: USD 4141.29
+
+
+📅 2016-10-06
+
+  [14:14:15] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Josef103 Klein929
+    Location: AP MEDICAL LLC
+    Duration: 14:14:15 - 14:49:12
+
+  [14:14:15] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [14:14:15] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-10-06
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Alpha246 Shalanda398 is a 59 year-old nonhispanic white female.
+      # Social History
+
+  [14:14:15] DOCUMENT: History and physical note
+    Status: superseded
+
+  [14:49:12] CLAIM: professional
+    Amount: USD 573.98
+
+  [14:49:12] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Josef103 Klein929
+    Location: AP MEDICAL LLC
+    Duration: 14:49:12 - 15:13:16
+
+  [14:49:12] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [14:49:12] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-10-06
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Alpha246 Shalanda398 is a 59 year-old nonhispanic white female.
+      # Social History
+
+  [14:49:12] DOCUMENT: History and physical note
+    Status: superseded
+
+  [15:13:16] CLAIM: professional
+    Amount: USD 211.60
+
+  [15:13:16] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Josef103 Klein929
+    Location: AP MEDICAL LLC
+    Duration: 15:13:16 - 15:43:51
+
+  [15:13:16] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [15:13:16] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-10-06
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Alpha246 Shalanda398 is a 59 year-old nonhispanic white female.
+      # Social History
+
+  [15:13:16] DOCUMENT: History and physical note
+    Status: superseded
+
+  [15:26:01] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [15:43:51] CLAIM: professional
+    Amount: USD 3809.48
+
+
+📅 2016-12-05
+
+  [04:23:41] VISIT: General examination of patient (procedure)
+    Provider: Dr. Lasonya941 Kiehn525
+    Location: GIFFORD STREET WELLNESS CENTER LLC
+    Duration: 04:23:41 - 04:38:41
+
+  [04:23:41] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [04:23:41] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-12-05
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Alpha246 Shalanda398 is a 60 year-old nonhispanic white female.
+      # Social History
+
+  [04:23:41] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:38:41] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2017-10-25
+
+  [15:43:51] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Josef103 Klein929
+    Location: AP MEDICAL LLC
+    Duration: 15:43:51 - 16:17:51
+
+  [15:43:51] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [15:43:51] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-10-25
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Alpha246 Shalanda398 is a 61 year-old nonhispanic white female.
+      # Social History
+
+  [15:43:51] DOCUMENT: History and physical note
+    Status: superseded
+
+  [16:17:51] CLAIM: professional
+    Amount: USD 573.98
+
+  [16:17:51] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Josef103 Klein929
+    Location: AP MEDICAL LLC
+    Duration: 16:17:51 - 16:38:39
+
+  [16:17:51] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [16:17:51] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-10-25
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Alpha246 Shalanda398 is a 61 year-old nonhispanic white female.
+      # Social History
+
+  [16:17:51] DOCUMENT: History and physical note
+    Status: superseded
+
+  [16:38:39] CLAIM: professional
+    Amount: USD 211.60
+
+  [16:38:39] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Josef103 Klein929
+    Location: AP MEDICAL LLC
+    Duration: 16:38:39 - 17:03:50
+
+  [16:38:39] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [16:38:39] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-10-25
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Alpha246 Shalanda398 is a 61 year-old nonhispanic white female.
+      # Social History
+
+  [16:38:39] DOCUMENT: History and physical note
+    Status: superseded
+
+  [16:49:13] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [17:03:50] CLAIM: professional
+    Amount: USD 1716.15
+
+
+📅 2017-12-11
+
+  [04:23:41] VISIT: General examination of patient (procedure)
+    Provider: Dr. Lasonya941 Kiehn525
+    Location: GIFFORD STREET WELLNESS CENTER LLC
+    Duration: 04:23:41 - 04:38:41
+
+  [04:23:41] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [04:23:41] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [04:23:41] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-12-11
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Alpha246 Shalanda398 is a 61 year-old nonhispanic white female.
+      # Social History
+
+  [04:23:41] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:38:41] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2018-10-05
+
+  [17:03:50] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Josef103 Klein929
+    Location: AP MEDICAL LLC
+    Duration: 17:03:50 - 17:45:15
+
+  [17:03:50] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [17:03:50] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-10-05
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Alpha246 Shalanda398 is a 61 year-old nonhispanic white female.
+      # Social History
+
+  [17:03:50] DOCUMENT: History and physical note
+    Status: superseded
+
+  [17:45:15] CLAIM: professional
+    Amount: USD 573.98
+
+  [17:45:15] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Josef103 Klein929
+    Location: AP MEDICAL LLC
+    Duration: 17:45:15 - 18:10:00
+
+  [17:45:15] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [17:45:15] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-10-05
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Alpha246 Shalanda398 is a 61 year-old nonhispanic white female.
+      # Social History
+
+  [17:45:15] DOCUMENT: History and physical note
+    Status: superseded
+
+  [18:10:00] CLAIM: professional
+    Amount: USD 258.16
+
+  [18:10:00] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Josef103 Klein929
+    Location: AP MEDICAL LLC
+    Duration: 18:10:00 - 18:35:53
+
+  [18:10:00] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [18:10:00] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-10-05
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Alpha246 Shalanda398 is a 61 year-old nonhispanic white female.
+      # Social History
+
+  [18:10:00] DOCUMENT: History and physical note
+    Status: superseded
+
+  [18:21:06] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [18:35:53] CLAIM: professional
+    Amount: USD 1221.08
+
+
+📅 2018-12-17
+
+  [04:23:41] VISIT: General examination of patient (procedure)
+    Provider: Dr. Lasonya941 Kiehn525
+    Location: GIFFORD STREET WELLNESS CENTER LLC
+    Duration: 04:23:41 - 04:38:41
+
+  [04:23:41] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [04:23:41] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-12-17
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Alpha246 Shalanda398 is a 62 year-old nonhispanic white female.
+      # Social History
+
+  [04:23:41] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:38:41] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2019-09-18
+
+  [18:35:53] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Josef103 Klein929
+    Location: AP MEDICAL LLC
+    Duration: 18:35:53 - 19:18:11
+
+  [18:35:53] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [18:35:53] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-09-18
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Alpha246 Shalanda398 is a 62 year-old nonhispanic white female.
+      # Social History
+
+  [18:35:53] DOCUMENT: History and physical note
+    Status: superseded
+
+  [19:18:11] CLAIM: professional
+    Amount: USD 573.98
+
+  [19:18:11] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Josef103 Klein929
+    Location: AP MEDICAL LLC
+    Duration: 19:18:11 - 19:34:54
+
+  [19:18:11] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [19:18:11] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-09-18
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Alpha246 Shalanda398 is a 62 year-old nonhispanic white female.
+      # Social History
+
+  [19:18:11] DOCUMENT: History and physical note
+    Status: superseded
+
+  [19:34:54] CLAIM: professional
+    Amount: USD 325.49
+
+  [19:34:54] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Josef103 Klein929
+    Location: AP MEDICAL LLC
+    Duration: 19:34:54 - 20:03:27
+
+  [19:34:54] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [19:34:54] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-09-18
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Alpha246 Shalanda398 is a 62 year-old nonhispanic white female.
+      # Social History
+
+  [19:34:54] DOCUMENT: History and physical note
+    Status: superseded
+
+  [19:49:17] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [20:03:27] CLAIM: professional
+    Amount: USD 2456.45
+
+
+📅 2019-12-23
+
+  [04:23:41] VISIT: General examination of patient (procedure)
+    Provider: Dr. Lasonya941 Kiehn525
+    Location: GIFFORD STREET WELLNESS CENTER LLC
+    Duration: 04:23:41 - 04:38:41
+
+  [04:23:41] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [04:23:41] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-12-23
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Alpha246 Shalanda398 is a 63 year-old nonhispanic white female.
+      # Social History
+
+  [04:23:41] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:38:41] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2020-08-16
+
+  [20:03:27] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Josef103 Klein929
+    Location: AP MEDICAL LLC
+    Duration: 20:03:27 - 20:39:39
+
+  [20:03:27] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [20:03:27] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-08-16
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Alpha246 Shalanda398 is a 63 year-old nonhispanic white female.
+      # Social History
+
+  [20:03:27] DOCUMENT: History and physical note
+    Status: superseded
+
+  [20:39:39] CLAIM: professional
+    Amount: USD 573.98
+
+  [20:39:39] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Josef103 Klein929
+    Location: AP MEDICAL LLC
+    Duration: 20:39:39 - 20:58:38
+
+  [20:39:39] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [20:39:39] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-08-16
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Alpha246 Shalanda398 is a 63 year-old nonhispanic white female.
+      # Social History
+
+  [20:39:39] DOCUMENT: History and physical note
+    Status: superseded
+
+  [20:58:38] CLAIM: professional
+    Amount: USD 296.16
+
+  [20:58:38] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Josef103 Klein929
+    Location: AP MEDICAL LLC
+    Duration: 20:58:38 - 21:26:50
+
+  [20:58:38] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [20:58:38] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-08-16
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Alpha246 Shalanda398 is a 63 year-old nonhispanic white female.
+      # Social History
+
+  [20:58:38] DOCUMENT: History and physical note
+    Status: superseded
+
+  [21:09:26] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [21:26:50] CLAIM: professional
+    Amount: USD 1298.38
+
+
+📅 2020-12-28
+
+  [04:23:41] VISIT: General examination of patient (procedure)
+    Provider: Dr. Lasonya941 Kiehn525
+    Location: GIFFORD STREET WELLNESS CENTER LLC
+    Duration: 04:23:41 - 04:38:41
+
+  [04:23:41] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [04:23:41] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-12-28
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Alpha246 Shalanda398 is a 64 year-old nonhispanic white female.
+      # Social History
+
+  [04:23:41] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:38:41] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2021-04-19
+
+  [05:23:41] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Josef103 Klein929
+    Location: AP MEDICAL LLC
+    Duration: 05:23:41 - 05:38:41
+
+  [05:23:41] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+    Status: completed
+
+  [05:23:41] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-04-19
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Alpha246 Shalanda398 is a 64 year-old nonhispanic white female.
+      # Social History
+
+  [05:23:41] DOCUMENT: History and physical note
+    Status: superseded
+
+  [05:38:41] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-05-17
+
+  [05:23:41] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Josef103 Klein929
+    Location: AP MEDICAL LLC
+    Duration: 05:23:41 - 05:38:41
+
+  [05:23:41] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+    Status: completed
+
+  [05:23:41] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-05-17
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Alpha246 Shalanda398 is a 64 year-old nonhispanic white female.
+      # Social History
+
+  [05:23:41] DOCUMENT: History and physical note
+    Status: superseded
+
+  [05:38:41] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-08-09
+
+  [21:26:50] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Josef103 Klein929
+    Location: AP MEDICAL LLC
+    Duration: 21:26:50 - 22:08:59
+
+  [21:26:50] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [21:26:50] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-08-09
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Alpha246 Shalanda398 is a 64 year-old nonhispanic white female.
+      # Social History
+
+  [21:26:50] DOCUMENT: History and physical note
+    Status: superseded
+
+  [22:08:59] CLAIM: professional
+    Amount: USD 573.98
+
+  [22:08:59] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Josef103 Klein929
+    Location: AP MEDICAL LLC
+    Duration: 22:08:59 - 22:32:37
+
+  [22:08:59] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [22:08:59] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-08-09
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Alpha246 Shalanda398 is a 64 year-old nonhispanic white female.
+      # Social History
+
+  [22:08:59] DOCUMENT: History and physical note
+    Status: superseded
+
+  [22:32:37] CLAIM: professional
+    Amount: USD 211.60
+
+  [22:32:37] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Josef103 Klein929
+    Location: AP MEDICAL LLC
+    Duration: 22:32:37 - 22:58:37
+
+  [22:32:37] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [22:32:37] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-08-09
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Alpha246 Shalanda398 is a 64 year-old nonhispanic white female.
+      # Social History
+
+  [22:32:37] DOCUMENT: History and physical note
+    Status: superseded
+
+  [22:43:28] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [22:58:37] CLAIM: professional
+    Amount: USD 2721.52
+
+
+📅 2022-01-03
+
+  [04:23:41] VISIT: General examination of patient (procedure)
+    Provider: Dr. Lasonya941 Kiehn525
+    Location: GIFFORD STREET WELLNESS CENTER LLC
+    Duration: 04:23:41 - 04:38:41
+
+  [04:23:41] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [04:23:41] IMMUNIZATION: Pneumococcal conjugate PCV 13
+    Status: completed
+
+  [04:23:41] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-01-03
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Alpha246 Shalanda398 is a 65 year-old nonhispanic white female.
+      # Social History
+
+  [04:23:41] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:38:41] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2022-08-10
+
+  [22:58:37] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Josef103 Klein929
+    Location: AP MEDICAL LLC
+    Duration: 22:58:37 - 23:38:12
+
+  [22:58:37] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [22:58:37] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-08-10
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Alpha246 Shalanda398 is a 65 year-old nonhispanic white female.
+      # Social History
+
+  [22:58:37] DOCUMENT: History and physical note
+    Status: superseded
+
+  [23:38:12] CLAIM: professional
+    Amount: USD 573.98
+
+  [23:38:12] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Josef103 Klein929
+    Location: AP MEDICAL LLC
+    Duration: 23:38:12 - 23:57:35
+
+  [23:38:12] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [23:38:12] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-08-10
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Alpha246 Shalanda398 is a 65 year-old nonhispanic white female.
+      # Social History
+
+  [23:38:12] DOCUMENT: History and physical note
+    Status: superseded
+
+  [23:57:35] CLAIM: professional
+    Amount: USD 245.28
+
+  [23:57:35] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Josef103 Klein929
+    Location: AP MEDICAL LLC
+    Duration: 23:57:35 - 00:26:53
+
+  [23:57:35] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [23:57:35] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-08-10
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Alpha246 Shalanda398 is a 65 year-old nonhispanic white female.
+      # Social History
+
+  [23:57:35] DOCUMENT: History and physical note
+    Status: superseded
+
+
+📅 2022-08-11
+
+  [00:08:21] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [00:26:53] CLAIM: professional
+    Amount: USD 1091.66
+
+
+📅 2023-01-09
+
+  [04:23:41] VISIT: General examination of patient (procedure)
+    Provider: Dr. Lasonya941 Kiehn525
+    Location: GIFFORD STREET WELLNESS CENTER LLC
+    Duration: 04:23:41 - 04:38:41
+
+  [04:23:41] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [04:23:41] IMMUNIZATION: pneumococcal polysaccharide vaccine, 23 valent
+    Status: completed
+
+  [04:23:41] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-01-09
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Alpha246 Shalanda398 is a 66 year-old nonhispanic white female.
+      # Social History
+
+  [04:23:41] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:38:41] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2023-07-24
+
+  [00:26:53] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Josef103 Klein929
+    Location: AP MEDICAL LLC
+    Duration: 00:26:53 - 01:07:14
+
+  [00:26:53] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [00:26:53] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-07-24
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Alpha246 Shalanda398 is a 66 year-old nonhispanic white female.
+      # Social History
+
+  [00:26:53] DOCUMENT: History and physical note
+    Status: superseded
+
+  [01:07:14] CLAIM: professional
+    Amount: USD 573.98
+
+  [01:07:14] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Josef103 Klein929
+    Location: AP MEDICAL LLC
+    Duration: 01:07:14 - 01:27:23
+
+  [01:07:14] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [01:07:14] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-07-24
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Alpha246 Shalanda398 is a 66 year-old nonhispanic white female.
+      # Social History
+
+  [01:07:14] DOCUMENT: History and physical note
+    Status: superseded
+
+  [01:27:23] CLAIM: professional
+    Amount: USD 266.61
+
+  [01:27:23] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Josef103 Klein929
+    Location: AP MEDICAL LLC
+    Duration: 01:27:23 - 01:54:26
+
+  [01:27:23] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [01:27:23] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-07-24
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Alpha246 Shalanda398 is a 66 year-old nonhispanic white female.
+      # Social History
+
+  [01:27:23] DOCUMENT: History and physical note
+    Status: superseded
+
+  [01:37:48] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [01:54:26] CLAIM: professional
+    Amount: USD 1100.11
+
+
+📅 2024-01-15
+
+  [04:23:41] VISIT: General examination of patient (procedure)
+    Provider: Dr. Lasonya941 Kiehn525
+    Location: GIFFORD STREET WELLNESS CENTER LLC
+    Duration: 04:23:41 - 04:38:41
+
+  [04:23:41] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [04:23:41] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-01-15
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Alpha246 Shalanda398 is a 67 year-old nonhispanic white female.
+      # Social History
+
+  [04:23:41] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:38:41] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2024-07-08
+
+  [01:54:26] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Josef103 Klein929
+    Location: AP MEDICAL LLC
+    Duration: 01:54:26 - 02:32:14
+
+  [01:54:26] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [01:54:26] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-07-08
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Alpha246 Shalanda398 is a 67 year-old nonhispanic white female.
+      # Social History
+
+  [01:54:26] DOCUMENT: History and physical note
+    Status: superseded
+
+  [02:32:14] CLAIM: professional
+    Amount: USD 573.98
+
+  [02:32:14] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Josef103 Klein929
+    Location: AP MEDICAL LLC
+    Duration: 02:32:14 - 02:53:24
+
+  [02:32:14] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [02:32:14] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-07-08
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Alpha246 Shalanda398 is a 67 year-old nonhispanic white female.
+      # Social History
+
+  [02:32:14] DOCUMENT: History and physical note
+    Status: superseded
+
+  [02:53:24] CLAIM: professional
+    Amount: USD 211.60
+
+  [02:53:24] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Josef103 Klein929
+    Location: AP MEDICAL LLC
+    Duration: 02:53:24 - 03:20:17
+
+  [02:53:24] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [02:53:24] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-07-08
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Alpha246 Shalanda398 is a 67 year-old nonhispanic white female.
+      # Social History
+
+  [02:53:24] DOCUMENT: History and physical note
+    Status: superseded
+
+  [03:04:44] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [03:20:17] CLAIM: professional
+    Amount: USD 3680.06
+
+
+📅 2025-01-20
+
+  [04:23:41] VISIT: General examination of patient (procedure)
+    Provider: Dr. Lasonya941 Kiehn525
+    Location: GIFFORD STREET WELLNESS CENTER LLC
+    Duration: 04:23:41 - 04:38:41
+
+  [04:23:41] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [04:23:41] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-01-20
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Alpha246 Shalanda398 is a 68 year-old nonhispanic white female.
+      # Social History
+
+  [04:23:41] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:38:41] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2025-06-24
+
+  [03:20:17] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Josef103 Klein929
+    Location: AP MEDICAL LLC
+    Duration: 03:20:17 - 04:04:43
+
+  [03:20:17] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [03:20:17] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-06-24
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Alpha246 Shalanda398 is a 68 year-old nonhispanic white female.
+      # Social History
+
+  [03:20:17] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:04:43] CLAIM: professional
+    Amount: USD 573.98
+
+  [04:04:43] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Josef103 Klein929
+    Location: AP MEDICAL LLC
+    Duration: 04:04:43 - 04:21:45
+
+  [04:04:43] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [04:04:43] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-06-24
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Alpha246 Shalanda398 is a 68 year-old nonhispanic white female.
+      # Social History
+
+  [04:04:43] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:21:45] CLAIM: professional
+    Amount: USD 325.49
+
+  [04:21:45] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Josef103 Klein929
+    Location: AP MEDICAL LLC
+    Duration: 04:21:45 - 04:50:13
+
+  [04:21:45] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [04:21:45] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-06-24
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Alpha246 Shalanda398 is a 68 year-old nonhispanic white female.
+      # Social History
+
+  [04:21:45] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:31:52] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [04:50:13] CLAIM: professional
+    Amount: USD 1168.98
+
+
+📅 2026-01-26
+
+  [04:23:41] VISIT: General examination of patient (procedure)
+    Provider: Dr. Lasonya941 Kiehn525
+    Location: GIFFORD STREET WELLNESS CENTER LLC
+    Duration: 04:23:41 - 04:38:41
+
+  [04:23:41] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [04:23:41] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2026-01-26
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Alpha246 Shalanda398 is a 69 year-old nonhispanic white female.
+      # Social History
+
+  [04:23:41] DOCUMENT: History and physical note
+    Status: current
+
+  [04:38:41] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2026-02-16
+
+  [04:23:41] PROVENANCE: Record activity
+    Agents: Dr. Lasonya941 Kiehn525, Dr. Lasonya941 Kiehn525
+
+================================================================================
+END OF TIMELINE (229 events)
+================================================================================

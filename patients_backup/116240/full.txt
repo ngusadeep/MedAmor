@@ -1,0 +1,217 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Ms. Moira454 Bauch723
+  Patient ID: 116240
+  Date of Birth: 1975-11-25
+  Gender: Female
+  Race: White
+  Ethnicity: Not Hispanic or Latino
+  Marital Status: Never Married
+  Address: 818 Pollich Ramp, Weymouth, MA 02189
+  Phone: 555-663-6260
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2017-12-05
+
+  [19:47:30] VISIT: General examination of patient (procedure)
+    Provider: Dr. Sharen57 Weissnat378
+    Location: ANCHOR MEDICAL GROUP AND WELLNESS CENTER PC
+    Duration: 19:47:30 - 20:02:30
+
+  [19:47:30] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [19:47:30] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [19:47:30] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [19:47:30] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-12-05
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Moira454 is a 42 year-old nonhispanic white female.
+      # Social History
+
+  [19:47:30] DOCUMENT: History and physical note
+    Status: superseded
+
+  [20:02:30] CLAIM: professional
+    Amount: USD 544.80
+
+
+📅 2019-12-10
+
+  [19:47:30] VISIT: General examination of patient (procedure)
+    Provider: Dr. Sharen57 Weissnat378
+    Location: ANCHOR MEDICAL GROUP AND WELLNESS CENTER PC
+    Duration: 19:47:30 - 20:02:30
+
+  [19:47:30] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [19:47:30] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-12-10
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Moira454 is a 44 year-old nonhispanic white female.
+      # Social History
+
+  [19:47:30] DOCUMENT: History and physical note
+    Status: superseded
+
+  [20:02:30] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2021-04-20
+
+  [20:47:30] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Cira533 Hane680
+    Location: DANA FARBER CANCER INSTITUTE
+    Duration: 20:47:30 - 21:02:30
+
+  [20:47:30] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 30 mcg/0.3 mL dose
+    Status: completed
+
+  [20:47:30] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-04-20
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Moira454 is a 45 year-old nonhispanic white female.
+      # Social History
+
+  [20:47:30] DOCUMENT: History and physical note
+    Status: superseded
+
+  [21:02:30] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-05-11
+
+  [20:47:30] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Cira533 Hane680
+    Location: DANA FARBER CANCER INSTITUTE
+    Duration: 20:47:30 - 21:02:30
+
+  [20:47:30] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 30 mcg/0.3 mL dose
+    Status: completed
+
+  [20:47:30] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-05-11
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Moira454 is a 45 year-old nonhispanic white female.
+      # Social History
+
+  [20:47:30] DOCUMENT: History and physical note
+    Status: superseded
+
+  [21:02:30] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-12-14
+
+  [19:47:30] VISIT: General examination of patient (procedure)
+    Provider: Dr. Sharen57 Weissnat378
+    Location: ANCHOR MEDICAL GROUP AND WELLNESS CENTER PC
+    Duration: 19:47:30 - 20:02:30
+
+  [19:47:30] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [19:47:30] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-12-14
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Moira454 is a 46 year-old nonhispanic white female.
+      # Social History
+
+  [19:47:30] DOCUMENT: History and physical note
+    Status: superseded
+
+  [20:02:30] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2023-12-19
+
+  [19:47:30] VISIT: General examination of patient (procedure)
+    Provider: Dr. Sharen57 Weissnat378
+    Location: ANCHOR MEDICAL GROUP AND WELLNESS CENTER PC
+    Duration: 19:47:30 - 20:02:30
+
+  [19:47:30] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [19:47:30] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-12-19
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Moira454 is a 48 year-old nonhispanic white female.
+      # Social History
+
+  [19:47:30] DOCUMENT: History and physical note
+    Status: superseded
+
+  [20:02:30] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2025-11-25
+
+  [19:47:30] VISIT: General examination of patient (procedure)
+    Provider: Dr. Sharen57 Weissnat378
+    Location: ANCHOR MEDICAL GROUP AND WELLNESS CENTER PC
+    Duration: 19:47:30 - 20:02:30
+
+  [19:47:30] IMMUNIZATION: zoster vaccine, live
+    Status: completed
+
+  [19:47:30] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [19:47:30] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-11-25
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Moira454 is a 50 year-old nonhispanic white female.
+      # Social History
+
+  [19:47:30] DOCUMENT: History and physical note
+    Status: current
+
+  [20:02:30] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2026-02-10
+
+  [19:47:30] PROVENANCE: Record activity
+    Agents: Dr. Sharen57 Weissnat378, Dr. Sharen57 Weissnat378
+
+================================================================================
+END OF TIMELINE (39 events)
+================================================================================

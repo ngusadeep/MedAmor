@@ -1,0 +1,243 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Mrs. Elodia940 Kerluke267
+  Patient ID: 44688
+  Date of Birth: 1973-06-20
+  Gender: Female
+  Race: White
+  Ethnicity: Not Hispanic or Latino
+  Marital Status: Married
+  Address: 999 Towne Walk Suite 30, Somerville, MA 02144
+  Phone: 555-867-4040
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2017-07-05
+
+  [00:29:45] VISIT: General examination of patient (procedure)
+    Provider: Dr. Mathilde204 Wintheiser220
+    Location: FENWAY COMMUNITY HEALTH CENTER, INC
+    Duration: 00:29:45 - 00:44:45
+
+  [00:29:45] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [00:29:45] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-07-05
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Elodia940 is a 44 year-old nonhispanic white female.
+      # Social History
+
+  [00:29:45] DOCUMENT: History and physical note
+    Status: superseded
+
+  [00:44:45] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2019-07-10
+
+  [00:29:45] VISIT: General examination of patient (procedure)
+    Provider: Dr. Mathilde204 Wintheiser220
+    Location: FENWAY COMMUNITY HEALTH CENTER, INC
+    Duration: 00:29:45 - 00:44:45
+
+  [00:29:45] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [00:29:45] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-07-10
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Elodia940 is a 46 year-old nonhispanic white female.
+      # Social History
+
+  [00:29:45] DOCUMENT: History and physical note
+    Status: superseded
+
+  [00:44:45] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2021-04-28
+
+  [00:29:45] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Hermelinda327 Hyatt152
+    Location: SPAULDING HOSPITAL FOR CONTINUING MED CARE-CAMB
+    Duration: 00:29:45 - 00:44:45
+
+  [00:29:45] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+    Status: completed
+
+  [00:29:45] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-04-28
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Elodia940 is a 47 year-old nonhispanic white female.
+      # Social History
+
+  [00:29:45] DOCUMENT: History and physical note
+    Status: superseded
+
+  [00:44:45] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-05-26
+
+  [00:29:45] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Hermelinda327 Hyatt152
+    Location: SPAULDING HOSPITAL FOR CONTINUING MED CARE-CAMB
+    Duration: 00:29:45 - 00:44:45
+
+  [00:29:45] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+    Status: completed
+
+  [00:29:45] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-05-26
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Elodia940 is a 47 year-old nonhispanic white female.
+      # Social History
+
+  [00:29:45] DOCUMENT: History and physical note
+    Status: superseded
+
+  [00:44:45] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-07-14
+
+  [00:29:45] VISIT: General examination of patient (procedure)
+    Provider: Dr. Mathilde204 Wintheiser220
+    Location: FENWAY COMMUNITY HEALTH CENTER, INC
+    Duration: 00:29:45 - 00:44:45
+
+  [00:29:45] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [00:29:45] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-07-14
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Elodia940 is a 48 year-old nonhispanic white female.
+      # Social History
+
+  [00:29:45] DOCUMENT: History and physical note
+    Status: superseded
+
+  [00:44:45] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2023-06-21
+
+  [00:29:45] VISIT: General examination of patient (procedure)
+    Provider: Dr. Mathilde204 Wintheiser220
+    Location: FENWAY COMMUNITY HEALTH CENTER, INC
+    Duration: 00:29:45 - 00:44:45
+
+  [00:29:45] IMMUNIZATION: zoster vaccine, live
+    Status: completed
+
+  [00:29:45] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [00:29:45] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-06-21
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Elodia940 is a 50 year-old nonhispanic white female.
+      # Social History
+
+  [00:29:45] DOCUMENT: History and physical note
+    Status: superseded
+
+  [00:44:45] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2024-06-26
+
+  [00:29:45] VISIT: General examination of patient (procedure)
+    Provider: Dr. Mathilde204 Wintheiser220
+    Location: FENWAY COMMUNITY HEALTH CENTER, INC
+    Duration: 00:29:45 - 00:44:45
+
+  [00:29:45] IMMUNIZATION: zoster vaccine, live
+    Status: completed
+
+  [00:29:45] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [00:29:45] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [00:29:45] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-06-26
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Elodia940 is a 51 year-old nonhispanic white female.
+      # Social History
+
+  [00:29:45] DOCUMENT: History and physical note
+    Status: superseded
+
+  [00:44:45] CLAIM: professional
+    Amount: USD 544.80
+
+
+📅 2025-07-02
+
+  [00:29:45] VISIT: General examination of patient (procedure)
+    Provider: Dr. Mathilde204 Wintheiser220
+    Location: FENWAY COMMUNITY HEALTH CENTER, INC
+    Duration: 00:29:45 - 00:44:45
+
+  [00:29:45] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [00:29:45] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-07-02
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Elodia940 is a 52 year-old nonhispanic white female.
+      # Social History
+
+  [00:29:45] DOCUMENT: History and physical note
+    Status: current
+
+  [00:44:45] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2026-02-10
+
+  [23:29:45] PROVENANCE: Record activity
+    Agents: Dr. Mathilde204 Wintheiser220, Dr. Mathilde204 Wintheiser220
+
+================================================================================
+END OF TIMELINE (44 events)
+================================================================================

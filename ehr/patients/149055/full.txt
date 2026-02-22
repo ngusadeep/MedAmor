@@ -1,0 +1,217 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Mrs. Tommy814 Luetta803 Renner328
+  Patient ID: 149055
+  Date of Birth: 1977-03-12
+  Gender: Female
+  Race: White
+  Ethnicity: Not Hispanic or Latino
+  Marital Status: Divorced
+  Address: 798 Bashirian Crossing Apt 11, Boston, MA 02134
+  Phone: 555-543-7009
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2017-03-18
+
+  [17:30:58] VISIT: General examination of patient (procedure)
+    Provider: Dr. Felipe97 Tamayo777
+    Location: HARBOR HEALTH SERVICES INC
+    Duration: 17:30:58 - 17:45:58
+
+  [17:30:58] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [17:30:58] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [17:30:58] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-03-18
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Tommy814 Luetta803 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [17:30:58] DOCUMENT: History and physical note
+    Status: superseded
+
+  [17:45:58] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2019-03-23
+
+  [17:30:58] VISIT: General examination of patient (procedure)
+    Provider: Dr. Felipe97 Tamayo777
+    Location: HARBOR HEALTH SERVICES INC
+    Duration: 17:30:58 - 17:45:58
+
+  [17:30:58] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [17:30:58] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [17:30:58] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [17:30:58] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-03-23
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Tommy814 Luetta803 is a 42 year-old nonhispanic white female.
+      # Social History
+
+  [17:30:58] DOCUMENT: History and physical note
+    Status: superseded
+
+  [17:45:58] CLAIM: professional
+    Amount: USD 544.80
+
+
+📅 2021-03-27
+
+  [17:30:58] VISIT: General examination of patient (procedure)
+    Provider: Dr. Felipe97 Tamayo777
+    Location: HARBOR HEALTH SERVICES INC
+    Duration: 17:30:58 - 17:45:58
+
+  [17:30:58] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [17:30:58] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-03-27
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Tommy814 Luetta803 is a 44 year-old nonhispanic white female.
+      # Social History
+
+  [17:30:58] DOCUMENT: History and physical note
+    Status: superseded
+
+  [17:45:58] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2021-04-10
+
+  [17:30:58] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Latoyia537 Lindgren255
+    Location: DR SOLOMON CARTER FULLER MENTAL HEALTH CENTER
+    Duration: 17:30:58 - 17:45:58
+
+  [17:30:58] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 30 mcg/0.3 mL dose
+    Status: completed
+
+  [17:30:58] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-04-10
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Tommy814 Luetta803 is a 44 year-old nonhispanic white female.
+      # Social History
+
+  [17:30:58] DOCUMENT: History and physical note
+    Status: superseded
+
+  [17:45:58] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-05-01
+
+  [17:30:58] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Latoyia537 Lindgren255
+    Location: DR SOLOMON CARTER FULLER MENTAL HEALTH CENTER
+    Duration: 17:30:58 - 17:45:58
+
+  [17:30:58] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 30 mcg/0.3 mL dose
+    Status: completed
+
+  [17:30:58] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-05-01
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Tommy814 Luetta803 is a 44 year-old nonhispanic white female.
+      # Social History
+
+  [17:30:58] DOCUMENT: History and physical note
+    Status: superseded
+
+  [17:45:58] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2023-04-01
+
+  [17:30:58] VISIT: General examination of patient (procedure)
+    Provider: Dr. Felipe97 Tamayo777
+    Location: HARBOR HEALTH SERVICES INC
+    Duration: 17:30:58 - 17:45:58
+
+  [17:30:58] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [17:30:58] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-04-01
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Tommy814 Luetta803 is a 46 year-old nonhispanic white female.
+      # Social History
+
+  [17:30:58] DOCUMENT: History and physical note
+    Status: superseded
+
+  [17:45:58] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2025-04-05
+
+  [17:30:58] VISIT: General examination of patient (procedure)
+    Provider: Dr. Felipe97 Tamayo777
+    Location: HARBOR HEALTH SERVICES INC
+    Duration: 17:30:58 - 17:45:58
+
+  [17:30:58] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [17:30:58] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-04-05
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Tommy814 Luetta803 is a 48 year-old nonhispanic white female.
+      # Social History
+
+  [17:30:58] DOCUMENT: History and physical note
+    Status: current
+
+  [17:45:58] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2026-02-14
+
+  [16:30:58] PROVENANCE: Record activity
+    Agents: Dr. Felipe97 Tamayo777, Dr. Felipe97 Tamayo777
+
+================================================================================
+END OF TIMELINE (39 events)
+================================================================================

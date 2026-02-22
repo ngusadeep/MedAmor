@@ -1,0 +1,217 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Mrs. Lyn897 Fannie183 Leuschke194
+  Patient ID: 99191
+  Date of Birth: 1977-01-09
+  Gender: Female
+  Race: White
+  Ethnicity: Not Hispanic or Latino
+  Marital Status: Married
+  Address: 857 Powlowski Road, Lawrence, MA 01843
+  Phone: 555-119-9068
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2017-01-15
+
+  [07:19:58] VISIT: General examination of patient (procedure)
+    Provider: Dr. Elisa944 Rojo930
+    Location: BLUESKIES WELLNESS INC
+    Duration: 07:19:58 - 07:34:58
+
+  [07:19:58] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [07:19:58] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [07:19:58] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-01-15
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lyn897 Fannie183 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [07:19:58] DOCUMENT: History and physical note
+    Status: superseded
+
+  [07:34:58] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2019-01-20
+
+  [07:19:58] VISIT: General examination of patient (procedure)
+    Provider: Dr. Elisa944 Rojo930
+    Location: BLUESKIES WELLNESS INC
+    Duration: 07:19:58 - 07:34:58
+
+  [07:19:58] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [07:19:58] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [07:19:58] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [07:19:58] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-01-20
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lyn897 Fannie183 is a 42 year-old nonhispanic white female.
+      # Social History
+
+  [07:19:58] DOCUMENT: History and physical note
+    Status: superseded
+
+  [07:34:58] CLAIM: professional
+    Amount: USD 544.80
+
+
+📅 2021-01-24
+
+  [07:19:58] VISIT: General examination of patient (procedure)
+    Provider: Dr. Elisa944 Rojo930
+    Location: BLUESKIES WELLNESS INC
+    Duration: 07:19:58 - 07:34:58
+
+  [07:19:58] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [07:19:58] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-01-24
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lyn897 Fannie183 is a 44 year-old nonhispanic white female.
+      # Social History
+
+  [07:19:58] DOCUMENT: History and physical note
+    Status: superseded
+
+  [07:34:58] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2021-09-05
+
+  [08:19:58] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Azucena377 Crona259
+    Location: HOLY FAMILY HOSPITAL
+    Duration: 08:19:58 - 08:34:58
+
+  [08:19:58] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+    Status: completed
+
+  [08:19:58] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-09-05
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lyn897 Fannie183 is a 44 year-old nonhispanic white female.
+      # Social History
+
+  [08:19:58] DOCUMENT: History and physical note
+    Status: superseded
+
+  [08:34:58] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-10-03
+
+  [08:19:58] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Azucena377 Crona259
+    Location: HOLY FAMILY HOSPITAL
+    Duration: 08:19:58 - 08:34:58
+
+  [08:19:58] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+    Status: completed
+
+  [08:19:58] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-10-03
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lyn897 Fannie183 is a 44 year-old nonhispanic white female.
+      # Social History
+
+  [08:19:58] DOCUMENT: History and physical note
+    Status: superseded
+
+  [08:34:58] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2023-01-29
+
+  [07:19:58] VISIT: General examination of patient (procedure)
+    Provider: Dr. Elisa944 Rojo930
+    Location: BLUESKIES WELLNESS INC
+    Duration: 07:19:58 - 07:34:58
+
+  [07:19:58] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [07:19:58] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-01-29
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lyn897 Fannie183 is a 46 year-old nonhispanic white female.
+      # Social History
+
+  [07:19:58] DOCUMENT: History and physical note
+    Status: superseded
+
+  [07:34:58] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2025-02-02
+
+  [07:19:58] VISIT: General examination of patient (procedure)
+    Provider: Dr. Elisa944 Rojo930
+    Location: BLUESKIES WELLNESS INC
+    Duration: 07:19:58 - 07:34:58
+
+  [07:19:58] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [07:19:58] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-02-02
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Lyn897 Fannie183 is a 48 year-old nonhispanic white female.
+      # Social History
+
+  [07:19:58] DOCUMENT: History and physical note
+    Status: current
+
+  [07:34:58] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2026-02-15
+
+  [07:19:58] PROVENANCE: Record activity
+    Agents: Dr. Elisa944 Rojo930, Dr. Elisa944 Rojo930
+
+================================================================================
+END OF TIMELINE (39 events)
+================================================================================

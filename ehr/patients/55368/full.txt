@@ -1,0 +1,321 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Ms. Gertha313 Kertzmann286
+  Patient ID: 55368
+  Date of Birth: 1957-11-22
+  Gender: Female
+  Race: White
+  Ethnicity: Not Hispanic or Latino
+  Marital Status: Never Married
+  Address: 212 Fisher Grove Suite 83, Springfield, MA 01109
+  Phone: 555-819-9911
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2017-01-13
+
+  [15:55:45] VISIT: General examination of patient (procedure)
+    Provider: Dr. Fritz267 Farrell962
+    Location: CARING HEALTH CENTER, INC
+    Duration: 15:55:45 - 16:10:45
+
+  [15:55:45] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [15:55:45] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-01-13
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Gertha313 is a 59 year-old nonhispanic white female.
+      # Social History
+
+  [15:55:45] DOCUMENT: History and physical note
+    Status: superseded
+
+  [16:10:45] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2018-01-19
+
+  [15:55:45] VISIT: General examination of patient (procedure)
+    Provider: Dr. Fritz267 Farrell962
+    Location: CARING HEALTH CENTER, INC
+    Duration: 15:55:45 - 16:10:45
+
+  [15:55:45] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [15:55:45] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-01-19
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Gertha313 is a 60 year-old nonhispanic white female.
+      # Social History
+
+  [15:55:45] DOCUMENT: History and physical note
+    Status: superseded
+
+  [16:10:45] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2019-01-25
+
+  [15:55:45] VISIT: General examination of patient (procedure)
+    Provider: Dr. Fritz267 Farrell962
+    Location: CARING HEALTH CENTER, INC
+    Duration: 15:55:45 - 16:10:45
+
+  [15:55:45] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [15:55:45] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [15:55:45] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-01-25
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Gertha313 is a 61 year-old nonhispanic white female.
+      # Social History
+
+  [15:55:45] DOCUMENT: History and physical note
+    Status: superseded
+
+  [16:10:45] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2020-01-31
+
+  [15:55:45] VISIT: General examination of patient (procedure)
+    Provider: Dr. Fritz267 Farrell962
+    Location: CARING HEALTH CENTER, INC
+    Duration: 15:55:45 - 16:10:45
+
+  [15:55:45] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [15:55:45] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-01-31
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Gertha313 is a 62 year-old nonhispanic white female.
+      # Social History
+
+  [15:55:45] DOCUMENT: History and physical note
+    Status: superseded
+
+  [16:10:45] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2021-02-05
+
+  [15:55:45] VISIT: General examination of patient (procedure)
+    Provider: Dr. Fritz267 Farrell962
+    Location: CARING HEALTH CENTER, INC
+    Duration: 15:55:45 - 16:10:45
+
+  [15:55:45] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [15:55:45] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-02-05
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Gertha313 is a 63 year-old nonhispanic white female.
+      # Social History
+
+  [15:55:45] DOCUMENT: History and physical note
+    Status: superseded
+
+  [16:10:45] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2021-11-05
+
+  [16:55:45] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Miyoko154 Paucek755
+    Location: ENCOMPASS HEALTH REHAB HOSPITAL OF WESTERN MASS
+    Duration: 16:55:45 - 17:10:45
+
+  [16:55:45] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+    Status: completed
+
+  [16:55:45] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-11-05
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Gertha313 is a 63 year-old nonhispanic white female.
+      # Social History
+
+  [16:55:45] DOCUMENT: History and physical note
+    Status: superseded
+
+  [17:10:45] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-12-03
+
+  [15:55:45] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Miyoko154 Paucek755
+    Location: ENCOMPASS HEALTH REHAB HOSPITAL OF WESTERN MASS
+    Duration: 15:55:45 - 16:10:45
+
+  [15:55:45] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+    Status: completed
+
+  [15:55:45] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-12-03
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Gertha313 is a 64 year-old nonhispanic white female.
+      # Social History
+
+  [15:55:45] DOCUMENT: History and physical note
+    Status: superseded
+
+  [16:10:45] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2022-02-11
+
+  [15:55:45] VISIT: General examination of patient (procedure)
+    Provider: Dr. Fritz267 Farrell962
+    Location: CARING HEALTH CENTER, INC
+    Duration: 15:55:45 - 16:10:45
+
+  [15:55:45] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [15:55:45] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-02-11
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Gertha313 is a 64 year-old nonhispanic white female.
+      # Social History
+
+  [15:55:45] DOCUMENT: History and physical note
+    Status: superseded
+
+  [16:10:45] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2023-02-17
+
+  [15:55:45] VISIT: General examination of patient (procedure)
+    Provider: Dr. Fritz267 Farrell962
+    Location: CARING HEALTH CENTER, INC
+    Duration: 15:55:45 - 16:10:45
+
+  [15:55:45] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [15:55:45] IMMUNIZATION: Pneumococcal conjugate PCV 13
+    Status: completed
+
+  [15:55:45] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-02-17
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Gertha313 is a 65 year-old nonhispanic white female.
+      # Social History
+
+  [15:55:45] DOCUMENT: History and physical note
+    Status: superseded
+
+  [16:10:45] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2024-02-23
+
+  [15:55:45] VISIT: General examination of patient (procedure)
+    Provider: Dr. Fritz267 Farrell962
+    Location: CARING HEALTH CENTER, INC
+    Duration: 15:55:45 - 16:10:45
+
+  [15:55:45] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [15:55:45] IMMUNIZATION: pneumococcal polysaccharide vaccine, 23 valent
+    Status: completed
+
+  [15:55:45] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-02-23
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Gertha313 is a 66 year-old nonhispanic white female.
+      # Social History
+
+  [15:55:45] DOCUMENT: History and physical note
+    Status: superseded
+
+  [16:10:45] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2025-02-28
+
+  [15:55:45] VISIT: General examination of patient (procedure)
+    Provider: Dr. Fritz267 Farrell962
+    Location: CARING HEALTH CENTER, INC
+    Duration: 15:55:45 - 16:10:45
+
+  [15:55:45] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [15:55:45] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-02-28
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Gertha313 is a 67 year-old nonhispanic white female.
+      # Social History
+
+  [15:55:45] DOCUMENT: History and physical note
+    Status: current
+
+  [16:10:45] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2026-02-13
+
+  [15:55:45] PROVENANCE: Record activity
+    Agents: Dr. Fritz267 Farrell962, Dr. Fritz267 Farrell962
+
+================================================================================
+END OF TIMELINE (59 events)
+================================================================================

@@ -1,4 +1,4 @@
-"""Audit reports API: list and get audit results."""
+"""Audit reports API: list, get, and human-in-the-loop annotations."""
 
 import json
 from uuid import UUID
@@ -10,8 +10,14 @@ from sqlalchemy.orm import Session
 from app.core.database import get_db_session
 from app.core.deps import get_current_user_required
 from app.models.audit_report import AuditReport
+from app.models.report_annotation import ReportAnnotation
 from app.models.user import User
-from app.schemas.audit_report import AuditReportExportRow, AuditReportResponse
+from app.schemas.audit_report import (
+    AuditReportExportRow,
+    AuditReportResponse,
+    ReportAnnotationCreate,
+    ReportAnnotationResponse,
+)
 
 router = APIRouter(prefix="/audit-reports", tags=["audit-reports"])
 
@@ -55,6 +61,45 @@ def get_audit_report_by_job(
     """Get audit report for a job (if completed)."""
     report = db.query(AuditReport).filter(AuditReport.job_id == job_id).first()
     return report
+
+
+@router.get("/{report_id}/annotations", response_model=list[ReportAnnotationResponse])
+def list_report_annotations(
+    report_id: UUID,
+    db: Session = Depends(get_db_session),
+    _user: User = Depends(get_current_user_required),
+) -> list[ReportAnnotation]:
+    """List reviewer annotations for a report (human-in-the-loop)."""
+    if db.query(AuditReport).filter(AuditReport.id == report_id).first() is None:
+        raise HTTPException(status_code=404, detail="Audit report not found")
+    return list(
+        db.query(ReportAnnotation)
+        .filter(ReportAnnotation.audit_report_id == report_id)
+        .order_by(ReportAnnotation.finding_index, ReportAnnotation.created_at)
+        .all()
+    )
+
+
+@router.post("/{report_id}/annotations", response_model=ReportAnnotationResponse)
+def create_report_annotation(
+    report_id: UUID,
+    body: ReportAnnotationCreate,
+    db: Session = Depends(get_db_session),
+    user: User = Depends(get_current_user_required),
+) -> ReportAnnotation:
+    """Add a reviewer note to a finding. Stored separately from AI output."""
+    if db.query(AuditReport).filter(AuditReport.id == report_id).first() is None:
+        raise HTTPException(status_code=404, detail="Audit report not found")
+    ann = ReportAnnotation(
+        audit_report_id=report_id,
+        finding_index=body.finding_index,
+        note=body.note,
+        created_by_user_id=user.id,
+    )
+    db.add(ann)
+    db.commit()
+    db.refresh(ann)
+    return ann
 
 
 def _report_to_export_row(report: AuditReport) -> AuditReportExportRow:

@@ -1,0 +1,269 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Mrs. Robbie31 Jodi410 Greenholt190
+  Patient ID: 128260
+  Date of Birth: 1972-12-02
+  Gender: Female
+  Race: White
+  Ethnicity: Not Hispanic or Latino
+  Marital Status: Married
+  Address: 993 Jones Mews, Whitman, MA 00000
+  Phone: 555-905-2827
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2016-12-17
+
+  [19:50:41] VISIT: General examination of patient (procedure)
+    Provider: Dr. Rebeca548 García15
+    Location: DILIGENCEHEALTHCARE
+    Duration: 19:50:41 - 20:05:41
+
+  [19:50:41] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [19:50:41] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-12-17
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Robbie31 Jodi410 is a 44 year-old nonhispanic white female.
+      # Social History
+
+  [19:50:41] DOCUMENT: History and physical note
+    Status: superseded
+
+  [20:05:41] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2018-12-22
+
+  [19:50:41] VISIT: General examination of patient (procedure)
+    Provider: Dr. Rebeca548 García15
+    Location: DILIGENCEHEALTHCARE
+    Duration: 19:50:41 - 20:05:41
+
+  [19:50:41] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [19:50:41] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-12-22
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Robbie31 Jodi410 is a 46 year-old nonhispanic white female.
+      # Social History
+
+  [19:50:41] DOCUMENT: History and physical note
+    Status: superseded
+
+  [20:05:41] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2020-12-26
+
+  [19:50:41] VISIT: General examination of patient (procedure)
+    Provider: Dr. Rebeca548 García15
+    Location: DILIGENCEHEALTHCARE
+    Duration: 19:50:41 - 20:05:41
+
+  [19:50:41] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [19:50:41] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-12-26
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Robbie31 Jodi410 is a 48 year-old nonhispanic white female.
+      # Social History
+
+  [19:50:41] DOCUMENT: History and physical note
+    Status: superseded
+
+  [20:05:41] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2021-05-08
+
+  [20:50:41] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Damaris45 Funk324
+    Location: BROCKTON HOSPITAL, INC.
+    Duration: 20:50:41 - 21:05:41
+
+  [20:50:41] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 30 mcg/0.3 mL dose
+    Status: completed
+
+  [20:50:41] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-05-08
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Robbie31 Jodi410 is a 48 year-old nonhispanic white female.
+      # Social History
+
+  [20:50:41] DOCUMENT: History and physical note
+    Status: superseded
+
+  [21:05:41] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-05-29
+
+  [20:50:41] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Damaris45 Funk324
+    Location: BROCKTON HOSPITAL, INC.
+    Duration: 20:50:41 - 21:05:41
+
+  [20:50:41] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 30 mcg/0.3 mL dose
+    Status: completed
+
+  [20:50:41] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-05-29
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Robbie31 Jodi410 is a 48 year-old nonhispanic white female.
+      # Social History
+
+  [20:50:41] DOCUMENT: History and physical note
+    Status: superseded
+
+  [21:05:41] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2022-12-03
+
+  [19:50:41] VISIT: General examination of patient (procedure)
+    Provider: Dr. Rebeca548 García15
+    Location: DILIGENCEHEALTHCARE
+    Duration: 19:50:41 - 20:05:41
+
+  [19:50:41] IMMUNIZATION: zoster vaccine, live
+    Status: completed
+
+  [19:50:41] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [19:50:41] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-12-03
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Robbie31 Jodi410 is a 50 year-old nonhispanic white female.
+      # Social History
+
+  [19:50:41] DOCUMENT: History and physical note
+    Status: superseded
+
+  [20:05:41] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2023-12-09
+
+  [19:50:41] VISIT: General examination of patient (procedure)
+    Provider: Dr. Rebeca548 García15
+    Location: DILIGENCEHEALTHCARE
+    Duration: 19:50:41 - 20:05:41
+
+  [19:50:41] IMMUNIZATION: zoster vaccine, live
+    Status: completed
+
+  [19:50:41] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [19:50:41] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [19:50:41] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-12-09
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Robbie31 Jodi410 is a 51 year-old nonhispanic white female.
+      # Social History
+
+  [19:50:41] DOCUMENT: History and physical note
+    Status: superseded
+
+  [20:05:41] CLAIM: professional
+    Amount: USD 544.80
+
+
+📅 2024-12-14
+
+  [19:50:41] VISIT: General examination of patient (procedure)
+    Provider: Dr. Rebeca548 García15
+    Location: DILIGENCEHEALTHCARE
+    Duration: 19:50:41 - 20:05:41
+
+  [19:50:41] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [19:50:41] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-12-14
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Robbie31 Jodi410 is a 52 year-old nonhispanic white female.
+      # Social History
+
+  [19:50:41] DOCUMENT: History and physical note
+    Status: superseded
+
+  [20:05:41] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2025-12-20
+
+  [19:50:41] VISIT: General examination of patient (procedure)
+    Provider: Dr. Rebeca548 García15
+    Location: DILIGENCEHEALTHCARE
+    Duration: 19:50:41 - 20:05:41
+
+  [19:50:41] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [19:50:41] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-12-20
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Robbie31 Jodi410 is a 53 year-old nonhispanic white female.
+      # Social History
+
+  [19:50:41] DOCUMENT: History and physical note
+    Status: current
+
+  [20:05:41] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2026-02-14
+
+  [19:50:41] PROVENANCE: Record activity
+    Agents: Dr. Rebeca548 García15, Dr. Rebeca548 García15
+
+================================================================================
+END OF TIMELINE (49 events)
+================================================================================

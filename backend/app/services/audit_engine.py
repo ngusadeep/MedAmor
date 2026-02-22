@@ -1,21 +1,41 @@
-"""Audit engine: EHR + RAG context → MedGemma → structured report (findings, evidence, actions).
-Focused on Breast Cancer Screening Audit."""
+"""Audit engine: Uses LangGraph orchestrator for structured medical audits."""
 
+import logging
 from datetime import datetime, timezone
+
+logger = logging.getLogger(__name__)
 from uuid import UUID
 
-from app.schemas.audit_report import AuditReportCreate, EvidenceItem, FindingItem
-from app.services import medgemma, rag
-from app.services.ehr_mock import get_patient_bundle
-
-AUDIT_SYSTEM_PROMPT = """You are a clinical audit assistant for breast cancer screening compliance. Do NOT diagnose. Based on the provided EHR excerpt and knowledge base context (screening guidelines, mammography, follow-up), produce a structured audit report in JSON with exactly 
-these keys: status (NO_FINDINGS or FINDING_PRESENT), risk_level (low/medium/high), executive_summary (string), findings (list of {category, description, responsible_doctor?, urgency?}), evidence (list of {kb_source?, ehr_snippet?}), corrective_actions (list of strings). Cite evidence only from the given context."""
-
-# RAG query tuned for breast cancer screening guidelines retrieval
-RAG_QUERY_BREAST_CANCER_SCREENING = (
-    "breast cancer screening mammography guidelines eligibility follow-up "
-    "recall imaging documentation BI-RADS risk assessment"
+from app.core.config import settings
+from app.schemas.audit_report import (
+    AuditReportCreate,
+    EvidenceItem,
+    FindingItem,
 )
+from app.services.audit_orchestrator import run_audit_orchestrator
+
+
+def _apply_sensitivity_filter(
+    findings: list[FindingItem],
+    evidence: list[EvidenceItem],
+    sensitivity: float,
+) -> tuple[list[FindingItem], list[EvidenceItem]]:
+    """
+    Filter findings/evidence by confidence threshold derived from sensitivity.
+    threshold = 1.0 - sensitivity: low sensitivity -> high threshold -> fewer items.
+    """
+    threshold = 1.0 - max(0.0, min(1.0, sensitivity))
+    filtered_findings = [
+        f
+        for f in findings
+        if (f.confidence or 0.5) >= threshold or (f.harm_severity or 0.5) >= threshold
+    ]
+    filtered_evidence = [
+        e
+        for e in evidence
+        if (e.confidence or 0.5) >= threshold or (e.harm_severity or 0.5) >= threshold
+    ]
+    return filtered_findings, filtered_evidence
 
 
 def run_audit(
@@ -23,67 +43,124 @@ def run_audit(
     patient_id: str,
     export_type: str | None = None,
     audit_type: str | None = None,
+    sensitivity: float | None = None,
+    model: str | None = None,
+    extraction_mode: str | None = None,
 ) -> AuditReportCreate:
     """
-    Run one audit: load EHR, retrieve RAG context (Breast Cancer Screening guidelines), call MedGemma, return report.
+    Run one audit using LangGraph orchestrator: fetch EHR → retrieve guidelines → generate report.
     """
-    export_type = export_type or "full"
-    bundle = get_patient_bundle(patient_id, export_type)
-    ehr_text = bundle.ehr_text if bundle else ""
+    audit_type = audit_type or "general"
+    sens = sensitivity if sensitivity is not None else settings.audit_sensitivity
 
-    query = (
-        RAG_QUERY_BREAST_CANCER_SCREENING
-        if (audit_type or "").strip().lower() == "breast_cancer_screening"
-        else "clinical audit imaging handoff continuity documentation follow-up"
-    )
-    chunks = rag.retrieve(query, k=6)
-    kb_context = "\n\n".join(c["text"] for c in chunks) if chunks else ""
-
-    prompt = AUDIT_SYSTEM_PROMPT
-    out = medgemma.run_medgemma(
-        prompt=prompt,
-        ehr_excerpt=ehr_text[:14000],
-        kb_context=kb_context[:8000] if kb_context else None,
+    logger.info(
+        "run_audit job_id=%s patient_id=%s audit_type=%s export_type=%s sensitivity=%s model=%s extraction_mode=%s",
+        job_id,
+        patient_id,
+        audit_type,
+        export_type,
+        sens,
+        model,
+        extraction_mode,
     )
 
-    status = out.get("status", "NO_FINDINGS")
-    risk_level = out.get("risk_level")
-    executive_summary = out.get("executive_summary")
-    findings_raw = out.get("findings") or []
-    evidence_raw = out.get("evidence") or []
-    corrective_actions = out.get("corrective_actions") or []
-    next_audit = out.get("next_audit_date")
+    # Run the orchestrator with sensitivity and optional per-job overrides
+    orchestrator_result = run_audit_orchestrator(
+        patient_id,
+        audit_type,
+        sensitivity=sens,
+        model=model,
+        extraction_mode=extraction_mode,
+    )
 
-    findings = [
-        FindingItem(
-            category=f.get("category", ""),
-            description=f.get("description", ""),
-            responsible_doctor=f.get("responsible_doctor"),
-            urgency=f.get("urgency"),
-        )
-        for f in findings_raw
-        if isinstance(f, dict)
-    ]
-    evidence = [
-        EvidenceItem(
-            kb_source=e.get("kb_source"),
-            ehr_snippet=e.get("ehr_snippet"),
-            image_ref=e.get("image_ref"),
-        )
-        for e in evidence_raw
-        if isinstance(e, dict)
-    ]
-    next_dt = None
-    if next_audit:
+    # Parse the orchestrator report
+    report_data = orchestrator_result.get("report", {})
+    if isinstance(report_data, str):
         try:
-            if isinstance(next_audit, str):
-                next_dt = datetime.fromisoformat(next_audit.replace("Z", "+00:00"))
-            elif isinstance(next_audit, datetime):
-                next_dt = next_audit
-        except Exception:
-            pass
-    if next_dt and next_dt.tzinfo is None:
-        next_dt = next_dt.replace(tzinfo=timezone.utc)
+            import json
+
+            report_data = json.loads(report_data)
+        except:
+            report_data = {
+                "compliant": False,
+                "gaps": ["Failed to parse report"],
+                "evidence": [],
+            }
+
+    # Convert orchestrator format to our schema format
+    compliant = report_data.get("compliant", False)
+    gaps = report_data.get("gaps", [])
+    close_calls = report_data.get("close_calls", [])
+    evidence_items = report_data.get("evidence", [])
+
+    # Build evidence and findings; align by index for score propagation
+    evidence = []
+    for item in evidence_items:
+        if isinstance(item, dict):
+            evidence.append(
+                EvidenceItem(
+                    kb_source=item.get("guideline", ""),
+                    ehr_snippet=item.get("violation", ""),
+                    confidence=item.get("confidence"),
+                    harm_severity=item.get("harm_severity"),
+                )
+            )
+
+    findings = []
+    corrective_actions = []
+    for i, gap in enumerate(gaps):
+        ev = evidence[i] if i < len(evidence) else None
+        findings.append(
+            FindingItem(
+                category="Compliance Gap",
+                description=gap,
+                urgency="medium" if "critical" in gap.lower() else "low",
+                confidence=ev.confidence if ev else None,
+                harm_severity=ev.harm_severity if ev else None,
+            )
+        )
+        corrective_actions.append(f"Address: {gap}")
+
+    # Append close calls as informational findings (resolved, harm_severity=0)
+    for cc in close_calls:
+        findings.append(
+            FindingItem(
+                category="Close Call",
+                description=cc,
+                urgency="info",
+                confidence=1.0,
+                harm_severity=0.0,
+            )
+        )
+
+    # Apply sensitivity filter (close calls are excluded — they are always included)
+    active_findings = [f for f in findings if f.category != "Close Call"]
+    close_call_findings = [f for f in findings if f.category == "Close Call"]
+    active_findings, evidence = _apply_sensitivity_filter(active_findings, evidence, sens)
+    findings = active_findings + close_call_findings
+
+    # Sync corrective_actions with active (non-close-call) findings only
+    corrective_actions = [f"Address: {f.description}" for f in active_findings]
+
+    # Map status (NO_FINDINGS if compliant or all active findings filtered out)
+    status = "NO_FINDINGS" if compliant or len(active_findings) == 0 else "FINDING_PRESENT"
+
+    # Create executive summary
+    close_call_count = len(close_call_findings)
+    if compliant or len(active_findings) == 0:
+        if close_call_count:
+            executive_summary = (
+                f"Patient care is currently compliant with clinical guidelines. "
+                f"{close_call_count} close call{'s' if close_call_count != 1 else ''} noted for quality review."
+            )
+        else:
+            executive_summary = "Patient care appears compliant with clinical guidelines."
+        risk_level = "low"
+    else:
+        gap_count = len(active_findings)
+        cc_note = f" ({close_call_count} close call{'s' if close_call_count != 1 else ''} also noted)" if close_call_count else ""
+        executive_summary = f"Audit identified {gap_count} potential compliance gap{'s' if gap_count != 1 else ''} requiring attention{cc_note}."
+        risk_level = "high" if gap_count > 2 else "medium"
 
     return AuditReportCreate(
         job_id=job_id,
@@ -94,5 +171,5 @@ def run_audit(
         findings=findings,
         evidence=evidence,
         corrective_actions=corrective_actions,
-        next_audit_date=next_dt,
+        next_audit_date=None,  # Could be calculated based on audit type
     )

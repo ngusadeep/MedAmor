@@ -1,0 +1,191 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Ms. Kimbra238 Vikki110 McClure239
+  Patient ID: 83253
+  Date of Birth: 1981-10-26
+  Gender: Female
+  Race: White
+  Ethnicity: Hispanic or Latino
+  Marital Status: Never Married
+  Address: 143 Considine Tunnel, Marblehead, MA 01945
+  Phone: 555-837-1441
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2019-01-14
+
+  [04:39:58] VISIT: General examination of patient (procedure)
+    Provider: Dr. Reginia455 Johnson679
+    Location: SALEM FAMILY HEALTH CENTER
+    Duration: 04:39:58 - 04:54:58
+
+  [04:39:58] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [04:39:58] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-01-14
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kimbra238 is a 37 year-old hispanic white female.
+      # Social History
+
+  [04:39:58] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:54:58] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2021-03-29
+
+  [05:39:58] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Trevor374 Walker122
+    Location: NORTH SHORE MEDICAL CENTER INC
+    Duration: 05:39:58 - 05:54:58
+
+  [05:39:58] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 30 mcg/0.3 mL dose
+    Status: completed
+
+  [05:39:58] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-03-29
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kimbra238 is a 39 year-old hispanic white female.
+      # Social History
+
+  [05:39:58] DOCUMENT: History and physical note
+    Status: superseded
+
+  [05:54:58] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-04-19
+
+  [05:39:58] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Trevor374 Walker122
+    Location: NORTH SHORE MEDICAL CENTER INC
+    Duration: 05:39:58 - 05:54:58
+
+  [05:39:58] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 30 mcg/0.3 mL dose
+    Status: completed
+
+  [05:39:58] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-04-19
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kimbra238 is a 39 year-old hispanic white female.
+      # Social History
+
+  [05:39:58] DOCUMENT: History and physical note
+    Status: superseded
+
+  [05:54:58] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-11-01
+
+  [05:39:58] VISIT: General examination of patient (procedure)
+    Provider: Dr. Reginia455 Johnson679
+    Location: SALEM FAMILY HEALTH CENTER
+    Duration: 05:39:58 - 05:54:58
+
+  [05:39:58] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [05:39:58] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [05:39:58] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-11-01
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kimbra238 is a 40 year-old hispanic white female.
+      # Social History
+
+  [05:39:58] DOCUMENT: History and physical note
+    Status: superseded
+
+  [05:54:58] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2023-11-06
+
+  [04:39:58] VISIT: General examination of patient (procedure)
+    Provider: Dr. Reginia455 Johnson679
+    Location: SALEM FAMILY HEALTH CENTER
+    Duration: 04:39:58 - 04:54:58
+
+  [04:39:58] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [04:39:58] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [04:39:58] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [04:39:58] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-11-06
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kimbra238 is a 42 year-old hispanic white female.
+      # Social History
+
+  [04:39:58] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:54:58] CLAIM: professional
+    Amount: USD 544.80
+
+
+📅 2025-11-10
+
+  [04:39:58] VISIT: General examination of patient (procedure)
+    Provider: Dr. Reginia455 Johnson679
+    Location: SALEM FAMILY HEALTH CENTER
+    Duration: 04:39:58 - 04:54:58
+
+  [04:39:58] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [04:39:58] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-11-10
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Kimbra238 is a 44 year-old hispanic white female.
+      # Social History
+
+  [04:39:58] DOCUMENT: History and physical note
+    Status: current
+
+  [04:54:58] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2026-02-16
+
+  [04:39:58] PROVENANCE: Record activity
+    Agents: Dr. Reginia455 Johnson679, Dr. Reginia455 Johnson679
+
+================================================================================
+END OF TIMELINE (34 events)
+================================================================================

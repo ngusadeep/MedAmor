@@ -1,0 +1,139 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Mrs. Janean397 Deetta949 Gutmann970
+  Patient ID: 66000
+  Date of Birth: 1980-04-22
+  Gender: Female
+  Race: White
+  Ethnicity: Not Hispanic or Latino
+  Marital Status: Married
+  Address: 812 Cruickshank Burg Unit 2, Boston, MA 02199
+  Phone: 555-598-2006
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2017-07-11
+
+  [22:15:01] VISIT: General examination of patient (procedure)
+    Provider: Dr. Lai148 Nicolas769
+    Location: UPHAMS CORNER HEALTH COMMITTEE INC
+    Duration: 22:15:01 - 22:30:01
+
+  [22:15:01] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [22:15:01] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-07-11
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Janean397 Deetta949 is a 37 year-old nonhispanic white female.
+      # Social History
+
+  [22:15:01] DOCUMENT: History and physical note
+    Status: superseded
+
+  [22:30:01] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2020-04-28
+
+  [22:15:01] VISIT: General examination of patient (procedure)
+    Provider: Dr. Lai148 Nicolas769
+    Location: UPHAMS CORNER HEALTH COMMITTEE INC
+    Duration: 22:15:01 - 22:30:01
+
+  [22:15:01] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [22:15:01] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [22:15:01] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-04-28
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Janean397 Deetta949 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [22:15:01] DOCUMENT: History and physical note
+    Status: superseded
+
+  [22:30:01] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2022-05-03
+
+  [22:15:01] VISIT: General examination of patient (procedure)
+    Provider: Dr. Lai148 Nicolas769
+    Location: UPHAMS CORNER HEALTH COMMITTEE INC
+    Duration: 22:15:01 - 22:30:01
+
+  [22:15:01] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [22:15:01] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [22:15:01] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [22:15:01] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-05-03
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Janean397 Deetta949 is a 42 year-old nonhispanic white female.
+      # Social History
+
+  [22:15:01] DOCUMENT: History and physical note
+    Status: superseded
+
+  [22:30:01] CLAIM: professional
+    Amount: USD 544.80
+
+
+📅 2024-05-07
+
+  [22:15:01] VISIT: General examination of patient (procedure)
+    Provider: Dr. Lai148 Nicolas769
+    Location: UPHAMS CORNER HEALTH COMMITTEE INC
+    Duration: 22:15:01 - 22:30:01
+
+  [22:15:01] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [22:15:01] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-05-07
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Janean397 Deetta949 is a 44 year-old nonhispanic white female.
+      # Social History
+
+  [22:15:01] DOCUMENT: History and physical note
+    Status: current
+
+  [22:30:01] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2026-02-10
+
+  [21:15:01] PROVENANCE: Record activity
+    Agents: Dr. Lai148 Nicolas769, Dr. Lai148 Nicolas769
+
+================================================================================
+END OF TIMELINE (24 events)
+================================================================================

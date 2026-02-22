@@ -1,0 +1,1723 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Mrs. Erline657 Naoma512 Zieme486
+  Patient ID: 47311
+  Date of Birth: 1976-01-13
+  Gender: Female
+  Race: White
+  Ethnicity: Not Hispanic or Latino
+  Marital Status: Divorced
+  Address: 359 Marks Skyway, White Island Shores, MA 00000
+  Phone: 555-598-6742
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2018-01-23
+
+  [16:43:19] VISIT: General examination of patient (procedure)
+    Provider: Dr. Dusti191 Howe413
+    Location: COMMUNITY HEALTH CENTER OF CAPE COD, INC.
+    Duration: 16:43:19 - 16:58:19
+
+  [16:43:19] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [16:43:19] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [16:43:19] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [16:43:19] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-01-23
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Erline657 Naoma512 is a 42 year-old nonhispanic white female.
+      # Social History
+
+  [16:43:19] DOCUMENT: History and physical note
+    Status: superseded
+
+  [16:58:19] CLAIM: professional
+    Amount: USD 544.80
+
+
+📅 2020-01-28
+
+  [16:43:19] VISIT: General examination of patient (procedure)
+    Provider: Dr. Dusti191 Howe413
+    Location: COMMUNITY HEALTH CENTER OF CAPE COD, INC.
+    Duration: 16:43:19 - 16:58:19
+
+  [16:43:19] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [16:43:19] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-01-28
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Erline657 Naoma512 is a 44 year-old nonhispanic white female.
+      # Social History
+
+  [16:43:19] DOCUMENT: History and physical note
+    Status: superseded
+
+  [16:58:19] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2021-04-06
+
+  [17:43:19] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 17:43:19 - 17:58:19
+
+  [17:43:19] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+    Status: completed
+
+  [17:43:19] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-04-06
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Erline657 Naoma512 is a 45 year-old nonhispanic white female.
+      # Social History
+
+  [17:43:19] DOCUMENT: History and physical note
+    Status: superseded
+
+  [17:58:19] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-05-04
+
+  [17:43:19] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 17:43:19 - 17:58:19
+
+  [17:43:19] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+    Status: completed
+
+  [17:43:19] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-05-04
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Erline657 Naoma512 is a 45 year-old nonhispanic white female.
+      # Social History
+
+  [17:43:19] DOCUMENT: History and physical note
+    Status: superseded
+
+  [17:58:19] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2022-02-01
+
+  [16:43:19] VISIT: General examination of patient (procedure)
+    Provider: Dr. Dusti191 Howe413
+    Location: COMMUNITY HEALTH CENTER OF CAPE COD, INC.
+    Duration: 16:43:19 - 16:58:19
+
+  [16:43:19] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [16:43:19] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-02-01
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Erline657 Naoma512 is a 46 year-old nonhispanic white female.
+      # Social History
+
+  [16:43:19] DOCUMENT: History and physical note
+    Status: superseded
+
+  [16:58:19] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2022-12-23
+
+  [16:43:19] VISIT: Periodic reevaluation and management of healthy individual (procedure)
+    Reason: Screening for malignant neoplasm of breast (procedure)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 16:43:19 - 00:37:04
+
+  [16:43:19] PROCEDURE: Screening mammography (procedure)
+    Status: completed
+
+  [16:43:19] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-12-23
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Erline657 Naoma512 is a 46 year-old nonhispanic white female.
+      # Social History
+
+  [16:43:19] DOCUMENT: History and physical note
+    Status: superseded
+
+  [17:01:17] PROCEDURE: Ultrasonography of bilateral breasts (procedure)
+    Status: completed
+
+  [17:20:50] PROCEDURE: Biopsy of breast (procedure)
+    Status: completed
+
+  [18:02:04] CONDITION: Malignant neoplasm of breast (disorder) (active)
+
+  [18:02:04] OBSERVATION: Site of distant metastasis in Breast tumor: None (qualifier value)
+
+  [18:02:04] OBSERVATION: Distant metastases.clinical [Class] Cancer: American Joint Committee on Cancer cM0 (qualifier value)
+
+  [18:02:04] OBSERVATION: Size.maximum dimension in Tumor: 0.76236 cm
+
+  [18:02:04] OBSERVATION: Primary tumor.clinical [Class] Cancer: American Joint Committee on Cancer cT1 (qualifier value)
+
+  [18:02:04] OBSERVATION: Lymph nodes with isolated tumor cells [#] in Cancer specimen by Light microscopy: 0 {#}
+
+  [18:02:04] OBSERVATION: Regional lymph nodes.clinical [Class] Cancer: American Joint Committee on Cancer cN0 (qualifier value)
+
+  [18:02:04] PROCEDURE: Human epidermal growth factor receptor 2 gene detection by fluorescence in situ hybridization (procedure)
+    Status: completed
+
+
+📅 2022-12-24
+
+  [21:02:04] PROCEDURE: Human epidermal growth factor receptor 2 gene detection by immunohistochemistry (procedure)
+    Status: completed
+
+
+📅 2022-12-25
+
+  [00:37:04] OBSERVATION: HER2 [Presence] in Breast cancer specimen by Immune stain: Positive (qualifier value)
+
+  [00:37:04] OBSERVATION: ERBB2 gene duplication [Presence] in Breast cancer specimen by FISH: greater than 2.2
+
+  [00:37:04] OBSERVATION: Estrogen receptor Ag [Presence] in Breast cancer specimen by Immune stain: Positive (qualifier value)
+
+  [00:37:04] OBSERVATION: Progesterone receptor Ag [Presence] in Breast cancer specimen by Immune stain: Positive (qualifier value)
+
+  [00:37:04] OBSERVATION: Estrogen+Progesterone receptor Ag [Presence] in Tissue by Immune stain: Positive (qualifier value)
+
+  [00:37:04] OBSERVATION: Stage group.clinical Cancer: American Joint Committee on Cancer stage IA (qualifier value)
+
+  [00:37:04] OBSERVATION: Stage group.clinical Cancer: Stage 1 (qualifier value)
+
+  [00:37:04] CLAIM: professional
+    Amount: USD 4161.37
+
+
+📅 2022-12-27
+
+  [04:37:04] VISIT: Discussion about treatment (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 04:37:04 - 05:30:50
+
+  [04:37:04] PROCEDURE: Discussion about options (procedure)
+    Status: completed
+
+  [04:37:04] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-12-27
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Erline657 Naoma512 is a 46 year-old nonhispanic white female.
+      # Social History
+
+  [04:37:04] DOCUMENT: History and physical note
+    Status: superseded
+
+  [05:30:50] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2023-01-02
+
+  [15:30:50] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 15:30:50 - 18:49:50
+
+  [15:30:50] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-01-02
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Erline657 Naoma512 is a 46 year-old nonhispanic white female.
+      # Social History
+
+  [15:30:50] DOCUMENT: History and physical note
+    Status: superseded
+
+  [16:47:50] PROCEDURE: Excision of lesion of breast (procedure)
+    Status: completed
+
+
+📅 2023-01-04
+
+  [18:49:50] CLAIM: institutional
+    Amount: USD 519.11
+
+
+📅 2023-01-15
+
+  [12:49:50] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 12:49:50 - 13:24:28
+
+  [12:49:50] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [12:49:50] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-01-15
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Erline657 Naoma512 is a 47 year-old nonhispanic white female.
+      # Social History
+
+  [12:49:50] DOCUMENT: History and physical note
+    Status: superseded
+
+  [13:24:28] CLAIM: professional
+    Amount: USD 769.40
+
+
+📅 2023-01-16
+
+  [23:28:28] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 23:28:28 - 23:43:40
+
+  [23:28:28] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [23:28:28] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-01-16
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Erline657 Naoma512 is a 47 year-old nonhispanic white female.
+      # Social History
+
+  [23:28:28] DOCUMENT: History and physical note
+    Status: superseded
+
+  [23:43:40] CLAIM: professional
+    Amount: USD 1359.90
+
+
+📅 2023-01-18
+
+  [08:54:40] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 08:54:40 - 09:13:43
+
+  [08:54:40] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [08:54:40] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-01-18
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Erline657 Naoma512 is a 47 year-old nonhispanic white female.
+      # Social History
+
+  [08:54:40] DOCUMENT: History and physical note
+    Status: superseded
+
+  [09:13:43] CLAIM: professional
+    Amount: USD 512.63
+
+
+📅 2023-01-19
+
+  [11:51:43] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 11:51:43 - 12:08:25
+
+  [11:51:43] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [11:51:43] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-01-19
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Erline657 Naoma512 is a 47 year-old nonhispanic white female.
+      # Social History
+
+  [11:51:43] DOCUMENT: History and physical note
+    Status: superseded
+
+  [12:08:25] CLAIM: professional
+    Amount: USD 512.63
+
+
+📅 2023-01-20
+
+  [13:29:25] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 13:29:25 - 13:56:12
+
+  [13:29:25] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [13:29:25] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-01-20
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Erline657 Naoma512 is a 47 year-old nonhispanic white female.
+      # Social History
+
+  [13:29:25] DOCUMENT: History and physical note
+    Status: superseded
+
+  [13:56:12] CLAIM: professional
+    Amount: USD 1359.90
+
+
+📅 2023-01-21
+
+  [19:45:12] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 19:45:12 - 20:12:27
+
+  [19:45:12] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [19:45:12] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-01-21
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Erline657 Naoma512 is a 47 year-old nonhispanic white female.
+      # Social History
+
+  [19:45:12] DOCUMENT: History and physical note
+    Status: superseded
+
+  [20:12:27] CLAIM: professional
+    Amount: USD 859.62
+
+
+📅 2023-01-23
+
+  [06:35:27] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 06:35:27 - 07:03:02
+
+  [06:35:27] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [06:35:27] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-01-23
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Erline657 Naoma512 is a 47 year-old nonhispanic white female.
+      # Social History
+
+  [06:35:27] DOCUMENT: History and physical note
+    Status: superseded
+
+  [07:03:02] CLAIM: professional
+    Amount: USD 512.63
+
+
+📅 2023-01-24
+
+  [13:16:02] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 13:16:02 - 13:44:40
+
+  [13:16:02] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [13:16:02] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-01-24
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Erline657 Naoma512 is a 47 year-old nonhispanic white female.
+      # Social History
+
+  [13:16:02] DOCUMENT: History and physical note
+    Status: superseded
+
+  [13:44:40] CLAIM: professional
+    Amount: USD 512.63
+
+
+📅 2023-01-25
+
+  [23:46:40] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 23:46:40 - 00:08:22
+
+  [23:46:40] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [23:46:40] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-01-25
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Erline657 Naoma512 is a 47 year-old nonhispanic white female.
+      # Social History
+
+  [23:46:40] DOCUMENT: History and physical note
+    Status: superseded
+
+
+📅 2023-01-26
+
+  [00:08:22] CLAIM: professional
+    Amount: USD 709.07
+
+
+📅 2023-01-27
+
+  [04:58:22] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 04:58:22 - 05:36:56
+
+  [04:58:22] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [04:58:22] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-01-27
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Erline657 Naoma512 is a 47 year-old nonhispanic white female.
+      # Social History
+
+  [04:58:22] DOCUMENT: History and physical note
+    Status: superseded
+
+  [05:36:56] CLAIM: professional
+    Amount: USD 1067.83
+
+
+📅 2023-01-28
+
+  [05:41:56] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 05:41:56 - 06:10:56
+
+  [05:41:56] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [05:41:56] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-01-28
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Erline657 Naoma512 is a 47 year-old nonhispanic white female.
+      # Social History
+
+  [05:41:56] DOCUMENT: History and physical note
+    Status: superseded
+
+  [06:10:56] CLAIM: professional
+    Amount: USD 1359.90
+
+
+📅 2023-01-29
+
+  [09:08:56] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 09:08:56 - 09:35:15
+
+  [09:08:56] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [09:08:56] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-01-29
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Erline657 Naoma512 is a 47 year-old nonhispanic white female.
+      # Social History
+
+  [09:08:56] DOCUMENT: History and physical note
+    Status: superseded
+
+  [09:35:15] CLAIM: professional
+    Amount: USD 512.63
+
+
+📅 2023-01-30
+
+  [16:04:15] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 16:04:15 - 16:20:42
+
+  [16:04:15] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [16:04:15] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-01-30
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Erline657 Naoma512 is a 47 year-old nonhispanic white female.
+      # Social History
+
+  [16:04:15] DOCUMENT: History and physical note
+    Status: superseded
+
+  [16:20:42] CLAIM: professional
+    Amount: USD 512.63
+
+
+📅 2023-01-31
+
+  [20:24:42] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 20:24:42 - 20:46:25
+
+  [20:24:42] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [20:24:42] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-01-31
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Erline657 Naoma512 is a 47 year-old nonhispanic white female.
+      # Social History
+
+  [20:24:42] DOCUMENT: History and physical note
+    Status: superseded
+
+  [20:46:25] CLAIM: professional
+    Amount: USD 1359.90
+
+
+📅 2023-02-01
+
+  [22:57:25] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 22:57:25 - 23:21:42
+
+  [22:57:25] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [22:57:25] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-02-01
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Erline657 Naoma512 is a 47 year-old nonhispanic white female.
+      # Social History
+
+  [22:57:25] DOCUMENT: History and physical note
+    Status: superseded
+
+  [23:21:42] CLAIM: professional
+    Amount: USD 1359.90
+
+
+📅 2023-02-03
+
+  [05:25:42] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 05:25:42 - 05:48:46
+
+  [05:25:42] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [05:25:42] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-02-03
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Erline657 Naoma512 is a 47 year-old nonhispanic white female.
+      # Social History
+
+  [05:25:42] DOCUMENT: History and physical note
+    Status: superseded
+
+  [05:48:46] CLAIM: professional
+    Amount: USD 532.15
+
+
+📅 2023-02-04
+
+  [14:27:46] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 14:27:46 - 14:54:21
+
+  [14:27:46] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [14:27:46] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-02-04
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Erline657 Naoma512 is a 47 year-old nonhispanic white female.
+      # Social History
+
+  [14:27:46] DOCUMENT: History and physical note
+    Status: superseded
+
+  [14:54:21] CLAIM: professional
+    Amount: USD 579.54
+
+
+📅 2023-02-05
+
+  [21:38:21] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 21:38:21 - 21:55:27
+
+  [21:38:21] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [21:38:21] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-02-05
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Erline657 Naoma512 is a 47 year-old nonhispanic white female.
+      # Social History
+
+  [21:38:21] DOCUMENT: History and physical note
+    Status: superseded
+
+  [21:55:27] CLAIM: professional
+    Amount: USD 512.63
+
+
+📅 2023-02-07
+
+  [02:54:27] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 02:54:27 - 03:10:08
+
+  [02:54:27] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [02:54:27] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-02-07
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Erline657 Naoma512 is a 47 year-old nonhispanic white female.
+      # Social History
+
+  [02:54:27] DOCUMENT: History and physical note
+    Status: superseded
+
+  [03:10:08] CLAIM: professional
+    Amount: USD 1075.96
+
+
+📅 2023-02-08
+
+  [12:09:08] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 12:09:08 - 12:28:48
+
+  [12:09:08] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [12:09:08] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-02-08
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Erline657 Naoma512 is a 47 year-old nonhispanic white female.
+      # Social History
+
+  [12:09:08] DOCUMENT: History and physical note
+    Status: superseded
+
+  [12:28:48] CLAIM: professional
+    Amount: USD 872.62
+
+
+📅 2023-02-09
+
+  [17:30:48] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 17:30:48 - 18:00:10
+
+  [17:30:48] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [17:30:48] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-02-09
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Erline657 Naoma512 is a 47 year-old nonhispanic white female.
+      # Social History
+
+  [17:30:48] DOCUMENT: History and physical note
+    Status: superseded
+
+  [18:00:10] CLAIM: professional
+    Amount: USD 1359.90
+
+
+📅 2023-02-10
+
+  [20:47:10] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 20:47:10 - 21:12:22
+
+  [20:47:10] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [20:47:10] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-02-10
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Erline657 Naoma512 is a 47 year-old nonhispanic white female.
+      # Social History
+
+  [20:47:10] DOCUMENT: History and physical note
+    Status: superseded
+
+  [21:12:22] CLAIM: professional
+    Amount: USD 794.43
+
+
+📅 2023-02-12
+
+  [00:15:22] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 00:15:22 - 00:31:15
+
+  [00:15:22] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [00:15:22] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-02-12
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Erline657 Naoma512 is a 47 year-old nonhispanic white female.
+      # Social History
+
+  [00:15:22] DOCUMENT: History and physical note
+    Status: superseded
+
+  [00:31:15] CLAIM: professional
+    Amount: USD 661.81
+
+
+📅 2023-02-13
+
+  [03:57:15] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 03:57:15 - 04:31:27
+
+  [03:57:15] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [03:57:15] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-02-13
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Erline657 Naoma512 is a 47 year-old nonhispanic white female.
+      # Social History
+
+  [03:57:15] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:31:27] CLAIM: professional
+    Amount: USD 512.63
+
+
+📅 2023-02-14
+
+  [13:28:27] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 13:28:27 - 14:02:54
+
+  [13:28:27] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [13:28:27] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-02-14
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Erline657 Naoma512 is a 47 year-old nonhispanic white female.
+      # Social History
+
+  [13:28:27] DOCUMENT: History and physical note
+    Status: superseded
+
+  [14:02:54] CLAIM: professional
+    Amount: USD 572.14
+
+
+📅 2023-02-16
+
+  [01:56:54] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 01:56:54 - 02:23:26
+
+  [01:56:54] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [01:56:54] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-02-16
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Erline657 Naoma512 is a 47 year-old nonhispanic white female.
+      # Social History
+
+  [01:56:54] DOCUMENT: History and physical note
+    Status: superseded
+
+  [02:23:26] CLAIM: professional
+    Amount: USD 512.63
+
+
+📅 2023-02-17
+
+  [07:50:26] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 07:50:26 - 08:14:17
+
+  [07:50:26] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [07:50:26] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-02-17
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Erline657 Naoma512 is a 47 year-old nonhispanic white female.
+      # Social History
+
+  [07:50:26] DOCUMENT: History and physical note
+    Status: superseded
+
+  [08:14:17] CLAIM: professional
+    Amount: USD 512.63
+
+
+📅 2023-02-18
+
+  [18:28:17] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 18:28:17 - 18:53:52
+
+  [18:28:17] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [18:28:17] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-02-18
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Erline657 Naoma512 is a 47 year-old nonhispanic white female.
+      # Social History
+
+  [18:28:17] DOCUMENT: History and physical note
+    Status: superseded
+
+  [18:53:52] CLAIM: professional
+    Amount: USD 528.27
+
+
+📅 2023-02-19
+
+  [22:12:52] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 22:12:52 - 22:35:27
+
+  [22:12:52] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [22:12:52] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-02-19
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Erline657 Naoma512 is a 47 year-old nonhispanic white female.
+      # Social History
+
+  [22:12:52] DOCUMENT: History and physical note
+    Status: superseded
+
+  [22:35:27] CLAIM: professional
+    Amount: USD 512.63
+
+
+📅 2023-02-21
+
+  [04:55:27] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 04:55:27 - 05:35:02
+
+  [04:55:27] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [04:55:27] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-02-21
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Erline657 Naoma512 is a 47 year-old nonhispanic white female.
+      # Social History
+
+  [04:55:27] DOCUMENT: History and physical note
+    Status: superseded
+
+  [05:35:02] CLAIM: professional
+    Amount: USD 512.63
+
+
+📅 2023-02-22
+
+  [16:01:02] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 16:01:02 - 16:25:40
+
+  [16:01:02] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [16:01:02] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-02-22
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Erline657 Naoma512 is a 47 year-old nonhispanic white female.
+      # Social History
+
+  [16:01:02] DOCUMENT: History and physical note
+    Status: superseded
+
+  [16:25:40] CLAIM: professional
+    Amount: USD 512.63
+
+
+📅 2023-02-23
+
+  [22:25:40] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 22:25:40 - 23:00:36
+
+  [22:25:40] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [22:25:40] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-02-23
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Erline657 Naoma512 is a 47 year-old nonhispanic white female.
+      # Social History
+
+  [22:25:40] DOCUMENT: History and physical note
+    Status: superseded
+
+  [23:00:36] CLAIM: professional
+    Amount: USD 512.63
+
+
+📅 2023-02-24
+
+  [23:06:36] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 23:06:36 - 23:25:17
+
+  [23:06:36] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [23:06:36] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-02-24
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Erline657 Naoma512 is a 47 year-old nonhispanic white female.
+      # Social History
+
+  [23:06:36] DOCUMENT: History and physical note
+    Status: superseded
+
+  [23:25:17] CLAIM: professional
+    Amount: USD 920.05
+
+
+📅 2023-02-25
+
+  [23:44:17] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 23:44:17 - 00:21:50
+
+  [23:44:17] PROCEDURE: External beam radiation therapy procedure (procedure)
+    Status: completed
+
+  [23:44:17] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-02-25
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Erline657 Naoma512 is a 47 year-old nonhispanic white female.
+      # Social History
+
+  [23:44:17] DOCUMENT: History and physical note
+    Status: superseded
+
+
+📅 2023-02-26
+
+  [00:21:50] CLAIM: professional
+    Amount: USD 1359.90
+
+
+📅 2023-03-03
+
+  [09:21:50] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 09:21:50 - 09:36:50
+
+  [09:21:50] OBSERVATION: Treatment status Cancer: Treatment changed (situation)
+
+  [09:21:50] OBSERVATION: Response to cancer treatment: Improving (qualifier value)
+
+  [09:21:50] MEDICATION PRESCRIBED: Unknown medication
+    Status: completed
+    Prescribed by: Dr. Harland508 Ryan260
+
+  [09:21:50] MEDICATION ADMINISTERED: exemestane 25 MG Oral Tablet
+    Status: completed
+    Dosage: 1.0
+
+  [09:21:50] MEDICATION PRESCRIBED: Unknown medication
+    Status: completed
+    Prescribed by: Dr. Harland508 Ryan260
+
+  [09:21:50] MEDICATION ADMINISTERED: 5 ML hyaluronidase-oysk 2000 UNT/ML / trastuzumab-oysk 120 MG/ML Injection
+    Status: completed
+
+  [09:21:50] MEDICATION PRESCRIBED: Unknown medication
+    Status: completed
+    Prescribed by: Dr. Harland508 Ryan260
+
+  [09:21:50] MEDICATION ADMINISTERED: abemaciclib 100 MG Oral Tablet [Verzenio]
+    Status: completed
+
+  [09:21:50] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-03-03
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Erline657 Naoma512 is a 47 year-old nonhispanic white female.
+      # Social History
+
+  [09:21:50] DOCUMENT: History and physical note
+    Status: superseded
+
+  [09:36:50] CLAIM: pharmacy
+    Amount: USD 13306.72
+
+  [09:36:50] CLAIM: pharmacy
+    Amount: USD 498.43
+
+  [09:36:50] CLAIM: pharmacy
+    Amount: USD 117.93
+
+  [09:36:50] CLAIM: professional
+    Amount: USD 85.55
+
+
+📅 2023-06-19
+
+  [10:21:50] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 10:21:50 - 11:06:49
+
+  [10:21:50] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [10:21:50] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-06-19
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Erline657 Naoma512 is a 47 year-old nonhispanic white female.
+      # Social History
+
+  [10:21:50] DOCUMENT: History and physical note
+    Status: superseded
+
+  [11:06:49] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2023-10-15
+
+  [11:06:49] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 11:06:49 - 11:40:32
+
+  [11:06:49] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [11:06:49] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-10-15
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Erline657 Naoma512 is a 47 year-old nonhispanic white female.
+      # Social History
+
+  [11:06:49] DOCUMENT: History and physical note
+    Status: superseded
+
+  [11:40:32] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2024-01-29
+
+  [10:40:32] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 10:40:32 - 11:20:46
+
+  [10:40:32] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [10:40:32] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-01-29
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Erline657 Naoma512 is a 48 year-old nonhispanic white female.
+      # Social History
+
+  [10:40:32] DOCUMENT: History and physical note
+    Status: superseded
+
+  [11:20:46] CLAIM: professional
+    Amount: USD 573.98
+
+  [11:20:46] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 11:20:46 - 11:43:37
+
+  [11:20:46] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [11:20:46] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-01-29
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Erline657 Naoma512 is a 48 year-old nonhispanic white female.
+      # Social History
+
+  [11:20:46] DOCUMENT: History and physical note
+    Status: superseded
+
+  [11:43:37] CLAIM: professional
+    Amount: USD 211.60
+
+  [11:43:37] VISIT: Follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 11:43:37 - 12:11:34
+
+  [11:43:37] PROCEDURE: Bone density scan (procedure)
+    Status: completed
+
+  [11:43:37] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-01-29
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Erline657 Naoma512 is a 48 year-old nonhispanic white female.
+      # Social History
+
+  [11:43:37] DOCUMENT: History and physical note
+    Status: superseded
+
+  [12:11:34] OBSERVATION: Response to cancer treatment: Improving (qualifier value)
+
+  [12:11:34] CLAIM: professional
+    Amount: USD 4181.24
+
+
+📅 2024-02-06
+
+  [16:43:19] VISIT: General examination of patient (procedure)
+    Provider: Dr. Dusti191 Howe413
+    Location: COMMUNITY HEALTH CENTER OF CAPE COD, INC.
+    Duration: 16:43:19 - 16:58:19
+
+  [16:43:19] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [16:43:19] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-02-06
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Erline657 Naoma512 is a 48 year-old nonhispanic white female.
+      # Social History
+
+  [16:43:19] DOCUMENT: History and physical note
+    Status: superseded
+
+  [16:58:19] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2024-05-23
+
+  [13:11:34] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 13:11:34 - 13:43:55
+
+  [13:11:34] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [13:11:34] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-05-23
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Erline657 Naoma512 is a 48 year-old nonhispanic white female.
+      # Social History
+
+  [13:11:34] DOCUMENT: History and physical note
+    Status: superseded
+
+  [13:43:55] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2024-08-31
+
+  [13:43:55] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Harland508 Ryan260
+    Location: Patient's Home
+    Duration: 13:43:55 - 14:14:00
+
+  [13:43:55] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [13:43:55] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-08-31
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Erline657 Naoma512 is a 48 year-old nonhispanic white female.
+      # Social History
+
+  [13:43:55] DOCUMENT: History and physical note
+    Status: superseded
+
+  [14:14:00] CLAIM: institutional
+    Amount: USD 556.40
+
+
+📅 2024-12-11
+
+  [13:14:00] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 13:14:00 - 13:53:27
+
+  [13:14:00] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [13:14:00] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-12-11
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Erline657 Naoma512 is a 48 year-old nonhispanic white female.
+      # Social History
+
+  [13:14:00] DOCUMENT: History and physical note
+    Status: superseded
+
+  [13:53:27] CLAIM: professional
+    Amount: USD 573.98
+
+  [13:53:27] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 13:53:27 - 14:15:00
+
+  [13:53:27] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [13:53:27] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-12-11
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Erline657 Naoma512 is a 48 year-old nonhispanic white female.
+      # Social History
+
+  [13:53:27] DOCUMENT: History and physical note
+    Status: superseded
+
+  [14:15:00] CLAIM: professional
+    Amount: USD 305.69
+
+  [14:15:00] VISIT: Follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 14:15:00 - 14:30:00
+
+  [14:15:00] PROCEDURE: Bone density scan (procedure)
+    Status: completed
+
+  [14:15:00] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-12-11
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Erline657 Naoma512 is a 48 year-old nonhispanic white female.
+      # Social History
+
+  [14:15:00] DOCUMENT: History and physical note
+    Status: superseded
+
+  [14:25:55] OBSERVATION: Response to cancer treatment: Improving (qualifier value)
+
+  [14:30:00] CLAIM: professional
+    Amount: USD 6348.45
+
+
+📅 2025-04-13
+
+  [15:25:55] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Harland508 Ryan260
+    Location: Patient's Home
+    Duration: 15:25:55 - 16:10:09
+
+  [15:25:55] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [15:25:55] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-04-13
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Erline657 Naoma512 is a 49 year-old nonhispanic white female.
+      # Social History
+
+  [15:25:55] DOCUMENT: History and physical note
+    Status: superseded
+
+  [16:10:09] CLAIM: institutional
+    Amount: USD 556.40
+
+
+📅 2025-07-22
+
+  [16:10:09] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Harland508 Ryan260
+    Location: Patient's Home
+    Duration: 16:10:09 - 16:52:03
+
+  [16:10:09] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [16:10:09] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-07-22
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Erline657 Naoma512 is a 49 year-old nonhispanic white female.
+      # Social History
+
+  [16:10:09] DOCUMENT: History and physical note
+    Status: superseded
+
+  [16:52:03] CLAIM: institutional
+    Amount: USD 556.40
+
+
+📅 2025-11-22
+
+  [15:52:03] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 15:52:03 - 16:22:32
+
+  [15:52:03] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [15:52:03] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-11-22
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Erline657 Naoma512 is a 49 year-old nonhispanic white female.
+      # Social History
+
+  [15:52:03] DOCUMENT: History and physical note
+    Status: superseded
+
+  [16:22:32] CLAIM: professional
+    Amount: USD 573.98
+
+  [16:22:32] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 16:22:32 - 16:44:28
+
+  [16:22:32] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [16:22:32] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-11-22
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Erline657 Naoma512 is a 49 year-old nonhispanic white female.
+      # Social History
+
+  [16:22:32] DOCUMENT: History and physical note
+    Status: superseded
+
+  [16:44:28] CLAIM: professional
+    Amount: USD 325.49
+
+  [16:44:28] VISIT: Follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Harland508 Ryan260
+    Location: SOUTHCOAST HOSPITAL GROUP, INC
+    Duration: 16:44:28 - 17:09:16
+
+  [16:44:28] PROCEDURE: Bone density scan (procedure)
+    Status: completed
+
+  [16:44:28] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-11-22
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Erline657 Naoma512 is a 49 year-old nonhispanic white female.
+      # Social History
+
+  [16:44:28] DOCUMENT: History and physical note
+    Status: superseded
+
+  [17:09:16] OBSERVATION: Response to cancer treatment: Improving (qualifier value)
+
+  [17:09:16] CLAIM: professional
+    Amount: USD 16468.32
+
+
+📅 2026-01-13
+
+  [16:43:19] VISIT: General examination of patient (procedure)
+    Provider: Dr. Dusti191 Howe413
+    Location: COMMUNITY HEALTH CENTER OF CAPE COD, INC.
+    Duration: 16:43:19 - 16:58:19
+
+  [16:43:19] IMMUNIZATION: zoster vaccine, live
+    Status: completed
+
+  [16:43:19] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [16:43:19] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2026-01-13
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Erline657 Naoma512 is a 50 year-old nonhispanic white female.
+      # Social History
+
+  [16:43:19] DOCUMENT: History and physical note
+    Status: current
+
+  [16:58:19] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2026-02-10
+
+  [16:43:19] PROVENANCE: Record activity
+    Agents: Dr. Dusti191 Howe413, Dr. Dusti191 Howe413
+
+================================================================================
+END OF TIMELINE (335 events)
+================================================================================

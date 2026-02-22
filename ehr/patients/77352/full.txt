@@ -1,0 +1,191 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Mrs. Karyn217 Hilpert278
+  Patient ID: 77352
+  Date of Birth: 1981-06-27
+  Gender: Female
+  Race: White
+  Ethnicity: Not Hispanic or Latino
+  Marital Status: Married
+  Address: 116 Hayes Mill Unit 11, Shrewsbury, MA 00000
+  Phone: 555-219-6582
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2018-09-15
+
+  [08:20:12] VISIT: General examination of patient (procedure)
+    Provider: Dr. Lorenzo669 Muro989
+    Location: EDWARD M KENNEDY COMMUNITY HEALTH CENTER INC
+    Duration: 08:20:12 - 08:35:12
+
+  [08:20:12] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [08:20:12] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-09-15
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Karyn217 is a 37 year-old nonhispanic white female.
+      # Social History
+
+  [08:20:12] DOCUMENT: History and physical note
+    Status: superseded
+
+  [08:35:12] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2021-03-20
+
+  [08:20:12] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Federico589 Kuhic920
+    Location: UNIVERSITY OF MA MED CTR-ESRD
+    Duration: 08:20:12 - 08:35:12
+
+  [08:20:12] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+    Status: completed
+
+  [08:20:12] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-03-20
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Karyn217 is a 39 year-old nonhispanic white female.
+      # Social History
+
+  [08:20:12] DOCUMENT: History and physical note
+    Status: superseded
+
+  [08:35:12] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-04-17
+
+  [08:20:12] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Federico589 Kuhic920
+    Location: UNIVERSITY OF MA MED CTR-ESRD
+    Duration: 08:20:12 - 08:35:12
+
+  [08:20:12] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+    Status: completed
+
+  [08:20:12] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-04-17
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Karyn217 is a 39 year-old nonhispanic white female.
+      # Social History
+
+  [08:20:12] DOCUMENT: History and physical note
+    Status: superseded
+
+  [08:35:12] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-07-03
+
+  [08:20:12] VISIT: General examination of patient (procedure)
+    Provider: Dr. Lorenzo669 Muro989
+    Location: EDWARD M KENNEDY COMMUNITY HEALTH CENTER INC
+    Duration: 08:20:12 - 08:35:12
+
+  [08:20:12] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [08:20:12] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [08:20:12] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-07-03
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Karyn217 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [08:20:12] DOCUMENT: History and physical note
+    Status: superseded
+
+  [08:35:12] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2023-07-08
+
+  [08:20:12] VISIT: General examination of patient (procedure)
+    Provider: Dr. Lorenzo669 Muro989
+    Location: EDWARD M KENNEDY COMMUNITY HEALTH CENTER INC
+    Duration: 08:20:12 - 08:35:12
+
+  [08:20:12] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [08:20:12] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [08:20:12] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [08:20:12] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-07-08
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Karyn217 is a 42 year-old nonhispanic white female.
+      # Social History
+
+  [08:20:12] DOCUMENT: History and physical note
+    Status: superseded
+
+  [08:35:12] CLAIM: professional
+    Amount: USD 544.80
+
+
+📅 2025-07-12
+
+  [08:20:12] VISIT: General examination of patient (procedure)
+    Provider: Dr. Lorenzo669 Muro989
+    Location: EDWARD M KENNEDY COMMUNITY HEALTH CENTER INC
+    Duration: 08:20:12 - 08:35:12
+
+  [08:20:12] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [08:20:12] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-07-12
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Karyn217 is a 44 year-old nonhispanic white female.
+      # Social History
+
+  [08:20:12] DOCUMENT: History and physical note
+    Status: current
+
+  [08:35:12] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2026-02-14
+
+  [07:20:12] PROVENANCE: Record activity
+    Agents: Dr. Lorenzo669 Muro989, Dr. Lorenzo669 Muro989
+
+================================================================================
+END OF TIMELINE (34 events)
+================================================================================

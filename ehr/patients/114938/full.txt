@@ -1,0 +1,1826 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Mrs. Minta575 Florence828 King743
+  Patient ID: 114938
+  Date of Birth: 1965-11-03
+  Gender: Female
+  Race: White
+  Ethnicity: Not Hispanic or Latino
+  Marital Status: Married
+  Address: 1025 Rau Knoll, Malden, MA 02148
+  Phone: 555-641-3848
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2000-01-19
+
+  [08:39:19] VISIT: General examination of patient (procedure)
+    Provider: Dr. Elmer371 Gusikowski974
+    Location: WHITLEY WELLNESS LLC
+    Duration: 08:39:19 - 08:54:19
+
+  [08:39:19] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [08:39:19] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2000-01-19
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Minta575 Florence828 is a 34 year-old nonhispanic white female.
+      # Social History
+
+  [08:39:19] DOCUMENT: History and physical note
+    Status: superseded
+
+  [08:54:19] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2003-01-22
+
+  [08:39:19] VISIT: General examination of patient (procedure)
+    Provider: Dr. Elmer371 Gusikowski974
+    Location: WHITLEY WELLNESS LLC
+    Duration: 08:39:19 - 08:54:19
+
+  [08:39:19] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [08:39:19] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2003-01-22
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Minta575 Florence828 is a 37 year-old nonhispanic white female.
+      # Social History
+
+  [08:39:19] DOCUMENT: History and physical note
+    Status: superseded
+
+  [08:54:19] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2005-07-27
+
+  [09:39:19] VISIT: Periodic reevaluation and management of healthy individual (procedure)
+    Reason: Screening for malignant neoplasm of breast (procedure)
+    Provider: Dr. Sharilyn202 Wolff180
+    Location: THE SHRINERS HOSPITAL FOR CHILDREN
+    Duration: 09:39:19 - 20:41:02
+
+  [09:39:19] PROCEDURE: Screening mammography (procedure)
+    Status: completed
+
+  [09:39:19] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2005-07-27
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Minta575 Florence828 is a 39 year-old nonhispanic white female.
+      # Social History
+
+  [09:39:19] DOCUMENT: History and physical note
+    Status: superseded
+
+  [10:01:56] PROCEDURE: Ultrasonography of bilateral breasts (procedure)
+    Status: completed
+
+  [10:30:51] PROCEDURE: Biopsy of breast (procedure)
+    Status: completed
+
+  [11:03:02] CONDITION: Malignant neoplasm of breast (disorder) (active)
+
+  [11:03:02] OBSERVATION: Distant metastases.clinical [Class] Cancer: American Joint Committee on Cancer cM1 (qualifier value)
+
+  [11:03:02] OBSERVATION: Size.maximum dimension in Tumor: 4.7139 cm
+
+  [11:03:02] OBSERVATION: Primary tumor.clinical [Class] Cancer: American Joint Committee on Cancer cT4 (qualifier value)
+
+  [11:03:02] OBSERVATION: Lymph nodes with macrometastases [#] in Cancer specimen by Light microscopy: 6.223 {#}
+
+  [11:03:02] OBSERVATION: Regional lymph nodes.clinical [Class] Cancer: American Joint Committee on Cancer cN2 (qualifier value)
+
+  [11:03:02] PROCEDURE: Human epidermal growth factor receptor 2 gene detection by fluorescence in situ hybridization (procedure)
+    Status: completed
+
+
+📅 2005-07-28
+
+  [18:03:02] PROCEDURE: Human epidermal growth factor receptor 2 gene detection by immunohistochemistry (procedure)
+    Status: completed
+
+  [20:41:02] OBSERVATION: HER2 [Presence] in Breast cancer specimen by Immune stain: Negative (qualifier value)
+
+  [20:41:02] OBSERVATION: ERBB2 gene duplication [Presence] in Breast cancer specimen by FISH: less than 1.8
+
+  [20:41:02] OBSERVATION: Estrogen receptor Ag [Presence] in Breast cancer specimen by Immune stain: Positive (qualifier value)
+
+  [20:41:02] OBSERVATION: Progesterone receptor Ag [Presence] in Breast cancer specimen by Immune stain: Positive (qualifier value)
+
+  [20:41:02] OBSERVATION: Estrogen+Progesterone receptor Ag [Presence] in Tissue by Immune stain: Positive (qualifier value)
+
+  [20:41:02] OBSERVATION: Stage group.clinical Cancer: Stage 4 (qualifier value)
+
+  [20:41:02] CLAIM: professional
+    Amount: USD 5110.26
+
+
+📅 2005-07-30
+
+  [20:41:02] VISIT: Discussion about treatment (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Sharilyn202 Wolff180
+    Location: THE SHRINERS HOSPITAL FOR CHILDREN
+    Duration: 20:41:02 - 21:28:20
+
+  [20:41:02] PROCEDURE: Discussion about options (procedure)
+    Status: completed
+
+  [20:41:02] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2005-07-30
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Minta575 Florence828 is a 39 year-old nonhispanic white female.
+      # Social History
+
+  [20:41:02] DOCUMENT: History and physical note
+    Status: superseded
+
+  [21:28:20] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2005-08-02
+
+  [14:28:20] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Sharilyn202 Wolff180
+    Location: THE SHRINERS HOSPITAL FOR CHILDREN
+    Duration: 14:28:20 - 15:00:20
+
+  [14:28:20] PROCEDURE: Chemotherapy (procedure)
+    Status: completed
+
+  [14:28:20] MEDICATION PRESCRIBED: Unknown medication
+    Status: completed
+    Prescribed by: Dr. Sharilyn202 Wolff180
+
+  [14:28:20] MEDICATION ADMINISTERED: 10 ML Doxorubicin Hydrochloride 2 MG/ML Injection
+    Status: completed
+
+  [14:28:20] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2005-08-02
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Minta575 Florence828 is a 39 year-old nonhispanic white female.
+      # Social History
+
+  [14:28:20] DOCUMENT: History and physical note
+    Status: superseded
+
+  [15:00:20] CLAIM: pharmacy
+    Amount: USD 1.53
+
+  [15:00:20] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2005-08-23
+
+  [00:00:20] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Sharilyn202 Wolff180
+    Location: THE SHRINERS HOSPITAL FOR CHILDREN
+    Duration: 00:00:20 - 01:47:55
+
+  [00:00:20] PROCEDURE: Chemotherapy (procedure)
+    Status: completed
+
+  [00:00:20] MEDICATION PRESCRIBED: Unknown medication
+    Status: completed
+    Prescribed by: Dr. Sharilyn202 Wolff180
+
+  [00:00:20] MEDICATION ADMINISTERED: 10 ML Doxorubicin Hydrochloride 2 MG/ML Injection
+    Status: completed
+
+  [00:00:20] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2005-08-23
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Minta575 Florence828 is a 39 year-old nonhispanic white female.
+      # Social History
+
+  [00:00:20] DOCUMENT: History and physical note
+    Status: superseded
+
+  [01:47:55] CLAIM: pharmacy
+    Amount: USD 1.59
+
+  [01:47:55] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2005-09-14
+
+  [01:47:55] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Sharilyn202 Wolff180
+    Location: THE SHRINERS HOSPITAL FOR CHILDREN
+    Duration: 01:47:55 - 04:52:15
+
+  [01:47:55] PROCEDURE: Chemotherapy (procedure)
+    Status: completed
+
+  [01:47:55] MEDICATION PRESCRIBED: Unknown medication
+    Status: completed
+    Prescribed by: Dr. Sharilyn202 Wolff180
+
+  [01:47:55] MEDICATION ADMINISTERED: 10 ML Doxorubicin Hydrochloride 2 MG/ML Injection
+    Status: completed
+
+  [01:47:55] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2005-09-14
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Minta575 Florence828 is a 39 year-old nonhispanic white female.
+      # Social History
+
+  [01:47:55] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:52:15] CLAIM: pharmacy
+    Amount: USD 1.34
+
+  [04:52:15] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2005-10-03
+
+  [10:52:15] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Sharilyn202 Wolff180
+    Location: THE SHRINERS HOSPITAL FOR CHILDREN
+    Duration: 10:52:15 - 14:44:41
+
+  [10:52:15] PROCEDURE: Chemotherapy (procedure)
+    Status: completed
+
+  [10:52:15] MEDICATION PRESCRIBED: Unknown medication
+    Status: completed
+    Prescribed by: Dr. Sharilyn202 Wolff180
+
+  [10:52:15] MEDICATION ADMINISTERED: 10 ML Doxorubicin Hydrochloride 2 MG/ML Injection
+    Status: completed
+
+  [10:52:15] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2005-10-03
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Minta575 Florence828 is a 39 year-old nonhispanic white female.
+      # Social History
+
+  [10:52:15] DOCUMENT: History and physical note
+    Status: superseded
+
+  [14:44:41] CLAIM: pharmacy
+    Amount: USD 1.34
+
+  [14:44:41] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2005-10-25
+
+  [21:44:41] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Sharilyn202 Wolff180
+    Location: THE SHRINERS HOSPITAL FOR CHILDREN
+    Duration: 21:44:41 - 22:30:22
+
+  [21:44:41] PROCEDURE: Chemotherapy (procedure)
+    Status: completed
+
+  [21:44:41] MEDICATION PRESCRIBED: Unknown medication
+    Status: completed
+    Prescribed by: Dr. Sharilyn202 Wolff180
+
+  [21:44:41] MEDICATION ADMINISTERED: 10 ML Doxorubicin Hydrochloride 2 MG/ML Injection
+    Status: completed
+
+  [21:44:41] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2005-10-25
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Minta575 Florence828 is a 39 year-old nonhispanic white female.
+      # Social History
+
+  [21:44:41] DOCUMENT: History and physical note
+    Status: superseded
+
+  [22:30:22] CLAIM: pharmacy
+    Amount: USD 1.34
+
+  [22:30:22] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2005-11-09
+
+  [08:39:19] VISIT: General examination of patient (procedure)
+    Provider: Dr. Elmer371 Gusikowski974
+    Location: WHITLEY WELLNESS LLC
+    Duration: 08:39:19 - 08:54:19
+
+  [08:39:19] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [08:39:19] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [08:39:19] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2005-11-09
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Minta575 Florence828 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [08:39:19] DOCUMENT: History and physical note
+    Status: superseded
+
+  [08:54:19] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2005-11-14
+
+  [17:30:22] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Sharilyn202 Wolff180
+    Location: THE SHRINERS HOSPITAL FOR CHILDREN
+    Duration: 17:30:22 - 19:00:19
+
+  [17:30:22] PROCEDURE: Chemotherapy (procedure)
+    Status: completed
+
+  [17:30:22] MEDICATION PRESCRIBED: Unknown medication
+    Status: completed
+    Prescribed by: Dr. Sharilyn202 Wolff180
+
+  [17:30:22] MEDICATION ADMINISTERED: 10 ML Doxorubicin Hydrochloride 2 MG/ML Injection
+    Status: completed
+
+  [17:30:22] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2005-11-14
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Minta575 Florence828 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [17:30:22] DOCUMENT: History and physical note
+    Status: superseded
+
+  [19:00:19] CLAIM: pharmacy
+    Amount: USD 1.34
+
+  [19:00:19] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2005-12-04
+
+  [11:00:19] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Sharilyn202 Wolff180
+    Location: THE SHRINERS HOSPITAL FOR CHILDREN
+    Duration: 11:00:19 - 14:05:45
+
+  [11:00:19] PROCEDURE: Chemotherapy (procedure)
+    Status: completed
+
+  [11:00:19] MEDICATION PRESCRIBED: Unknown medication
+    Status: completed
+    Prescribed by: Dr. Sharilyn202 Wolff180
+
+  [11:00:19] MEDICATION ADMINISTERED: 10 ML Doxorubicin Hydrochloride 2 MG/ML Injection
+    Status: completed
+
+  [11:00:19] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2005-12-04
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Minta575 Florence828 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [11:00:19] DOCUMENT: History and physical note
+    Status: superseded
+
+  [14:05:45] CLAIM: pharmacy
+    Amount: USD 1.34
+
+  [14:05:45] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2005-12-25
+
+  [04:05:45] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Sharilyn202 Wolff180
+    Location: THE SHRINERS HOSPITAL FOR CHILDREN
+    Duration: 04:05:45 - 07:26:50
+
+  [04:05:45] PROCEDURE: Chemotherapy (procedure)
+    Status: completed
+
+  [04:05:45] MEDICATION PRESCRIBED: Unknown medication
+    Status: completed
+    Prescribed by: Dr. Sharilyn202 Wolff180
+
+  [04:05:45] MEDICATION ADMINISTERED: 10 ML Doxorubicin Hydrochloride 2 MG/ML Injection
+    Status: completed
+
+  [04:05:45] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2005-12-25
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Minta575 Florence828 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [04:05:45] DOCUMENT: History and physical note
+    Status: superseded
+
+  [07:26:50] CLAIM: pharmacy
+    Amount: USD 1.34
+
+  [07:26:50] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2006-01-21
+
+  [07:26:50] OBSERVATION: Response to cancer treatment: Improving (qualifier value)
+
+  [07:26:50] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Sharilyn202 Wolff180
+    Location: THE SHRINERS HOSPITAL FOR CHILDREN
+    Duration: 07:26:50 - 13:02:50
+
+  [07:26:50] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2006-01-21
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Minta575 Florence828 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [07:26:50] DOCUMENT: History and physical note
+    Status: superseded
+
+  [09:34:50] PROCEDURE: Sentinel lymph node biopsy (procedure)
+    Status: completed
+
+  [10:22:33] PROCEDURE: Excision of sentinel lymph node (procedure)
+    Status: completed
+
+  [12:33:44] PROCEDURE: Lumpectomy of breast (procedure)
+    Status: completed
+
+
+📅 2006-01-27
+
+  [13:02:50] CLAIM: institutional
+    Amount: USD 51490.18
+
+
+📅 2006-02-09
+
+  [07:02:50] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Sharilyn202 Wolff180
+    Location: THE SHRINERS HOSPITAL FOR CHILDREN
+    Duration: 07:02:50 - 07:37:33
+
+  [07:02:50] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [07:02:50] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2006-02-09
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Minta575 Florence828 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [07:02:50] DOCUMENT: History and physical note
+    Status: superseded
+
+  [07:37:33] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2006-02-10
+
+  [15:02:33] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Sharilyn202 Wolff180
+    Location: THE SHRINERS HOSPITAL FOR CHILDREN
+    Duration: 15:02:33 - 15:32:39
+
+  [15:02:33] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [15:02:33] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2006-02-10
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Minta575 Florence828 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [15:02:33] DOCUMENT: History and physical note
+    Status: superseded
+
+  [15:32:39] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2006-02-11
+
+  [22:28:39] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Sharilyn202 Wolff180
+    Location: THE SHRINERS HOSPITAL FOR CHILDREN
+    Duration: 22:28:39 - 23:04:32
+
+  [22:28:39] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [22:28:39] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2006-02-11
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Minta575 Florence828 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [22:28:39] DOCUMENT: History and physical note
+    Status: superseded
+
+  [23:04:32] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2006-02-13
+
+  [06:25:32] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Sharilyn202 Wolff180
+    Location: THE SHRINERS HOSPITAL FOR CHILDREN
+    Duration: 06:25:32 - 07:00:50
+
+  [06:25:32] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [06:25:32] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2006-02-13
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Minta575 Florence828 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [06:25:32] DOCUMENT: History and physical note
+    Status: superseded
+
+  [07:00:50] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2006-02-14
+
+  [09:09:50] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Sharilyn202 Wolff180
+    Location: THE SHRINERS HOSPITAL FOR CHILDREN
+    Duration: 09:09:50 - 09:35:03
+
+  [09:09:50] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [09:09:50] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2006-02-14
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Minta575 Florence828 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [09:09:50] DOCUMENT: History and physical note
+    Status: superseded
+
+  [09:35:03] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2006-02-15
+
+  [19:42:03] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Sharilyn202 Wolff180
+    Location: THE SHRINERS HOSPITAL FOR CHILDREN
+    Duration: 19:42:03 - 20:19:57
+
+  [19:42:03] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [19:42:03] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2006-02-15
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Minta575 Florence828 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [19:42:03] DOCUMENT: History and physical note
+    Status: superseded
+
+  [20:19:57] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2006-02-17
+
+  [01:25:57] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Sharilyn202 Wolff180
+    Location: THE SHRINERS HOSPITAL FOR CHILDREN
+    Duration: 01:25:57 - 01:43:23
+
+  [01:25:57] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [01:25:57] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2006-02-17
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Minta575 Florence828 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [01:25:57] DOCUMENT: History and physical note
+    Status: superseded
+
+  [01:43:23] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2006-02-18
+
+  [13:23:23] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Sharilyn202 Wolff180
+    Location: THE SHRINERS HOSPITAL FOR CHILDREN
+    Duration: 13:23:23 - 13:47:09
+
+  [13:23:23] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [13:23:23] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2006-02-18
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Minta575 Florence828 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [13:23:23] DOCUMENT: History and physical note
+    Status: superseded
+
+  [13:47:09] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2006-02-20
+
+  [01:11:09] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Sharilyn202 Wolff180
+    Location: THE SHRINERS HOSPITAL FOR CHILDREN
+    Duration: 01:11:09 - 01:39:13
+
+  [01:11:09] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [01:11:09] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2006-02-20
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Minta575 Florence828 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [01:11:09] DOCUMENT: History and physical note
+    Status: superseded
+
+  [01:39:13] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2006-02-21
+
+  [04:40:13] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Sharilyn202 Wolff180
+    Location: THE SHRINERS HOSPITAL FOR CHILDREN
+    Duration: 04:40:13 - 05:14:04
+
+  [04:40:13] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [04:40:13] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2006-02-21
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Minta575 Florence828 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [04:40:13] DOCUMENT: History and physical note
+    Status: superseded
+
+  [05:14:04] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2006-02-22
+
+  [11:16:04] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Sharilyn202 Wolff180
+    Location: THE SHRINERS HOSPITAL FOR CHILDREN
+    Duration: 11:16:04 - 11:53:22
+
+  [11:16:04] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [11:16:04] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2006-02-22
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Minta575 Florence828 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [11:16:04] DOCUMENT: History and physical note
+    Status: superseded
+
+  [11:53:22] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2006-02-23
+
+  [15:13:22] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Sharilyn202 Wolff180
+    Location: THE SHRINERS HOSPITAL FOR CHILDREN
+    Duration: 15:13:22 - 15:39:54
+
+  [15:13:22] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [15:13:22] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2006-02-23
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Minta575 Florence828 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [15:13:22] DOCUMENT: History and physical note
+    Status: superseded
+
+  [15:39:54] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2006-02-24
+
+  [21:32:54] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Sharilyn202 Wolff180
+    Location: THE SHRINERS HOSPITAL FOR CHILDREN
+    Duration: 21:32:54 - 22:03:20
+
+  [21:32:54] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [21:32:54] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2006-02-24
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Minta575 Florence828 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [21:32:54] DOCUMENT: History and physical note
+    Status: superseded
+
+  [22:03:20] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2006-02-26
+
+  [09:06:20] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Sharilyn202 Wolff180
+    Location: THE SHRINERS HOSPITAL FOR CHILDREN
+    Duration: 09:06:20 - 09:30:24
+
+  [09:06:20] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [09:06:20] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2006-02-26
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Minta575 Florence828 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [09:06:20] DOCUMENT: History and physical note
+    Status: superseded
+
+  [09:30:24] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2006-02-27
+
+  [19:46:24] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Sharilyn202 Wolff180
+    Location: THE SHRINERS HOSPITAL FOR CHILDREN
+    Duration: 19:46:24 - 20:16:57
+
+  [19:46:24] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [19:46:24] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2006-02-27
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Minta575 Florence828 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [19:46:24] DOCUMENT: History and physical note
+    Status: superseded
+
+  [20:16:57] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2006-03-01
+
+  [06:12:57] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Sharilyn202 Wolff180
+    Location: THE SHRINERS HOSPITAL FOR CHILDREN
+    Duration: 06:12:57 - 06:38:16
+
+  [06:12:57] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [06:12:57] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2006-03-01
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Minta575 Florence828 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [06:12:57] DOCUMENT: History and physical note
+    Status: superseded
+
+  [06:38:16] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2006-03-02
+
+  [09:56:16] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Sharilyn202 Wolff180
+    Location: THE SHRINERS HOSPITAL FOR CHILDREN
+    Duration: 09:56:16 - 10:34:26
+
+  [09:56:16] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [09:56:16] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2006-03-02
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Minta575 Florence828 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [09:56:16] DOCUMENT: History and physical note
+    Status: superseded
+
+  [10:34:26] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2006-03-03
+
+  [16:38:26] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Sharilyn202 Wolff180
+    Location: THE SHRINERS HOSPITAL FOR CHILDREN
+    Duration: 16:38:26 - 17:16:01
+
+  [16:38:26] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [16:38:26] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2006-03-03
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Minta575 Florence828 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [16:38:26] DOCUMENT: History and physical note
+    Status: superseded
+
+  [17:16:01] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2006-03-04
+
+  [18:25:01] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Sharilyn202 Wolff180
+    Location: THE SHRINERS HOSPITAL FOR CHILDREN
+    Duration: 18:25:01 - 18:59:24
+
+  [18:25:01] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [18:25:01] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2006-03-04
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Minta575 Florence828 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [18:25:01] DOCUMENT: History and physical note
+    Status: superseded
+
+  [18:59:24] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2006-03-06
+
+  [02:57:24] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Sharilyn202 Wolff180
+    Location: THE SHRINERS HOSPITAL FOR CHILDREN
+    Duration: 02:57:24 - 03:23:10
+
+  [02:57:24] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [02:57:24] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2006-03-06
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Minta575 Florence828 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [02:57:24] DOCUMENT: History and physical note
+    Status: superseded
+
+  [03:23:10] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2006-03-07
+
+  [10:09:10] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Sharilyn202 Wolff180
+    Location: THE SHRINERS HOSPITAL FOR CHILDREN
+    Duration: 10:09:10 - 10:47:10
+
+  [10:09:10] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [10:09:10] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2006-03-07
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Minta575 Florence828 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [10:09:10] DOCUMENT: History and physical note
+    Status: superseded
+
+  [10:47:10] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2006-03-08
+
+  [13:01:10] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Sharilyn202 Wolff180
+    Location: THE SHRINERS HOSPITAL FOR CHILDREN
+    Duration: 13:01:10 - 13:26:46
+
+  [13:01:10] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [13:01:10] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2006-03-08
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Minta575 Florence828 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [13:01:10] DOCUMENT: History and physical note
+    Status: superseded
+
+  [13:26:46] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2006-03-09
+
+  [16:05:46] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Sharilyn202 Wolff180
+    Location: THE SHRINERS HOSPITAL FOR CHILDREN
+    Duration: 16:05:46 - 16:27:40
+
+  [16:05:46] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [16:05:46] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2006-03-09
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Minta575 Florence828 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [16:05:46] DOCUMENT: History and physical note
+    Status: superseded
+
+  [16:27:40] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2006-03-10
+
+  [16:51:40] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Sharilyn202 Wolff180
+    Location: THE SHRINERS HOSPITAL FOR CHILDREN
+    Duration: 16:51:40 - 17:25:55
+
+  [16:51:40] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [16:51:40] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2006-03-10
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Minta575 Florence828 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [16:51:40] DOCUMENT: History and physical note
+    Status: superseded
+
+  [17:25:55] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2006-03-12
+
+  [04:34:55] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Sharilyn202 Wolff180
+    Location: THE SHRINERS HOSPITAL FOR CHILDREN
+    Duration: 04:34:55 - 04:55:42
+
+  [04:34:55] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [04:34:55] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2006-03-12
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Minta575 Florence828 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [04:34:55] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:55:42] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2006-03-13
+
+  [08:23:42] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Sharilyn202 Wolff180
+    Location: THE SHRINERS HOSPITAL FOR CHILDREN
+    Duration: 08:23:42 - 08:40:16
+
+  [08:23:42] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [08:23:42] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2006-03-13
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Minta575 Florence828 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [08:23:42] DOCUMENT: History and physical note
+    Status: superseded
+
+  [08:40:16] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2006-03-14
+
+  [16:40:16] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Sharilyn202 Wolff180
+    Location: THE SHRINERS HOSPITAL FOR CHILDREN
+    Duration: 16:40:16 - 17:00:49
+
+  [16:40:16] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [16:40:16] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2006-03-14
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Minta575 Florence828 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [16:40:16] DOCUMENT: History and physical note
+    Status: superseded
+
+  [17:00:49] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2006-03-15
+
+  [17:38:49] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Sharilyn202 Wolff180
+    Location: THE SHRINERS HOSPITAL FOR CHILDREN
+    Duration: 17:38:49 - 18:02:04
+
+  [17:38:49] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [17:38:49] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2006-03-15
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Minta575 Florence828 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [17:38:49] DOCUMENT: History and physical note
+    Status: superseded
+
+  [18:02:04] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2006-03-17
+
+  [02:46:04] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Sharilyn202 Wolff180
+    Location: THE SHRINERS HOSPITAL FOR CHILDREN
+    Duration: 02:46:04 - 03:15:01
+
+  [02:46:04] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [02:46:04] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2006-03-17
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Minta575 Florence828 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [02:46:04] DOCUMENT: History and physical note
+    Status: superseded
+
+  [03:15:01] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2006-03-18
+
+  [04:00:01] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Sharilyn202 Wolff180
+    Location: THE SHRINERS HOSPITAL FOR CHILDREN
+    Duration: 04:00:01 - 04:25:12
+
+  [04:00:01] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [04:00:01] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2006-03-18
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Minta575 Florence828 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [04:00:01] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:25:12] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2006-03-19
+
+  [16:20:12] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Sharilyn202 Wolff180
+    Location: THE SHRINERS HOSPITAL FOR CHILDREN
+    Duration: 16:20:12 - 16:56:44
+
+  [16:20:12] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [16:20:12] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2006-03-19
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Minta575 Florence828 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [16:20:12] DOCUMENT: History and physical note
+    Status: superseded
+
+  [16:56:44] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2006-03-20
+
+  [22:53:44] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Sharilyn202 Wolff180
+    Location: THE SHRINERS HOSPITAL FOR CHILDREN
+    Duration: 22:53:44 - 23:12:58
+
+  [22:53:44] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [22:53:44] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2006-03-20
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Minta575 Florence828 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [22:53:44] DOCUMENT: History and physical note
+    Status: superseded
+
+  [23:12:58] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2006-03-22
+
+  [02:09:58] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Sharilyn202 Wolff180
+    Location: THE SHRINERS HOSPITAL FOR CHILDREN
+    Duration: 02:09:58 - 02:30:04
+
+  [02:09:58] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [02:09:58] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2006-03-22
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Minta575 Florence828 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [02:09:58] DOCUMENT: History and physical note
+    Status: superseded
+
+  [02:30:04] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2006-03-23
+
+  [07:35:04] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Sharilyn202 Wolff180
+    Location: THE SHRINERS HOSPITAL FOR CHILDREN
+    Duration: 07:35:04 - 08:09:09
+
+  [07:35:04] PROCEDURE: Radiation therapy care (regime/therapy)
+    Status: completed
+
+  [07:35:04] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2006-03-23
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Minta575 Florence828 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [07:35:04] DOCUMENT: History and physical note
+    Status: superseded
+
+  [08:09:09] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2006-03-29
+
+  [00:09:09] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Sharilyn202 Wolff180
+    Location: THE SHRINERS HOSPITAL FOR CHILDREN
+    Duration: 00:09:09 - 00:24:09
+
+  [00:09:09] OBSERVATION: Treatment status Cancer: Treatment changed (situation)
+
+  [00:09:09] OBSERVATION: Response to cancer treatment: Worsening (qualifier value)
+
+  [00:09:09] MEDICATION PRESCRIBED: Unknown medication
+    Status: completed
+    Prescribed by: Dr. Sharilyn202 Wolff180
+
+  [00:09:09] MEDICATION ADMINISTERED: Tamoxifen 10 MG Oral Tablet
+    Status: completed
+    Dosage: 1.0
+
+  [00:09:09] MEDICATION PRESCRIBED: Unknown medication
+    Status: completed
+    Prescribed by: Dr. Sharilyn202 Wolff180
+
+  [00:09:09] MEDICATION ADMINISTERED: abemaciclib 100 MG Oral Tablet [Verzenio]
+    Status: completed
+
+  [00:09:09] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2006-03-29
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Minta575 Florence828 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [00:09:09] DOCUMENT: History and physical note
+    Status: superseded
+
+  [00:24:09] CLAIM: pharmacy
+    Amount: USD 409.20
+
+  [00:24:09] CLAIM: pharmacy
+    Amount: USD 117.93
+
+  [00:24:09] CLAIM: professional
+    Amount: USD 85.55
+
+
+📅 2006-07-20
+
+  [01:09:09] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Sharilyn202 Wolff180
+    Location: THE SHRINERS HOSPITAL FOR CHILDREN
+    Duration: 01:09:09 - 01:53:39
+
+  [01:09:09] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [01:09:09] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2006-07-20
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Minta575 Florence828 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [01:09:09] DOCUMENT: History and physical note
+    Status: superseded
+
+  [01:53:39] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2006-11-01
+
+  [00:53:39] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Sharilyn202 Wolff180
+    Location: THE SHRINERS HOSPITAL FOR CHILDREN
+    Duration: 00:53:39 - 01:28:51
+
+  [00:53:39] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [00:53:39] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2006-11-01
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Minta575 Florence828 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [00:53:39] DOCUMENT: History and physical note
+    Status: superseded
+
+  [01:28:51] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2007-02-20
+
+  [01:28:51] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Sharilyn202 Wolff180
+    Location: THE SHRINERS HOSPITAL FOR CHILDREN
+    Duration: 01:28:51 - 02:12:53
+
+  [01:28:51] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [01:28:51] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2007-02-20
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Minta575 Florence828 is a 41 year-old nonhispanic white female.
+      # Social History
+
+  [01:28:51] DOCUMENT: History and physical note
+    Status: superseded
+
+  [02:12:53] CLAIM: professional
+    Amount: USD 573.98
+
+  [02:12:53] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Sharilyn202 Wolff180
+    Location: THE SHRINERS HOSPITAL FOR CHILDREN
+    Duration: 02:12:53 - 02:33:32
+
+  [02:12:53] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [02:12:53] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2007-02-20
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Minta575 Florence828 is a 41 year-old nonhispanic white female.
+      # Social History
+
+  [02:12:53] DOCUMENT: History and physical note
+    Status: superseded
+
+  [02:33:32] CLAIM: professional
+    Amount: USD 216.51
+
+  [02:33:32] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Sharilyn202 Wolff180
+    Location: THE SHRINERS HOSPITAL FOR CHILDREN
+    Duration: 02:33:32 - 03:00:27
+
+  [02:33:32] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [02:33:32] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2007-02-20
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Minta575 Florence828 is a 41 year-old nonhispanic white female.
+      # Social History
+
+  [02:33:32] DOCUMENT: History and physical note
+    Status: superseded
+
+  [02:47:31] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [03:00:27] OBSERVATION: Response to cancer treatment: Worsening (qualifier value)
+
+  [03:00:27] CLAIM: professional
+    Amount: USD 1486.19
+
+
+📅 2007-06-05
+
+  [04:00:27] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Sharilyn202 Wolff180
+    Location: THE SHRINERS HOSPITAL FOR CHILDREN
+    Duration: 04:00:27 - 04:37:08
+
+  [04:00:27] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [04:00:27] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2007-06-05
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Minta575 Florence828 is a 41 year-old nonhispanic white female.
+      # Social History
+
+  [04:00:27] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:37:08] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2007-09-23
+
+  [04:37:08] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Sharilyn202 Wolff180
+    Location: THE SHRINERS HOSPITAL FOR CHILDREN
+    Duration: 04:37:08 - 05:15:27
+
+  [04:37:08] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [04:37:08] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2007-09-23
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Minta575 Florence828 is a 41 year-old nonhispanic white female.
+      # Social History
+
+  [04:37:08] DOCUMENT: History and physical note
+    Status: superseded
+
+  [05:15:27] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2007-11-14
+
+  [08:39:19] VISIT: General examination of patient (procedure)
+    Provider: Dr. Elmer371 Gusikowski974
+    Location: WHITLEY WELLNESS LLC
+    Duration: 08:39:19 - 08:54:19
+
+  [08:39:19] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [08:39:19] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [08:39:19] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [08:39:19] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2007-11-14
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Minta575 Florence828 is a 42 year-old nonhispanic white female.
+      # Social History
+
+  [08:39:19] DOCUMENT: History and physical note
+    Status: superseded
+
+  [08:54:19] CLAIM: professional
+    Amount: USD 544.80
+
+
+📅 2008-01-11
+
+  [04:15:27] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Sharilyn202 Wolff180
+    Location: THE SHRINERS HOSPITAL FOR CHILDREN
+    Duration: 04:15:27 - 04:46:44
+
+  [04:15:27] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [04:15:27] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2008-01-11
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Minta575 Florence828 is a 42 year-old nonhispanic white female.
+      # Social History
+
+  [04:15:27] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:46:44] CLAIM: professional
+    Amount: USD 573.98
+
+  [04:46:44] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Sharilyn202 Wolff180
+    Location: THE SHRINERS HOSPITAL FOR CHILDREN
+    Duration: 04:46:44 - 05:06:52
+
+  [04:46:44] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [04:46:44] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2008-01-11
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Minta575 Florence828 is a 42 year-old nonhispanic white female.
+      # Social History
+
+  [04:46:44] DOCUMENT: History and physical note
+    Status: superseded
+
+  [05:06:52] CLAIM: professional
+    Amount: USD 211.60
+
+  [05:06:52] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Sharilyn202 Wolff180
+    Location: THE SHRINERS HOSPITAL FOR CHILDREN
+    Duration: 05:06:52 - 05:39:21
+
+  [05:06:52] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [05:06:52] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2008-01-11
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Minta575 Florence828 is a 42 year-old nonhispanic white female.
+      # Social History
+
+  [05:06:52] DOCUMENT: History and physical note
+    Status: superseded
+
+  [05:21:47] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [05:39:21] OBSERVATION: Response to cancer treatment: Worsening (qualifier value)
+
+  [05:39:21] CLAIM: professional
+    Amount: USD 1134.33
+
+
+📅 2008-02-06
+
+  [08:39:19] VISIT: Death Certification
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Elmer371 Gusikowski974
+    Location: WHITLEY WELLNESS LLC
+    Duration: 08:39:19 - 08:54:19
+
+  [08:39:19] OBSERVATION: Cause of Death [US Standard Certificate of Death]: Malignant neoplasm of breast (disorder)
+
+  [08:39:19] DIAGNOSTIC REPORT: U.S. standard certificate of death - 2003 revision
+
+  [08:39:19] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2008-02-06
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Minta575 Florence828 is a 42 year-old nonhispanic white female.
+      # Social History
+
+  [08:39:19] DOCUMENT: History and physical note
+    Status: current
+
+  [08:39:19] PROVENANCE: Record activity
+    Agents: Dr. Elmer371 Gusikowski974, Dr. Elmer371 Gusikowski974
+
+  [08:54:19] CLAIM: professional
+    Amount: USD 211.38
+
+================================================================================
+END OF TIMELINE (364 events)
+================================================================================

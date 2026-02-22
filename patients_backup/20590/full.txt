@@ -1,0 +1,165 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Ms. Bettie175 Raguel228 Haley279
+  Patient ID: 20590
+  Date of Birth: 1979-06-10
+  Gender: Female
+  Race: White
+  Ethnicity: Not Hispanic or Latino
+  Marital Status: Never Married
+  Address: 539 White Manor Suite 32, Concord, MA 00000
+  Phone: 555-394-1206
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2016-08-28
+
+  [03:07:32] VISIT: General examination of patient (procedure)
+    Provider: Dr. Tori754 Larson43
+    Location: INTEGRATIVE FAMILY MEDICINE ASSOCIATES
+    Duration: 03:07:32 - 03:22:32
+
+  [03:07:32] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [03:07:32] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-08-28
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Bettie175 is a 37 year-old nonhispanic white female.
+      # Social History
+
+  [03:07:32] DOCUMENT: History and physical note
+    Status: superseded
+
+  [03:22:32] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2019-06-16
+
+  [03:07:32] VISIT: General examination of patient (procedure)
+    Provider: Dr. Tori754 Larson43
+    Location: INTEGRATIVE FAMILY MEDICINE ASSOCIATES
+    Duration: 03:07:32 - 03:22:32
+
+  [03:07:32] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [03:07:32] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [03:07:32] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-06-16
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Bettie175 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [03:07:32] DOCUMENT: History and physical note
+    Status: superseded
+
+  [03:22:32] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2021-06-20
+
+  [03:07:32] VISIT: General examination of patient (procedure)
+    Provider: Dr. Tori754 Larson43
+    Location: INTEGRATIVE FAMILY MEDICINE ASSOCIATES
+    Duration: 03:07:32 - 03:22:32
+
+  [03:07:32] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [03:07:32] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [03:07:32] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [03:07:32] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-06-20
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Bettie175 is a 42 year-old nonhispanic white female.
+      # Social History
+
+  [03:07:32] DOCUMENT: History and physical note
+    Status: superseded
+
+  [03:22:32] CLAIM: professional
+    Amount: USD 544.80
+
+
+📅 2023-06-25
+
+  [03:07:32] VISIT: General examination of patient (procedure)
+    Provider: Dr. Tori754 Larson43
+    Location: INTEGRATIVE FAMILY MEDICINE ASSOCIATES
+    Duration: 03:07:32 - 03:22:32
+
+  [03:07:32] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [03:07:32] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-06-25
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Bettie175 is a 44 year-old nonhispanic white female.
+      # Social History
+
+  [03:07:32] DOCUMENT: History and physical note
+    Status: superseded
+
+  [03:22:32] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2025-06-29
+
+  [03:07:32] VISIT: General examination of patient (procedure)
+    Provider: Dr. Tori754 Larson43
+    Location: INTEGRATIVE FAMILY MEDICINE ASSOCIATES
+    Duration: 03:07:32 - 03:22:32
+
+  [03:07:32] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [03:07:32] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-06-29
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Bettie175 is a 46 year-old nonhispanic white female.
+      # Social History
+
+  [03:07:32] DOCUMENT: History and physical note
+    Status: current
+
+  [03:22:32] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2026-02-15
+
+  [02:07:32] PROVENANCE: Record activity
+    Agents: Dr. Tori754 Larson43, Dr. Tori754 Larson43
+
+================================================================================
+END OF TIMELINE (29 events)
+================================================================================

@@ -1,0 +1,188 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Ms. Dovie983 Georgie506 Donnelly343
+  Patient ID: 42298
+  Date of Birth: 1985-08-10
+  Gender: Female
+  Race: White
+  Ethnicity: Not Hispanic or Latino
+  Marital Status: Never Married
+  Address: 119 Kilback Mill Unit 75, Worcester, MA 01610
+  Phone: 555-728-8017
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2016-10-22
+
+  [19:00:04] VISIT: General examination of patient (procedure)
+    Provider: Dr. Eldridge510 Marquardt819
+    Location: JEWISH FAMILY & CHILDREN'S SERVICE
+    Duration: 19:00:04 - 19:15:04
+
+  [19:00:04] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [19:00:04] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [19:00:04] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-10-22
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Dovie983 is a 31 year-old nonhispanic white female.
+      # Social History
+
+  [19:00:04] DOCUMENT: History and physical note
+    Status: superseded
+
+  [19:15:04] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2019-10-26
+
+  [19:00:04] VISIT: General examination of patient (procedure)
+    Provider: Dr. Eldridge510 Marquardt819
+    Location: JEWISH FAMILY & CHILDREN'S SERVICE
+    Duration: 19:00:04 - 19:15:04
+
+  [19:00:04] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [19:00:04] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-10-26
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Dovie983 is a 34 year-old nonhispanic white female.
+      # Social History
+
+  [19:00:04] DOCUMENT: History and physical note
+    Status: superseded
+
+  [19:15:04] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2021-08-28
+
+  [19:00:04] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Rhett759 Padberg411
+    Location: VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+    Duration: 19:00:04 - 19:15:04
+
+  [19:00:04] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+    Status: completed
+
+  [19:00:04] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-08-28
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Dovie983 is a 36 year-old nonhispanic white female.
+      # Social History
+
+  [19:00:04] DOCUMENT: History and physical note
+    Status: superseded
+
+  [19:15:04] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-09-25
+
+  [19:00:04] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Rhett759 Padberg411
+    Location: VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+    Duration: 19:00:04 - 19:15:04
+
+  [19:00:04] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+    Status: completed
+
+  [19:00:04] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-09-25
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Dovie983 is a 36 year-old nonhispanic white female.
+      # Social History
+
+  [19:00:04] DOCUMENT: History and physical note
+    Status: superseded
+
+  [19:15:04] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2022-10-29
+
+  [19:00:04] VISIT: General examination of patient (procedure)
+    Provider: Dr. Eldridge510 Marquardt819
+    Location: JEWISH FAMILY & CHILDREN'S SERVICE
+    Duration: 19:00:04 - 19:15:04
+
+  [19:00:04] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [19:00:04] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-10-29
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Dovie983 is a 37 year-old nonhispanic white female.
+      # Social History
+
+  [19:00:04] DOCUMENT: History and physical note
+    Status: superseded
+
+  [19:15:04] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2025-08-16
+
+  [19:00:04] VISIT: General examination of patient (procedure)
+    Provider: Dr. Eldridge510 Marquardt819
+    Location: JEWISH FAMILY & CHILDREN'S SERVICE
+    Duration: 19:00:04 - 19:15:04
+
+  [19:00:04] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [19:00:04] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [19:00:04] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-08-16
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Dovie983 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [19:00:04] DOCUMENT: History and physical note
+    Status: current
+
+  [19:15:04] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2026-02-14
+
+  [18:00:04] PROVENANCE: Record activity
+    Agents: Dr. Eldridge510 Marquardt819, Dr. Eldridge510 Marquardt819
+
+================================================================================
+END OF TIMELINE (33 events)
+================================================================================

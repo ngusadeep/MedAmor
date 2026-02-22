@@ -1,0 +1,162 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Mrs. Mee229 Angelic427 Harber290
+  Patient ID: 108391
+  Date of Birth: 1985-10-21
+  Gender: Female
+  Race: White
+  Ethnicity: Not Hispanic or Latino
+  Marital Status: Married
+  Address: 250 Jaskolski Route, Peabody, MA 01940
+  Phone: 555-607-6929
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2017-01-02
+
+  [03:48:27] VISIT: General examination of patient (procedure)
+    Provider: Dr. Deane47 Howe413
+    Location: PODIATRY HEALTHCARE P.C.
+    Duration: 03:48:27 - 04:03:27
+
+  [03:48:27] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [03:48:27] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [03:48:27] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-01-02
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Mee229 Angelic427 is a 31 year-old nonhispanic white female.
+      # Social History
+
+  [03:48:27] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:03:27] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2020-01-06
+
+  [03:48:27] VISIT: General examination of patient (procedure)
+    Provider: Dr. Deane47 Howe413
+    Location: PODIATRY HEALTHCARE P.C.
+    Duration: 03:48:27 - 04:03:27
+
+  [03:48:27] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [03:48:27] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-01-06
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Mee229 Angelic427 is a 34 year-old nonhispanic white female.
+      # Social History
+
+  [03:48:27] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:03:27] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2021-06-14
+
+  [04:48:27] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Bennie663 Abbott774
+    Location: LAHEY HOSPITAL & MEDICAL CENTER, BURLINGTON
+    Duration: 04:48:27 - 05:03:27
+
+  [04:48:27] IMMUNIZATION: COVID-19 vaccine, vector-nr, rS-Ad26, PF, 0.5 mL
+    Status: completed
+
+  [04:48:27] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-06-14
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Mee229 Angelic427 is a 35 year-old nonhispanic white female.
+      # Social History
+
+  [04:48:27] DOCUMENT: History and physical note
+    Status: superseded
+
+  [05:03:27] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2023-01-09
+
+  [03:48:27] VISIT: General examination of patient (procedure)
+    Provider: Dr. Deane47 Howe413
+    Location: PODIATRY HEALTHCARE P.C.
+    Duration: 03:48:27 - 04:03:27
+
+  [03:48:27] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [03:48:27] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-01-09
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Mee229 Angelic427 is a 37 year-old nonhispanic white female.
+      # Social History
+
+  [03:48:27] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:03:27] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2025-10-27
+
+  [04:48:27] VISIT: General examination of patient (procedure)
+    Provider: Dr. Deane47 Howe413
+    Location: PODIATRY HEALTHCARE P.C.
+    Duration: 04:48:27 - 05:03:27
+
+  [04:48:27] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [04:48:27] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [04:48:27] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-10-27
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Mee229 Angelic427 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [04:48:27] DOCUMENT: History and physical note
+    Status: current
+
+  [05:03:27] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2026-02-16
+
+  [03:48:27] PROVENANCE: Record activity
+    Agents: Dr. Deane47 Howe413, Dr. Deane47 Howe413
+
+================================================================================
+END OF TIMELINE (28 events)
+================================================================================

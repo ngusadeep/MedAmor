@@ -1,0 +1,1156 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Mrs. Georgianne697 Leola603 Nitzsche158
+  Patient ID: 54916
+  Date of Birth: 1959-07-25
+  Gender: Female
+  Race: White
+  Ethnicity: Not Hispanic or Latino
+  Marital Status: Married
+  Address: 681 Mohr Promenade Unit 6, Marlborough, MA 01752
+  Phone: 555-946-8249
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2000-06-06
+
+  [21:23:21] VISIT: Periodic reevaluation and management of healthy individual (procedure)
+    Reason: Screening for malignant neoplasm of breast (procedure)
+    Provider: Dr. Brandon214 Gerlach374
+    Location: UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC
+    Duration: 21:23:21 - 17:29:00
+
+  [21:23:21] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2000-06-06
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Georgianne697 Leola603 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [21:23:21] DOCUMENT: History and physical note
+    Status: superseded
+
+  [22:58:00] CONDITION: Malignant neoplasm of breast (disorder) (active)
+
+
+📅 2000-06-08
+
+  [17:29:00] CLAIM: professional
+    Amount: USD 5409.83
+
+
+📅 2016-04-16
+
+  [05:20:13] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Brandon214 Gerlach374
+    Location: UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC
+    Duration: 05:20:13 - 06:03:11
+
+  [05:20:13] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [05:20:13] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-04-16
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Georgianne697 Leola603 is a 56 year-old nonhispanic white female.
+      # Social History
+
+  [05:20:13] DOCUMENT: History and physical note
+    Status: superseded
+
+  [06:03:11] CLAIM: professional
+    Amount: USD 573.98
+
+  [06:03:11] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Brandon214 Gerlach374
+    Location: UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC
+    Duration: 06:03:11 - 06:20:06
+
+  [06:03:11] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [06:03:11] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-04-16
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Georgianne697 Leola603 is a 56 year-old nonhispanic white female.
+      # Social History
+
+  [06:03:11] DOCUMENT: History and physical note
+    Status: superseded
+
+  [06:20:06] CLAIM: professional
+    Amount: USD 211.60
+
+  [06:20:06] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Brandon214 Gerlach374
+    Location: UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC
+    Duration: 06:20:06 - 06:53:50
+
+  [06:20:06] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [06:20:06] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-04-16
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Georgianne697 Leola603 is a 56 year-old nonhispanic white female.
+      # Social History
+
+  [06:20:06] DOCUMENT: History and physical note
+    Status: superseded
+
+  [06:34:07] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [06:53:50] CLAIM: professional
+    Amount: USD 1700.52
+
+
+📅 2016-09-03
+
+  [21:23:21] VISIT: General examination of patient (procedure)
+    Provider: Dr. Denis399 Kohler843
+    Location: DR. HE'S PRIMARY CARE FOR ADULTS INC
+    Duration: 21:23:21 - 21:38:21
+
+  [21:23:21] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [21:23:21] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-09-03
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Georgianne697 Leola603 is a 57 year-old nonhispanic white female.
+      # Social History
+
+  [21:23:21] DOCUMENT: History and physical note
+    Status: superseded
+
+  [21:38:21] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2017-03-24
+
+  [06:53:50] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Brandon214 Gerlach374
+    Location: UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC
+    Duration: 06:53:50 - 07:30:10
+
+  [06:53:50] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [06:53:50] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-03-24
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Georgianne697 Leola603 is a 57 year-old nonhispanic white female.
+      # Social History
+
+  [06:53:50] DOCUMENT: History and physical note
+    Status: superseded
+
+  [07:30:10] CLAIM: professional
+    Amount: USD 573.98
+
+  [07:30:10] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Brandon214 Gerlach374
+    Location: UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC
+    Duration: 07:30:10 - 07:47:29
+
+  [07:30:10] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [07:30:10] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-03-24
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Georgianne697 Leola603 is a 57 year-old nonhispanic white female.
+      # Social History
+
+  [07:30:10] DOCUMENT: History and physical note
+    Status: superseded
+
+  [07:47:29] CLAIM: professional
+    Amount: USD 211.60
+
+  [07:47:29] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Brandon214 Gerlach374
+    Location: UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC
+    Duration: 07:47:29 - 08:18:41
+
+  [07:47:29] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [07:47:29] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-03-24
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Georgianne697 Leola603 is a 57 year-old nonhispanic white female.
+      # Social History
+
+  [07:47:29] DOCUMENT: History and physical note
+    Status: superseded
+
+  [07:58:54] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [08:18:41] CLAIM: professional
+    Amount: USD 1091.66
+
+
+📅 2017-09-09
+
+  [21:23:21] VISIT: General examination of patient (procedure)
+    Provider: Dr. Denis399 Kohler843
+    Location: DR. HE'S PRIMARY CARE FOR ADULTS INC
+    Duration: 21:23:21 - 21:38:21
+
+  [21:23:21] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [21:23:21] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-09-09
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Georgianne697 Leola603 is a 58 year-old nonhispanic white female.
+      # Social History
+
+  [21:23:21] DOCUMENT: History and physical note
+    Status: superseded
+
+  [21:38:21] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2018-04-09
+
+  [08:18:41] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Brandon214 Gerlach374
+    Location: UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC
+    Duration: 08:18:41 - 09:03:23
+
+  [08:18:41] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [08:18:41] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-04-09
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Georgianne697 Leola603 is a 58 year-old nonhispanic white female.
+      # Social History
+
+  [08:18:41] DOCUMENT: History and physical note
+    Status: superseded
+
+  [09:03:23] CLAIM: professional
+    Amount: USD 573.98
+
+  [09:03:23] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Brandon214 Gerlach374
+    Location: UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC
+    Duration: 09:03:23 - 09:22:28
+
+  [09:03:23] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [09:03:23] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-04-09
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Georgianne697 Leola603 is a 58 year-old nonhispanic white female.
+      # Social History
+
+  [09:03:23] DOCUMENT: History and physical note
+    Status: superseded
+
+  [09:22:28] CLAIM: professional
+    Amount: USD 227.20
+
+  [09:22:28] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Brandon214 Gerlach374
+    Location: UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC
+    Duration: 09:22:28 - 09:46:22
+
+  [09:22:28] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [09:22:28] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-04-09
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Georgianne697 Leola603 is a 58 year-old nonhispanic white female.
+      # Social History
+
+  [09:22:28] DOCUMENT: History and physical note
+    Status: superseded
+
+  [09:36:12] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [09:46:22] CLAIM: professional
+    Amount: USD 2225.62
+
+
+📅 2018-09-15
+
+  [21:23:21] VISIT: General examination of patient (procedure)
+    Provider: Dr. Denis399 Kohler843
+    Location: DR. HE'S PRIMARY CARE FOR ADULTS INC
+    Duration: 21:23:21 - 21:38:21
+
+  [21:23:21] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [21:23:21] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-09-15
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Georgianne697 Leola603 is a 59 year-old nonhispanic white female.
+      # Social History
+
+  [21:23:21] DOCUMENT: History and physical note
+    Status: superseded
+
+  [21:38:21] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2019-03-19
+
+  [09:46:22] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Brandon214 Gerlach374
+    Location: UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC
+    Duration: 09:46:22 - 10:28:51
+
+  [09:46:22] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [09:46:22] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-03-19
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Georgianne697 Leola603 is a 59 year-old nonhispanic white female.
+      # Social History
+
+  [09:46:22] DOCUMENT: History and physical note
+    Status: superseded
+
+  [10:28:51] CLAIM: professional
+    Amount: USD 573.98
+
+  [10:28:51] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Brandon214 Gerlach374
+    Location: UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC
+    Duration: 10:28:51 - 10:44:56
+
+  [10:28:51] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [10:28:51] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-03-19
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Georgianne697 Leola603 is a 59 year-old nonhispanic white female.
+      # Social History
+
+  [10:28:51] DOCUMENT: History and physical note
+    Status: superseded
+
+  [10:44:56] CLAIM: professional
+    Amount: USD 211.60
+
+  [10:44:56] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Brandon214 Gerlach374
+    Location: UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC
+    Duration: 10:44:56 - 11:13:57
+
+  [10:44:56] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [10:44:56] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-03-19
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Georgianne697 Leola603 is a 59 year-old nonhispanic white female.
+      # Social History
+
+  [10:44:56] DOCUMENT: History and physical note
+    Status: superseded
+
+  [10:59:20] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [11:13:57] CLAIM: professional
+    Amount: USD 1141.51
+
+
+📅 2019-09-21
+
+  [21:23:21] VISIT: General examination of patient (procedure)
+    Provider: Dr. Denis399 Kohler843
+    Location: DR. HE'S PRIMARY CARE FOR ADULTS INC
+    Duration: 21:23:21 - 21:38:21
+
+  [21:23:21] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [21:23:21] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-09-21
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Georgianne697 Leola603 is a 60 year-old nonhispanic white female.
+      # Social History
+
+  [21:23:21] DOCUMENT: History and physical note
+    Status: superseded
+
+  [21:38:21] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2020-02-22
+
+  [10:13:57] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Brandon214 Gerlach374
+    Location: UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC
+    Duration: 10:13:57 - 10:58:23
+
+  [10:13:57] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [10:13:57] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-02-22
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Georgianne697 Leola603 is a 60 year-old nonhispanic white female.
+      # Social History
+
+  [10:13:57] DOCUMENT: History and physical note
+    Status: superseded
+
+  [10:58:23] CLAIM: professional
+    Amount: USD 573.98
+
+  [10:58:23] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Brandon214 Gerlach374
+    Location: UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC
+    Duration: 10:58:23 - 11:15:44
+
+  [10:58:23] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [10:58:23] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-02-22
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Georgianne697 Leola603 is a 60 year-old nonhispanic white female.
+      # Social History
+
+  [10:58:23] DOCUMENT: History and physical note
+    Status: superseded
+
+  [11:15:44] CLAIM: professional
+    Amount: USD 211.60
+
+  [11:15:44] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Brandon214 Gerlach374
+    Location: UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC
+    Duration: 11:15:44 - 11:47:28
+
+  [11:15:44] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [11:15:44] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-02-22
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Georgianne697 Leola603 is a 60 year-old nonhispanic white female.
+      # Social History
+
+  [11:15:44] DOCUMENT: History and physical note
+    Status: superseded
+
+  [11:30:14] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [11:47:28] CLAIM: professional
+    Amount: USD 1128.72
+
+
+📅 2020-09-26
+
+  [21:23:21] VISIT: General examination of patient (procedure)
+    Provider: Dr. Denis399 Kohler843
+    Location: DR. HE'S PRIMARY CARE FOR ADULTS INC
+    Duration: 21:23:21 - 21:38:21
+
+  [21:23:21] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [21:23:21] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [21:23:21] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-09-26
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Georgianne697 Leola603 is a 61 year-old nonhispanic white female.
+      # Social History
+
+  [21:23:21] DOCUMENT: History and physical note
+    Status: superseded
+
+  [21:38:21] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2021-03-16
+
+  [12:47:28] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Brandon214 Gerlach374
+    Location: UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC
+    Duration: 12:47:28 - 13:19:16
+
+  [12:47:28] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [12:47:28] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-03-16
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Georgianne697 Leola603 is a 61 year-old nonhispanic white female.
+      # Social History
+
+  [12:47:28] DOCUMENT: History and physical note
+    Status: superseded
+
+  [13:19:16] CLAIM: professional
+    Amount: USD 573.98
+
+  [13:19:16] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Brandon214 Gerlach374
+    Location: UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC
+    Duration: 13:19:16 - 13:40:00
+
+  [13:19:16] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [13:19:16] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-03-16
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Georgianne697 Leola603 is a 61 year-old nonhispanic white female.
+      # Social History
+
+  [13:19:16] DOCUMENT: History and physical note
+    Status: superseded
+
+  [13:40:00] CLAIM: professional
+    Amount: USD 278.92
+
+  [13:40:00] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Brandon214 Gerlach374
+    Location: UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC
+    Duration: 13:40:00 - 14:10:12
+
+  [13:40:00] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [13:40:00] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-03-16
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Georgianne697 Leola603 is a 61 year-old nonhispanic white female.
+      # Social History
+
+  [13:40:00] DOCUMENT: History and physical note
+    Status: superseded
+
+  [13:53:19] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [14:10:12] CLAIM: professional
+    Amount: USD 1991.74
+
+
+📅 2021-03-20
+
+  [21:23:21] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Brandon214 Gerlach374
+    Location: UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC
+    Duration: 21:23:21 - 21:38:21
+
+  [21:23:21] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 30 mcg/0.3 mL dose
+    Status: completed
+
+  [21:23:21] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-03-20
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Georgianne697 Leola603 is a 61 year-old nonhispanic white female.
+      # Social History
+
+  [21:23:21] DOCUMENT: History and physical note
+    Status: superseded
+
+  [21:38:21] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-04-10
+
+  [21:23:21] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Brandon214 Gerlach374
+    Location: UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC
+    Duration: 21:23:21 - 21:38:21
+
+  [21:23:21] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 30 mcg/0.3 mL dose
+    Status: completed
+
+  [21:23:21] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-04-10
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Georgianne697 Leola603 is a 61 year-old nonhispanic white female.
+      # Social History
+
+  [21:23:21] DOCUMENT: History and physical note
+    Status: superseded
+
+  [21:38:21] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-10-02
+
+  [21:23:21] VISIT: General examination of patient (procedure)
+    Provider: Dr. Denis399 Kohler843
+    Location: DR. HE'S PRIMARY CARE FOR ADULTS INC
+    Duration: 21:23:21 - 21:38:21
+
+  [21:23:21] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [21:23:21] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-10-02
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Georgianne697 Leola603 is a 62 year-old nonhispanic white female.
+      # Social History
+
+  [21:23:21] DOCUMENT: History and physical note
+    Status: superseded
+
+  [21:38:21] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2022-03-01
+
+  [13:10:12] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Brandon214 Gerlach374
+    Location: UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC
+    Duration: 13:10:12 - 13:40:59
+
+  [13:10:12] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [13:10:12] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-03-01
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Georgianne697 Leola603 is a 62 year-old nonhispanic white female.
+      # Social History
+
+  [13:10:12] DOCUMENT: History and physical note
+    Status: superseded
+
+  [13:40:59] CLAIM: professional
+    Amount: USD 573.98
+
+  [13:40:59] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Brandon214 Gerlach374
+    Location: UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC
+    Duration: 13:40:59 - 13:56:01
+
+  [13:40:59] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [13:40:59] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-03-01
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Georgianne697 Leola603 is a 62 year-old nonhispanic white female.
+      # Social History
+
+  [13:40:59] DOCUMENT: History and physical note
+    Status: superseded
+
+  [13:56:01] CLAIM: professional
+    Amount: USD 234.55
+
+  [13:56:01] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Brandon214 Gerlach374
+    Location: UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC
+    Duration: 13:56:01 - 14:28:04
+
+  [13:56:01] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [13:56:01] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-03-01
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Georgianne697 Leola603 is a 62 year-old nonhispanic white female.
+      # Social History
+
+  [13:56:01] DOCUMENT: History and physical note
+    Status: superseded
+
+  [14:09:48] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [14:28:04] CLAIM: professional
+    Amount: USD 3809.48
+
+
+📅 2022-10-08
+
+  [21:23:21] VISIT: General examination of patient (procedure)
+    Provider: Dr. Denis399 Kohler843
+    Location: DR. HE'S PRIMARY CARE FOR ADULTS INC
+    Duration: 21:23:21 - 21:38:21
+
+  [21:23:21] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [21:23:21] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-10-08
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Georgianne697 Leola603 is a 63 year-old nonhispanic white female.
+      # Social History
+
+  [21:23:21] DOCUMENT: History and physical note
+    Status: superseded
+
+  [21:38:21] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2023-03-16
+
+  [15:28:04] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Brandon214 Gerlach374
+    Location: UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC
+    Duration: 15:28:04 - 16:08:40
+
+  [15:28:04] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [15:28:04] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-03-16
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Georgianne697 Leola603 is a 63 year-old nonhispanic white female.
+      # Social History
+
+  [15:28:04] DOCUMENT: History and physical note
+    Status: superseded
+
+  [16:08:40] CLAIM: professional
+    Amount: USD 573.98
+
+  [16:08:40] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Brandon214 Gerlach374
+    Location: UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC
+    Duration: 16:08:40 - 16:27:00
+
+  [16:08:40] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [16:08:40] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-03-16
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Georgianne697 Leola603 is a 63 year-old nonhispanic white female.
+      # Social History
+
+  [16:08:40] DOCUMENT: History and physical note
+    Status: superseded
+
+  [16:27:00] CLAIM: professional
+    Amount: USD 270.23
+
+  [16:27:00] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Brandon214 Gerlach374
+    Location: UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC
+    Duration: 16:27:00 - 17:00:19
+
+  [16:27:00] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [16:27:00] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-03-16
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Georgianne697 Leola603 is a 63 year-old nonhispanic white female.
+      # Social History
+
+  [16:27:00] DOCUMENT: History and physical note
+    Status: superseded
+
+  [16:41:06] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [17:00:19] CLAIM: professional
+    Amount: USD 1750.65
+
+
+📅 2023-10-14
+
+  [21:23:21] VISIT: General examination of patient (procedure)
+    Provider: Dr. Denis399 Kohler843
+    Location: DR. HE'S PRIMARY CARE FOR ADULTS INC
+    Duration: 21:23:21 - 21:38:21
+
+  [21:23:21] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [21:23:21] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-10-14
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Georgianne697 Leola603 is a 64 year-old nonhispanic white female.
+      # Social History
+
+  [21:23:21] DOCUMENT: History and physical note
+    Status: superseded
+
+  [21:38:21] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2024-03-01
+
+  [16:00:19] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Brandon214 Gerlach374
+    Location: UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC
+    Duration: 16:00:19 - 16:41:52
+
+  [16:00:19] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [16:00:19] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-03-01
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Georgianne697 Leola603 is a 64 year-old nonhispanic white female.
+      # Social History
+
+  [16:00:19] DOCUMENT: History and physical note
+    Status: superseded
+
+  [16:41:52] CLAIM: professional
+    Amount: USD 573.98
+
+  [16:41:52] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Brandon214 Gerlach374
+    Location: UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC
+    Duration: 16:41:52 - 17:00:52
+
+  [16:41:52] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [16:41:52] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-03-01
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Georgianne697 Leola603 is a 64 year-old nonhispanic white female.
+      # Social History
+
+  [16:41:52] DOCUMENT: History and physical note
+    Status: superseded
+
+  [17:00:52] CLAIM: professional
+    Amount: USD 211.60
+
+  [17:00:52] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Brandon214 Gerlach374
+    Location: UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC
+    Duration: 17:00:52 - 17:28:09
+
+  [17:00:52] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [17:00:52] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-03-01
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Georgianne697 Leola603 is a 64 year-old nonhispanic white female.
+      # Social History
+
+  [17:00:52] DOCUMENT: History and physical note
+    Status: superseded
+
+  [17:15:03] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [17:28:09] CLAIM: professional
+    Amount: USD 1824.77
+
+
+📅 2024-10-19
+
+  [21:23:21] VISIT: General examination of patient (procedure)
+    Provider: Dr. Denis399 Kohler843
+    Location: DR. HE'S PRIMARY CARE FOR ADULTS INC
+    Duration: 21:23:21 - 21:38:21
+
+  [21:23:21] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [21:23:21] IMMUNIZATION: Pneumococcal conjugate PCV 13
+    Status: completed
+
+  [21:23:21] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-10-19
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Georgianne697 Leola603 is a 65 year-old nonhispanic white female.
+      # Social History
+
+  [21:23:21] DOCUMENT: History and physical note
+    Status: superseded
+
+  [21:38:21] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2025-03-05
+
+  [17:28:09] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Brandon214 Gerlach374
+    Location: UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC
+    Duration: 17:28:09 - 18:12:53
+
+  [17:28:09] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [17:28:09] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-03-05
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Georgianne697 Leola603 is a 65 year-old nonhispanic white female.
+      # Social History
+
+  [17:28:09] DOCUMENT: History and physical note
+    Status: superseded
+
+  [18:12:53] CLAIM: professional
+    Amount: USD 573.98
+
+  [18:12:53] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Brandon214 Gerlach374
+    Location: UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC
+    Duration: 18:12:53 - 18:37:25
+
+  [18:12:53] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [18:12:53] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-03-05
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Georgianne697 Leola603 is a 65 year-old nonhispanic white female.
+      # Social History
+
+  [18:12:53] DOCUMENT: History and physical note
+    Status: superseded
+
+  [18:37:25] CLAIM: professional
+    Amount: USD 211.60
+
+  [18:37:25] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Brandon214 Gerlach374
+    Location: UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC
+    Duration: 18:37:25 - 19:01:33
+
+  [18:37:25] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [18:37:25] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-03-05
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Georgianne697 Leola603 is a 65 year-old nonhispanic white female.
+      # Social History
+
+  [18:37:25] DOCUMENT: History and physical note
+    Status: superseded
+
+  [18:50:12] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [19:01:33] CLAIM: professional
+    Amount: USD 3680.06
+
+
+📅 2025-10-25
+
+  [21:23:21] VISIT: General examination of patient (procedure)
+    Provider: Dr. Denis399 Kohler843
+    Location: DR. HE'S PRIMARY CARE FOR ADULTS INC
+    Duration: 21:23:21 - 21:38:21
+
+  [21:23:21] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [21:23:21] IMMUNIZATION: pneumococcal polysaccharide vaccine, 23 valent
+    Status: completed
+
+  [21:23:21] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-10-25
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Georgianne697 Leola603 is a 66 year-old nonhispanic white female.
+      # Social History
+
+  [21:23:21] DOCUMENT: History and physical note
+    Status: current
+
+  [21:38:21] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2026-02-14
+
+  [20:23:21] PROVENANCE: Record activity
+    Agents: Dr. Denis399 Kohler843, Dr. Denis399 Kohler843
+
+================================================================================
+END OF TIMELINE (229 events)
+================================================================================

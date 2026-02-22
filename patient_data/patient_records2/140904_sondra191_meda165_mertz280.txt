@@ -1,0 +1,321 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Mrs. Sondra191 Meda165 Mertz280
+  Patient ID: 140904
+  Date of Birth: 1957-12-07
+  Gender: Female
+  Race: White
+  Ethnicity: Not Hispanic or Latino
+  Marital Status: Divorced
+  Address: 969 Armstrong Alley, Lawrence, MA 01843
+  Phone: 555-228-5871
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2017-01-28
+
+  [02:31:38] VISIT: General examination of patient (procedure)
+    Provider: Dr. Gerardo48 Viera553
+    Location: GREATER LAWRENCE FAMILY HEALTH CENTER INC
+    Duration: 02:31:38 - 02:46:38
+
+  [02:31:38] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [02:31:38] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-01-28
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Sondra191 Meda165 is a 59 year-old nonhispanic white female.
+      # Social History
+
+  [02:31:38] DOCUMENT: History and physical note
+    Status: superseded
+
+  [02:46:38] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2018-02-03
+
+  [02:31:38] VISIT: General examination of patient (procedure)
+    Provider: Dr. Gerardo48 Viera553
+    Location: GREATER LAWRENCE FAMILY HEALTH CENTER INC
+    Duration: 02:31:38 - 02:46:38
+
+  [02:31:38] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [02:31:38] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-02-03
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Sondra191 Meda165 is a 60 year-old nonhispanic white female.
+      # Social History
+
+  [02:31:38] DOCUMENT: History and physical note
+    Status: superseded
+
+  [02:46:38] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2019-02-09
+
+  [02:31:38] VISIT: General examination of patient (procedure)
+    Provider: Dr. Gerardo48 Viera553
+    Location: GREATER LAWRENCE FAMILY HEALTH CENTER INC
+    Duration: 02:31:38 - 02:46:38
+
+  [02:31:38] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [02:31:38] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [02:31:38] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-02-09
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Sondra191 Meda165 is a 61 year-old nonhispanic white female.
+      # Social History
+
+  [02:31:38] DOCUMENT: History and physical note
+    Status: superseded
+
+  [02:46:38] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2020-02-15
+
+  [02:31:38] VISIT: General examination of patient (procedure)
+    Provider: Dr. Gerardo48 Viera553
+    Location: GREATER LAWRENCE FAMILY HEALTH CENTER INC
+    Duration: 02:31:38 - 02:46:38
+
+  [02:31:38] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [02:31:38] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-02-15
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Sondra191 Meda165 is a 62 year-old nonhispanic white female.
+      # Social History
+
+  [02:31:38] DOCUMENT: History and physical note
+    Status: superseded
+
+  [02:46:38] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2021-02-20
+
+  [02:31:38] VISIT: General examination of patient (procedure)
+    Provider: Dr. Gerardo48 Viera553
+    Location: GREATER LAWRENCE FAMILY HEALTH CENTER INC
+    Duration: 02:31:38 - 02:46:38
+
+  [02:31:38] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [02:31:38] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-02-20
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Sondra191 Meda165 is a 63 year-old nonhispanic white female.
+      # Social History
+
+  [02:31:38] DOCUMENT: History and physical note
+    Status: superseded
+
+  [02:46:38] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2021-04-03
+
+  [03:31:38] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Carisa395 Kutch271
+    Location: LAWRENCE GENERAL HOSPITAL
+    Duration: 03:31:38 - 03:46:38
+
+  [03:31:38] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+    Status: completed
+
+  [03:31:38] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-04-03
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Sondra191 Meda165 is a 63 year-old nonhispanic white female.
+      # Social History
+
+  [03:31:38] DOCUMENT: History and physical note
+    Status: superseded
+
+  [03:46:38] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-05-01
+
+  [03:31:38] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Carisa395 Kutch271
+    Location: LAWRENCE GENERAL HOSPITAL
+    Duration: 03:31:38 - 03:46:38
+
+  [03:31:38] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+    Status: completed
+
+  [03:31:38] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-05-01
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Sondra191 Meda165 is a 63 year-old nonhispanic white female.
+      # Social History
+
+  [03:31:38] DOCUMENT: History and physical note
+    Status: superseded
+
+  [03:46:38] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2022-02-26
+
+  [02:31:38] VISIT: General examination of patient (procedure)
+    Provider: Dr. Gerardo48 Viera553
+    Location: GREATER LAWRENCE FAMILY HEALTH CENTER INC
+    Duration: 02:31:38 - 02:46:38
+
+  [02:31:38] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [02:31:38] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-02-26
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Sondra191 Meda165 is a 64 year-old nonhispanic white female.
+      # Social History
+
+  [02:31:38] DOCUMENT: History and physical note
+    Status: superseded
+
+  [02:46:38] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2023-03-04
+
+  [02:31:38] VISIT: General examination of patient (procedure)
+    Provider: Dr. Gerardo48 Viera553
+    Location: GREATER LAWRENCE FAMILY HEALTH CENTER INC
+    Duration: 02:31:38 - 02:46:38
+
+  [02:31:38] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [02:31:38] IMMUNIZATION: Pneumococcal conjugate PCV 13
+    Status: completed
+
+  [02:31:38] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-03-04
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Sondra191 Meda165 is a 65 year-old nonhispanic white female.
+      # Social History
+
+  [02:31:38] DOCUMENT: History and physical note
+    Status: superseded
+
+  [02:46:38] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2024-03-09
+
+  [02:31:38] VISIT: General examination of patient (procedure)
+    Provider: Dr. Gerardo48 Viera553
+    Location: GREATER LAWRENCE FAMILY HEALTH CENTER INC
+    Duration: 02:31:38 - 02:46:38
+
+  [02:31:38] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [02:31:38] IMMUNIZATION: pneumococcal polysaccharide vaccine, 23 valent
+    Status: completed
+
+  [02:31:38] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-03-09
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Sondra191 Meda165 is a 66 year-old nonhispanic white female.
+      # Social History
+
+  [02:31:38] DOCUMENT: History and physical note
+    Status: superseded
+
+  [02:46:38] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2025-03-15
+
+  [03:31:38] VISIT: General examination of patient (procedure)
+    Provider: Dr. Gerardo48 Viera553
+    Location: GREATER LAWRENCE FAMILY HEALTH CENTER INC
+    Duration: 03:31:38 - 03:46:38
+
+  [03:31:38] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [03:31:38] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-03-15
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Sondra191 Meda165 is a 67 year-old nonhispanic white female.
+      # Social History
+
+  [03:31:38] DOCUMENT: History and physical note
+    Status: current
+
+  [03:46:38] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2026-02-14
+
+  [02:31:38] PROVENANCE: Record activity
+    Agents: Dr. Gerardo48 Viera553, Dr. Gerardo48 Viera553
+
+================================================================================
+END OF TIMELINE (59 events)
+================================================================================

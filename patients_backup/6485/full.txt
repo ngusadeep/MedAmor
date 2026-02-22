@@ -1,0 +1,442 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Mrs. Alia555 Nakesha793 Wiza601
+  Patient ID: 6485
+  Date of Birth: 1985-06-10
+  Gender: Female
+  Race: White
+  Ethnicity: Not Hispanic or Latino
+  Marital Status: Married
+  Address: 320 Langworth Branch Apt 45, Newton, MA 02472
+  Phone: 555-122-5068
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2016-08-22
+
+  [15:27:05] VISIT: General examination of patient (procedure)
+    Provider: Dr. Elvin140 Marks830
+    Location: STANFORD HEALTH CARE
+    Duration: 15:27:05 - 15:42:05
+
+  [15:27:05] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [15:27:05] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [15:27:05] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-08-22
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Alia555 Nakesha793 is a 31 year-old nonhispanic white female.
+      # Social History
+
+  [15:27:05] DOCUMENT: History and physical note
+    Status: superseded
+
+  [15:42:05] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2019-08-26
+
+  [15:27:05] VISIT: General examination of patient (procedure)
+    Provider: Dr. Elvin140 Marks830
+    Location: STANFORD HEALTH CARE
+    Duration: 15:27:05 - 15:42:05
+
+  [15:27:05] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [15:27:05] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-08-26
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Alia555 Nakesha793 is a 34 year-old nonhispanic white female.
+      # Social History
+
+  [15:27:05] DOCUMENT: History and physical note
+    Status: superseded
+
+  [15:42:05] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2022-08-29
+
+  [15:27:05] VISIT: General examination of patient (procedure)
+    Provider: Dr. Elvin140 Marks830
+    Location: STANFORD HEALTH CARE
+    Duration: 15:27:05 - 15:42:05
+
+  [15:27:05] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [15:27:05] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-08-29
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Alia555 Nakesha793 is a 37 year-old nonhispanic white female.
+      # Social History
+
+  [15:27:05] DOCUMENT: History and physical note
+    Status: superseded
+
+  [15:42:05] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2025-06-16
+
+  [15:27:05] VISIT: General examination of patient (procedure)
+    Provider: Dr. Elvin140 Marks830
+    Location: STANFORD HEALTH CARE
+    Duration: 15:27:05 - 15:42:05
+
+  [15:27:05] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [15:27:05] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [15:27:05] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-06-16
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Alia555 Nakesha793 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [15:27:05] DOCUMENT: History and physical note
+    Status: superseded
+
+  [15:42:05] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2025-10-12
+
+  [15:27:05] VISIT: Periodic reevaluation and management of healthy individual (procedure)
+    Reason: Screening for malignant neoplasm of breast (procedure)
+    Provider: Dr. Dewayne363 Lemke654
+    Location: MOUNT AUBURN HOSPITAL
+    Duration: 15:27:05 - 19:09:26
+
+  [15:27:05] PROCEDURE: Screening mammography (procedure)
+    Status: completed
+
+  [15:27:05] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-10-12
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Alia555 Nakesha793 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [15:27:05] DOCUMENT: History and physical note
+    Status: superseded
+
+  [15:47:41] PROCEDURE: Magnetic resonance imaging of breast (procedure)
+    Status: completed
+
+  [16:58:21] PROCEDURE: Biopsy of breast (procedure)
+    Status: completed
+
+  [17:47:26] CONDITION: Malignant neoplasm of breast (disorder) (active)
+
+  [17:47:26] OBSERVATION: Site of distant metastasis in Breast tumor: None (qualifier value)
+
+  [17:47:26] OBSERVATION: Distant metastases.clinical [Class] Cancer: American Joint Committee on Cancer cM0 (qualifier value)
+
+  [17:47:26] OBSERVATION: Size.maximum dimension in Tumor: 1.5748 cm
+
+  [17:47:26] OBSERVATION: Primary tumor.clinical [Class] Cancer: American Joint Committee on Cancer cT1 (qualifier value)
+
+  [17:47:26] OBSERVATION: Lymph nodes with isolated tumor cells [#] in Cancer specimen by Light microscopy: 0 {#}
+
+  [17:47:26] OBSERVATION: Regional lymph nodes.clinical [Class] Cancer: American Joint Committee on Cancer cN0 (qualifier value)
+
+  [17:47:26] PROCEDURE: Human epidermal growth factor receptor 2 gene detection by fluorescence in situ hybridization (procedure)
+    Status: completed
+
+
+📅 2025-10-14
+
+  [16:47:26] PROCEDURE: Human epidermal growth factor receptor 2 gene detection by immunohistochemistry (procedure)
+    Status: completed
+
+  [19:09:26] OBSERVATION: HER2 [Presence] in Breast cancer specimen by Immune stain: Negative (qualifier value)
+
+  [19:09:26] OBSERVATION: ERBB2 gene duplication [Presence] in Breast cancer specimen by FISH: less than 1.8
+
+  [19:09:26] OBSERVATION: Estrogen receptor Ag [Presence] in Breast cancer specimen by Immune stain: Negative (qualifier value)
+
+  [19:09:26] OBSERVATION: Progesterone receptor Ag [Presence] in Breast cancer specimen by Immune stain: Positive (qualifier value)
+
+  [19:09:26] OBSERVATION: Stage group.clinical Cancer: American Joint Committee on Cancer stage IA (qualifier value)
+
+  [19:09:26] OBSERVATION: Stage group.clinical Cancer: Stage 1 (qualifier value)
+
+  [19:09:26] CLAIM: professional
+    Amount: USD 8638.99
+
+
+📅 2025-10-16
+
+  [21:09:26] VISIT: Discussion about treatment (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Dewayne363 Lemke654
+    Location: MOUNT AUBURN HOSPITAL
+    Duration: 21:09:26 - 21:56:31
+
+  [21:09:26] PROCEDURE: Discussion about options (procedure)
+    Status: completed
+
+  [21:09:26] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-10-16
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Alia555 Nakesha793 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [21:09:26] DOCUMENT: History and physical note
+    Status: superseded
+
+  [21:56:31] CLAIM: professional
+    Amount: USD 573.98
+
+
+📅 2025-10-19
+
+  [19:56:31] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Dewayne363 Lemke654
+    Location: MOUNT AUBURN HOSPITAL
+    Duration: 19:56:31 - 00:10:31
+
+  [19:56:31] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-10-19
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Alia555 Nakesha793 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [19:56:31] DOCUMENT: History and physical note
+    Status: superseded
+
+  [21:40:31] PROCEDURE: Excision of lesion of breast (procedure)
+    Status: completed
+
+
+📅 2025-10-24
+
+  [00:10:31] CLAIM: institutional
+    Amount: USD 519.11
+
+
+📅 2025-11-04
+
+  [04:10:31] VISIT: Encounter for problem (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Dewayne363 Lemke654
+    Location: MOUNT AUBURN HOSPITAL
+    Duration: 04:10:31 - 04:25:31
+
+  [04:10:31] PROCEDURE: Chemotherapy (procedure)
+    Status: completed
+
+  [04:10:31] MEDICATION PRESCRIBED: Unknown medication
+    Status: completed
+    Prescribed by: Dr. Dewayne363 Lemke654
+
+  [04:10:31] MEDICATION ADMINISTERED: Paclitaxel 100 MG Injection
+    Status: completed
+
+  [04:10:31] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-11-04
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Alia555 Nakesha793 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [04:10:31] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:25:31] CLAIM: pharmacy
+    Amount: USD 0.91
+
+  [04:25:31] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2025-11-24
+
+  [18:25:31] VISIT: Encounter for problem (procedure)
+    Provider: Dr. Dewayne363 Lemke654
+    Location: MOUNT AUBURN HOSPITAL
+    Duration: 18:25:31 - 19:02:31
+
+  [18:25:31] PROCEDURE: Chemotherapy (procedure)
+    Status: completed
+
+  [18:25:31] MEDICATION PRESCRIBED: Unknown medication
+    Status: completed
+    Prescribed by: Dr. Dewayne363 Lemke654
+
+  [18:25:31] MEDICATION ADMINISTERED: Paclitaxel 100 MG Injection
+    Status: completed
+
+  [18:25:31] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-11-24
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Alia555 Nakesha793 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [18:25:31] DOCUMENT: History and physical note
+    Status: superseded
+
+  [19:02:31] CLAIM: pharmacy
+    Amount: USD 1.42
+
+  [19:02:31] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2025-12-17
+
+  [18:02:31] VISIT: Encounter for problem (procedure)
+    Provider: Dr. Dewayne363 Lemke654
+    Location: MOUNT AUBURN HOSPITAL
+    Duration: 18:02:31 - 19:08:31
+
+  [18:02:31] PROCEDURE: Chemotherapy (procedure)
+    Status: completed
+
+  [18:02:31] MEDICATION PRESCRIBED: Unknown medication
+    Status: completed
+    Prescribed by: Dr. Dewayne363 Lemke654
+
+  [18:02:31] MEDICATION ADMINISTERED: Paclitaxel 100 MG Injection
+    Status: completed
+
+  [18:02:31] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-12-17
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Alia555 Nakesha793 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [18:02:31] DOCUMENT: History and physical note
+    Status: superseded
+
+  [19:08:31] CLAIM: pharmacy
+    Amount: USD 0.91
+
+  [19:08:31] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2026-01-07
+
+  [21:08:31] VISIT: Encounter for problem (procedure)
+    Provider: Dr. Dewayne363 Lemke654
+    Location: MOUNT AUBURN HOSPITAL
+    Duration: 21:08:31 - 22:42:31
+
+  [21:08:31] PROCEDURE: Chemotherapy (procedure)
+    Status: completed
+
+  [21:08:31] MEDICATION PRESCRIBED: Unknown medication
+    Status: completed
+    Prescribed by: Dr. Dewayne363 Lemke654
+
+  [21:08:31] MEDICATION ADMINISTERED: Paclitaxel 100 MG Injection
+    Status: completed
+
+  [21:08:31] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2026-01-07
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Alia555 Nakesha793 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [21:08:31] DOCUMENT: History and physical note
+    Status: superseded
+
+  [22:42:31] CLAIM: pharmacy
+    Amount: USD 2.57
+
+  [22:42:31] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2026-01-27
+
+  [11:42:31] VISIT: Encounter for problem (procedure)
+    Provider: Dr. Dewayne363 Lemke654
+    Location: MOUNT AUBURN HOSPITAL
+    Duration: 11:42:31 - 13:01:31
+
+  [11:42:31] PROCEDURE: Chemotherapy (procedure)
+    Status: completed
+
+  [11:42:31] MEDICATION PRESCRIBED: Unknown medication
+    Status: completed
+    Prescribed by: Dr. Dewayne363 Lemke654
+
+  [11:42:31] MEDICATION ADMINISTERED: Paclitaxel 100 MG Injection
+    Status: completed
+
+  [11:42:31] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2026-01-27
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Alia555 Nakesha793 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [11:42:31] DOCUMENT: History and physical note
+    Status: current
+
+  [13:01:31] CLAIM: pharmacy
+    Amount: USD 3.53
+
+  [13:01:31] CLAIM: professional
+    Amount: USD 516.95
+
+
+📅 2026-02-09
+
+  [14:27:05] PROVENANCE: Record activity
+    Agents: Dr. Dewayne363 Lemke654, Dr. Dewayne363 Lemke654
+
+================================================================================
+END OF TIMELINE (95 events)
+================================================================================

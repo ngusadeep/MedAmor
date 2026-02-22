@@ -1,0 +1,191 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Mrs. Shawnda528 Hoppe518
+  Patient ID: 137297
+  Date of Birth: 1980-07-27
+  Gender: Female
+  Race: White
+  Ethnicity: Not Hispanic or Latino
+  Marital Status: Married
+  Address: 160 Block Junction Suite 53, Billerica, MA 00000
+  Phone: 555-734-6223
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2017-10-15
+
+  [05:33:01] VISIT: General examination of patient (procedure)
+    Provider: Dr. Chris95 Haag279
+    Location: GREATER LOWELL FAMILY PRACTICE PC
+    Duration: 05:33:01 - 05:48:01
+
+  [05:33:01] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [05:33:01] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-10-15
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Shawnda528 is a 37 year-old nonhispanic white female.
+      # Social History
+
+  [05:33:01] DOCUMENT: History and physical note
+    Status: superseded
+
+  [05:48:01] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2020-08-02
+
+  [05:33:01] VISIT: General examination of patient (procedure)
+    Provider: Dr. Chris95 Haag279
+    Location: GREATER LOWELL FAMILY PRACTICE PC
+    Duration: 05:33:01 - 05:48:01
+
+  [05:33:01] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [05:33:01] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [05:33:01] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-08-02
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Shawnda528 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [05:33:01] DOCUMENT: History and physical note
+    Status: superseded
+
+  [05:48:01] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2021-04-11
+
+  [05:33:01] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Carlton317 Koch169
+    Location: TEWKSBURY HOSPITAL
+    Duration: 05:33:01 - 05:48:01
+
+  [05:33:01] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+    Status: completed
+
+  [05:33:01] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-04-11
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Shawnda528 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [05:33:01] DOCUMENT: History and physical note
+    Status: superseded
+
+  [05:48:01] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-05-09
+
+  [05:33:01] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Carlton317 Koch169
+    Location: TEWKSBURY HOSPITAL
+    Duration: 05:33:01 - 05:48:01
+
+  [05:33:01] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+    Status: completed
+
+  [05:33:01] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-05-09
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Shawnda528 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [05:33:01] DOCUMENT: History and physical note
+    Status: superseded
+
+  [05:48:01] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2022-08-07
+
+  [05:33:01] VISIT: General examination of patient (procedure)
+    Provider: Dr. Chris95 Haag279
+    Location: GREATER LOWELL FAMILY PRACTICE PC
+    Duration: 05:33:01 - 05:48:01
+
+  [05:33:01] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [05:33:01] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [05:33:01] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [05:33:01] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-08-07
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Shawnda528 is a 42 year-old nonhispanic white female.
+      # Social History
+
+  [05:33:01] DOCUMENT: History and physical note
+    Status: superseded
+
+  [05:48:01] CLAIM: professional
+    Amount: USD 544.80
+
+
+📅 2024-08-11
+
+  [05:33:01] VISIT: General examination of patient (procedure)
+    Provider: Dr. Chris95 Haag279
+    Location: GREATER LOWELL FAMILY PRACTICE PC
+    Duration: 05:33:01 - 05:48:01
+
+  [05:33:01] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [05:33:01] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-08-11
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Shawnda528 is a 44 year-old nonhispanic white female.
+      # Social History
+
+  [05:33:01] DOCUMENT: History and physical note
+    Status: current
+
+  [05:48:01] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2026-02-15
+
+  [04:33:01] PROVENANCE: Record activity
+    Agents: Dr. Chris95 Haag279, Dr. Chris95 Haag279
+
+================================================================================
+END OF TIMELINE (34 events)
+================================================================================

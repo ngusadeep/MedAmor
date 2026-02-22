@@ -1,0 +1,191 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Mrs. Katharina121 Janell58 Nienow652
+  Patient ID: 78097
+  Date of Birth: 1981-07-11
+  Gender: Female
+  Race: Asian
+  Ethnicity: Not Hispanic or Latino
+  Marital Status: Married
+  Address: 268 Schowalter Wynd Unit 41, Everett, MA 02148
+  Phone: 555-580-1820
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2018-09-29
+
+  [02:19:54] VISIT: General examination of patient (procedure)
+    Provider: Dr. Nicholle822 Satterfield305
+    Location: MELROSE INTERNAL MEDICINE ASSOC PC
+    Duration: 02:19:54 - 02:34:54
+
+  [02:19:54] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [02:19:54] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-09-29
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Katharina121 Janell58 is a 37 year-old nonhispanic asian female.
+      # Social History
+
+  [02:19:54] DOCUMENT: History and physical note
+    Status: superseded
+
+  [02:34:54] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2021-03-27
+
+  [02:19:54] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Nicolás801 Nieves278
+    Location: MELROSEWAKEFIELD HEALTHCARE, INC
+    Duration: 02:19:54 - 02:34:54
+
+  [02:19:54] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+    Status: completed
+
+  [02:19:54] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-03-27
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Katharina121 Janell58 is a 39 year-old nonhispanic asian female.
+      # Social History
+
+  [02:19:54] DOCUMENT: History and physical note
+    Status: superseded
+
+  [02:34:54] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-04-24
+
+  [02:19:54] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Nicolás801 Nieves278
+    Location: MELROSEWAKEFIELD HEALTHCARE, INC
+    Duration: 02:19:54 - 02:34:54
+
+  [02:19:54] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+    Status: completed
+
+  [02:19:54] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-04-24
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Katharina121 Janell58 is a 39 year-old nonhispanic asian female.
+      # Social History
+
+  [02:19:54] DOCUMENT: History and physical note
+    Status: superseded
+
+  [02:34:54] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-07-17
+
+  [02:19:54] VISIT: General examination of patient (procedure)
+    Provider: Dr. Nicholle822 Satterfield305
+    Location: MELROSE INTERNAL MEDICINE ASSOC PC
+    Duration: 02:19:54 - 02:34:54
+
+  [02:19:54] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [02:19:54] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [02:19:54] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-07-17
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Katharina121 Janell58 is a 40 year-old nonhispanic asian female.
+      # Social History
+
+  [02:19:54] DOCUMENT: History and physical note
+    Status: superseded
+
+  [02:34:54] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2023-07-22
+
+  [02:19:54] VISIT: General examination of patient (procedure)
+    Provider: Dr. Nicholle822 Satterfield305
+    Location: MELROSE INTERNAL MEDICINE ASSOC PC
+    Duration: 02:19:54 - 02:34:54
+
+  [02:19:54] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [02:19:54] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [02:19:54] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [02:19:54] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-07-22
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Katharina121 Janell58 is a 42 year-old nonhispanic asian female.
+      # Social History
+
+  [02:19:54] DOCUMENT: History and physical note
+    Status: superseded
+
+  [02:34:54] CLAIM: professional
+    Amount: USD 544.80
+
+
+📅 2025-07-26
+
+  [02:19:54] VISIT: General examination of patient (procedure)
+    Provider: Dr. Nicholle822 Satterfield305
+    Location: MELROSE INTERNAL MEDICINE ASSOC PC
+    Duration: 02:19:54 - 02:34:54
+
+  [02:19:54] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [02:19:54] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-07-26
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Katharina121 Janell58 is a 44 year-old nonhispanic asian female.
+      # Social History
+
+  [02:19:54] DOCUMENT: History and physical note
+    Status: current
+
+  [02:34:54] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2026-02-14
+
+  [01:19:54] PROVENANCE: Record activity
+    Agents: Dr. Nicholle822 Satterfield305, Dr. Nicholle822 Satterfield305
+
+================================================================================
+END OF TIMELINE (34 events)
+================================================================================

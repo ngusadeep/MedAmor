@@ -1,0 +1,139 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Ms. Thao506 Janet238 Schaefer657
+  Patient ID: 147256
+  Date of Birth: 1983-10-03
+  Gender: Female
+  Race: White
+  Ethnicity: Not Hispanic or Latino
+  Marital Status: Never Married
+  Address: 419 Anderson Glen, Falmouth, MA 02540
+  Phone: 555-385-4405
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2017-12-18
+
+  [09:49:01] VISIT: General examination of patient (procedure)
+    Provider: Dr. Damian46 Hansen121
+    Location: COMMUNITY HEALTH CENTER OF CAPE COD, INC.
+    Duration: 09:49:01 - 10:04:01
+
+  [09:49:01] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [09:49:01] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-12-18
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Thao506 is a 34 year-old nonhispanic white female.
+      # Social History
+
+  [09:49:01] DOCUMENT: History and physical note
+    Status: superseded
+
+  [10:04:01] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2020-12-21
+
+  [09:49:01] VISIT: General examination of patient (procedure)
+    Provider: Dr. Damian46 Hansen121
+    Location: COMMUNITY HEALTH CENTER OF CAPE COD, INC.
+    Duration: 09:49:01 - 10:04:01
+
+  [09:49:01] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [09:49:01] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-12-21
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Thao506 is a 37 year-old nonhispanic white female.
+      # Social History
+
+  [09:49:01] DOCUMENT: History and physical note
+    Status: superseded
+
+  [10:04:01] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2023-10-09
+
+  [10:49:01] VISIT: General examination of patient (procedure)
+    Provider: Dr. Damian46 Hansen121
+    Location: COMMUNITY HEALTH CENTER OF CAPE COD, INC.
+    Duration: 10:49:01 - 11:04:01
+
+  [10:49:01] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [10:49:01] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [10:49:01] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-10-09
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Thao506 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [10:49:01] DOCUMENT: History and physical note
+    Status: superseded
+
+  [11:04:01] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2025-10-13
+
+  [10:49:01] VISIT: General examination of patient (procedure)
+    Provider: Dr. Damian46 Hansen121
+    Location: COMMUNITY HEALTH CENTER OF CAPE COD, INC.
+    Duration: 10:49:01 - 11:04:01
+
+  [10:49:01] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [10:49:01] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [10:49:01] IMMUNIZATION: Hep A, adult
+    Status: completed
+
+  [10:49:01] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-10-13
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Thao506 is a 42 year-old nonhispanic white female.
+      # Social History
+
+  [10:49:01] DOCUMENT: History and physical note
+    Status: current
+
+  [11:04:01] CLAIM: professional
+    Amount: USD 544.80
+
+
+📅 2026-02-16
+
+  [09:49:01] PROVENANCE: Record activity
+    Agents: Dr. Damian46 Hansen121, Dr. Damian46 Hansen121
+
+================================================================================
+END OF TIMELINE (24 events)
+================================================================================

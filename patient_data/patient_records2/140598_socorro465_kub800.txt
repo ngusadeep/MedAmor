@@ -1,0 +1,1159 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Mrs. Socorro465 Kub800
+  Patient ID: 140598
+  Date of Birth: 1956-08-29
+  Gender: Female
+  Race: Asian
+  Ethnicity: Not Hispanic or Latino
+  Marital Status: Divorced
+  Address: 1030 Hahn Rue, Sudbury, MA 00000
+  Phone: 555-591-6507
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 1988-06-24
+
+  [11:17:50] VISIT: Periodic reevaluation and management of healthy individual (procedure)
+    Reason: Screening for malignant neoplasm of breast (procedure)
+    Provider: Dr. Leonarda398 Schumm995
+    Location: ENCOMPASS HEALTH BRAINTREE HOSPITAL OF BRAINTREE
+    Duration: 11:17:50 - 20:10:24
+
+  [11:17:50] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      1988-06-24
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Socorro465 is a 31 year-old nonhispanic asian female.
+      # Social History
+
+  [11:17:50] DOCUMENT: History and physical note
+    Status: superseded
+
+  [12:58:24] CONDITION: Malignant neoplasm of breast (disorder) (active)
+
+
+📅 1988-06-25
+
+  [20:10:24] CLAIM: professional
+    Amount: USD 9699.51
+
+
+📅 2016-03-05
+
+  [23:14:03] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Leonarda398 Schumm995
+    Location: ENCOMPASS HEALTH BRAINTREE HOSPITAL OF BRAINTREE
+    Duration: 23:14:03 - 23:47:54
+
+  [23:14:03] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [23:14:03] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-03-05
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Socorro465 is a 59 year-old nonhispanic asian female.
+      # Social History
+
+  [23:14:03] DOCUMENT: History and physical note
+    Status: superseded
+
+  [23:47:54] CLAIM: professional
+    Amount: USD 573.98
+
+  [23:47:54] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Leonarda398 Schumm995
+    Location: ENCOMPASS HEALTH BRAINTREE HOSPITAL OF BRAINTREE
+    Duration: 23:47:54 - 00:05:49
+
+  [23:47:54] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [23:47:54] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-03-05
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Socorro465 is a 59 year-old nonhispanic asian female.
+      # Social History
+
+  [23:47:54] DOCUMENT: History and physical note
+    Status: superseded
+
+
+📅 2016-03-06
+
+  [00:05:49] CLAIM: professional
+    Amount: USD 224.30
+
+  [00:05:49] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Leonarda398 Schumm995
+    Location: ENCOMPASS HEALTH BRAINTREE HOSPITAL OF BRAINTREE
+    Duration: 00:05:49 - 00:37:10
+
+  [00:05:49] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [00:05:49] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-03-06
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Socorro465 is a 59 year-old nonhispanic asian female.
+      # Social History
+
+  [00:05:49] DOCUMENT: History and physical note
+    Status: superseded
+
+  [00:20:00] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [00:37:10] CLAIM: professional
+    Amount: USD 1091.66
+
+
+📅 2016-10-26
+
+  [11:17:50] VISIT: General examination of patient (procedure)
+    Provider: Dr. Heriberto162 Ondricka197
+    Location: COMPASSIONATE CARE INTERNAL MEDICINE, LLC
+    Duration: 11:17:50 - 11:32:50
+
+  [11:17:50] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [11:17:50] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-10-26
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Socorro465 is a 60 year-old nonhispanic asian female.
+      # Social History
+
+  [11:17:50] DOCUMENT: History and physical note
+    Status: superseded
+
+  [11:32:50] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2017-02-12
+
+  [00:37:10] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Leonarda398 Schumm995
+    Location: ENCOMPASS HEALTH BRAINTREE HOSPITAL OF BRAINTREE
+    Duration: 00:37:10 - 01:17:20
+
+  [00:37:10] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [00:37:10] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-02-12
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Socorro465 is a 60 year-old nonhispanic asian female.
+      # Social History
+
+  [00:37:10] DOCUMENT: History and physical note
+    Status: superseded
+
+  [01:17:20] CLAIM: professional
+    Amount: USD 573.98
+
+  [01:17:20] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Leonarda398 Schumm995
+    Location: ENCOMPASS HEALTH BRAINTREE HOSPITAL OF BRAINTREE
+    Duration: 01:17:20 - 01:33:55
+
+  [01:17:20] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [01:17:20] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-02-12
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Socorro465 is a 60 year-old nonhispanic asian female.
+      # Social History
+
+  [01:17:20] DOCUMENT: History and physical note
+    Status: superseded
+
+  [01:33:55] CLAIM: professional
+    Amount: USD 325.49
+
+  [01:33:55] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Leonarda398 Schumm995
+    Location: ENCOMPASS HEALTH BRAINTREE HOSPITAL OF BRAINTREE
+    Duration: 01:33:55 - 02:00:00
+
+  [01:33:55] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [01:33:55] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-02-12
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Socorro465 is a 60 year-old nonhispanic asian female.
+      # Social History
+
+  [01:33:55] DOCUMENT: History and physical note
+    Status: superseded
+
+  [01:47:35] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [02:00:00] CLAIM: professional
+    Amount: USD 1176.04
+
+
+📅 2017-11-01
+
+  [11:17:50] VISIT: General examination of patient (procedure)
+    Provider: Dr. Heriberto162 Ondricka197
+    Location: COMPASSIONATE CARE INTERNAL MEDICINE, LLC
+    Duration: 11:17:50 - 11:32:50
+
+  [11:17:50] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [11:17:50] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [11:17:50] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-11-01
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Socorro465 is a 61 year-old nonhispanic asian female.
+      # Social History
+
+  [11:17:50] DOCUMENT: History and physical note
+    Status: superseded
+
+  [11:32:50] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2018-02-03
+
+  [02:00:00] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Leonarda398 Schumm995
+    Location: ENCOMPASS HEALTH BRAINTREE HOSPITAL OF BRAINTREE
+    Duration: 02:00:00 - 02:35:20
+
+  [02:00:00] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [02:00:00] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-02-03
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Socorro465 is a 61 year-old nonhispanic asian female.
+      # Social History
+
+  [02:00:00] DOCUMENT: History and physical note
+    Status: superseded
+
+  [02:35:20] CLAIM: professional
+    Amount: USD 573.98
+
+  [02:35:20] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Leonarda398 Schumm995
+    Location: ENCOMPASS HEALTH BRAINTREE HOSPITAL OF BRAINTREE
+    Duration: 02:35:20 - 02:51:48
+
+  [02:35:20] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [02:35:20] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-02-03
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Socorro465 is a 61 year-old nonhispanic asian female.
+      # Social History
+
+  [02:35:20] DOCUMENT: History and physical note
+    Status: superseded
+
+  [02:51:48] CLAIM: professional
+    Amount: USD 211.60
+
+  [02:51:48] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Leonarda398 Schumm995
+    Location: ENCOMPASS HEALTH BRAINTREE HOSPITAL OF BRAINTREE
+    Duration: 02:51:48 - 03:17:01
+
+  [02:51:48] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [02:51:48] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-02-03
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Socorro465 is a 61 year-old nonhispanic asian female.
+      # Social History
+
+  [02:51:48] DOCUMENT: History and physical note
+    Status: superseded
+
+  [03:03:56] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [03:17:01] CLAIM: professional
+    Amount: USD 1117.48
+
+
+📅 2018-11-07
+
+  [10:17:50] VISIT: General examination of patient (procedure)
+    Provider: Dr. Heriberto162 Ondricka197
+    Location: COMPASSIONATE CARE INTERNAL MEDICINE, LLC
+    Duration: 10:17:50 - 10:32:50
+
+  [10:17:50] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [10:17:50] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-11-07
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Socorro465 is a 62 year-old nonhispanic asian female.
+      # Social History
+
+  [10:17:50] DOCUMENT: History and physical note
+    Status: superseded
+
+  [10:32:50] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2019-02-04
+
+  [03:17:01] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Leonarda398 Schumm995
+    Location: ENCOMPASS HEALTH BRAINTREE HOSPITAL OF BRAINTREE
+    Duration: 03:17:01 - 03:47:12
+
+  [03:17:01] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [03:17:01] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-02-04
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Socorro465 is a 62 year-old nonhispanic asian female.
+      # Social History
+
+  [03:17:01] DOCUMENT: History and physical note
+    Status: superseded
+
+  [03:47:12] CLAIM: professional
+    Amount: USD 573.98
+
+  [03:47:12] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Leonarda398 Schumm995
+    Location: ENCOMPASS HEALTH BRAINTREE HOSPITAL OF BRAINTREE
+    Duration: 03:47:12 - 04:08:59
+
+  [03:47:12] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [03:47:12] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-02-04
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Socorro465 is a 62 year-old nonhispanic asian female.
+      # Social History
+
+  [03:47:12] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:08:59] CLAIM: professional
+    Amount: USD 211.60
+
+  [04:08:59] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Leonarda398 Schumm995
+    Location: ENCOMPASS HEALTH BRAINTREE HOSPITAL OF BRAINTREE
+    Duration: 04:08:59 - 04:36:24
+
+  [04:08:59] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [04:08:59] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-02-04
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Socorro465 is a 62 year-old nonhispanic asian female.
+      # Social History
+
+  [04:08:59] DOCUMENT: History and physical note
+    Status: superseded
+
+  [04:23:31] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [04:36:24] CLAIM: professional
+    Amount: USD 3285.65
+
+
+📅 2019-11-13
+
+  [10:17:50] VISIT: General examination of patient (procedure)
+    Provider: Dr. Heriberto162 Ondricka197
+    Location: COMPASSIONATE CARE INTERNAL MEDICINE, LLC
+    Duration: 10:17:50 - 10:32:50
+
+  [10:17:50] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [10:17:50] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-11-13
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Socorro465 is a 63 year-old nonhispanic asian female.
+      # Social History
+
+  [10:17:50] DOCUMENT: History and physical note
+    Status: superseded
+
+  [10:32:50] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2020-01-19
+
+  [04:36:24] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Leonarda398 Schumm995
+    Location: ENCOMPASS HEALTH BRAINTREE HOSPITAL OF BRAINTREE
+    Duration: 04:36:24 - 05:17:23
+
+  [04:36:24] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [04:36:24] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-01-19
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Socorro465 is a 63 year-old nonhispanic asian female.
+      # Social History
+
+  [04:36:24] DOCUMENT: History and physical note
+    Status: superseded
+
+  [05:17:23] CLAIM: professional
+    Amount: USD 573.98
+
+  [05:17:23] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Leonarda398 Schumm995
+    Location: ENCOMPASS HEALTH BRAINTREE HOSPITAL OF BRAINTREE
+    Duration: 05:17:23 - 05:42:08
+
+  [05:17:23] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [05:17:23] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-01-19
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Socorro465 is a 63 year-old nonhispanic asian female.
+      # Social History
+
+  [05:17:23] DOCUMENT: History and physical note
+    Status: superseded
+
+  [05:42:08] CLAIM: professional
+    Amount: USD 226.95
+
+  [05:42:08] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Leonarda398 Schumm995
+    Location: ENCOMPASS HEALTH BRAINTREE HOSPITAL OF BRAINTREE
+    Duration: 05:42:08 - 06:05:15
+
+  [05:42:08] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [05:42:08] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-01-19
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Socorro465 is a 63 year-old nonhispanic asian female.
+      # Social History
+
+  [05:42:08] DOCUMENT: History and physical note
+    Status: superseded
+
+  [05:55:05] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [06:05:15] CLAIM: professional
+    Amount: USD 2246.22
+
+
+📅 2020-11-18
+
+  [10:17:50] VISIT: General examination of patient (procedure)
+    Provider: Dr. Heriberto162 Ondricka197
+    Location: COMPASSIONATE CARE INTERNAL MEDICINE, LLC
+    Duration: 10:17:50 - 10:32:50
+
+  [10:17:50] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [10:17:50] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-11-18
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Socorro465 is a 64 year-old nonhispanic asian female.
+      # Social History
+
+  [10:17:50] DOCUMENT: History and physical note
+    Status: superseded
+
+  [10:32:50] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2021-01-19
+
+  [06:05:15] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Leonarda398 Schumm995
+    Location: ENCOMPASS HEALTH BRAINTREE HOSPITAL OF BRAINTREE
+    Duration: 06:05:15 - 06:38:13
+
+  [06:05:15] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [06:05:15] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-01-19
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Socorro465 is a 64 year-old nonhispanic asian female.
+      # Social History
+
+  [06:05:15] DOCUMENT: History and physical note
+    Status: superseded
+
+  [06:38:13] CLAIM: professional
+    Amount: USD 573.98
+
+  [06:38:13] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Leonarda398 Schumm995
+    Location: ENCOMPASS HEALTH BRAINTREE HOSPITAL OF BRAINTREE
+    Duration: 06:38:13 - 06:53:52
+
+  [06:38:13] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [06:38:13] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-01-19
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Socorro465 is a 64 year-old nonhispanic asian female.
+      # Social History
+
+  [06:38:13] DOCUMENT: History and physical note
+    Status: superseded
+
+  [06:53:52] CLAIM: professional
+    Amount: USD 325.49
+
+  [06:53:52] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Leonarda398 Schumm995
+    Location: ENCOMPASS HEALTH BRAINTREE HOSPITAL OF BRAINTREE
+    Duration: 06:53:52 - 07:24:34
+
+  [06:53:52] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [06:53:52] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-01-19
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Socorro465 is a 64 year-old nonhispanic asian female.
+      # Social History
+
+  [06:53:52] DOCUMENT: History and physical note
+    Status: superseded
+
+  [07:06:35] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [07:24:34] CLAIM: professional
+    Amount: USD 1221.08
+
+
+📅 2021-04-28
+
+  [11:17:50] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Leonarda398 Schumm995
+    Location: ENCOMPASS HEALTH BRAINTREE HOSPITAL OF BRAINTREE
+    Duration: 11:17:50 - 11:32:50
+
+  [11:17:50] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+    Status: completed
+
+  [11:17:50] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-04-28
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Socorro465 is a 64 year-old nonhispanic asian female.
+      # Social History
+
+  [11:17:50] DOCUMENT: History and physical note
+    Status: superseded
+
+  [11:32:50] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-05-26
+
+  [11:17:50] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Leonarda398 Schumm995
+    Location: ENCOMPASS HEALTH BRAINTREE HOSPITAL OF BRAINTREE
+    Duration: 11:17:50 - 11:32:50
+
+  [11:17:50] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+    Status: completed
+
+  [11:17:50] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-05-26
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Socorro465 is a 64 year-old nonhispanic asian female.
+      # Social History
+
+  [11:17:50] DOCUMENT: History and physical note
+    Status: superseded
+
+  [11:32:50] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-11-24
+
+  [10:17:50] VISIT: General examination of patient (procedure)
+    Provider: Dr. Heriberto162 Ondricka197
+    Location: COMPASSIONATE CARE INTERNAL MEDICINE, LLC
+    Duration: 10:17:50 - 10:32:50
+
+  [10:17:50] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [10:17:50] IMMUNIZATION: Pneumococcal conjugate PCV 13
+    Status: completed
+
+  [10:17:50] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-11-24
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Socorro465 is a 65 year-old nonhispanic asian female.
+      # Social History
+
+  [10:17:50] DOCUMENT: History and physical note
+    Status: superseded
+
+  [10:32:50] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2022-02-01
+
+  [07:24:34] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Leonarda398 Schumm995
+    Location: ENCOMPASS HEALTH BRAINTREE HOSPITAL OF BRAINTREE
+    Duration: 07:24:34 - 08:00:42
+
+  [07:24:34] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [07:24:34] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-02-01
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Socorro465 is a 65 year-old nonhispanic asian female.
+      # Social History
+
+  [07:24:34] DOCUMENT: History and physical note
+    Status: superseded
+
+  [08:00:42] CLAIM: professional
+    Amount: USD 573.98
+
+  [08:00:42] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Leonarda398 Schumm995
+    Location: ENCOMPASS HEALTH BRAINTREE HOSPITAL OF BRAINTREE
+    Duration: 08:00:42 - 08:21:52
+
+  [08:00:42] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [08:00:42] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-02-01
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Socorro465 is a 65 year-old nonhispanic asian female.
+      # Social History
+
+  [08:00:42] DOCUMENT: History and physical note
+    Status: superseded
+
+  [08:21:52] CLAIM: professional
+    Amount: USD 261.67
+
+  [08:21:52] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Leonarda398 Schumm995
+    Location: ENCOMPASS HEALTH BRAINTREE HOSPITAL OF BRAINTREE
+    Duration: 08:21:52 - 08:50:14
+
+  [08:21:52] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [08:21:52] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-02-01
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Socorro465 is a 65 year-old nonhispanic asian female.
+      # Social History
+
+  [08:21:52] DOCUMENT: History and physical note
+    Status: superseded
+
+  [08:36:41] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [08:50:14] CLAIM: professional
+    Amount: USD 1221.08
+
+
+📅 2022-11-30
+
+  [10:17:50] VISIT: General examination of patient (procedure)
+    Provider: Dr. Heriberto162 Ondricka197
+    Location: COMPASSIONATE CARE INTERNAL MEDICINE, LLC
+    Duration: 10:17:50 - 10:32:50
+
+  [10:17:50] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [10:17:50] IMMUNIZATION: pneumococcal polysaccharide vaccine, 23 valent
+    Status: completed
+
+  [10:17:50] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-11-30
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Socorro465 is a 66 year-old nonhispanic asian female.
+      # Social History
+
+  [10:17:50] DOCUMENT: History and physical note
+    Status: superseded
+
+  [10:32:50] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2023-01-31
+
+  [08:50:14] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Leonarda398 Schumm995
+    Location: ENCOMPASS HEALTH BRAINTREE HOSPITAL OF BRAINTREE
+    Duration: 08:50:14 - 09:26:22
+
+  [08:50:14] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [08:50:14] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-01-31
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Socorro465 is a 66 year-old nonhispanic asian female.
+      # Social History
+
+  [08:50:14] DOCUMENT: History and physical note
+    Status: superseded
+
+  [09:26:22] CLAIM: professional
+    Amount: USD 573.98
+
+  [09:26:22] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Leonarda398 Schumm995
+    Location: ENCOMPASS HEALTH BRAINTREE HOSPITAL OF BRAINTREE
+    Duration: 09:26:22 - 09:41:37
+
+  [09:26:22] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [09:26:22] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-01-31
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Socorro465 is a 66 year-old nonhispanic asian female.
+      # Social History
+
+  [09:26:22] DOCUMENT: History and physical note
+    Status: superseded
+
+  [09:41:37] CLAIM: professional
+    Amount: USD 211.60
+
+  [09:41:37] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Leonarda398 Schumm995
+    Location: ENCOMPASS HEALTH BRAINTREE HOSPITAL OF BRAINTREE
+    Duration: 09:41:37 - 10:08:12
+
+  [09:41:37] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [09:41:37] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-01-31
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Socorro465 is a 66 year-old nonhispanic asian female.
+      # Social History
+
+  [09:41:37] DOCUMENT: History and physical note
+    Status: superseded
+
+  [09:53:57] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [10:08:12] CLAIM: professional
+    Amount: USD 1126.09
+
+
+📅 2023-12-06
+
+  [10:17:50] VISIT: General examination of patient (procedure)
+    Provider: Dr. Heriberto162 Ondricka197
+    Location: COMPASSIONATE CARE INTERNAL MEDICINE, LLC
+    Duration: 10:17:50 - 10:32:50
+
+  [10:17:50] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [10:17:50] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-12-06
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Socorro465 is a 67 year-old nonhispanic asian female.
+      # Social History
+
+  [10:17:50] DOCUMENT: History and physical note
+    Status: superseded
+
+  [10:32:50] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2024-01-27
+
+  [10:08:12] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Leonarda398 Schumm995
+    Location: ENCOMPASS HEALTH BRAINTREE HOSPITAL OF BRAINTREE
+    Duration: 10:08:12 - 10:40:10
+
+  [10:08:12] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [10:08:12] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-01-27
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Socorro465 is a 67 year-old nonhispanic asian female.
+      # Social History
+
+  [10:08:12] DOCUMENT: History and physical note
+    Status: superseded
+
+  [10:40:10] CLAIM: professional
+    Amount: USD 573.98
+
+  [10:40:10] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Leonarda398 Schumm995
+    Location: ENCOMPASS HEALTH BRAINTREE HOSPITAL OF BRAINTREE
+    Duration: 10:40:10 - 11:03:31
+
+  [10:40:10] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [10:40:10] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-01-27
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Socorro465 is a 67 year-old nonhispanic asian female.
+      # Social History
+
+  [10:40:10] DOCUMENT: History and physical note
+    Status: superseded
+
+  [11:03:31] CLAIM: professional
+    Amount: USD 325.49
+
+  [11:03:31] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Leonarda398 Schumm995
+    Location: ENCOMPASS HEALTH BRAINTREE HOSPITAL OF BRAINTREE
+    Duration: 11:03:31 - 11:26:59
+
+  [11:03:31] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [11:03:31] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-01-27
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Socorro465 is a 67 year-old nonhispanic asian female.
+      # Social History
+
+  [11:03:31] DOCUMENT: History and physical note
+    Status: superseded
+
+  [11:15:29] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [11:26:59] CLAIM: professional
+    Amount: USD 1101.72
+
+
+📅 2024-12-11
+
+  [10:17:50] VISIT: General examination of patient (procedure)
+    Provider: Dr. Heriberto162 Ondricka197
+    Location: COMPASSIONATE CARE INTERNAL MEDICINE, LLC
+    Duration: 10:17:50 - 10:32:50
+
+  [10:17:50] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [10:17:50] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-12-11
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Socorro465 is a 68 year-old nonhispanic asian female.
+      # Social History
+
+  [10:17:50] DOCUMENT: History and physical note
+    Status: superseded
+
+  [10:32:50] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2025-01-30
+
+  [11:26:59] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Leonarda398 Schumm995
+    Location: Patient's Home
+    Duration: 11:26:59 - 12:10:27
+
+  [11:26:59] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [11:26:59] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-01-30
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Socorro465 is a 68 year-old nonhispanic asian female.
+      # Social History
+
+  [11:26:59] DOCUMENT: History and physical note
+    Status: superseded
+
+  [12:10:27] CLAIM: institutional
+    Amount: USD 556.40
+
+  [12:10:27] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Leonarda398 Schumm995
+    Location: ENCOMPASS HEALTH BRAINTREE HOSPITAL OF BRAINTREE
+    Duration: 12:10:27 - 12:34:54
+
+  [12:10:27] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [12:10:27] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-01-30
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Socorro465 is a 68 year-old nonhispanic asian female.
+      # Social History
+
+  [12:10:27] DOCUMENT: History and physical note
+    Status: superseded
+
+  [12:34:54] CLAIM: professional
+    Amount: USD 211.60
+
+  [12:34:54] VISIT: Gynecology service (qualifier value)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Leonarda398 Schumm995
+    Location: ENCOMPASS HEALTH BRAINTREE HOSPITAL OF BRAINTREE
+    Duration: 12:34:54 - 13:00:36
+
+  [12:34:54] PROCEDURE: Manual pelvic examination (procedure)
+    Status: completed
+
+  [12:34:54] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-01-30
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Socorro465 is a 68 year-old nonhispanic asian female.
+      # Social History
+
+  [12:34:54] DOCUMENT: History and physical note
+    Status: superseded
+
+  [12:48:12] PROCEDURE: Cytopathology procedure, preparation of smear, genital source (procedure)
+    Status: completed
+
+  [13:00:36] CLAIM: professional
+    Amount: USD 3680.06
+
+
+📅 2025-12-17
+
+  [10:17:50] VISIT: General examination of patient (procedure)
+    Provider: Dr. Heriberto162 Ondricka197
+    Location: COMPASSIONATE CARE INTERNAL MEDICINE, LLC
+    Duration: 10:17:50 - 10:32:50
+
+  [10:17:50] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [10:17:50] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-12-17
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Socorro465 is a 69 year-old nonhispanic asian female.
+      # Social History
+
+  [10:17:50] DOCUMENT: History and physical note
+    Status: current
+
+  [10:32:50] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2026-02-11
+
+  [10:17:50] PROVENANCE: Record activity
+    Agents: Dr. Heriberto162 Ondricka197, Dr. Heriberto162 Ondricka197
+
+================================================================================
+END OF TIMELINE (229 events)
+================================================================================

@@ -1,0 +1,996 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Mrs. Felicidad691 Sheryl275 Windler79
+  Patient ID: 50937
+  Date of Birth: 1971-06-18
+  Gender: Female
+  Race: White
+  Ethnicity: Not Hispanic or Latino
+  Marital Status: Married
+  Address: 589 Skiles Ville Apt 32, Brockton, MA 02301
+  Phone: 555-571-9729
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2011-08-12
+
+  [03:32:12] VISIT: Periodic reevaluation and management of healthy individual (procedure)
+    Reason: Screening for malignant neoplasm of breast (procedure)
+    Provider: Dr. Damaris45 Funk324
+    Location: BROCKTON HOSPITAL, INC.
+    Duration: 03:32:12 - 01:09:02
+
+  [03:32:12] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2011-08-12
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Felicidad691 Sheryl275 is a 40 year-old nonhispanic white female.
+      # Social History
+
+  [03:32:12] DOCUMENT: History and physical note
+    Status: superseded
+
+  [05:14:02] CONDITION: Malignant neoplasm of breast (disorder) (active)
+
+
+📅 2011-08-14
+
+  [01:09:02] CLAIM: professional
+    Amount: USD 5811.74
+
+
+📅 2016-04-08
+
+  [05:54:44] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Damaris45 Funk324
+    Location: BROCKTON HOSPITAL, INC.
+    Duration: 05:54:44 - 06:31:51
+
+  [05:54:44] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [05:54:44] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-04-08
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Felicidad691 Sheryl275 is a 44 year-old nonhispanic white female.
+      # Social History
+
+  [05:54:44] DOCUMENT: History and physical note
+    Status: superseded
+
+  [06:31:51] CLAIM: professional
+    Amount: USD 573.98
+
+  [06:31:51] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Damaris45 Funk324
+    Location: BROCKTON HOSPITAL, INC.
+    Duration: 06:31:51 - 06:55:20
+
+  [06:31:51] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [06:31:51] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-04-08
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Felicidad691 Sheryl275 is a 44 year-old nonhispanic white female.
+      # Social History
+
+  [06:31:51] DOCUMENT: History and physical note
+    Status: superseded
+
+  [06:55:20] CLAIM: professional
+    Amount: USD 300.16
+
+  [06:55:20] VISIT: Follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Damaris45 Funk324
+    Location: BROCKTON HOSPITAL, INC.
+    Duration: 06:55:20 - 07:13:50
+
+  [06:55:20] PROCEDURE: Bone density scan (procedure)
+    Status: completed
+
+  [06:55:20] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-04-08
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Felicidad691 Sheryl275 is a 44 year-old nonhispanic white female.
+      # Social History
+
+  [06:55:20] DOCUMENT: History and physical note
+    Status: superseded
+
+  [07:13:50] CLAIM: professional
+    Amount: USD 11578.46
+
+
+📅 2017-04-23
+
+  [07:13:50] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Damaris45 Funk324
+    Location: BROCKTON HOSPITAL, INC.
+    Duration: 07:13:50 - 07:47:46
+
+  [07:13:50] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [07:13:50] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-04-23
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Felicidad691 Sheryl275 is a 45 year-old nonhispanic white female.
+      # Social History
+
+  [07:13:50] DOCUMENT: History and physical note
+    Status: superseded
+
+  [07:47:46] CLAIM: professional
+    Amount: USD 573.98
+
+  [07:47:46] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Damaris45 Funk324
+    Location: BROCKTON HOSPITAL, INC.
+    Duration: 07:47:46 - 08:10:09
+
+  [07:47:46] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [07:47:46] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-04-23
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Felicidad691 Sheryl275 is a 45 year-old nonhispanic white female.
+      # Social History
+
+  [07:47:46] DOCUMENT: History and physical note
+    Status: superseded
+
+  [08:10:09] CLAIM: professional
+    Amount: USD 223.21
+
+  [08:10:09] VISIT: Follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Damaris45 Funk324
+    Location: BROCKTON HOSPITAL, INC.
+    Duration: 08:10:09 - 08:33:08
+
+  [08:10:09] PROCEDURE: Bone density scan (procedure)
+    Status: completed
+
+  [08:10:09] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-04-23
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Felicidad691 Sheryl275 is a 45 year-old nonhispanic white female.
+      # Social History
+
+  [08:10:09] DOCUMENT: History and physical note
+    Status: superseded
+
+  [08:33:08] CLAIM: professional
+    Amount: USD 11837.18
+
+
+📅 2017-07-07
+
+  [03:32:12] VISIT: General examination of patient (procedure)
+    Provider: Dr. Rebeca548 García15
+    Location: DILIGENCEHEALTHCARE
+    Duration: 03:32:12 - 03:47:12
+
+  [03:32:12] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [03:32:12] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2017-07-07
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Felicidad691 Sheryl275 is a 46 year-old nonhispanic white female.
+      # Social History
+
+  [03:32:12] DOCUMENT: History and physical note
+    Status: superseded
+
+  [03:47:12] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2018-04-18
+
+  [08:33:08] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Damaris45 Funk324
+    Location: BROCKTON HOSPITAL, INC.
+    Duration: 08:33:08 - 09:03:15
+
+  [08:33:08] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [08:33:08] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-04-18
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Felicidad691 Sheryl275 is a 46 year-old nonhispanic white female.
+      # Social History
+
+  [08:33:08] DOCUMENT: History and physical note
+    Status: superseded
+
+  [09:03:15] CLAIM: professional
+    Amount: USD 573.98
+
+  [09:03:15] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Damaris45 Funk324
+    Location: BROCKTON HOSPITAL, INC.
+    Duration: 09:03:15 - 09:21:09
+
+  [09:03:15] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [09:03:15] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-04-18
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Felicidad691 Sheryl275 is a 46 year-old nonhispanic white female.
+      # Social History
+
+  [09:03:15] DOCUMENT: History and physical note
+    Status: superseded
+
+  [09:21:09] CLAIM: professional
+    Amount: USD 211.60
+
+  [09:21:09] VISIT: Follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Damaris45 Funk324
+    Location: BROCKTON HOSPITAL, INC.
+    Duration: 09:21:09 - 09:36:09
+
+  [09:21:09] PROCEDURE: Bone density scan (procedure)
+    Status: completed
+
+  [09:21:09] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-04-18
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Felicidad691 Sheryl275 is a 46 year-old nonhispanic white female.
+      # Social History
+
+  [09:21:09] DOCUMENT: History and physical note
+    Status: superseded
+
+  [09:36:09] CLAIM: professional
+    Amount: USD 9456.05
+
+
+📅 2019-05-08
+
+  [09:34:28] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Damaris45 Funk324
+    Location: BROCKTON HOSPITAL, INC.
+    Duration: 09:34:28 - 10:12:21
+
+  [09:34:28] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [09:34:28] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-05-08
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Felicidad691 Sheryl275 is a 47 year-old nonhispanic white female.
+      # Social History
+
+  [09:34:28] DOCUMENT: History and physical note
+    Status: superseded
+
+  [10:12:21] CLAIM: professional
+    Amount: USD 573.98
+
+  [10:12:21] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Damaris45 Funk324
+    Location: BROCKTON HOSPITAL, INC.
+    Duration: 10:12:21 - 10:36:29
+
+  [10:12:21] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [10:12:21] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-05-08
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Felicidad691 Sheryl275 is a 47 year-old nonhispanic white female.
+      # Social History
+
+  [10:12:21] DOCUMENT: History and physical note
+    Status: superseded
+
+  [10:36:29] CLAIM: professional
+    Amount: USD 269.73
+
+  [10:36:29] VISIT: Follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Damaris45 Funk324
+    Location: BROCKTON HOSPITAL, INC.
+    Duration: 10:36:29 - 10:51:29
+
+  [10:36:29] PROCEDURE: Bone density scan (procedure)
+    Status: completed
+
+  [10:36:29] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-05-08
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Felicidad691 Sheryl275 is a 47 year-old nonhispanic white female.
+      # Social History
+
+  [10:36:29] DOCUMENT: History and physical note
+    Status: superseded
+
+  [10:51:29] CLAIM: professional
+    Amount: USD 16468.32
+
+
+📅 2019-07-12
+
+  [03:32:12] VISIT: General examination of patient (procedure)
+    Provider: Dr. Rebeca548 García15
+    Location: DILIGENCEHEALTHCARE
+    Duration: 03:32:12 - 03:47:12
+
+  [03:32:12] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [03:32:12] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2019-07-12
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Felicidad691 Sheryl275 is a 48 year-old nonhispanic white female.
+      # Social History
+
+  [03:32:12] DOCUMENT: History and physical note
+    Status: superseded
+
+  [03:47:12] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2020-05-10
+
+  [10:48:36] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Damaris45 Funk324
+    Location: BROCKTON HOSPITAL, INC.
+    Duration: 10:48:36 - 11:31:50
+
+  [10:48:36] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [10:48:36] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-05-10
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Felicidad691 Sheryl275 is a 48 year-old nonhispanic white female.
+      # Social History
+
+  [10:48:36] DOCUMENT: History and physical note
+    Status: superseded
+
+  [11:31:50] CLAIM: professional
+    Amount: USD 573.98
+
+  [11:31:50] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Damaris45 Funk324
+    Location: BROCKTON HOSPITAL, INC.
+    Duration: 11:31:50 - 11:50:38
+
+  [11:31:50] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [11:31:50] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-05-10
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Felicidad691 Sheryl275 is a 48 year-old nonhispanic white female.
+      # Social History
+
+  [11:31:50] DOCUMENT: History and physical note
+    Status: superseded
+
+  [11:50:38] CLAIM: professional
+    Amount: USD 211.60
+
+  [11:50:38] VISIT: Follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Damaris45 Funk324
+    Location: BROCKTON HOSPITAL, INC.
+    Duration: 11:50:38 - 12:08:56
+
+  [11:50:38] PROCEDURE: Bone density scan (procedure)
+    Status: completed
+
+  [11:50:38] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-05-10
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Felicidad691 Sheryl275 is a 48 year-old nonhispanic white female.
+      # Social History
+
+  [11:50:38] DOCUMENT: History and physical note
+    Status: superseded
+
+  [12:08:56] CLAIM: professional
+    Amount: USD 14447.43
+
+
+📅 2021-04-27
+
+  [12:08:56] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Damaris45 Funk324
+    Location: BROCKTON HOSPITAL, INC.
+    Duration: 12:08:56 - 12:53:15
+
+  [12:08:56] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [12:08:56] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-04-27
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Felicidad691 Sheryl275 is a 49 year-old nonhispanic white female.
+      # Social History
+
+  [12:08:56] DOCUMENT: History and physical note
+    Status: superseded
+
+  [12:53:15] CLAIM: professional
+    Amount: USD 573.98
+
+  [12:53:15] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Damaris45 Funk324
+    Location: BROCKTON HOSPITAL, INC.
+    Duration: 12:53:15 - 13:12:20
+
+  [12:53:15] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [12:53:15] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-04-27
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Felicidad691 Sheryl275 is a 49 year-old nonhispanic white female.
+      # Social History
+
+  [12:53:15] DOCUMENT: History and physical note
+    Status: superseded
+
+  [13:12:20] CLAIM: professional
+    Amount: USD 211.60
+
+  [13:12:20] VISIT: Follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Damaris45 Funk324
+    Location: BROCKTON HOSPITAL, INC.
+    Duration: 13:12:20 - 13:39:18
+
+  [13:12:20] PROCEDURE: Bone density scan (procedure)
+    Status: completed
+
+  [13:12:20] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-04-27
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Felicidad691 Sheryl275 is a 49 year-old nonhispanic white female.
+      # Social History
+
+  [13:12:20] DOCUMENT: History and physical note
+    Status: superseded
+
+  [13:39:18] CLAIM: professional
+    Amount: USD 14506.07
+
+
+📅 2021-06-18
+
+  [03:32:12] VISIT: General examination of patient (procedure)
+    Provider: Dr. Rebeca548 García15
+    Location: DILIGENCEHEALTHCARE
+    Duration: 03:32:12 - 03:47:12
+
+  [03:32:12] IMMUNIZATION: zoster vaccine, live
+    Status: completed
+
+  [03:32:12] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [03:32:12] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-06-18
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Felicidad691 Sheryl275 is a 50 year-old nonhispanic white female.
+      # Social History
+
+  [03:32:12] DOCUMENT: History and physical note
+    Status: superseded
+
+  [03:47:12] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2022-04-01
+
+  [13:39:18] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Damaris45 Funk324
+    Location: BROCKTON HOSPITAL, INC.
+    Duration: 13:39:18 - 14:14:39
+
+  [13:39:18] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [13:39:18] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-04-01
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Felicidad691 Sheryl275 is a 50 year-old nonhispanic white female.
+      # Social History
+
+  [13:39:18] DOCUMENT: History and physical note
+    Status: superseded
+
+  [14:14:39] CLAIM: professional
+    Amount: USD 573.98
+
+  [14:14:39] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Damaris45 Funk324
+    Location: BROCKTON HOSPITAL, INC.
+    Duration: 14:14:39 - 14:37:44
+
+  [14:14:39] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [14:14:39] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-04-01
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Felicidad691 Sheryl275 is a 50 year-old nonhispanic white female.
+      # Social History
+
+  [14:14:39] DOCUMENT: History and physical note
+    Status: superseded
+
+  [14:37:44] CLAIM: professional
+    Amount: USD 211.60
+
+  [14:37:44] VISIT: Follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Damaris45 Funk324
+    Location: BROCKTON HOSPITAL, INC.
+    Duration: 14:37:44 - 14:57:11
+
+  [14:37:44] PROCEDURE: Bone density scan (procedure)
+    Status: completed
+
+  [14:37:44] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-04-01
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Felicidad691 Sheryl275 is a 50 year-old nonhispanic white female.
+      # Social History
+
+  [14:37:44] DOCUMENT: History and physical note
+    Status: superseded
+
+  [14:57:11] CLAIM: professional
+    Amount: USD 4181.24
+
+
+📅 2022-06-24
+
+  [03:32:12] VISIT: General examination of patient (procedure)
+    Provider: Dr. Rebeca548 García15
+    Location: DILIGENCEHEALTHCARE
+    Duration: 03:32:12 - 03:47:12
+
+  [03:32:12] IMMUNIZATION: zoster vaccine, live
+    Status: completed
+
+  [03:32:12] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [03:32:12] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [03:32:12] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-06-24
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Felicidad691 Sheryl275 is a 51 year-old nonhispanic white female.
+      # Social History
+
+  [03:32:12] DOCUMENT: History and physical note
+    Status: superseded
+
+  [03:47:12] CLAIM: professional
+    Amount: USD 544.80
+
+
+📅 2023-03-01
+
+  [13:57:11] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Damaris45 Funk324
+    Location: BROCKTON HOSPITAL, INC.
+    Duration: 13:57:11 - 14:34:01
+
+  [13:57:11] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [13:57:11] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-03-01
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Felicidad691 Sheryl275 is a 51 year-old nonhispanic white female.
+      # Social History
+
+  [13:57:11] DOCUMENT: History and physical note
+    Status: superseded
+
+  [14:34:01] CLAIM: professional
+    Amount: USD 573.98
+
+  [14:34:01] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Damaris45 Funk324
+    Location: BROCKTON HOSPITAL, INC.
+    Duration: 14:34:01 - 14:53:39
+
+  [14:34:01] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [14:34:01] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-03-01
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Felicidad691 Sheryl275 is a 51 year-old nonhispanic white female.
+      # Social History
+
+  [14:34:01] DOCUMENT: History and physical note
+    Status: superseded
+
+  [14:53:39] CLAIM: professional
+    Amount: USD 325.49
+
+  [14:53:39] VISIT: Follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Damaris45 Funk324
+    Location: BROCKTON HOSPITAL, INC.
+    Duration: 14:53:39 - 15:13:32
+
+  [14:53:39] PROCEDURE: Bone density scan (procedure)
+    Status: completed
+
+  [14:53:39] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-03-01
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Felicidad691 Sheryl275 is a 51 year-old nonhispanic white female.
+      # Social History
+
+  [14:53:39] DOCUMENT: History and physical note
+    Status: superseded
+
+  [15:13:32] CLAIM: professional
+    Amount: USD 4181.24
+
+
+📅 2023-06-30
+
+  [03:32:12] VISIT: General examination of patient (procedure)
+    Provider: Dr. Rebeca548 García15
+    Location: DILIGENCEHEALTHCARE
+    Duration: 03:32:12 - 03:47:12
+
+  [03:32:12] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [03:32:12] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-06-30
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Felicidad691 Sheryl275 is a 52 year-old nonhispanic white female.
+      # Social History
+
+  [03:32:12] DOCUMENT: History and physical note
+    Status: superseded
+
+  [03:47:12] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2024-03-23
+
+  [16:13:32] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Damaris45 Funk324
+    Location: BROCKTON HOSPITAL, INC.
+    Duration: 16:13:32 - 16:46:54
+
+  [16:13:32] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [16:13:32] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-03-23
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Felicidad691 Sheryl275 is a 52 year-old nonhispanic white female.
+      # Social History
+
+  [16:13:32] DOCUMENT: History and physical note
+    Status: superseded
+
+  [16:46:54] CLAIM: professional
+    Amount: USD 573.98
+
+  [16:46:54] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Damaris45 Funk324
+    Location: BROCKTON HOSPITAL, INC.
+    Duration: 16:46:54 - 17:09:25
+
+  [16:46:54] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [16:46:54] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-03-23
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Felicidad691 Sheryl275 is a 52 year-old nonhispanic white female.
+      # Social History
+
+  [16:46:54] DOCUMENT: History and physical note
+    Status: superseded
+
+  [17:09:25] CLAIM: professional
+    Amount: USD 325.49
+
+  [17:09:25] VISIT: Follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Damaris45 Funk324
+    Location: BROCKTON HOSPITAL, INC.
+    Duration: 17:09:25 - 17:24:46
+
+  [17:09:25] PROCEDURE: Bone density scan (procedure)
+    Status: completed
+
+  [17:09:25] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-03-23
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Felicidad691 Sheryl275 is a 52 year-old nonhispanic white female.
+      # Social History
+
+  [17:09:25] DOCUMENT: History and physical note
+    Status: superseded
+
+  [17:24:46] CLAIM: professional
+    Amount: USD 16468.32
+
+
+📅 2024-07-05
+
+  [03:32:12] VISIT: General examination of patient (procedure)
+    Provider: Dr. Rebeca548 García15
+    Location: DILIGENCEHEALTHCARE
+    Duration: 03:32:12 - 03:47:12
+
+  [03:32:12] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [03:32:12] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-07-05
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Felicidad691 Sheryl275 is a 53 year-old nonhispanic white female.
+      # Social History
+
+  [03:32:12] DOCUMENT: History and physical note
+    Status: superseded
+
+  [03:47:12] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2025-03-15
+
+  [17:24:46] VISIT: Postoperative follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Damaris45 Funk324
+    Location: BROCKTON HOSPITAL, INC.
+    Duration: 17:24:46 - 17:59:15
+
+  [17:24:46] PROCEDURE: Physical examination, complete (procedure)
+    Status: completed
+
+  [17:24:46] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-03-15
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Felicidad691 Sheryl275 is a 53 year-old nonhispanic white female.
+      # Social History
+
+  [17:24:46] DOCUMENT: History and physical note
+    Status: superseded
+
+  [17:59:15] CLAIM: professional
+    Amount: USD 573.98
+
+  [17:59:15] VISIT: Screening surveillance (regime/therapy)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Damaris45 Funk324
+    Location: BROCKTON HOSPITAL, INC.
+    Duration: 17:59:15 - 18:14:32
+
+  [17:59:15] PROCEDURE: Mammography (procedure)
+    Status: completed
+
+  [17:59:15] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-03-15
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Felicidad691 Sheryl275 is a 53 year-old nonhispanic white female.
+      # Social History
+
+  [17:59:15] DOCUMENT: History and physical note
+    Status: superseded
+
+  [18:14:32] CLAIM: professional
+    Amount: USD 260.22
+
+  [18:14:32] VISIT: Follow-up visit (procedure)
+    Reason: Malignant neoplasm of breast (disorder)
+    Provider: Dr. Damaris45 Funk324
+    Location: BROCKTON HOSPITAL, INC.
+    Duration: 18:14:32 - 18:33:08
+
+  [18:14:32] PROCEDURE: Bone density scan (procedure)
+    Status: completed
+
+  [18:14:32] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-03-15
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Felicidad691 Sheryl275 is a 53 year-old nonhispanic white female.
+      # Social History
+
+  [18:14:32] DOCUMENT: History and physical note
+    Status: superseded
+
+  [18:33:08] CLAIM: professional
+    Amount: USD 5952.00
+
+
+📅 2025-07-11
+
+  [03:32:12] VISIT: General examination of patient (procedure)
+    Provider: Dr. Rebeca548 García15
+    Location: DILIGENCEHEALTHCARE
+    Duration: 03:32:12 - 03:47:12
+
+  [03:32:12] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [03:32:12] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-07-11
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Felicidad691 Sheryl275 is a 54 year-old nonhispanic white female.
+      # Social History
+
+  [03:32:12] DOCUMENT: History and physical note
+    Status: current
+
+  [03:47:12] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2026-02-13
+
+  [02:32:12] PROVENANCE: Record activity
+    Agents: Dr. Rebeca548 García15, Dr. Rebeca548 García15
+
+================================================================================
+END OF TIMELINE (194 events)
+================================================================================

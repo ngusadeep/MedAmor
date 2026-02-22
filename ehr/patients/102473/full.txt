@@ -1,0 +1,295 @@
+================================================================================
+PATIENT MEDICAL TIMELINE
+================================================================================
+
+PATIENT INFORMATION:
+  Name: Mrs. Manie910 Sherill945 Weimann465
+  Patient ID: 102473
+  Date of Birth: 1970-08-23
+  Gender: Female
+  Race: Asian
+  Ethnicity: Hispanic or Latino
+  Marital Status: Married
+  Address: 967 Willms Mews Suite 67, Marlborough, MA 01752
+  Phone: 555-218-1037
+
+CHRONOLOGICAL TIMELINE:
+--------------------------------------------------------------------------------
+
+📅 2016-09-11
+
+  [01:09:16] VISIT: General examination of patient (procedure)
+    Provider: Dr. Denis399 Kohler843
+    Location: DR. HE'S PRIMARY CARE FOR ADULTS INC
+    Duration: 01:09:16 - 01:24:16
+
+  [01:09:16] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [01:09:16] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2016-09-11
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Manie910 Sherill945 is a 46 year-old hispanic asian female.
+      # Social History
+
+  [01:09:16] DOCUMENT: History and physical note
+    Status: superseded
+
+  [01:24:16] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2018-09-16
+
+  [01:09:16] VISIT: General examination of patient (procedure)
+    Provider: Dr. Denis399 Kohler843
+    Location: DR. HE'S PRIMARY CARE FOR ADULTS INC
+    Duration: 01:09:16 - 01:24:16
+
+  [01:09:16] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [01:09:16] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2018-09-16
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Manie910 Sherill945 is a 48 year-old hispanic asian female.
+      # Social History
+
+  [01:09:16] DOCUMENT: History and physical note
+    Status: superseded
+
+  [01:24:16] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2020-08-23
+
+  [01:09:16] VISIT: General examination of patient (procedure)
+    Provider: Dr. Denis399 Kohler843
+    Location: DR. HE'S PRIMARY CARE FOR ADULTS INC
+    Duration: 01:09:16 - 01:24:16
+
+  [01:09:16] IMMUNIZATION: zoster vaccine, live
+    Status: completed
+
+  [01:09:16] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [01:09:16] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2020-08-23
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Manie910 Sherill945 is a 50 year-old hispanic asian female.
+      # Social History
+
+  [01:09:16] DOCUMENT: History and physical note
+    Status: superseded
+
+  [01:24:16] CLAIM: professional
+    Amount: USD 408.80
+
+
+📅 2021-03-21
+
+  [01:09:16] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Gregg522 Willms744
+    Location: MARLBOROUGH HOSPITAL CORP
+    Duration: 01:09:16 - 01:24:16
+
+  [01:09:16] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+    Status: completed
+
+  [01:09:16] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-03-21
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Manie910 Sherill945 is a 50 year-old hispanic asian female.
+      # Social History
+
+  [01:09:16] DOCUMENT: History and physical note
+    Status: superseded
+
+  [01:24:16] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-04-18
+
+  [01:09:16] VISIT: Administration of vaccine to produce active immunity (procedure)
+    Provider: Dr. Gregg522 Willms744
+    Location: MARLBOROUGH HOSPITAL CORP
+    Duration: 01:09:16 - 01:24:16
+
+  [01:09:16] IMMUNIZATION: COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5mL dose or 50 mcg/0.25mL dose
+    Status: completed
+
+  [01:09:16] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-04-18
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Manie910 Sherill945 is a 50 year-old hispanic asian female.
+      # Social History
+
+  [01:09:16] DOCUMENT: History and physical note
+    Status: superseded
+
+  [01:24:16] CLAIM: professional
+    Amount: USD 278.58
+
+
+📅 2021-08-29
+
+  [01:09:16] VISIT: General examination of patient (procedure)
+    Provider: Dr. Denis399 Kohler843
+    Location: DR. HE'S PRIMARY CARE FOR ADULTS INC
+    Duration: 01:09:16 - 01:24:16
+
+  [01:09:16] IMMUNIZATION: zoster vaccine, live
+    Status: completed
+
+  [01:09:16] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [01:09:16] IMMUNIZATION: Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+    Status: completed
+
+  [01:09:16] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2021-08-29
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Manie910 Sherill945 is a 51 year-old hispanic asian female.
+      # Social History
+
+  [01:09:16] DOCUMENT: History and physical note
+    Status: superseded
+
+  [01:24:16] CLAIM: professional
+    Amount: USD 544.80
+
+
+📅 2022-09-04
+
+  [01:09:16] VISIT: General examination of patient (procedure)
+    Provider: Dr. Denis399 Kohler843
+    Location: DR. HE'S PRIMARY CARE FOR ADULTS INC
+    Duration: 01:09:16 - 01:24:16
+
+  [01:09:16] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [01:09:16] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2022-09-04
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Manie910 Sherill945 is a 52 year-old hispanic asian female.
+      # Social History
+
+  [01:09:16] DOCUMENT: History and physical note
+    Status: superseded
+
+  [01:24:16] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2023-09-10
+
+  [01:09:16] VISIT: General examination of patient (procedure)
+    Provider: Dr. Denis399 Kohler843
+    Location: DR. HE'S PRIMARY CARE FOR ADULTS INC
+    Duration: 01:09:16 - 01:24:16
+
+  [01:09:16] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [01:09:16] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2023-09-10
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Manie910 Sherill945 is a 53 year-old hispanic asian female.
+      # Social History
+
+  [01:09:16] DOCUMENT: History and physical note
+    Status: superseded
+
+  [01:24:16] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2024-09-15
+
+  [01:09:16] VISIT: General examination of patient (procedure)
+    Provider: Dr. Denis399 Kohler843
+    Location: DR. HE'S PRIMARY CARE FOR ADULTS INC
+    Duration: 01:09:16 - 01:24:16
+
+  [01:09:16] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [01:09:16] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2024-09-15
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Manie910 Sherill945 is a 54 year-old hispanic asian female.
+      # Social History
+
+  [01:09:16] DOCUMENT: History and physical note
+    Status: superseded
+
+  [01:24:16] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2025-09-21
+
+  [01:09:16] VISIT: General examination of patient (procedure)
+    Provider: Dr. Denis399 Kohler843
+    Location: DR. HE'S PRIMARY CARE FOR ADULTS INC
+    Duration: 01:09:16 - 01:24:16
+
+  [01:09:16] IMMUNIZATION: Influenza, split virus, trivalent, PF
+    Status: completed
+
+  [01:09:16] DIAGNOSTIC REPORT: History and physical note
+    Content Preview:
+      2025-09-21
+      # Chief Complaint
+      No complaints.
+      # History of Present Illness
+      Manie910 Sherill945 is a 55 year-old hispanic asian female.
+      # Social History
+
+  [01:09:16] DOCUMENT: History and physical note
+    Status: current
+
+  [01:24:16] CLAIM: professional
+    Amount: USD 272.80
+
+
+📅 2026-02-15
+
+  [00:09:16] PROVENANCE: Record activity
+    Agents: Dr. Denis399 Kohler843, Dr. Denis399 Kohler843
+
+================================================================================
+END OF TIMELINE (54 events)
+================================================================================
