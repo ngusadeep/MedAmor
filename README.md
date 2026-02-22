@@ -49,4 +49,112 @@ docker compose up --build
 | App (UI) | http://localhost |
 | API | http://localhost/api |
 
+
 Sign up in the UI, create a breast cancer screening audit job (single patient or batch from the patient list), and view reports with findings, evidence, corrective actions, and annotations. See **WORKFLOW.md** for services, RAG ingest, and scheduled audit flow.
+
+
+Optional platform/HAPI services (platform/test FHIR/EHR server) are behind profiles and do not start by default:
+
+```bash
+docker compose --profile platform --profile hapi up --build
+```
+
+## Create first user (MedAudit)
+
+Use the in-app **Sign up** flow at <http://localhost>, or call the backend auth API to register. Then use **New screening audit job** to queue an audit (EHR + RAG + AI report).
+
+---
+
+# Operations
+
+## Development with Hot Reloading
+
+The development setup automatically reloads when you make changes:
+
+- **Backend changes**: Edit files in `platform/backend/` — Flask will
+  reload automatically
+- **Frontend changes**: Edit files in `platform/ui/src/` — Vite HMR
+  updates the browser instantly
+
+## Stopping the Application
+
+```bash
+# Stop containers
+sudo docker compose down
+
+# Stop and remove data volumes
+sudo docker compose down -v
+```
+
+See `platform/README.md` for detailed documentation on migrations, CLI
+commands, API endpoints, and production deployment.
+
+---
+
+# Architecture
+
+**MedAudit (default `docker compose up`):**
+
+- Web UI: http://localhost (port 80, nginx)
+- API: http://localhost/api
+- PostgreSQL: medaudit_db (internal); ChromaDB persisted in backend volume
+
+**With `--profile platform`:** Web UI and API at http://localhost:8080; DB at localhost:5432.
+
+<!-- TODO: Fill in some technical information -->
+
+---
+
+# Contributing
+
+## Branching Strategy
+
+### Main Branches
+
+- **`main`** — Production-ready code
+- **`develop`** — Integration branch for new features
+
+### Feature Branches
+
+- Frontend contributors: `feature/frontend/[feature-name]`
+- Backend contributors: `feature/backend/[feature-name]`
+
+## Workflow
+
+1. **Create Feature Branch**
+   ```bash
+   git checkout develop
+   git pull origin develop
+   git checkout -b feature/frontend/your-feature-name
+   # or
+   git checkout -b feature/backend/your-feature-name
+   ```
+
+2. **Make Changes**
+   - Frontend: Work in `/frontend` directory
+   - Backend: Work in `/backend` directory
+
+3. **Commit and Push**
+   ```bash
+   git add .
+   git commit -m "feat: your descriptive commit message"
+   git push origin feature/your-branch-name
+   ```
+
+4. **Create Pull Request**
+   - Target branch: `develop`
+   - Add reviewers
+   - Ensure CI passes
+
+5. **Merge Process**
+   - PR → `develop` (after review)
+   - `develop` → `main` (release-ready)
+
+## Getting Started
+
+1. Clone the repository
+2. Choose your component (frontend/backend)
+3. Follow component-specific setup instructions
+4. Create your feature branch from `develop`
+
+## Commit Convention

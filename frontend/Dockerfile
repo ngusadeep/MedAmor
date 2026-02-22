@@ -1,4 +1,4 @@
-# MedAudit Frontend - Vite build + nginx serve
+# MedArmor Frontend - Vite build + nginx serve
 # Stage 1: build
 FROM node:22-alpine AS builder
 

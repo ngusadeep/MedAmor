@@ -1,1 +1,1 @@
-# Tests for MedAudit backend
+# Tests for MedArmor backend
