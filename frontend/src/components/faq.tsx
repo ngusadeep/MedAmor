@@ -7,9 +7,9 @@ import {
 
 const faq = [
   {
-    question: 'What does MedAudit do?',
+    question: 'What does MedArmor do?',
     answer:
-      'MedAudit runs AI-assisted compliance audits for breast cancer screening. It compares patient EHR data against clinical guidelines (e.g. BI-RADS), uses RAG to ground answers in your Medical KB, and produces structured reports with findings, evidence, and corrective actions. You review and annotate before sign-off.',
+      'MedArmor runs AI-assisted compliance audits for breast cancer screening. It compares patient EHR data against clinical guidelines (e.g. BI-RADS), uses RAG to ground answers in your Medical KB, and produces structured reports with findings, evidence, and corrective actions. You review and annotate before sign-off.',
   },
   {
     question: 'How do I run an audit?',

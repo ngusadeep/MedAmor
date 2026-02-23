@@ -16,13 +16,13 @@ import { type SidebarData } from '../types'
 
 export const sidebarData: SidebarData = {
   user: {
-    name: 'MedAudit User',
+    name: 'MedArmor User',
     email: '',
     avatar: '',
   },
   teams: [
     {
-      name: 'MedAudit',
+      name: 'MedArmor',
       logo: ShieldCheck,
       plan: 'Medical Audit',
     },

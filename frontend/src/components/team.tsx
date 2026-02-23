@@ -46,7 +46,7 @@ const Team = () => {
           Our team
         </span>
         <h2 className="mt-4 font-semibold text-3xl tracking-tight md:text-4xl">
-          The people behind MedAudit
+          The people behind MedArmor
         </h2>
         <p className="mt-3 max-w-2xl text-base text-muted-foreground sm:text-lg">
           AI research, clinical expertise, EHR systems, and full-stack engineering.

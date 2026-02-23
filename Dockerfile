@@ -6,9 +6,10 @@ FROM ghcr.io/astral-sh/uv:python3.12-bookworm-slim
 
 WORKDIR /app
 
-# System deps for psycopg2
+# System deps: psycopg2 + ffmpeg (required by librosa/audioread for webm decoding in local ASR)
 RUN apt-get update && apt-get install -y --no-install-recommends \
     libpq5 \
+    ffmpeg \
     && rm -rf /var/lib/apt/lists/*
 
 ENV UV_NO_DEV=1

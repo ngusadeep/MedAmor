@@ -1,5 +1,5 @@
 /**
- * Auth API client for MedAudit backend.
+ * Auth API client for MedArmor backend.
  * Uses credentials: 'include' so HTTP-only cookie (access_token) is sent/received.
  */
 

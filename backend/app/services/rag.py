@@ -1,11 +1,21 @@
 """RAG: index docs (knowledge base) into ChromaDB, retrieve context for audit engine.
 
 Ingests only when new/changed documents exist under medical_kb_path; otherwise skips re-index.
-Uses ChromaDB for vector store; embedding via FastEmbed (bge-small) or OpenAI text-embedding-3-small.
+
+Embedding providers
+-------------------
+fastembed   – sentence-transformers/all-MiniLM-L6-v2 via FastEmbed (default, no API key)
+openai      – OpenAI text-embedding-3-small (requires OPENAI_API_KEY)
+medsiglip   – google/medsiglip-448 text encoder via transformers (requires torch, HF_TOKEN)
+              NOTE: 64-token context limit — chunk size is reduced to 256 chars automatically.
+              Better suited for future image retrieval; text-only RAG works but truncates long chunks.
 """
 
 import json
+import logging
+import threading
 from pathlib import Path
+from typing import Any
 
 import chromadb
 from langchain_chroma import Chroma
@@ -17,9 +27,17 @@ from langchain_text_splitters import RecursiveCharacterTextSplitter
 
 from app.core.config import settings
 
+logger = logging.getLogger(__name__)
+
 COLLECTION_NAME = "medaudit_kb"
+# Default chunk sizes — MedSigLIP overrides to 256 due to 64-token limit
 CHUNK_SIZE = 2048
 CHUNK_OVERLAP = 256
+# MedSigLIP text encoder hard limit is 64 tokens ≈ 200-250 English chars.
+# We use 256 chars with 32 overlap to stay safely under the limit.
+MEDSIGLIP_CHUNK_SIZE = 256
+MEDSIGLIP_CHUNK_OVERLAP = 32
+
 DOCUMENT_TYPES = (
     "Documentation",
     "SOPs",
@@ -29,15 +47,141 @@ DOCUMENT_TYPES = (
 )
 
 
+# ---------------------------------------------------------------------------
+# MedSigLIP text embeddings (google/medsiglip-448)
+# ---------------------------------------------------------------------------
+
+class MedSigLIPEmbeddings(Embeddings):
+    """LangChain Embeddings adapter for google/medsiglip-448 text encoder.
+
+    Uses SiglipTextModel directly (no image input required) so it can be used
+    as a drop-in embedding provider for text-only RAG.
+
+    Important limitation: the SigLIP text encoder has a 64-token context window.
+    Texts longer than ~250 chars will be truncated.  Use MEDSIGLIP_CHUNK_SIZE
+    (256 chars) when indexing to stay within this limit.
+    """
+
+    def __init__(
+        self,
+        model_id: str = "google/medsiglip-448",
+        device: str = "cpu",
+        batch_size: int = 32,
+    ) -> None:
+        self.model_id = model_id
+        self.device = device
+        self.batch_size = batch_size
+        self._model: Any = None
+        self._tokenizer: Any = None
+        self._lock = threading.Lock()
+
+    def _load(self) -> None:
+        if self._model is not None:
+            return
+        with self._lock:
+            if self._model is not None:
+                return
+            from transformers import AutoTokenizer, SiglipTextModel
+
+            logger.info(
+                "Loading MedSigLIP text encoder '%s' on device '%s'…",
+                self.model_id,
+                self.device,
+            )
+            self._tokenizer = AutoTokenizer.from_pretrained(self.model_id)
+            self._model = SiglipTextModel.from_pretrained(self.model_id).to(
+                self.device
+            )
+            self._model.eval()
+            logger.info("MedSigLIP text encoder loaded.")
+
+    def _embed_batch(self, texts: list[str]) -> list[list[float]]:
+        import torch
+
+        self._load()
+        inputs = self._tokenizer(
+            texts,
+            padding="max_length",
+            max_length=64,  # hard limit per MedSigLIP model card
+            truncation=True,
+            return_tensors="pt",
+        ).to(self.device)
+
+        with torch.no_grad():
+            outputs = self._model(**inputs)
+            # pooler_output: (batch, hidden_dim) — the [CLS] representation
+            embeds = outputs.pooler_output
+            # L2 normalise so cosine similarity works correctly
+            embeds = embeds / embeds.norm(dim=-1, keepdim=True)
+
+        return embeds.cpu().float().tolist()
+
+    def embed_documents(self, texts: list[str]) -> list[list[float]]:
+        results: list[list[float]] = []
+        for i in range(0, len(texts), self.batch_size):
+            results.extend(self._embed_batch(texts[i : i + self.batch_size]))
+        return results
+
+    def embed_query(self, text: str) -> list[float]:
+        return self._embed_batch([text])[0]
+
+
+# Singleton so the model is loaded once per process
+_medsiglip_instance: MedSigLIPEmbeddings | None = None
+_medsiglip_lock = threading.Lock()
+
+
+def _get_medsiglip_embeddings() -> MedSigLIPEmbeddings:
+    global _medsiglip_instance
+    if _medsiglip_instance is not None:
+        return _medsiglip_instance
+    with _medsiglip_lock:
+        if _medsiglip_instance is None:
+            _medsiglip_instance = MedSigLIPEmbeddings(
+                model_id=settings.medsiglip_model,
+                device=settings.medsiglip_device,
+            )
+    return _medsiglip_instance
+
+
+# ---------------------------------------------------------------------------
+# Embedding provider selection
+# ---------------------------------------------------------------------------
+
 def _get_embeddings() -> Embeddings:
-    """Return embedding model: OpenAI if configured, else FastEmbed. Uses all-MiniLM-L6-v2 to avoid BGE ONNX download issues."""
-    if settings.embedding_provider == "openai" and settings.openai_api_key:
+    """Return the configured embedding model.
+
+    Providers:
+      fastembed   – sentence-transformers/all-MiniLM-L6-v2 (default)
+      openai      – OpenAI text-embedding-3-small
+      medsiglip   – google/medsiglip-448 text encoder (64-token limit)
+    """
+    provider = settings.embedding_provider.lower()
+
+    if provider == "openai" and settings.openai_api_key:
         return OpenAIEmbeddings(
             model=settings.openai_embedding_model,
             openai_api_key=settings.openai_api_key,
         )
-    # Use all-MiniLM-L6-v2 — BAAI/bge-small-en-v1.5 can fail with missing model_optimized.onnx (Qdrant ONNX variant)
+
+    if provider == "medsiglip":
+        return _get_medsiglip_embeddings()
+
+    # Default: FastEmbed with all-MiniLM-L6-v2
+    # (BAAI/bge-small-en-v1.5 can fail with missing model_optimized.onnx)
     return FastEmbedEmbeddings(model_name="sentence-transformers/all-MiniLM-L6-v2")
+
+
+def _get_chunk_params() -> tuple[int, int]:
+    """Return (chunk_size, chunk_overlap) appropriate for the current embedding provider."""
+    if settings.embedding_provider.lower() == "medsiglip":
+        logger.warning(
+            "MedSigLIP embedding selected: reducing chunk size to %d chars "
+            "(64-token context limit). Long guideline sections will be split more aggressively.",
+            MEDSIGLIP_CHUNK_SIZE,
+        )
+        return MEDSIGLIP_CHUNK_SIZE, MEDSIGLIP_CHUNK_OVERLAP
+    return CHUNK_SIZE, CHUNK_OVERLAP
 
 
 def _get_chroma_persist_dir() -> Path:
@@ -174,9 +318,10 @@ def index_kb() -> dict:
     if not raw:
         return {"indexed": 0, "chunks": 0, "error": "No markdown files found"}
 
+    chunk_size, chunk_overlap = _get_chunk_params()
     splitter = RecursiveCharacterTextSplitter(
-        chunk_size=CHUNK_SIZE,
-        chunk_overlap=CHUNK_OVERLAP,
+        chunk_size=chunk_size,
+        chunk_overlap=chunk_overlap,
         separators=["\n## ", "\n### ", "\n\n", "\n", " "],
     )
     documents: list[Document] = []
