@@ -1,5 +1,5 @@
-# Single image for MedAudit backend, Celery worker, Celery beat, and EHR service.
-# Build from demo/: docker build -f Dockerfile -t medaudit-app .
+# Single image for MedArmor backend, Celery worker, Celery beat, and EHR service.
+# Build from demo/: docker build -f Dockerfile -t medarmor-app .
 # All four Python services use this image with different commands.
 
 FROM ghcr.io/astral-sh/uv:python3.12-bookworm-slim

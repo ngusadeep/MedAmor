@@ -57,9 +57,14 @@ class Settings(BaseSettings):
     chroma_persist_dir: str
 
     # Embedding (required)
-    embedding_provider: str  # "fastembed" | "openai"
+    # Options: "fastembed" | "openai" | "medsiglip"
+    # medsiglip: uses google/medsiglip-448 text encoder (64-token limit, needs torch)
+    embedding_provider: str
     openai_api_key: str | None = None
     openai_embedding_model: str
+    # MedSigLIP embedding (when embedding_provider=medsiglip)
+    medsiglip_model: str = "google/medsiglip-448"
+    medsiglip_device: str = "cpu"
 
     # Legacy Qdrant (optional)
     qdrant_url: str | None = None
