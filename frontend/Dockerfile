@@ -2,16 +2,13 @@
 # Stage 1: build
 FROM node:22-alpine AS builder
 
-RUN corepack enable && corepack prepare pnpm@latest --activate
+# Install pnpm via npm (avoids corepack registry fetch that can fail in restricted networks)
+RUN npm install -g pnpm@9
 WORKDIR /app
 
 # Build args for Vite env (must be prefixed with VITE_)
 ARG VITE_API_URL=/api
-ARG VITE_BASENAME=
-ARG VITE_GTM_ID=
 ENV VITE_API_URL=$VITE_API_URL
-ENV VITE_BASENAME=$VITE_BASENAME
-ENV VITE_GTM_ID=$VITE_GTM_ID
 
 COPY package.json pnpm-lock.yaml ./
 RUN pnpm install --frozen-lockfile

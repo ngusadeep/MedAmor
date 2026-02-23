@@ -1,3 +1,7 @@
+# Single-package repo; root is the only workspace package (required by pnpm when this file exists)
+packages:
+  - '.'
+
 ignoredBuiltDependencies:
   - '@swc/core'
   - esbuild
