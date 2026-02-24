@@ -38,6 +38,10 @@ instructions in [ehr/README.md](./ehr/README.md).
 3. Open <http://localhost>
 4. Sign in using "chief@medarmor.com" with the credentials in `backend/app/core/database.py` for that user.
 
+#### Pre-processed data
+
+If you wish to load pre-processed results for the 2 failure cases, run `scripts/seed_demo_data.py`
+
 
 ## Development
 
