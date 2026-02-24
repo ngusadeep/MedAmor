@@ -1,473 +1,299 @@
-NOTE: Sources at the end
+SYSTEM CONTEXT & USAGE INSTRUCTIONS
 
+This document serves as a structured knowledge base for the Breast Imaging Reporting and Data System (BI-RADS). It is designed for natural language processing (NLP), electronic health record (EHR) text extraction, FHIR resource mapping (DiagnosticReport, Observation, ImagingStudy), and automated clinical decision support.
 
-Breast Screening Guidelines
-Each BI-RADS category, from 0 to 6, has a specific clinical meaning and suggested follow-up care. Follow-up care recommendations are based on the outcomes of previous patients with the same scores. These recommendations apply to screening mammography unless otherwise specified.
+When evaluating narrative imaging notes, use the EHR / FHIR Text Cues and Imaging Features to infer the correct BI-RADS classification and recommend the corresponding Clinical Action / Follow-up.
+
 BI-RADS Category 0
-Meaning: Category 0 means the findings are unclear. The radiologist will need more images to determine a score.
-Typical Reasons:
-Need prior comparison
-Need additional views (spot compression, magnification)
-Need ultrasound or MRI correlation
-Example Cues in Medical Notes:
-“Additional imaging recommended”
-“Comparison with prior studies needed”
-“Incomplete evaluation”
-“Recall for diagnostic mammography”
-Orders for additional modality without a final assessment
-Required Followup:
-Conducting additional mammograms or an ultrasound to see different angles of the breast tissue within 30 days
-Looking for changes in the breast based on comparisons of current and past mammogram images
 
+Assessment: Incomplete Evaluation
+
+Malignancy Probability: N/A (Insufficient data)
+
+Clinical Meaning: Findings are unclear. The radiologist requires more images or prior images to determine a final diagnostic score.
+
+Imaging Features / Typical Reasons:
+
+Need for prior comparison
+
+Need for additional views (e.g., spot compression, magnification)
+
+Need for ultrasound or MRI correlation
+
+EHR / FHIR Text Cues:
+
+"Additional imaging recommended"
+
+"Comparison with prior studies needed"
+
+"Incomplete evaluation"
+
+"Recall for diagnostic mammography"
+
+Presence of orders for an additional modality without a final assessment
+
+Clinical Action / Follow-up: * Conduct additional mammograms or ultrasound within 30 days.
+
+Obtain and compare past mammogram images to look for tissue changes.
 
 BI-RADS Category 1
-Meaning: Category 1 means the findings are negative and the breast tissue appears normal.
-Typical Reasons:
-No masses, no calcifications, no asymmetry
-No other abnormalities have been found.
-The breast tissue is deemed healthy.
-Example Cues in Medical Notes:
-“No suspicious mass, calcification, or architectural distortion”
-“Negative mammogram”
-“Unremarkable”
-Required Follow up:
-Follow-up care calls for continued monitoring with regular mammograms every 2 years
-BI-RADS Category 2
-Meaning: Category 2 means the findings are present but benign, which is also negative for cancer. While a mass, calcification or other abnormality may have been detected, it’s not cancerous.
-Typical Reasons:
-Simple cysts
-Intramammary lymph nodes
-Fat necrosis
-Stable benign calcifications
-Fibroadenomas (classic appearance)
-Scar-Tissue
-Non-cancerous breast development
-Example Cues in Medical Notes
-“Benign-appearing”
-“Simple cyst”
-“Fat-containing lesion”
-“Involuting fibroadenoma”
-“Stable for >2 years”
-Required Follow up:
-Continued monitoring with regular mammograms every year.
-BI-RADS Category 3
-Meaning: Category 3 means the findings are probably benign (less than 2% chance of malignancy). While a mass, calcification or other abnormality may have been found, it’s most likely not cancerous.
-Typical Reasons:
-New but likely benign mass
-Clustered punctate calcifications
-Focal asymmetry without suspicious features
-Example Cues in Medical Notes:
-“Probably benign”
-“6-month follow-up recommended”
-“Short-interval follow-up”
-“Low suspicion”
-Required Follow up:
-Follow-up care calls for another mammogram in six months to check for changes, knowing that a cancerous mass changes over time.
-After the 6 months screening, there should be a 12 month screening, and a 24 month (2 year) screening.
-If the mass remains stable over the next two years, they can return to regular 24 month screening
-BI-RADS Category 4A
-Meaning: Findings suspect cancer, though low chance of cancer (2 to 10%)
-Typical Reasons:
-Small mass
-Mostly circumscribed margins
-Mildly suspicious calcifications
-Example Cues in Medical Notes
-“Low suspicion for malignancy”
-“Biopsy recommended for confirmation”
-“Indeterminate mass”
-Circumscribed or partially obscured margins
-Small lesion and mostly benign morphology
-Required Follow up:
-Image guided core biopsy scheduled, but not urgent, can be within 2 to 4 weeks
-BI-RADS Category 4B
-Meaning: Findings suspect cancer, though medium chance of cancer (10 to 50%)
 
-Typical Reasons:
-Irregular mass
-Non-circumscribed margins
-Heterogeneous density
-New or enlarging lesion
-Clearly abnormal morphology, but not classic cancer
-Example Cues in Medical Notes
-“Suspicious mass”
-“Irregular shape”
-“Indistinct margins”
-“Moderate concern for malignancy”
-“Unspecified BI-RADS 4”
-Required Follow up:
-Image guided core biopsy scheduled within 1 to 2 weeks, at next available opportunity
-BI-RADS Category 4C
-Meaning: Findings suspect cancer with high probability of cancer (50 to 95%)
-Typical Reasons:
-Spiculated margins
-Marked architectural distortion
-Pleomorphic or linear calcifications
-Associated skin or nipple changes
-Example Cues in Medical Notes
-“Highly suspicious”
-“Spiculated mass”
-“Architectural distortion”
-“Pleomorphic calcifications”
-Required Follow up:
-Urgent biopsy within days, and no more than 1 week
-BI-RADS Category 5
-Meaning: The findings highly suggest cancer with a 95 percent chance or higher of being cancerous.
-Typical Reasons:
-Spiculated mass
-Segmental linear calcifications
-Skin thickening, nipple retraction
-Pathologic lymph nodes
-Example Cues in Medical Notes
-“Highly suggestive of malignancy”
-“Consistent with carcinoma”
-“Urgent tissue diagnosis recommended”
-Required Follow up:
-Immediate biopsy if possible, target within 24–72 hours. If those timelines are not possible, it must be reviewed within 1 week.
-BI-RADS Category 6
-Meaning: Cancer was diagnosed using a biopsy.
-Typical Reasons:
-Cancer already biopsy-proven
-Imaging done for staging or treatment response
-Example Cues in Medical Notes
-“Known biopsy-proven malignancy”
-“Status post core biopsy showing…”
-Existing cancer diagnosis in Condition resource
-Required Follow up:
-Cancer treatment plan established
-Referral to Oncology
-Within 6-12 months after treatment, a mammogram should be conducted to determine how to bring the patient back into surveillance
+Assessment: Negative
 
+Malignancy Probability: 0%
 
+Clinical Meaning: Breast tissue appears completely normal. There are no findings of concern.
 
+Imaging Features / Typical Reasons:
 
-
-
-
-
-
-
-
-
-
-Sources
-Follow ups mainly copied from https://www.cancercenter.com/cancer-types/breast-cancer/diagnosis-and-detection/mammography/results-bi-rads
-Also added some based on email discussion to line up with scenarios
-
-Asked ChatGPT the question below
-
-Added more structure to document
-Can you give me a description of the 6 bi-rad classifications, with the sub-classifications for 4 (A, B, C, D). I am looking for some criteria to check for in FHIR notes that can be used to determine a classification, such as, a lump of 0.4m with high density found within 2cm of the lymph nodes is class X
-Absolutely—this is a very common need when you’re trying to infer BI-RADS from narrative imaging notes. I’ll do two things:
-Give a clean, accurate description of BI-RADS 0–6, including 4A–4D
-
-
-Translate each category into practical text/feature cues you might detect in FHIR DiagnosticReport / Observation / ImagingStudy notes, with important caveats about what cannot be reliably inferred
-
-
-I’ll keep this grounded in how radiologists actually write.
-
-BI-RADS overview (0–6)
-BI-RADS 0 – Incomplete
-Meaning
-Imaging is insufficient to make a final assessment
-
-
-Typical reasons
-Need prior comparison
-
-
-Need additional views (spot compression, magnification)
-
-
-Need ultrasound or MRI correlation
-
-
-FHIR / note cues
-Phrases like:
-
-
-“Additional imaging recommended”
-
-
-“Comparison with prior studies needed”
-
-
-“Incomplete evaluation”
-
-
-“Recall for diagnostic mammography”
-
-
-Orders for additional modality without a final assessment
-
-
-Rule of thumb
-If the report defers judgment → BI-RADS 0
-
-BI-RADS 1 – Negative
-Meaning
-No findings of concern
-
-
-Typical descriptors
 Symmetric tissue
 
+Complete absence of masses, calcifications, or architectural asymmetry
 
-No masses, calcifications, or distortions
+Healthy breast tissue
 
+EHR / FHIR Text Cues:
 
-FHIR / note cues
-“No suspicious mass, calcification, or architectural distortion”
+"No suspicious mass, calcification, or architectural distortion"
 
+"Negative mammogram"
 
-“Negative mammogram”
+"Unremarkable"
 
+Clinical Action / Follow-up: * Routine screening mammography every 2 years.
 
-“Unremarkable”
+BI-RADS Category 2
 
+Assessment: Benign
 
-Rule of thumb
-Explicitly normal → BI-RADS 1
+Malignancy Probability: 0%
 
-BI-RADS 2 – Benign
-Meaning
-Findings are present, but clearly benign
+Clinical Meaning: Findings are present but are unambiguously non-cancerous.
 
+Imaging Features / Typical Reasons:
 
-Common benign findings
 Simple cysts
-
 
 Intramammary lymph nodes
 
-
 Fat necrosis
-
 
 Stable benign calcifications
 
-
 Fibroadenomas (classic appearance)
 
+Scar tissue
 
-FHIR / note cues
-“Benign-appearing”
+Non-cancerous breast development
 
+EHR / FHIR Text Cues:
 
-“Simple cyst”
+"Benign-appearing"
 
+"Simple cyst"
 
-“Fat-containing lesion”
+"Fat-containing lesion"
 
+"Involuting fibroadenoma"
 
-“Involuting fibroadenoma”
+"Stable for >2 years"
 
+Clinical Action / Follow-up: * Continued monitoring with routine screening mammography every 1 year.
 
-“Stable for >2 years”
+BI-RADS Category 3
 
+Assessment: Probably Benign
 
-Rule of thumb
-A finding is named, explained, and dismissed → BI-RADS 2
+Malignancy Probability: < 2%
 
-BI-RADS 3 – Probably Benign
-Meaning
-<2% likelihood of malignancy
+Clinical Meaning: A finding is present that is highly likely to be benign, but requires establishing stability over time to rule out malignancy entirely.
 
+Imaging Features / Typical Reasons:
 
-Short-term follow-up recommended
-
-
-Classic use cases
 New but likely benign mass
-
 
 Clustered punctate calcifications
 
-
 Focal asymmetry without suspicious features
 
+EHR / FHIR Text Cues:
 
-FHIR / note cues
-“Probably benign”
+"Probably benign"
 
+"6-month follow-up recommended"
 
-“6-month follow-up recommended”
+"Short-interval follow-up"
 
+"Low suspicion"
 
-“Short-interval follow-up”
+Clinical Action / Follow-up: * Short-interval follow-up mammogram in 6 months.
 
+Followed by subsequent screenings at 12 months and 24 months.
 
-“Low suspicion”
+If the mass remains completely stable over this 2-year period, revert to routine 24-month screening.
 
+BI-RADS Category 4A
 
-Rule of thumb
-Follow-up imaging instead of biopsy → BI-RADS 3
+Assessment: Suspicious (Low Suspicion)
 
-BI-RADS 4 – Suspicious
-Biopsy should be considered
-This is where your sub-classification logic matters most.
-BI-RADS 4A – Low suspicion (≈2–10%)
-Typical features
+Malignancy Probability: 2% to 10%
+
+Clinical Meaning: Findings are suspicious enough to warrant a biopsy, but the likelihood of cancer is low.
+
+Imaging Features / Typical Reasons:
+
 Small mass
-
 
 Mostly circumscribed margins
 
-
 Mildly suspicious calcifications
 
+EHR / FHIR Text Cues:
 
-FHIR / note cues
-“Low suspicion for malignancy”
+"Low suspicion for malignancy"
 
+"Biopsy recommended for confirmation"
 
-“Biopsy recommended for confirmation”
+"Indeterminate mass"
 
+"Circumscribed margins" or "Partially obscured margins"
 
-“Indeterminate mass”
+Clinical Action / Follow-up: * Image-guided core biopsy scheduled (non-urgent), target within 2 to 4 weeks.
 
+BI-RADS Category 4B
 
-Circumscribed or partially obscured margins
+Assessment: Suspicious (Moderate Suspicion)
 
+Malignancy Probability: 10% to 50%
 
-Heuristic
-Small lesion + mostly benign morphology + biopsy suggested
-→ 4A
+Clinical Meaning: Clearly abnormal morphology that is concerning for cancer, though lacks the classic appearance of a definitive malignancy.
 
-BI-RADS 4B – Moderate suspicion (≈10–50%)
-Typical features
+Imaging Features / Typical Reasons:
+
 Irregular mass
-
 
 Non-circumscribed margins
 
-
 Heterogeneous density
-
 
 New or enlarging lesion
 
+EHR / FHIR Text Cues:
 
-FHIR / note cues
-“Suspicious mass”
+"Suspicious mass"
 
+"Irregular shape"
 
-“Irregular shape”
+"Indistinct margins"
 
+"Moderate concern for malignancy"
 
-“Indistinct margins”
+"Unspecified BI-RADS 4"
 
+Clinical Action / Follow-up: * Image-guided core biopsy scheduled at the next available opportunity, target within 1 to 2 weeks.
 
-“Moderate concern for malignancy”
+BI-RADS Category 4C
 
+Assessment: Suspicious (High Suspicion)
 
-Heuristic
-Clearly abnormal morphology, but not classic cancer
-→ 4B
+Malignancy Probability: 50% to 95%
 
-BI-RADS 4C – High suspicion (≈50–95%)
-Typical features
+Clinical Meaning: Findings highly resemble cancer but are not yet proven.
+
+Imaging Features / Typical Reasons:
+
 Spiculated margins
-
 
 Marked architectural distortion
 
-
 Pleomorphic or linear calcifications
-
 
 Associated skin or nipple changes
 
+EHR / FHIR Text Cues:
 
-FHIR / note cues
-“Highly suspicious”
+"Highly suspicious"
 
+"Spiculated mass"
 
-“Spiculated mass”
+"Architectural distortion"
 
+"Pleomorphic calcifications"
 
-“Architectural distortion”
+Clinical Action / Follow-up: * Urgent biopsy within days, maximum timeframe of 1 week.
 
+BI-RADS Category 4D (Metadata / Non-Standard)
 
-“Pleomorphic calcifications”
+Assessment: Suspicious (Very High Suspicion / Near 5)
 
+Malignancy Probability: ~95%
 
-Heuristic
-Looks like cancer, but not proven
-→ 4C
+Clinical Meaning: Note: This is an informal, non-standardized sub-classification used by some institutions to describe findings that stop just short of BI-RADS 5.
 
-BI-RADS 4D (sometimes called 4C+ or “near 5”)
-Meaning
-Some institutions use this informally
+EHR / FHIR Text Cues:
 
+"Very high suspicion"
 
-Essentially “almost BI-RADS 5”
+"Strongly concerning for malignancy"
 
+Biopsy framed as highly urgent
 
-FHIR / note cues
-“Very high suspicion”
+Clinical Action / Follow-up: * Treat identically to 4C/5: Urgent biopsy required immediately.
 
+BI-RADS Category 5
 
-“Strongly concerning for malignancy”
+Assessment: Highly Suggestive of Malignancy
 
+Malignancy Probability: ≥ 95%
 
-Biopsy framed as urgent
+Clinical Meaning: The radiologist is highly confident the finding is cancerous based on classic imaging markers.
 
+Imaging Features / Typical Reasons:
 
-Heuristic
-Language nearly identical to BI-RADS 5 but stops short
-→ 4D
-⚠️ Important: 4D is not officially standardized everywhere, so treat it as optional metadata.
-
-BI-RADS 5 – Highly Suggestive of Malignancy
-Meaning
-≥95% likelihood of cancer
-
-
-Classic findings
 Spiculated mass
-
 
 Segmental linear calcifications
 
-
 Skin thickening, nipple retraction
-
 
 Pathologic lymph nodes
 
+EHR / FHIR Text Cues:
 
-FHIR / note cues
-“Highly suggestive of malignancy”
+"Highly suggestive of malignancy"
 
+"Consistent with carcinoma"
 
-“Consistent with carcinoma”
+"Urgent tissue diagnosis recommended"
 
+Clinical Action / Follow-up: * Immediate biopsy target within 24 to 72 hours.
 
-“Urgent tissue diagnosis recommended”
+Absolute maximum review and biopsy timeframe of 1 week.
 
+BI-RADS Category 6
 
-Rule of thumb
-Radiologist is convinced → BI-RADS 5
+Assessment: Known Malignancy
 
-BI-RADS 6 – Known Malignancy
-Meaning
-Cancer already biopsy-proven
+Malignancy Probability: 100% (Proven)
 
+Clinical Meaning: A cancer diagnosis has already been confirmed via biopsy. Current imaging is strictly for staging, surgical planning, or evaluating treatment response.
+
+Imaging Features / Typical Reasons:
+
+Cancer already biopsy-proven prior to imaging
 
 Imaging done for staging or treatment response
 
+EHR / FHIR Text Cues:
 
-FHIR / note cues
-“Known biopsy-proven malignancy”
+"Known biopsy-proven malignancy"
 
+"Status post core biopsy showing..."
 
-“Status post core biopsy showing…”
+Presence of an existing cancer diagnosis in the patient's FHIR Condition resource.
 
+Clinical Action / Follow-up: * Establish or continue cancer treatment plan.
 
-Existing cancer diagnosis in Condition resource
+Referral to Oncology.
 
-
-Rule of thumb
-Diagnosis known before imaging → BI-RADS 6
-
+Conduct a follow-up mammogram 6 to 12 months post-treatment to establish a new baseline and determine future surveillance scheduling.
