@@ -1,6 +1,6 @@
-# MedAudit
+# MedArmor
 
-AI-assisted medical audit for **breast cancer screening compliance**. Compares patient EHR data to clinical guidelines (BI-RADS follow-up, screening intervals) and produces structured audit reports with findings, evidence, and corrective actions. Clinicians use the web UI to run and review audits; Celery Beat runs daily scheduled audits for due patients.
+AI medical audit for **breast cancer screening compliance**. Compares patient EHR data to clinical guidelines (BI-RADS follow-up, screening intervals) and produces structured audit reports with findings, evidence, and corrective actions. Clinicians use the web UI to run and review audits; Celery Beat runs daily scheduled audits for due patients.
 
 ## Tech stack
 
@@ -13,6 +13,21 @@ AI-assisted medical audit for **breast cancer screening compliance**. Compares p
 
 ## Run the demo
 
+### Prerequisites
+
+- [Docker](https://docs.docker.com/get-docker/) and
+  [Docker Compose v2](https://docs.docker.com/compose/install/)
+  - On Ubuntu/Debian: `sudo apt install docker-compose-v2`
+
+### FHIR API
+
+The demo uses a FHIR API at <http://localhost:9080>.
+
+If you do not have a FHIR API server but wish to test, see the
+instructions in [ehr/README.md](./ehr/README.md).
+
+### Setup
+
 1. Copy `.env.example` to `.env` and set required variables (at least `JWT_SECRET_KEY`; for AI set `AUDIT_AI_PROVIDER` and the matching keys: Gemini, OpenAI, or MedGemma/Vertex).
 2. From project root:
 
@@ -20,19 +35,9 @@ AI-assisted medical audit for **breast cancer screening compliance**. Compares p
    docker compose up --build
    ```
 
-3. Open **http://localhost** (UI) and **http://localhost/api** (API). Sign up, then create a screening audit job (single patient or batch) and view reports. See **WORKFLOW.md** for the full flow (services, RAG, scheduled audits).
+3. Open <http://localhost>
+4. Sign in using "chief@medarmor.com" with the credentials in `backend/app/core/database.py` for that user.
 
-## First user
-
-Use the in-app **Sign up** at http://localhost, or register via the auth API. Then create a **New screening audit job** from the patient list.
-
-## Stopping the app
-
-```bash
-docker compose down
-# Remove volumes as well:
-docker compose down -v
-```
 
 ## Development
 

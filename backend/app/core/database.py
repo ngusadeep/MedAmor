@@ -44,11 +44,11 @@ def init_db() -> None:
 
         # Create default Chief Doctor user
         chief_doctor = (
-            db.query(User).filter(User.username == "chief@medaudit.com").first()
+            db.query(User).filter(User.username == "chief@medarmor.com").first()
         )
         if not chief_doctor:
             chief_doctor = User(
-                username="chief@medaudit.com",
+                username="chief@medarmor.com",
                 hashed_password=hash_password("chief123"),
                 role=UserRole.CHIEF_DOCTOR,
             )
@@ -56,10 +56,10 @@ def init_db() -> None:
             db.commit()
 
         # Create default Doctor user
-        doctor = db.query(User).filter(User.username == "doctor@medaudit.com").first()
+        doctor = db.query(User).filter(User.username == "doctor@medarmor.com").first()
         if not doctor:
             doctor = User(
-                username="doctor@medaudit.com",
+                username="doctor@medarmor.com",
                 hashed_password=hash_password("doctor123"),
                 role=UserRole.DOCTOR,
             )

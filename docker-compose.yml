@@ -1,69 +1,11 @@
 # MedAudit Demo – Breast Cancer Screening Audit
 # All config from .env only: copy .env.example to .env and set every variable.
 # Run from project root:  docker compose up --build
-# One Python image (medaudit-app) for backend, worker, beat, and ehr – built once by medaudit_backend.
+# One Python image (medaudit-app) for backend, worker, and beat – built once by medaudit_backend.
+# EHR data service lives in ehr/docker-compose.yml (profile: ehr). To include it:
+#   docker compose -f docker-compose.yml -f ehr/docker-compose.yml --profile ehr_data up --build
 
 services:
-  # ---------- EHR Data Service (same image as backend; runs ehr.server:app) ----------
-  ehr:
-    image: medaudit-app
-    container_name: ehr_service
-    working_dir: /app
-    command: ["uvicorn", "ehr.server:app", "--host", "0.0.0.0", "--port", "8000"]
-    env_file: .env
-    environment:
-      DATABASE_URL: ${EHR_DATABASE_URL}
-      EHR_DATA_PATH: /app/ehr
-      PYTHONPATH: /app:/app/ehr
-    volumes:
-      - ./ehr:/app/ehr:ro
-    depends_on:
-      medaudit_db:
-        condition: service_healthy
-    ports:
-      - "8001:8000"
-    restart: unless-stopped
-
-  # ---------- HAPI FHIR (optional; uncomment if needed) ----------
-  # hapi_db:
-  #   image: postgres:15-alpine
-  #   container_name: hapi_db
-  #   environment:
-  #     POSTGRES_DB: hapi
-  #     POSTGRES_USER: hapi
-  #     POSTGRES_PASSWORD: hapi_dev_password
-  #   volumes:
-  #     - hapi_db_data:/var/lib/postgresql/data
-  #   ports:
-  #     - "5433:5432"
-  #   healthcheck:
-  #     test: ["CMD-SHELL", "pg_isready -U hapi -d hapi"]
-  #     interval: 10s
-  #     timeout: 5s
-  #     retries: 5
-  #   restart: unless-stopped
-
-  # hapi_fhir:
-  #   image: hapiproject/hapi:latest
-  #   container_name: hapi_fhir
-  #   ports:
-  #     - "9080:8080"
-  #   environment:
-  #     SPRING_DATASOURCE_URL: jdbc:postgresql://hapi_db:5432/hapi
-  #     SPRING_DATASOURCE_USERNAME: hapi
-  #     SPRING_DATASOURCE_PASSWORD: hapi1234
-  #     SPRING_DATASOURCE_DRIVER_CLASS_NAME: org.postgresql.Driver
-  #     SPRING_DATASOURCE_HIKARI_CONNECTION_TIMEOUT: "60000"
-  #     SPRING_JPA_PROPERTIES_HIBERNATE_DIALECT: org.hibernate.dialect.PostgreSQLDialect
-  #     SPRING_JPA_HIBERNATE_DDL_AUTO: update
-  #     HAPI_FHIR_FHIR_VERSION: R4
-  #     HAPI_FHIR_OPENAPI_ENABLED: "true"
-  #     HAPI_FHIR_TESTER_HOME_SERVER_ADDRESS: http://localhost:9080/fhir
-  #   depends_on:
-  #     hapi_db:
-  #       condition: service_healthy
-  #   restart: unless-stopped
-
   # ---------- Redis (Celery) ----------
   redis:
     image: redis:7-alpine
@@ -149,8 +91,6 @@ services:
         condition: service_healthy
       redis:
         condition: service_healthy
-      ehr:
-        condition: service_started
     restart: unless-stopped
 
   medaudit_worker:
@@ -193,8 +133,6 @@ services:
       redis:
         condition: service_healthy
       medaudit_backend:
-        condition: service_started
-      ehr:
         condition: service_started
     restart: unless-stopped
 
@@ -239,8 +177,6 @@ services:
         condition: service_healthy
       medaudit_backend:
         condition: service_started
-      ehr:
-        condition: service_started
     restart: unless-stopped
 
   # ---------- MedAudit frontend (UI) ----------
@@ -266,7 +202,6 @@ services:
     restart: unless-stopped
 
 volumes:
-  # hapi_db_data:  # Uncomment if enabling HAPI
   redis_data:
   medaudit_db_data:
   chroma_data:
