@@ -15,7 +15,7 @@ For AI agent testing, the lightweight service is preferred. However, for testing
 ## Option 1: HAPI FHIR Server
 
 ```
-docker compose --profile hapi up
+sudo docker compose --env-file ../.env --profile hapi up
 ```
 
 Note that it can take several minutes without any output before the server
@@ -82,7 +82,7 @@ sudo docker volume rm hapi_db_data
 FastAPI service that serves patient EHR data from a PostgreSQL database.
 
 ```
-docker compose --profile ehr_data up
+sudo docker compose --env-file ../.env --profile ehr_data up
 ```
 
 ### Architecture
