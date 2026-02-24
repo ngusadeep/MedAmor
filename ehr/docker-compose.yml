@@ -3,9 +3,8 @@
 # --profile ehr_data : EHR data service (requires medaudit-app image + medaudit_db)
 # --profile hapi     : HAPI FHIR server + its own Postgres
 #
-# Standalone examples:
-#   docker compose -f ehr/docker-compose.yml --profile hapi up
-#   docker compose -f ehr/docker-compose.yml --profile ehr_data up
+# Run from any directory, explicitly passing the env file:
+#   docker compose -f ehr/docker-compose.yml --env-file .env --profile hapi up
 #
 # Combined with main stack (from project root):
 #   docker compose -f docker-compose.yml -f ehr/docker-compose.yml --profile ehr_data up --build
@@ -27,11 +26,10 @@ services:
       PYTHONPATH: /app:/app/ehr
     volumes:
       - ./:/app/ehr:ro
-    depends_on:
-      medaudit_db:
-        condition: service_healthy
     ports:
       - "8001:8000"
+    networks:
+      - medaudit_default
     restart: unless-stopped
 
   # ---------- HAPI FHIR ----------
@@ -75,6 +73,10 @@ services:
       hapi_db:
         condition: service_healthy
     restart: unless-stopped
+
+networks:
+  medaudit_default:
+    external: true
 
 volumes:
   hapi_db_data:
