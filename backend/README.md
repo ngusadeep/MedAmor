@@ -48,6 +48,18 @@ Tables are created on startup via `init_db()`. If you have an **existing** datab
 ALTER TABLE jobs ADD COLUMN IF NOT EXISTS audit_type VARCHAR(64) NOT NULL DEFAULT 'breast_cancer_screening';
 ```
 
+## Voice dictation (MedASR local)
+
+To use **MedASR (Local)** for voice annotations (`ASR_PROVIDER=medasr_local`):
+
+1. Install dependencies (included in `uv sync`): `transformers`, `torch`, `librosa`.
+2. Install **ffmpeg** on your system (required by librosa for webm/opus decoding):
+   - macOS: `brew install ffmpeg`
+   - Debian/Ubuntu: `apt-get install ffmpeg`
+3. Accept the [google/medasr](https://huggingface.co/google/medasr) model terms on Hugging Face if using that model.
+
+If you see "Local ASR dependencies missing (No module named 'librosa')", run `uv sync` in `backend/` to refresh the environment (and rebuild the Docker image if using Docker).
+
 ## Development
 
 - Python 3.12+

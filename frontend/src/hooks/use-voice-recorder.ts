@@ -10,7 +10,7 @@ interface UseVoiceRecorderOptions {
 
 export function useVoiceRecorder({
   onTranscript,
-  provider = 'medasr',
+  provider = 'medasr_local',
 }: UseVoiceRecorderOptions) {
   const [state, setState] = useState<RecordingState>('idle')
   const [error, setError] = useState<string | null>(null)

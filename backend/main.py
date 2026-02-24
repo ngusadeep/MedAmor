@@ -13,9 +13,16 @@ from app.core.database import init_db
 from app.routers import audit_reports, auth, ehr, jobs, patients, rag, transcribe
 
 
+def _load_medasr_warmup() -> None:
+    from app.services.transcription import _load_local_medasr
+    _load_local_medasr()
+
+
 @asynccontextmanager
 async def lifespan(app: FastAPI):
-    """Startup: create DB tables; ensure RAG KB is indexed (only if new/changed docs in docs/)."""
+    """Startup: create DB tables, index RAG KB, pre-warm local ASR model if configured."""
+    import asyncio
+
     init_db()
     try:
         from app.services import rag
@@ -23,6 +30,20 @@ async def lifespan(app: FastAPI):
         rag.ensure_indexed()
     except Exception:
         pass
+
+    # Pre-warm local MedASR: await the load so the model is fully in memory before
+    # the server begins accepting requests.  The HF cache volume means the download
+    # only happens once; subsequent starts just load from disk (~5-10 s on CPU).
+    if settings.asr_provider == "medasr_local":
+        import logging
+        _log = logging.getLogger(__name__)
+        try:
+            _log.info("Pre-warming local MedASR model…")
+            await asyncio.get_event_loop().run_in_executor(None, _load_medasr_warmup)
+            _log.info("MedASR local model ready.")
+        except Exception as exc:
+            _log.warning("MedASR local warmup failed (first transcription will be slow): %s", exc)
+
     yield
 
 

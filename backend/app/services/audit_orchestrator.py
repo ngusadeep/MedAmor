@@ -62,41 +62,40 @@ TODAY'S DATE: {today_date}
 {sensitivity_directive}
 
 ## Audit Checklist — evaluate each item
-1. **Screening interval**: Has the patient had a mammogram within the guideline-recommended interval (typically every 1–2 years for average risk, annually for high risk)? Calculate the gap in months between the last mammogram and today ({today_date}).
+1. **Screening interval & Rolling Deadlines**: Identify the date of the MOST RECENT mammogram. Infer its BI-RADS category if not explicitly stated (e.g., "improving" but not fully normal = Category 2 or 3).
+   - Add the guideline-required interval (e.g., 12 months for Category 2/Surveillance) to that most recent date to find the NEXT due date.
+   - Compare the NEXT due date to TODAY ({today_date}). If the due date has passed, this is an ACTIVE GAP.
 
 2. **BI-RADS follow-up — CRITICAL**: Look for any BI-RADS score in the imaging results. Apply these MANDATORY deadlines measured from the date of the imaging:
    - BI-RADS 3: repeat mammogram within 6 months
    - BI-RADS 4A (low suspicion): image-guided core biopsy within 2–4 weeks
-   - BI-RADS 4B (moderate suspicion, "irregular mass", "indistinct margins", unspecified BI-RADS 4): image-guided core biopsy within 1–2 weeks
-   - BI-RADS 4C (high suspicion): urgent biopsy within days, no more than 1 week
-   - BI-RADS 5: immediate biopsy within 24–72 hours, no more than 1 week
-   For each BI-RADS 3–5 finding: calculate days elapsed since the imaging date using today's date ({today_date}). If no biopsy or follow-up imaging is documented AND the deadline has passed, that is a gap. If no biopsy is documented AT ALL for BI-RADS 4+, flag it regardless.
+   - BI-RADS 4B/4C/5: urgent biopsy within 1-2 weeks maximum
+   If no biopsy or follow-up imaging is documented AND the deadline has passed relative to {today_date}, that is a gap.
 
-3. **BI-RADS 6 / Known malignancy — CRITICAL**: If the patient has a biopsy-proven cancer diagnosis (BI-RADS 6, or any "Malignant neoplasm" condition listed as active), verify ALL of the following:
-   a. A cancer treatment plan is documented (surgery, chemotherapy, radiation, hormone therapy, or equivalent).
-   b. An oncology referral is documented or an oncologist/specialist is managing the case.
-   c. A surveillance mammogram was performed within 6–12 months after treatment completion.
-   d. Annual surveillance mammograms continue every 12 months after that. Calculate the gap between the most recent mammogram/imaging date and today ({today_date}). If that gap exceeds 12 months, flag it as overdue surveillance.
-   Absence of any of these items IS a gap. Do not assume care occurred if it is not in the record.
-
-4. **Cancer diagnosis follow-up**: If cancer was detected or suspected, was there timely biopsy, staging, and treatment initiation? Were follow-up imaging and oncology referrals completed?
-
-5. **Risk assessment**: Is the patient's risk level (family history, BRCA, prior findings) documented? Does the screening schedule match the risk level?
-
-6. **Documentation completeness**: Are mammography results, pathology, and follow-up plans documented?
+3. **BI-RADS 6 / Known malignancy & Surveillance — CRITICAL**: If the patient has a biopsy-proven cancer diagnosis:
+   a. Verify a cancer treatment plan is documented.
+   b. Verify an oncology referral is documented.
+   c. Verify a surveillance mammogram occurred 6–12 months after treatment completion.
+   d. ONGOING SURVEILLANCE: Annual mammograms must continue every 12 months indefinitely. Calculate the months elapsed between the MOST RECENT mammogram and TODAY ({today_date}). If this gap exceeds 12 months, flag it as "Overdue annual surveillance".
 
 ## Rules
-- **Evaluate current status only.** An item that was completed — even if it was completed late — is NOT a gap. Only flag things that are still outstanding and unresolved as of today ({today_date}).
-- **Do not penalise resolved history.** If a biopsy was overdue but was eventually performed, or a mammogram was overdue but was eventually done, that item is resolved. Do not list it in "gaps".
-- **Close calls.** If a required action was completed but was late (past its guideline deadline at the time it was done), record it in "close_calls" with a brief description of what was done and how late it was. This is for quality-improvement tracking, not for compliance scoring.
-- Absence of evidence of a completed biopsy or follow-up IS still a gap — only resolved when you can see the completion in the record.
-- For each gap, assign confidence (how certain you are this is a real gap, 0.0–1.0) and harm_severity (potential patient harm if unaddressed, 0.0–1.0). BI-RADS 4+ without biopsy = harm_severity at least 0.8.
+- **Evaluate current status only.** If an item is currently overdue as of {today_date}, it is a gap.
+- **Close calls.** If a past action was completed late, record it in "close_calls" (e.g., "First surveillance mammogram done 12 months late"). This does not count as an active gap.
+- Absence of evidence of a completed scan or biopsy IS an active gap.
 
-Return ONLY a JSON object (no markdown fences, no explanation outside the JSON) with exactly these keys:
-- "compliant": boolean (false only if there are active, unresolved gaps; resolved-but-late items do NOT make this false)
+Return ONLY a JSON object (no markdown fences, no explanation outside the JSON).
+IMPORTANT: You MUST start your JSON with a "_thought_process" array. You must do the following math for every patient:
+- "The most recent mammogram was on [Date]."
+- "The results indicated [Status/Category], which requires a follow-up in [X months]."
+- "Adding [X months] to [Date] makes the next scan due on [Due Date]."
+- "Since today is {today_date}, this scan is [Overdue / Not Overdue]."
+
+Your JSON must contain exactly these keys in this order:
+- "_thought_process": array of strings (briefly summarizing the steps outlined above)
+- "compliant": boolean (false only if there are active, unresolved gaps)
 - "gaps": array of strings, each describing one currently outstanding care gap
-- "close_calls": array of strings, each describing an item that was resolved but was completed late — include what was done and how late (e.g. "BI-RADS 4A biopsy performed 6 weeks after imaging, exceeding the 2–4 week guideline")
-- "evidence": array of objects, each with "guideline" (string: which guideline applies), "violation" (string: what is missing or overdue), "confidence" (float 0.0-1.0), "harm_severity" (float 0.0-1.0)
+- "close_calls": array of strings
+- "evidence": array of objects: "guideline" (string), "violation" (string), "confidence" (float 0.0-1.0), "harm_severity" (float 0.0-1.0)
 """,
     "general": """You are an expert Medical Auditor. Audit the Patient History against the provided Clinical Guidelines.
 

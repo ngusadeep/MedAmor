@@ -26,51 +26,77 @@ import httpx
 
 from app.core.config import settings
 
-if TYPE_CHECKING:
-    from transformers import Pipeline  # noqa: F401
-
 logger = logging.getLogger(__name__)
 
 # ---------------------------------------------------------------------------
-# Local pipeline – lazy singleton, thread-safe
+# Local MedASR – lazy singleton (processor + model), thread-safe
+# We use AutoProcessor + AutoModelForCTC instead of the ASR pipeline to avoid
+# a transformers 5.2 bug where the pipeline passes an extra "center" argument
+# to LasrFeatureExtractor._torch_extract_fbank_features() (TypeError: 4 given, 2-3 expected).
+# Model card: https://huggingface.co/google/medasr
 # ---------------------------------------------------------------------------
 
-_local_pipeline: "Pipeline | None" = None
+_local_processor = None
+_local_model = None
+_local_model_id: str | None = None
 _pipeline_lock = threading.Lock()
 
 
-def _load_local_pipeline() -> "Pipeline":
-    """Load (and cache) the local HuggingFace ASR pipeline.
+def _patch_lasr_feature_extractor() -> None:
+    """Monkey-patch LasrFeatureExtractor for transformers 5.2.x compatibility.
 
-    Called from a thread-pool executor so it never blocks the async event loop.
-    Double-checked locking ensures the model is loaded exactly once even under
-    concurrent requests.
-
-    Uses google/medasr per the model card:
-      pipe = pipeline("automatic-speech-recognition", model="google/medasr")
+    In transformers 5.2.0 the __call__ method passes a `center` positional arg
+    to _torch_extract_fbank_features, but the method signature only accepts
+    (self, waveform, device).  This was fixed in main but not yet released.
+    The patch wraps the method to silently absorb the extra argument.
     """
-    global _local_pipeline
-    if _local_pipeline is not None:
-        return _local_pipeline
+    try:
+        import inspect
+        from transformers.models.lasr.feature_extraction_lasr import LasrFeatureExtractor
+
+        sig = inspect.signature(LasrFeatureExtractor._torch_extract_fbank_features)
+        if "center" not in sig.parameters:
+            _orig = LasrFeatureExtractor._torch_extract_fbank_features
+
+            def _patched(self, waveform, device="cpu", center=None, **kw):  # noqa: ANN001
+                return _orig(self, waveform, device)
+
+            LasrFeatureExtractor._torch_extract_fbank_features = _patched  # type: ignore[method-assign]
+            logger.info("Applied LasrFeatureExtractor patch (transformers 5.2.x compat)")
+    except Exception as exc:  # pragma: no cover
+        logger.warning("Could not apply LasrFeatureExtractor patch: %s", exc)
+
+
+def _load_local_medasr() -> tuple:
+    """Load (and cache) processor and model for google/medasr.
+
+    Returns (processor, model). Uses AutoProcessor + AutoModelForCTC per the
+    model card. Also applies a one-time patch for transformers 5.2.x.
+    """
+    global _local_processor, _local_model, _local_model_id
+    if _local_processor is not None and _local_model is not None:
+        return _local_processor, _local_model
 
     with _pipeline_lock:
-        if _local_pipeline is not None:
-            return _local_pipeline
+        if _local_processor is not None and _local_model is not None:
+            return _local_processor, _local_model
 
-        from transformers import pipeline as hf_pipeline
+        from transformers import AutoModelForCTC, AutoProcessor
+
+        # Patch the LASR feature extractor before loading so any internal
+        # call to _torch_extract_fbank_features gets the correct signature.
+        _patch_lasr_feature_extractor()
 
         model_id = settings.medasr_local_model or "google/medasr"
         device = settings.medasr_local_device or "cpu"
 
         logger.info("Loading local ASR model '%s' on device '%s'…", model_id, device)
-        _local_pipeline = hf_pipeline(
-            "automatic-speech-recognition",
-            model=model_id,
-            device=device,
-        )
+        _local_processor = AutoProcessor.from_pretrained(model_id)
+        _local_model = AutoModelForCTC.from_pretrained(model_id).to(device)
+        _local_model_id = model_id
         logger.info("Local ASR model loaded: %s", model_id)
 
-    return _local_pipeline
+    return _local_processor, _local_model
 
 
 def _decode_audio_with_librosa(audio_bytes: bytes, content_type: str):
@@ -113,31 +139,66 @@ def _decode_audio_with_librosa(audio_bytes: bytes, content_type: str):
     return audio_array, sample_rate
 
 
-def _run_local_inference(audio_bytes: bytes, content_type: str) -> str:
-    """Synchronous local inference: decode → pipeline → transcript.
+def _ctc_collapse(ids: list[int]) -> list[int]:
+    """Apply CTC post-processing: collapse consecutive identical token IDs.
 
-    Matches the usage shown in the MedASR model card:
-      result = pipe(audio, chunk_length_s=20, stride_length_s=2)
+    CTC output is a sequence of per-frame labels where the same label repeated
+    across adjacent frames means a single emitted token (not two identical ones).
+    This step must happen *before* the tokenizer decodes IDs into text, because
+    the tokenizer has no knowledge of which IDs are CTC duplicates vs. genuinely
+    separate tokens.
+    """
+    import itertools
+    # groupby keeps the first element of each run of identical values
+    return [k for k, _ in itertools.groupby(ids)]
+
+
+def _run_local_inference(audio_bytes: bytes, content_type: str) -> str:
+    """Synchronous local inference: decode → CTC logits → greedy argmax → transcript.
+
+    CTC decoding pipeline:
+      1. logits  = model(**inputs).logits       (batch, time, vocab)
+      2. ids     = argmax(logits, dim=-1)        greedy label per frame
+      3. ids     = _ctc_collapse(ids)            collapse consecutive duplicates
+      4. text    = tokenizer.decode(ids, skip_special_tokens=True)
+                                                 remove blank / EOS tokens
+
+    The LASR tokenizer does not apply step 3 internally, so we must do it
+    before calling decode, otherwise each CTC emission becomes a repeated
+    word (e.g. "so so so", "goinging", "inffforormmmation").
 
     Runs in a thread-pool executor (called via asyncio.run_in_executor).
     """
+    import numpy as np
+    import torch
+
     audio_array, sample_rate = _decode_audio_with_librosa(audio_bytes, content_type)
+    speech = np.asarray(audio_array, dtype=np.float32)
 
-    pipe = _load_local_pipeline()
+    processor, model = _load_local_medasr()
+    device = settings.medasr_local_device or "cpu"
 
-    # chunk_length_s=20, stride_length_s=2 per the google/medasr model card
-    result = pipe(
-        {"array": audio_array, "sampling_rate": sample_rate},
-        chunk_length_s=20,
-        stride_length_s=2,
+    inputs = processor(
+        speech,
+        sampling_rate=sample_rate,
+        return_tensors="pt",
+        padding=True,
     )
+    inputs = {k: v.to(device) for k, v in inputs.items()}
 
-    if isinstance(result, dict):
-        return (result.get("text") or "").strip()
-    if isinstance(result, list) and result:
-        first = result[0]
-        return (first.get("text") or "" if isinstance(first, dict) else str(first)).strip()
-    return str(result).strip()
+    with torch.no_grad():
+        logits = model(**inputs).logits  # (batch, time, vocab)
+
+    predicted_ids = torch.argmax(logits, dim=-1)  # (batch, time)
+
+    # Apply CTC collapse per sequence, then decode
+    results: list[str] = []
+    for seq in predicted_ids:
+        collapsed = _ctc_collapse(seq.tolist())
+        text = processor.tokenizer.decode(collapsed, skip_special_tokens=True)
+        results.append(text.strip())
+
+    return results[0] if results else ""
 
 
 # ---------------------------------------------------------------------------
@@ -217,7 +278,7 @@ async def _transcribe_medasr(audio_bytes: bytes, content_type: str) -> str:
 
 
 async def _transcribe_medasr_local(audio_bytes: bytes, content_type: str) -> str:
-    """Run google/medasr locally via transformers pipeline.
+    """Run google/medasr locally via AutoProcessor + AutoModelForCTC.
 
     Model inference is CPU-bound, so we offload it to a thread-pool executor to
     avoid blocking the async event loop.

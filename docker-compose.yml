@@ -86,6 +86,9 @@ services:
     volumes:
       - chroma_data:/app/chroma_data
       - ./docs/Medical_KB:/app/docs/Medical_KB:ro
+      # Persist the HuggingFace model cache across rebuilds so google/medasr
+      # (~500 MB) is only downloaded once, not on every docker compose --build.
+      - hf_cache:/root/.cache/huggingface
     depends_on:
       medaudit_db:
         condition: service_healthy
@@ -205,3 +208,4 @@ volumes:
   redis_data:
   medaudit_db_data:
   chroma_data:
+  hf_cache:

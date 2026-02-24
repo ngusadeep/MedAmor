@@ -20,8 +20,8 @@ import {
 } from '@/components/ui/card'
 import { Badge } from '@/components/ui/badge'
 import { Button } from '@/components/ui/button'
-import { Input } from '@/components/ui/input'
 import { Label } from '@/components/ui/label'
+import { Textarea } from '@/components/ui/textarea'
 import {
   getAuditReport,
   listReportAnnotations,
@@ -37,7 +37,7 @@ export function ReportDetailPage() {
   const queryClient = useQueryClient()
   const [annoFindingIndex, setAnnoFindingIndex] = useState(0)
   const [annoNote, setAnnoNote] = useState('')
-  const [asrProvider, setAsrProvider] = useState<ASRProvider>('medasr')
+  const [asrProvider, setAsrProvider] = useState<ASRProvider>('medasr_local')
   const { data: report, isLoading, error } = useQuery({
     queryKey: ['audit-report', reportId],
     queryFn: () => getAuditReport(reportId),
@@ -286,7 +286,7 @@ export function ReportDetailPage() {
                 </ul>
               )}
               <form
-                className='flex flex-wrap gap-3 items-end'
+                className='space-y-3'
                 onSubmit={(e) => {
                   e.preventDefault()
                   if (!annoNote.trim()) return
@@ -296,36 +296,31 @@ export function ReportDetailPage() {
                   })
                 }}
               >
-                <div className='grid gap-1.5'>
-                  <Label htmlFor='anno_finding'>Finding</Label>
-                  <select
-                    id='anno_finding'
-                    className='flex h-9 w-24 rounded-md border border-input bg-transparent px-3 py-1 text-sm shadow-sm'
-                    value={annoFindingIndex}
-                    onChange={(e) => setAnnoFindingIndex(Number(e.target.value))}
-                  >
-                    {findings.length === 0 ? (
-                      <option value={0}>0 (general)</option>
-                    ) : (
-                      findings.map((_, i) => (
-                        <option key={i} value={i}>
-                          #{i}
-                        </option>
-                      ))
-                    )}
-                  </select>
+                <div className='flex flex-wrap gap-3'>
+                  <div className='grid gap-1.5'>
+                    <Label htmlFor='anno_finding'>Finding</Label>
+                    <select
+                      id='anno_finding'
+                      className='flex h-9 w-28 rounded-md border border-input bg-transparent px-3 py-1 text-sm shadow-sm focus:outline-none focus:ring-1 focus:ring-ring'
+                      value={annoFindingIndex}
+                      onChange={(e) => setAnnoFindingIndex(Number(e.target.value))}
+                    >
+                      {findings.length === 0 ? (
+                        <option value={0}>0 (general)</option>
+                      ) : (
+                        findings.map((_, i) => (
+                          <option key={i} value={i}>
+                            Finding #{i}
+                          </option>
+                        ))
+                      )}
+                    </select>
+                  </div>
                 </div>
-                <div className='grid gap-1.5 flex-1 min-w-[200px]'>
-                  <Label htmlFor='anno_note'>Note</Label>
-                  <div className='flex items-center gap-2'>
-                    <Input
-                      id='anno_note'
-                      value={annoNote}
-                      onChange={(e) => setAnnoNote(e.target.value)}
-                      placeholder='Reviewer note… or use the mic to dictate'
-                      disabled={createAnnotation.isPending}
-                      className='flex-1'
-                    />
+
+                <div className='grid gap-1.5'>
+                  <div className='flex items-center justify-between'>
+                    <Label htmlFor='anno_note'>Reviewer note</Label>
                     <VoiceDictationButton
                       provider={asrProvider}
                       onProviderChange={setAsrProvider}
@@ -337,10 +332,21 @@ export function ReportDetailPage() {
                       disabled={createAnnotation.isPending}
                     />
                   </div>
+                  <Textarea
+                    id='anno_note'
+                    value={annoNote}
+                    onChange={(e) => setAnnoNote(e.target.value)}
+                    placeholder='Type your note or tap the mic to dictate…'
+                    disabled={createAnnotation.isPending}
+                    rows={3}
+                    className='resize-none'
+                  />
                 </div>
+
                 <Button
                   type='submit'
                   disabled={!annoNote.trim() || createAnnotation.isPending}
+                  className='w-full sm:w-auto'
                 >
                   {createAnnotation.isPending ? 'Adding…' : 'Add annotation'}
                 </Button>
