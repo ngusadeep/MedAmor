@@ -21,7 +21,7 @@ AI medical audit for **breast cancer screening compliance**. Compares patient EH
 
 ### FHIR API
 
-The demo uses a FHIR API at <http://localhost:9080>.
+The demo uses a FHIR API at <http://localhost:8001>.
 
 If you do not have a FHIR API server but wish to test, see the
 instructions in [ehr/README.md](./ehr/README.md).
