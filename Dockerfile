@@ -22,6 +22,7 @@ RUN --mount=type=cache,target=/root/.cache/uv \
 # Backend app
 COPY backend/main.py ./
 COPY backend/app/ ./app/
+COPY backend/scripts/ ./scripts/
 
 RUN --mount=type=cache,target=/root/.cache/uv \
     uv sync --frozen

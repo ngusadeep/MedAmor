@@ -38,6 +38,18 @@ instructions in [ehr/README.md](./ehr/README.md).
 3. Open <http://localhost>
 4. Sign in using "chief@medarmor.com" with the credentials in `backend/app/core/database.py` for that user.
 
+
+#### Triggering audits
+
+If you have a live FHIR server, it is possible to run the "cronjob" script to identify patients that trigger audits for those patients by the AI agent. This can be run using:
+
+```bash
+docker exec medaudit_backend python scripts/find_patients_due_for_audit.py --lastrun 2026-01-01T00:00:00Z --trigger --password chief123
+```
+
+Currently this is only run manually, but it could easily be adapted to run automatically at a set interval.
+
+
 #### Pre-processed data
 
 If you wish to load pre-processed results for the 2 failure cases, run `scripts/seed_demo_data.py`
